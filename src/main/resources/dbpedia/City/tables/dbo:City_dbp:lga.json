@@ -1,0 +1,34 @@
+[ {
+  "entityIndex" : "1_entity14500",
+  "entityUrl" : "http://dbpedia.org/resource/Cooee,_Tasmania",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:lga" : [ "City of Burnie" ]
+  },
+  "words" : [ "small", "dormitory", "2011", "north-west", "immediately", "Burnie", "Super", "west", "559", "North", "town", "Tasmania", "West", "Cooee", "GP", ",", ".", "population", "Clinic", "coast", "Pathology", "effect", "census", "pharmacy", "suburb", "located", "well" ],
+  "adjectives" : [ "small", "located", "north-west", "North" ],
+  "nouns" : [ "coast", "town", "effect", "dormitory", "census", "west", "pharmacy", "suburb", "GP", "population" ],
+  "text" : "Cooee is a small town on the north-west coast of Tasmania immediately west of Burnie, to which it is in effect a dormitory suburb. At the 2011 census, Cooee had a population of 559. The Burnie GP Super Clinic is located in Cooee as well as a pharmacy and North West Pathology."
+}, {
+  "entityIndex" : "2_entity15994",
+  "entityUrl" : "http://dbpedia.org/resource/Ecco_Ripley",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:lga" : [ "http://dbpedia.org/resource/City_of_Ipswich" ]
+  },
+  "words" : [ "suburbs", "master-planned", "housing", "south", "rural", "Ecco", "planned", "northern", "Ipswich", "biggest", "lies", "largest-ever", "Deebing", "five", "Heights", "new", "catchment", "development", "centre", "includes", "City", ",", "community", "'s", "Range", "water", "Ripley", ".", "master", "existing", "site", "foothills", "Teviot", "Creek", "kilometres", "Australia", "Bundamba", "Queensland" ],
+  "adjectives" : [ "new", "master-planned", "rural", "largest-ever", "northern" ],
+  "nouns" : [ "catchment", "development", "site", "housing", "centre", "City", "community", "water", "master" ],
+  "text" : "Ecco Ripley is a new, master-planned community in the City of Ipswich, Queensland, Australia. It will be Queensland's biggest housing development and Australia's largest-ever master planned community. The site lies in the northern foothills of the Teviot Range in the Bundamba Creek water catchment about five kilometres south of the centre of Ipswich. It includes development of the existing suburbs of Deebing Heights and rural Ripley. The Green Building Council of Australia rated the Ecco Ripley development with a Green Star, a first in Queensland."
+}, {
+  "entityIndex" : "3_entity28367",
+  "entityUrl" : "http://dbpedia.org/resource/Tomakin,_New_South_Wales",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:lga" : [ "Local Government Area of Eurobodalla" ]
+  },
+  "words" : [ "small", "Broulee", "New", "-LRB-", "access", "south", "Wales", "2011", "major", "along", "provides", "Batemans", "River", "Ocean", "village", "Tomakin", "closely", "villages", "town", "flanked", "Mossy", "ramp", "South", "adjacent", "also", "Point", ",", "people", ".", "Guerilla", "boat", "population", "Tomaga", "coast", "mouth", "seaside", "Pacific", "towns", "-RRB-", "888", "located", "Bay", "Moruya" ],
+  "adjectives" : [ "small", "seaside", "major", "south", "located", "adjacent" ],
+  "nouns" : [ "coast", "mouth", "access", "town", "ramp", "village", "boat", "population" ],
+  "text" : "Tomakin is a small seaside village on the south coast of New South Wales between the major towns of Batemans Bay and Moruya. It is more closely flanked by the other small villages of Guerilla Bay and Mossy Point (adjacent to Broulee). In 2011, the town had a population of 888 people. It is also located at the mouth of the Tomaga River which, along with the boat ramp at Mossy Point, provides access to the Pacific Ocean."
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "entityIndex" : "1_entity26788",
+  "entityUrl" : "http://dbpedia.org/resource/Seri_Kembangan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:janRecordLowC" : [ "18" ]
+  },
+  "words" : [ "New", "Serdang", "town", "Village", "city", "Malaysia", ",", "northern", "-", "Seri", ".", "Selangor", "Expressway", "considerable", "known", "size", "Kembangan", "located", "end", "near", "Southern", "formerly", "Route", "PLUS" ],
+  "adjectives" : [ "considerable", "located", "northern" ],
+  "nouns" : [ "town", "size", "city", "end" ],
+  "text" : "Seri Kembangan, formerly known as Serdang New Village, is a town located in Selangor, Malaysia. The town is now a considerable city in size - it is located near the northern end of the PLUS Expressway Southern Route ."
+}, {
+  "entityIndex" : "2_entity14597",
+  "entityUrl" : "http://dbpedia.org/resource/Ciudad_Guadalupe_Victoria",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:janRecordLowC" : [ "-13" ]
+  },
+  "words" : [ "Guadalupe", "Municipality", "city", "Victoria", "2010", "Ciudad", ",", ".", "population", "seat", "Durango", "north-western", "Mexico", "state", "16,506" ],
+  "adjectives" : [ "north-western" ],
+  "nouns" : [ "seat", "city", "state", "population" ],
+  "text" : "Ciudad Guadalupe Victoria  is a city and seat of Guadalupe Victoria Municipality, in the state of Durango, north-western Mexico. As of 2010, the city of Guadalupe Victoria had a population of 16,506."
+}, {
+  "entityIndex" : "3_entity24854",
+  "entityUrl" : "http://dbpedia.org/resource/Peppeganj",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:janRecordLowC" : [ "-3" ]
+  },
+  "words" : [ "22", "border", "Uttar", "km", "away", "town", "Gorakhpur", ",", ".", "India", "Pradesh", "NH-29", "Peppeganj", "district", "located", "60", "Nepal" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "border", "km", "town", "NH-29", "district" ],
+  "text" : "Peppeganj is a town in Gorakhpur district, Uttar Pradesh, India It is located on the NH-29 .It is 22 km away from Gorakhpur and 60 km from Nepal border."
+}, {
+  "entityIndex" : "4_entity19385",
+  "entityUrl" : "http://dbpedia.org/resource/Kamshet",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:janRecordLowC" : [ "4.8" ]
+  },
+  "words" : [ "small", "45", "accessible", "surrounded", "-LRB-", "beauty", "Lonavala", "Maval", "attract", "main", "scenic", "Mumbai", "around", "110", "Kamshet", "reeds", "road", "Bombay", "thatch", "70", "immense", "state", "Maharashtra", "twin", "Khandala", "area", "km", "villages", "16", "built", "rail", "City", "stations", ",", "people", ".", "India", "home", "market", "hill", "traditional", "district", "-RRB-", "located", "Pune", "style", "60", "mud" ],
+  "adjectives" : [ "small", "accessible", "traditional", "located", "immense", "main", "scenic", "twin" ],
+  "nouns" : [ "area", "km", "beauty", "rail", "home", "market", "hill", "road", "thatch", "district", "style", "state", "mud" ],
+  "text" : "Kamshet is located in Pune district in the state of Maharashtra, India, 110 km from Mumbai City, and 45 km from Pune in Pune district. It is 16 km from the twin hill stations of Khandala and Lonavala and is accessible by road and rail from Mumbai (Bombay) and Pune. Kamshet is surrounded by immense scenic beauty, and is home to small villages that are built in the traditional style (with mud, thatch and reeds).Maval is the main market of area and attract people from around 60 to 70 villages. On every Tuesday, a vegetable market is set up where the people from Kamshet and neighbouring areas visit."
+} ]

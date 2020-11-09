@@ -1,0 +1,56 @@
+[ {
+  "entityIndex" : "1_entity25665",
+  "entityUrl" : "http://dbpedia.org/resource/Rajpur,_Baroda",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:populationFootnotes" : [ "†" ]
+  },
+  "words" : [ "Rajput", "Rajpur", "Mansinhji", "lord", "bank", "state", "Fatehsinhji", "last", "princely", "Thakur", "Jaladhar", "Saheb", "Mahisagar", "history", ",", ".", "Baroda", "associated", "Indian", "located", "river", "family", "royal", "Mahadevaji", "Shree" ],
+  "adjectives" : [ "last", "princely", "Indian", "located" ],
+  "nouns" : [ "bank", "lord", "state", "river", "history", "family", "royal" ],
+  "text" : "Rajpur, Baroda was an Indian princely state located on the bank of river Mahisagar. Thakur Saheb Shree Mansinhji Fatehsinhji was the last Thakur Saheb of Rajpur. The history of the Rajput royal family is associated with lord Jaladhar Mahadevaji."
+}, {
+  "entityIndex" : "2_entity28534",
+  "entityUrl" : "http://dbpedia.org/resource/Urban_neighbourhoods_of_Sudbury",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:populationFootnotes" : [ "http://dbpedia.org/resource/Statistics_Canada" ]
+  },
+  "words" : [ "city", "Rayside-Balfour", "Sudbury", "see", "suburban", "fall", "pre-2001", "limits", "--", "neighbourhoods", "within", "Capreol", "includes", "list", ",", "Centre", ".", "former", "municipalities", "Falls", "core", "urban", "Walden", "Valley", "Onaping", "Greater", "Nickel", "Ontario", "articles", "East", "communities" ],
+  "adjectives" : [ "suburban", "urban", "pre-2001", "former" ],
+  "nouns" : [ "core", "city", "list" ],
+  "text" : "This is a list of neighbourhoods in the urban core of Greater Sudbury, Ontario. This list includes only those neighbourhoods that fall within the pre-2001 city limits of Sudbury — for communities within the former suburban municipalities, see the articles Capreol, Nickel Centre, Onaping Falls, Rayside-Balfour, Valley East and Walden."
+}, {
+  "entityIndex" : "3_entity16469",
+  "entityUrl" : "http://dbpedia.org/resource/First_Ward,_Binghamton",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:populationFootnotes" : [ "https://web.archive.org/web/20080209001659/http:/factfinder.census.gov/servlet/SAFFFacts?_event=Search&geo_id=&_geoContext=&_street=&_county=11220&_cityTown=11220&_state=&_zip=11220&_lang=en&_sse=on&pctxt=fph&pgsl=010" ]
+  },
+  "words" : [ "``", "New", "Dickinson", "section", "main", "Ely", "west", "Street", "First", "Southern", "drag", "defined", "train", "area", "town", "Glenwood", "City", ",", "'s", "Clinton", "Market", ".", "Park", "Ave", "Ward", "State", "buildings", "Airport", "name", "neighborhood", "western", "East", "Bridge", "Norfolk", "York", "city", "south", "north", "neighboring", "primarily", "retail", "Chenango", "east", "along", "pockets", "River", "village", "foot", "''", "encompassing", "Johnson", "Road", "tracks", "industrial", "residential", "urban", "Binghamton", "implies", "runs" ],
+  "adjectives" : [ "industrial", "east", "residential", "urban", "main", "western", "retail" ],
+  "nouns" : [ "area", "town", "city", "north", "name", "west", "section", "neighborhood", "drag", "village", "foot", "train" ],
+  "text" : "The First Ward, as the name implies, is a neighborhood in the western section of the New York State city of Binghamton. It is primarily an urban residential neighborhood with retail along Clinton Street and pockets of industrial buildings along the train tracks. The First Ward can be defined as encompassing the area north of the Norfolk Southern tracks, east of the neighboring village of Johnson City along Market Street and Airport Road, west of the Chenango River and south of the Binghamton Ely Park neighborhood and the town of Dickinson. The area's \"main drag\" is Clinton Street to Glenwood Ave, it runs from the foot of the East Clinton Street Bridge west and into Johnson City. The eastern section of Clinton Street is known as Antique Row due to the high concentration of antique shops in that short stretch. The remainder of the street is lined with retail, consisting of several large supermarkets, churches, pharmacies, bank branches, a few bars and restaurants as well as a few mom and pop shops which contrast the antique stores and provide such goods as video games and music."
+}, {
+  "entityIndex" : "4_entity23373",
+  "entityUrl" : "http://dbpedia.org/resource/Naugarh",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:populationFootnotes" : [ "http://dbpedia.org/resource/Buddam_sarnum_gachame" ]
+  },
+  "words" : [ "Uttar", "town", "one", ",", ".", "India", "Kapilvastu", "headquarters", "Sabha", "constituencies", "Vidhan", "Pradesh", "district", "five", "renamed", "Naugarh", "Siddharthnagar" ],
+  "adjectives" : [ ],
+  "nouns" : [ "headquarters", "town", "district" ],
+  "text" : "Naugarh is a town and the district headquarters of Siddharthnagar in Uttar Pradesh, India. It is one of the five Vidhan Sabha constituencies in Siddharthnagar district and has been renamed Kapilvastu."
+}, {
+  "entityIndex" : "5_entity18173",
+  "entityUrl" : "http://dbpedia.org/resource/Huaquechula",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:populationFootnotes" : [ "Municipality" ]
+  },
+  "words" : [ "``", "sorghum", "cabo", "year", "corn", "moved", "del", "peanuts", "agricultural", "far", "members", "state", "raising", "dedicated", "Municipality", "town", "Dead", "1110", "dates", ",", "community", ".", "twice", "Huaquechula", "traditions", "even", "altars", "año", "Cross", "least", "back", "Feast", "crops", "died", "settlement", "founding", "current", "central", "Puebla", "known", "related", "today", "Since", "handcrafts", "''", "CE", "previous", "center", "although", "located", "Mexico", "well", "location", "family", "Day" ],
+  "adjectives" : [ "current", "central", "agricultural", "previous", "located" ],
+  "nouns" : [ "sorghum", "town", "year", "corn", "center", "Feast", "community", "settlement", "founding", "today", "location", "state", "family", "Day" ],
+  "text" : "Huaquechula is a town in Huaquechula Municipality located in state of Puebla in central Mexico. The settlement dates back at least as far as 1110 CE although its center has moved to twice to its current location. Since its founding, it has been an agricultural community, today raising crops such as peanuts, corn and sorghum, although there are some handcrafts as well. The town is known for its traditions related to the Feast of the Cross, but even more so for its “cabo del año” altars on Day of the Dead, which are dedicated to family members who have died during the previous year. These have been declared a cultural heritage of the state of Puebla and bring tourists to the town, mostly from Puebla."
+} ]

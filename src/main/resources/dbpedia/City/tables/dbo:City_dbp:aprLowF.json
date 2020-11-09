@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity22389",
+  "entityUrl" : "http://dbpedia.org/resource/Mohania",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:aprLowF" : [ "70" ]
+  },
+  "words" : [ "Bihar", "city", "serves", "north", "National", "road", "Bhabua", "intersection", "state", "30", "km", "14", "17", "Highway", ",", ".", "sub-division", "originates", "headquarters", "2", "Kaimur", "State", "district", "Indian", "Mohania" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "headquarters", "km", "city", "road", "district", "north", "intersection", "state", "sub-division" ],
+  "text" : "Mohania is a city in Kaimur district in the Indian state of Bihar. It serves as headquarters for the Mohania sub-division in Kaimur district. It is 17 km by road north of the city of Bhabua, at the intersection of National Highway 2 and State Highway 14. National Highway 30 originates from Mohania. Mohania is the hub of transport routes in Kaimur district. The famous temple Mundeshawari Devi is situated in Kaimur district. The city is on the bank of Durgavati River in south."
+}, {
+  "entityIndex" : "2_entity22410",
+  "entityUrl" : "http://dbpedia.org/resource/Morh_Kfarsghab",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:aprLowF" : [ "55" ]
+  },
+  "words" : [ "ˈmurħ", "-LSB-", "Zgharta", "-LRB-", "seasonal", "Kfarsghab", "Kafarsghab", "Mrah", "Governorate", "winter", "Kfar", "mountain", "Arabic", "known", "كفرصغاب", "agricultural", "Sghab", "Murh", "North", "Morh", "village", "Kfarseghab", "kafarsˤiˈɣaːb", "pronounced", "still", "dwellings", "also", ",", "people", ".", "practised", "Lebanon", "Mediterranean", "transhumance", "pastoral", "organization", "-RRB-", "typical", "مرح", "-RSB-", "located", ":", "fixed", ";", "District", "communities" ],
+  "adjectives" : [ "ˈmurħ", "Mediterranean", "pronounced", "agricultural", "seasonal", "typical", "located" ],
+  "nouns" : [ "kafarsˤiˈɣaːb", "transhumance", "mountain", "pastoral", "organization", "winter", "village" ],
+  "text" : "Morh Kfarsghab ( known also as Morh Kfar Sghab, Murh Kafarsghab or Mrah Kfarseghab; Arabic: مرح كفرصغاب‎‎, pronounced [ˈmurħ kafarsˤiˈɣaːb] ) is a village located in the Zgharta District in the North Governorate of Lebanon. Murh Kfarsghab is the winter dwellings of the people of the mountain village of Kfarsghab. It is a typical organization of pastoral and agricultural Mediterranean communities where seasonal fixed transhumance is still practised."
+} ]

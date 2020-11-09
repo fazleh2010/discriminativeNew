@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity2520",
+  "entityUrl" : "http://dbpedia.org/resource/Clare_Mountbatten,_Marchioness_of_Milford_Haven",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:issue" : [ "Henry Mountbatten, Earl of Medina", "Lady Tatiana Mountbatten", "Harry David Wentworth-Stanley", "James Wentworth-Stanley", "Louisa Wentworth-Stanley", "Step Children:" ]
+  },
+  "words" : [ "New", "Haven", "-LRB-", "September", "York", "held", "Clare", "Marchioness", "Tatler", "player", "Social", "British", "Mountbatten", "Milford", "born", "aristocrat", "City", ",", "Husted", ".", "journalist", "2", "1960", "polo", "-RRB-", "position", "magazine", "Editor" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "journalist", "polo", "aristocrat", "position", "magazine", "player" ],
+  "text" : "Clare Husted Mountbatten, Marchioness of Milford Haven (born 2 September 1960 in New York City), is a British aristocrat, journalist and polo player. She held the position of Social Editor for Tatler magazine.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity3116",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_Ernest_of_Stolberg-Wernigerode",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:issue" : [ "http://dbpedia.org/resource/Henry_Ernest_of_Stolberg-Wernigerode" ]
+  },
+  "words" : [ "Oktober", "die", "Grafschaft", "-LRB-", "25", "Harz", "seit", "unter", "bis", "unmittelbarer", "Graf", "1710", "stehende", "von", "1771", "Gedern", "Brandenburg-Preußens", "1714", "†", "Ernst", "im", "regierte", "über", "*", "1691", ".", "April", "Oberhoheit", "2", "Christian", "Wernigerode", "-RRB-", "zu", ";", "Stolberg-Wernigerode" ],
+  "adjectives" : [ "seit" ],
+  "nouns" : [ "unmittelbarer", "Oberhoheit", "von", "regierte", "über", "zu", "unter" ],
+  "text" : "Graf Christian Ernst zu Stolberg-Wernigerode (* 2. April 1691 in Gedern; † 25. Oktober 1771 in Wernigerode) regierte von 1710 bis 1771 über die seit 1714 unter unmittelbarer Oberhoheit Brandenburg-Preußens stehende Grafschaft Wernigerode im Harz.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity16124",
+  "entityUrl" : "http://dbpedia.org/resource/Raghunath_Singh_Bahadur",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:issue" : [ "HH Maharawal Brijraj Singh Bahadur" ]
+  },
+  "words" : [ "``", "-LRB-", "independent", "28", "Sabha", "candidate", "Raghunath", "Singh", "Member", "1957", "November", "''", "Bahadur", "Jaisalmer", "born", "Lok", "Barmer", ",", "Rajasthan", ".", "Maharawal", "elected", "constituency", "1929", "-RRB-", "Parliament" ],
+  "adjectives" : [ "independent" ],
+  "nouns" : [ "candidate", "constituency", "Maharawal" ],
+  "text" : "Raghunath Singh Bahadur (born November 28, 1929) was a \"Maharawal of Jaisalmer\" and Lok Sabha in Member of Parliament elected independent candidate 1957 for Barmer constituency Rajasthan.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,217 @@
+[ {
+  "entityIndex" : "1_entity11168",
+  "entityUrl" : "http://dbpedia.org/resource/Kuka_Parray",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Killed in ambush by militants" ]
+  },
+  "words" : [ "``", "MLA", "considered", "pioneer", "outfit", "major", "Yusuf", "Parray", "militant", "blow", "Minister", "described", "setback", "League", "&", "Sayeed", ",", "former", ".", "forces", "peace", "folk", "Ikhwan-ul-Muslemoon", "militants", "Kashmiri", "counter-insurgency", "Kuka", "singer", "death", "Chief", "killing", "pro-Pakistani", "security", "known", "top", "Kashmir", "terrorism", "targeted", "Jammu", "Mufti", "''", "process", "founder", "founded", "Awami", "Mohammad", "better", "pro-India", "movement" ],
+  "adjectives" : [ "top", "major", "pro-India", "militant", "pro-Pakistani", "former" ],
+  "nouns" : [ "counter-insurgency", "process", "singer", "death", "founder", "killing", "pioneer", "security", "outfit", "terrorism", "peace", "folk", "Ikhwan-ul-Muslemoon", "blow", "movement", "setback" ],
+  "text" : "Mohammad Yusuf Parray, better known as Kuka Parray, was a former MLA and a pioneer of counter-insurgency movement in Kashmir and the founder of Jammu & Kashmir Awami League. He was a Kashmiri folk singer, before he founded his pro-India militant outfit, Ikhwan-ul-Muslemoon that targeted top pro-Pakistani militants. His death was considered a major blow to the security forces against terrorism in Kashmir. The then Chief Minister, Mufti Mohammad Sayeed, described the killing as \"a setback to the peace process\".",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity13724",
+  "entityUrl" : "http://dbpedia.org/resource/Nityananda_Mohapatra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Respiratory Failure" ]
+  },
+  "words" : [ "--", "June", "-LRB-", "17", "politician", "Mahapatra", "2012", "Odia", ",", "April", ".", "journalist", "-RRB-", "Nityananda", "Indian", "poet", "1912" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "journalist", "politician", "poet" ],
+  "text" : "Nityananda Mahapatra (17 June 1912 – 17 April 2012) was an Indian Odia politician, poet and journalist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity18637",
+  "entityUrl" : "http://dbpedia.org/resource/Willie_MacRae",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "gunshot to the head" ]
+  },
+  "words" : [ "officer", "World", "independence", "remote", "MacRae", "remembered", "National", "crashed", "--", "Army", "revolver", "18", "active", ",", "April", ".", "1985", "Highlands", "naval", "7", "served", "-RRB-", "much", "-LRB-", "May", "death", "anti-nuclear", "part", "War", "life", "shot", "campaigner", "Royal", "head", "Scottish", "Party", "SNP", "car", "mysterious", "lawyer", "Willie", "British", "orator", "politician", "Navy", "Second", "Indian", "movement", "1923", "supported" ],
+  "adjectives" : [ "Scottish", "British", "Second", "naval", "mysterious", "anti-nuclear", "Indian", "active", "remote", "much" ],
+  "nouns" : [ "death", "revolver", "officer", "orator", "politician", "part", "independence", "life", "campaigner", "head", "SNP", "car", "movement", "lawyer" ],
+  "text" : "Willie MacRae (18 May 1923 – 7 April 1985) was a Scottish naval officer, lawyer, orator, politician and anti-nuclear campaigner. In the Second World War he served in the British Army and then the Royal Indian Navy. He supported the Indian independence movement and for much of his life was active in the Scottish National Party (SNP). MacRae is remembered for his mysterious death, in which his car crashed in a remote part of the Scottish Highlands and he was shot in the head with a revolver. The official verdict was undetermined.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity18649",
+  "entityUrl" : "http://dbpedia.org/resource/Wilma_Mankiller",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "http://dbpedia.org/resource/Pancreatic_cancer" ]
+  },
+  "words" : [ "administration", "years", "co-authored", "Department", "Development", "156,000", "female", "ten", "Mankiller", "--", "Women", "Cherokee", "Democratic", "author", "18", "Contemporary", ",", "'s", "April", ".", "population", "Pearl", "1985", "Wilma", "6", "served", "-RRB-", ":", "1945", "Nation", "-LRB-", "Chief", "Indigenous", "2010", "autobiography", "principal", "Party", "1995", "55,000", "member", "November", "Reflections", "chief", "People", "founded", "saw", "increase", "national-bestselling", "Every", "Good", "Day", "first", "Community", "citizens", "liberal" ],
+  "adjectives" : [ "principal", "national-bestselling", "female", "Good", "first", "liberal" ],
+  "nouns" : [ "chief", "author", "administration", "member", "autobiography", "increase", "Day", "population" ],
+  "text" : "Wilma Pearl Mankiller (November 18, 1945 – April 6, 2010) was the first female chief of the Cherokee Nation. A liberal member of the Democratic Party, she served as principal chief for ten years from 1985 to 1995. She is the author of a national-bestselling autobiography, Mankiller: A Chief and Her People and co-authored Every Day Is a Good Day: Reflections by Contemporary Indigenous Women. Mankiller's administration founded the Cherokee Nation Community Development Department and saw a population increase of Cherokee Nation citizens from 55,000 to 156,000.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity18291",
+  "entityUrl" : "http://dbpedia.org/resource/Valeriya_Novodvorskaya",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "http://dbpedia.org/resource/Toxic_shock_syndrome" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "Russian", "May", "Вале́рия", "Moscow", "Union", "1950", "member", "Новодво́рская", "July", "dissident", "--", "chairwoman", "''", "editorial", "12", "17", "founder", "Democratic", "politician", "Soviet", ",", ".", "Ilyinichna", "Valeriya", "SSR", "Byelorussian", "2014", "Times", "-RRB-", ":", "Novodvorskaya", "Ильи́нична", "Baranovichi", "party", "board", "liberal" ],
+  "adjectives" : [ "Russian", "Byelorussian", "Soviet", "liberal" ],
+  "nouns" : [ "chairwoman", "editorial", "SSR", "Вале́рия", "founder", "politician", "member", "Новодво́рская", "dissident", "Ильи́нична", "party", "board" ],
+  "text" : "Valeriya Ilyinichna Novodvorskaya (Russian: Вале́рия Ильи́нична Новодво́рская, 17 May 1950, Baranovichi, Byelorussian SSR – 12 July 2014, Moscow) was a liberal Russian politician, Soviet dissident, the founder and the chairwoman of the \"Democratic Union\" party, and a member of the editorial board of The New Times.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity11385",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Philippe_de_Roffignac",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Gunshot" ]
+  },
+  "words" : [ "de", "New", "Mayor", "-LRB-", "tenth", "September", "wealthy", "29", "Count", "serve", "known", "1773", "member", "1820-1828", "state", "Orleans", "--", "Philippe", "13", "individual", "Roffignac", "merchant", "also", ",", "banker", ".", "August", "Joseph", "-RRB-", "Louisiana", "1846", "Louis", "legislature" ],
+  "adjectives" : [ "wealthy" ],
+  "nouns" : [ "tenth", "individual", "member", "merchant", "state", "banker", "legislature" ],
+  "text" : "Count Louis Philippe de Roffignac (also known as Joseph Roffignac) (September 13, 1773 – August 29, 1846) was a wealthy Louisiana merchant, banker, member of the state legislature, and the tenth individual to serve as Mayor of New Orleans, in 1820-1828.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity2534",
+  "entityUrl" : "http://dbpedia.org/resource/Carl_Gunter,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "http://dbpedia.org/resource/Cancer" ]
+  },
+  "words" : [ "``", "abortion", "Buck", "John", "Sr.", "1976", "1899", "1975", "Rights", "Amendment", "December", "1972", "1895", "Equal", "1894", "nephew", "1938", "July", "Alexandria", "January", "10", "--", "N.", "Charles", "13", "14", "16", "Democratic", "Carl", "18", "House", "Rapides", ",", "-", ".", "April", "former", "labor", "seat", "Newton", "Euddie", "3", "Sullivan", "6", "-RRB-", "support", "21", "maternal", "O.", "22", "largest", "June", "23", "-LRB-", "26", "May", "September", "city", "Gladys", "grandparents", "Jr.", "Representatives", "Gunter", "Parish", "2009", "opposition", "October", "1996", "central", "known", "1992", "Slay", "member", "Hooper", "1916", "31", "1999", "November", "Mary", "''", "born", "Louella", "1920", "1886", "1963", "Richardson", "Louisiana", "organized", "Assessor", "1967", "paternal" ],
+  "adjectives" : [ "central", "Democratic", "former", "paternal", "maternal" ],
+  "nouns" : [ "seat", "opposition", "abortion", "city", "member", "nephew", "support", "labor" ],
+  "text" : "Carl Newton Gunter, Jr. (October 16, 1938 – July 6, 1999), was a Democratic member of the Louisiana House of Representatives from 1972 to 1992, known for his support of organized labor and his opposition to abortion and the Equal Rights Amendment. Gunter was born in Alexandria, the seat of Rapides Parish and the largest city in central Louisiana, to Carl N. \"Euddie\" Gunter, Sr. (June 23, 1916 - November 10, 1975), and Gladys Slay Gunter Richardson (April 18, 1920 - January 14, 2009) His paternal grandparents were John Gunter (January 31, 1886 - July 26, 1963) and Mary Hooper Gunter (May 21, 1895 - January 6, 1976). His maternal grandparents were Charles O. \"Buck\" Slay, Sr. (November 3, 1894 - September 10, 1967), and the former Louella Sullivan (September 22, 1899 - December 13, 1996). Gunter was a maternal nephew of former Rapides Parish Assessor Charles O. Slay, Jr.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity17747",
+  "entityUrl" : "http://dbpedia.org/resource/T._Babbitt_Parlee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Airplane crash" ]
+  },
+  "words" : [ "--", "23", "New", "Brunswick", "13", "figure", "-LRB-", "March", "political", ",", ".", "Canada", "-RRB-", "T.", "Parlee", "1914", "January", "1957", "Babbitt", "lawyer" ],
+  "adjectives" : [ "political" ],
+  "nouns" : [ "figure", "lawyer" ],
+  "text" : "T. Babbitt Parlee (March 13, 1914 – January 23, 1957) was a lawyer and political figure in New Brunswick, Canada.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity4207",
+  "entityUrl" : "http://dbpedia.org/resource/Drake_Edens",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "http://dbpedia.org/resource/Drowning" ]
+  },
+  "words" : [ "--", "13", "-LRB-", "J.", "May", "Jr.", "father", "South", "recognized", "Carolina", "Republican", ",", "many", ".", "Edens", "Party", "modern", "1982", "-RRB-", "July", "1925", "30", "Drake" ],
+  "adjectives" : [ "modern", "many" ],
+  "nouns" : [ "father" ],
+  "text" : "J. Drake Edens, Jr. (May 13, 1925 – July 30, 1982), is recognized by many as the father of the modern South Carolina Republican Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity7728",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Welsh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "non-Hodgkin's lymphoma" ]
+  },
+  "words" : [ "becoming", "Intelligence", "officer", "Lake", "Ivan", "military", "Malaya", "--", "including", "15", "mayor", "'", "Lorraine", "City", ",", ".", "army", "elected", "1987", "1940", "1984", "Joseph", "served", "-RRB-", "60", "salesman", "Gay", "66", "became", "Macquarie", "-LRB-", "25", "concluded", "March", "Newcastle", "Council", "caterer", "2007", "School", "1952", "Vietnam", "Linguist", "Boys", "periods", "1958", "February", "1955", "attended", "High", "politician", "Welsh", "Cox", "1965", "restaurateur", "1961", "Australian", "Born", "service", "married", "1967" ],
+  "adjectives" : [ "Australian", "military" ],
+  "nouns" : [ "army", "caterer", "restaurateur", "Linguist", "mayor", "officer", "service", "politician", "salesman", "Cox" ],
+  "text" : "Ivan Joseph Welsh (25 February 1940 – 15 March 2007) was an Australian politician. Born in Newcastle, Welsh attended Newcastle Boys' High School from 1952 to 1955 and served in the army from 1958 to 1967, including periods in Malaya (1958–60) and Vietnam (1965–66) as a Linguist and Intelligence officer. In 1961, he married Lorraine Gay Cox. After his military service concluded, he became a restaurateur, caterer and salesman, and in 1984 was elected to Lake Macquarie City Council, becoming mayor in 1987. In 1988, he was elected to the New South Wales Legislative Assembly as an Independent, representing the seat of Swansea. He held the seat until his defeat by the Labor candidate in 1991, in which year he also lost the mayoralty. He continued to contest both state and federal elections, both as an Independent and (in 1996) as a member of the Liberal Party. Welsh died at Newcastle in 2007, and was cremated.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity12216",
+  "entityUrl" : "http://dbpedia.org/resource/Maurice_Arreckx",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "cancer" ]
+  },
+  "words" : [ "français", "de", "-LRB-", "Il", "politique", "fut", "Var", "est", "mort", "1917", "un", "1959", "décembre", "à", "13", "parlementaire", "maire", "mars", "Saint-Junien", "2001", "Haute-Vienne", ",", ".", "et", "1985", "homme", "Maurice", "-RRB-", "le", "né", "Toulon", "Arreckx", "21" ],
+  "adjectives" : [ ],
+  "nouns" : [ "à", "homme", "Il", "parlementaire", "politique", "fut", "est", "Saint-Junien", "un", "né", "Haute-Vienne", "décembre" ],
+  "text" : "Maurice Arreckx, né le 13 décembre 1917 à Saint-Junien (Haute-Vienne) et mort le 21 mars 2001 à Toulon (Var), est un homme politique français. Il fut parlementaire, maire de Toulon de 1959 à 1985.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity5704",
+  "entityUrl" : "http://dbpedia.org/resource/George_Lincoln_Rockwell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Assassination" ]
+  },
+  "words" : [ "-LRB-", "25", "American", "influential", "neo-Nazi", "United", "March", "States", "Party", "George", "major", "white", "nationalists", "1918", "member", "Lincoln", "Arlington", "group", "--", "figure", "writings", "founder", "Nazi", "continued", "neo-Nazis", "Rockwell", ",", "beliefs", ".", "former", "August", "laundromat", "murdered", "among", "-RRB-", "9", "leaving", "movement", "Virginia", "1967" ],
+  "adjectives" : [ "American", "major", "white", "influential", "neo-Nazi", "former" ],
+  "nouns" : [ "figure", "laundromat", "founder", "member", "movement", "group" ],
+  "text" : "George Lincoln Rockwell (March 9, 1918 – August 25, 1967) was the founder of the American Nazi Party. He was a major figure in the neo-Nazi movement in the United States, and his beliefs and writings have continued to be influential among white nationalists and neo-Nazis. On August 25, 1967, Rockwell was murdered by a former member of his own group while leaving a laundromat in Arlington, Virginia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity5983",
+  "entityUrl" : "http://dbpedia.org/resource/George_Mackie,_Baron_Mackie_of_Benshie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Stroke" ]
+  },
+  "words" : [ "DFC", "Politiker", "-LRB-", "britischer", "Aberdeen", "CBE", "1919", "Juli", "ein", "Mackie", "George", "Yull", "Landwirt", "Baron", "10", "†", "DSO", "Benshie", "17", "Liberal", "war", "*", "Dundee", "und", ",", ".", "Geschäftsmann", "Democrats", "2015", "-RRB-", ";", "Februar" ],
+  "adjectives" : [ "Liberal", "Februar" ],
+  "nouns" : [ "Politiker", "britischer", "war", "ein" ],
+  "text" : "George Yull Mackie, Baron Mackie of Benshie CBE, DSO, DFC (* 10. Juli 1919 in Aberdeen; † 17. Februar 2015 in Dundee), war ein britischer Politiker (Liberal Democrats), Landwirt und Geschäftsmann.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity54",
+  "entityUrl" : "http://dbpedia.org/resource/Aung_San",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Assassination" ]
+  },
+  "words" : [ "ခ", "Myanmar", "-LSB-", "င", "considered", "modern-day", "àʊɴ", "independence", "nationalist", "Aung", "Communist", "later", "ပ", "ဗ", "buil", "bòdʑoʊʔ", "July", "လ", "hkyup", "--", "အ", "pronounced", "13", "statesman", "Bogyoke", "months", "Democratic", "19", ",", "'s", ".", "sʰáɴ", "Burmese", "bringing", "revolutionary", "served", "name", "-RRB-", "General", "Colony", ":", ";", "1947", "1946", "aung", "Nation", "San", "-LRB-", "rule", "ဆန", "Party", "responsible", "hcan", "1915", "February", "honorific", "Social", "Tatmadaw", "British", "MLCTS", "assassinated", "six", "founder", "politician", "5th", "Burma", "Premier", "Crown", "Major", "-RSB-", "initially", "Father" ],
+  "adjectives" : [ "nationalist", "Burmese", "Communist", "British", "later", "modern-day", "responsible", "5th" ],
+  "nouns" : [ "Nation", "statesman", "founder", "politician", "àʊɴ", "rule", "Burma", "ဆန", "independence", "sʰáɴ", "ပ", "revolutionary", "name", "buil", "hcan", "bòdʑoʊʔ", "Father", "hkyup", "honorific" ],
+  "text" : "(In this Burmese name, Bogyoke is an honorific.) Bogyoke (Major General) Aung San (Burmese: ဗိုလ်ချုပ် အောင်ဆန်း; MLCTS: buil hkyup aung hcan:, pronounced: [bòdʑoʊʔ àʊɴ sʰáɴ]); 13 February 1915 – 19 July 1947) was a Myanmar statesman, initially Communist and later Social Democratic politician, revolutionary, nationalist, founder of the Tatmadaw, and is considered Father of the Nation of modern-day Myanmar who served as 5th Premier of the British Crown Colony of Burma from 1946 to 1947. He was the founder of the Communist Party of Burma. He was responsible for bringing about Burma's independence from British rule, but was assassinated six months before independence. He is recognized as the leading architect of independence, and the founder of the Union of Burma. Affectionately known as \"Bogyoke\" (Major General), Aung San is still widely admired by the Burmese people, and his name is still invoked in Burmese politics to this day. Aung San's daughter, Aung San Suu Kyi, is a Burmese stateswoman and politician and a recipient of the Nobel Peace Prize who is now serving as State Counsellor and 20th and First Female Minister of Foreign Affairs in Htin Kyaw's Cabinet.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity399",
+  "entityUrl" : "http://dbpedia.org/resource/A._J._McNamara",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "http://dbpedia.org/resource/Progressive_supranuclear_palsy" ]
+  },
+  "words" : [ "New", "Politiker", "-LRB-", "Juni", "Science", "ein", "studierte", "A.", "der", "Dezember", "1959", "1936", "Orleans", "seinen", "US-amerikanischer", "†", "Metairie", "dort", "J.", "war", "*", "und", "McNamara", ",", "Bachelor", ".", "Jurist", "2", "University", "2014", "State", "erhielt", "Louisiana", "-RRB-", "9", "B.S.", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "†", "Politiker", "dort", "Science", "war", "und", "ein", "Bachelor", "A.", "Jurist", "der", "erhielt", "B.S.", "seinen", "US-amerikanischer" ],
+  "text" : "A. J. McNamara (* 9. Juni 1936 in New Orleans, Louisiana; † 2. Dezember 2014 in Metairie, Louisiana) war ein US-amerikanischer Jurist und Politiker. McNamara studierte an der Louisiana State University und erhielt dort 1959 seinen Bachelor of Science (B.S.). Im Anschluss diente er von 1959 bis 1962 in der United States Navy. An der Law School der Loyola University New Orleans erhielt er 1968 seinen Juris Doctor. McNamara praktizierte nun von 1968 bis 1982 als Rechtsanwalt in New Orleans. Von 1976 bis 1980 gehörte er dem Repräsentantenhaus von Louisiana an. Am 5. Mai 1982 wurde er von Präsident Ronald Reagan zum Richter am United States District Court for the Eastern District of Louisiana nominiert, um den vakanten Sitz von Edward James Boyle Sr. neu zu besetzen. Der Senat bestätigte ihn am 18. Juni. Am 21. Juni 1982 erfolgte seine Amtseinführung. McNamara bekleidete von 1999 bis 2001 das Amt des Obersten Richters. Am 9. Juni 2001 nahm er den „senior status“ an.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity448",
+  "entityUrl" : "http://dbpedia.org/resource/Aung_Gyi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "http://dbpedia.org/resource/Heart_failure" ]
+  },
+  "words" : [ "က", "nord", "de", "င", "politique", "est", "prénoms", "du", "Aung", "des", "noms", "Gyi", "sont", "Bago", "un", "Ligue", "les", "cofondateurs", "Héritier", "အ", "pas", "il", "16", "l'un", "sous-district", "en", "dans", ",", "appliquent", "respect", ".", "et", "apparent", "homme", "au", "démocratie", "ne", "-RRB-", "près", ";", "né", "octobre", "Win", "février", "1988", "-LRB-", "25", "Il", "Rangoon", "1919", "2012", "nom", "principes", "titres", "devint", "général", "U", "birman", "brigade", "mort", "Ne", "`", "Paungde", "après", "pour", "opposants", "Mayangon", "1963", "région", "la", "le", "Prome", "nationale", "Daw" ],
+  "adjectives" : [ "devint", "sont", "sous-district", "appliquent", "apparent" ],
+  "nouns" : [ "က", "nord", "pas", "Il", "politique", "est", "nom", "respect", "général", "au", "démocratie", "birman", "brigade", "un", "né", "octobre", "février" ],
+  "text" : "Aung Gyi est un nom birman ; les principes des noms et prénoms ne s'appliquent pas ; U et Daw sont des titres de respect. Aung Gyi (birman အောင်ကြီး) est un général de brigade et homme politique birman né le 16 février 1919 dans le sous-district de Paungde (près de Prome, dans la région de Bago) et mort le 25 octobre 2012 dans le sous-district de Mayangon (au nord de Rangoon). Héritier apparent du général Ne Win, il en devint un des opposants après 1963. Il est l'un des cofondateurs de la Ligue nationale pour la démocratie en 1988.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity614",
+  "entityUrl" : "http://dbpedia.org/resource/Andor_Jaross",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Executed by firing squad" ]
+  },
+  "words" : [ "23", "Politiker", "-LRB-", "Čechy", "ein", "1896", "Komáromcsehi", "Andor", "heute", "†", "11", "im", "Jaross", "Slowakei", "Zámky", "war", "*", ".", "April", "Okres", "Budapest", "Nové", "Mai", "-RRB-", ";", "1946", "ungarischer" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "im", "war", "ein", "ungarischer" ],
+  "text" : "Andor Jaross (* 23. Mai 1896 in Komáromcsehi (heute Čechy (Slowakei))  im Okres Nové Zámky; † 11. April 1946 in Budapest) war ein ungarischer Politiker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity1488",
+  "entityUrl" : "http://dbpedia.org/resource/As'ad_Madani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deathCause" : [ "Illness following a head injury" ]
+  },
+  "words" : [ "-LRB-", "prominent", "Majlis-e-Shura", "27", "Madani", "Deobandi", "body", "سید", "President", "executive", "2006", "AD-February", "Uloom", "member", "Sayyed", "Ulema-e-Hind", "`", "Darul", "ad", "AD", "Urdu", "اسعد", "مدنے", "politician", "Deoband", "Islamic", ",", "scholar", "April", ".", "6", "Jamiat", "-RRB-", "1928", "Indian", ":" ],
+  "adjectives" : [ "prominent", "AD-February", "Indian" ],
+  "nouns" : [ "executive", "ad", "AD", "Majlis-e-Shura", "مدنے", "politician", "member", "scholar", "body" ],
+  "text" : "Sayyed As'ad Madani (April 27, 1928 AD-February 6, 2006 AD) (Urdu: سید اسعد مدنے ) was an Indian Deobandi Islamic scholar and politician. He was the President of Jamiat Ulema-e-Hind and a prominent member of executive body (Majlis-e-Shura) of Darul Uloom Deoband.",
+  "patterns" : { }
+} ]

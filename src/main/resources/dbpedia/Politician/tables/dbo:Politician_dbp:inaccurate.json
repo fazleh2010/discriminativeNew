@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity11058",
+  "entityUrl" : "http://dbpedia.org/resource/Kristin_M._Davis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:inaccurate" : [ "yes" ]
+  },
+  "words" : [ "M.", "New", "prostitution", "ring", "claimed", "several", "run", "high-profile", "Davis", "drug", "later", "Eliot", "July", "ran", "1977", "Alex", "including", "poised", "dealing", "City", "conviction", ",", "former", ".", "Governor", "Fresno", "Madam", "7", "-RRB-", "David", "campaign", "Manhattan", "Rodriguez", "arrested", "-LRB-", "clients", "novelty", "York", "2010", "high-end", "Comptroller", "running", "madam", "known", "offered", "convicted", "famous", "born", "services", "Kristin", "Beckham", "activities", "2013", "formerly", "Spitzer" ],
+  "adjectives" : [ "famous", "several", "high-end", "high-profile", "former" ],
+  "nouns" : [ "madam", "Governor", "novelty", "dealing", "prostitution", "ring", "campaign", "conviction", "drug" ],
+  "text" : "Kristin M. Davis (born 7 July 1977 in Fresno), formerly known as the Manhattan Madam , is a former madam who was famous for running a high-end prostitution ring in New York City which claimed to have offered its services to several high-profile clients, including Eliot Spitzer, Alex Rodriguez and David Beckham. After her conviction for her prostitution activities, Davis ran a novelty campaign for Governor of New York in 2010 and was poised to run for New York City Comptroller in 2013 before being arrested (and later convicted) for drug dealing.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity11496",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Richardson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:inaccurate" : [ "yes" ]
+  },
+  "words" : [ "-LRB-", "bei", "Wahl", "2012", "Angeles", "ist", "den", "bis", "sie", "der", "Politikerin", "2007", "demokratischen", "US-Repräsentantenhaus", "amerikanische", "ihrer", "Sitz", "Bundesstaat", "vertrat", "14", "im", "ihren", "Janice", "unterlag", "Mitbewerberin", "*", ",", "verlor", ".", "April", "Los", "Laura", "1962", "Richardson", "Kalifornien", "eine", "Von", "2013", "-RRB-", ";", "Hahn" ],
+  "adjectives" : [ ],
+  "nouns" : [ "vertrat", "im", "ihren", "unterlag", "ist", "den", "verlor", "sie", "Politikerin", "eine", "demokratischen", "US-Repräsentantenhaus", "amerikanische" ],
+  "text" : "Laura Richardson (* 14. April 1962 in Los Angeles, Kalifornien) ist eine amerikanische Politikerin. Von 2007 bis 2013 vertrat sie den Bundesstaat Kalifornien im US-Repräsentantenhaus; sie verlor ihren Sitz bei der Wahl 2012, bei der sie ihrer demokratischen Mitbewerberin Janice Hahn unterlag.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity12082",
+  "entityUrl" : "http://dbpedia.org/resource/Markus_Buchart",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:inaccurate" : [ "y" ]
+  },
+  "words" : [ "leader", "Manitoba", "politician", "March", "resignation", ",", "Buchart", ".", "serving", "Canada", "Party", "2005", "Markus", "lawyer", "first", "Green", "1999" ],
+  "adjectives" : [ "first" ],
+  "nouns" : [ "leader", "politician", "resignation", "lawyer" ],
+  "text" : "Markus Buchart is a lawyer and politician in Manitoba, Canada. He was the first leader of the Green Party of Manitoba, serving from 1999 until his resignation in March 2005.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity11110",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Hart",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:movement" : [ "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/Television" ]
+  },
+  "words" : [ "British", "-LRB-", "opera", "Rhodes", "17", "born", "roles", "Hollyoaks", "best", "Benjamin", ",", ".", "actor", "Foz", "Adam", "English", "October", "known", "Australian", "-RRB-", "Neighbours", "Hart", "soap", "1977" ],
+  "adjectives" : [ "English", "British", "Australian" ],
+  "nouns" : [ "actor", "opera", "soap" ],
+  "text" : "Benjamin Hart (born 17 October 1977) is an English actor best known for his roles as Foz in the British soap opera Hollyoaks, and as Adam Rhodes in the Australian soap opera Neighbours."
+} ]

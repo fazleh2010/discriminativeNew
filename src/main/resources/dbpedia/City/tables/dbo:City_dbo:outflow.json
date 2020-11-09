@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity16000",
+  "entityUrl" : "http://dbpedia.org/resource/Emu_Bay_(Tasmanian_geographic_feature)",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbo:outflow" : [ "http://dbpedia.org/resource/Bass_Strait" ]
+  },
+  "words" : [ "named", "Van", "Company", "fed", "city", "Blythe", "Burnie", "later", "River", "bay", "empties", "early", "Bass", "Strait", "Tasmania", "director", "originally", "adjacent", "also", "Emu", ",", "William", "'s", ".", "Land", "coast", "north-western", "Diemen", "Bay", "Australia", "1840s", "renamed" ],
+  "adjectives" : [ "north-western", "adjacent", "early" ],
+  "nouns" : [ "coast", "city", "director", "bay" ],
+  "text" : "Emu Bay is a bay on the north-western coast of Tasmania, Australia. The bay is fed by the Blythe River and empties into Bass Strait. The bay is adjacent to the city of Burnie, Tasmania, which was also originally named Emu Bay but later renamed for William Burnie a director of the Van Diemen's Land Company in the early 1840s."
+} ]

@@ -1,0 +1,181 @@
+[ {
+  "entityIndex" : "1_entity11243",
+  "entityUrl" : "http://dbpedia.org/resource/Krishan_Pal_Gurjar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "http://dbpedia.org/resource/National_Democratic_Alliance_(India)" ]
+  },
+  "words" : [ "Justice", "Bansi", "led", "parliament", "16th", "Empowerment", "general", "Sabha", "candidate", "Party", "won", "Bharatiya", "member", "Fariabad", "state", "vote", "Minister", "Social", "margin", "election", "minister", "Government", "Janata", "politician", "representing", "Lok", "transport", ",", ".", "466873", "seat", "Haryana", "constituency", "2014", "State", "Lal", "Gurjar", "Indian", "Pal", "1996-99", "Krishan" ],
+  "adjectives" : [ "general", "Indian", "16th" ],
+  "nouns" : [ "margin", "election", "minister", "Government", "politician", "transport", "parliament", "seat", "candidate", "constituency", "member", "state", "vote" ],
+  "text" : "Krishan Pal Gurjar is an Indian politician and a member of parliament in the 16th Lok Sabha representing the Fariabad constituency in the state of Haryana. He won his seat in the Indian general election, 2014 as a Bharatiya Janata Party candidate by margin of 466873 vote. He is now a Minister of State for Social Justice and Empowerment. He was minister for transport in Bansi Lal led Government of Haryana from 1996-99. He also served as bjp state president for Haryana.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity4655",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Trevor_(Jersey)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "unopposed" ]
+  },
+  "words" : [ "12", "British", "-LRB-", "May", "born", "politician", "Edward", ",", ".", "MBE", "-RRB-", "1938", "Trevor" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "politician" ],
+  "text" : "Edward Trevor, MBE (born 12 May 1938) is a British politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity11472",
+  "entityUrl" : "http://dbpedia.org/resource/Lim_Swee_Aun",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "Chinese" ]
+  },
+  "words" : [ "Tan", "Dr.", "-LRB-", "Swee", "September", "Sri", "林瑞安", "Association", "林", "member", "Aun", "1915", "Malaysian", "1977", "--", "13", "Cabinet", "politician", "Ruì", "Lín", ",", ".", "Ān", "August", "Lim", "1", "pinyin", "name", "-RRB-", "Chinese", ":", ";", "family" ],
+  "adjectives" : [ "Chinese", "Malaysian" ],
+  "nouns" : [ "pinyin", "politician", "name", "Ruì", "member", "family", "Lín", "Ān" ],
+  "text" : "(This is a Chinese name; the family name is Lim (林).) Tan Sri Dr. Lim Swee Aun (Chinese: 林瑞安; pinyin: Lín Ruì Ān; 1 September 1915 – 13 August 1977) was a Malaysian Chinese politician from the Malaysian Chinese Association, and a Cabinet member.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity11901",
+  "entityUrl" : "http://dbpedia.org/resource/Lyndon_Farnham",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "Unopposed" ]
+  },
+  "words" : [ "St", "Hospitality", "Deputy", "director", "John", "Farnham", ",", "No.", "Lyndon", ".", "former", "States", "elected", "Saviour", "2", "Association", "district", "member", "company", "Jersey", "businessman", "first", "1999", "president" ],
+  "adjectives" : [ "first", "former" ],
+  "nouns" : [ "director", "district", "member", "company", "No.", "businessman", "president" ],
+  "text" : "Lyndon John Farnham is a member of the States of Jersey, and a businessman. He was first elected as Deputy of St Saviour No. 2 district in 1999. He was former president of the Jersey Hospitality Association, and a company director.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity3230",
+  "entityUrl" : "http://dbpedia.org/resource/Carolyn_Labey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "Unopposed" ]
+  },
+  "words" : [ "12", "Carolyn", "Deputy", "politician", "2011", "Grouville", "sworn", ",", ".", "2008", "December", "re-elected", "Economic", "Fiona", "2005", "Assistant", "2002", "Development", "Environment", "Jersey", "Planning", "Labey", "first", "Minister" ],
+  "adjectives" : [ "first" ],
+  "nouns" : [ "politician" ],
+  "text" : "Carolyn Fiona Labey is a Jersey politician who was first sworn in as a Deputy for Grouville on 12 December 2002. She was re-elected as Deputy in 2005, 2008 and 2011. She is Assistant Minister for Economic Development and Assistant Minister for Planning and Environment.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity17567",
+  "entityUrl" : "http://dbpedia.org/resource/Terry_Le_Main",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "Unopposed" ]
+  },
+  "words" : [ "-LRB-", "Terry", "born", "politician", "-RRB-", "Le", "1939", "Jersey", "Main", "former", ".", "November" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "politician" ],
+  "text" : "Terry Le Main (born November 1939) is a former Jersey politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity15263",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Moore_(Oregon_pioneer)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "Chairman" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "September", "American", "participated", "1781", "War", "movements", "pioneer", "Moore", "October", "government", "Robert", "native", "Missouri", "1857", "early", "Assembly", "1812", "--", "politician", "founded", "also", "traveling", "City", ",", ".", "Pennsylvania", "2", "veteran", "form", "1840", "served", "-RRB-", "Country", "Linn", "General" ],
+  "adjectives" : [ "American", "native", "early" ],
+  "nouns" : [ "government", "veteran", "politician", "Country", "War", "pioneer" ],
+  "text" : "Robert Moore (October 2, 1781 – September 2, 1857) was an American politician and pioneer in the Oregon Country. A Pennsylvania native and veteran of the War of 1812, he also participated in the early movements to form a government in Oregon Country and founded Linn City, Oregon. Before traveling to Oregon in 1840 he had served in the Missouri General Assembly.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity3739",
+  "entityUrl" : "http://dbpedia.org/resource/Darius_J._Pearce",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "unopposed" ]
+  },
+  "words" : [ "23", "politics", "-LRB-", "Salle", "1997", "1972", "La", "justice", "Jersey", "criminal", "February", "De", "read", "James", "Darius", "born", "politician", "Plymouth", "Pearce", "City", ",", "former", ".", "educated", "University", "graduated", "-RRB-", "London", "College" ],
+  "adjectives" : [ "criminal", "former" ],
+  "nouns" : [ "politician", "justice", "City" ],
+  "text" : "Darius James Pearce (born 23 February 1972) is a former Jersey politician. Pearce was born in the City of London. He was educated at De La Salle College, Jersey. In 1997 he graduated from the University of Plymouth, where he read politics and criminal justice. In 2000 he qualified as an accountant and was appointed directorships in companies in Jersey involved in online marketing, fulfillment and accountancy. On 1 March 2009 he purchased his family's jewellery business outright.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity6975",
+  "entityUrl" : "http://dbpedia.org/resource/Herbert_Kirk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "Elected unopposed" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Juni", "ein", "der", "Belfast", "2006", "Party", "Kirk", "Unionist", "nordirischer", "März", "1912", "protestantischer", "†", "Viktor", "war", "*", ".", "UUP", "Herbert", "4", "5", "Ulster", "-RRB-", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "nordirischer", "war", "ein", "protestantischer" ],
+  "text" : "Herbert Viktor Kirk (* 5. Juni 1912 in Belfast; † 4. März 2006) war ein protestantischer nordirischer Politiker der Ulster Unionist Party (UUP).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity12248",
+  "entityUrl" : "http://dbpedia.org/resource/Muhyiddin_Yassin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "7020", "Unopposed" ]
+  },
+  "words" : [ "Tan", "Johor", "till", "bin", "United", "Malaysia", "main", "ruling", "Barisan", "National", "Malay", "state", "Member", "Malaysian", "Minister", "given", "Muhyiddin", "Nasional", "deputy", "15", "Deputy", "'", ",", ".", "patronymic", "graduating", "person", "name", "-RRB-", "Haji", ";", "1947", "Parliament", "party", "Yassin", "-LRB-", "Prime", "May", "university", "Sri", "2009", "public", "coalition", "Pagoh", "Organisation", "joined", "born", "politician", "Malays", "grew", "component", "2016", "2015", "service", "Dato", "family", "UMNO", "referred", "president" ],
+  "adjectives" : [ "patronymic", "public", "Malay", "main", "Malaysian" ],
+  "nouns" : [ "deputy", "university", "politician", "component", "ruling", "person", "service", "name", "coalition", "state", "family", "party", "president" ],
+  "text" : "(This is a Malay name; the name Yassin is a patronymic, not a family name, and the person should be referred to by the given name, Muhyiddin.) Tan Sri Dato' Haji Muhyiddin bin Yassin (born 15 May 1947) is a Malaysian politician and Member of Parliament for Pagoh. He was Deputy Prime Minister of Malaysia from 2009 till 2015 and deputy president of the United Malays National Organisation (UMNO), the main component party of the ruling Barisan Nasional coalition from 2009 till 2016. Muhyiddin grew up in the state of Johor and joined the state public service after graduating from university. He later took up management positions at various state-owned companies. He joined politics in the 1970s and was elected as Member of Parliament for Pagoh in 1978. During his term as MP, he was appointed Deputy Minister of Federal Territories and later Deputy Minister of Trade and Industry. As Johor UMNO chief, he was Menteri Besar of Johor from 1986 to 1995. He returned to federal politics in 1995 and was appointed to the Cabinet as Minister of Youth and Sports. He was appointed Minister of Domestic Trade and Consumer Affairs after the 1999 general election and became a vice-president of UMNO in 2000. Under the premiership of Abdullah Ahmad Badawi, Muhyiddin served as Minister of Agriculture (2004–2008) and then Minister of International Trade and Industry (2008–2009). In 2008, he contested and won the UMNO deputy presidency and was appointed Deputy Prime Minister and Minister of Education by Prime Minister Najib Razak in 2009. As Education Minister, Muhyiddin ended the use of English as the medium of instruction for science and mathematics in public schools. He also attracted controversy after describing himself as \"Malay first\" when challenged by the opposition to pronounce himself as \"Malaysian first.\" During Najib's mid-term Cabinet reshuffle in July 2015, he was dropped from his position, marking the first incumbent to be left out; in June 2016 he was further sacked from UMNO.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity12688",
+  "entityUrl" : "http://dbpedia.org/resource/Marc_Joulaud",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "http://dbpedia.org/resource/European_People's_Party" ]
+  },
+  "words" : [ "à", "Marc", "français", "membre", "-LRB-", "Il", "politique", "est", ",", "Joulaud", ".", "parti", "du", "3", "homme", "septembre", "-RRB-", "le", "un", "Républicains", "né", "Mayenne", "Les", "1967" ],
+  "adjectives" : [ ],
+  "nouns" : [ "membre", "homme", "Il", "politique", "septembre", "est", "un", "né" ],
+  "text" : "Marc Joulaud, né le 3 septembre 1967 à Mayenne (Mayenne), est un homme politique français. Il est membre du  parti Les Républicains.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity5170",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Swettenham",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "British" ]
+  },
+  "words" : [ "St", "Dollar", "administration", "Pahang", "States", "1896", "1850", "Malay", "antique", "Kuala", "July", "--", "11", "based", "Academy", "Britain", ",", "'s", "Federated", ".", "painter", "1", "Resident-General", "Negeri", "Derbyshire", "Athelstane", "Swettenham", "served", "-RRB-", "Sir", "1946", "1901", "June", "-LRB-", "brought", "York", "28", "March", "Scotland", "amateur", "collector", "states", "general", "School", "GCMG", "Resident", "photographer", "together", "CH", "born", "also", "Selangor", "Perak", "educated", "Belper", "Sembilan", "Peter", "Frank", "Lumpur", "first" ],
+  "adjectives" : [ "Resident-General", "Malay", "amateur", "antique", "first" ],
+  "nouns" : [ "painter", "general", "CH", "administration", "Resident", "collector" ],
+  "text" : "Sir Frank Athelstane Swettenham GCMG CH (28 March 1850 – 11 June 1946) was the first Resident general of the Federated Malay States, which brought the Malay states of Selangor, Perak, Negeri Sembilan and Pahang together under the administration of a Resident-General based in Kuala Lumpur. He served from 1 July 1896 to 1901. He was also an amateur painter, photographer and antique collector. He was born in Belper, Derbyshire, Britain and was educated at the Dollar Academy in Scotland and St Peter's School, York. He was a descendant of Mathew Swetenham, Henry IV's bow bearer. He was one of close to forty former British Empire officials to oppose the Malayan Union. Swettenham co-authored a \"A Dictionary of the Malay Language\" with Hugh Clifford. The dictionary, which was published in stages between 1894 and 1902, was abandoned after the letter 'G' as by then it had been made redundant by the publiciation of R.J. Wilkinson's \"A Malay English Dictionary\". He also published four books \"Malay Sketches\", \"Unaddressed Letters\", \"Also & Perhaps\" and \"Arabella in Africa\", the latter being illustrated by the famous mural painter and illustrator, Rex Whistler. The book was Whistler's first official commission.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity5924",
+  "entityUrl" : "http://dbpedia.org/resource/Geraint_Jennings",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "Unopposed" ]
+  },
+  "words" : [ "de", "parle", "politique", "est", "Geraint", "Tisol", "un", "Jersey", "Hospital", "les", "Christ", "russe", "Victoria", "passionne", "étudié", "en", "dans", ",", "'s", ".", "et", "étrangers", "homme", "-RRB-", "internat", "né", "Saint-Hélier", "français", "collège", "Il", "-LRB-", "l'île", "obtint", "Jennings", "diplôme", "langues", "se", "linguiste", "d'enseignement", "l'Ouest", "puis", "Sussex", "jersiais", "à", "l'anglais", "pour", "professeur", "Angleterre", "situé", "le", "1966", "journaliste" ],
+  "adjectives" : [ ],
+  "nouns" : [ "à", "français", "collège", "Il", "politique", "passionne", "est", "étudié", "professeur", "Tisol", "obtint", "diplôme", "situé", "linguiste", "d'enseignement", "un", "internat", "né", "journaliste", "russe" ],
+  "text" : "Geraint Jennings né en 1966 à Saint-Hélier dans l'île de Jersey, est un linguiste, professeur, journaliste et homme politique. Geraint Jennings a étudié à Saint-Hélier dans le collège Victoria, puis dans le Christ's Hospital, un internat situé dans le Sussex de l'Ouest en Angleterre. Il obtint le diplôme Tisol (diplôme d'enseignement de l'anglais pour les étrangers). Il se passionne pour les langues et parle le jersiais, le français et le russe. Geraint Jennings est professeur de jersiais. Il est également un membre important et très active de la Société Jersiaise. Il est le fondateur du site Internet Les Pages Jèrriaises dont il est un des principaux administrateurs pour la maintenance du site. Geraint Jennings est également journaliste pour le quotidien Jersey Evening Post. Il contribue notamment à la rubrique quotidienne en jersiais. En 2007, il gagne le premier prix pour \"La meilleure nouvelle en langue normande\" lors de la \"Fête Nouormande\" de Bricquebec pour son récit intitulé \"La frontchièthe\". Il remporte de nouveau le premier prix en 2008 pour son roman intitulé \"Feu et feunmée\" . En 1996, il fut élu comme membre du Comité des chemins de la paroisse de Saint-Hélier. Il fut réélu en 1999, 2002 et 2005. Bien qu'il n'ait jamais été élu au parlement national des États de Jersey, il s'est présenté aux élections comme adjoint d'une élection partielle en 1992 à Trinité.Il participa à l'élection sénatoriale de 1993 dans le Parti Vert avec Stuart Syvret et a obtenu 2.793 voix. et de nouveau en novembre 1996 où il obtint 568 voix. Depuis 2012, Geraint Jennings participe par ses traductions en langue jersiaise au groupe de musique traditionnelle Badlabecques. Il fut également par ailleurs le traducteur de nombreux ouvrages notamment de l'anglais vers le nouormand pour \"Alice in Wonderland\" de Lewis Caroll et du français vers le nouormand pour \"La Blanche Nef\", roman graphique de Franck K. Lehodey, en 2010.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity409",
+  "entityUrl" : "http://dbpedia.org/resource/Avtar_Singh_Bhadana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "http://dbpedia.org/resource/United_Progressive_Alliance" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "party.He", "political", "represents", "December", "Sabha", "National", "member", "Singh", "join", "1957", "17", "born", "Lok", ".", "India", "August", "Haryana", "Bhadana", "2014", "-RRB-", "Indian", "quit", "Avtar", "Faridabadconstituency", "INC", "INLD" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "party.He", "member", "Lok", "Faridabadconstituency", "INLD" ],
+  "text" : "Avtar Singh Bhadana (born 17 December 1957) is a member of the 14th Lok Sabha of India. He represents the Faridabadconstituency of Haryana and a member of the Indian National Congress (INC) political party.He quit INC in August 2014 and join INLD",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity1363",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Breckon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:majority" : [ "Unopposed" ]
+  },
+  "words" : [ "St", "sworn", "Council", "States", "Saviour", "2008", "December", "previously", "Consumer", "1993", "member", "Jersey", "Breckon", "Deputy", "Legislation", "Alan", "Senator", "chairman", ",", "No.", "Advisory", ".", "elected", "Panel", "2", "district", "8", "first" ],
+  "adjectives" : [ "first" ],
+  "nouns" : [ "Legislation", "district", "member", "chairman", "No." ],
+  "text" : "Alan Breckon is a member of the States of Jersey, was first elected as Deputy of St Saviour No. 2 district in 1993, and was sworn in as Senator 8 December 2008. He is a member of the Legislation Advisory Panel,  and was previously chairman of the Jersey Consumer Council.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,8 @@
+id=167  property=dbp:date  object=--09-16  NumberOfEntitiesFoundForObject=20
+14th-JJ  multiply=0.191045  P(14th|object)=0.8  P(object|14th)=0.238806    
+lok-NN  multiply=0.171905  P(lok|object)=0.95  P(object|lok)=0.180952    
+
+id=168  property=dbp:date  object=--09-22  NumberOfEntitiesFoundForObject=20
+lok-NN  multiply=0.154286  P(lok|object)=0.9  P(object|lok)=0.171429    
+sabha-NN  multiply=0.148624  P(sabha|object)=0.9  P(object|sabha)=0.165138    
+

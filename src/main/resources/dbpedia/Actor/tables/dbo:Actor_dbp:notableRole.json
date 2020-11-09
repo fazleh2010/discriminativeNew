@@ -1,0 +1,56 @@
+[ {
+  "entityIndex" : "1_entity14593",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Hudson_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:notableRole" : [ "in The Bill", "PC \"Yorkie\" Smith" ]
+  },
+  "words" : [ "``", "Tony", "England", "ITV", "Manager", "Coronation", "appeared", "Robert", "Street", "films", "including", "made", "programmes", "Hudson", "Smith", "Pascoe", "1990", "procedural", ",", "Bassett", ".", "Girls", "Doctors", "Mike", "1984", "Sheffield", "-RRB-", "Bill", "guest", ":", "1989", "24", "-LRB-", "role", "Practice", "two", "appearances", "1991", "subsequent", "Peak", "February", "Dalziel", "''", "Emmerdale", "famous", "Bad", "television", "born", "also", "many", "played", "actor", "English", "PC", "police", "1960", "series", "well", "Yorkie" ],
+  "adjectives" : [ "English", "famous", "subsequent", "procedural", "many" ],
+  "nouns" : [ "actor", "role", "PC", "police", "television", "series", "guest" ],
+  "text" : "Robert Hudson (born 24 February 1960 in Sheffield) is an English actor. He is most famous for his role as PC Tony \"Yorkie\" Smith in the ITV police procedural television series The Bill. He played the role from 1984 until 1989, and made two subsequent guest appearances in 1990 and 1991. He has also appeared in many other television programmes, including Bad Girls, Coronation Street, Dalziel and Pascoe, Doctors, Emmerdale and Peak Practice, as well as films such as Mike Bassett: England Manager. Hudson's younger sister is the actress and presenter Charlotte Hudson he also has two more younger siblings called Laura, Lydia."
+}, {
+  "entityIndex" : "2_entity14689",
+  "entityUrl" : "http://dbpedia.org/resource/Sarah_Thomas_(actress)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:notableRole" : [ "Glenda in Last of the Summer Wine" ]
+  },
+  "words" : [ "Wine", "peasant", "called", "Enid", "Summer", "episode", "Black", "Last", "December", "appeared", "cameo", "Simmons", "Worzel", "--", "actress", "Glenda", "made", "'", ",", "Wilkinson", "girl", "pre-credit", ".", "1986", "sequence", "1983", "5", "1980", "Heartbeat", "-RRB-", "London", "Gummidge", "Death", "Charity", "-LRB-", "Christmas", "May", "probably", "29", "best", "2010", "Blackadder", "appearances", "1952", "1996", "Sarah", "known", "Begins", "dies", "Home", "Thomas", "brief", "`", "British", "Witchsmeller", "original", "television", "born", "also", "Jane", "appearance", "series", "fifth", "Pursuivant" ],
+  "adjectives" : [ "brief", "British", "Last", "original", "fifth", "pre-credit" ],
+  "nouns" : [ "Wine", "peasant", "actress", "television", "Summer", "episode", "girl", "sequence", "appearance", "series", "Heartbeat", "cameo", "Pursuivant", "Death", "Charity" ],
+  "text" : "Sarah Jane Thomas (born 5 May 1952) is a British actress, born in London, probably best known for her television appearances as Enid Simmons in Worzel Gummidge (1980), and as Glenda Wilkinson in Last of the Summer Wine (1986–2010). Thomas also made a brief cameo appearance in the fifth episode of the original Blackadder series (1983), 'the Witchsmeller Pursuivant', as a peasant girl who dies of the Black Death in the pre-credit sequence. She also appeared in a Christmas episode of Heartbeat (December 29, 1996), called 'Charity Begins at Home.'"
+}, {
+  "entityIndex" : "3_entity15343",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Davies",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:notableRole" : [ "Vernon in Northern Lights" ]
+  },
+  "words" : [ "Manchester-based", "-LRB-", "Ray", "Paul", "life", "drama", "Jones", "Simone", "appeared", "Suranne", "Valentine", "Conviction", "July", "lived", "Winstone", "area", "include", "films", "Vincent", "14", "alongside", "set", "including", "television", "programmes", "born", "acclaimed", "Killed", "Davies", "many", ",", ".", "actor", "English", "feature-length", "North-West", "-RRB-", "Manchester", "Also", "1968", "murder-based", "?" ],
+  "adjectives" : [ "Manchester-based", "English", "feature-length", "acclaimed", "many", "murder-based" ],
+  "nouns" : [ "actor", "area", "drama", "television", "Conviction", "life" ],
+  "text" : "Vincent Paul Davies (born 14 July 1968) is an English actor. Davies has lived in the Manchester area all of his life and has appeared in many Manchester-based television programmes. These include the acclaimed drama Vincent, alongside Suranne Jones and Ray Winstone, and Conviction, a murder-based drama set in the North-West. Also, he has appeared in many feature-length films, including Who Killed Simone Valentine? and Everybody Loves Sunshine,alongside David Bowie and Goldie. Currently, he is appearing in the British sitcom The Visit, which also features Steve Edge and Iain McKee."
+}, {
+  "entityIndex" : "4_entity11723",
+  "entityUrl" : "http://dbpedia.org/resource/Dubbing_Janaki",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:notableRole" : [ "http://dbpedia.org/resource/Sagara_Sangamam", "Geethanjali", "Swati Mutyam" ]
+  },
+  "words" : [ "actress", "famous", "languages", "artist", "television", "'80s", "South", "also", "film", "sentimental", ".", "Dubbing", "mother", "characters", "acted", "various", "dubbing", "Janaki", "Indian", "favorite" ],
+  "adjectives" : [ "famous", "various", "Indian", "favorite", "sentimental" ],
+  "nouns" : [ "actress", "mother", "artist", "television", "film" ],
+  "text" : "Dubbing Janaki is an Indian film and television actress. She acted in South Indian languages. She was a favorite for sentimental mother characters during '80s. She was also a famous dubbing artist for various characters. She has perfect diction in her voice."
+}, {
+  "entityIndex" : "5_entity12713",
+  "entityUrl" : "http://dbpedia.org/resource/Joanna_Kanska",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:notableRole" : [ "Grete Grotowska in A Very Peculiar Practice" ]
+  },
+  "words" : [ "actress", "films", "-LRB-", "television", "born", "United", ",", "April", ".", "radio", "theatre", "1", "worked", "1984", "Joanna", "immigrated", "Kingdom", "Kanska", "-RRB-", "Polish-British", "1959" ],
+  "adjectives" : [ "Polish-British" ],
+  "nouns" : [ "theatre", "actress", "television", "radio" ],
+  "text" : "Joanna Kanska (born 1 April 1959) is a Polish-British actress who has worked in films, television, theatre and radio. She immigrated to the United Kingdom in 1984."
+} ]

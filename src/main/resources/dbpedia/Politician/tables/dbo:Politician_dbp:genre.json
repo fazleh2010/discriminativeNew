@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity3163",
+  "entityUrl" : "http://dbpedia.org/resource/Carl_Forsaith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:genre" : [ "History" ]
+  },
+  "words" : [ "New", "-LRB-", "September", "book", "official", "C.", "known", "Hampshire", "writing", "15", "author", "Carl", "politician", "Auburn", "history", "published", ",", "'s", "-", ".", "August", "1888", "2", "1982", "Forsaith", "-RRB-", "well", "writer", "1945" ],
+  "adjectives" : [ "official" ],
+  "nouns" : [ "author", "politician", "book", "writer", "history" ],
+  "text" : "Carl C. Forsaith (September 2 1888 - August 15 1982) was an author, writer and politician from Auburn, New Hampshire. He is most well known for writing Auburn's official history book, published in 1945.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity3180",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Stewart_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:genre" : [ "http://dbpedia.org/resource/Techno-thriller", "http://dbpedia.org/resource/LDS_fiction", "http://dbpedia.org/resource/History" ]
+  },
+  "words" : [ "``", "Politiker", "-LRB-", "Juli", "ist", "ein", "den", "Stewart", "Utah", "US-Repräsentantenhaus", "Chris", "Bundesstaat", "US-amerikanischer", "Christopher", "15", "im", "vertritt", "*", ",", "er", ".", "Douglas", "Logan", "1960", "2013", "-RRB-", "Seit" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Christopher Douglas „Chris“ Stewart (* 15. Juli 1960 in Logan, Utah) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat Utah im US-Repräsentantenhaus.",
+  "patterns" : { }
+} ]

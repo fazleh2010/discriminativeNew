@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity12337",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Fielder",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:url" : [ "http://www.harryfielder.co.uk" ]
+  },
+  "words" : [ "films", "British", "-LRB-", "Harry", "26", "Fielder", "artist", "television", "born", "April", ".", "actor", "English", "worked", "1940", "extensively", "-RRB-", "supporting", "1960s", "since" ],
+  "adjectives" : [ "English", "British" ],
+  "nouns" : [ "actor", "artist", "television" ],
+  "text" : "Harry Fielder (born 26 April 1940) is an English actor and supporting artist who has worked extensively in British films and television since the 1960s."
+} ]

@@ -1,0 +1,13 @@
+# dbo:Actor_dbo:nationality_probability_0.45_0.45.txt ####################################
+id=4  property=dbo:nationality  object=http://dbpedia.org/resource/Sweden  NumberOfEntitiesFoundForObject=138
+film-NN  multiply=0.628511  P(film|object)=0.717391  P(object|film)=0.876106    
+actor-NN  multiply=0.508302  P(actor|object)=0.615942  P(object|actor)=0.825243    
+actress-NN  multiply=0.41367  P(actress|object)=0.492754  P(object|actress)=0.839506    
+
+# dbo:Actor_dbo:nationality_probability_0.6_0.6.txt ####################################
+id=3  property=dbo:nationality  object=http://dbpedia.org/resource/Sweden  NumberOfEntitiesFoundForObject=138
+film-NN  multiply=0.628511  P(film|object)=0.717391  P(object|film)=0.876106    
+actor-NN  multiply=0.508302  P(actor|object)=0.615942  P(object|actor)=0.825243    
+
+
+

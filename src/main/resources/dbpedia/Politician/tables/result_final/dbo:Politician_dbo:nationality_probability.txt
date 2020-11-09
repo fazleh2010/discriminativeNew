@@ -1,0 +1,42 @@
+# dbo:Politician_dbo:nationality_probability_0.45_0.45.txt ############################################
+id=21  property=dbo:nationality  object=http://dbpedia.org/resource/India  NumberOfEntitiesFoundForObject=537
+indian-JJ  multiply=0.816426  P(indian|object)=0.841713  P(object|indian)=0.969957    
+constituency-NN  multiply=0.559616  P(constituency|object)=0.610801  P(object|constituency)=0.916201    
+election-NN  multiply=0.214245  P(election|object)=0.458101  P(object|election)=0.467681    
+
+id=22  property=dbo:nationality  object=http://dbpedia.org/resource/Australia  NumberOfEntitiesFoundForObject=513
+australian-JJ  multiply=0.779686  P(australian|object)=0.846004  P(object|australian)=0.92161    
+labor-NN  multiply=0.728893  P(labor|object)=0.764133  P(object|labor)=0.953883    
+assembly-NN  multiply=0.318436  P(assembly|object)=0.666667  P(object|assembly)=0.477654    
+legislative-JJ  multiply=0.292047  P(legislative|object)=0.610136  P(object|legislative)=0.478659    
+party-NN  multiply=0.222962  P(party|object)=0.489279  P(object|party)=0.455696    
+
+id=23  property=dbo:nationality  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=67
+american-JJ  multiply=0.48301  P(american|object)=0.58209  P(object|american)=0.829787    
+
+id=24  property=dbo:nationality  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=67
+british-JJ  multiply=0.291898  P(british|object)=0.552239  P(object|british)=0.528571    
+
+# dbo:Politician_dbo:nationality_probability_0.6_0.6.txt ############################################
+id=12  property=dbo:nationality  object=http://dbpedia.org/resource/India  NumberOfEntitiesFoundForObject=537
+indian-JJ  multiply=0.816426  P(indian|object)=0.841713  P(object|indian)=0.969957    
+constituency-NN  multiply=0.559616  P(constituency|object)=0.610801  P(object|constituency)=0.916201    
+
+id=13  property=dbo:nationality  object=http://dbpedia.org/resource/Australia  NumberOfEntitiesFoundForObject=513
+australian-JJ  multiply=0.779686  P(australian|object)=0.846004  P(object|australian)=0.92161    
+labor-NN  multiply=0.728893  P(labor|object)=0.764133  P(object|labor)=0.953883    
+
+
+# dbo:Politician_dbo:nationality_probability_0.8_0.8.txt ############################################
+id=5  property=dbo:nationality  object=http://dbpedia.org/resource/India  NumberOfEntitiesFoundForObject=537
+indian-JJ  multiply=0.816426  P(indian|object)=0.841713  P(object|indian)=0.969957    
+
+id=6  property=dbo:nationality  object=http://dbpedia.org/resource/Australia  NumberOfEntitiesFoundForObject=513
+australian-JJ  multiply=0.779686  P(australian|object)=0.846004  P(object|australian)=0.92161    
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity10644",
+  "entityUrl" : "http://dbpedia.org/resource/Kurt_Schumacher",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:position" : [ "right" ]
+  },
+  "words" : [ "``", "Bundestag", "Opposition", "Nazis", "years", "Communist", "1895", "mistreated", "opponent", "ten", "severely", "red-painted", "--", "Konrad", "13", "Democratic", "Carl", ",", "'s", ".", "communists", "August", "camps", "Unity", "even", "post-war", "served", "-RRB-", "far-right", "1949", "1946", "Adenauer", "East", "20", "Germany", "i.e.", "Chancellor", "fathers", "-LRB-", "Leader", "death", "description", "German", "Socialist", "founding", "Republic", "general", "October", "1952", "Party", "government", "far-left", "stronger", "democratic", "Schumacher", "Social", "''", "Ernst", "famous", "social", "West", "Nazi", "politician", "one", "spent", "chairman", "also", "concentration", "democracy", "Kurt", "noted", "Weimar", "communism", "first" ],
+  "adjectives" : [ "famous", "social", "West", "Nazi", "German", "Socialist", "general", "far-left", "post-war", "democratic", "far-right", "East", "red-painted", "first" ],
+  "nouns" : [ "government", "death", "Bundestag", "politician", "opponent", "description", "chairman", "concentration", "communism", "democracy", "founding" ],
+  "text" : "Kurt Ernst Carl Schumacher (13 October 1895 – 20 August 1952) was a German social democratic politician, who served as chairman of the Social Democratic Party of Germany from 1946 and was the first Leader of the Opposition in the West German Bundestag from 1949 until his death. An opponent of Chancellor Konrad Adenauer's government, but an even stronger opponent of the East German Socialist Unity Party and communism in general, he was one of the founding fathers of post-war German democracy. He was also a noted opponent of the far-right and the far-left, i.e. the Nazi Party and the Communist Party of Germany, during the Weimar Republic, and is famous for his description of the communists as \"red-painted Nazis.\" He spent over ten years in Nazi concentration camps, where he was severely mistreated.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity2149",
+  "entityUrl" : "http://dbpedia.org/resource/Blane_Vick",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:position" : [ "Jury Commissioner, Douglas County" ]
+  },
+  "words" : [ "``", "Pebblebrook", "-LRB-", "May", "American", "Republican", "County", "Warner", "School", "candidate", "Vick", "Board", "Back", "Mableton", "''", "attended", "High", "Movement", "Commissioners", "15", "born", "politician", "4th", ",", "grew", ".", "1987", "seat", "Architect", "Douglas", "GOSBOT", "Get", "-RRB-", "Blane", "Georgia", "Society", "District", "Track" ],
+  "adjectives" : [ "American", "4th", "Republican" ],
+  "nouns" : [ "seat", "Architect", "candidate", "politician" ],
+  "text" : "Warner \"Blane\" Vick (born May 15, 1987) is an American politician. He grew up in Mableton, Georgia and attended Pebblebrook High School. Architect of the GOSBOT (Get Our Society Back On Track) Movement. Vick was a Republican candidate for 4th District seat of the Board of Commissioners in Douglas County, Georgia. later served as one of the last Jury Commissioners in Douglas County, Georgia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity17624",
+  "entityUrl" : "http://dbpedia.org/resource/Tanvir_Sadiq",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:position" : [ "http://dbpedia.org/resource/POLITICAL_SECRETARY" ]
+  },
+  "words" : [ "prolific", "politics", "young", "artist", "Mr.", "blogger", "political", "youngest", "Jaffer", "Omar", "Srinagar", "Conference", "issues", "youth", "empowerment", "secretary", "son", "National", "known", "Kashmir", "papier-mâché", "Jammu", "Tanvir", "Sadiq", "spokesman", "minister", "Abdullah-led", "grandson", "social", "relating", "chief", "&", "politician", "also", ",", "Earlier", "former", "Abdullah", ".", "entrepreneur", "senior", "matters", "writer", "party", "women", "Ali" ],
+  "adjectives" : [ "senior", "prolific", "Abdullah-led", "known", "young", "social", "political", "papier-mâché", "former" ],
+  "nouns" : [ "spokesman", "minister", "grandson", "artist", "chief", "politician", "blogger", "youth", "entrepreneur", "empowerment", "secretary", "son", "writer", "party" ],
+  "text" : "Tanvir Sadiq is the political secretary of the former chief minister of Jammu and Kashmir Mr. Omar Abdullah . Earlier he was the youngest spokesman of the Omar Abdullah-led Jammu & Kashmir National Conference party. A young politician from Jammu & Kashmir, he is a prolific writer on politics, social issues and matters relating to empowerment of youth and women and is also a known blogger. Tanvir Sadiq is the son of a senior politician of Jammu and Kashmir Sadiq Ali, and grandson of Jaffer Ali who was a papier-mâché artist and an entrepreneur from Srinagar, Kashmir.",
+  "patterns" : { }
+} ]

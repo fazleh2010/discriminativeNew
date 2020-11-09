@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity5765",
+  "entityUrl" : "http://dbpedia.org/resource/Glen_Taylor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:netWorth" : [ "2500000000" ]
+  },
+  "words" : [ "-LRB-", "American", "Basketball", "A.", "Glen", "basketball", "Association", "Lynx", "National", "member", "majority", "businessman", "owner", "billionaire", "Taylor", "born", "Minnesota", "Timberwolves", "team", ",", "April", "former", ".", "1941", "Senate", "-RRB-", "20", "WNBA" ],
+  "adjectives" : [ "American", "former" ],
+  "nouns" : [ "owner", "billionaire", "basketball", "member", "majority", "team", "businessman" ],
+  "text" : "Glen A. Taylor (born April 20, 1941) is an American billionaire businessman who is the majority owner of the Minnesota Timberwolves National Basketball Association team, owner of the Minnesota Lynx WNBA basketball team and a former member of the Minnesota Senate.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity10689",
+  "entityUrl" : "http://dbpedia.org/resource/Kenneth_McClintock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:audio" : [ "You may listen to" ]
+  },
+  "words" : [ "Leadership", "year", "Denton", "Outgoing", "serve", "sworn", "office", "Kenneth", "President", "December", "post", "National", "four", "January", "Hispanic", "Incoming", "Rico", "19", "Puerto", ",", "'s", "Clinton", "chaired", "Rican", ".", "Governor", "first-in-line", "Thirteenth", "Senate", "2", "Hernández", "islands", "State", "served", "Luis", "-RRB-", "campaign", "primary", "Justice", "-LRB-", "longest", "role", "Chief", "Secretary", "McClintock", "2012", "Committee", "Council", "serving", "2009", "2008", "Fortuño", "Federico", "Lieutenant", "capacities", "Davison", "1957", "31", "successful", "succession", "Government", "born", "one", "twenty-second", "co-chair", "co-chaired", "Hillary", "fulfilling", "Transition" ],
+  "adjectives" : [ "twenty-second", "successful", "primary" ],
+  "nouns" : [ "succession", "co-chair", "first-in-line", "role", "post", "year", "Transition", "campaign", "office" ],
+  "text" : "Kenneth Davison McClintock Hernández (born January 19, 1957) served as the twenty-second Secretary of State of Puerto Rico, one of the four longest serving in that post. McClintock served as co-chair of Hillary Clinton’s National Hispanic Leadership Council in 2008, co-chaired her successful Puerto Rico primary campaign that year and served as the Thirteenth President of the Senate of Puerto Rico until December 31, 2008. He chaired Luis Fortuño’s Incoming Committee on Government Transition in 2008 and the Outgoing Committee on Government Transition in 2012, the only Puerto Rican to serve in both capacities. He was sworn into office as Secretary of State on January 2, 2009, by Chief Justice Federico Hernández Denton, fulfilling the role of Lieutenant Governor (first-in-line of succession) in the islands.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity13709",
+  "entityUrl" : "http://dbpedia.org/resource/Nelson_Antonio_Denis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:audio" : [ "You can hear Nelson Denis on WNYC Radio here." ]
+  },
+  "words" : [ "de", "Ley", "eventualmente", "estado", "con", "Comunitaria", "Representó", "trabajo", "Nueva", "abogado", "1975", "Harlem", "un", "Reinversión", "1977", "como", "Nelson", "inmigrantes", "el", "en", "Asamblea", ",", "es", ".", "miembros", "1", "Por", "Unidos", "Hipotecas", "-RRB-", "hispano", "Denis", "East", "posibilitó", "-LRB-", "York", "El", "acceso", "también", "Antonio", "reconocido", "Residenciales", "miles", "los", "por", "pueblo", "medio", "minorías", "1955", "Estatal", "su", "junio", "familias", "Barrio", "resto", "la", "Estados", "y", "conocido", "créditos" ],
+  "adjectives" : [ "posibilitó" ],
+  "nouns" : [ "abogado", "como", "Por", "con", "el", "un", "conocido", "y", "también" ],
+  "text" : "Nelson Antonio Denis (Nueva York, 1 de junio de 1955) es un abogado reconocido por su trabajo con los inmigrantes y el pueblo hispano de los Estados Unidos. Representó a East Harlem, también conocido como El Barrio, en la Asamblea Estatal de Nueva York. Por medio de la Ley de Hipotecas Residenciales de 1975 y de la Ley de Reinversión Comunitaria de 1977, posibilitó el acceso a créditos a miles de familias miembros de minorías en el estado de Nueva York y eventualmente en el resto de Estados Unidos.",
+  "patterns" : { }
+} ]

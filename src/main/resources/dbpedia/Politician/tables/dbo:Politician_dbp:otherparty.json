@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "1_entity8319",
+  "entityUrl" : "http://dbpedia.org/resource/James_Harper_Prowse",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherparty" : [ "Independent" ]
+  },
+  "words" : [ "-LRB-", "September", "Alberta", "death", "27", "Jr.", "barrister", "led", "provincially", "1976", "opposition", "later", "province", "federal", "member", "provincial", "1959", "1958", "1913", "Assembly", "November", "--", "Prowse", "James", "Liberal", "politician", "solicitor", ",", "Harper", ".", "senator", "Canada", "Independent", "3", "serviceman", "served", "-RRB-", "Legislative", "1948", "1945", "sitting", "party", "1966" ],
+  "adjectives" : [ "Liberal", "federal", "provincial", "Legislative" ],
+  "nouns" : [ "senator", "opposition", "province", "death", "serviceman", "politician", "member", "barrister", "solicitor", "Assembly", "party" ],
+  "text" : "James Harper Prowse Jr.  (November 3, 1913 – September 27, 1976), was a serviceman, provincial and federal politician, barrister and solicitor from Canada. Prowse served as a member of the Legislative Assembly of Alberta from 1945 to 1959 sitting as an Independent and a Liberal in opposition. He led the Liberal provincially party from 1948 to 1958 and later served as a senator for the province of Alberta from 1966 until his death in 1976.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity9957",
+  "entityUrl" : "http://dbpedia.org/resource/Jayant_Prabhakar_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherparty" : [ "Shetakari Sanghatana" ]
+  },
+  "words" : [ "Co-Op", "-LRB-", "Secretary", "Peasants", "Council", "bank", "Party", "today", "Maharashtra", "Member", "Raigad", "Prabhakar", "politician", "chairman", ",", ".", "India", "Jayant", "Patil", "Workers", "शेकाप", "-RRB-", "Indian", "General", "Legislative", "District" ],
+  "adjectives" : [ "Indian", "Legislative" ],
+  "nouns" : [ "bank", "politician", "today", "chairman", "Council" ],
+  "text" : "Jayant Prabhakar Patil is an Indian politician. As of today, he is the General Secretary of Peasants and Workers Party of India (शेकाप) and a Member of the Legislative Council of Maharashtra. He is chairman of Raigad District Co-Op bank.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity4668",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Joseph_Poole",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherparty" : [ "Independent" ]
+  },
+  "words" : [ "--", "contractor", "-LRB-", "Canadian", "Eric", "politician", "19", ",", "building", ".", "1", "Poole", "December", "Joseph", "1907", "-RRB-", "federal", "1969", "January" ],
+  "adjectives" : [ "Canadian", "federal" ],
+  "nouns" : [ "contractor", "politician", "building" ],
+  "text" : "Eric Joseph Poole (December 19, 1907 – January 1, 1969) was a building contractor and a Canadian federal politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity15740",
+  "entityUrl" : "http://dbpedia.org/resource/Ronald_Ansley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherparty" : [ "Independent Social Credit" ]
+  },
+  "words" : [ "-LRB-", "Alberta", "March", "December", "Credit", "government", "Earl", "member", "provincial", "1935", "Assembly", "--", "Social", "1908", "politician", ",", ".", "1965", "Canada", "1963", "Independent", "Ronald", "Ansley", "6", "served", "caucus", "-RRB-", "Legislative", "20", "sitting" ],
+  "adjectives" : [ "provincial", "Legislative" ],
+  "nouns" : [ "government", "politician", "caucus", "member", "Assembly" ],
+  "text" : "Ronald Earl Ansley (March 20, 1908 – December 6, 1965) was a provincial politician from Alberta, Canada. He served as a member of the Legislative Assembly of Alberta from 1935 to 1963 sitting with the Social Credit caucus in government and as an Independent.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity4181",
+  "entityUrl" : "http://dbpedia.org/resource/David_Hunter_(Queensland_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherparty" : [ "Opposition" ]
+  },
+  "words" : [ "conservative", "-LRB-", "September", "buried", "member", "Bulimba", "Cemetery", "1858", "Assembly", "1912", "November", "--", "Hunter", "16", "Woolloongabba", "politician", "1908", ".", "Australian", "David", "-RRB-", "Legislative", "1927", "20", "Queensland" ],
+  "adjectives" : [ "conservative", "Australian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "David Hunter (16 November 1858 – 20 September 1927) was an Australian politician. He was the conservative member for Woolloongabba in the Legislative Assembly of Queensland from 1908 to 1912. Hunter is buried in Bulimba Cemetery.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity6773",
+  "entityUrl" : "http://dbpedia.org/resource/Hideo_Higashikokubaru",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherparty" : [ "Independent" ]
+  },
+  "words" : [ "``", "Sonomanma", "Takeshi", "run", "without", "incumbent", "second", "December", "Tokyo", "Prefecture", "resigining", "Ishihara", "16", "literally", "originally", "House", ",", "'s", "Japanese", ".", "elected", "Governor", "served", "-RRB-", "name", "Miyazaki", "fame", "game", "-LRB-", "role", "September", "show", "2012", "2011", "英夫", "Representatives", "comedian", "general", "2007", "known", "Higashikokubaru", "Shintarō", "came", "1957", "popular", "Higashi", "resigned", "''", "election", "born", "politician", "change", "Hideo", "stage", "そのまんま東", "2013", "Castle", "rose", "東国原", "simply" ],
+  "adjectives" : [ "general", "Japanese", "popular", "incumbent", "second" ],
+  "nouns" : [ "comedian", "Governor", "game", "role", "election", "stage", "politician", "change", "name", "show", "fame" ],
+  "text" : "Hideo Higashikokubaru (東国原 英夫 Higashikokubaru Hideo, born September 16, 1957), is a Japanese politician. He originally rose to fame as a comedian under the stage name Sonomanma Higashi (そのまんま東, literally \"Higashi without change\" or \"simply Higashi\"), and was known for his role in the popular game show Takeshi's Castle. He served as the Governor of Miyazaki Prefecture from 2007 to 2011, resigining to run against incumbent Shintarō Ishihara for Governor of Tokyo in the 2011 election, where he came in second. He was elected to the House of Representatives in the general election of 2012, but resigned in December 2013.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity16612",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_A._Barnes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherparty" : [ "Independent Progressive" ]
+  },
+  "words" : [ "insurance", "Alberta", "held", "office", "Samuel", "later", "province", "provincial", "1936", "1935", "Assembly", "10", "--", "14", "Public", ",", "April", ".", "August", "Canada", "1941", "1940", "Edmonton", "served", "-RRB-", "municipal", "salesman", "-LRB-", "1919", "Augustus", "1910", "opposition", "1875", "School", "teacher", "government", "Credit", "public", "member", "1917", "Gordon", "Social", "stint", "Barnes", "politician", "also", "Independent", "third", "caucus", "Legislative", "decades", "trustee", "1926", "1925", "levels", "first", "sitting" ],
+  "adjectives" : [ "public", "third", "municipal", "provincial", "Legislative", "first" ],
+  "nouns" : [ "insurance", "stint", "politician", "office", "opposition", "teacher", "government", "province", "caucus", "member", "salesman", "trustee", "Assembly" ],
+  "text" : "Samuel Augustus Gordon Barnes (August 10, 1875 – April 14, 1941) was a teacher, insurance salesman and politician from Alberta, Canada. He held public office on both the municipal and provincial levels of government in the province. He served for decades as an Edmonton Public School trustee, his first stint was from 1910 to 1917 and then from 1919 to 1925 and a third stint from 1926 to 1936. He also served a member of the Legislative Assembly of Alberta from 1935 to 1940 sitting with the Social Credit caucus in government and later as an Independent in opposition.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity13312",
+  "entityUrl" : "http://dbpedia.org/resource/Molvi_Iftikhar_Hussain_Ansari",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherparty" : [ "President, All Jammu and Kashmir Shia Association, Chairman, Imam Hussain A.S Charitable Trust" ]
+  },
+  "words" : [ "11th", "held", "circles", "Conference", "muharram", "earlier", "National", "worldwide", "Iftikhar", "businessman", "Assembly", "Procession", "&", "Democratic", "night", "widely", "Hussain", ",", "ghareeba", "'s", "-", "April", ".", "1943", "among", "-RRB-", "position", ";", "Ashura", "subcontintent", "succeeded", "Kashmiri", "Congress", "religious", "shame", "-LRB-", "26", "September", "father", "global", "life", "Association", "Party", "Kashmir", "catapult", "member", "30", "Jammu", "cleric", "famous", "particularly", "Jawad", "politician", "orator", "speeches", "People", "Shia", "Molvi", "great", "authoriser", "majlise", "Grand", "Muhammad", "1962", "stage", "2014", "Indian", "Legislative", "hailed", "Ansari", "sitting", "president" ],
+  "adjectives" : [ "religious", "famous", "11th", "worldwide", "Indian", "Legislative", "Shia", "global", "great" ],
+  "nouns" : [ "cleric", "shame", "politician", "orator", "night", "father", "ghareeba", "authoriser", "life", "majlise", "muharram", "Association", "stage", "member", "position", "businessman", "Assembly", "subcontintent", "president" ],
+  "text" : "Molvi Iftikhar Hussain Ansari (26 April 1943 - 30 September 2014) was a Kashmiri Shia cleric, politician, businessman and a authoriser of Grand Ashura Procession In Kashmir. He was famous among religious circles as great orator of majlise shame - ghareeba the night of 11th muharram His religious speeches catapult him on global stage and were widely hailed worldwide particularly in the Indian subcontintent. He succeeded his father Molvi Muhammad Jawad Ansari as president of All Jammu and Kashmir Shia Association in Jammu & Kashmir in 1962, a position he held for life. He was a sitting member of Jammu and Kashmir's Legislative Assembly for the Jammu and Kashmir People's Democratic Party; he was earlier a member of National Conference and Congress. Ansari was also a renowned business man.",
+  "patterns" : { }
+} ]

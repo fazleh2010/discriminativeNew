@@ -1,0 +1,517 @@
+[ {
+  "entityIndex" : "1_entity10704",
+  "entityUrl" : "http://dbpedia.org/resource/Kamal_Hossain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "The principal author of the Constitution of Bangladesh" ]
+  },
+  "words" : [ "-LRB-", "Law", "Bangladeshi", "independence", "1975", "1974", "1973", "freedom", "1972", "Energy", "leadership", "1937", "Minister", "Constitution", "Foreign", "statesman", "jurist", "Affairs", "born", "politician", "also", "Hossain", "Kamal", ",", "April", ".", "Petroleum", "Bangladesh", "Act", "served", "-RRB-", "enacted", "fighter", "20" ],
+  "adjectives" : [ "Bangladeshi" ],
+  "nouns" : [ "statesman", "jurist", "freedom", "politician", "leadership", "fighter", "independence" ],
+  "text" : "Kamal Hossain (born 20 April 1937) is a Bangladeshi jurist, statesman, politician and freedom fighter. After the independence of Bangladesh, he served as Minister of Law from 1972 to 1973 and as Minister of Foreign Affairs from 1973 to 1975. He was also the Minister of Energy in 1974. Under his leadership, the Constitution of Bangladesh and the Bangladesh Petroleum Act were enacted.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity10961",
+  "entityUrl" : "http://dbpedia.org/resource/Karn_Manhas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Founder and CEO of Terramera BioSciences" ]
+  },
+  "words" : [ "BC", "Biotechnology", "B.Sc", "McGill", "MLA", "Law", "-LRB-", "Coquitlam-Burke", "Canadian", "Port", "Mr.", "youngest", "riding", "Biology", "Manhas", "Karn", "2005", "Mountain", "province", "Juris", "Genetics", "businessman", "Member", "Assembly", "British", "Liberal", "politician", "2001", "representing", "history", "Doctor", ",", "entrepreneur", "former", ".", "elected", "ever", "Columbia", "University", "served", "-RRB-", "Legislative", "holds" ],
+  "adjectives" : [ "Canadian", "Legislative", "former" ],
+  "nouns" : [ "Biotechnology", "B.Sc", "MLA", "province", "politician", "history", "businessman", "entrepreneur", "Assembly" ],
+  "text" : "Karn Manhas is a Canadian businessman, entrepreneur and a former politician, who served as a BC Liberal Member of the Legislative Assembly of British Columbia from 2001 to 2005, representing the riding of Port Coquitlam-Burke Mountain. Manhas was the youngest MLA ever elected in the history of the province of British Columbia. Mr. Manhas holds a Juris Doctor in Law from the University of British Columbia, and a B.Sc. in Biology (Genetics) and Biotechnology from McGill University. Recently, he was named as one of Business In Vancouver's Top Forty Under 40 business people in 2012. Manhas is the founder of Terramera, a Vancouver-based biotechnology company that develops plant-based pest control products.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity8627",
+  "entityUrl" : "http://dbpedia.org/resource/Julia_Bonk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Youngest member of parliament in Germany" ]
+  },
+  "words" : [ "-LRB-", "Juni", "29", "2012", "Sächsischen", "ist", "bis", "der", "Politikerin", "Parteivorstands", "des", "von", "2004", "Die", "Landtags", "deutsche", "Partei", "war", "*", "und", "Linke", ".", "April", "Sie", "Julia", "1986", "Mitglied", "Anastasia", "eine", "Bonk", "2014", "Burg", "-RRB-" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politikerin", "eine", "von", "Burg", "deutsche", "war", "und", "ist" ],
+  "text" : "Julia Anastasia Bonk (* 29. April 1986 in Burg) ist eine deutsche Politikerin (Die Linke). Sie war von 2004 bis 2014 Mitglied des Sächsischen Landtags und von Juni 2012 bis 2014 Mitglied des Parteivorstands der Partei Die Linke.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity9169",
+  "entityUrl" : "http://dbpedia.org/resource/Josiane_Mathon-Poinat",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Politics" ]
+  },
+  "words" : [ "Josiane", "23", "français", "-LRB-", "politique", "est", "née", "1954", "du", "La", "Mathon-Poinat", "à", "communiste", "membre", "Parti", "Ricamarie", "française", "août", "femme", ",", "une", ".", "-RRB-", "le", "Loire" ],
+  "adjectives" : [ "femme", "une" ],
+  "nouns" : [ "à", "communiste", "français", "membre", "politique", "française", "août", "née" ],
+  "text" : "Josiane Mathon-Poinat, née le 23 août 1954 à La Ricamarie (Loire), est une femme politique française, membre du Parti communiste français.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity9327",
+  "entityUrl" : "http://dbpedia.org/resource/Jussi_Halla-aho",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/Criticism_of_multiculturalism", "http://dbpedia.org/resource/Criticism_of_Islam", "Criticism of humanitarian immigration" ]
+  },
+  "words" : [ "d'immigration", "de", "Il", "politique", "27", "est", "critique", "lu", "spécialiste", "avril", "sa", "langues", "des", "journal", "1971", "linguiste", "Selon", "un", "Finlande", "Aamulehti", "à", "slaves", "il", "Kristian", "multiculturalisme", "pour", "Halla-aho", ",", "finlandais", "Tampere", ".", "connu", "plus", "blogueur", "et", "homme", "la", "également", "Jussi", "le", "né" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Il", "politique", "est", "critique", "spécialiste", "finlandais", "avril", "connu", "sa", "blogueur", "journal", "également", "linguiste", "un", "né" ],
+  "text" : "Jussi Kristian Halla-aho, né le 27 avril 1971 à Tampere, est un linguiste finlandais, spécialiste des langues slaves, également blogueur et homme politique. Il est connu pour sa critique de la politique d’immigration et le multiculturalisme de la Finlande. Selon le journal Aamulehti, il est le blogueur politique le plus lu de Finlande.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity9406",
+  "entityUrl" : "http://dbpedia.org/resource/James_Ashley_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Lord Mayor of Manchester" ]
+  },
+  "words" : [ "Mayor", "-LRB-", "May", "England", "ward", "Gorton", "2006", "Democrat", "councillor", "--", "12", "James", "Liberal", "politician", "South", "City", ",", ".", "August", "Lord", "1940", "-RRB-", "Manchester", "Ashley", "21" ],
+  "adjectives" : [ "Liberal" ],
+  "nouns" : [ "politician", "City", "councillor" ],
+  "text" : "James Ashley (21 May 1940 – 12 August 2006) was a Liberal Democrat politician in the City of Manchester, England. He was the Lord Mayor of Manchester, and a councillor in the Gorton South ward.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity9544",
+  "entityUrl" : "http://dbpedia.org/resource/Janardan_Waghmare",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Writer,Teacher & Educationist/Professor,Agriculturist/Farmer,Political and Social Worker, Social Reformer." ]
+  },
+  "words" : [ "Berfore", "Latur", "Chancellor", "Rajarshi", "upper", "Nanded", "house", "Council", "President", "Sabha", "member", "First", "Shahu", "Vice", "Waghmare", "thant", "politician", "Teerth", "also", "Ramanand", ",", ".", "Municipal", "Swami", "Rajya", "University", "served", "College", "Indian", "Marathwda", "Janardan", "Parliament", "Principal" ],
+  "adjectives" : [ "upper", "Indian" ],
+  "nouns" : [ "Berfore", "thant", "politician", "member", "house", "Principal" ],
+  "text" : "Janardan Waghmare is an Indian politician and a member of the Rajya Sabha, the upper house of the Indian Parliament. Berfore thant he was the President of Latur Municipal Council. He has also served the First Vice Chancellor of Swami Ramanand Teerth Marathwda University, Nanded and as Principal of Rajarshi Shahu College, Latur.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity9941",
+  "entityUrl" : "http://dbpedia.org/resource/Jacob_Oulanyah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/Politics" ]
+  },
+  "words" : [ "May", "2011", "Acholi", "parliament", "County", "agricultural", "Northern", "member", "sub-region", "L'Okori", "lawyer", "Speaker", "Oulanyah", "Omoro", "economist", "Deputy", "politician", "19", "representing", "also", ",", "Ugandan", ".", "constituency", "Gulu", "Uganda", "Region", "District", "Parliament", "Jacob", "since" ],
+  "adjectives" : [ "agricultural", "Northern", "Ugandan" ],
+  "nouns" : [ "economist", "constituency", "politician", "member", "sub-region", "Region", "parliament", "lawyer" ],
+  "text" : "Oulanyah Jacob L'Okori is a Ugandan politician, agricultural economist, and lawyer. He has been the Deputy Speaker of the Parliament of Uganda since 19 May 2011. Oulanyah is also the member of parliament representing the Omoro County constituency, Gulu District, Acholi sub-region, in the Northern Region.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity9957",
+  "entityUrl" : "http://dbpedia.org/resource/Jayant_Prabhakar_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Shetkari Sanghatana" ]
+  },
+  "words" : [ "Co-Op", "-LRB-", "Secretary", "Peasants", "Council", "bank", "Party", "today", "Maharashtra", "Member", "Raigad", "Prabhakar", "politician", "chairman", ",", ".", "India", "Jayant", "Patil", "Workers", "शेकाप", "-RRB-", "Indian", "General", "Legislative", "District" ],
+  "adjectives" : [ "Indian", "Legislative" ],
+  "nouns" : [ "bank", "politician", "today", "chairman", "Council" ],
+  "text" : "Jayant Prabhakar Patil is an Indian politician. As of today, he is the General Secretary of Peasants and Workers Party of India (शेकाप) and a Member of the Legislative Council of Maharashtra. He is chairman of Raigad District Co-Op bank.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity10516",
+  "entityUrl" : "http://dbpedia.org/resource/Juan_Requesens",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Leading 2014 opposition student protests at UCV" ]
+  },
+  "words" : [ "Nacional", "de", "-LSB-", "con", "político", "UCV", "hablar", "Central", "salió", "del", "dirigido", "puesto", "han", "dada", "oponiéndose", "un", "Ha", "vivo", "estudiantil", "las", "el", "Maduro", "en", "Asamblea", "al", "estudiantes", "diputado", ",", "diciembre", "directamente", "Bolivariana", "es", ".", "líder", "puedan", "República", "movimiento", "presidido", "6", "marchas", "-RRB-", "electo", "CNE", "adjudicación", "1989", "venezolano", "que", "Actualmente", "-LRB-", "Universidad", "gobierno", "periodo", "detenidos", "Táchira", "Nicolás", "llevara", "sea", "los", "por", "se", "liberación", "sido", "para", "durante", "si", "pueblo", "elecciones", "televisada", "su", "demandas", "una", "Requesens", "protestas", "Venezuela", "oposición", "venezolanas", "la", "2015", "2014", "fue", "2016-2020", "y", "requerida", "-RSB-", "Juan", "reunión", "cita", "Las", "principales" ],
+  "adjectives" : [ "y", "adjudicación" ],
+  "nouns" : [ "que", "con", "político", "periodo", "el", "diputado", "sea", "líder", "por", "para", "dada", "un", "estudiantil", "televisada" ],
+  "text" : "Juan Requesens (Táchira, Venezuela, 1989) es un líder político estudiantil de la Universidad Central de Venezuela (UCV) y fue el líder de la oposición estudiantil durante las protestas venezolanas de 2014. Ha dirigido marchas oponiéndose al gobierno venezolano presidido por Nicolás Maduro. Las demandas principales de su movimiento es la liberación de los estudiantes que han sido detenidos, y si una reunión se llevara con Maduro, que sea televisada en vivo para que puedan hablar directamente con el pueblo venezolano.[cita requerida] Actualmente, Requesens es diputado a la Asamblea Nacional de la República Bolivariana de Venezuela, puesto que salió electo en las elecciones del 6 de diciembre de 2015, para el periodo 2016-2020, adjudicación dada por el CNE.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity18636",
+  "entityUrl" : "http://dbpedia.org/resource/William_Fargo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Co-founder of American Express Company and Wells Fargo" ]
+  },
+  "words" : [ "Company", "Mayor", "-LRB-", "May", "American", "financial", "War", "pioneer", "serving", "expressman", "found", "U.S.", "George", "modern", "Fargo", "1818", "helped", "day", "Henry", "Buffalo", "--", "Express", "business", "also", "William", ",", ".", "27th", "August", "1866", "Civil", "3", "partner", "1862", "1881", "-RRB-", "firms", "Wells", "20" ],
+  "adjectives" : [ "American", "modern", "financial", "27th" ],
+  "nouns" : [ "expressman", "business", "partner", "pioneer", "day" ],
+  "text" : "William George Fargo (May 20, 1818 – August 3, 1881) was a pioneer American expressman who helped found the modern day financial firms of American Express Company and Wells Fargo with his business partner, Henry Wells. He was also the 27th Mayor of Buffalo, serving from 1862 until 1866 during the U.S. Civil War.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity19468",
+  "entityUrl" : "http://dbpedia.org/resource/William_J._Hutchins",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Mayor of Houston, Railways" ]
+  },
+  "words" : [ "Hutchins", "、", "。", "1813年3月3日", "J.", "ハッチンス", "1884年6月4日", "（", "）", "J", "William", "-", "ウィリアム", "は", "アメリカ合衆国の実業家", "政治家", "・" ],
+  "adjectives" : [ ],
+  "nouns" : [ "、", "。", "J", "ウィリアム" ],
+  "text" : "ウィリアム・J・ハッチンス（William J. Hutchins、1813年3月3日 - 1884年6月4日）は、アメリカ合衆国の実業家、政治家。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity18340",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Yates",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/Pacifism" ]
+  },
+  "words" : [ "68", "-LRB-", "death", "Labour", "by-election", "Ladywood", "incumbent", "Victor", "general", "October", "candidate", "Francis", "gained", "Unionist", "attack", "Commons", "beat", "subsequent", "July", "pacifist", "January", "Member", "--", "British", "election", "Liberal", "politician", "19", "Lawler", "House", ",", "Birmingham", "Yates", "April", ".", "heart", "seat", "Wallace", "-RRB-", "preceding", "1969", "Parliament", "1945", "age", "1900" ],
+  "adjectives" : [ "general", "British", "Unionist", "Liberal", "subsequent", "incumbent" ],
+  "nouns" : [ "seat", "candidate", "election", "death", "attack", "politician", "Labour", "by-election", "pacifist", "age", "heart" ],
+  "text" : "Victor Francis Yates (19 April 1900 – 19 January 1969) was a British pacifist Labour politician. He was Member of Parliament for Birmingham, Ladywood from the July 1945 general election, when he beat the Unionist incumbent, until his death in January 1969 at the age of 68. He had had a heart attack in the House of Commons in the preceding October. In the subsequent by-election the seat was gained by the Liberal candidate Wallace Lawler. At Yates' cremation, his pallbearers were Roy Hattersley, Denis Howell, Roy Jenkins and Brian Walden. The National Portrait Gallery holds a number of photographic portraits of him, including several by Walter Stoneman. The Victor Yates Care Home in Ladywood is named in his honour.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity2472",
+  "entityUrl" : "http://dbpedia.org/resource/Cassius_Marcellus_Clay_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Southern abolitionist and U.S. ambassador to Russia" ]
+  },
+  "words" : [ "22", "Oktober", "Madison", "Politiker", "Abolitionist", "-LRB-", "Juli", "ein", "County", "1810", "US-amerikanischer", "†", "Marcellus", "Clay", "im", "Kentucky", "19", "war", "*", "und", ",", "ebenda", ".", "-RRB-", "Cassius", ";", "1903" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "Abolitionist", "war", "und", "ein", "ebenda", "US-amerikanischer" ],
+  "text" : "Cassius Marcellus Clay (* 19. Oktober 1810 im Madison County, Kentucky; † 22. Juli 1903 ebenda) war ein US-amerikanischer Politiker und Abolitionist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity3340",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Baryomunsi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "HIV/AIDS Management, politics" ]
+  },
+  "words" : [ "June", "-LRB-", "Previously", "March", "December", "public", "Chris", "physician", "Minister", "Duties", "Cabinet", "Health", "Baryomunsi", "born", "politician", "health", ",", "Housing", "Ugandan", ".", "appointed", "1", "demographer", "2016", "specialist", "2015", "State", "6", "served", "-RRB-", "9", "Uganda", "General", "position", "1969" ],
+  "adjectives" : [ "public", "Ugandan" ],
+  "nouns" : [ "demographer", "specialist", "politician", "health", "physician", "position" ],
+  "text" : "Chris Baryomunsi (born 9 December 1969) is a Ugandan physician, public health specialist, demographer, and politician. He is the State Minister for Housing in the Cabinet of Uganda. He was appointed to that position on 6 June 2016. Previously, from 1 March 2015 until 6 June 2016, he served as State Minister of Health for General Duties. Baryomunsi is the elected Member of Parliament for Kinkiizi County East and a member of Uganda's ruling party, the National Resistance Movement (NRM}. He was appointed as State Health Minister for General Duties on 1 March 2015, replacing Elioda Tumwesigye.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity2052",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Baxter",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "CIAU coach of the year; Canadian national volleyball team coach" ]
+  },
+  "words" : [ "46", "named", "-LRB-", "role", "Canadian", "Summer", "Sunshine", "media", "1976", "head", "rumours", "1952", "Coast", "later", "school", "member", "national", "1979", "activist", "fired", "British", "athlete", "began", "Betty", "Baxter", "born", "politician", "However", "team", ",", "'s", ".", "Columbia", "lesbian", "currently", "1982", "Olympics", "-RRB-", "report", "trustee", "volleyball", "District", "coach", "women" ],
+  "adjectives" : [ "lesbian", "Canadian", "national" ],
+  "nouns" : [ "activist", "head", "role", "athlete", "school", "politician", "member", "Summer", "trustee", "volleyball", "team", "coach" ],
+  "text" : "Betty Baxter (born 1952) is a Canadian athlete, activist and politician. Baxter is currently a school trustee for the Sunshine Coast District 46 in British Columbia. Baxter was a member of the women's national volleyball team at the 1976 Summer Olympics, and was later named the team's head coach in 1979. However, she was fired from that role in 1982 after the media began to report rumours that she was lesbian. Prior to being named coach of the national team, Baxter was a women's volleyball coach at the University of Ottawa, and was named the Canadian Interuniversity Athletics Union's coach of the year. Baxter was not actually out as lesbian at the time, but subsequently came out and served as a board member of the 1990 Gay Games in Vancouver. She also cofounded the Canadian Association for the Advancement of Women in Sport and the National Coaching School for Women. Baxter subsequently worked as a professional volleyball coach. Baxter ran as a New Democratic Party candidate in Vancouver Centre in the 1993 federal election, in a high-profile race against Prime Minister Kim Campbell, but was not elected. Baxter later was elected as a school trustee in 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity2156",
+  "entityUrl" : "http://dbpedia.org/resource/Blair_Lancaster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Local Public Service" ]
+  },
+  "words" : [ "pageant", "election", "business", "Canadian", "spa", "politician", "Lancaster", "operated", "2010", "City", ",", "subsequently", ".", "Council", "Canada", "1974", "winner", "Blair", "Burlington", "Miss", "municipal", "businesswoman", "Ontario", "ran" ],
+  "adjectives" : [ "Canadian", "municipal" ],
+  "nouns" : [ "pageant", "winner", "election", "business", "spa", "politician", "businesswoman" ],
+  "text" : "Blair Lancaster is a Canadian businesswoman and politician from Burlington, Ontario. A winner of the Miss Canada pageant in 1974, she subsequently operated her own spa business in Burlington. She ran for election to Burlington City Council in the 2010 municipal election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity18173",
+  "entityUrl" : "http://dbpedia.org/resource/Tiernan_Brady",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "political and LGBT rights campaigner" ]
+  },
+  "words" : [ "--", "Tiernan", "director", "Yes", "Director", "political", "LGBT", ".", "Irish", "GLEN", "campaigner", "Brady", "HIV", "rights", "Strategies", "Network", "campaign", "Lesbian", "Equality", "equality", "Gay" ],
+  "adjectives" : [ "political", "Lesbian", "Irish" ],
+  "nouns" : [ "campaigner", "HIV", "director", "Director", "campaign", "equality", "LGBT" ],
+  "text" : "Tiernan Brady is an Irish political and LGBT rights and equality campaigner. He was the Director of Gay HIV Strategies in GLEN – The Irish Gay and Lesbian Equality Network. and the political director of the Yes Equality campaign",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity15260",
+  "entityUrl" : "http://dbpedia.org/resource/Rod_Kenyon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Gas Industry Education and Training" ]
+  },
+  "words" : [ "Council", "Learning", "Engineering", "Utility", "OBE", "Energy", "Skills", "Network", "Kenyon", "Vice", "Human", "British", "Rod", "Academy", "West", "F.", "Director", "2001", "Ambassadors", "also", "former", ".", "Chairman", "appointed", "Apprenticeship", "University", "Gas", "London", "Region", "Resources", "board" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "Director", "board" ],
+  "text" : "Rod F. Kenyon OBE is a former Human Resources Director at British Gas and was Director of the British Gas Engineering Academy. In 2001 he was a Director of the Apprenticeship Ambassadors Network. Kenyon is also Vice Chairman of Energy and Utility Skills and former Chairman of Learning and Skills Council Region Council for London. Kenyon was appointed to the board of the University of West London in 2001. He is a Trustee of the National Gas Museum Trust and a Director of Dyslexia Action. Kenyon contested Houghton and Washington in the 1983 and 1987 General Elections. In 1985 he contested the Tyne Bridge by-election for the SDP-Liberal Alliance finishing second to David Clelland. Kenyon was appointed an Officer of the Order of the British Empire (OBE) in June 2005 for services to the Energy Industry.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity16112",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Allman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "His participation as an Irish Liberal Party politician" ]
+  },
+  "words" : [ "22", "-LRB-", "1880", "County", "December", "Party", "Commons", "Richard", "businessman", "1813", "Bandon", "--", "Cork", "Liberal", "politician", "sat", "Lane", "also", "House", ".", "Irish", "1885", "Allman", "-RRB-", "1904" ],
+  "adjectives" : [ "Irish" ],
+  "nouns" : [ "politician", "businessman" ],
+  "text" : "Richard Lane Allman (1813 – 22 December 1904) was an Irish businessman from Bandon in County Cork. He was also an Irish Liberal Party politician who sat in the House of Commons from 1880 to 1885.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity3485",
+  "entityUrl" : "http://dbpedia.org/resource/Duarte_Freitas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Leader of the PSD/Açores" ]
+  },
+  "words" : [ "became", "leader", "-LRB-", "part", "2012", "Regional", "Elections", "Party", "Portuguese", "coalition", "Member", "PSD/A", "10", "group", "Pico", "Social", "--", "Azorean", "Democratic", "born", "politician", "People", "Freitas", ",", "European", "'s", ".", "August", "Roque", "Democrats", "following", "-RRB-", "Duarte", ";", "Azores", "São", "Parliament", "1966" ],
+  "adjectives" : [ "Azorean", "Portuguese", "European" ],
+  "nouns" : [ "leader", "politician", "part", "coalition", "group" ],
+  "text" : "Duarte Freitas (born 10 August 1966 in São Roque do Pico, Azores) is a Portuguese politician and Member of the European Parliament for the Social Democratic Party–People's Party coalition; part of the European People's Party–European Democrats group. He became the leader of the Azorean the Social Democratic Party (PSD/A), following the 2012 Regional Elections.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity3596",
+  "entityUrl" : "http://dbpedia.org/resource/Delino_Dexter_Calvin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "timber, tug boats, Garden Island" ]
+  },
+  "words" : [ "New", "-LRB-", "Frontenac", "May", "Canadian", "England", "political", "naturalized", "1877", "1798", "1875", "Delino", "member", "represented", "Dexter", "businessman", "Assembly", "resident", "successful", "--", "citizen", "figure", "15", "18", ",", "former", ".", "Calvin", "1884", "1883", "Conservative", "-RRB-", "Legislative", "Ontario", "1868" ],
+  "adjectives" : [ "Canadian", "Conservative", "political", "Legislative", "naturalized", "former", "successful" ],
+  "nouns" : [ "citizen", "figure", "member", "businessman", "Assembly", "resident" ],
+  "text" : "Delino Dexter Calvin (May 15, 1798 – 18 May 1884) was a naturalized Canadian citizen, former resident of New England, successful Ontario businessman and political figure. He represented Frontenac in the Legislative Assembly of Ontario as a Conservative member from 1868 to 1875 and from 1877 to 1883.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity3893",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Laurent",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Being a French politician" ]
+  },
+  "words" : [ "français", "membre", "politique", "est", "Daniel", ",", ".", "du", "homme", "4", "au", "Sénat", "le", "un", "UMP", "1949", "né", "groupe", "Laurent", "février" ],
+  "adjectives" : [ ],
+  "nouns" : [ "homme", "politique", "est", "un", "né", "février" ],
+  "text" : "Daniel Laurent, né le 4 février 1949, est un homme politique français, membre du groupe UMP au Sénat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity4338",
+  "entityUrl" : "http://dbpedia.org/resource/Dmytro_Bulatov",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "being tortured due to his civil position in favour of Euromaidan" ]
+  },
+  "words" : [ "działacz", "Сергійович", "Dmytro", "-LRB-", "27", "lutego", "od", "lider", "Дмитро", "Kijowie", "sportu", "założyciel", "ukraiński", "ukr", "ur", "obywatelski", "1978", "13", "Bułatow", "minister", "Arsenija", "Serhijowycz", "Jaceniuka", "Булатов", ",", "-", "rządzie", ".", "sierpnia", "Automajdanu", "2014", "w", "młodzieży", "-RRB-" ],
+  "adjectives" : [ ],
+  "nouns" : [ "działacz", "minister", "sierpnia", "lutego", "Automajdanu", "od", "w", "lider", "młodzieży", "Kijowie", "ukraiński", "ukr", "ur", "obywatelski" ],
+  "text" : "Dmytro Serhijowycz Bułatow (ukr. Дмитро Сергійович Булатов, ur. 13 sierpnia 1978 w Kijowie) - ukraiński działacz obywatelski, lider i założyciel Automajdanu, od 27 lutego 2014 minister młodzieży i sportu w rządzie Arsenija Jaceniuka.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity19626",
+  "entityUrl" : "http://dbpedia.org/resource/Yeah_Samake",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "2013" ]
+  },
+  "words" : [ "de", "emprendedor", "-LRB-", "presidenciales", "27", "político", "Presidente", "Alcaldes", "Empower", "Malí", "Liga", "Ouelessebougou", "Mali", "un", "elecciones", "febrero", "candidato", "Vice", "nacido", "las", "actual", "social", "director", "el", "ejecutivo", "en", "Fundación", ",", "alcalde", "es", ".", "Samake", "la", "fue", "2013", "-RRB-", "Niankoro", "y", "Yeah", "1969" ],
+  "adjectives" : [ "actual", "social", "nacido" ],
+  "nouns" : [ "Malí", "emprendedor", "director", "el", "fue", "un", "y" ],
+  "text" : "Niankoro Yeah Samake (nacido el 27 de febrero de 1969) es un emprendedor social y político de Ouelessebougou, Mali. Samake es el director ejecutivo de la Fundación Empower Malí, el actual alcalde de Ouelessebougou, Vice Presidente de la Liga de Alcaldes de Malí, y fue candidato en las elecciones presidenciales de Malí 2013.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity7156",
+  "entityUrl" : "http://dbpedia.org/resource/Hemchandra_Kanungo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Indian Freedom Fighter" ]
+  },
+  "words" : [ "Hemchandra", "-LRB-", "Russian", "probably", "Kanungo", "09", "political", "leaders", "training", "secret", "pioneer", "Alipore", "life", "Case", "principal", "1951", "1871", "sentenced", "military", "Bomb", "released", "--", "co-accused", "obtain", "abroad", "went", "one", "1908", "Andamans", ",", ".", "transportation", "India", "1921", "Aurobindo", "emigre", "revolutionary", "Das", "organization", "-RRB-", "Ghosh", "obtained", "first", "Paris" ],
+  "adjectives" : [ "principal", "Russian", "revolutionary", "political", "military", "secret", "first" ],
+  "nouns" : [ "emigre", "revolutionary", "organization", "training", "pioneer", "Bomb", "life", "Case", "transportation" ],
+  "text" : "Hemchandra Kanungo Das (1871 – 1951) was one of the pioneer leaders of the secret revolutionary organization, and a principal co-accused with Aurobindo Ghosh in the Alipore Bomb Case (1908–09). He was sentenced to transportation for life in the Andamans, but was released in 1921. He was probably the first revolutionary from India who went abroad to obtain military and political training. He obtained training from the Russian emigre in Paris. He returned to India in January 1908. He opened a secret bomb factory \"Anusilonee Somitee\" at Maniktala near Kolkata, founder members of which were Hemchandra Kanungo, Aurobindo Ghosh (Sri Aurobindo) and his brother, Barindra Kumar Ghosh.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity7350",
+  "entityUrl" : "http://dbpedia.org/resource/Hamdeen_Sabahi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/Journalist", "http://dbpedia.org/resource/Politician" ]
+  },
+  "words" : [ "له", "الميول", "لرئاسة", "سابق", "حقوق", "حمدين", "وانتخابات", "،", "رئيس", "يوليو", "عبد", "المصريين", "الرئاسة", "جريدة", "المقصود", "ويعمل", "العاطي", "ناصري", "في", "عن", ".", "لحزب", "ومناصرة", "الدفاع", "5", "تحرير", "-RRB-", "مصري", "ومرشح", "الكرامة", "الوطنية", "-LRB-", "سياسي", "2012", "برلمان", "1954", "والعدالة", "القضايا", "وشهرته", "كرئيس", "الاجتماعية", "انتخابات", "صباحي", "الجمهورية", "وعضو", "المصرية", "وبرلماني", "2014", "تاريخ" ],
+  "adjectives" : [ ],
+  "nouns" : [ "له", "الميول", "رئيس", "حمدين", "صباحي", "عن" ],
+  "text" : "حمدين عبد العاطي عبد المقصود صباحي وشهرته حمدين صباحي (5 يوليو 1954) سياسي وبرلماني مصري. رئيس سابق لحزب الكرامة ويعمل كرئيس تحرير جريدة الكرامة وعضو برلمان سابق ومرشح لرئاسة الجمهورية في انتخابات 2012 وانتخابات الرئاسة المصرية 2014. له تاريخ في الدفاع عن حقوق المصريين والعدالة الاجتماعية ومناصرة القضايا الوطنية، ناصري الميول.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity16326",
+  "entityUrl" : "http://dbpedia.org/resource/Sultan_Salahuddin_Owaisi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/All_India_Muslim_Personal_Law_Board", "http://dbpedia.org/resource/Majlis-e-Ittehadul_Muslimeen" ]
+  },
+  "words" : [ "till", "stepping", "Owaisi", "second", "1976", "1931", "presidency", "son", "terms", "Pradesh", "Muslimeen", "death.In", "Member", "Assembly", "--", "took", "14", "Andhra", "Wahed", ",", "'s", "Hyderabad", ".", "India", "served", "-RRB-", "Parliament", "-LRB-", "September", "death", "Salahuddin", "city", "29", "father", "elder", "favour", "Asaduddin", "Majlis", "2008", "Majlis-e-Ittehadul", "2004", "Chandrayangutta", "member", "Abdul", "February", "six", "Akbaruddin", "politician", "consecutive", "Sultan", "constituency", "Legislative", "president" ],
+  "adjectives" : [ "Legislative", "death.In", "consecutive", "second" ],
+  "nouns" : [ "presidency", "son", "constituency", "death", "city", "politician", "father", "member", "favour", "Assembly", "president" ],
+  "text" : "Sultan Salahuddin Owaisi (14 February 1931 – 29 September 2008) was a politician from the city of Hyderabad. He served as the Member of Parliament from Hyderabad for six consecutive terms until stepping down in 2004 in favour of his elder son Asaduddin Owaisi. Akbaruddin Owaisi the second son of Sultan Salahuddin Owaisi is a member of the Andhra Pradesh Legislative Assembly from the Chandrayangutta Assembly constituency. His father, Abdul Wahed Owaisi was the president of the All India Majlis-e-Ittehadul Muslimeen till his death.In 1976, Salahuddin Owaisi took over the presidency of the Majlis after his father's death. Salahuddin Owaisi, also known as \"Salar-e-Millat\", repeatedly alleged in his speeches that the Indian state had \"abandoned\" the Muslims to their fate. Therefore, \"Muslims should stand on their own feet, rather than look to the State for help'’, he argued.Owaisi was considered to be the strongest person in Hyderabad politics as his power extended till the borders of Andhra Pradesh. Muslims in the State rallied behind him and he was considered to be the man who could tilt the Muslim vote bank in Andhra Pradesh to whichever Party he felt like supporting. He was considered to be the most prominent Muslim Leader in Hyderabad.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity16877",
+  "entityUrl" : "http://dbpedia.org/resource/Steven_Pigeon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Western New York Democratic politician" ]
+  },
+  "words" : [ "New", "Erie", "Gerald", "political", "Western", "firm", "controversial", "usually", "Golisano", "Buffalo", "counsel", "law", "Democratic", "&", "Kessler", ",", "'s", "Pigeon", ".", "Steven", "Senate", "Tom", "contemporary", "State", "Espada", "newspaper", "politics", "Leader", "York", "figures", "One", "Underberg", "Jr.", "cited", "County", "1996", "2002", "Responsible", "Majority", "Recently", "directed", "committee", "politician", "Chairman", "Today", "Steve", "consultant", "Pedro", "accounts" ],
+  "adjectives" : [ "Western", "contemporary", "Democratic", "political", "controversial", "Responsible" ],
+  "nouns" : [ "newspaper", "firm", "Today", "counsel", "law", "committee", "consultant", "politician", "Pigeon" ],
+  "text" : "Gerald Steven Pigeon, usually cited in newspaper accounts as Steve Pigeon, is a Democratic politician from Western New York. One of the most controversial figures in contemporary Western New York politics, Pigeon was Erie County Democratic Chairman from 1996 to 2002. Today, Pigeon is a consultant at the Buffalo law firm of Underberg & Kessler. Recently, he was counsel to New York State Senate Majority Leader Pedro Espada Jr., and directed Tom Golisano's Responsible New York political committee.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity17160",
+  "entityUrl" : "http://dbpedia.org/resource/Sinclair_Alexander_Whittaker",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Retail Merchants Association of Saskatchewan chairman", "Briercrest Bible Institute founder/chairman" ]
+  },
+  "words" : [ "small", "Jaw", "Alexander", "Sinclair", "Whittaker", "-LRB-", "Port", "moved", "political", "operated", "County", "Moose", "1910", "general", "1974", "Perry", "province", "represented", "July", "Briercrest", "1934", "Assembly", "10", "--", "figure", "chain", "stores", "born", "merchant", "Saskatchewan", ",", ".", "1888", "Conservative", "-RRB-", "1929", "Legislative", "Ontario" ],
+  "adjectives" : [ "small", "general", "political", "Legislative" ],
+  "nouns" : [ "figure", "chain", "province", "Conservative", "merchant", "Assembly" ],
+  "text" : "Sinclair Alexander Whittaker (1888 – July 10, 1974) was a merchant and political figure in Saskatchewan. He represented Moose Jaw County from 1929 to 1934 in the Legislative Assembly of Saskatchewan as a Conservative. He was born in Port Perry, Ontario and, in 1910, moved to Briercrest, Saskatchewan. He operated a small chain of general stores in the province. Sinclair helped found the Briercrest Bible Institute and served as chairman of the board for the institute. He also was chairman of the Retail Merchants Association of Saskatchewan. He was defeated by Thomas Waddell when he ran for reelection in 1934.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity17290",
+  "entityUrl" : "http://dbpedia.org/resource/Satish_Jain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Exposing Maharashtra electricity scam" ]
+  },
+  "words" : [ "Aadmi", "Elections", "Sabha", "worked", "portfolio", "gained", "lost", "HDFC", "North", "Jain", "Executive", "18", "Director", "Lok", "Parasmal", "Aam", ",", ".", "August", "AAP", "exposing", "Prior", "trying", "-RRB-", "32,364", "Mutual", "crore", "22", "politics", "-LRB-", "Fund", "contesting", "scam", "media", "INR", "Mumbai", "getting", "candidate", "Morgan", "Party", "Stanley", "billion", "Satish", "Maharashtra", "Rs", "22,000", "manager", "electricity", "constituency", "2014", "attention", "votes", "1968" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Rs", "candidate", "constituency", "manager", "portfolio", "attention", "scam", "electricity", "crore", "INR" ],
+  "text" : "Satish Parasmal Jain (18 August 1968) was a candidate from Aam Aadmi Party (AAP) and was contesting from the North Mumbai (Mumbai North) constituency in the 2014 Lok Sabha Elections, which he lost getting 32,364 votes. Prior to trying himself in politics he worked as a portfolio manager for HDFC Mutual Fund and as an Executive Director for Morgan Stanley. Satish Jain gained media attention after exposing the Rs 22,000 crore (INR 22 billion) electricity scam in Maharashtra.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity12480",
+  "entityUrl" : "http://dbpedia.org/resource/Mahnaz_Afkhami",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "*" ]
+  },
+  "words" : [ "مهناز", "United", "several", "Afkhami", "advocate", "Founder", "three", "Muslim-majority", "Learning", "States", "President", "pre-Revolution", "Iran", "WLP", "Foundation", "international", "1979", "societies", "Minister", "Mahnaz", "Women", "Executive", "Director", "published", "'s", ",", "former", ".", "Studies", "democratization", "-RRB-", "focused", "افخمی", ":", "since", "status", "women", "participation", "-LRB-", "non-governmental", "Persian", "exile", "headed", "government", "rights", "leadership", "civil", "Iranian", "lived", "human", "society-building", "Affairs", "founded", "technology", "Partnership", "extensively", "organizations", "advancing", "decades", "lectured", "movement" ],
+  "adjectives" : [ "pre-Revolution", "non-governmental", "civil", "several", "Iranian", "international", "human", "former" ],
+  "nouns" : [ "participation", "society-building", "exile", "technology", "advocate", "Founder", "Muslim-majority", "President", "democratization", "government", "leadership", "movement", "status" ],
+  "text" : "Mahnaz Afkhami (Persian: مهناز افخمی‎‎) is Founder and President of Women's Learning Partnership (WLP), the Executive Director of the Foundation for Iranian Studies and the former Minister of Women's Affairs in Iran's pre-Revolution government. She has lived in exile in the United States since 1979. Having founded and headed several international non-governmental organizations focused on advancing the status of women, Afkhami has been an advocate of women's rights for more than three decades. She has lectured and published extensively on the international women’s movement, women's human rights, women in leadership, women and technology, the status of women in Muslim-majority societies and on women's participation in civil society-building and democratization. Her books have been translated into multiple languages and distributed internationally.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity12520",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Miltenberger",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Politician" ]
+  },
+  "words" : [ "de", "-LRB-", "politique", "est", "du", "1951", "député", "des", "1995", "Michael", "depuis", "un", "ténois", "Thebacha", "Ottawa", "circonscription", "Nord-Ouest", "à", "il", "J.", "17", "mars", "en", ",", ".", "Miltenberger", "et", "Canada", "législative", "homme", "l'Assemblée", "canadien", "la", "anglais", "charpentier", "-RRB-", "le", "né", "Territoires", "Ontario" ],
+  "adjectives" : [ "législative" ],
+  "nouns" : [ "homme", "il", "l'Assemblée", "politique", "canadien", "anglais", "charpentier", "est", "un", "ténois" ],
+  "text" : "J. Michael Miltenberger (né le 17 mars 1951 à Ottawa en Ontario (Canada)) est un charpentier et un homme politique ténois (canadien anglais), il est le député de la circonscription de Thebacha à l'Assemblée législative des Territoires du Nord-Ouest depuis 1995.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity12653",
+  "entityUrl" : "http://dbpedia.org/resource/Myfid_bej_Libohova",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/Albanian_lek", "First Minister of Interior of Albania", "First ambassador of Albania to Italy" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "albanischer", "ein", "bis", "der", "1876", "Libohova", "Ministerämter", "1912", "†", "Danach", "war", "*", "hatte", "er", "inne", ".", "Myfit", "beteiligt", "Saranda", "Unabhängigkeit", "Ausrufung", "Bey", "7", "-RRB-", "albanischen", "1927", ";", "1925", "Februar", "verschiedene" ],
+  "adjectives" : [ "Danach", "Februar" ],
+  "nouns" : [ "beteiligt", "Politiker", "Unabhängigkeit", "albanischer", "war", "ein", "hatte", "er", "bis", "inne", "verschiedene" ],
+  "text" : "Myfit Bey Libohova (* 1876 in Libohova; † 7. Februar 1927 in Saranda) war ein albanischer Politiker. 1912 war er an der Ausrufung der albanischen Unabhängigkeit beteiligt. Danach hatte er bis 1925 verschiedene Ministerämter inne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity13179",
+  "entityUrl" : "http://dbpedia.org/resource/Mohamed_Abu_Hamed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/Political_Activist" ]
+  },
+  "words" : [ "مساهمة", "والتخطيط", "أن", "الشعب", "كونسبت", "ليصبح", "،", "البرلمانية", "ومراجعة", "1973", "أبو", "عضواً", "المالية", "المصري", "المصريين", "بالاستشارات", "للحزب", "الأحرار", "14", "استقال", "وإدارة", "في", "ولد", "لايف", ".", "شعبة", "كلية", "وهو", "3", "حزب", "ورئيسا", "للكتلة", "وتقييمها", "-RRB-", "وزارة", "شاهين", "حامد", "خريج", "-LRB-", "مصرية", "ولديه", "اسمها", "2012", "محاسبة", "وكان", "داخل", "نظم", "تعمل", "الأزمات", "الداخلية", "نائب", "تصميم", "1995", "مارس", "والرقابة", "مسجل", "القاهرة", "المعلومات", "بالمجلس", "محمد", "الحسابات", "دفعة", "الاستراتيجي", "جامعة", "شركة", "بمجلس", "المجلس", "لرئيس", "قانوني", "التجارة", "كمحاسب", "يعمل", "نائباً", "مستقلاً", "إلى" ],
+  "adjectives" : [ ],
+  "nouns" : [ "محمد", "قانوني", "أبو", "ولديه", "في", "يعمل", "،", "شاهين" ],
+  "text" : "محمد أبو حامد شاهين (ولد في 14 مارس 1973) نائب بمجلس الشعب المصري 2012 وكان نائباً لرئيس حزب المصريين الأحرار ورئيسا للكتلة البرلمانية للحزب داخل المجلس إلى أن استقال في 3 مارس 2012 ليصبح عضواً مستقلاً بالمجلس. أبو حامد خريج كلية التجارة جامعة القاهرة شعبة محاسبة دفعة 1995. يعمل أبو حامد في تصميم نظم المعلومات المالية والرقابة الداخلية وتقييمها ومراجعة الحسابات، وهو مسجل في وزارة المالية كمحاسب قانوني. ولديه شركة مساهمة مصرية اسمها لايف كونسبت تعمل بالاستشارات المالية والتخطيط الاستراتيجي وإدارة الأزمات المالية. أعلن أبو حامد أنه ينوي الترشح لانتخابات رئاسة الجمهورية إذا عدل قانون الترشح الذي يشترط بلوغ المترشح 40 عامًا، وقال إنه إذا تغير القانون سيترشح، أو سينتظر الانتخابات المقبلة.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity13421",
+  "entityUrl" : "http://dbpedia.org/resource/Mukasa_Mbidde",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Law, Human-rights Activism & Politics" ]
+  },
+  "words" : [ "office", "Regional", "three", "Trade", "1973", "communication", "Assembly", "activist", "15", "3rd", "committees", "Fred", ",", ".", "elected", "EALA", "specialist", "Conflict", "speaker", "Privileges", "-RRB-", ":", ";", "East", "since", "Resolution", "June", "-LRB-", "serves", "mass", "Legal", "2012", "Committee", "Republic", "October", "Investments", "member", "motivational", "lawyer", "Communication", "Mukasa", "Affairs", "politician", "representing", "human-rights", "Mbidde", "Ugandan", "Rules", "African", "Born", "Legislative", "Uganda" ],
+  "adjectives" : [ "3rd", "human-rights", "Legislative", "motivational", "Ugandan", "East", "African" ],
+  "nouns" : [ "activist", "EALA", "specialist", "mass", "speaker", "politician", "member", "office", "communication", "lawyer", "Assembly", "Republic" ],
+  "text" : "Fred Mukasa Mbidde (Born 15 October 1973) is a Ugandan lawyer, human-rights activist, mass communication specialist, motivational speaker and politician. He is an elected member of the 3rd East African Legislative Assembly (EALA), representing the Republic of Uganda. He has been in this office since June 2012. He serves on three EALA committees: the Committee on Communication, Trade and Investments; the Committee on Legal, Rules and Privileges; and the Committee on Regional Affairs and Conflict Resolution. He is the chairperson of the Committee on Communication, Trade and Investments. He is a member, a former chief legal advisor, the chairman Masaka district and the current national vice president of the Democratic Party, (DP). He is also a member of the Pan African Lawyers Union and the Coalition for an Effective African Court on Human and Peoples' Rights (African Court Coalition). He first gained prominence in 2001 when serving as the Guild President for Makerere University. He played a significant role in the \"Save Mabira Riots\" that took place in Uganda in the year 2007. Also, Mbidde played a noteworthy role in the 1994 liberation war of Rwanda. He is the Patron of the Mbidde Foundation and the reigning attorney general for Kooki chiefdom.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity13503",
+  "entityUrl" : "http://dbpedia.org/resource/Mustafa_Necati",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/Population_exchange_between_Greece_and_Turkey", "Nation Schools" ]
+  },
+  "words" : [ "-LRB-", "Law", "death", "died", "years", "Turkish", "Republic", "known", "1894", "surname", "members", "January", "early", "Mustafa", "statesman", "also", ",", "-", ".", "actually", "1", "1929", "-RRB-", "family", "Necati", "Uğural", "Surname", "adopted" ],
+  "adjectives" : [ "early", "Turkish" ],
+  "nouns" : [ "statesman", "death", "surname", "family", "Republic" ],
+  "text" : "Mustafa Necati (1894 - January 1, 1929) was a Turkish statesman in the early years of the Turkish Republic. He is also known as Mustafa Necati Uğural. He died before the Turkish Surname Law was adopted and the surname Uğural is actually the surname his family members adopted after his death.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity6296",
+  "entityUrl" : "http://dbpedia.org/resource/Gopalrao_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Appa" ]
+  },
+  "words" : [ "Latur", "Gopalrao", "Rajarshi", "Shikshan", "Sabha", "Party", "Bharatiya", "member", "Shahu", "Maharashtra", "Shivchhatrapati", "Janata", "politician", ",", ".", "former", "pediatrician", "Rajya", "Patil", "Sanstha", "belongs", "College", "Indian", "runs", "president" ],
+  "adjectives" : [ "Indian", "former" ],
+  "nouns" : [ "politician", "member", "pediatrician", "president" ],
+  "text" : "Gopalrao Patil is an Indian politician and pediatrician. He belongs to the Bharatiya Janata Party and is a former member of the Rajya Sabha. He is the president of Shivchhatrapati Shikshan Sanstha, which runs the Rajarshi Shahu College, Latur, Maharashtra.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity6376",
+  "entityUrl" : "http://dbpedia.org/resource/G._N._Ratanpuri",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Being a Rebel in his own party in the sense that he does not hesitate to criticize any wrong policies" ]
+  },
+  "words" : [ "Kashmir", "Ratanpuri", "politician", "state", "Ghulam", ",", "Nabi", "Jammu", ".", "India" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "state" ],
+  "text" : "Ghulam Nabi Ratanpuri is a politician in the state of Jammu and Kashmir, India.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity212",
+  "entityUrl" : "http://dbpedia.org/resource/Anne_Roberts",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Former Vancouver city councillor" ]
+  },
+  "words" : [ "``", "parent", "Mayor", "education", "left-wing", "issues", "three", "councillors", "Board", "split", "children", "Charlie", "majority", "five", "--", "advisory", "distinguish", "Smith", "Campbell", "active", "committees", "Roberts", ",", "'s", "former", ".", "journalism", "elected", "Progressive", "dubbed", "instructor", "council", "among", "centrist", "Vision", "Coalition", "-RRB-", "Georgia", "District", "party", "Vancouver", "-LRB-", "city", "Parent", "Representatives", "serving", "School", "2002", "member", "Larry", "retired", "Anne", "councillor", "''", "winning", "chair", "Lite", "Classic", "Electors", "form", "trustee", "COPE", "Straight" ],
+  "adjectives" : [ "advisory", "left-wing", "centrist", "active", "Classic", "former" ],
+  "nouns" : [ "parent", "education", "instructor", "city", "council", "chair", "member", "majority", "trustee", "councillor", "party", "journalism" ],
+  "text" : "Anne Roberts is a former journalism instructor (retired) and former Vancouver city councillor. She was elected as a member of the winning majority of Coalition of Progressive Electors in 2002. Before serving on the city council, Roberts was active in education issues as chair of her children's parent advisory committees and as chair of the District Parent Representatives at the Vancouver School Board, on which she was an elected trustee. In council, Roberts was among the five left-wing councillors dubbed \"COPE Classic\" by Charlie Smith at The Georgia Straight to distinguish them from \"COPE Lite\"—the three COPE councillors and Mayor Larry Campbell who split the party to form the centrist Vision Vancouver party. Chair of the Planning and Environment Committee, Roberts was appointed by council as a delegate to the Greater Vancouver Regional District. On council, she spearheaded expansion of child care spaces, advocated that transit money to be spent on buses rather than mega-projects such as RAV (now called the Canada Line), and convinced a majority of city council to deny Wal-Mart's application to build a new store. Roberts also opposed expanded gambling in the city and the 2010 Olympics. Roberts ran for re-election in 2005 placing 19th among 36 candidates with 41,739 votes, thus losing her seat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity844",
+  "entityUrl" : "http://dbpedia.org/resource/A._B._Shetty",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "Founder of Vijaya Bank" ]
+  },
+  "words" : [ "--", "Shetty", "-LRB-", "Bank", "founder", "politician", "Vijaya", "B.", ",", "Balakrishna", "A.", "entrepreneur", ".", "Attavar", "better", "philanthropist", "known", "1883", "1960", "-RRB-", "Indian" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "philanthropist", "founder", "politician", "A.", "entrepreneur" ],
+  "text" : "Attavar Balakrishna Shetty (1883–1960) better known as A. B. Shetty was an Indian politician, philanthropist, entrepreneur and the founder of Vijaya Bank.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity972",
+  "entityUrl" : "http://dbpedia.org/resource/Ahn_Cheol-soo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "V3" ]
+  },
+  "words" : [ "Politiker", "Gründer", "die", "-LRB-", "26", "südkoreanischer", "Ahn", "2012", "Cheol-soo", "ist", "ein", "Er", "der", "AhnLab", "galt", "zum", "Arzt", "von", "Busan", "Dezember", "für", "aussichtsreicher", "im", "als", "*", "und", "Wahlen", ",", ".", "1962", "Bewerber", "-RRB-", "Software-Entwickler", "Staatspräsidenten", "Februar", "Inc" ],
+  "adjectives" : [ "und", "Februar" ],
+  "nouns" : [ "aussichtsreicher", "im", "südkoreanischer", "Ahn", "Cheol-soo", "ist", "ein", "Er", "der", "galt", "zum", "für", "Staatspräsidenten" ],
+  "text" : "Ahn Cheol-soo (* 26. Februar 1962 in Busan) ist ein südkoreanischer Arzt, Software-Entwickler und Politiker. Er ist der Gründer von AhnLab Inc und galt als aussichtsreicher Bewerber für die Wahlen zum Staatspräsidenten im Dezember 2012.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity1143",
+  "entityUrl" : "http://dbpedia.org/resource/Amr_Hamzawy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:knownFor" : [ "http://dbpedia.org/resource/Political_Activist" ]
+  },
+  "words" : [ "التدريس", "له", "لدراسات", "الشعب", "منصب", "سابق", "،", "عمرو", "وأستاذ", "الحرية", "ناشط", "سبق", "رئيس", "أكتوبر", "بالجامعة", "المصري", "كما", "بجامعة", "من", "سياسة", "في", "الأمريكية", "عن", ".", "حمزاوي", "حزب", "-RRB-", "مصري", "كارنيجي", "مصر", "-LRB-", "الباحثين", "28", "ومفكر", "2012", "حقوقي", "2009", "بمؤسسة", "2005", "العامة", "القاهرة", "كبير", "عالم", "شغل", "الأوسط", "السياسة", "الشرق", "بمجلس", "انتخابات", "الدولي", "عام", "وعضو", "وحتى", "للسلام", "1967", "برلين" ],
+  "adjectives" : [ ],
+  "nouns" : [ "حمزاوي", "الحرية", "رئيس", "في", "،", "عمرو", "وأستاذ" ],
+  "text" : "عمرو حمزاوي (28 أكتوبر 1967) عالم سياسة، ناشط حقوقي، ومفكر مصري. وأستاذ السياسة العامة بالجامعة الأمريكية في القاهرة وعضو سابق بمجلس الشعب المصري عن انتخابات 2012. رئيس حزب مصر الحرية. سبق له التدريس بجامعة برلين، كما شغل منصب كبير الباحثين لدراسات الشرق الأوسط بمؤسسة كارنيجي للسلام الدولي من عام 2005 وحتى 2009. تتركّز اهتماماته البحثية حول أزمة الانتقال الديموقراطي والأنظمة السلطوية، القوى السياسية في العالم العربي وفرص التعددية، حركات الاحتجاج الاجتماعية وأثرها على الأنظمة السلطوية، ديناميكيات المشاركة في الحياة السياسية الرسمية والغير رسمية، الحركات الإسلامية ودور المجتمع المدني والتحول الديمقراطي في العالم العربي. وقد تركّزت أبحاثه على مصر، بصورة خاصة، ودول شمال أفريقيا والأردن. رفض عمرو حمزاوي منصب وزير الشباب في حكومة احمد شفيق لتصريف الأعمال في فبراير عام 2011 بعد أن استقبله شفيق لعرض المنصب عليه، كما اعتذر عن شغل نفس الحقيبة الوزارية لاحقا في حكومة عصام شرف بعد لقاء مماثل مع رئيس حكومة ثورة 25 يناير، لرفضه أن تكون المناصب التنفيذية بالتعيين. تم تعيين حمزاوي في المجلس القومي لحقوق الإنسان في إبريل 2011. أعلن حمزاوي عن المشاركة في تأسيس الحزب المصري الديمقراطي الاجتماعي في نهاية مارس 2011 قبل أن ينفصل لإنشاء حزب مصر الحرية. يتحدث عمرو حمزاوي الإنجليزية والألمانية إضافة إلي اللغة العربية. عام 2013، أعلن تأييده لحركة تمرد وإجراء إنتخابات رئاسية مبكرة. ولكنه انتقد التحريض الإعلامي ضد الإخوان المسلمين والإحتفال بالسيطرة العسكرية عقب فض اعتصامي رابعة العدوية والنهضة واصفا إيها بـ\"الفاشية تحت إدعاء كاذب بالديمقراطية والليبرالية\".",
+  "patterns" : { }
+} ]

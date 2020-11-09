@@ -1,0 +1,34 @@
+[ {
+  "entityIndex" : "1_entity15431",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Zi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:pinyinbirthname" : [ "Qiū Shèng Yì" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "2_entity14217",
+  "entityUrl" : "http://dbpedia.org/resource/Owodog",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:pinyinbirthname" : [ "Zhuāng Háoquán" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "3_entity13400",
+  "entityUrl" : "http://dbpedia.org/resource/Liljay",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:pinyinbirthname" : [ "Liào Jùn Jié" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

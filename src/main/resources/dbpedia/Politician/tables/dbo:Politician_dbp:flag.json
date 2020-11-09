@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity5715",
+  "entityUrl" : "http://dbpedia.org/resource/Governor-General_of_Grenada",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:flag" : [ "Flag of the Governor-General of Grenada.svg" ]
+  },
+  "words" : [ "country", "viceroys", "governors", "Queen", "United", "viceroy", "'s", "independence", "list", ",", "Governor-General", ".", "Grenada", "1974", "see", "Kingdom", "colonial", "List", "administrators", "since" ],
+  "adjectives" : [ ],
+  "nouns" : [ "country", "Queen", "colonial", "viceroy", "List", "independence", "list" ],
+  "text" : "The Governor-General of Grenada has been the viceroy of the Queen of Grenada since the country's independence from the United Kingdom in 1974. For a list of viceroys in Grenada before independence, see List of colonial governors and administrators of Grenada.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity1280",
+  "entityUrl" : "http://dbpedia.org/resource/Andrii_Goncharuk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:flag" : [ "Flag of Ukraine.svg" ]
+  },
+  "words" : [ "--", "-LRB-", "род", "апреля", "деятель", "дипломат", ",", "посол", "Гончарук", ".", "Чрезвычайный", "1961", "-RRB-", "и", "укр", "9", "государственный", "Иванович", "Іванович", "украинский", "Андрей", "Андрій", "полномочный" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Чрезвычайный", "род", "апреля", "и", "укр", "деятель", "дипломат", "государственный", "посол", "украинский", "полномочный" ],
+  "text" : "Андрей Иванович Гончарук (укр. Андрій Іванович Гончарук, род. 9 апреля 1961) — украинский государственный деятель, дипломат, Чрезвычайный и полномочный посол.",
+  "patterns" : { }
+} ]

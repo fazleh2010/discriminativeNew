@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity8136",
+  "entityUrl" : "http://dbpedia.org/resource/John_Murray,_1st_Duke_of_Atholl",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:ref" : [ "none" ]
+  },
+  "words" : [ "24", "-LRB-", "numerous", "fought", "John", "1660", "Murray", "life", "nobleman", "1st", "Scottish", "Glorious", "February", "November", "Mary", "--", "II", "14", "Atholl", "politician", "III", "KT", "positions", "Duke", ",", "William", ".", "PC", "soldier", "served", "-RRB-", "1724", "Revolution" ],
+  "adjectives" : [ "Scottish", "numerous", "Glorious" ],
+  "nouns" : [ "nobleman", "soldier", "politician", "life", "Revolution" ],
+  "text" : "John Murray, 1st Duke of Atholl, KT, PC (24 February 1660 – 14 November 1724) was a Scottish nobleman, politician, and soldier. He served in numerous positions during his life, and fought in the Glorious Revolution for William III and Mary II.",
+  "patterns" : { }
+} ]

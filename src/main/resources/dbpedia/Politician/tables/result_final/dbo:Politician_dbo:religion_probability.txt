@@ -1,0 +1,4 @@
+# dbo:Politician_dbo:religion_probability_0.45_0.45.txt ###############################################
+id=15  property=dbo:religion  object=http://dbpedia.org/resource/Islam  NumberOfEntitiesFoundForObject=143
+somali-JJ  multiply=0.434492  P(somali|object)=0.454545  P(object|somali)=0.955882    
+

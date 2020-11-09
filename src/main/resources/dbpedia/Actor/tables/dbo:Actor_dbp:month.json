@@ -1,0 +1,45 @@
+[ {
+  "entityIndex" : "1_entity15339",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Plucknett",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:month" : [ "October" ]
+  },
+  "words" : [ "BBC", "opera", "Phebe", "best", "WPC", "character", "Like", "known", "Beck", "videotaped", "Cwm", "Plucknett", "Street", "Pobol", "Duchess", "1978", "Mary", "actress", "Victoria", "television", "Welsh", "Duke", ",", "played", "version", ".", "Ashurst", "y", "playing", "Diane", "Z-Cars", "soap" ],
+  "adjectives" : [ ],
+  "nouns" : [ "actress", "character", "opera", "television", "Duchess", "version", "soap" ],
+  "text" : "Victoria Plucknett is a Welsh television actress, best known for playing the character of Diane Ashurst in the Welsh soap opera Pobol y Cwm and Mary in The Duchess of Duke Street. She played WPC Beck in Z-Cars. She played Phebe in the 1978 BBC videotaped version of As You Like It."
+}, {
+  "entityIndex" : "2_entity11402",
+  "entityUrl" : "http://dbpedia.org/resource/Curt_Masreliez",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:month" : [ "October" ]
+  },
+  "words" : [ "June", "-LRB-", "production", "1919", "theatres", "Malmö", "Helsingborg", "Swedish", "worked", "appeared", "shows", "1973", "1939", "July", "50", "1979", "Gothenburg", "Kungliga", "--", "films", "Weiss", "Dramatiska", "television", "work", "acclaimed", "19", "Uppsala", "film", ",", ".", "Teatern", "actor", "1965", "critically", "Curt", "stage", "-RRB-", "well", "Masreliez", "Marat/Sade", "Peter", "21" ],
+  "adjectives" : [ "acclaimed", "Swedish" ],
+  "nouns" : [ "actor", "stage", "production", "television", "work", "Marat/Sade", "film" ],
+  "text" : "Curt Masreliez (19 July 1919 – 21 June 1979) was a Swedish stage and film actor. He appeared in over 50 films and television shows between 1939 and 1973. Masreliez worked at Kungliga Dramatiska Teatern as well as the theatres in Helsingborg, Malmö, Uppsala, and Gothenburg. His work in a 1965 production of Marat/Sade by Peter Weiss was critically acclaimed."
+}, {
+  "entityIndex" : "3_entity11911",
+  "entityUrl" : "http://dbpedia.org/resource/Fylgia_Zadig",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:month" : [ "October" ]
+  },
+  "words" : [ "-LRB-", "stadsteater", "September", "teatern", "city", "numerous", "roles", "Fylgia", "Bengt", "Malmö", "Sigge", "Swedish", "employed", "theatre", "Eklund", "Klas", "Ester", "mother", "Fredrik", "1994", "Nya", "November", "actress", "films", "economist", "grandmother", "Uppsala", "estate", "real", ",", "broker", "-", ".", "Stockholm", "1921", "actor", "3", "Born", "-RRB-", "Zadig", "novelist", "married" ],
+  "adjectives" : [ "numerous", "real", "Swedish" ],
+  "nouns" : [ "theatre", "actor", "actress", "mother", "stadsteater", "economist", "teatern", "city", "grandmother", "estate", "novelist", "broker" ],
+  "text" : "Fylgia Ester Zadig (3 November 1921 - 3 September 1994) was a Swedish actress. Born in Malmö, Zadig was employed with the Uppsala stadsteater (Uppsala city theatre) and the Nya teatern in Stockholm. She had roles in numerous Swedish films. She was married to actor Bengt Eklund and is the mother of economist Klas Eklund and grandmother to novelist Sigge Eklund and real estate broker Fredrik Eklund."
+}, {
+  "entityIndex" : "4_entity13721",
+  "entityUrl" : "http://dbpedia.org/resource/Michelle_Herbert",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:month" : [ "October" ]
+  },
+  "words" : [ "Michelle", "Tucker", "BBC", "-LRB-", "Hill", "role", "May", "teenage", "best", "Grange", "episode", "reprised", "Trisha", "drama", "known", "school", "spin-off", "long-running", "five", "regular", "11", "actress", "limited", "born", "one", ",", "'s", "former", "Yates", ".", "1965", "1985", "appearance", "Herbert", "1982", "Luck", "series", "1981", "-RRB-", "final", "playing", "first" ],
+  "adjectives" : [ "long-running", "final", "teenage", "former", "first", "regular" ],
+  "nouns" : [ "actress", "drama", "role", "appearance", "school", "series", "spin-off", "episode" ],
+  "text" : "Michelle Herbert (born 11 May 1965) is a former teenage actress, best known for playing Trisha Yates in the first five series of the long-running BBC school drama series Grange Hill. A series regular until 1981, Herbert's role in the 1982 series was limited to just one appearance. She reprised the role of Trisha in the final episode of the Grange Hill spin-off, Tucker's Luck in 1985."
+} ]

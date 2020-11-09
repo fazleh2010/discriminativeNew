@@ -1,0 +1,15 @@
+# dbo:Politician_dbp:state_probability_0.45_0.45.txt ###################################
+id=19  property=dbp:state  object=North Carolina  NumberOfEntitiesFoundForObject=69
+assembly-NN  multiply=0.505929  P(assembly|object)=0.695652  P(object|assembly)=0.727273    
+district-NN  multiply=0.468935  P(district|object)=0.884058  P(object|district)=0.530435    
+state-NN  multiply=0.42981  P(state|object)=0.797101  P(object|state)=0.539216    
+democratic-JJ  multiply=0.396592  P(democratic|object)=0.652174  P(object|democratic)=0.608108  
+
+# dbo:Politician_dbp:state_probability_0.6_0.6.txt ###################################
+id=11  property=dbp:state  object=North Carolina  NumberOfEntitiesFoundForObject=69
+assembly-NN  multiply=0.505929  P(assembly|object)=0.695652  P(object|assembly)=0.727273    
+democratic-JJ  multiply=0.396592  P(democratic|object)=0.652174  P(object|democratic)=0.608108    
+
+
+  
+

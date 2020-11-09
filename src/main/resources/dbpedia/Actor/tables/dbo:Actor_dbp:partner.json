@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity15049",
+  "entityUrl" : "http://dbpedia.org/resource/Shane_Pow",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:partner" : [ "Kimberly Haley Wang Zhi Hui 王智荟" ]
+  },
+  "words" : [ "Tan", "Shane", "Oct", "Desmond", "-LRB-", "Singaporean", "Bāo", "managed", "包勋评", "包勛評", "Xu", "Jeffrey", "Bin", "born", "one", "1990", "Xūnpíng", "Zhang", ",", "Romeo", ".", "Pang", "actor", "BEAM", "traditional", "pinyin", "simplified", "4", "Fang", "Artistes", "Ian", "-RRB-", "8", "Pow", "Chinese", ":", ";", "Zhenhuan", "Dukes", "Aloysius" ],
+  "adjectives" : [ "traditional", "Singaporean" ],
+  "nouns" : [ "actor", "Oct", "pinyin" ],
+  "text" : "Shane Pow (simplified Chinese: 包勋评; traditional Chinese: 包勛評; pinyin: Bāo Xūnpíng, born 4 Oct 1990) is a Singaporean actor managed by BEAM Artistes. He is one of the 8 Dukes with Zhang Zhenhuan, Desmond Tan, Xu Bin, Aloysius Pang, Jeffrey Xu, Ian Fang and Romeo Tan."
+}, {
+  "entityIndex" : "2_entity15322",
+  "entityUrl" : "http://dbpedia.org/resource/Ulla_Skoog",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:partner" : [ "Ronny Carlsson" ]
+  },
+  "words" : [ "23", "TV", "-LRB-", "works", "Ulla", "Skoog", "Swedish", "comedian", "1951", "National", "von", "fall", "working", "Since", "end", "February", "1979", "performances", "together", "actress", "Brömssen", "Acting", "director", "studied", "Academy", "born", "also", "started", "City", ",", "performed", ".", "Stockholm", "revues", "Marie", "Mime", "Fritt", "1981", "among", "Theatre", "Tomas", "-RRB-", "90s", "Rent" ],
+  "adjectives" : [ "Swedish" ],
+  "nouns" : [ "comedian", "actress", "TV", "Fritt", "fall", "director", "end" ],
+  "text" : "Ulla Marie Skoog (born 23 February 1951) is a Swedish actress and comedian. She also works as director in TV and at Stockholm City Theatre. Skoog studied at the Swedish National Academy of Mime and Acting from 1979 until 1981, when she started working at Stockholm City Theatre. Since the end of the 90s Skoog has performed together with Tomas von Brömssen, among the performances they have performed their revues Rent under and Fritt fall. She has also been appreciated for her own performances Ulla Skoog m mus and Ulla Skoog & Trond Lindheim trallar vidare. She has worked with Trond Lindheim, the composer, arranger and pianist, since 2003. Skoog received Karamelodiktstipendiet in 1990."
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "entityIndex" : "1_entity14494",
+  "entityUrl" : "http://dbpedia.org/resource/Rayson_Tan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:pojchinesename" : [ "Tân Thài-bîng" ]
+  },
+  "words" : [ "Tan", "eunuch", "-LRB-", "Singaporean", "陈泰铭", "television", "roles", "several", "best", ".", "actor", "MediaCorp", "known", "Rayson", "series", "-RRB-", "Chinese", ":" ],
+  "adjectives" : [ "Singaporean", "several" ],
+  "nouns" : [ "actor", "MediaCorp", "eunuch", "television", "series" ],
+  "text" : "Rayson Tan (Chinese: 陈泰铭) is a Singaporean MediaCorp actor. He is best known for his eunuch roles in several television series."
+}, {
+  "entityIndex" : "2_entity12289",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Thia",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:pojchinesename" : [ "Thiâⁿ Hiok-hui" ]
+  },
+  "words" : [ "Giles", "Wade", "-LRB-", "25", "Singaporean", "role", "Ch", "best", "Thia", "程旭辉", "comedian", "1998", "Enough", "Money", "1952", "known", "February", "Hui", "Henry", "Chéng", "--", "`", "born", "Hsu4", "film", ",", ".", "actor", "pinyin", "Xùhuī", "Hui1", "name", "-RRB-", "Chinese", ":", ";", "eng2", "family" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actor", "comedian", "Money", "pinyin", "role", "Hui1", "name", "Hsu4", "eng2", "film", "family" ],
+  "text" : "(This is a Chinese name; the family name is Thia.) Henry Thia (Chinese: 程旭辉; pinyin: Chéng Xùhuī; Wade–Giles: Ch'eng2 Hsu4 Hui1, born 25 February 1952) is a Singaporean actor and comedian. He is best known for his role as Hui in the 1998 film Money No Enough."
+}, {
+  "entityIndex" : "3_entity10736",
+  "entityUrl" : "http://dbpedia.org/resource/Ang_Ching_Hui",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:pojchinesename" : [ "Ang Ching-hūi" ]
+  },
+  "words" : [ "``", "-LRB-", "Singaporean", "role", "29", "best", "Nanyang", "Vagrant", "known", "1993", "Star", "Xiao", "2002", "July", "Ching", "Hui", "''", "actress", "studying", "television", "Thief", "born", "Channel", "also", "received", "Police", ",", "Lee", ".", "nomination", "MediaCorp", "Yun", "Awards", "performance", "University", "5", "series", "-RRB-", "Ang", "Apart", "acting", "Technological" ],
+  "adjectives" : [ "Singaporean" ],
+  "nouns" : [ "actress", "role", "performance", "television", "series", "Thief", "nomination" ],
+  "text" : "Ang Ching Hui (born 29 July 1993) is a Singaporean actress best known for her role as \"Lee Xiao Yun\" in the MediaCorp Channel 5 television series Police and Thief. Apart from acting, she is also studying in Nanyang Technological University.  She received a Star Awards nomination in 2002 for her performance in The Vagrant."
+} ]

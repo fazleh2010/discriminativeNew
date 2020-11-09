@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity13730",
+  "entityUrl" : "http://dbpedia.org/resource/Marta_Romero",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:field" : [ "http://dbpedia.org/resource/Acting", "http://dbpedia.org/resource/Singing" ]
+  },
+  "words" : [ "pioneers", "Marta", "actress", "-LRB-", "May", "singer", "17", "television", "one", "Puerto", ",", "-", "Rican", "Romero", ".", "2013", "-RRB-", "1928", "February", "31" ],
+  "adjectives" : [ ],
+  "nouns" : [ "actress", "singer", "television" ],
+  "text" : "Marta Romero (February 17, 1928 - May 31, 2013) was an actress and singer, and one of the pioneers in Puerto Rican television."
+} ]

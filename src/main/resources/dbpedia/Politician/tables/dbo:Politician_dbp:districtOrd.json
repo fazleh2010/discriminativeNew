@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "1_entity7892",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lindsay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:districtOrd" : [ "17" ]
+  },
+  "words" : [ "New", "career", "broadcaster", "Morning", "John", "United", "political", "Republican", "launched", "States", "December", "1973", "1972", "1971", "host", "January", "--", "Head", "mayor", "Democratic", "19", "Senator", "2000", "Carolina", "House", "City", "Vliet", ",", "'s", "Island", ".", "/", "served", "1980", "-RRB-", "switched", "guest", "Lindsay", ";", "presidential", "24", "-LRB-", "American", "York", "unsuccessful", "ˈlɪnᵈzi", "Representatives", "died", "Parkinson", "candidate", "U.S.", "Party", "pneumonia", "congressman", "America", "member", "1959", "lawyer", "regular", "November", "Hilton", "brief", "disease", "vliːt", "politician", "South", "nomination", "1921", "1965", "well", "Good", "bid", "president", "1966" ],
+  "adjectives" : [ "brief", "American", "vliːt", "Democratic", "unsuccessful", "political", "presidential", "Good", "regular" ],
+  "nouns" : [ "career", "disease", "broadcaster", "mayor", "politician", "Morning", "nomination", "candidate", "pneumonia", "congressman", "host", "member", "guest", "bid", "lawyer", "president" ],
+  "text" : "John Vliet Lindsay (/vliːt ˈlɪnᵈzi/; November 24, 1921 – December 19, 2000) was an American politician, lawyer, and broadcaster who was a U.S. congressman, mayor of New York City, candidate for U.S. president, and regular guest host of Good Morning America. During his political career, he served as a member of the United States House of Representatives from January 1959 to December 1965 and as mayor of New York City from January 1966 to December 1973. He switched from the Republican to the Democratic Party in 1971, and launched a brief and unsuccessful bid for the 1972 Democratic presidential nomination as well as the 1980 Democratic nomination for Senator from New York. He died from Parkinson's disease and pneumonia in Hilton Head Island, South Carolina on December 19, 2000.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8316",
+  "entityUrl" : "http://dbpedia.org/resource/Jesse_Slocumb",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:districtOrd" : [ "4" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Bank", "Jesse", "1780", "Zwischen", "ein", "den", "County", "Washington", "US-Repräsentantenhaus", "Dezember", "North", "1817", "Bundesstaat", "US-amerikanischer", "†", "vertrat", "im", "Slocumb", "Carolina", "war", "*", "D.C.", "und", "Spring", ",", "er", ".", "Wayne", "1820", "-RRB-", ";", "20" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Jesse Slocumb (* 1780 in Spring Bank, Wayne County, North Carolina; † 20. Dezember 1820 in Washington, D.C.) war ein US-amerikanischer Politiker. Zwischen 1817 und 1820 vertrat er den Bundesstaat North Carolina im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity8875",
+  "entityUrl" : "http://dbpedia.org/resource/John_Heritage_Bryan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:districtOrd" : [ "4" ]
+  },
+  "words" : [ "Bern", "New", "Politiker", "-LRB-", "John", "Zwischen", "ein", "den", "1798", "US-Repräsentantenhaus", "1870", "North", "Bundesstaat", "US-amerikanischer", "November", "†", "Bryan", "vertrat", "Raleigh", "im", "19", "Carolina", "war", "*", "und", ",", "er", ".", "Heritage", "4", "Mai", "-RRB-", "1829", ";", "1825" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "John Heritage Bryan (* 4. November 1798 in New Bern, North Carolina; † 19. Mai 1870 in Raleigh, North Carolina) war ein US-amerikanischer Politiker. Zwischen 1825 und 1829 vertrat er den Bundesstaat North Carolina im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity4402",
+  "entityUrl" : "http://dbpedia.org/resource/Eugene_McCarthy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:districtOrd" : [ "4" ]
+  },
+  "words" : [ "``", "New", "United", "polling", "incumbent", "States", "December", "Gene", "1971", "Robert", "long-time", "10", "contributed", "--", "McCarthy", "contest", "Democratic", "F.", "House", ",", "B.", "'s", ".", "Senate", "Joseph", "served", "-RRB-", "Eugene", "1949", "presidential", "primary", "lured", "strong", "-LRB-", "American", "unexpected", "29", "March", "War", "Representatives", "Lyndon", "platform", "Kennedy", "running", "candidate", "total", "U.S.", "2005", "Hampshire", "1916", "poet", "1959", "vote", "Wisconsin", "Congressman", "''", "anti-Vietnam", "election", "Johnson", "decision", "race", "politician", "Minnesota", "nomination", "challenge", "achieved", "1968", "first", "upcoming", "president", "withdraw" ],
+  "adjectives" : [ "anti-Vietnam", "strong", "American", "Democratic", "unexpected", "presidential", "long-time", "first", "incumbent", "primary" ],
+  "nouns" : [ "election", "contest", "decision", "race", "politician", "War", "polling", "platform", "nomination", "candidate", "total", "poet", "vote", "Congressman", "president" ],
+  "text" : "Eugene Joseph \"Gene\" McCarthy (March 29, 1916 – December 10, 2005) was an American politician, poet, and a long-time Congressman from Minnesota. He served in the U.S. House of Representatives from 1949 to 1959 and the U.S. Senate from 1959 to 1971. In the 1968 presidential election, McCarthy was the first candidate to challenge incumbent Lyndon B. Johnson for the Democratic nomination for president of the United States, running on an anti-Vietnam War platform. The unexpected vote total he achieved in the New Hampshire primary and his strong polling in the upcoming Wisconsin primary contributed to Johnson's decision to withdraw from the race, and lured Robert F. Kennedy into the contest. Fellow Minnesotan US Vice-President Hubert Humphrey also entered the race after Johnson's withdrawal. McCarthy would unsuccessfully seek the presidency five times altogether.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity2526",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Biddle_Shepard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:districtOrd" : [ "4" ]
+  },
+  "words" : [ "Bern", "New", "Oktober", "Politiker", "-LRB-", "25", "Zwischen", "ein", "den", "Shepard", "US-Repräsentantenhaus", "Dezember", "North", "1837", "Bundesstaat", "US-amerikanischer", "†", "Charles", "vertrat", "im", "Carolina", "war", "*", "und", ",", "ebenda", "er", ".", "1843", "1841", "5", "Biddle", "1808", "-RRB-", ";" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "ebenda", "er", "US-amerikanischer" ],
+  "text" : "Charles Biddle Shepard (* 5. Dezember 1808 in New Bern, North Carolina; † 25. Oktober 1843 ebenda) war ein US-amerikanischer Politiker. Zwischen 1837 und 1841 vertrat er den Bundesstaat North Carolina im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity249",
+  "entityUrl" : "http://dbpedia.org/resource/Augustine_Henry_Shepperd",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:districtOrd" : [ "4", "9" ]
+  },
+  "words" : [ "Augustine", "أوغسطين", "-LRB-", "الديمقراطي", "م", "Shepperd", "و", "سياسي", "،", "عضو", "اليمين", "المتحدة", "الولايات", "Henry", "--", "هو", "من", "الحزب", "بالإنجليزية", "1792", "في", "وحزب", "هنري", "الأمريكي", "شيبرد", "الأمريكية", ".", "وهو", "1864", "-RRB-", ":", "ومحام" ],
+  "adjectives" : [ ],
+  "nouns" : [ "وهو", "اليمين", "م", "،", "شيبرد" ],
+  "text" : "أوغسطين هنري شيبرد (بالإنجليزية: Augustine Henry Shepperd) (و. 1792 – 1864 م) هو سياسي، ومحام من الولايات المتحدة الأمريكية .وهو عضو في الحزب الديمقراطي الأمريكي، وحزب اليمين .",
+  "patterns" : { }
+} ]

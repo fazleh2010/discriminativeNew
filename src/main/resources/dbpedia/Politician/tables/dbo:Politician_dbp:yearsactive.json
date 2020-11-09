@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity11366",
+  "entityUrl" : "http://dbpedia.org/resource/Lim_Keng_Yaik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:yearsactive" : [ "1968" ]
+  },
+  "words" : [ "Water", "Tan", "Rakyat", "Lîm", "Malaysia", "stepping", "Keng", "December", "four", "林", "1939", "Malaysian", "Minister", "--", "Parti", "Gerakan", "林敬益", "Communications", ",", "-", ".", "April", "former", "Dr", "pinyin", "Yì", "ōe-jī", "among", "1980", "Tsu", "name", "-RRB-", "8", ":", ";", "Jìng", "22", "Koon", "Dr.", "-LRB-", "death", "2012", "Sri", "2007", "Energy", "pave", "holders", "national", "Tunship", "Yaik", "living", "Koh", "politician", "Tun", "Lín", "Kèng-iah", "way", "Lim", "Pe̍h", "Chinese", "family", "cabinet", "president" ],
+  "adjectives" : [ "Chinese", "national", "former", "Malaysian" ],
+  "nouns" : [ "death", "politician", "Lîm", "Lín", "Kèng-iah", "way", "pinyin", "Yì", "ōe-jī", "Pe̍h", "name", "family", "cabinet", "Jìng", "president", "Tunship" ],
+  "text" : "(This is a Chinese name; the family name is Lim (林).) Tun Dr. Lim Keng Yaik (Chinese: 林敬益; pinyin: Lín Jìng Yì; Pe̍h-ōe-jī: Lîm Kèng-iah; 8 April 1939 – 22 December 2012) was a former Malaysian politician and former Minister of Energy, Water and Communications in the Malaysian cabinet. He was the national president of Parti Gerakan Rakyat Malaysia from 1980 until stepping down on 8 April 2007 to pave the way for Tan Sri Dr Koh Tsu Koon. Just before his death, he was among the only four Chinese Tunship living holders in Malaysia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity12152",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammed_Al_Gergawi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:yearsactive" : [ "1988" ]
+  },
+  "words" : [ "مكتوم", "عبدالله", "-LRB-", "الوزراء", "المقربة", "شؤون", "مجلس", "وأحد", "الإمارات", "الدائرة", "المتحدة", "القرقاوي", "بن", "من", "آل", "محمد", "وزير", "في", "-", ".", "أفراد", "1963", "-RRB-", "دولة", "راشد", "العربية" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "آل", "في", "القرقاوي", "وأحد" ],
+  "text" : "محمد بن عبدالله القرقاوي (1963 -) وزير شؤون مجلس الوزراء في دولة الإمارات العربية المتحدة. وأحد أفراد الدائرة المقربة من محمد بن راشد آل مكتوم..",
+  "patterns" : { }
+} ]

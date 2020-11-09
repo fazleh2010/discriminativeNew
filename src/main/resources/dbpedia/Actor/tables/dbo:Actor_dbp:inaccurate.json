@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity11179",
+  "entityUrl" : "http://dbpedia.org/resource/Benny_Haag",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:inaccurate" : [ "yes" ]
+  },
+  "words" : [ "leader", "-LRB-", "election", "May", "September", "Benny", "born", "19", "Liquor", "run", "2010", ",", ".", "Swedish", "actor", "general", "current", "Party", "1961", "Spritpartiet", "8", "-RRB-", "Haag", "party" ],
+  "adjectives" : [ "general", "current", "Swedish" ],
+  "nouns" : [ "actor", "leader", "election", "party" ],
+  "text" : "Benny Haag born May 8, 1961, is a Swedish actor and current party leader of Spritpartiet (Liquor Party) who will run in the Swedish general election, 2010 on September 19."
+} ]

@@ -1,0 +1,109 @@
+[ {
+  "entityIndex" : "1_entity13714",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Hentz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/French_people" ]
+  },
+  "words" : [ "français", "de", "-LRB-", "Il", "fut", "est", "Nicolas", "Hentz", "1831", "1753", "1830", "député", "1795", "1750", "juillet", "un", "1er", "à", "ou", "1792", ",", "-", ".", "Convention", "la", "révolutionnaire", "-RRB-", "1829", "nationale", "Moselle", "1824", "1768" ],
+  "adjectives" : [ "juillet" ],
+  "nouns" : [ "français", "Il", "fut", "ou", "révolutionnaire", "un" ],
+  "text" : "Nicolas Hentz (1750, 1753 ou 1768 - 1er juillet 1824, 1829, 1830 ou 1831) est un révolutionnaire français. Il fut député de la Moselle à la Convention nationale de 1792 à 1795.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8922",
+  "entityUrl" : "http://dbpedia.org/resource/Jan_Baars",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/Netherlands" ]
+  },
+  "words" : [ "22", "de", "-LRB-", "politicus", "Joannes", "april", "een", "later", "Amsterdam", "Tweede", "30", "Nederlands", "tijdens", "--", "en", "fascistisch", "Baars", ",", "verzetsstrijder", ".", "juni", "-RRB-", "Antonius", "Andijk", "1903", "Wereldoorlog", "1989" ],
+  "adjectives" : [ "later", "fascistisch", "een" ],
+  "nouns" : [ "politicus", "verzetsstrijder" ],
+  "text" : "Joannes Antonius Baars (Amsterdam, 30 juni 1903 – Andijk, 22 april 1989) was een Nederlands fascistisch politicus en later verzetsstrijder tijdens de Tweede Wereldoorlog.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity9957",
+  "entityUrl" : "http://dbpedia.org/resource/Jayant_Prabhakar_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Co-Op", "-LRB-", "Secretary", "Peasants", "Council", "bank", "Party", "today", "Maharashtra", "Member", "Raigad", "Prabhakar", "politician", "chairman", ",", ".", "India", "Jayant", "Patil", "Workers", "शेकाप", "-RRB-", "Indian", "General", "Legislative", "District" ],
+  "adjectives" : [ "Indian", "Legislative" ],
+  "nouns" : [ "bank", "politician", "today", "chairman", "Council" ],
+  "text" : "Jayant Prabhakar Patil is an Indian politician. As of today, he is the General Secretary of Peasants and Workers Party of India (शेकाप) and a Member of the Legislative Council of Maharashtra. He is chairman of Raigad District Co-Op bank.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity19527",
+  "entityUrl" : "http://dbpedia.org/resource/Wafula_Oguttu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/Uganda" ]
+  },
+  "words" : [ "-LRB-", "Leader", "Nandala", "May", "Opposition", "2011", "Central", "Sub-region", "County", "Bugiri", "Wafula", "December", "1952", "Phillip", "January", "Mafabi", "Member", "31", "MP", "born", "politician", "Bukhooli", "Oguttu", "also", "replacing", ",", "Ugandan", ".", "former", "Busoga", "journalist", "appointed", "constituency", "2014", "served", "-RRB-", "Region", "Uganda", "Eastern", "position", "District", "Parliament", "21" ],
+  "adjectives" : [ "Ugandan", "former" ],
+  "nouns" : [ "journalist", "constituency", "politician", "position", "Sub-region" ],
+  "text" : "Phillip Wafula Oguttu (born 21 December 1952) is a Ugandan journalist and politician. He is a former Leader of Opposition in the Ugandan Parliament. He was appointed to that position on 31 January 2014, replacing Nandala Mafabi, who served in that position from May 2011 until January 2014. Wafula is also the Member of Parliament (MP) for Bukhooli County Central, a constituency in Bugiri District, Busoga Sub-region, Eastern Region of Uganda. He is a member of Uganda's opposition party Forum for Democratic Change (FDC) for which he is the spokesperson. Oguttu is also one of the co-founders of the Daily Monitor, a privately owned English-language daily newspaper in Uganda.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity2213",
+  "entityUrl" : "http://dbpedia.org/resource/Bakshi_Abdur_Rashid",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Rashid", "political", "Srinagar", "President", "Sabha", "candidate", "Kashmir", "member", "1923-August", "represented", "January", "Jammu", "1977", "Bakshi", "Abdur", "3rd", "&", "politician", "2nd", "Lok", ",", ".", "India", "1", "constituency", "-RRB-", "Indian", "nominated", "party" ],
+  "adjectives" : [ "3rd", "2nd", "1923-August", "Indian", "political" ],
+  "nouns" : [ "candidate", "constituency", "politician", "member", "Lok", "party" ],
+  "text" : "Bakshi Abdur Rashid (1 January 1923-August 1977) was an Indian politician who was a member of the 2nd Lok Sabha & 3rd Lok Sabha of India. He represented the Srinagar constituency of Jammu & Kashmir and was a member of the Congress (I) political party. In the 3rd Lok Sabha, he was a Lok Sabha candidate, nominated by the President of India.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity15873",
+  "entityUrl" : "http://dbpedia.org/resource/Ramkishun",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Chandauli", "Uttar", "-LRB-", "born", "Lok", "political", "Samajwadi", ".", "August", "15th", "India", "Ramkishun", "Sabha", "3", "Party", "constituency", "Pradesh", "-RRB-", "member", "represented", "SP", "1956", "party" ],
+  "adjectives" : [ "political", "15th" ],
+  "nouns" : [ "Ramkishun", "Sabha", "constituency", "member", "Lok", "SP", "party" ],
+  "text" : "Ramkishun (born 3 August 1956) is a member of the 15th Lok Sabha of India. He represented the Chandauli constituency of Uttar Pradesh and is a member of the Samajwadi Party (SP) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity14062",
+  "entityUrl" : "http://dbpedia.org/resource/O._S._Manian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Nadu", "Munnetra", "Vedaranyam", "-LRB-", "Previously", "political", "Handlooms", "15th", "incumbent", "Textiles", "Sabha", "member", "represented", "Constituency", "Dravida", "O.S.", "Assembly", "Minister", "Anna", "Government", "India.He", "Lok", "Tamil", ".", "India", "Manian", "constituency", "State", "-RRB-", "Legislative", "Kazhagam", "Mayiladuturai", "party" ],
+  "adjectives" : [ "Legislative", "political", "15th", "incumbent" ],
+  "nouns" : [ "constituency", "member", "Assembly", "party" ],
+  "text" : "O.S. Manian is a member of the 15th Lok Sabha of India.He is incumbent member of the Tamil Nadu Legislative Assembly from Vedaranyam (State Assembly Constituency).He is incumbent Minister for Handlooms and Textiles in Government of Tamil Nadu. He Previously represented the Mayiladuturai (Lok Sabha constituency) of Tamil Nadu and is a member of the All India Anna Dravida Munnetra Kazhagam political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity13173",
+  "entityUrl" : "http://dbpedia.org/resource/Maulana_Abdur_Rahman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Maulana", "Congress", "Abdur", "-LRB-", "&", "2nd", "Lok", "political", "March", "office", ".", "April", "Sabha", "1962", "Rahman", "constituency", "Kashmir", "member", "-RRB-", "represented", "1957", "Jammu", "party" ],
+  "adjectives" : [ "2nd", "political" ],
+  "nouns" : [ "constituency", "member", "office", "party" ],
+  "text" : "Maulana Abdur Rahman was member of the 2nd Lok Sabha. He represented the Jammu constituency of Jammu & Kashmir and was a member of the Congress (I) political party. He was in office from April 1957 to March 1962.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity5983",
+  "entityUrl" : "http://dbpedia.org/resource/George_Mackie,_Baron_Mackie_of_Benshie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/Scotland" ]
+  },
+  "words" : [ "DFC", "Politiker", "-LRB-", "britischer", "Aberdeen", "CBE", "1919", "Juli", "ein", "Mackie", "George", "Yull", "Landwirt", "Baron", "10", "†", "DSO", "Benshie", "17", "Liberal", "war", "*", "Dundee", "und", ",", ".", "Geschäftsmann", "Democrats", "2015", "-RRB-", ";", "Februar" ],
+  "adjectives" : [ "Liberal", "Februar" ],
+  "nouns" : [ "Politiker", "britischer", "war", "ein" ],
+  "text" : "George Yull Mackie, Baron Mackie of Benshie CBE, DSO, DFC (* 10. Juli 1919 in Aberdeen; † 17. Februar 2015 in Dundee), war ein britischer Politiker (Liberal Democrats), Landwirt und Geschäftsmann.",
+  "patterns" : { }
+} ]

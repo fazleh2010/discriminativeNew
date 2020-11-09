@@ -1,0 +1,4 @@
+# dbo:Actor_dbp:birthPlace_probability_0.45_0.45.txt ###########################################
+id=1  property=dbp:birthPlace  object=Singapore  NumberOfEntitiesFoundForObject=60
+singaporean-JJ  multiply=0.258511  P(singaporean|object)=0.45  P(object|singaporean)=0.574468    
+

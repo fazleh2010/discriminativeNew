@@ -1,0 +1,16 @@
+id=23  property=dbp:imagesize  object=150  NumberOfEntitiesFoundForObject=232
+assembly-NN  multiply=0.327977  P(assembly|object)=0.612069  P(object|assembly)=0.535849    
+member-NN  multiply=0.32276  P(member|object)=0.715517  P(object|member)=0.451087    
+
+id=24  property=dbp:imagesize  object=250  NumberOfEntitiesFoundForObject=38
+activist-JJ  multiply=0.034626  P(activist|object)=0.131579  P(object|activist)=0.263158    
+development-NN  multiply=0.03056  P(development|object)=0.157895  P(object|development)=0.193548    
+
+id=25  property=dbp:imagesize  object=180  NumberOfEntitiesFoundForObject=106
+member-NN  multiply=0.148072  P(member|object)=0.716981  P(object|member)=0.206522    
+assembly-NN  multiply=0.145817  P(assembly|object)=0.603774  P(object|assembly)=0.241509    
+
+id=26  property=dbp:imagesize  object=200  NumberOfEntitiesFoundForObject=85
+party-NN  multiply=0.10715  P(party|object)=0.458824  P(object|party)=0.233533    
+part-NN  multiply=0.096078  P(part|object)=0.494118  P(object|part)=0.194444    
+

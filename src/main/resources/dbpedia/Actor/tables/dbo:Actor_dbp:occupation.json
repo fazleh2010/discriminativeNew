@@ -1,0 +1,650 @@
+[ {
+  "entityIndex" : "1_entity14528",
+  "entityUrl" : "http://dbpedia.org/resource/Rosanna_Carter",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "New", "-LRB-", "September", "American", "fiction", "Carter", "tale", "Harlem", "plot", "Brother", "slavery", "Estelle", "Planet", "sister", "fairy", "Rolle", "Players", "Another", "described", "--", "actress", "television", "Esther", "1908", "one", "2001", "heritage", "film", ",", "Bahamian", ".", "Renaissance", "Theater", "1984", "stage", "acted", "Lafayette", "Evans", "science", "-RRB-", "Rosanna", "well-reviewed", "20" ],
+  "adjectives" : [ "American", "Bahamian", "well-reviewed" ],
+  "nouns" : [ "actress", "fiction", "television", "heritage", "film", "tale", "stage", "plot", "science", "slavery", "Planet", "sister", "fairy" ],
+  "text" : "Rosanna Rolle Carter (September 20, 1908 – 2001) was an American television, stage and film actress, of Bahamian heritage, and the sister of Esther Rolle and Estelle Evans. During the Harlem Renaissance, she acted at New Lafayette Theater as one of the Lafayette Players. She acted in The Brother from Another Planet, a well-reviewed 1984 film described as a science fiction fairy tale with a slavery plot."
+}, {
+  "entityIndex" : "2_entity14648",
+  "entityUrl" : "http://dbpedia.org/resource/Romeo_Tan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, model" ]
+  },
+  "words" : [ "Tan", "Shane", "contracted", "Luómìōu", "Search", "season", "Xu", "&", "artiste", ",", ".", "April", "Pang", "1985", "pinyin", "Ian", "name", "-RRB-", "8", "9", "Pow", ":", ";", "Zhenhuan", "Desmond", "-LRB-", "tenth", "陈罗密欧", "Chén", "2010", "finishing", "Star", "came", "place", "Jeffrey", "Mediacorp", "television", "Bin", "born", "one", "Zhang", "Romeo", "actor", "MediaCorp", "Fang", "series", "Chinese", "fourth", "family", "Dukes", "prominence", "Aloysius" ],
+  "adjectives" : [ "Chinese", "fourth" ],
+  "nouns" : [ "actor", "pinyin", "tenth", "television", "series", "artiste", "name", "season", "place", "family", "prominence" ],
+  "text" : "(This is a Chinese name; the family name is Tan.) Romeo Tan (born Tan Romeo; Chinese: 陈罗密欧; pinyin: Chén Luómìōu; 9 April 1985) is an actor and a contracted artiste under MediaCorp. Tan came into prominence after finishing in fourth place on the tenth season of the television series Star Search in 2010.He is one of the 8 Dukes in Mediacorp with Zhang Zhenhuan, Shane Pow, Xu Bin, Aloysius Pang, Desmond Tan, Ian Fang & Jeffrey Xu."
+}, {
+  "entityIndex" : "3_entity12525",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Fang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "Tan", "Shane", "Desmond", "-LRB-", "Singapore", "Fringe", "Stop", "2011", "Imperfect.He", "movies", "December", "Believin", "known", "n't", "Xu", "Jeffrey", "based", "13", "Mediacorp", "Bin", "&", "born", "artiste", "'", "one", "Zhang", ",", "Romeo", ".", "Pang", "actor", "MediaCorp", "dramas", "Fang", "Ian", "-RRB-", "8", "Chinese", "starring", "well", "Pow", "Zhenhuan", "Dukes", "1989", "Aloysius" ],
+  "adjectives" : [ "Chinese" ],
+  "nouns" : [ "actor", "MediaCorp", "dramas", "artiste", "Imperfect.He" ],
+  "text" : "Ian Fang (born December 13, 1989) is a Chinese actor and MediaCorp artiste based in Singapore. He is known for starring in dramas such as On the Fringe 2011 and Don't Stop Believin', as well as movies such as Imperfect.He is one of the 8 Dukes in Mediacorp with Zhang Zhenhuan, Romeo Tan, Jeffrey Xu, Desmond Tan, Xu Bin, Aloysius Pang & Shane Pow."
+}, {
+  "entityIndex" : "4_entity14308",
+  "entityUrl" : "http://dbpedia.org/resource/Priscelia_Chan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "works", "two", "English-language", "Chan", "known", "host", "Priscelia", "actress", "Chinese-language", "television", "Channel", "also", ",", "-", ".", "Zeng", "Mei", "Shimei", "MediaCorp", "Shih", "channels", "5", "name", "-RRB-", "8", "Chinese", ";", "family" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actress", "English-language", "Chinese-language", "television", "name", "host", "family" ],
+  "text" : "(This is a Chinese name; the family name is Chan.) Priscelia Chan Shih Mei, also known as Zeng Shimei, is a Singaporean television actress and host who works on two channels of MediaCorp - Channel 8 (Chinese-language) and Channel 5 (English-language)."
+}, {
+  "entityIndex" : "5_entity12089",
+  "entityUrl" : "http://dbpedia.org/resource/Gail_Sheridan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "career", "-LRB-", "1930s", "September", "American", "Washington", "spanned", "1916", "January", "11", "--", "actress", "Chevy", "Seattle", "17", "film", ",", "whose", "Chase", ".", "Sheridan", "1982", "-RRB-", "Gail", "Maryland" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "actress", "career", "film", "Gail" ],
+  "text" : "Gail Sheridan (January 11, 1916, Seattle, Washington – September 17, 1982, Chevy Chase, Maryland) was an American film actress whose career spanned the 1930s."
+}, {
+  "entityIndex" : "6_entity12191",
+  "entityUrl" : "http://dbpedia.org/resource/Guo_Liang_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Host, actor" ]
+  },
+  "words" : [ "Guo", "11", "China-born", "-LRB-", "Singaporean", "television", "born", ".", "actor", "name", "-RRB-", "host", "Chinese", ";", "family", "Liang", "1968", "November" ],
+  "adjectives" : [ "China-born", "Singaporean", "Chinese" ],
+  "nouns" : [ "actor", "television", "name", "host", "family" ],
+  "text" : "(This is a Chinese name; the family name is Guo.) Guo Liang (born 11 November 1968) is a China-born Singaporean actor and television host."
+}, {
+  "entityIndex" : "7_entity14397",
+  "entityUrl" : "http://dbpedia.org/resource/Quan_Yi_Fong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Host, actress" ]
+  },
+  "words" : [ "Taiwanese", "Giles", "Wade", "-LRB-", "Fong", "Singapore", "Ch", "March", "b.", "1974", "Quan", "host", "Chuan", "--", "actress", "based", "Yifong", "'", "权怡凤", "üan", "also", ",", ".", "Yi", "1", "name", "-RRB-", "Chinese", "Feng", ":", ";", "family", "credited" ],
+  "adjectives" : [ "Taiwanese", "Chinese" ],
+  "nouns" : [ "actress", "Ch", "name", "host", "üan", "family" ],
+  "text" : "(This is a Chinese name; the family name is Quan.) Quan Yi Fong (Chinese: 权怡凤; Wade–Giles: Ch'üan I Feng, b. 1 March 1974), also credited as Yifong Chuan, is a Taiwanese host and actress based in Singapore."
+}, {
+  "entityIndex" : "8_entity14736",
+  "entityUrl" : "http://dbpedia.org/resource/Sharon_Au",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Host, actress" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "TCS", "mid-1990s", "industry", "Sharon", "Jīngxiān", "executive", "pursue", "Au", "won", "host", "studies", "actress", "still", "joined", "artiste", "Ōu", "歐菁仙", ",", "many", "former", ".", "MediaCorp", "traditional", "pinyin", "simplified", "awards", "-RRB-", "Chinese", ":", ";", "position", "leaving", "欧菁仙" ],
+  "adjectives" : [ "executive", "traditional", "Singaporean", "many", "former" ],
+  "nouns" : [ "actress", "MediaCorp", "pinyin", "TCS", "artiste", "host", "Ōu", "industry", "position", "Jīngxiān" ],
+  "text" : "Sharon Au (simplified Chinese: 欧菁仙; traditional Chinese: 歐菁仙; pinyin: Ōu Jīngxiān) is a former Singaporean actress and host. Having joined the TCS during the mid-1990s, she won many awards as an artiste with MediaCorp before leaving the industry to pursue further studies. She is still with MediaCorp but is now in an executive position."
+}, {
+  "entityIndex" : "9_entity15049",
+  "entityUrl" : "http://dbpedia.org/resource/Shane_Pow",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, Model" ]
+  },
+  "words" : [ "Tan", "Shane", "Oct", "Desmond", "-LRB-", "Singaporean", "Bāo", "managed", "包勋评", "包勛評", "Xu", "Jeffrey", "Bin", "born", "one", "1990", "Xūnpíng", "Zhang", ",", "Romeo", ".", "Pang", "actor", "BEAM", "traditional", "pinyin", "simplified", "4", "Fang", "Artistes", "Ian", "-RRB-", "8", "Pow", "Chinese", ":", ";", "Zhenhuan", "Dukes", "Aloysius" ],
+  "adjectives" : [ "traditional", "Singaporean" ],
+  "nouns" : [ "actor", "Oct", "pinyin" ],
+  "text" : "Shane Pow (simplified Chinese: 包勋评; traditional Chinese: 包勛評; pinyin: Bāo Xūnpíng, born 4 Oct 1990) is a Singaporean actor managed by BEAM Artistes. He is one of the 8 Dukes with Zhang Zhenhuan, Desmond Tan, Xu Bin, Aloysius Pang, Jeffrey Xu, Ian Fang and Romeo Tan."
+}, {
+  "entityIndex" : "10_entity15051",
+  "entityUrl" : "http://dbpedia.org/resource/Sudhir_Pandey",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "news", "Mr", "television", "Devkinandan", "father", "film", "Sudhir", ".", "renowned", "actor", "Pandey", "serial", "panday", "anchor", "Indian" ],
+  "adjectives" : [ "Devkinandan", "Indian", "renowned" ],
+  "nouns" : [ "actor", "news", "serial", "Mr", "television", "panday", "father", "anchor", "film" ],
+  "text" : "Sudhir Pandey is an Indian film and serial television actor. his father was a renowned news anchor Mr Devkinandan panday."
+}, {
+  "entityIndex" : "11_entity15151",
+  "entityUrl" : "http://dbpedia.org/resource/Terence_Cao",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "contracted", "television", "born", "artiste", "曹国辉", ".", "Cao", "actor", "MediaCorp", "October", "Terence", "6", "Guohui", "name", "-RRB-", "Chinese", ";", "family", "1967" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actor", "television", "artiste", "name", "曹国辉", "family" ],
+  "text" : "(This is a Chinese name; the family name is Cao.) Terence Cao Guohui 曹国辉 (born 6 October 1967) is a Singaporean television actor and a contracted artiste under MediaCorp."
+}, {
+  "entityIndex" : "12_entity15277",
+  "entityUrl" : "http://dbpedia.org/resource/Tracy_Lee_(actress)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "June", "-LRB-", "Singapore", "dialect", "Singaporean", "Lǐ", "confused", "Margaret", "host", "Malaysian", "Cantonese", "李美玲", "actress", "based", "television", "born", "19", "Tracy", ",", "exactly", "Lee", ".", "Mei", "descent", "1985", "pinyin", "Leng", "speaks", "-RRB-", "name", "Chinese", ":", "Měi", ";", "Líng" ],
+  "adjectives" : [ "Singaporean", "Chinese", "Malaysian" ],
+  "nouns" : [ "actress", "descent", "pinyin", "dialect", "Lǐ", "television", "host", "name", "Měi", "Líng" ],
+  "text" : "Tracy Lee (Chinese: 李美玲; pinyin: Lǐ Měi Líng, born Lee Mei Leng on 19 June 1985) is a Malaysian Chinese actress and television host based in Singapore. She is of Cantonese descent and speaks the dialect. (Not to be confused with Singaporean actress Margaret Lee who has exactly the same Chinese name.)"
+}, {
+  "entityIndex" : "13_entity15281",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Ong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, host" ]
+  },
+  "words" : [ "Thomas", "-LRB-", "Singaporean", "television", "Tiáncái", "born", "Ong", "Wáng", ",", "王沺裁", ".", "actor", "1", "pinyin", "-RRB-", "host", "Chinese", ":", ";", "1969", "February" ],
+  "adjectives" : [ "Singaporean" ],
+  "nouns" : [ "actor", "pinyin", "television", "host" ],
+  "text" : "Thomas Ong (Chinese: 王沺裁; pinyin: Wáng Tiáncái, born 1 February 1969) is a Singaporean actor and television host."
+}, {
+  "entityIndex" : "14_entity15290",
+  "entityUrl" : "http://dbpedia.org/resource/Tim_Holmes_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, musician" ]
+  },
+  "words" : [ "career", "-LRB-", "T.C.", "American", "moved", "Angeles", "pursue", "music", "musician", "14", "born", "18", "also", "Lansing", ",", "April", ".", "Michigan", "actor", "Los", "Born", "-RRB-", "Tim", "Holmes", "1967", "credited", "acting" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "actor", "career", "music", "musician" ],
+  "text" : "Tim Holmes (born April 14, 1967), also credited as T.C. Holmes, is an American actor and musician. Born in Lansing, Michigan, Holmes moved to Los Angeles at 18 to pursue a career in music and acting."
+}, {
+  "entityIndex" : "15_entity13024",
+  "entityUrl" : "http://dbpedia.org/resource/Katherine_Locke",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "June", "24", "1940s", "-LRB-", "1930s", "September", "Katherine", "father", "Broadway", "amateur", "1910", "Kalinkavičy", "1995", "U.S.", "appeared", "late", "Locke", "supporting", "1950s", "--", "12", "actress", "films", "born", "raised", ",", "Belarus", ".", "Mendel", "-RRB-", "writer" ],
+  "adjectives" : [ "late", "amateur" ],
+  "nouns" : [ "actress", "father", "writer" ],
+  "text" : "Katherine Locke (June 24, 1910 – September 12, 1995) was a Broadway actress in the late 1930s. She was born in Kalinkavičy, in what is now Belarus, and raised in the U.S. Her father Mendel Locke was an amateur writer. She appeared in films in the 1940s and 1950s as a supporting actress. She began her film work in the late 1930s in bit parts, but she is remembered today as a stage actress. She was married to radio legend Norman Corwin. In addition to appearing on a successful Broadway production of Hamlet playing Ophelia, her stage credits include starring with John Garfield in Having a Wonderful Time, Fifth Column with Lee J. Cobb, and Clash by Night with Tallulah Bankhead."
+}, {
+  "entityIndex" : "16_entity13114",
+  "entityUrl" : "http://dbpedia.org/resource/Kang_Cheng_Xi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "university", "competition", "Kang", "showbiz", "Xi", "December", "known", "Star", "Chengxi", "Cheng", "studies", "Jiang", "born", "also", "entered", ",", "concentrate", ".", "actor", "MediaCorp", "1984", "5", "left", "-RRB-", "Idol", "first", "since" ],
+  "adjectives" : [ "Singaporean" ],
+  "nouns" : [ "actor", "Xi", "university", "competition", "showbiz" ],
+  "text" : "Kang Cheng Xi (born 5 December 1984), also known as Jiang Chengxi, is a Singaporean actor. He first entered showbiz through the competition Star Idol but has since left MediaCorp to concentrate on university studies."
+}, {
+  "entityIndex" : "17_entity13238",
+  "entityUrl" : "http://dbpedia.org/resource/Kanny_Theng",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Singer, Actress, Model" ]
+  },
+  "words" : [ "Pte", "-LRB-", "Singaporean", "C", "Singapore", "turned", "Asiasoft", "March", "Ambassador", "Kanny", "Sato", "Butterflies", "Artiste", "Inc.", "Ltd.", "Monster", "Network", "working", "Ocean", "Theng", "model", "brand", "10", "International", "actress", "bought", "born", "Pharmaceutical", "Hakubi", ".", "1987", "Canada", "White", "Game", "currently", "ambassador", "-RRB-", "Forest", "Online", "WaWa" ],
+  "adjectives" : [ "Singaporean" ],
+  "nouns" : [ "actress", "ambassador", "Monster", "Forest", "model", "brand", "WaWa" ],
+  "text" : "Kanny Theng (born 10 March 1987) is a Singaporean model turned actress. She is the brand ambassador for Hakubi White C Sato Pharmaceutical Canada Inc. She has been bought up as an Online Game Ambassador Monster Forest for Asiasoft Singapore. She is currently working with WaWa Artiste Network and Ocean Butterflies International Pte Ltd."
+}, {
+  "entityIndex" : "18_entity13259",
+  "entityUrl" : "http://dbpedia.org/resource/Kerry_Berry_Brogan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "presently", "language", "blog", "high", "appeared", "shows", "school", "logged", "bilingual", "50", "actress", "based", "films", "studying", "began", "Berry", "fluent", ",", ".", "Kerry", "Beijing", "Olympics", "speaker", "guest", "American", "periodic", "roles", "two", "2008", "commentator", "variety", "China", "comedic", "supporting", "Mandarin", "prime-time", "popular", "website", "Chinese-language", "wide", "television", "dramatic", "840,000", "also", "opening", "Brogan", "hits", "ceremonies", "series", "starring", "days", "Chinese" ],
+  "adjectives" : [ "high", "Chinese-language", "American", "wide", "periodic", "dramatic", "comedic", "bilingual", "Chinese", "fluent", "popular" ],
+  "nouns" : [ "actress", "website", "television", "language", "blog", "opening", "commentator", "variety", "school", "series", "speaker", "guest", "prime-time" ],
+  "text" : "Kerry Berry Brogan is an American actress, presently based in Beijing, China. She has appeared in over 50 films and television series in a wide variety of dramatic, comedic, starring and supporting roles. A fluent Mandarin speaker who began studying the language in high school, Brogan has a bilingual website and a popular Chinese-language blog that logged 840,000 hits in just two days before the opening ceremonies of the 2008 Beijing Olympics. She is also a periodic guest and commentator on Chinese prime-time television shows. Off screen, Brogan has played an active role in promoting East-West cultural exchange, and has received the Sino-American Friendship Award (2009) and the Goddess Artemis Award (2009). She also served as the “International Green Ambassador” for the Xi'an China International Horticultural Exposition 2011, and has been selected for a number of honorary positions including Film Ambassador for New Zealand’s Film Auckland and Goodwill Ambassador for the Flying Tigers Historical Organization. In addition to her acting work, Brogan is a celebrity spokesperson for Ruyi Art Pavilion in Guangxi and Aoting Cosmetics in Beijing, and frequently hosts and emcees bilingual cultural events, concerts and product launches for Fortune 500 companies. In 2012, Brogan established Lotus Ray Media to facilitate film and television co-productions between China, New Zealand and the United States."
+}, {
+  "entityIndex" : "19_entity13267",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Howarth",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "Movie", "British", "Horror", "Max", "Viktor", "roles", "Summer", "best", "House", "film", ",", ".", "Seasoning", "Howarth", "actor", "Kevin", "Last", "Scars", "known", "Peter" ],
+  "adjectives" : [ "British", "Last" ],
+  "nouns" : [ "actor", "Max", "film" ],
+  "text" : "Kevin Howarth is a British film actor, best known for his roles as Max in The Last Horror Movie, Peter in Summer Scars and Viktor in The Seasoning House."
+}, {
+  "entityIndex" : "20_entity13276",
+  "entityUrl" : "http://dbpedia.org/resource/Kimberly_Chia",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress, model" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "NoonTalk", "Fringe", "movie", "Stop", "2011", "1995", "Believin", "known", "Timeless", "model", "n't", "actress", "born", "'", "Media", ",", ".", "August", "dramas", "Kimberly", "Love", "7", "-RRB-", "starring", "well", "Chia" ],
+  "adjectives" : [ "Singaporean", "Timeless" ],
+  "nouns" : [ "actress", "dramas", "movie", "Love", "model" ],
+  "text" : "Kimberly Chia (born August 7, 1995) is a Singaporean actress and model under NoonTalk Media. She is known for starring in dramas On the Fringe 2011 and Don't Stop Believin', as well as movie Timeless Love."
+}, {
+  "entityIndex" : "21_entity11220",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Zhou",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress, Host" ]
+  },
+  "words" : [ "actress", "became", "Singapore", "sports", "presenter", "television", "&", "Betty", "active", ",", "NBA", ".", "cover", "commentator", "finals", "China", "2013", "anchor", "Chinese", "bilingual", "female", "Zhou", "first" ],
+  "adjectives" : [ "Chinese", "active", "bilingual", "female", "first" ],
+  "nouns" : [ "actress", "commentator", "presenter", "television", "anchor" ],
+  "text" : "Betty Zhou is a female Chinese actress, sports commentator, and television presenter. She is active in China & Singapore. In 2013, she became the first bilingual anchor from China to cover the NBA finals."
+}, {
+  "entityIndex" : "22_entity11222",
+  "entityUrl" : "http://dbpedia.org/resource/Bonnie_Loo",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Singer, actress" ]
+  },
+  "words" : [ "held", "competition", "won", "羅美儀", "season", "July", "female", "Musical", "cash", "Malaysian", "12", "Campus", "singing", "$", "Bonnie", "artiste", "contract", "opportunity", "Mee", ",", "Anatomy", "Loo", ".", "Měiyí", "traditional", "pinyin", "winner", "simplified", "two-year", "Dang", "Yee", "-RRB-", ":", ";", "Ding", "since", "-LRB-", "Singapore", "singer", "Luō", "5,000", "Glass", "emerged", "School", "2006", "1994", "SuperStar", "罗美仪", "Secondary", "Mediacorp", "Singapore-based", "born", "one", "competitions", "perform", "hails", "crowned", "Taiwan-based", "management", "Chinese", "fourth", "first", "Riverside" ],
+  "adjectives" : [ "traditional", "Secondary", "Mediacorp", "Taiwan-based", "two-year", "Singapore-based", "Chinese", "fourth", "female", "Musical", "Malaysian", "first" ],
+  "nouns" : [ "singer", "singing", "Luō", "artiste", "contract", "opportunity", "competition", "Měiyí", "pinyin", "winner", "management", "season", "cash" ],
+  "text" : "Bonnie Loo Mee Yee (simplified Chinese: 罗美仪; traditional Chinese: 羅美儀; pinyin: Luō Měiyí; born July 12, 1994), is a Singapore-based, Malaysian singer and Mediacorp artiste. She emerged from the fourth season of Campus SuperStar, one of the Chinese singing competitions held in Singapore. She hails from Riverside Secondary School, Singapore. She was crowned the first female winner since the first competition in 2006 and won a two-year Mediacorp management contract, $5,000 cash and the opportunity to perform with Taiwan-based singer Ding Dang in Glass Anatomy The Musical."
+}, {
+  "entityIndex" : "23_entity15428",
+  "entityUrl" : "http://dbpedia.org/resource/Walt_MacPherson",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "film and television actor" ]
+  },
+  "words" : [ "actor", "TV", "MacPherson", "Walt", "film", "." ],
+  "adjectives" : [ ],
+  "nouns" : [ "actor", "TV", "film" ],
+  "text" : "Walt MacPherson is a film and TV actor."
+}, {
+  "entityIndex" : "24_entity15434",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Lung-wei",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "actor, director, producer, action choreographer" ]
+  },
+  "words" : [ "exception", "choreographing", "Hong", "villain", "choreographer", "Lung", "moved", "Wang", "Studios", "mainly", "movies", "kung", "cast", "traitor", "starred", "王龙威", "action", "majority", "Kong", "Godfather", "films", "Johnny", "director", "film", ",", "'s", ".", "Yi", "1985", "Ma", "Cheh-directed", "-RRB-", "scenes", "producer", "Wei", "1947", "became", "behind", "Brothers", "-LRB-", "role", "pattern", "Shaw", "fu", "known", "Chang", "writing", "Martial", "camera", "fight", "Masters", "famous", "Shaolin", "born", "also", "many", "Fu", "actor", "Five", "Club", "80", "Chinese", "directing", "first" ],
+  "adjectives" : [ "famous", "Cheh-directed", "Chinese", "many", "first" ],
+  "nouns" : [ "exception", "Masters", "role", "villain", "choreographer", "Lung", "director", "pattern", "film", "fu", "actor", "traitor", "producer", "action", "majority", "camera", "fight" ],
+  "text" : "Wang Lung Wei (王龙威) (born 1947), also known as Johnny Wang, is a Chinese actor, director, producer, and action choreographer, who has starred in over 80 kung fu films, mainly for Shaw Brothers Studios. Wang's first Shaw Brothers film role was as the traitor Ma Fu Yi in the Chang Cheh-directed film Five Shaolin Masters. This became a pattern, in that he was cast as the villain in the majority of his movies, with Martial Club being a famous exception. In 1985, Wang moved behind the camera, choreographing fight scenes, writing, and directing many movies such as Hong Kong Godfather. He has recently retired from the industry."
+}, {
+  "entityIndex" : "25_entity15711",
+  "entityUrl" : "http://dbpedia.org/resource/Zeng_Huifen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "Samsui", "numerous", "best", "Huifen", "known", "Huìfēn", "1990s", "Zēng", "1980s", "Women", "actress", "notably", "born", ",", "曾慧芬", "Zeng", "former", ".", "pinyin", "1962", "dramas", "-RRB-", "Chinese", "starring", ":", ";" ],
+  "adjectives" : [ "Singaporean", "numerous", "Chinese", "former" ],
+  "nouns" : [ "actress", "pinyin", "dramas" ],
+  "text" : "Zeng Huifen (Chinese: 曾慧芬; pinyin: Zēng Huìfēn; born 1962) is a former Singaporean Chinese actress. She is best known for starring in numerous Singaporean dramas from the 1980s to the 1990s, most notably in Samsui Women."
+}, {
+  "entityIndex" : "26_entity15719",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Zhenhuan_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, Host" ]
+  },
+  "words" : [ "Tan", "Giles", "Shane", "Wade", "Desmond", "-LRB-", "Zhāng", "Zhènhuán", "Xu", "Jeffrey", "--", "based", "Mediacorp", "Chen3", "Bin", "&", "Chang1", "artiste", "one", "Zhang", ",", "Romeo", ".", "Singapore.He", "Pang", "张振寰", "actor", "MediaCorp", "pinyin", "Huan2", "Fang", "Ian", "-RRB-", "8", "Chinese", "Pow", ":", "Zhenhuan", ";", "Dukes", "Aloysius" ],
+  "adjectives" : [ "Chinese" ],
+  "nouns" : [ "actor", "MediaCorp", "pinyin", "Chen3", "Huan2", "Chang1", "artiste" ],
+  "text" : "Zhang Zhenhuan (Chinese: 张振寰; pinyin: Zhāng Zhènhuán; Wade–Giles: Chang1 Chen3 Huan2) is a Chinese actor and MediaCorp artiste based in Singapore.He is one of the 8 Dukes in Mediacorp with Ian Fang, Shane Pow, Romeo Tan, Desmond Tan, Xu Bin, Aloysius Pang & Jeffrey Xu."
+}, {
+  "entityIndex" : "27_entity13331",
+  "entityUrl" : "http://dbpedia.org/resource/Lillian_Zuckerman",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "film actress" ]
+  },
+  "words" : [ "--", "11", "actress", "-LRB-", "September", "American", "16", "born", "died", ",", "Florida", ".", "Miami", "Lillian", "October", "Baltimore", "2004", "Zuckerman", "-RRB-", "1916", "Maryland" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "actress" ],
+  "text" : "Lillian Zuckerman (September 16, 1916 – October 11, 2004) was an American actress. She was born in Baltimore, Maryland and died in Miami, Florida."
+}, {
+  "entityIndex" : "28_entity13356",
+  "entityUrl" : "http://dbpedia.org/resource/Liliane_Nemri",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "actress" ]
+  },
+  "words" : [ "reason", "becoming", "allowed", "movies", "theatre", "thanks", "number", "mother", "introduced", "Arabic", "starred", "Lebanese", "gained", "Liliane", "group", "actress", "large", "ليليان", "comedy", "sense", "develop", ",", "artists.She", "Arab", ".", "-RRB-", ":", "Alia", "become", "strong", "-LRB-", "father", "roles", "icon", "نمري", "comedian", "world", "interest", "Nemri", "humour", "funny", "famous", "plays", "born", "spirit", "also", "entered", "many", "played", "fans", "actor", "series", "family" ],
+  "adjectives" : [ "strong", "famous", "large", "Lebanese", "many", "Arab", "funny" ],
+  "nouns" : [ "actress", "reason", "comedy", "father", "icon", "spirit", "sense", "artists.She", "comedian", "theatre", "actor", "number", "mother", "world", "interest", "series", "humour", "family", "group" ],
+  "text" : "Liliane Nemri (Arabic: ليليان نمري‎‎) is a Lebanese actress and comedian who has played in a number of Lebanese movies and series. Her mother is Alia Nemri, a famous Lebanese actress, who also played in a number of Lebanese movies and was the reason for Nemri to develop an interest in becoming an actress too. Liliane was born in a family of artists.She entered the theatre world with her father, who was also an actor. She starred with him in many plays, and gained many roles that introduced her to a large group of Lebanese and Arab fans, and allowed her to become a comedy icon thanks to her funny spirit and strong sense of humour. Liliane won many awards, such as Best Actress, and received the title: The Queen Of Comedy (Arabic: زعيمة الكوميديا اللبنانية‎‎) that show the people's appreciation of her talent, her many successful works through the years, and her important contribution to the Lebanese comedy."
+}, {
+  "entityIndex" : "29_entity13464",
+  "entityUrl" : "http://dbpedia.org/resource/Lini_Evans",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Singer, Actress" ]
+  },
+  "words" : [ "``", "New", "TV", "movie", "numerous", "Studios", "World", "Davis", "movies", "all-time", "Tree", "1960s", "song", "actress", "singing", "'", "wrote", ",", "Japanese", "version", ".", "Top", "5", "highest", "covered", "David", "-RRB-", "End", "Man", "Tsuyoshi", "Lini", "Amazon", "Kawasaki", "Christmas", "role", "-LRB-", "singer", "Canadian", "York", "records", "One", "Well", "translator", "known", "along", "artists", "Saved", "Winning", "Season", "lyrics", "''", "High", "directed", "alongside", "set", "original", "one", "stars", "favourite", "rated", "Skeeter", "Holiday", "Evans", "series", "Times", "Castle", "Lacey", "Chabert" ],
+  "adjectives" : [ "High", "original", "Top", "Canadian", "numerous", "all-time", "favourite", "Japanese" ],
+  "nouns" : [ "song", "actress", "TV", "role", "singer", "movie", "translator", "World", "version", "series", "Castle", "End", "Man", "Season" ],
+  "text" : "Lini Evans is a Canadian singer and actress. She stars alongside Lacey Chabert in one of The New York Times' Top 5 Holiday TV movies \"The Tree That Saved Christmas\" which set records as the highest rated Up original movie of all-time and was directed by David Winning. A favourite role for Lini was singing her own Japanese version of The End of the World (Skeeter Davis song) in Season One of Amazon Studios' series The Man in the High Castle. Well known as a 1960s song covered by numerous artists, Lini wrote the Japanese lyrics along with translator Tsuyoshi Kawasaki. Episode 8 was named after this song and was directed by Karyn Kusama. Among other roles on Film & TV, she plays Nicola Peltz's mother Amelia Martin on Bates Motel, Debra Harper on Supernatural, and was Annie Hastings on J.J. Abrams' series Alcatraz. Lini starred opposite Teri Polo and Paul Johansson in The Hallmark Channel movie Love, Again (formerly titled The Last Resort). Residing in Vancouver, B.C., and traveling world-wide, Calgary-born Evans sings in eight languages including Cantonese, Mandarin and Japanese. She has performed for Chinese Premier Zhu Rongji, Japanese royalty and with Han Lei for the Mandarin duet finale of renowned Our Chinese Heart concert at Rogers Arena. Other prominent performances were on national television in China with Dashan and with Asian pop titans Andy Lau and A-Mei in Taiwan for President Ma Ying-jeou and 30,000 people at an outdoor concert for The Broadcasting Corporation of China. She performs on Fairchild Television such as for their All-Star shows and 2008 Miss Chinese (Vancouver) Pageant."
+}, {
+  "entityIndex" : "30_entity12289",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Thia",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, comedian" ]
+  },
+  "words" : [ "Giles", "Wade", "-LRB-", "25", "Singaporean", "role", "Ch", "best", "Thia", "程旭辉", "comedian", "1998", "Enough", "Money", "1952", "known", "February", "Hui", "Henry", "Chéng", "--", "`", "born", "Hsu4", "film", ",", ".", "actor", "pinyin", "Xùhuī", "Hui1", "name", "-RRB-", "Chinese", ":", ";", "eng2", "family" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actor", "comedian", "Money", "pinyin", "role", "Hui1", "name", "Hsu4", "eng2", "film", "family" ],
+  "text" : "(This is a Chinese name; the family name is Thia.) Henry Thia (Chinese: 程旭辉; pinyin: Chéng Xùhuī; Wade–Giles: Ch'eng2 Hsu4 Hui1, born 25 February 1952) is a Singaporean actor and comedian. He is best known for his role as Hui in the 1998 film Money No Enough."
+}, {
+  "entityIndex" : "31_entity12322",
+  "entityUrl" : "http://dbpedia.org/resource/Helen_Rowland_(actress)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Silent film actress" ]
+  },
+  "words" : [ "1920s", "23", "nine", "-LRB-", "American", "sometimes", "1919", "adaptation", "Rowland", "October", "appeared", "actress", "films", "silent", "born", "Baby", "Silas", "film", ",", "Marner", "Lee", ".", "-RRB-", "1927", ";", "Helen", "credited", "first", "child", "1922" ],
+  "adjectives" : [ "silent", "American", "first" ],
+  "nouns" : [ "actress", "adaptation", "film", "child" ],
+  "text" : "Helen Rowland (sometimes credited as Baby Helen Rowland or Baby Helen Lee; born October 23, 1919) is an American child actress in silent films in the 1920s. She appeared in nine films between, 1922 and 1927. Her first film was in an adaptation of Silas Marner."
+}, {
+  "entityIndex" : "32_entity12323",
+  "entityUrl" : "http://dbpedia.org/resource/Hong_Huifang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "``", "Hong", "contracted", "Tay", "won", "Geping", "January", "actress", "audience", "artiste", "Channel", "Peng", ",", "Hwee", ".", "produced", "7", "-RRB-", "8", "playing", "Ang", "-LRB-", "Singaporean", "roles", "Ah", "best", "Huifang", "known", "hearts", "supporting", "popular", "''", "Chinese-language", "Mediacorp", "television", "Kok", "born", "Jie", "many", "better", "critics", "MediaCorp", "alike", "dramas", "Fang", "1960", "Zheng", "fellow", "married" ],
+  "adjectives" : [ "Chinese-language", "Singaporean", "fellow", "many", "popular" ],
+  "nouns" : [ "actress", "MediaCorp", "audience", "dramas", "television", "artiste", "Ah", "Jie" ],
+  "text" : "Ang Hwee Fang (born 7 January 1960), better known as Hong Huifang, is a popular Singaporean television actress and a contracted artiste under MediaCorp. She is best known for playing supporting roles in many Chinese-language television dramas produced by MediaCorp Channel 8 that has won the hearts of critics and audience alike. The Mediacorp \"Ah Jie\" is married to Zheng Geping (Tay Kok Peng), a fellow MediaCorp artiste."
+}, {
+  "entityIndex" : "33_entity10690",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Seow",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, Model, Director" ]
+  },
+  "words" : [ "celebrity", "TV", "becoming", "numerous", "fiery", "several", "Asian", "son", "starred", "annual", "model", "Best", "Andrew", "肖乙铭", "Channel", ",", ".", "pinyin", "eldest", "5", "-RRB-", "8", ":", ";", "-LRB-", "Singaporean", "Singapore", "role", "Newcomer", "best", "media", "local", "drama", "personality", "known", "Star", "tempered", "earning", "garnering", "television", "also", "nominations", "Yǐmíng", "actor", "MediaCorp", "Awards", "Television", "dramas", "Asia", "Xiāo", "series", "Chinese", "Growing", "family", "Seow" ],
+  "adjectives" : [ "Singaporean", "eldest", "numerous", "fiery", "annual", "several", "Chinese", "local" ],
+  "nouns" : [ "celebrity", "role", "television", "Newcomer", "actor", "drama", "pinyin", "son", "personality", "dramas", "series", "model", "family" ],
+  "text" : "Andrew Seow (Chinese: 肖乙铭; pinyin: Xiāo Yǐmíng) is a Singaporean actor, celebrity, model and media personality. Seow was a model in Singapore and Asia before becoming an actor on local television. He is best known for his role as the fiery tempered eldest son in the family drama series, Growing Up on MediaCorp TV Channel 5, earning him the Best Newcomer in the annual Asian Television Awards. Seow has also starred in numerous Chinese dramas on Channel 8, garnering several nominations in the annual Star Awards. He studied at Catholic High School and St. Patrick's School. He earned an Advanced Diploma in fashion design, jewellery design and merchandising from LaSalle College."
+}, {
+  "entityIndex" : "34_entity10696",
+  "entityUrl" : "http://dbpedia.org/resource/Aileen_Tan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "Tan", "Competition", "Singaporean", "-LRB-", "entertainment", "industry", "placing", "Aileen", "second", "see", "October", "Star", "Search", "Malaysian-descended", "actress", "British", "born", "18", "entered", ",", ".", "veteran", "-RRB-", ";", "Elaine", "first", "1966", "1988" ],
+  "adjectives" : [ "British", "Singaporean", "Malaysian-descended", "first", "second" ],
+  "nouns" : [ "Competition", "actress", "veteran", "entertainment", "industry" ],
+  "text" : "This is about the Singaporean actress; for the Malaysian-descended British actress, see Elaine Tan. Aileen Tan (born 18 October 1966) is a Singaporean veteran actress. She entered the entertainment industry through placing second in the first Star Search Competition in 1988."
+}, {
+  "entityIndex" : "35_entity10705",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Chen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, model, television host" ]
+  },
+  "words" : [ "June", "24", "-LRB-", "Singaporean", "television", "born", "film", "Chen", ".", "Adam", "1976", "actor", "name", "-RRB-", "Chinese", ";", "family" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actor", "television", "name", "film", "family" ],
+  "text" : "(This is a Chinese name; the family name is Chen.) Adam Chen (born 24 June 1976) is a Singaporean television and film actor."
+}, {
+  "entityIndex" : "36_entity10736",
+  "entityUrl" : "http://dbpedia.org/resource/Ang_Ching_Hui",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress, student" ]
+  },
+  "words" : [ "``", "-LRB-", "Singaporean", "role", "29", "best", "Nanyang", "Vagrant", "known", "1993", "Star", "Xiao", "2002", "July", "Ching", "Hui", "''", "actress", "studying", "television", "Thief", "born", "Channel", "also", "received", "Police", ",", "Lee", ".", "nomination", "MediaCorp", "Yun", "Awards", "performance", "University", "5", "series", "-RRB-", "Ang", "Apart", "acting", "Technological" ],
+  "adjectives" : [ "Singaporean" ],
+  "nouns" : [ "actress", "role", "performance", "television", "series", "Thief", "nomination" ],
+  "text" : "Ang Ching Hui (born 29 July 1993) is a Singaporean actress best known for her role as \"Lee Xiao Yun\" in the MediaCorp Channel 5 television series Police and Thief. Apart from acting, she is also studying in Nanyang Technological University.  She received a Star Awards nomination in 2002 for her performance in The Vagrant."
+}, {
+  "entityIndex" : "37_entity10741",
+  "entityUrl" : "http://dbpedia.org/resource/Apple_Hong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress, host, singer" ]
+  },
+  "words" : [ "Hóng", "actress", "Hong", "-LRB-", "Singaporean", "singer", ",", ".", "Apple", "pinyin", "permanent", "洪乙心", "Chinese", ":", ";", "Yǐxīn", "Malaysian", "resident" ],
+  "adjectives" : [ "Singaporean", "permanent", "Malaysian" ],
+  "nouns" : [ "actress", "pinyin", "singer", "resident" ],
+  "text" : "Apple Hong (Chinese: 洪乙心; pinyin: Hóng Yǐxīn, is a Malaysian actress and singer. She is a Singaporean permanent resident."
+}, {
+  "entityIndex" : "38_entity10762",
+  "entityUrl" : "http://dbpedia.org/resource/Anand_Rajaram",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, Writer & Director." ]
+  },
+  "words" : [ "New", "CanStage", "Lyfe", "Waterloo", "theatre", "Indians", "1972", "Bob", "others", "Festival", "director", "work", "&", "degree", "Odyssey", "2001", "Lorraine", "City", ",", "'s", "Anand", "done", ".", "India", "University", "5", "Theatre", "-RRB-", "presenting", "Toronto", "Delhi", "-LRB-", "works", "Canadian", "March", "Summerworks", "Tymes", "Rajaram", "Unauthoryzed", "drama", "producing", "2005", "member", "arts", "Young", "Hys", "bachelor", "recently", "born", "People", "Kimsa", "actor", "Cowboys", "Second", "well", "Wiseman", "writer" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "actor", "theatre", "drama", "director", "bachelor", "work", "CanStage", "degree", "member", "writer" ],
+  "text" : "Anand Rajaram (born March 5, 1972) is a Canadian actor, writer and director. Anand Rajaram was born in New Delhi, India, and has a bachelor's degree in drama and theatre arts from the University of Waterloo. He has done theatre work with CanStage, Lorraine Kimsa Theatre for Young People, Odyssey Theatre and others, as well as producing and presenting his own works, Hys Unauthoryzed Lyfe and Tymes (2001), and Cowboys & Indians (2005), both at the Summerworks Theatre Festival with Bob Wiseman in Toronto. He was recently a member of The Second City Toronto. Prior to this, he was a company member with CORPUS, a Toronto dance-based theatre company. Film credits include Mira Nair's My Own Country (1998) (TV) and independent films Death Threat and Fly (1999), both of which screened at the Toronto International Film Festival and on CBC's Canadian Reflections, as well as the indie horror film Silent But Deadly. Recent television credits include Across the River to Motor City, Punched Up and the reality show, The Second City's Next Comedy Legend. He was the animatronic puppeteer and voice for Snit on YTV's Snit Station. He most recently appeared on the 2010 CBC Television sitcom Men with Brooms and as a guest appearance in the Americal Legal Drama show, Suits."
+}, {
+  "entityIndex" : "39_entity10775",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Tern",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "Alan", "born", "March", "Tern", "唐育书", ",", ".", "1976", "actor", "name", "-RRB-", "Chinese", ":", ";", "family", "31" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actor", "name", "family" ],
+  "text" : "(This is a Chinese name; the family name is Tern.) Alan Tern (Chinese: 唐育书, born 31 March 1976) is a Singaporean actor."
+}, {
+  "entityIndex" : "40_entity11291",
+  "entityUrl" : "http://dbpedia.org/resource/Caryn_Richman",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "Water", "New", "TV", "commercial", "opera", "numerous", "Mr.", "spokesperson", "Black", "Brady", "appeared", "shows", "Caryn", "Eddie", "Murphy", "1980s", "actress", "wife", "made", "Angel", "Victoria", "film", ",", "'s", "April", ".", "Matlock", "Texas", "-RRB-", "9", "guest", "Brandes", "Capra", "soap", "Clown", "Altevia", "Fatman", "-LRB-", "Christmas", "York", "Jericho", "roles", "part", "Greg", "Adventures", "primarily", "Elena", "appearances", "Richman", "Jake", "1990s", "Mysteries", "Hitman", "1956", "early", "include", "L.", "Dekker", "television", "born", "Papa", "Gidget", "also", "medication", "played", "Pizza", "Walmart", "Nora", "prescription", "series", "Fire", "Vampire", "Bradys" ],
+  "adjectives" : [ "commercial", "numerous", "Black", "early" ],
+  "nouns" : [ "Water", "actress", "TV", "opera", "television", "wife", "part", "Papa", "spokesperson", "medication", "film", "prescription", "series", "guest", "soap" ],
+  "text" : "Caryn Richman (born Caryn L. Brandes April 9, 1956 in Jericho, New York) is an actress who primarily appeared in television series in the 1980s and early 1990s. Her roles include Elena Dekker on the soap opera Texas, Gidget on the television series The New Gidget, and Nora Brady (Greg Brady's wife) in A Very Brady Christmas and The Bradys. Richman has made numerous guest appearances on such TV shows as The Eddie Capra Mysteries, Matlock, Jake and the Fatman, Hitman, Angel Fire, and The Adventures of Mr. Clown. She also played the part of Victoria in the film The Black Water Vampire and is also a TV commercial spokesperson for the prescription medication Altevia, and has appeared as a spokesperson for Papa Murphy's Pizza, and Walmart. She also has been a regular on MSNBC's The Larry Elder Show. In late 2016, she is scheduled to star in a short comedy film with Eddie Deezen and Larry (The Soup Nazi) Thomas called The Love Suckers."
+}, {
+  "entityIndex" : "41_entity11292",
+  "entityUrl" : "http://dbpedia.org/resource/Chew_Chor_Meng",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "contracted", "Chor", "known", "Meng", "Chew", "Since", "working", "Zhou", "November", "Chinese-language", "television", "born", "Channel", "artiste", "1990", "also", ",", ".", "actor", "MediaCorp", "name", "-RRB-", "Chuming", "8", "Chinese", ";", "family", "1968", "20" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actor", "MediaCorp", "television", "artiste", "name", "family" ],
+  "text" : "(This is a Chinese name; the family name is Chew.) Chew Chor Meng (born 20 November 1968), also known as Zhou Chuming, is a Singaporean television actor. Since 1990, he has been working with MediaCorp on the Chinese-language Channel 8 as a contracted artiste."
+}, {
+  "entityIndex" : "42_entity11321",
+  "entityUrl" : "http://dbpedia.org/resource/Cynthia_Koh",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "contracted", "best", "Meizhen", "known", "Xu", "actress", "Chinese-language", "Cynthia", "Koh", "television", "artiste", "Channel", "also", ",", "many", ".", "produced", "MediaCorp", "dramas", "name", "-RRB-", "8", "Chinese", ";", "family", "acting" ],
+  "adjectives" : [ "Chinese-language", "Singaporean", "Chinese", "many" ],
+  "nouns" : [ "actress", "dramas", "television", "artiste", "name", "family" ],
+  "text" : "(This is a Chinese name; the family name is Koh.) Cynthia Koh,also known as Xu Meizhen, is a Singaporean actress and contracted artiste under MediaCorp. She is best known for acting in many Chinese-language television dramas produced by MediaCorp Channel 8."
+}, {
+  "entityIndex" : "43_entity11374",
+  "entityUrl" : "http://dbpedia.org/resource/Chen_Tianwen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "Ch", "Film", "Mr.", "completing", "Ilo", "Showdown", "starred", "Lion", "--", "Ultimate", "Festival", "Tian", "made", "artiste", "en2", "film", "T'ien", ",", ".", "1", "2", "Cannes", "3", "1984", "veteran", "Technical", "Men", "-RRB-", ":", ";", "Giles", "Wade", "-LRB-", "Singaporean", "Ah", "training", "Bian", "Chai", "Chen", "debut", "drama", "School", "defunct", "known", "Unbelievable", "credits", "SBC", "throughout", "Boys", "1990s", "Wen2", "Mandarin", "Frogmen", "Tianwen", "class", "`", "include", "Garden", "Secondary", "Serangoon", "joined", "5th", "many", "better", "actor", "educated", "dramas", "Chinese", "陈天文", "award-winning" ],
+  "adjectives" : [ "Secondary", "Singaporean", "defunct", "award-winning", "5th", "Mandarin", "many" ],
+  "nouns" : [ "actor", "debut", "drama", "veteran", "dramas", "Ah", "Men", "artiste", "training", "Wen2", "film", "class" ],
+  "text" : "Chai Tian Bian or better known as Chen Tianwen (Chinese: 陈天文; Wade–Giles: Ch'en2 T'ien1 Wen2) is a Singaporean veteran actor. He starred in many Mandarin dramas throughout the 1990s, and his film credits include the Cannes Film Festival award-winning Ilo Ilo, Ah Boys to Men, Ah Boys to Men 2, Ah Boys to Men 3: Frogmen, The Lion Men, The Lion Men: Ultimate Showdown and Mr. Unbelievable. Chen was educated at the now defunct Serangoon Garden Secondary Technical School. He joined the SBC after completing the 5th artiste drama training class and made his debut in 1984. He holds a black belt in taekwondo and his martial arts background led him to being cast in many wuxia dramas in the 1990s and as characters with fight scenes in other drama series. He is also a member of the Singapore Celebrity Soccer Team. The Straits Times remarked that Chen's \"much-praised understated turn\" in the Cannes Film Festival award-winning Ilo Ilo put him in the spotlight once again. Chen hit the headlines again when two parody music videos he starred in, went viral. The first, titled \"Unbelievable\", was 'lauded' for the nonsensical line 'I so stunned like vegetable' (sic), drawing the attention of TIME, while the second, \"Sandcastle in My Heart\", in which Irene Ang also starred in, did not become as popular as the previous one. Both videos are a parody of popular Chinese MVs in the 1970s, particularly the work of Singaporean singer Huang Ching Yuan."
+}, {
+  "entityIndex" : "44_entity11467",
+  "entityUrl" : "http://dbpedia.org/resource/Cui_Peng_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "Overall", "-LRB-", "Singaporean", "Singapore", "Film", "participated", "show", "Male", "emerged", "Potential", "network", "October", "later", "known", "Kelvin", "Star", "Cui", "2003", "talent", "Search", "Best", "Academy", "born", "contract", "Channel", "2000", "signed", "also", "Host", "Peng", ",", "'s", ".", "actor", "Beijing", "MediaCorp", "3", "graduating", "acted", "1982", "left", "-RRB-", "Champion", "8", "Chinese", "productions" ],
+  "adjectives" : [ "Overall", "Singaporean", "Chinese", "Potential" ],
+  "nouns" : [ "actor", "talent", "contract", "show", "Host", "Best", "network" ],
+  "text" : "Cui Peng (born 3 October 1982), also known as Kelvin Cui, is a Chinese actor. After graduating from the Beijing Film Academy in 2000, he participated in the Singaporean talent show Star Search in 2003 and emerged as the Overall Male Champion and Overall Best Potential Host. He then signed a contract with Singapore's MediaCorp Channel 8 and acted in some of MediaCorp's productions but left the network later."
+}, {
+  "entityIndex" : "45_entity11493",
+  "entityUrl" : "http://dbpedia.org/resource/Constance_Song",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress, model" ]
+  },
+  "words" : [ "actress", "-LRB-", "Singaporean", ".", "Sòng", "Song", "pinyin", "Constance", "-RRB-", "Chinese", ":", "宋怡霏", "model", ";", "Yífēi" ],
+  "adjectives" : [ "Singaporean" ],
+  "nouns" : [ "actress", "Song", "pinyin", "Chinese", "model" ],
+  "text" : "Constance Song (Chinese: 宋怡霏; pinyin: Sòng Yífēi) is a Singaporean actress and model."
+}, {
+  "entityIndex" : "46_entity13549",
+  "entityUrl" : "http://dbpedia.org/resource/Michelle_Chong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress, television host, film director, film producer" ]
+  },
+  "words" : [ "confused", "Michelle", "Chong", "-LRB-", "-RRB-", "name", "Chinese", ";", "family", "Chia", "." ],
+  "adjectives" : [ "Chinese" ],
+  "nouns" : [ "name", "family" ],
+  "text" : "(Not to be confused with Michelle Chia.)(This is a Chinese name; the family name is Chong.)"
+}, {
+  "entityIndex" : "47_entity13569",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Meade",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Film actor" ]
+  },
+  "words" : [ "de", "New", "1940s", "career", "nation", "Meade", "United", "States", "December", "stints", "Back", "Girl", "Wonder", "selected", "10", "best-dressed", "actress", "15", "Academy", "Goldwyn", "Pigalle", "film", ",", "European", "'s", "-", ".", "-RRB-", "London", "1949", "Man", "fame", "1945", "Gay", "Hotel", "women", "24", "-LRB-", "role", "American", "production", "York", "1953", "1951", "2003", "Waldorf-Astoria", "embarked", "Grouya", "included", "Mary", "November", "lavish", "one", "Fashion", "performed", "Ted", "Casino", "Born", "Club", "Louisiana", "rose", "latter", "venues", "married", "1923", "first", "Paris" ],
+  "adjectives" : [ "best-dressed", "American", "lavish", "latter", "European", "first", "Wonder" ],
+  "nouns" : [ "actress", "career", "role", "production", "nation", "film", "Man", "fame" ],
+  "text" : "Mary Meade (November 24, 1923 - December 10, 2003) was an American film actress who rose to fame in the latter 1940s. Born in Louisiana, her first role was in Wonder Man (1945), as a Goldwyn Girl. In 1949, she married Ted Grouya in Paris and embarked on a European career that included stints in the lavish production Gay Paris at the Casino de Paris (1951), and at the Pigalle Club in London. Back in the United States she performed in venues such as the Waldorf-Astoria Hotel and in 1953 was selected as one of the nation's 15 best-dressed women by the New York Fashion Academy. One of her last public performances was for Germaine Monteil's cosmetics. Meade was also married to director Dick Bremerkamp."
+}, {
+  "entityIndex" : "48_entity13859",
+  "entityUrl" : "http://dbpedia.org/resource/Meilin_Gray",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Singer, Composer, Actress, Choreographer, Lyricist, Dancer, Entrepreneur" ]
+  },
+  "words" : [ "foreigners", "competition", "Central", "Arts", "appeared", "Guang", "Search", "talent", "won", "worldwide", "international", "Da", "sister", "Guo", "based", "Gray", "Xing", "younger", "Alyssa", "'", "Cai", ",", "'s", ".", "Land", "duet", "Beijing", "Yi", "traditional", "success", "hulusi", "-RRB-", "monthly", "Sai", "Wai", "-LRB-", "singer", "BTV", "Suelin", "weekly", "pop", "2006", "Hua", "Star", "China", "national", "place", "songwriter", "then-premier", "`", "American-Chinese", "art", "winning", "Meilin", "television", "performing", "Following", "competitions", "foremost", "entered", "flute", "Dao", "Television", "culture", "Chinese", "showcase", "Ren", "talents", "first", "Zhong" ],
+  "adjectives" : [ "American-Chinese", "traditional", "monthly", "Chinese", "national", "worldwide", "foremost", "international", "first", "then-premier", "weekly" ],
+  "nouns" : [ "art", "singer", "television", "competition", "Suelin", "duet", "Land", "pop", "flute", "Dao", "culture", "success", "talent", "showcase", "Sai", "place", "songwriter", "Da", "sister" ],
+  "text" : "Alyssa Meilin Gray is an American-Chinese pop singer and songwriter, based in Beijing, China. Meilin first appeared on Chinese national and worldwide television in 2006 with her younger sister, Suelin, winning first place on Beijing Television’s ‘Arts of Our Land’ competition, performing a traditional Chinese ‘hulusi’ flute duet. BTV’s Arts of Our Land competition (Wai Guo Ren Zhong Hua Cai Yi Da Sai), was China’s then-premier international competition for foreigners to showcase their talents in traditional Chinese art and culture. Following success on BTV’s ‘Arts of Our Land’, Meilin entered China Central Television’s ‘Xing Guang Da Dao’ Star Search competition, China’s foremost national talent competition, where she won first place in both the weekly and monthly competitions. In 2007, Meilin (梅琳) and Hong Kong singer and actor, Nicholas Tse, recorded the theme song and music video for Walt Disney’s Mandarin language release of the film ‘Beauty and the Beast’, which gave Meilin her first commercial success, with the song reaching No.2 on Pepsi’s Chinese Billboard Pop Charts."
+}, {
+  "entityIndex" : "49_entity13935",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Osborne_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "-LRB-", "Hill", "England", "Mr.", "Grange", "Edward", "Seventh", "Howard", "King", "George", "V", "Michael", "Osborne", "November", "include", "13", "British", "television", "born", "Roles", ",", ".", "actor", "future", "London", "-RRB-", "1947" ],
+  "adjectives" : [ "British", "future" ],
+  "nouns" : [ "actor", "television" ],
+  "text" : "Michael Osborne (born 13 November 1947 in London, England) is a British television actor. Roles include the future King George V in Edward the Seventh and Mr. Howard in Grange Hill."
+}, {
+  "entityIndex" : "50_entity14015",
+  "entityUrl" : "http://dbpedia.org/resource/Melrose_Hu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "``", "Ameera", "named", "-LRB-", "Melrose", "movie", "2011", "Sexiest", "Warriors", "Mengyuan", "previously", "known", "starred", "along", "China", "specializing", "Female", "debuted", "killer", "Jingxuan", "female", "arts", "''", "11", "actress", "Tang", "Shu", "Angel", "Agents", "premier", "Bingbing", ",", "Jane", "Hu", ".", "April", "Fan", "martial", "Top", "2014", "2013", "-RRB-", "Qi", "Chinese", "Wei", "Limit", "Ten", "Wu" ],
+  "adjectives" : [ "martial", "Top", "Chinese", "Female", "female" ],
+  "nouns" : [ "actress", "Fan", "movie", "Bingbing", "killer", "Limit" ],
+  "text" : "Jane Wu (Wu Jingxuan), previously known as Melrose Hu (Hu Mengyuan), is a Chinese actress specializing in martial arts. She debuted as a female killer in the movie No Limit in 2011, and she starred in Angel Warriors in 2013. In 2013, she was named \"Top Ten Sexiest Female Agents\" along with Fan Bingbing, Tang Wei, and Shu Qi. The movie Ameera, in which she starred, will premier in China on 11 April 2014."
+}, {
+  "entityIndex" : "51_entity12555",
+  "entityUrl" : "http://dbpedia.org/resource/Joni-Ruth_White",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "actress" ]
+  },
+  "words" : [ "actress", "Joni-Ruth", "Polyester", "directed", "Divine", "John", "film", ",", "'s", "played", ".", "mother", "LaRue", "White", "appeared", "1981", "harridan", "Waters" ],
+  "adjectives" : [ ],
+  "nouns" : [ "actress", "mother", "LaRue", "Polyester", "harridan", "film" ],
+  "text" : "Joni-Ruth White is an actress who appeared in the 1981 film Polyester, directed by John Waters. She played Divine's harridan mother, LaRue."
+}, {
+  "entityIndex" : "52_entity12828",
+  "entityUrl" : "http://dbpedia.org/resource/James_Lye",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "Pictures", "June", "career", "-LRB-", "Singaporean", "Singapore", "movie", "entertainment", "Xìngxiáng", "industry", "Cheung", "shows", "Lài", "starred", "Lye", "1990s", "working", "赖兴祥", "Raintree", "brief", "Head", "James", "17", "television", "born", "Cluster", "entered", ",", "former", ".", "actor", "MediaCorp", "Corporation", "English", "pinyin", "Citibank", "Television", "currently", "Lai", "left", "-RRB-", "Hing", "Chinese", ":", ";", "1969", "first", "acting" ],
+  "adjectives" : [ "brief", "English", "Singaporean", "Chinese", "former" ],
+  "nouns" : [ "actor", "career", "pinyin", "movie", "entertainment", "television", "industry" ],
+  "text" : "James Lye (Chinese: 赖兴祥; pinyin: Lài Xìngxiáng, born 17 June 1969), born Lai Hing Cheung, is a former MediaCorp Singaporean television and Raintree Pictures movie actor. Lye first entered the entertainment industry during the 1990s with the former Television Corporation of Singapore and has starred in both English and Chinese shows. He left the industry after a brief acting career and is currently working as a Cluster Head with Citibank in Singapore."
+}, {
+  "entityIndex" : "53_entity12852",
+  "entityUrl" : "http://dbpedia.org/resource/John_Salew",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Film actor" ]
+  },
+  "words" : [ "``", "play", "TV", "Allmovie", "Night", "John", "screen", "supernatural", "would", "shortage", "melodrama", "1939", "usually", "--", "films", "circumstances", "Uncle", "14", "fantasy", "made", "Demon", "WWII", "often", "Silas", "film", ",", "William", ".", "important", "London", "-RRB-", "Portsmouth", "Flies", "1947", "1902", "Germanic", "1944", "larger", "balding", "-LRB-", "September", "stout", "roles", "origin", "according", "Time", "thriller", "enabled", "Salew", "lot", "characters", "Hampshire", "manpower", "included", "1957", "''", "British", "suspicious-looking", "Shakespeare", "librarian", "Grimstone", "Gothic", "played", "transition", "actor", "1961", "stage", "comic" ],
+  "adjectives" : [ "important", "British", "suspicious-looking", "supernatural", "comic", "Gothic", "Germanic" ],
+  "nouns" : [ "TV", "fantasy", "Night", "Demon", "stout", "origin", "screen", "librarian", "Time", "film", "thriller", "transition", "actor", "lot", "stage", "shortage", "melodrama", "manpower" ],
+  "text" : "John Salew (1902 in Portsmouth, Hampshire – 14 September 1961 in London) was a British stage film and TV actor. Salew made the transition from stage to films in 1939, and according to Allmovie, \"the manpower shortage during WWII enabled the stout, balding Salew to play larger and more important roles than would have been his lot in other circumstances. He usually played suspicious-looking characters, often Germanic in origin.\" His screen roles included William Shakespeare in the comic fantasy Time Flies (1944), Grimstone in the Gothic melodrama Uncle Silas (1947), and the librarian in the supernatural thriller Night of the Demon (1957). John Salew was active into the TV era, playing the sort of character parts that John McGiver played in the U.S."
+}, {
+  "entityIndex" : "54_entity12853",
+  "entityUrl" : "http://dbpedia.org/resource/Joyzelle_Joyner",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Film actress" ]
+  },
+  "words" : [ "-LRB-", "American", "27", "Cross", "least", "appeared", "30", "1935", "November", "--", "actress", "films", "garnering", "notoriety", ",", "Joyzelle", ".", "August", "dancer", "appearance", "1980", "-RRB-", "1905", "Sign", "Joyner", "1925", "thirty" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "dancer", "actress", "appearance", "Cross", "notoriety", "Sign" ],
+  "text" : "Joyzelle Joyner (August 27, 1905 – November 30, 1980) was an American actress and dancer. She appeared in at least thirty films between 1925 and 1935, garnering some notoriety for her appearance in The Sign of the Cross."
+}, {
+  "entityIndex" : "55_entity12971",
+  "entityUrl" : "http://dbpedia.org/resource/Jozef_Waite",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, model, presenter" ]
+  },
+  "words" : [ "``", "西蒙子", "TV", "year", "Previously", "Waite", "premiered", "channel", "several", "England", "Xi", "December", "一年級", "presented", "Berkshire", "model", "brand", "presenter", "nationally", "old", "modeled", "Grade", ",", ".", "1", "5", "-RRB-", "since", "broadcast", "玩名堂", "-LRB-", "Playing", "One", "show", "2012", "Satellite", "best", "System", "Zi", "Jozef", "Aniworld", "2007", "known", "feature", "Meng", "Broadcasting", "湖南广播电视台", "regular", "''", "British", "Hunan", "stores", "born", "also", "Changsha", "Tricks", "actor", "Reading", "2014", "Chinese", "resided" ],
+  "adjectives" : [ "British", "old", "several", "Chinese", "regular" ],
+  "nouns" : [ "actor", "broadcast", "Xi", "TV", "presenter", "feature", "year", "show", "channel", "model", "brand" ],
+  "text" : "Jozef Waite (born 5 December 2007), is a British Chinese actor, model and presenter. He is best known as \"Xi Meng Zi\" (西蒙子) from the TV show \"Grade One\" (一年級) which premiered on the Hunan Broadcasting System (湖南广播电视台) in 2014. Previously in 2012 he presented a regular feature on the Hunan Broadcasting System show Playing Tricks (玩名堂), broadcast nationally on the Aniworld Satellite TV channel Jozef has also modeled for several Chinese brand stores. Jozef was born in Reading, Berkshire, England but has resided in Changsha, Hunan since he was 1 year old. On Jozef's 7th birthday, the producers of Dragon Blade released stills and a press release officially confirming Jozef's \"significant\" role as a Roman Prince in the upcoming movie."
+}, {
+  "entityIndex" : "56_entity12977",
+  "entityUrl" : "http://dbpedia.org/resource/Jeffrey_Xu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor" ]
+  },
+  "words" : [ "Tan", "Shane", "Desmond", "-LRB-", "October", "Xu", "Jeffrey", "based", "Bin", "&", "born", "artiste", "one", "Zhang", ",", "Romeo", ".", "Singapore.He", "Pang", "actor", "MediaCorp", "3", "Fang", "Ian", "-RRB-", "8", "Chinese", "Pow", "Zhenhuan", "Dukes", "1988", "Aloysius" ],
+  "adjectives" : [ "Chinese" ],
+  "nouns" : [ "actor", "MediaCorp", "artiste" ],
+  "text" : "Jeffrey Xu (born October 3, 1988), is a Chinese actor and MediaCorp artiste based in Singapore.He is one of the 8 Dukes with Zhang Zhenhuan, Aloysius Pang, Shane Pow, Desmond Tan, Xu Bin, Ian Fang & Romeo Tan."
+}, {
+  "entityIndex" : "57_entity15641",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Wenqing",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor", "Martial artist", "Coach" ]
+  },
+  "words" : [ "standard", "explosive", "practice", "Yuan", "numerous", "Previously", "considered", "technique", "Wenqing", "Asian", "speed", "seen", "example", "eighties", "fluidity", "modern", "known", "won", "today", "national", "power", "international", "arts", "explosiveness", "early", "successful", "wushu", "set", "including", "level", "founded", "competitions", "1990", "yet", "'s", ",", "many", ".", "traditional", "martial", "techniques", "Games", "integration", "Chinese", "matched", "bridge", "first", "nineties" ],
+  "adjectives" : [ "standard", "explosive", "numerous", "many", "Asian", "traditional", "modern", "martial", "national", "Chinese", "international", "first", "early", "successful" ],
+  "nouns" : [ "wushu", "practice", "fluidity", "level", "today", "integration", "technique", "power", "bridge", "explosiveness", "speed", "example" ],
+  "text" : "Yuan Wenqing founded modern wushu by example. He set wushu's standard practice in the first Asian Games. Previously known for his explosive speed and power, he won numerous national and international competitions in the eighties and early nineties, including the first Asian Games in 1990. He is considered by many as a bridge between traditional Chinese martial arts and modern wushu for his successful integration of traditional and modern techniques at a level of fluidity, technique, and explosiveness that had not been seen before, and which has yet to have been matched today. He is a former Shanxi wushu team athlete trained by the coaches Pang Lin Tai and Zhang Ling Mei. He became the standard that other athletes were judged by in the nineties: his personal long fist and staff forms were famously made into the compulsory wushu guiding forms which other athletes had to perform and compete in."
+}, {
+  "entityIndex" : "58_entity15662",
+  "entityUrl" : "http://dbpedia.org/resource/Yan_Bingliang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actor, host, producer" ]
+  },
+  "words" : [ "Bingliang", "Giam", "generation", "Channel", "history", ",", "'s", ".", "/", "produced", "1984", "veteran", "Ping", "name", "-RRB-", "8", ";", "acting", "antagonists", "-LRB-", "Singaporean", "role", "longest", "villains", "entertainment", "Yan", "portraying", "best", "industry", "training", "finishing", "running", "drama", "known", "SBC", "course", "Chinese-language", "television", "5th", "entered", "many", "better", "actor", "Leong", "MediaCorp", "series", "Neighbours", "SBC/TCS/MediaCorp", "Chinese", "family" ],
+  "adjectives" : [ "Chinese-language", "Singaporean", "Chinese", "5th", "many" ],
+  "nouns" : [ "generation", "role", "entertainment", "television", "industry", "training", "history", "actor", "drama", "veteran", "series", "name", "SBC/TCS/MediaCorp", "course", "family" ],
+  "text" : "(This is a Chinese name; the family name is Yan / Giam.) Giam Ping Leong, better known as Yan Bingliang, is a Singaporean actor best known for acting in many Chinese-language television series produced by MediaCorp Channel 8. A veteran actor, he entered the entertainment industry in 1984 after finishing SBC's 5th drama training course. He is known by his own generation for his role in Neighbours, the longest running drama in SBC/TCS/MediaCorp history, and for portraying antagonists or villains. He left MediaCorp at the end of 2010 . Now working as a free lance artist, films director/producer, script writer, Acting course trainer."
+}, {
+  "entityIndex" : "59_entity15663",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Libing",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:occupation" : [ "Actress" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "entertainment", "Yang", "industry", "training", "drama", "hit", "award", "late", "starred", "SBC", "Star", "won", "long-running", "course", "older", "Best", "sister", "1980s", "1999", "actress", "Supporting", "also", "entered", ",", "'s", "former", ".", "Wok", "Awards", "Lina", "-RRB-", "Life", "Chinese", "Actress", ":", "Libing", "杨莉冰", "first" ],
+  "adjectives" : [ "Singaporean", "late", "long-running", "former" ],
+  "nouns" : [ "actress", "drama", "hit", "Wok", "award", "entertainment", "course", "Actress", "industry", "training", "sister" ],
+  "text" : "Yang Libing (Chinese: 杨莉冰) is a former Singaporean actress. Her older sister is the late Yang Lina, who was also an actress. Yang first entered the entertainment industry during the 1980s after SBC's drama training course. She starred in the long-running hit drama Wok of Life and won the Best Supporting Actress award at the Star Awards 1999. After leaving MediaCorp she went into business and operated a hair salon with her sister. Yang married fellow actor Li Nanxing in 1994 after co-starring with him in several drama series. They divorced in 2004 citing irreconcilable personality differences. Both have yet to remarry and they have no children from the marriage. More recently she has appeared in several of MediaCorp's anniversary events and was one of many former artistes present at the Star Awards 2012."
+} ]

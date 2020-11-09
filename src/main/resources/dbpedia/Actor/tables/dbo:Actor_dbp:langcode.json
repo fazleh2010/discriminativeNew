@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity14289",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Harryson",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:langcode" : [ "sv" ]
+  },
+  "words" : [ "game", "-LRB-", "opera", "singer", "hosting", "John", "show", "ska", "Harryson", "County", "antagonist", "Swedish", "Norrköping", "2008", "Sweden", "det", "låta", "son", "1994", "known", "--", "Östergötland", "Rederiet", "born", "2001", "also", ",", "played", "April", ".", "actor", "Silver", "2", "Så", "Kaj", "entertainer", "-RRB-", "Pehr", "Peter", "1948", "1926", "soap" ],
+  "adjectives" : [ "Swedish" ],
+  "nouns" : [ "game", "opera", "singer", "show", "ska", "antagonist", "actor", "Så", "det", "låta", "son", "entertainer", "soap" ],
+  "text" : "John Peter Kaj Harryson (born 2 April 1948 in Norrköping, Östergötland County, Sweden) is a Swedish actor, singer and entertainer. He is the son of actor John Harryson (1926–2008). From 1994 until 2001, Harryson played antagonist Pehr Silver in the soap opera Rederiet. He is also known from hosting the game show Så ska det låta. In the 1980s, he worked extensively, dubbing cartoons into Swedish. Two of his most famous roles are that of pilot Roy Focker in the Swedish dub of the classic anime film Macross: Do You Remember Love? and Shaggy Rogers in the Scooby-Doo-series."
+}, {
+  "entityIndex" : "2_entity14029",
+  "entityUrl" : "http://dbpedia.org/resource/Mira_Eklund",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:langcode" : [ "SV" ]
+  },
+  "words" : [ "actress", "include", "kärlek", "13", "-LRB-", "Brandvägg", "&", "television", "born", "Sex", ",", ".", "Mira", "Swedish", "Eklund", "October", "credits", "1981", "series", "Hotell", "hopp", "Spung", "-RRB-" ],
+  "adjectives" : [ "Swedish" ],
+  "nouns" : [ "actress", "kärlek", "television", "series", "Sex", "hopp" ],
+  "text" : "Mira Eklund (born 13 October 1981) is a Swedish actress. Her credits include Hotell, Sex hopp & kärlek and the television series Spung and Brandvägg."
+} ]

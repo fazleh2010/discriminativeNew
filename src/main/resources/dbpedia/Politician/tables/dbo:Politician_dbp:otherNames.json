@@ -1,0 +1,133 @@
+[ {
+  "entityIndex" : "1_entity11141",
+  "entityUrl" : "http://dbpedia.org/resource/Karun_Hosakul",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Keng" ]
+  },
+  "words" : [ "Hosakul", "12th", "-LRB-", "Yasothon", "prominent", "การุณ", "December", "Karoon", "Mueang", "Thai", "Member", "born", "politician", "โหสกุล", ",", "Province", ".", "Bangkok", "4", "served", "district", "-RRB-", ":", ";", "1967", "Parliament" ],
+  "adjectives" : [ "12th", "prominent" ],
+  "nouns" : [ "politician", "district" ],
+  "text" : "Karoon Hosakul (Thai: การุณ โหสกุล; born December 4, 1967 in Yasothon Province) is a Thai politician. He was a prominent politician in Don Mueang, Bangkok. He served as Member of Parliament for the Bangkok 12th district.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity13732",
+  "entityUrl" : "http://dbpedia.org/resource/Nattawut_Saikua",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Ten" ]
+  },
+  "words" : [ "الموسوعة", "ساعد", "04", "25بك", "هذه", "النص", "ترابط", "تايلاندي", "1975", "يونيو", "المتحدة", "للمساعدة", "بإضافة", "من", "ديسمبر", "للمزيد", "في", "عن", "الأخرى", ".", "تحتاج", "المقالات", "Nattawut", "حزب", "Saikua", "-RRB-", "ضد", ":", "تاي", "الوصلات", "مواليد", "القمصان", "-LRB-", "فضلًا", "مجلس", "سياسي", "و", "والمتحدث", "تحسين", "الحالي", "عضو", "المتعلقة", "باسم", "مقالات", "للديمقراطية", "بويا", "وايضا", "امين", "هو", "بالإنجليزية", "الجبهة", "سايكوا", "المقالة", "عام", "للمقالات", "التايلاندي", "وصلات", "الموجودة", "الدكتاتورية", "ناتاووت", "2014", "قائمة", "إلى", "النواب", "بها", "الحمر" ],
+  "adjectives" : [ ],
+  "nouns" : [ "الموسوعة", "من", "هو", "التايلاندي", "الدكتاتورية", "فضلًا", "و", "في", "سايكوا", "عن", "الحالي" ],
+  "text" : "25بك هذه المقالة تحتاج للمزيد من الوصلات للمقالات الأخرى للمساعدة في ترابط مقالات الموسوعة. فضلًا ساعد في تحسين هذه المقالة بإضافة وصلات إلى المقالات المتعلقة بها الموجودة في النص الحالي. (ديسمبر 2014) ناتاووت سايكوا (بالإنجليزية: Nattawut Saikua) مواليد 04 يونيو 1975. هو سياسي تايلاندي و امين عام والمتحدث باسم الجبهة المتحدة للديمقراطية ضد الدكتاتورية (القمصان الحمر) وايضا عضو مجلس النواب عن قائمة حزب بويا تاي التايلاندي . ومنذ يناير 2012 شغل منصب نائب وزير في مجلس الوزراء.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity13795",
+  "entityUrl" : "http://dbpedia.org/resource/Nadejda_Grinfeld",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Nadia  Kenigshats Grinfeld" ]
+  },
+  "words" : [ "``", "Цэрий", "поверенного", "Григорьевна", "Недельная", "сотрудницей", "Самойловича", "Вильгельмовны", "врачебных", "Кенигшац", "урождённая", "Бельцы", "В", "политик", "другой", "Восхода", "бабушка", "членом", "двух", "1939", "--", "Мария", "Семёновича", "Кенигшаца", "позже", "Бунда", ",", "бессарабский", ".", "советником", "присяжного", "Евгеньевна", "в", "печаталась", "одна", "1861", "Ольги", "стала", "-RRB-", "и", ";", "1903", "Надежда", "Исаакович", "-LRB-", "женщин-депутатов", "дед", "году", "Кишинёве", "Самуил", "хроника", "``''", "династий", "литератором", "Рассвете", "был", "коллежским", "Коган", "1918", "1917", "Её", "Бернштейн", "Кишинёв", "''", "газеты", "РСДРП", "Викентьевич", "Вильгельм", "Гринфельд", "Сфатул", "кишинёвского", "1887", "Васильевны", "потомственных", "врачом", "Родилась", "1883", "Бельц", "1882", "городским", "была", "семье", "также", "Евгения", "отделения", "из" ],
+  "adjectives" : [ "была", "членом", "урождённая" ],
+  "nouns" : [ "поверенного", "Недельная", "сотрудницей", "Самойловича", "Вильгельмовны", "врачебных", "Кенигшац", "политик", "другой", "бабушка", "членом", "двух", "Семёновича", "Кенигшаца", "позже", "Бунда", "бессарабский", "советником", "присяжного", "в", "печаталась", "одна", "Ольги", "стала", "и", "женщин-депутатов", "дед", "году", "Кишинёве", "хроника", "династий", "литератором", "был", "коллежским", "Коган", "Её", "Бернштейн", "Кишинёв", "газеты", "РСДРП", "кишинёвского", "Васильевны", "потомственных", "врачом", "Родилась", "Бельц", "городским", "семье", "также", "Евгения", "отделения", "из" ],
+  "text" : "Надежда Евгеньевна Гринфельд (урождённая Кенигшац; 1887, Кишинёв — 1918) — бессарабский политик, одна из двух женщин-депутатов «Сфатул Цэрий» (1917—1918). Родилась в семье присяжного поверенного Евгения Семёновича (Самойловича) Кенигшаца (1861, Бельцы — 1939, Кишинёв) и Ольги Вильгельмовны (Васильевны) Бернштейн (из потомственных врачебных династий; дед — Самуил Исаакович Кенигшац — был городским врачом Бельц; другой дед — Вильгельм Викентьевич Бернштейн — был врачом в Кишинёве и коллежским советником). Её бабушка — Мария Григорьевна Кенигшац (урождённая Коган) — была литератором и сотрудницей газеты «Недельная хроника „Восхода“» (1882—1883); печаталась также в «Рассвете». В 1903 году стала членом кишинёвского отделения Бунда, позже — членом РСДРП. Была активна в меньшевистских организациях в Одессе, Киеве и Санкт-Петербурге (впоследствии в Петрограде и Кронштадте). Как член «Сфатул Цэрий» занимала политическую позицию, противоположную Елене Алистар (второй женщине-депутату этого органа). Ратовала за независимость Бессарабии от Румынского королевства в переходный период с последующим присоединением к России. 2 декабря 1917 года «Сфатул Цэрий» провозгласил создание Молдавской Народной Республики. После аннексии Бессарабии Румынией, в январе 1918 года при попытке перехода через Днестр Надежда Гринфельд была расстреляна румынскими жандармами (тогда же были расстреляны 6 других членов «Сфатул Цэрий» — Василий Рудьев, Фёдор Котарос, Дмитрий Прахницкий, Иван Панцырь, Пётр Чумаченко и Николай Ковсан). Надежда Гринфельд (как и её отец) является одним из основных персонажей пьесы и романа Семёна Резника «Кровавая карусель» (под именем Фрида Кенигшац, курсистка, 25 лет).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity9717",
+  "entityUrl" : "http://dbpedia.org/resource/Jatuporn_Prompan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Tu" ]
+  },
+  "words" : [ "``", "Oktober", "Politiker", "-LSB-", "Provinz", "Front", "จตุพร", "RTGS", "United", "ist", "der", "Landkreis", "UDD", "Thani", "Dictatorship", "Thai", "Tu", "Anführer", "im", "Pheu-Thai-Partei", "*", "Surat", ",", ".", "ตู่", "ihr", "5", "einer", "-RRB-", "Democracy", ":", "Vorsitzender", "pʰrompʰan", ";", "San", "-LRB-", "Aussprache", "seit", "ein", "Aktivist", "Er", "Na", "führendes", "Prompan", "Rufname", "Phromphan", "Süd-Thailand", "Chatuphon", "thailändischer", "ʨàtùpʰɔːn", "tùː", "und", "Ban", "พรหมพันธุ์", "Rothemden", "1965", "Mitglied", "2014", "Jatuporn", "-RSB-" ],
+  "adjectives" : [ "ʨàtùpʰɔːn", "seit" ],
+  "nouns" : [ "ihr", "thailändischer", "im", "Front", "einer", "tùː", "Vorsitzender", "und", "pʰrompʰan", "ist", "ein" ],
+  "text" : "Jatuporn Prompan (Thai: จตุพร พรหมพันธุ์, RTGS: Chatuphon Phromphan, Aussprache: [ʨàtùpʰɔːn pʰrompʰan], Rufname Tu, ตู่, Aussprache: [tùː]; * 5. Oktober 1965 im Landkreis Ban Na San der Provinz Surat Thani, Süd-Thailand) ist ein thailändischer Politiker und Aktivist. Er ist einer der Anführer der United Front for Democracy Against Dictatorship (UDD, „Rothemden“), seit 2014 ihr Vorsitzender, und ein führendes Mitglied der Pheu-Thai-Partei.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity19314",
+  "entityUrl" : "http://dbpedia.org/resource/William_Dyer_(settler)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "William Dyre" ]
+  },
+  "words" : [ "disarmed", "Aquidneck", "Dyer", "Antinomian", "Dyre", "England", "John", "husband", "Wheelwright", "Sailing", "members", "Boston", "--", "Providence", "like", "Plantations", "wife", "settled", "signed", "William", ",", "'s", "Island", "Rhode", ".", "activism", "Hutchinson", "-RRB-", "Colony", "General", "Portsmouth", "Attorney", "support", "Newport", "became", "-LRB-", "young", "church", "best", "executed", "Narragansett", "Quaker", "ministers", "founding", "1677", "known", "Massachusetts", "settler", "man", "Anne", "Controversy", "dissident", "Compact", "early", "Mary", "supporters", "martyr", "disenfranchised", "also", "many", "supporter", "petition", "1609", "Bay", "first" ],
+  "adjectives" : [ "young", "many", "dissident", "early", "first" ],
+  "nouns" : [ "martyr", "wife", "church", "petition", "Dyre", "settler", "husband", "man", "supporter", "support", "founding", "activism" ],
+  "text" : "William Dyer (also Dyre) (1609–by 1677) was an early settler of the Colony of Rhode Island and Providence Plantations, a founding settler of both Portsmouth and Newport, and Rhode Island's first Attorney General. He is best known for being the husband of the Quaker martyr, Mary Dyer, who was executed for her Quaker activism. Sailing from England as a young man with his wife, Dyer first settled in Boston in the Massachusetts Bay Colony, but like many members of the Boston church became a supporter of the dissident ministers John Wheelwright and Anne Hutchinson during the Antinomian Controversy, and signed a petition in support of Wheelwright. For doing this, he was disenfranchised and disarmed, and with many other supporters of Hutchinson, he signed the Portsmouth Compact, and settled on Aquidneck Island in the Narragansett Bay. Within a year of arriving there, he and others followed William Coddington to the south end of the island where they established the town of Newport. Once in Newport, Dyer was very active in civil affairs, holding a number of offices, particularly those using his clerical skills such as clerk and secretary. The political alignment of the island towns of Portsmouth and Newport was in flux for the first decade of government there, and Coddington had gone to England to obtain a commission to keep the island independent with him as governor. By 1651 Dyer and others had greatly tired of Coddington's rule, and he was one of three men who went to England to have Coddington's commission revoked. Being successful, Dyer returned with the news in 1653, but his wife, Mary, who had been there at the same time, remained in England. Mary returned from England in 1657 after being there for five years, and had become a zealous Quaker convert. Banned from Massachusetts, she nevertheless defied the authorities and returned in 1659, being sentenced to hang, but getting a stay of execution while on the gallows. Her last trip to Boston in 1660 resulted in her execution and martyrdom. Following Mary's death, Dyer remarried, and continued his public service, while having some legal entanglements with William Coddington. He was dead by late 1677, though no record for his death has been found.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity3241",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_C._Swartz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "C. C. Swartz" ]
+  },
+  "words" : [ "Charles", "-LRB-", "26", "mayor", "Democratic", "Swartz", "one", ",", "Comptroller", "-", ".", "December", "1875", "Norwalk", "State", "Connecticut", "Christian", "-RRB-", "1939", "term", "July", "1947", "1935", "1933" ],
+  "adjectives" : [ "Democratic" ],
+  "nouns" : [ "mayor", "term" ],
+  "text" : "Charles Christian Swartz (December 1875 - July 26, 1947) was a Democratic Connecticut State Comptroller from 1935 to 1939. He was a one term mayor of Norwalk, Connecticut from 1933 to 1935.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity7797",
+  "entityUrl" : "http://dbpedia.org/resource/Ihor_Kolomoyskyi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Igor Kolomoisky" ]
+  },
+  "words" : [ "Jahr", "Igor", "Walerjewitsch", "Dnipropetrowsk", "hinter", "Mensch", "Ігор", "ist", "dem", "der", "Wiktor", "Walerijowytsch", "Oligarch", "gelistet", "zweit", "bzw", "ukrainisch", "Kolomoiski", "Ukrainische", "13", "Ukraine", "als", "*", ",", "-", ".", "/", "russisch", "wird", "Валерійович", "-RRB-", ";", "Ihor", "Achmetow", "-LRB-", "ukrainischer", "seit", "Коломойский", "ein", "Pintschuk", "Multimilliardär", "2006", "Kolomojskyj", "Rinat", "Игорь", "drittreichste", "und", "1963", "SSR", "Коломойський", "Валерьевич", "Februar" ],
+  "adjectives" : [ "ukrainisch", "Februar" ],
+  "nouns" : [ "russisch", "ukrainischer", "hinter", "seit", "drittreichste", "ist", "ein", "gelistet", "bzw" ],
+  "text" : "Ihor Walerijowytsch Kolomojskyj (ukrainisch Ігор Валерійович Коломойський; russisch Игорь Валерьевич Коломойский/Igor Walerjewitsch Kolomoiski; * 13. Februar 1963 in Dnipropetrowsk, Ukrainische SSR) ist ein ukrainischer Multimilliardär und Oligarch. Kolomojskyj wird seit dem Jahr 2006 als der zweit- bzw. drittreichste Mensch der Ukraine gelistet (hinter Rinat Achmetow und Wiktor Pintschuk). 2011 belegte er mit einem geschätzten Vermögen zwischen 3 und 6,5 Mrd. US-Dollar unter den reichsten Menschen der Welt den 377. Platz. Kolomojskyj besitzt drei Staatsbürgerschaften: ukrainisch, israelisch und zypriotisch. Von 2000 bis 2014 lebte er vorwiegend in der Schweiz. Er war vom 2. März 2014 bis zum 25. März 2015 Gouverneur der Oblast Dnipropetrowsk.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity16326",
+  "entityUrl" : "http://dbpedia.org/resource/Sultan_Salahuddin_Owaisi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Salar-e-Millat" ]
+  },
+  "words" : [ "till", "stepping", "Owaisi", "second", "1976", "1931", "presidency", "son", "terms", "Pradesh", "Muslimeen", "death.In", "Member", "Assembly", "--", "took", "14", "Andhra", "Wahed", ",", "'s", "Hyderabad", ".", "India", "served", "-RRB-", "Parliament", "-LRB-", "September", "death", "Salahuddin", "city", "29", "father", "elder", "favour", "Asaduddin", "Majlis", "2008", "Majlis-e-Ittehadul", "2004", "Chandrayangutta", "member", "Abdul", "February", "six", "Akbaruddin", "politician", "consecutive", "Sultan", "constituency", "Legislative", "president" ],
+  "adjectives" : [ "Legislative", "death.In", "consecutive", "second" ],
+  "nouns" : [ "presidency", "son", "constituency", "death", "city", "politician", "father", "member", "favour", "Assembly", "president" ],
+  "text" : "Sultan Salahuddin Owaisi (14 February 1931 – 29 September 2008) was a politician from the city of Hyderabad. He served as the Member of Parliament from Hyderabad for six consecutive terms until stepping down in 2004 in favour of his elder son Asaduddin Owaisi. Akbaruddin Owaisi the second son of Sultan Salahuddin Owaisi is a member of the Andhra Pradesh Legislative Assembly from the Chandrayangutta Assembly constituency. His father, Abdul Wahed Owaisi was the president of the All India Majlis-e-Ittehadul Muslimeen till his death.In 1976, Salahuddin Owaisi took over the presidency of the Majlis after his father's death. Salahuddin Owaisi, also known as \"Salar-e-Millat\", repeatedly alleged in his speeches that the Indian state had \"abandoned\" the Muslims to their fate. Therefore, \"Muslims should stand on their own feet, rather than look to the State for help'’, he argued.Owaisi was considered to be the strongest person in Hyderabad politics as his power extended till the borders of Andhra Pradesh. Muslims in the State rallied behind him and he was considered to be the man who could tilt the Muslim vote bank in Andhra Pradesh to whichever Party he felt like supporting. He was considered to be the most prominent Muslim Leader in Hyderabad.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity6296",
+  "entityUrl" : "http://dbpedia.org/resource/Gopalrao_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Appa" ]
+  },
+  "words" : [ "Latur", "Gopalrao", "Rajarshi", "Shikshan", "Sabha", "Party", "Bharatiya", "member", "Shahu", "Maharashtra", "Shivchhatrapati", "Janata", "politician", ",", ".", "former", "pediatrician", "Rajya", "Patil", "Sanstha", "belongs", "College", "Indian", "runs", "president" ],
+  "adjectives" : [ "Indian", "former" ],
+  "nouns" : [ "politician", "member", "pediatrician", "president" ],
+  "text" : "Gopalrao Patil is an Indian politician and pediatrician. He belongs to the Bharatiya Janata Party and is a former member of the Rajya Sabha. He is the president of Shivchhatrapati Shikshan Sanstha, which runs the Rajarshi Shahu College, Latur, Maharashtra.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity54",
+  "entityUrl" : "http://dbpedia.org/resource/Aung_San",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Bo Tayza", "Myo Aung", "Naung Cho", "Omoda Monji", "Set Phe", "Tan Lushou" ]
+  },
+  "words" : [ "ခ", "Myanmar", "-LSB-", "င", "considered", "modern-day", "àʊɴ", "independence", "nationalist", "Aung", "Communist", "later", "ပ", "ဗ", "buil", "bòdʑoʊʔ", "July", "လ", "hkyup", "--", "အ", "pronounced", "13", "statesman", "Bogyoke", "months", "Democratic", "19", ",", "'s", ".", "sʰáɴ", "Burmese", "bringing", "revolutionary", "served", "name", "-RRB-", "General", "Colony", ":", ";", "1947", "1946", "aung", "Nation", "San", "-LRB-", "rule", "ဆန", "Party", "responsible", "hcan", "1915", "February", "honorific", "Social", "Tatmadaw", "British", "MLCTS", "assassinated", "six", "founder", "politician", "5th", "Burma", "Premier", "Crown", "Major", "-RSB-", "initially", "Father" ],
+  "adjectives" : [ "nationalist", "Burmese", "Communist", "British", "later", "modern-day", "responsible", "5th" ],
+  "nouns" : [ "Nation", "statesman", "founder", "politician", "àʊɴ", "rule", "Burma", "ဆန", "independence", "sʰáɴ", "ပ", "revolutionary", "name", "buil", "hcan", "bòdʑoʊʔ", "Father", "hkyup", "honorific" ],
+  "text" : "(In this Burmese name, Bogyoke is an honorific.) Bogyoke (Major General) Aung San (Burmese: ဗိုလ်ချုပ် အောင်ဆန်း; MLCTS: buil hkyup aung hcan:, pronounced: [bòdʑoʊʔ àʊɴ sʰáɴ]); 13 February 1915 – 19 July 1947) was a Myanmar statesman, initially Communist and later Social Democratic politician, revolutionary, nationalist, founder of the Tatmadaw, and is considered Father of the Nation of modern-day Myanmar who served as 5th Premier of the British Crown Colony of Burma from 1946 to 1947. He was the founder of the Communist Party of Burma. He was responsible for bringing about Burma's independence from British rule, but was assassinated six months before independence. He is recognized as the leading architect of independence, and the founder of the Union of Burma. Affectionately known as \"Bogyoke\" (Major General), Aung San is still widely admired by the Burmese people, and his name is still invoked in Burmese politics to this day. Aung San's daughter, Aung San Suu Kyi, is a Burmese stateswoman and politician and a recipient of the Nobel Peace Prize who is now serving as State Counsellor and 20th and First Female Minister of Foreign Affairs in Htin Kyaw's Cabinet.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity1156",
+  "entityUrl" : "http://dbpedia.org/resource/Akbaruddin_Owaisi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherNames" : [ "Habeeb-e-Millat" ]
+  },
+  "words" : [ "June", "leader", "-LRB-", "MLA", "Majlis-e", "Telangana", "Salahuddin", "Asaduddin", "Owaisi", "son", "known", "1970", "member", "hate", "floor", "Assembly", "based", "14", "younger", "Akbaruddin", "Ittihad", "born", "politician", "speeches", ",", "Hindus", "Hyderabad", ".", "India", "Sultan", "al-Muslimin", "belongs", "-RRB-", "Legislative", "family", "brother" ],
+  "adjectives" : [ "al-Muslimin", "Legislative" ],
+  "nouns" : [ "leader", "MLA", "son", "politician", "member", "hate", "floor", "family", "brother", "Assembly", "Owaisi" ],
+  "text" : "Akbaruddin Owaisi (born 14 June 1970) is a politician based in Hyderabad, Telangana and an MLA of the Telangana Legislative Assembly. He belongs to All India Majlis-e Ittihad al-Muslimin and is its floor leader in the Telangana Legislative Assembly. Akbaruddin is a member of the Owaisi family, the son of Sultan Salahuddin Owaisi and the younger brother of Asaduddin Owaisi. He is known for his hate speeches against Hindus.",
+  "patterns" : { }
+} ]

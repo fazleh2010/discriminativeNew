@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity6737",
+  "entityUrl" : "http://dbpedia.org/resource/Hercules_Robinson,_1st_Baron_Rosmead",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:monarch" : [ "http://dbpedia.org/resource/Queen_Victoria" ]
+  },
+  "words" : [ "14th", "Rosmead", "became", "New", "June", "Hong", "-LRB-", "Fiji", "羅士敏勳爵", "28", "Wales", "subsequently", "Hercules", "1st", "December", "October", "1897", "administrator", "1896", "George", "known", "Robert", "colonial", "GCMG", "1859", "Baron", "Kong", "--", "羅便臣", "Robinson", "British", "19", "South", "5th", ",", "8th", ".", "August", "Governor", "Zealand", "PC", "name", "-RRB-", "Chinese", ":", "Sir", "1824", "first" ],
+  "adjectives" : [ "14th", "British", "Chinese", "5th", "8th", "first" ],
+  "nouns" : [ "Governor", "administrator", "PC", "colonial", "name" ],
+  "text" : "Hercules George Robert Robinson, 1st Baron Rosmead GCMG PC (Chinese name: 羅士敏勳爵 or 羅便臣) (19 December 1824 – 28 October 1897), was a British colonial administrator who became the 5th Governor of Hong Kong and subsequently, the 14th Governor of New South Wales, the first Governor of Fiji, and the 8th Governor of New Zealand. From June 1859 until August 1896, he was known as Sir Hercules Robinson.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity6003",
+  "entityUrl" : "http://dbpedia.org/resource/Gerald_Isaacs,_2nd_Marquess_of_Reading",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:monarch" : [ "Elizabeth II" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "britischer", "September", "Gerald", "Isaacs", "ein", "Marquess", "Dezember", "10", "†", "19", "war", "*", "und", ",", ".", "Jurist", "2", "Reading", "1960", "-RRB-", "Rufus", ";", "1889" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "britischer", "war", "und", "ein", "Jurist" ],
+  "text" : "Gerald Rufus Isaacs, 2. Marquess of Reading (* 10. Dezember 1889; † 19. September 1960) war ein britischer Jurist und Politiker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity14180",
+  "entityUrl" : "http://dbpedia.org/resource/Prem_Tinsulanonda",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:monarch" : [ "Vacant" ]
+  },
+  "words" : [ "منصب", "الفترة", "25بك", "أي", "بمصادر", "التشكيك", "المحتوى", "رئيس", "أغسطس", "متقاعد", "من", "ينقصه", "يمكن", ".", "موثوق", "هنا", "3", "خلال", "4", "1980", "-RRB-", ":", "مواليد", "1988", "موثقة", "-LRB-", "26", "الوزراء", "وشغل", "เปรม", "الجنرال", "1920م", "الهندسة", "مارس", "معلومات", "الاستشهاد", "بريم", "هو", "فبراير", "علي", "إجازة", "وإزالتها", "تينسولانوندا", "ติณสูลานนท์", "بالتايلندية", "2016", "يرجى", "غير", "مصادر", "عسكري", "وحاصل", "إلي", "إيراد", "بها" ],
+  "adjectives" : [ ],
+  "nouns" : [ "ติณสูลานนท์", "هو", "من", "يرجى", "أي", "بمصادر", "وإزالتها", "تينسولانوندا" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الجنرال بريم تينسولانوندا  (بالتايلندية:เปรม ติณสูลานนท์) من مواليد 26 أغسطس 1920م هو عسكري متقاعد وحاصل علي إجازة الهندسة وشغل منصب رئيس الوزراء خلال الفترة من 3 مارس 1980 إلي 4 أغسطس 1988. ومن ثم تم تعينه رئيسًا لمجلس الملك الخاص.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity13",
+  "entityUrl" : "http://dbpedia.org/resource/Alexandros_Koumoundouros",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:monarch" : [ "http://dbpedia.org/resource/George_I_of_Greece" ]
+  },
+  "words" : [ "-LRB-", "26", "administration", "Empire", "political", "Mani", "office", "unselfishness", "Κουμουνδούρος", "Ottoman", "son", "personality", "Alexandros", "Koumoundouros", "national", "1817", "February", "Koumoundoùros", "--", "area", "side", "Peninsula", "period", "famous", "last", "work", "politician", "unsettled", "towards", "history", ",", "Messenian", "despite", "Αλέξανδρος", ".", "1883", "Born", "Bey", "-RRB-", "Kampos", "located", "progress", "patriotism", ":", "Spirìdonas-Galànis", "region", "Greek" ],
+  "adjectives" : [ "famous", "last", "unsettled", "located", "political", "national", "Greek", "Messenian" ],
+  "nouns" : [ "area", "side", "period", "administration", "work", "politician", "office", "history", "unselfishness", "son", "personality", "progress", "patriotism", "region" ],
+  "text" : "Alexandros Koumoundouros (Greek: Αλέξανδρος Κουμουνδούρος, 1817 – 26 February 1883) was a Greek politician. Born in Kampos located in the Messenian side of the Mani Peninsula, he was the son of Spirìdonas-Galànis Koumoundoùros who was the Bey of the area during the last period of the administration of the region by the Ottoman Empire. He was a political personality famous for his work towards national progress, his patriotism and unselfishness, despite his having been in office during a very unsettled period of Greek history.",
+  "patterns" : { }
+} ]

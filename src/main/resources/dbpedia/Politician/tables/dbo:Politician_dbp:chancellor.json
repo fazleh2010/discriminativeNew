@@ -1,0 +1,145 @@
+[ {
+  "entityIndex" : "1_entity10801",
+  "entityUrl" : "http://dbpedia.org/resource/Kai-Uwe_von_Hassel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Ludwig_Erhard", "http://dbpedia.org/resource/Konrad_Adenauer", "http://dbpedia.org/resource/Kurt_Georg_Kiesinger" ]
+  },
+  "words" : [ "Politiker", "Kriegsgeschädigte", "-LRB-", "Landes", "Hassel", "ein", "Gare", "Er", "bis", "Bundesminister", "1954", "der", "1997", "des", "von", "1972", "CDU", "Bundestages", "Vertriebene", "1913", "für", "Kai-Uwe", "†", "Verteidigung", "deutscher", "Flüchtlinge", "war", "*", "und", ",", ".", "April", "Deutsch-Ostafrika", "1963", "Deutschen", "Mai", "Ministerpräsident", "Präsident", "8", "-RRB-", ";", "1969", "Aachen", "Schleswig-Holstein", "21", "1966" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "von", "deutscher", "war", "und", "ein", "für" ],
+  "text" : "Kai-Uwe von Hassel (* 21. April 1913 in Gare, Deutsch-Ostafrika; † 8. Mai 1997 in Aachen) war ein deutscher Politiker (CDU). Er war von 1954 bis 1963 Ministerpräsident des Landes Schleswig-Holstein, von 1963 bis 1966 Bundesminister der Verteidigung, von 1966 bis 1969 Bundesminister für Vertriebene, Flüchtlinge und Kriegsgeschädigte und von 1969 bis 1972 Präsident des Deutschen Bundestages.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity13560",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Henderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Helmut_Schmidt" ]
+  },
+  "words" : [ "-LRB-", "britischer", "Universität", "1919", "John", "Autor", "Hubert", "ein", "2009", "der", "School", "des", "dann", "Stowe", "wurde", "GCMG", "das", "März", "Ökonomen", "Politischen", "Oxford", "besuchte", "Hertford", "†", "16", "Sohn", "erzogen", "Nicholas", "war", "*", "und", ",", ".", "April", "1", "Diplomat", "KCVO", "Douglas", "auf", "-RRB-", "College", ";", "Sir", "Henderson" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Diplomat", "britischer", "dann", "erzogen", "war", "und", "ein", "besuchte" ],
+  "text" : "Sir John Nicholas Henderson GCMG, KCVO (* 1. April 1919; † 16. März 2009) war ein britischer Diplomat und Autor. Henderson, Sohn des Politischen Ökonomen Hubert Douglas Henderson, wurde auf der Stowe School erzogen und besuchte dann das Hertford College an der Universität Oxford. 1946 trat Henderson in den Diplomatischen Dienst ein; dort war er im Aus- und Inland tätig. 1963 wurde er Privatsekretär des britischen Außenministers George Brown. Ab 1965 war er als Botschafter in Spanien, Polen (1969–1972), Deutschland (1972–1975) und Frankreich (1975–1979) tätig. 1979 bat er um seine Entlassung, war aber für Margaret Thatcher noch bis 1982 als Botschafter in den Vereinigten Staaten tätig. Weiterhin schrieb er Bücher über Geschichte, etwa über Eugen von Savoyen, sowie seine Lebenserinnerungen.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity4517",
+  "entityUrl" : "http://dbpedia.org/resource/Erich_Mende",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Ludwig_Erhard" ]
+  },
+  "words" : [ "Oktober", "Politiker", "-LRB-", "28", "ein", "bis", "1998", "der", "Offizier", "Landkreis", "FDP", "dann", "FDP-Bundestagsfraktion", "von", "CDU", "1916", "Mende", "1957", "Erich", "†", "deutscher", "war", "*", "und", ",", "er", ".", "Jurist", "Bonn", "1963", "Strehlitz", "Mai", "Von", "1960", "6", "-RRB-", "Groß", "Oberschlesien", "Vorsitzender", ";", "1968" ],
+  "adjectives" : [ "dann" ],
+  "nouns" : [ "Politiker", "deutscher", "war", "und", "ein", "er", "Jurist", "der", "Offizier", "FDP", "FDP-Bundestagsfraktion", "von", "Vorsitzender" ],
+  "text" : "Erich Mende (* 28. Oktober 1916 in Groß Strehlitz, Landkreis Groß Strehlitz in Oberschlesien; † 6. Mai 1998 in Bonn) war ein deutscher Offizier, Jurist und Politiker (FDP, dann CDU). Von 1960 bis 1968 war er Vorsitzender der FDP und von 1957 bis 1963 der FDP-Bundestagsfraktion. 1963 bis 1966 amtierte er als Bundesminister für gesamtdeutsche Fragen und war zugleich Stellvertreter des Bundeskanzlers.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity4860",
+  "entityUrl" : "http://dbpedia.org/resource/Ed_Balls",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Gordon_Brown" ]
+  },
+  "words" : [ "Politiker", "Brown", "-LRB-", "25", "britischer", "Juni", "Secretary", "britischen", "Labour", "2010", "ist", "ein", "Edward", "bis", "der", "2007", "Party", "von", "Michael", "Regierung", "Staatssekretär", "Children", "Schools", "Gordon", "im", "Norwich", "war", "Finanzministerium", "*", "Families", ",", "er", ".", "Blair", "Von", "State", "-RRB-", "Balls", "Erziehungsminister", "1967", "Februar" ],
+  "adjectives" : [ "Februar" ],
+  "nouns" : [ "Politiker", "britischer", "im", "Secretary", "britischen", "war", "Finanzministerium", "ist", "ein", "er", "der", "von", "State", "Staatssekretär", "Erziehungsminister" ],
+  "text" : "Edward Michael Balls (* 25. Februar 1967 in Norwich) ist ein britischer Politiker der Labour Party. In der Regierung Blair war er Staatssekretär im britischen Finanzministerium. Von Juni 2007 bis 2010 war er Erziehungsminister (Secretary of State for Children, Schools and Families) in der Regierung von Gordon Brown.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity15184",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Parning",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "Robert Bourchier" ]
+  },
+  "words" : [ "-LRB-", "26", "Parning", "died", ".", "August", "English", "administrator", "Robert", "1343", "-RRB-", "Parving", "Sir", "lawyer" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "administrator", "Parving", "lawyer" ],
+  "text" : "Sir Robert Parning (or Parving) (died 26 August 1343) was an English lawyer and administrator.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity6790",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Brooke,_Baron_Brooke_of_Cumnor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Selwyn_Lloyd" ]
+  },
+  "words" : [ "--", "British", "-LRB-", "CH", "29", "politician", "March", ",", "Cumnor", "April", ".", "Brooke", "PC", "1984", "Party", "Conservative", "-RRB-", "9", "1903", "Baron", "Henry" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "PC", "CH", "politician" ],
+  "text" : "Henry Brooke, Baron Brooke of Cumnor CH PC (9 April 1903 – 29 March 1984) was a British Conservative Party politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity6857",
+  "entityUrl" : "http://dbpedia.org/resource/Hans-Christoph_Seebohm",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Ludwig_Erhard", "http://dbpedia.org/resource/Konrad_Adenauer" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "September", "Wochen", "ein", "DP", "Er", "bis", "Verkehr", "Bundesminister", "von", "CDU", "Vizekanzler", "Hans-Christoph", "für", "†", "deutscher", "Kattowitz", "17", "war", "*", "und", ",", ".", "August", "Bonn", "4", "wenige", "auch", "-RRB-", "Seebohm", "1949", "zuletzt", ";", "1903", "1967", "1966" ],
+  "adjectives" : [ "Wochen" ],
+  "nouns" : [ "Politiker", "von", "wenige", "auch", "deutscher", "Vizekanzler", "war", "und", "zuletzt", "ein", "DP", "für" ],
+  "text" : "Hans-Christoph Seebohm (* 4. August 1903 in Kattowitz; † 17. September 1967 in Bonn) war ein deutscher Politiker (DP und CDU).Er war von 1949 bis 1966 Bundesminister für Verkehr, zuletzt für wenige Wochen auch Vizekanzler. Er weist bis heute die längste ununterbrochene Amtszeit als Bundesminister auf.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity6979",
+  "entityUrl" : "http://dbpedia.org/resource/Henning_Voscherau",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Helmut_Kohl" ]
+  },
+  "words" : [ "Politiker", "-LSB-", "24", "-LRB-", "SPD", "Hamburg", "ein", "bis", "der", "Freien", "1997", "von", "ˈfɔʃəʁaʊ̯", "†", "Erster", "13", "Voscherau", "deutscher", "war", "*", "und", "ebenda", "Bürgermeister", ".", "Hansestadt", "August", "Jurist", "Der", "1941", "2016", "-RRB-", "-RSB-", ";", "Henning", "1988" ],
+  "adjectives" : [ ],
+  "nouns" : [ "von", "ˈfɔʃəʁaʊ̯", "deutscher", "SPD", "war", "und", "ein", "ebenda" ],
+  "text" : "Henning Voscherau [ˈfɔʃəʁaʊ̯] (* 13. August 1941 in Hamburg; † 24. August 2016 ebenda) war ein deutscher Politiker der SPD. Der Jurist war von 1988 bis 1997 Erster Bürgermeister der Freien und Hansestadt Hamburg.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity7079",
+  "entityUrl" : "http://dbpedia.org/resource/Herbert_Weichmann",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Willy_Brandt", "http://dbpedia.org/resource/Kurt_Georg_Kiesinger" ]
+  },
+  "words" : [ "ينتمي", "الديمقراطي", "منصب", "SPD", "1896", "1971", "البوندسرات", "رئيس", "أكتوبر", "؛", "كما", "مابين", "الحزب", "لاندسبيرج", "في", "الاجتماعي", ",", "-", ".", "بولندا", "وهو", "Herbert", "1983", "-RRB-", "9", ":", "محامي", "بالألمانية", "23", "-LRB-", "سياسي", "و", "ألماني", "هامبورغ", "Weichmann", "عامي", "مدينة", "فبراير", "شغل", "هربرت", "عمدة", "حاليا", "ويخمان", "1965", "يهودي", "تقع", "كذلك", "1969", "إلى", "1968" ],
+  "adjectives" : [ ],
+  "nouns" : [ "بولندا", "وهو", "SPD", "شغل", "و", "هربرت", "الاجتماعي", "؛", "ويخمان" ],
+  "text" : "هربرت ويخمان (بالألمانية: Herbert Weichmann)؛ (23 فبراير 1896,لاندسبيرج (حاليا تقع في بولندا) - 9 أكتوبر 1983, هامبورغ).وهو سياسي ألماني و محامي يهودي ينتمي إلى الحزب الديمقراطي الاجتماعي(SPD) . شغل ويخمان منصب عمدة مدينة هامبورغ مابين عامي 1965 - 1971 كما شغل كذلك منصب رئيس البوندسرات مابين عامي 1968 - 1969.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity13950",
+  "entityUrl" : "http://dbpedia.org/resource/Ole_von_Beust",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Angela_Merkel" ]
+  },
+  "words" : [ "Beust", "Mayor", "-LRB-", "25", "called", "year", "Carl-Friedrich", "Ole", "Hamburg", "German", "2010", "Bundesrat", "Christoph", "serving", "President", "October", "2007", "Ahlhaus", "von", "First", "31", "1955", "November", "13", "mayor", "Freiherr", "born", "politician", "one", "2001", ",", "April", ".", "generally", "August", "1", "-RRB-", "Arp", "succeeded" ],
+  "adjectives" : [ "Ole", "German" ],
+  "nouns" : [ "von", "year", "mayor", "Freiherr", "politician" ],
+  "text" : "Carl-Friedrich Arp Ole Freiherr von Beust, generally called Ole von Beust (born April 13, 1955), is a German politician who was First Mayor of Hamburg from 31 October 2001 to 25 August 2010, serving as President of the Bundesrat from 1 November 2007 on for one year. He was succeeded as mayor by Christoph Ahlhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity14009",
+  "entityUrl" : "http://dbpedia.org/resource/Olaf_Scholz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Angela_Merkel" ]
+  },
+  "words" : [ "الأخير", "Scholz", "الديمقراطي", "أن", "أوسنابروك", "منصب", "،", "و2004", "نوفمبر", "رئيس", "أكتوبر", "أعلن", "سيخلف", "للحزب", "من", "يترك", "13", "شولتس", "الحزب", "2001", "في", "ولد", "المنصب", ".", "مايو", "-RRB-", ":", "فرانتس", "حين", "21", "بالألمانية", "-LRB-", "Olaf", "سياسي", "والشؤون", "ألماني", "الداخلية", "كورت", "الاشتراكي", "هامبورغ", "2007", "مونتيفيرينغ", "2002", "العمل", "1958", "وزير", "الاجتماعية", "شغل", "هذا", "وفي", "عام", "والأمين", "بين", "أولاف", "بيك", "العام", "إلى", "ولاية" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "والأمين", "الديمقراطي", "أن", "أولاف", "أوسنابروك", "نوفمبر", "شغل", "في", "،" ],
+  "text" : "أولاف شولتس (بالألمانية: Olaf Scholz) (ولد عام 1958 في أوسنابروك) سياسي ألماني من الحزب الاشتراكي الديمقراطي. شغل منصب وزير الداخلية من مايو إلى أكتوبر 2001 في ولاية هامبورغ. والأمين العام للحزب الديمقراطي الاشتراكي بين 2002 و2004. وفي 13 نوفمبر 2007 أعلن رئيس الحزب كورت بيك أن شولتس سيخلف فرانتس مونتيفيرينغ في منصب وزير العمل والشؤون الاجتماعية، حين يترك الأخير هذا المنصب في 21 نوفمبر.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity14246",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Giesler",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chancellor" : [ "http://dbpedia.org/resource/Joseph_Goebbels", "http://dbpedia.org/resource/Adolf_Hitler", "http://dbpedia.org/resource/Lutz_Graf_Schwerin_von_Krosigk" ]
+  },
+  "words" : [ "-LRB-", "Juni", "bayerischer", "politischem", "Paul", "bis", "dem", "zunächst", "der", "München-Oberbayern", "gemäß", "1895", "von", "Siegen", "30", "Gauleiter", "†", "ab", "15", "Giesler", "war", "*", "und", "Bischofswiesen", "Westfalen-Süd", ",", "er", ".", "Hitlers", "1943", "1942", "1941", "Mai", "auch", "Ministerpräsident", "8", "-RRB-", ";", "Zudem", "1945", "Testament", "NSDAP" ],
+  "adjectives" : [ ],
+  "nouns" : [ "gemäß", "ab", "von", "auch", "bayerischer", "war", "und", "er", "zunächst", "Testament" ],
+  "text" : "Paul Giesler (* 15. Juni 1895 in Siegen; † 8. Mai 1945 in Bischofswiesen) war von 1941 bis 1943 Gauleiter der NSDAP zunächst von Westfalen-Süd, ab 1942 auch von München-Oberbayern. Zudem war er von 1942 bis 1945 bayerischer Ministerpräsident und gemäß Hitlers politischem Testament ab dem 30. April 1945 der Nachfolger von Heinrich Himmler als Reichsminister des Innern.",
+  "patterns" : { }
+} ]

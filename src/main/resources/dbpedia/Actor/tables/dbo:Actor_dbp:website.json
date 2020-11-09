@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity11318",
+  "entityUrl" : "http://dbpedia.org/resource/Carly_Hillman",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:website" : [ "www.carlyhillman.co.uk  www.actonestageschool.co.uk" ]
+  },
+  "words" : [ "Marco", "June", "Cosh", "BBC", "TV", "-LRB-", "opera", "di", "EastEnders", "best", "Hillman", "1998", "on-screen", "known", "along", "credits", "2002", "Carly", "11", "actress", "British", "went", "Harry", "born", "2000", "Nicky", ".", "August", "appear", "1983", "-RRB-", "playing", ":", "axed", "family", "soap" ],
+  "adjectives" : [ "on-screen", "British" ],
+  "nouns" : [ "actress", "TV", "opera", "family", "soap" ],
+  "text" : "Carly Hillman (born 11 June 1983) is a British actress best known for playing Nicky di Marco in the BBC soap opera EastEnders from 1998 to 2000. She was axed from the soap along with all of her on-screen family in August 2000. she then went on to appear in Harry and Cosh in 2002. Further TV credits:"
+}, {
+  "entityIndex" : "2_entity12803",
+  "entityUrl" : "http://dbpedia.org/resource/Johanna_Hargreaves",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:website" : [ "awards" ]
+  },
+  "words" : [ "``", "June", "-LRB-", "best", "teenage", "Linda", "drama", "known", "Jarvis", "1992", "Jordan", "Johanna", "''", "actress", "British", "Johnny", "television", "Hargreaves", "born", "18", "active", "Stella", ",", ".", "1963", "police", "1983", "1980", "-RRB-", "playing", "since", "Lines" ],
+  "adjectives" : [ "British", "active", "teenage" ],
+  "nouns" : [ "actress", "drama", "police", "television" ],
+  "text" : "Johanna Hargreaves (born 18 June 1963) is a British television actress who has been active since 1980, best known for playing \"Stella\" in the 1983 teenage drama Johnny Jarvis and \"Linda Jordan\" in the 1992 police drama Between the Lines."
+} ]

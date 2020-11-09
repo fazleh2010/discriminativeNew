@@ -1,0 +1,325 @@
+[ {
+  "entityIndex" : "1_entity8065",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lee_Carroll",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "John Lee Carroll" ]
+  },
+  "words" : [ "--", "37th", "-LRB-", "September", "27", "Democratic", "John", "United", "1880", ",", "Lee", ".", "States", "Governor", "1876", "Carroll", "1830", "Party", "-RRB-", "member", "30", "February", "Maryland", "1911" ],
+  "adjectives" : [ "37th" ],
+  "nouns" : [ "Governor", "member" ],
+  "text" : "John Lee Carroll (September 30, 1830 – February 27, 1911), a member of the United States Democratic Party, was the 37th Governor of Maryland from 1876 to 1880.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8150",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Meek",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Joseph Meek" ]
+  },
+  "words" : [ "``", "play", "fur", "United", "official", "Legislature", "pioneer", "States", "1810", "later", "would", "selected", "--", "Joe", "Territory", "law", "enforcement", ",", ".", "elected", "Later", "involved", "Valley", "trapper", "Joseph", "served", "-RRB-", "9", "Country", "Marshal", "20", "Oregon", "June", "-LRB-", "prominent", "role", "Meetings", "settling", "sheriff", "1875", "February", "''", "Champoeg", "Tualatin", "politician", "Provisional", "1843", "trade", "Lafayette", "Meek" ],
+  "adjectives" : [ "prominent" ],
+  "nouns" : [ "fur", "law", "trade", "role", "trapper", "politician", "enforcement", "official", "Country", "pioneer", "sheriff" ],
+  "text" : "Joseph Lafayette \"Joe\" Meek (February 9, 1810 – June 20, 1875) was a trapper, law enforcement official, and politician in the Oregon Country and later Oregon Territory of the United States. A pioneer involved in the fur trade before settling in the Tualatin Valley, Meek would play a prominent role at the Champoeg Meetings of 1843 where he was elected as a sheriff. Later he served in the Provisional Legislature of Oregon before being selected as the United States Marshal for the Oregon Territory.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity8629",
+  "entityUrl" : "http://dbpedia.org/resource/Joel_Palmer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Joel Palmer" ]
+  },
+  "words" : [ "Peu", "de", "politique", "fut", "qu'il", "législateur", "garda", "du", "son", "des", "affaires", "indiennes", "poste", "les", "1857", "jusqu", "1810-1881", "sénateur", "il", "'", "en", ",", ".", "et", "perdit", "au", "l'État", "-RRB-", "Oregon", "sein", "-LRB-", "servit", "Il", "jusqu'en", "surintendant", "sa", "devint", "d'état", "arrive", "arrivée", "1870", "commença", "aussi", "quand", "élections", "à", "législatif", "carrière", "ce", "après", "Joel", "Palmer", "1847", "comme" ],
+  "adjectives" : [ "devint", "sénateur", "législateur" ],
+  "nouns" : [ "jusqu", "à", "carrière", "ce", "sein", "il", "servit", "Il", "politique", "fut", "qu'il", "surintendant", "sa", "son", "d'état", "au", "arrivée", "commença", "comme" ],
+  "text" : "Joel Palmer (1810-1881) commença sa carrière politique quand il servit comme législateur d’état jusqu’à ce qu’il arrive en Oregon en 1847. Peu après son arrivée, Palmer devint surintendant des affaires indiennes, poste qu’il garda jusqu’en 1857. Il fut aussi comme sénateur au sein du législatif de l'État et perdit les élections en 1870.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity8756",
+  "entityUrl" : "http://dbpedia.org/resource/John_Denison_Baldwin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "John Denison Baldwin" ]
+  },
+  "words" : [ "New", "Politiker", "-LRB-", "September", "28", "John", "Zwischen", "Juli", "ein", "den", "County", "US-Repräsentantenhaus", "Massachusetts", "North", "Stonington", "Bundesstaat", "US-amerikanischer", "†", "vertrat", "im", "Baldwin", "1809", "war", "*", "und", ",", "er", ".", "1863", "1883", "Worcester", "Denison", "Connecticut", "London", "8", "-RRB-", ";", "1869" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "John Denison Baldwin (* 28. September 1809 in North Stonington, New London County, Connecticut; † 8. Juli 1883 in Worcester, Massachusetts) war ein US-amerikanischer Politiker. Zwischen 1863 und 1869 vertrat er den Bundesstaat Massachusetts im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity8790",
+  "entityUrl" : "http://dbpedia.org/resource/James_C._Welsh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "James C. Welsh" ]
+  },
+  "words" : [ "full-time", "Underworld", "Morlocks", "unionist", "official", "Labour", "experience", "contested", "1931", "worked", "later", "Member", "1935", "--", "12", "MP", "mining", ",", ".", "mines", "2", "4", "served", "-RRB-", "Parliament", "1945", "novels", "June", "became", "-LRB-", "1880", "C.", "miner", "1954", "general", "Scottish", "Party", "1918", "November", "informed", "election", "James", "politician", "Welsh", "union", "unsuccessfully", "1920", "trade", "constituency", "Lanark", "novelist", "1924", "age", "first", "1922" ],
+  "adjectives" : [ "full-time", "general", "Scottish", "unionist", "first" ],
+  "nouns" : [ "trade", "election", "Underworld", "constituency", "politician", "official", "mining", "union", "novelist", "experience", "miner", "age" ],
+  "text" : "James C. Welsh (2 June 1880 – 4 November 1954) was a miner, trade unionist, novelist and Scottish Labour Party politician who served as a Member of Parliament (MP) from 1922 to 1931, and from 1935 to 1945. Welsh worked in mines from the age of 12, an experience which informed his first novels The Underworld (1920) and The Morlocks (1924). He later became a full-time official for the mining union. He unsuccessfully contested the 1918 general election in the Lanark constituency. At the 1922 general election, he was elected as MP for Coatbridge constituency, where he was re-elected in 1923, 1924 and 1929, but was defeated at the 1931 general election by the Conservative Party candidate William Paterson Templeton. He was returned to the House of Commons at the 1935 general election as MP for Bothwell, and held the seat until he stepped down at the 1945 general election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity9994",
+  "entityUrl" : "http://dbpedia.org/resource/John_B._Winslow",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "John B. Winslow" ]
+  },
+  "words" : [ "New", "-LRB-", "Bradley", "American", "York", "G.", "moved", "John", "direct", "colonist", "descendant", "Kenelm", "Edward", "Mayflower", "1855", "Emily", "October", "Winslow", "son", "1851", "Horatio", "July", "Racine", "Wisconsin", "--", "13", "jurist", "Nunda", "born", "Plymouth", ",", ".", "1920", "4", "-RRB-", "Colony", "governor", "brother", "parents" ],
+  "adjectives" : [ "American", "direct" ],
+  "nouns" : [ "son", "jurist", "colonist", "descendant", "governor", "brother" ],
+  "text" : "John Bradley Winslow (October 4, 1851 – July 13, 1920) was an American jurist. Winslow was born in Nunda, New York as the only son of Horatio G. Winslow and Emily Bradley Winslow. He was a direct descendant of Kenelm Winslow, brother of Edward Winslow, a Mayflower colonist and a governor of Plymouth Colony. He moved with his parents to Racine, Wisconsin in 1855. Winslow graduated from Racine College in 1871 and received his law degree from the University of Wisconsin Law School in 1875. He married Agnes Clancy on January 19, 1881. He was elected a Wisconsin Circuit Court judge and in 1891 was appointed to the Wisconsin Supreme Court. From 1907 until his death, Winslow served as Chief Justice of the court.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity10375",
+  "entityUrl" : "http://dbpedia.org/resource/Jules_Roche",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Jules Roche" ]
+  },
+  "words" : [ "22", "garde", "français", "de", "-LRB-", "Il", "politique", "avocat", "Jules", "est", "fait", "avril", "Georges", "des", "Roche", "mai", "752", "mort", "Antoine", "un", "avant", "rapprochée", "à", "partie", "éloigner", "longtemps", "'", "radicaux", ",", ".", "et", "homme", "1841", "la", "-RRB-", "8", "le", "Saint-Étienne", "Loire", "numéro", "né", "Clemenceau", "acte", "1923", "Paris", "journaliste" ],
+  "adjectives" : [ "un", "avant" ],
+  "nouns" : [ "homme", "Il", "politique", "avocat", "éloigner", "Saint-Étienne", "fait", "Loire", "numéro", "né", "acte", "avril" ],
+  "text" : "Jules Antoine Roche est un homme politique, avocat et journaliste français, né le 22 mai 1841 à Saint-Étienne (Loire), acte numéro 752 et mort le 8 avril 1923 à Paris. Il a longtemps fait partie de la garde rapprochée de Georges Clemenceau, avant de s'éloigner des radicaux.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity4435",
+  "entityUrl" : "http://dbpedia.org/resource/Earl_Browder",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Earl Browder" ]
+  },
+  "words" : [ "leader", "1940s", "CPUSA", "half", "objector", "release", "political", "World", "behalf", "Browder", "soon", "Communist", "remembered", "1973", "prison", "conscientious", "--", "activist", "active", ",", ".", "Russell", "served", "-RRB-", "General", "region", "20", "June", "became", "-LRB-", "1930s", "May", "American", "27", "Secretary", "War", "best", "conscription", "Labor", "Party", "Earl", "China", "federal", "member", "working", "International", "USA", "1891", "war", "functionary", "Unions", "Red", "Upon", "Pacific", "organizer", "time", "movement", "first" ],
+  "adjectives" : [ "American", "federal", "political", "active", "functionary", "conscientious", "first" ],
+  "nouns" : [ "activist", "leader", "half", "objector", "release", "war", "conscription", "behalf", "organizer", "member", "time", "region", "prison", "movement" ],
+  "text" : "Earl Russell Browder (May 20, 1891 – June 27, 1973) was an American political activist, functionary and leader of the Communist Party USA (CPUSA). Browder is best remembered as the General Secretary of the CPUSA during the 1930s and first half of the 1940s. During World War I, Browder served time in federal prison as a conscientious objector to conscription and the war. Upon his release, Browder became an active member of the American Communist movement, soon working as an organizer on behalf of the Communist International and its Red International of Labor Unions in China and the Pacific region. In 1930, following the removal of a rival political faction from leadership, Browder was made General Secretary of the CPUSA. For the next 15 years thereafter Browder was the most recognizable public figure associated with American Communism, authoring dozens of pamphlets and books, making numerous public speeches before sometimes vast audiences, and twice running for President of the United States. Browder also took part in clandestine activities on behalf of Soviet intelligence in America during his period of party leadership, placing those who sought to convey sensitive information to the party into contact with Soviet intelligence. In the wake of public outrage over the 1939 Nazi-Soviet pact, Browder was indicted for passport fraud. He was convicted of two counts early in 1940 and sentenced to four years in prison, remaining free for a time on appeal. In the spring of 1942 the U.S. Supreme Court affirmed the sentence and Browder began what proved to be a 14-month stint in federal prison. Browder was subsequently released in 1943 as a gesture towards wartime unity. Browder was a staunch adherent of close cooperation between the United States and the Soviet Union during World War II and envisioned continued cooperation between these two military powers in the postwar years. Coming to see the role of American Communists to be that of an organized pressure group within a broad governing coalition, in 1944 he directed the transformation of the CPUSA into a \"Communist Political Association.\" However, following the death of President Franklin D. Roosevelt, a Cold War and internal red scare quickly sprouted up. Browder was expelled from the re-established Communist Party early in 1946, due largely to a refusal to modify these views to accord with changing political realities and their associated ideological demands. Browder lived out the rest of his life in relative obscurity at his home in Yonkers, New York, attempting with little success to influence American government policy and public opinion as the author of numerous books and pamphlets.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity4944",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_George_Ryan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Edward George Ryan" ]
+  },
+  "words" : [ "New", "became", "-LRB-", "American", "York", "moved", "1880", "United", "Edward", "County", "States", "1810", "October", "bar", "1830", "George", "Ireland", "1836", "November", "--", "citizen", "admitted", "13", "jurist", "Chicago", "19", "City", ",", ".", "Meath", "Ryan", "Born", "Illinois", "-RRB-" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "citizen", "bar", "jurist" ],
+  "text" : "Edward George Ryan (November 13, 1810 – October 19, 1880) was an American jurist. Born in County Meath, Ireland, Ryan moved to New York City in 1830. In 1836, Ryan became a United States citizen and was admitted to the New York bar. He then moved to Chicago, Illinois. In 1842, he moved to Racine, Wisconsin Territory where he practiced law. Ryan was elected to the first Wisconsin Constitutional Convention of 1846 and moved his law practice to Milwaukee, Wisconsin. In 1874, Ryan was appointed Chief Justice of the Wisconsin Supreme Court serving until his death. Ryan died at his home in Madison on October 19, 1880 and was buried at Forest Home Cemetery in Milwaukee.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity18619",
+  "entityUrl" : "http://dbpedia.org/resource/William_Hamilton_(diplomat)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Sir William Hamilton" ]
+  },
+  "words" : [ "archaeologist", "becoming", "FRS", "Ambassador", "second", "December", "1730", "Copley", "Member", "--", "Nelson", "13", "period", "wife", "William", ",", "'s", "April", ".", "6", "served", "-RRB-", "Society", "Medal", "Sir", "Parliament", "FRSE", "-LRB-", "Royal", "Scottish", "Hamilton", "KB", "antiquarian", "Naples", "Horatio", "Vesuvius", "vulcanologist", "British", "Etna", "studied", "volcanoes", "1800", "Fellow", "PC", "1764", "mistress", "Kingdom", "recipient", "short", "diplomat", "famed", "1803", "Emma" ],
+  "adjectives" : [ "Scottish", "British", "antiquarian", "recipient", "short", "famed", "second" ],
+  "nouns" : [ "vulcanologist", "period", "PC", "archaeologist", "mistress", "FRS", "wife", "KB", "diplomat", "Medal", "FRSE" ],
+  "text" : "Sir William Hamilton KB, PC, FRS, FRSE (13 December 1730 – 6 April 1803) was a Scottish diplomat, antiquarian, archaeologist and vulcanologist. After a short period as a Member of Parliament, he served as British Ambassador to the Kingdom of Naples from 1764 to 1800. He studied the volcanoes Vesuvius and Etna, becoming a Fellow of the Royal Society and recipient of the Copley Medal. His second wife was Emma Hamilton, famed as Horatio Nelson's mistress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity18685",
+  "entityUrl" : "http://dbpedia.org/resource/William_McCombie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "William McCombie" ]
+  },
+  "words" : [ "``", "career", "education", "Aberdeen", "England", "agricultural", "school", "Aberdeenshire", "--", "Charles", "king", "Marischal", "cattle", "roots", "Initially", "William", ",", "'s", ".", "1", "-RRB-", "College", ";", "transporting", "-LRB-", "borders", "father", "part", "1880", "breeder", "grazier", "Scotland", "graziers", "local", "receiving", "Scottish", "McCombie", "known", "farming", "February", "Home", "Highland", "''", "attended", "fattening", "business", "within", "also", "sought", "employment", "follow", "despite", "home", "extensive", "reservations", "Born", "Farm", "dealer", "agriculturist", "1805", "family", "Tillyfour" ],
+  "adjectives" : [ "Scottish", "extensive", "agricultural", "local" ],
+  "nouns" : [ "fattening", "career", "education", "business", "king", "father", "part", "breeder", "grazier", "employment", "home", "school", "farming", "dealer", "agriculturist", "family" ],
+  "text" : "William McCombie (1805 – 1 February 1880), was a Scottish cattle breeder and agriculturist; he was also known as \"the grazier king\" or the \"king of graziers\". Born at Home Farm, Tillyfour, Aberdeenshire, the home of his father, Charles McCombie, a farming cattle dealer with Highland roots. After receiving his education at a local school, he attended Marischal College in Aberdeen but despite his father's reservations, he sought to follow him in an agricultural career. Initially, McCombie's employment was within the extensive family farming business, part of which was transporting cattle to the borders of Scotland and into England for fattening. During the 1820s he rented the arable 1,200-acre (4.9 km2) Tillyfour Farm from his father and began the process of building up his own herd of black polled cattle. The herd already on the farm when he leased it were quality animals and influenced by Lord Panmure, McCombie blended two types of polled cattle from the Aberdeen and Angus varieties to form the basis of the black Aberdeen Angus cattle. McCombie referred to the date he founded his herd as 1832, which was the year his cattle gained a first prize in exhibitions. Over five hundred prizes were won by his cattle throughout the UK and at major exhibitions in France. In 1867 his book Cattle and Cattlebreeders was published; three further editions were later printed. A campaigner for the rights of farmers and their workers, he became the first tenant farmer elected to a Scottish constituency in 1868 when he represented the Liberal Party as the western division of Aberdeen Member of Parliament. He was returned with a majority in 1874 but two years later, in 1876, ill health caused him to resign his seat. He never married and died a bachelor at Tillyfour on 1 February 1880. The cattle herd was sold at a disposal sale in August 1880.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity18881",
+  "entityUrl" : "http://dbpedia.org/resource/William_H._Gray_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "William Henry Gray" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "book", "pioneer", "History", "participant", "1810", "U.S.", "later", "1792-1849", "state", "Henry", "--", "Gray", "Government", "present-day", "politician", "wrote", "historian", "active", "Provisional", "establishment", "William", ",", ".", "Pioneer", "instrumental", "-RRB-", "creating", "Country", "Society", "1889" ],
+  "adjectives" : [ "present-day", "instrumental", "active" ],
+  "nouns" : [ "politician", "book", "historian", "Country", "establishment", "state", "pioneer", "History", "participant" ],
+  "text" : "William Henry Gray (1810–1889) was a pioneer politician and historian of the Oregon Country in the present-day U.S. state of Oregon. He was an active participant in creating the Provisional Government of Oregon. Gray later wrote the book A History of Oregon, 1792-1849 and was instrumental in the establishment of the Oregon Pioneer Society.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity18915",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Roch",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Walter Roch" ]
+  },
+  "words" : [ "sometime", "career", "political", "second", "Maesgwynne", "Emily", "Francis", "son", "George", "1938", "January", "--", "J.P.", "MP", "Roch", "wife", "1908", "R.H.", "Catherine", ",", "William", "whose", ".", "3", "Herbert", "-RRB-", "David", "Powell", "support", "daughter", "20", "landowner", "-LRB-", "Hill", "Asquith", "1880", "March", "barrister", "died", "1918", "Carmarthenshire", "1913", "Walter", "Lib", "Liberal", "politician", "born", "Butter", "continued", "Welsh", "also", "Middle", "1965", "Temple", "ended", "Lloyd", "Pembrokeshire", "Llanboidy", "1889" ],
+  "adjectives" : [ "political", "second" ],
+  "nouns" : [ "career", "MP", "son", "Lib", "wife", "politician", "Butter", "barrister", "daughter", "landowner" ],
+  "text" : "Walter Francis Roch (20 January 1880 – 3 March 1965), sometime MP (Lib.) for Pembrokeshire from 1908 to 1918 was a Welsh politician and landowner, whose political career ended when he continued to support Herbert Asquith over David Lloyd George. He was also a barrister at the Middle Temple from 1913. Roch was born the second son of William Francis Roch, J.P., of Butter Hill, Pembrokeshire (who died in 1889) and his wife Emily Catherine Powell (she died in 1938), the second daughter of a Welsh Liberal politician Walter R.H. Powell, of Maesgwynne, Llanboidy, Carmarthenshire, MP (Lib.) for Carmarthenshire, 1880–85, and West Carmarthenshire, 1885-89. He was educated at Twyford and Harrow Schools. In 1908, at the age of 28, he successfully contested the seat in Pembrokeshire and was re-elected continuously until 1918. He was appointed to the Dardanelles Commission in 1916. He married on 20 April 1911 Hon. Fflorens Mary Ursula Herbert (1879- ), daughter of Ivor Herbert, 1st Baron Treowen and eventually his sole heiress. Issue, if any, unknown. In 1934, Roch was appointed JP for Monmouthshire. He and his wife spent the last twenty-five years of his life on their estates.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity2472",
+  "entityUrl" : "http://dbpedia.org/resource/Cassius_Marcellus_Clay_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Cassius Marcellus Clay" ]
+  },
+  "words" : [ "22", "Oktober", "Madison", "Politiker", "Abolitionist", "-LRB-", "Juli", "ein", "County", "1810", "US-amerikanischer", "†", "Marcellus", "Clay", "im", "Kentucky", "19", "war", "*", "und", ",", "ebenda", ".", "-RRB-", "Cassius", ";", "1903" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "Abolitionist", "war", "und", "ein", "ebenda", "US-amerikanischer" ],
+  "text" : "Cassius Marcellus Clay (* 19. Oktober 1810 im Madison County, Kentucky; † 22. Juli 1903 ebenda) war ein US-amerikanischer Politiker und Abolitionist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity17459",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Shaw,_1st_Baron_Craigmyle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Lord Shaw" ]
+  },
+  "words" : [ "St", "Mental", "Craigmyle", "Aberdeen", "Dunfermline", "advocate", "son", "1850", "1894", "gained", "1937", "judge", "--", "1909", "Queen", ",", "'s", ".", "appointed", "Lord", "University", "-RRB-", "1906", "1902", "Philosophy", "23", "June", "became", "Alexander", "-LRB-", "Fife", "May", "LLD", "28", "Shaw", "1st", "Scottish", "School", "1875", "Party", "known", "Hamilton", "KC", "Edinburgh", "Counsel", "Baron", "Thomas", "High", "radical", "Liberal", "Andrews", "politician", "also", "educated", "Fellow", "PC", "1929" ],
+  "adjectives" : [ "Scottish", "radical" ],
+  "nouns" : [ "son", "LLD", "politician", "judge", "advocate" ],
+  "text" : "Thomas Shaw, 1st Baron Craigmyle PC KC LLD (23 May 1850 – 28 June 1937), known as The Lord Shaw from 1909 to 1929, was a Scottish radical Liberal Party politician and judge. The son of Alexander Shaw of Dunfermline, Fife, Craigmyle was educated at the Dunfermline High School and at Edinburgh University. He was appointed an advocate in 1875 and became a Queen's Counsel in 1894. He gained an LLD from St Andrews University in 1902 and from the University of Aberdeen in 1906 and was also Hamilton Fellow in Mental Philosophy at Edinburgh University. Craigmyle sat as Member of Parliament (MP) for Hawick Burghs from 1892 to 1909 and served as Solicitor General for Scotland from 1894 to 1895 and as Lord Advocate from December 1905 to 1909. He resigned from parliament and ministerial office and was created a life peer as Baron Shaw, of Dunfermline in the County of Fife, on 20 February 1909, so that he could sit in the House of Lords and serve as a Lord of Appeal in Ordinary. He retired from this office in 1929 and was made an hereditary peer as Baron Craigmyle, of Craigmyle in the County of Aberdeen, on 7 Mar 1929. Lord Craigmyle married Elspeth, daughter of George Forrest, in 1879. He died in June 1937, aged 87, and was succeeded in the hereditary barony by his son Alexander. Lady Craigmyle died in 1939.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity14935",
+  "entityUrl" : "http://dbpedia.org/resource/R._Gregg_Cherry",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "R. Gregg Cherry" ]
+  },
+  "words" : [ "--", "June", "-LRB-", "25", "Cherry", "61st", "17", "Gregg", "1891", "Carolina", ",", ".", "Governor", "October", "Robert", "-RRB-", "North", "1949", "state", "1957", "1945" ],
+  "adjectives" : [ "61st" ],
+  "nouns" : [ "Governor", "state" ],
+  "text" : "Robert Gregg Cherry (October 17, 1891 – June 25, 1957) was the 61st Governor of the state of North Carolina from 1945 to 1949.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity15525",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Ferguson_(Carlisle_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Robert Ferguson" ]
+  },
+  "words" : [ "--", "Ferguson", "-LRB-", "September", "Liberal", "politician", "sat", "House", "Cumberland", ",", "April", ".", "1", "1898", "English", "1886", "1874", "Robert", "mill-owner", "Commons", "-RRB-", "antiquarian", "1817" ],
+  "adjectives" : [ "English", "Liberal", "antiquarian" ],
+  "nouns" : [ "mill-owner", "politician" ],
+  "text" : "Robert Ferguson (1 April 1817 – 1 September 1898) was an English mill-owner from Cumberland, antiquarian and Liberal politician, who sat in the House of Commons from 1874 to 1886.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity3864",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Holmes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Daniel Turner Holmes" ]
+  },
+  "words" : [ "Ayrshire", "Greenock", "-LRB-", "becoming", "Govan", "examiner", "Geneva", "died", "literature", "Margaret", "1953", "School", "1896", "Commons", "member", "1918", "North", "1955", "1911", "--", "British", "MP", "Liberal", "Academy", "assistant", "wrote", "House", "Daniel", "Grammar", ",", "April", ".", "Bournemouth", "educated", "1863", "Paisley", "University", "taught", "Turner", "7", "-RRB-", "London", "lectured", "Irvine", "Holmes", "married", "Eadie", "Paris" ],
+  "adjectives" : [ "Liberal", "assistant" ],
+  "nouns" : [ "literature", "MP", "member", "examiner" ],
+  "text" : "Daniel Turner Holmes (1863, Irvine, North Ayrshire – 7 April 1955, Bournemouth) was Liberal member of the British House of Commons from 1911 to 1918 for Govan. Daniel Turner Holmes was educated at the University of London, the University of Geneva and the University of Paris. He was an assistant examiner at the University of London, taught at Greenock Academy and Paisley Grammar School, and wrote and lectured on literature before becoming an MP. He married Margaret Eadie (died 1953) in 1896. Their daughter, Margaret, married William Wedgewood Benn in 1920, and the parliamentary connection continued in the following generation with Tony Benn.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity6753",
+  "entityUrl" : "http://dbpedia.org/resource/Hugh_Dalton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Hugh Dalton" ]
+  },
+  "words" : [ "rearmament", "John", "sterling", "Labour", "promoted", "Dalton", "foreign-policy", "Neale", "1938", "Minister", "--", "appeasement", "13", "crisis", "16", ",", "Chamberlain", "'s", ".", "August", "strongly", "served", "-RRB-", "1947", "wartime", "1945", "Chancellor", "-LRB-", "1930s", "Prime", "shaped", "German", "Churchill", "Edward", "mishandled", "Party", "pacifism", "coalition", "hard", "Baron", "February", "policy", "British", "opposed", "economist", "politician", "Hugh", "cheap", "1887", "PC", "1962", "Neville", "money", "Exchequer", "threat", "pushed", "cabinet" ],
+  "adjectives" : [ "British", "German", "cheap", "wartime" ],
+  "nouns" : [ "rearmament", "appeasement", "economist", "crisis", "politician", "sterling", "pacifism", "money", "foreign-policy", "coalition", "threat", "cabinet", "policy" ],
+  "text" : "Edward Hugh John Neale Dalton, Baron Dalton PC (16 August 1887 – 13 February 1962) was a British Labour Party economist and politician who served as Chancellor of the Exchequer from 1945 to 1947. He shaped Labour Party foreign-policy in the 1930s, opposed pacifism, promoted rearmament against the German threat, and strongly opposed the appeasement policy of Prime Minister Neville Chamberlain in 1938. He served in Churchill's wartime coalition cabinet. As Chancellor, he pushed his cheap money policy too hard, and mishandled the sterling crisis of 1947. Dalton's political position was already in jeopardy in 1947, when, he, seemingly inadvertently, revealed a sentence of the budget to a reporter minutes before delivering his budget speech. Prime Minister Clement Attlee accepted his resignation, but he later returned to the cabinet in relatively minor positions. His biographer Ben Pimlott characterised Dalton as peevish, irascible, given to poor judgment and lacking administrative talent. He also recognised that Dalton was a genuine radical and an inspired politician; a man, to quote his old friend and critic John Freeman, 'of feeling, humanity, and unshakeable loyalty to people which matched his talent.'",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity6815",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Jarvis_Raymond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Henry Jarvis Raymond" ]
+  },
+  "words" : [ "New", "Politiker", "24", "Raymond", "-LRB-", "York", "Juni", "Journalist", "bei", "ein", "Lima", "Jarvis", "Henry", "Januar", "US-amerikanischer", "†", "18", "war", "*", "und", "City", ",", ".", "1820", "-RRB-", ";", "1869" ],
+  "adjectives" : [ "Januar" ],
+  "nouns" : [ "war", "ein", "US-amerikanischer" ],
+  "text" : "Henry Jarvis Raymond (* 24. Januar 1820 bei Lima, New York; † 18. Juni 1869 in New York City) war ein US-amerikanischer Journalist und Politiker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity7102",
+  "entityUrl" : "http://dbpedia.org/resource/Harald_Ulrik_Sverdrup_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Harald Ulrik Sverdrup" ]
+  },
+  "words" : [ "de", "-LRB-", "Il", "est", "parti", "Norvège", "du", "Johan", "XIXe", "Balestrand", "un", "frère", "fondé", "devenu", "Ulrik", "été", "1813", "--", "ville", "membre", "politicien", "siècle", "maire", "1891", "Harald", "en", "ministre", "indépendant", ",", ".", "parlement", "Libéral", "et", "Premier", "Son", "1884", "la", "Sverdrup", "luthérien", "-RRB-", "le", "pasteur", "norvégien", "pays" ],
+  "adjectives" : [ "indépendant" ],
+  "nouns" : [ "Il", "siècle", "luthérien", "un", "pasteur", "frère", "fondé", "été", "parlement", "norvégien" ],
+  "text" : "Harald Ulrik Sverdrup (1813 – 1891) est un pasteur luthérien et politicien norvégien du XIXe siècle. Il a été maire de la ville de Balestrand et membre indépendant du parlement norvégien. Son frère, Johan Sverdrup a fondé le parti Libéral de Norvège et est devenu le Premier ministre du pays en 1884.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity13988",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_H._Dockery",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Oliver H. Dockery" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "bei", "Zwischen", "ein", "den", "County", "Dockery", "1830", "US-Repräsentantenhaus", "1871", "März", "North", "Rockingham", "Bundesstaat", "US-amerikanischer", "†", "12", "vertrat", "im", "Oliver", "Carolina", "war", "*", "und", ",", "er", ".", "August", "Baltimore", "-RRB-", "Hart", "1906", ";", "Maryland", "1868", "Richmond", "21" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Oliver Hart Dockery (* 12. August 1830 bei Rockingham, Richmond County, North Carolina; † 21. März 1906 in Baltimore, Maryland) war ein US-amerikanischer Politiker. Zwischen 1868 und 1871 vertrat er den Bundesstaat North Carolina im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity12017",
+  "entityUrl" : "http://dbpedia.org/resource/Meriwether_Lewis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Meriwether Lewis" ]
+  },
+  "words" : [ "leader", "data", "United", "collected", "nations", "Corps", "States", "President", "1774", "indigenous", "sovereignty", "claim", "near", "--", "11", "18", "Discovery", ",", "William", "European", ".", "establish", "August", "appointed", "Governor", "mission", "-RRB-", "explorer", "Country", "natives", "Meriwether", "Oregon", "-LRB-", "role", "American", "scientific", "best", "October", "administrator", "Clark", "public", "known", "Missouri", "River", "Thomas", "Upper", "Purchase", "explore", "1809", "politician", "Jefferson", "also", "Northwest", "trade", "soldier", "Pacific", "Lewis", "Louisiana", "Expedition", "information", "1806", "territory" ],
+  "adjectives" : [ "American", "public", "indigenous", "scientific", "European" ],
+  "nouns" : [ "leader", "Purchase", "role", "politician", "Governor", "administrator", "mission", "trade", "soldier", "explorer", "sovereignty", "information", "territory" ],
+  "text" : "Meriwether Lewis (August 18, 1774 – October 11, 1809) was an American explorer, soldier, politician, and public administrator, best known for his role as the leader of the Lewis and Clark Expedition, also known as the Corps of Discovery, with William Clark. Their mission was to explore the territory of the Louisiana Purchase, establish trade with, and sovereignty over the natives near the Missouri River, and claim the Pacific Northwest and Oregon Country for the United States before European nations. They also collected scientific data, and information on indigenous nations. President Thomas Jefferson appointed him Governor of Upper Louisiana in 1806. He died of gunshot wounds in what was either a murder or suicide, in 1809.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity12406",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Agnes_Hamilton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Mary Agnes Hamilton" ]
+  },
+  "words" : [ "--", "-LRB-", "MP", "Labour", ".", "Blackburn", "1931", "Agnes", "1884", "Hamilton", "8", "-RRB-", "1929", "July", "February", "Mary", "10", "1966" ],
+  "adjectives" : [ ],
+  "nouns" : [ "MP", "Labour" ],
+  "text" : "Mary Agnes Hamilton (8 July 1884 – 10 February 1966) was the Labour MP for Blackburn from 1929 to 1931.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity6471",
+  "entityUrl" : "http://dbpedia.org/resource/George_Lawson_Milne",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "George Lawson Milne" ]
+  },
+  "words" : [ "-LRB-", "Meaford", "Milne", "March", "political", "1898", "School", "Kinsman", "George", "1850", "came", "physician", "represented", "Assembly", "1857", "1933", "--", "13", "figure", "British", "Garmouth", "Victoria", "born", "19", "1890", "City", ",", "April", ".", "Lawson", "Nellie", "Medicine", "Canada", "educated", "Columbia", "1882", "-RRB-", "Legislative", "Morayshire", "Ontario", "married", "Scottish-born", "Toronto" ],
+  "adjectives" : [ "political", "Legislative", "Scottish-born" ],
+  "nouns" : [ "figure", "physician", "Assembly" ],
+  "text" : "George Lawson Milne (April 19, 1850 – March 13, 1933) was a Scottish-born physician and political figure in British Columbia. He represented Victoria City in the Legislative Assembly of British Columbia from 1890 to 1898. He was born in Garmouth, Morayshire, came to Canada in 1857 and was educated in Meaford, Ontario and at the Toronto School of Medicine. In 1882, he married Nellie Kinsman. Milne served as Health Officer and as a school trustee for Victoria. He also was federal medical inspector and immigration agent at Victoria and a justice of the peace. He ran unsuccessfully for a seat in the assembly in an 1889 by-election. In 1896, Milne was an unsuccessful candidate for a seat in the Canadian House of Commons. He died in Victoria at the age of 82.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity14197",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_V._McNutt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Paul V. McNutt" ]
+  },
+  "words" : [ "Manpower", "24", "-LRB-", "Federal", "American", "Indiana", "Commission", "March", "War", "Security", "Paul", "34th", "high", "administrator", "July", "commissioner", "1955", "McNutt", "--", "Agency", "Philippines", "politician", "19", "1891", "Depression", "chairman", "Vories", ",", ".", "Great", "Governor", "served", "ambassador", "-RRB-" ],
+  "adjectives" : [ "high", "American", "34th" ],
+  "nouns" : [ "Governor", "administrator", "politician", "ambassador", "chairman", "commissioner" ],
+  "text" : "Paul Vories McNutt (July 19, 1891 – March 24, 1955) was an American politician who served as the 34th Governor of Indiana during the Great Depression, high commissioner to the Philippines, administrator of the Federal Security Agency, chairman of the War Manpower Commission and ambassador to the Philippines.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity109",
+  "entityUrl" : "http://dbpedia.org/resource/Alfredo_Palacios",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sname" : [ "Alfredo Palacios" ]
+  },
+  "words" : [ "Buenos", "de", "-LRB-", "político", "argentino", "abogado", "abril", "socialista", "un", "Aires", "más", "10", "1878", "como", "agosto", "legislador", "Ramón", "Alfredo", "profesor", ",", "-", ".", "1965", "Lorenzo", "fue", "-RRB-", "conocido", "y", "Palacios", "20" ],
+  "adjectives" : [ ],
+  "nouns" : [ "abogado", "legislador", "fue", "un" ],
+  "text" : "Alfredo Lorenzo Ramón Palacios, más conocido como Alfredo Palacios (Buenos Aires, 10 de agosto de 1878 - 20 de abril de 1965) fue un abogado, legislador, político y profesor argentino socialista.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,111 @@
+[ {
+  "entityIndex" : "1_entity27198",
+  "entityUrl" : "http://dbpedia.org/resource/Sheffield_City_Region",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "England", "county", "sites", "northern", "three", "km2", "number", "four", "adding", "promotes", "defined", "area", "development", "metropolitan", "City", ",", ".", "population", "Derbyshire", "district", "Sheffield", "Region", ":", "region", "covering", "regions", "city", "regional", "document", "north", "districts", "Way", "centred", "eight", "1,819,500", "across", "2004", "Moving", "Northern", "Yorkshire", "covers", "3,517.84", "entirety", "Zone", "one", "South", "agencies", "also", "collaboration", "Nottinghamshire", "Enterprise", "Forward" ],
+  "adjectives" : [ "metropolitan", "regional", "northern" ],
+  "nouns" : [ "area", "development", "city", "entirety", "document", "north", "county", "population", "km2", "number", "collaboration", "district", "region" ],
+  "text" : "The Sheffield City Region is an area of England centred on Sheffield, with a population of 1,819,500 and covering an area of 3,517.84 km2 in 2004. It was one of eight city regions defined in the 2004 document Moving Forward: The Northern Way, as a collaboration between the three northern regional development agencies. It covers the entirety of the metropolitan county of South Yorkshire, and also adding four districts from north Derbyshire, and one district from northern Nottinghamshire. The Sheffield City Region Enterprise Zone promotes development in a number of sites across the region."
+}, {
+  "entityIndex" : "2_entity27623",
+  "entityUrl" : "http://dbpedia.org/resource/St._Mary,_Kentucky",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "89", "covering", "-LRB-", "city", "United", "2010", "St.", "County", "around", "miles", "States", "km2", "U.S.", "rule-class", "Division", "Mary", "--", "Co.", "Kentucky", "2,765", ",", ".", "home", "population", "34.3", "square", "Census", "-RRB-", "Marion", "Saint" ],
+  "adjectives" : [ "square", "rule-class" ],
+  "nouns" : [ "km2", "city", "home", "population" ],
+  "text" : "St. Mary is a home rule-class city in Marion County, Kentucky, in the United States. During the 2010 U.S. Census, the Saint Mary Division of Marion Co. – covering 34.3 square miles (89 km2) around the city – had a population of 2,765."
+}, {
+  "entityIndex" : "3_entity18496",
+  "entityUrl" : "http://dbpedia.org/resource/Ivano-Frankivsk_Municipality",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "surrounded", "Ivano-Frankivsk", "localities", "-LRB-", "city", "rural", "est.", "municipality", "raion", "251,509", "subdivision", "number", "Population", "Tysmenytsia", "within", "center", "Raion", "oblast", ",", ".", "Oblast", "2016", "administrative", "-RRB-", "located", "consists", ":", "completely" ],
+  "adjectives" : [ "administrative", "rural", "located" ],
+  "nouns" : [ "subdivision", "number", "city", "center", "municipality", "Raion", "oblast", "raion" ],
+  "text" : "Ivano-Frankivsk municipality is an administrative subdivision of the Ivano-Frankivsk Oblast located within the Tysmenytsia Raion and is completely surrounded by that raion. It consists of the city of Ivano-Frankivsk, the administrative center of the oblast, and a number of rural localities. Population: 251,509 (2016 est.)."
+}, {
+  "entityIndex" : "4_entity14684",
+  "entityUrl" : "http://dbpedia.org/resource/Chinatowns_in_Queens",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "spawning", "Chinatowns", "New", "Flushing", "Elmhurst", "eastern", "original", "York", "multiple", "inception", "borough", "City", "turn", ",", "hosted", ".", "Queens", "evolving", "identity", "initially", "Chinatown", "Manhattan", "Corona", "satellite" ],
+  "adjectives" : [ "eastern", "original", "multiple" ],
+  "nouns" : [ "identity", "inception", "borough", "satellite", "turn" ],
+  "text" : "There are multiple Chinatowns in the borough of Queens in New York City. Flushing hosted the inception of the original Queens Chinatown, initially as a satellite of the Manhattan Chinatown, before evolving its own identity and in turn spawning its own satellite Chinatowns in Elmhurst, Corona, and eastern Queens."
+}, {
+  "entityIndex" : "5_entity24864",
+  "entityUrl" : "http://dbpedia.org/resource/Petronia_City",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "friendly", "leading", "project", "World", "Wonda", "hosted", "beyond", "Mining", "Western", "companies", "wake", "Development", "sub-region", "fully", "needs", "development", "Takoradi", "sectors", "cater", "Estate", "Africa", "Petronia", "Ghana", "City", "mining", "'s", ",", ".", "expand", "Oil", "undertaken", "provide", "proposed", "Gas", "Region", "environmentally", "region", "District", "Beahun", "master-planned", "activity", "city", "financial", "industry", "integrated", "2007", "oil", "government", "2000-acre", "gap", "Yaabew", "gas", "subsequent", "said", "designed", "aims", "self-sufficient", "address", "business", "social", "West", "increase", "Ahanta", "hub", "approximately", "infrastructure", "discovery", "industries.The", "affiliate", "first", "8kilometres", "economic", "communities" ],
+  "adjectives" : [ "Western", "master-planned", "self-sufficient", "2000-acre", "social", "friendly", "financial", "subsequent", "first", "economic" ],
+  "nouns" : [ "development", "business", "activity", "city", "project", "industry", "mining", "increase", "Mining", "Oil", "wake", "oil", "government", "hub", "infrastructure", "discovery", "gap", "Gas", "industries.The", "gas", "Region", "sub-region", "affiliate", "region" ],
+  "text" : "Petronia City is a 2000-acre master-planned city development project that aims to provide the first fully integrated business hub for West Africa’s Oil, Gas and Mining industries.The proposed development is being undertaken by Wonda World Estate Development and the Petronia City Development affiliate. The said project is being hosted by Beahun and Yaabew communities in the Ahanta West District of the Western Region of Ghana, approximately 8kilometres from Takoradi. Petronia City is a self-sufficient and environmentally friendly city designed to address the infrastructure gap in the Western Region in the wake of the 2007 oil discovery and subsequent increase in social and economic activity in the region. Petronia City will cater to the needs of the oil and gas, mining, financial and government sectors and will provide a hub from which industry leading companies can expand into the sub-region and beyond. The project, conceived by Nana Kwame Bediako, the CEO of Wonda world estate and Petronia City Development Company Limited, kicked off in October 2013 and will unroll in phases over the next 10 years. Upon completion, the city will house approximately 30,000 residents and will include commercial, residential, civic, industrial, educational, and recreational facilities, providing a unique live, work, play and learn experience in West Africa."
+}, {
+  "entityIndex" : "6_entity21955",
+  "entityUrl" : "http://dbpedia.org/resource/Manchester,_Richmond,_Virginia",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "capital", "independent", "city", "south", "line", "part", "north", "United", "county", "County", "States", "receiving", "1876", "bank", "later", "known", "fall", "1870", "Manastoh", "River", "state", "side", "Rocky", "James", "opposite", ",", "former", ".", "seat", "Today", "Prior", "served", "Originally", "Manchester", "located", "river", "Virginia", "status", "Chesterfield", "Richmond", "Ridge" ],
+  "adjectives" : [ "independent", "south", "north", "former" ],
+  "nouns" : [ "capital", "side", "city", "line", "part", "county", "seat", "Today", "bank", "fall", "state", "river", "status" ],
+  "text" : "Manchester, Virginia is a former independent city in Virginia in the United States. Prior to receiving independent status, it served as the county seat of Chesterfield County, between 1870 and 1876. Today, it is a part of the city of Richmond, Virginia. Originally known as Manastoh and later Rocky Ridge, it was located on the south bank of the James River at the fall line opposite the state capital city of Richmond, on the north side of the river. Manchester was an active port city, and was a port of entry for slave ships principally in the 18th century. The port shipped out tobacco and coal which was transported 13 miles overland from the Midlothian-area mines on the Midlothian Turnpike, first paved toll road in Virginia in 1807, and the Chesterfield Railroad, the state's first in 1831. Manchester became an incorporated town in 1769 and an independent city in 1874. In 1910, it merged by mutual agreement with the larger state capital City of Richmond, achieving another \"first\" as the earliest of Virginia's independent cities to lose its identity. In modern times, \"Old Manchester\" is considered a neighborhood of Richmond. Many vestiges of its past are clearly visible, notably the courthouse, the Hull Street business district, a number of historic houses, and several former railroad and street railway buildings. As part of the community's African American heritage, a \"slave trail\" traces the route into the downtown area from where the slave ships are believed to have docked along the river. Interstate 95, and four other major highways, U.S. Routes 1, 60, 301 and 360 all cross the James River and enter downtown Richmond from Manchester."
+}, {
+  "entityIndex" : "7_entity20717",
+  "entityUrl" : "http://dbpedia.org/resource/Liverpool_City_Region",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "incorporates", "St", "wider", "Depending", "Helens", "city", "Authority", "England", "districts", "political", "used", "body", "local", "centred", "Since", "definition", "definitions", "area", "Liverpool", "Halton", "also", "Knowsley", "City", ",", "'s", ".", "April", "Wirral", "population", "exist", "1", "top-tier", "million", "2014", "administrative", "authority", "2.3", "1.5", "Region", "region", "Combined", "economic", "Sefton", "become", "governance" ],
+  "adjectives" : [ "top-tier", "administrative", "political", "economic", "local" ],
+  "nouns" : [ "area", "city", "authority", "definition", "region", "body", "population", "governance" ],
+  "text" : "The Liverpool City Region is an economic and political area of England centred on Liverpool, which also incorporates the local authority districts of Halton, Knowsley, Sefton, St Helens, and Wirral. Other, wider, definitions of the city region also exist. Depending on the definition used, the region's population is between about 1.5 million and 2.3 million. Since 1 April 2014, the Liverpool City Region Combined Authority has become the top-tier administrative body for the local governance of the city region. Through the combined authority, the six districts pool their responsibilities over strategic policy areas such as economic development, transport, employment and skills, tourism, culture, housing, and physical infrastructure. The region's economic development is also supported by the Liverpool City Region Local Enterprise Partnership (LEP), established in 2010 as the private sector-led board comprising political and business leaders from around the city region."
+}, {
+  "entityIndex" : "8_entity15193",
+  "entityUrl" : "http://dbpedia.org/resource/Digha",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "town", "Bengal", "West", "gradient", ",", "northern", "Midnapore", ".", "sea", "India", "sand", "Digha", "seaside", "low", "district", "beach", "lies", "end", "shallow", "state", "Bay", "resort", "East", "popular" ],
+  "adjectives" : [ "seaside", "low", "shallow", "northern", "popular" ],
+  "nouns" : [ "sand", "town", "district", "gradient", "beach", "end", "state", "resort", "sea" ],
+  "text" : "Digha is a seaside resort town in the state of West Bengal, India. It lies in East Midnapore district and at the northern end of the Bay of Bengal. It has a low gradient with a shallow sand beach . It is the most popular sea resort in the West Bengal."
+}, {
+  "entityIndex" : "9_entity15395",
+  "entityUrl" : "http://dbpedia.org/resource/Dooradoyle",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "suburbs", "-LRB-", "estates", "housing", "Dooradoyle", "Dáill", "Ireland", "Limerick", "Shopping", "Hospital", "class", "area", "middle", "large", "campus", "settled", "one", "lower", "varied", ",", "'s", "Centre", ".", "Irish", "home", "newer", "ranging", "University", "Crescent", "Tuar", "council", "-RRB-", "suburb", ":", "demographics" ],
+  "adjectives" : [ "middle", "large", "Irish" ],
+  "nouns" : [ "area", "housing", "Dooradoyle", "campus", "council", "suburb", "Dáill", "class", "home" ],
+  "text" : "Dooradoyle (Irish: Tuar an Dáill) is a large suburb of Limerick, Ireland. It is one of Limerick's newer suburbs, and is home to the campus of University Hospital Limerick and the Crescent Shopping Centre. The demographics of the area are varied, ranging from council housing to more settled, lower middle class estates."
+}, {
+  "entityIndex" : "10_entity29632",
+  "entityUrl" : "http://dbpedia.org/resource/Wagan_City",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:coordinatesFormat" : [ "dms" ]
+  },
+  "words" : [ "-LRB-", "city", "28", "nowadays", "renowned", "beautiful", "Pakistan", "Wagan", "Larkana", "km", "Nadeem", "town", "Shahdadkot", "Indus", "Highway", "وڳڻ", "City", "Activist", ".", "home", "Sindhi", "Qamber", "Civil", "Imdad", "district", "-RRB-", "located", ":", "Society", "present", "District", "شھر", "Sindh", "Ali" ],
+  "adjectives" : [ "beautiful", "Civil", "located", "present" ],
+  "nouns" : [ "km", "town", "city", "district", "home" ],
+  "text" : "Wagan City (Sindhi: وڳڻ شھر‎) is a beautiful city of Larkana District in Sindh and home town of Nadeem Imdad Ali Wagan renowned Civil Society Activist of Pakistan. It is located on the Indus Highway 28 km from Larkana nowadays it is present in Qamber Shahdadkot district City."
+} ]

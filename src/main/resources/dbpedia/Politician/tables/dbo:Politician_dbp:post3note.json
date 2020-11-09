@@ -1,0 +1,85 @@
+[ {
+  "entityIndex" : "1_entity10713",
+  "entityUrl" : "http://dbpedia.org/resource/Kelly_Lamrock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post3note" : [ "new designation" ]
+  },
+  "words" : [ "Fredericton-Fort", "New", "-LRB-", "Canadian", "Lamrock", "province", "1970", "member", "Development", "Nashwaak", "February", "lawyer", "Assembly", "Minister", "Social", "Brunswick", "Liberal", "born", "politician", ",", ".", "Kelly", "Canada", "5", "-RRB-", "Legislative", "cabinet" ],
+  "adjectives" : [ "Canadian", "Liberal", "Legislative" ],
+  "nouns" : [ "province", "politician", "member", "cabinet", "lawyer", "Assembly" ],
+  "text" : "Kelly Lamrock (born February 5, 1970) is a Canadian lawyer and politician in the province of New Brunswick, Canada. He was a Liberal member of the Legislative Assembly of New Brunswick for Fredericton-Fort Nashwaak, and Minister of Social Development in the New Brunswick cabinet.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity1626",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Lord",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post3note" : [ "Mockler was designated as", "Minister of Intergovernmental and International Relations" ]
+  },
+  "words" : [ "New", "ONB", "-LRB-", "September", "27", "Canadian", "30th", "QC", "2006", "lobbyist", "1999", "Brunswick", "chair", "born", "politician", ",", ".", "1965", "appointed", "Lord", "Premier", "Generation", "2014", "served", "-RRB-", "Bernard", "Ontario", "Power" ],
+  "adjectives" : [ "Canadian", "30th" ],
+  "nouns" : [ "chair", "politician", "lobbyist" ],
+  "text" : "Bernard Lord, ONB, QC, (born September 27, 1965) is a Canadian politician and lobbyist. Lord served as the 30th Premier of New Brunswick from 1999 to 2006. Lord was appointed chair of Ontario Power Generation in 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity12099",
+  "entityUrl" : "http://dbpedia.org/resource/Marie_Bountrogianni",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post3note" : [ "Also Responsible for Democratic Renewal" ]
+  },
+  "words" : [ "Ryerson", "Bountrogianni", "-LRB-", "Raymond", "G.", "Governors", "Royal", "President", "December", "School", "government", "Chang", "Education", "Dalton", "member", "psychologist", "1956", "Assembly", "10", "educational", "Executive", "McGuinty", "minister", "Liberal", "born", "Provincial", "Director", ",", "Dean", "Continuing", ".", "former", "Marie", "ROM", "Premier", "University", "-RRB-", "Museum", "Legislative", "Ontario", "cabinet", "Parliament" ],
+  "adjectives" : [ "educational", "Liberal", "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "member", "psychologist", "cabinet", "Assembly" ],
+  "text" : "Marie Bountrogianni (born December 10, 1956) is the Dean of The G. Raymond Chang School of Continuing Education at Ryerson University. She is an educational psychologist, former President and Executive Director of ROM (Royal Ontario Museum) Governors, and former member of Provincial Parliament. She was a member of the Legislative Assembly of Ontario, and a cabinet minister in the government of Liberal Premier Dalton McGuinty.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity12402",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Schryer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post3note" : [ "McGinley was 'Minister of State for Housing'" ]
+  },
+  "words" : [ "homonymes", "que", "de", "politique", "est", "financière", "du", "ainsi", "voir", "Nouveau-Brunswick", "canadienne", "anciennement", "Pour", "les", "Quispamsis", "libérale", "Mary", "à", "conseillère", "Schryer", "femme", "ministre", ",", "une", ".", "et", "députée", "législative", "l'Assemblée", "articles" ],
+  "adjectives" : [ "législative", "une" ],
+  "nouns" : [ "financière", "l'Assemblée", "conseillère", "anciennement", "ministre", "députée" ],
+  "text" : "Pour les articles homonymes, voir Schryer. Mary Schryer est une conseillère financière et une femme politique canadienne, anciennement députée libérale de Quispamsis à l'Assemblée législative du Nouveau-Brunswick ainsi que ministre.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity12439",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Chan_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post3note" : [ "Minister of Tourism and Culture before 2011" ]
+  },
+  "words" : [ "-LRB-", "Chén", "riding", "governments", "represents", "Chan", "2007", "1951", "Markham-Unionville", "Michael", "Dalton", "member", "陈国治", "Assembly", "Kathleen", "Wynne", "McGuinty", "minister", "Liberal", "born", "politician", "c.", ",", ".", "Guózhì", "elected", "Canada", "traditional", "pinyin", "simplified", "served", "-RRB-", "Chinese", "Legislative", ":", ";", "陳國治", "Ontario", "cabinet" ],
+  "adjectives" : [ "traditional", "Liberal", "Legislative" ],
+  "nouns" : [ "pinyin", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Michael Chan (traditional Chinese: 陳國治; simplified Chinese: 陈国治; pinyin: Chén Guózhì) (born c. 1951) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2007. He represents the riding of Markham-Unionville. He has served as a cabinet minister in the governments of Dalton McGuinty and Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity5159",
+  "entityUrl" : "http://dbpedia.org/resource/Frances_Lankin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post3note" : [ "Also Responsible for telecommunications." ]
+  },
+  "words" : [ "Intelligence", "United", "MPP", "Security", "Lankin", "Bob", "review", "Minister", "Frances", "minister", "16", "18", "Senator", "1990", ",", "CEO", "April", "former", ".", "appointed", "Senate", "-RRB-", "Ontario", "Toronto", "Trudeau", "-LRB-", "Prime", "Canadian", "advice", "2012", "March", "2010", "Review", "assistance", "Committee", "Way", "1954", "2009", "government", "1995", "member", "commission", "NDP", "Justin", "social", "born", "CM", "co-chaired", "PC", "2016", "Rae", "cabinet", "president" ],
+  "adjectives" : [ "Canadian", "social", "former" ],
+  "nouns" : [ "minister", "advice", "CM", "CEO", "MPP", "assistance", "government", "review", "member", "commission", "NDP", "cabinet", "president" ],
+  "text" : "Frances Lankin, PC CM (born April 16, 1954), is a Canadian Senator and former president and CEO of United Way Toronto, and a former Ontario MPP and cabinet minister in the NDP government of Bob Rae between 1990 and 1995. From 2010 to 2012, she co-chaired a government commission review of social assistance in Ontario. From 2009 to 2016, she was a member of the Security Intelligence Review Committee. Lankin was appointed to the Senate on March 18, 2016 on the advice of Prime Minister Justin Trudeau.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity14408",
+  "entityUrl" : "http://dbpedia.org/resource/Pearl_Calahasen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post3note" : [ "Iris Evans was given the title \"Minister of Children's Services\" rather than being considered a minister without portfolio." ]
+  },
+  "words" : [ "MLA", "Alberta", "electoral", "Lake", "office", "without", "December", "Aboriginal", "Development", "represented", "Assembly", "Minister", "minister", "positions", ",", "'s", "currently-serving", ".", "former", "Pearl", "Progressive", "elected", "5", "district", "-RRB-", "1989", "party", "-LRB-", "woman", "longest", "Canadian", "2012", "Métis", "holding", "1952", "Lesser", "public", "Northern", "member", "Children", "charge", "election", "Affairs", "born", "politician", "Portfolio", "Services", "Slave", "2015", "Conservative", "Calahasen", "Legislative", "Associate", "cabinet", "first" ],
+  "adjectives" : [ "public", "Canadian", "electoral", "Legislative", "currently-serving", "former", "first" ],
+  "nouns" : [ "charge", "woman", "election", "MLA", "minister", "politician", "office", "district", "member", "Calahasen", "cabinet", "Assembly", "party" ],
+  "text" : "Pearl Calahasen (born December 5, 1952) is a Canadian politician, who represented the electoral district of Lesser Slave Lake in the Legislative Assembly of Alberta from 1989 to 2015. A member of the Progressive Conservative party and former cabinet minister (holding the positions of Minister without Portfolio in charge of Children's Services, Associate Minister of Aboriginal Affairs, and Minister of Aboriginal Affairs and Northern Development). Calahasen was the first Métis woman elected to public office in Alberta, and after the 2012 Alberta election, she was Alberta's longest currently-serving MLA.",
+  "patterns" : { }
+} ]

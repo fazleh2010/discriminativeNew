@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity8593",
+  "entityUrl" : "http://dbpedia.org/resource/Jeffrey_Wood",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:statesurge" : [ "75535" ]
+  },
+  "words" : [ "-LRB-", "September", "independent", "2011", "Republican", "later", "2002", "member", "Wisconsin", "Assembly", "ran", "Jeffrey", "12", "Wood", "born", "representing", ",", "67th", ".", "elected", "State", "district", "-RRB-", "1969", "Juneau" ],
+  "adjectives" : [ "later", "independent", "Republican", "67th" ],
+  "nouns" : [ "district", "member" ],
+  "text" : "Jeffrey Wood (born September 12, 1969 in Juneau, Wisconsin) was an independent member of the Wisconsin State Assembly representing the 67th district from 2002 to 2011. He was elected as a Republican and later ran as an independent.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "1_entity25709",
+  "entityUrl" : "http://dbpedia.org/resource/Rupnarayanpur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:areaRank" : [ "95" ]
+  },
+  "words" : [ "Footballer", "-LRB-", "prominent", "called", "office", "Rupnarayanpur", "Asansol", "Hindusthan", "Paul", "Salanpur", "post", "Town", "Chittaranjan", "Bardhaman", "company", "state", "Hindustan", "area", "sports", "Bengal", "West", "stations", ",", "'s", "many", ".", "Cables", "/", "persons", "police", "district", "-RRB-", "suburb", "Indian", "Swapan", "PO" ],
+  "adjectives" : [ "prominent", "Indian", "many", "Hindusthan" ],
+  "nouns" : [ "area", "police", "post", "district", "suburb", "company", "state", "office", "Rupnarayanpur", "Asansol" ],
+  "text" : "Rupnarayanpur (Hindusthan Cables Town) is a suburb of Asansol under Salanpur/ Chittaranjan police stations, in Bardhaman district in the Indian state of West Bengal. The post office on the company's area is called Hindustan Cables PO. Rupnarayanpur has many prominent sports persons such as Swapan Paul (Footballer)."
+}, {
+  "entityIndex" : "2_entity25714",
+  "entityUrl" : "http://dbpedia.org/resource/Rajesultanpur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:areaRank" : [ "5" ]
+  },
+  "words" : [ "Sultanpur", "Uttar", "town", "Ambedkar", "Raje", ".", "Rajesultanpur", "Panchayat", "Pradesh", "district", "Indian", "state", "Nagar" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "Rajesultanpur", "town", "district", "state" ],
+  "text" : "Rajesultanpur or Raje Sultanpur is a town and Nagar Panchayat in Ambedkar Nagar district in the Indian state of Uttar Pradesh."
+}, {
+  "entityIndex" : "3_entity17061",
+  "entityUrl" : "http://dbpedia.org/resource/Godavarikhani",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:areaRank" : [ "5" ]
+  },
+  "words" : [ "income", "inhabitants", "mostly", "-LRB-", "city", "Telangana", "provided", "main", "source", "Peddapalli", "River", "hence", "state", "popular", "Godavari", "SCCL", "wage", "banks", ",", ".", "Khani", "controlled", "mines", "Godavarikhani", "district", "name", "-RRB-", "Indian", "located", "coal", "=" ],
+  "adjectives" : [ "Indian", "located", "main", "=", "popular" ],
+  "nouns" : [ "income", "city", "Telangana", "district", "name", "coal", "state", "source", "SCCL", "wage" ],
+  "text" : "Godavarikhani is a city in Peddapalli district of the Indian state of Telangana state. It is located on the banks of Godavari River and hence, the name Godavari Khani (Khani=mines). This city is popular for its coal mines, controlled mostly by SCCL. The main source of income for most of the inhabitants is the wage provided by SCCL."
+}, {
+  "entityIndex" : "4_entity24839",
+  "entityUrl" : "http://dbpedia.org/resource/Puthanathani",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:areaRank" : [ "10" ]
+  },
+  "words" : [ "66", "-LRB-", "Roads", "city", "Thirunavaya", "Tirur", "seen", "തനത", "Vailathur", "National", "Kottakkal", "Valanchery", "lies", "hence", "Puthanathani", "state", "പുത", "Kerala", "Malayalam", "town", "Highway", "also", ",", ".", "India", "Malappuram", "district", "-RRB-", ":", "താണി" ],
+  "adjectives" : [ ],
+  "nouns" : [ "town", "city", "district", "താണി", "state" ],
+  "text" : "Puthanathani (Malayalam: പുത്തനത്താണി) is a city in Malappuram district in the state of Kerala, India. The town lies on the National Highway 66 (India), between Kottakkal and Valanchery. Roads to Vailathur (and hence Tirur) and Thirunavaya also can be seen in Puthanathani."
+}, {
+  "entityIndex" : "5_entity11557",
+  "entityUrl" : "http://dbpedia.org/resource/Alattiyur,_Malappuram",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:areaRank" : [ "1" ]
+  },
+  "words" : [ "Ponnani", "-LRB-", "south", "Important", ".5", "Bhattathiri", "Tirur", "temple-1", "Alathiyur", "1237", "road", "legendary", "village", "India.Alathiyur", "kavu-1", "Kerala", "km", "figure", "CE", "Govinda", "taluk", "born", "towards", ",", ".", "Hanuman", "Malappuram", "places", "ponnani-14", "siva", "traditions", "Nearest", "6", "Tirur-6", "district", "-RRB-", "located", "temple", "astrological", "Triprangode" ],
+  "adjectives" : [ "legendary", "Important", "located", "astrological" ],
+  "nouns" : [ "km", "figure", "CE", "taluk", "south", "temple-1", "ponnani-14", "siva", "road", "district", "temple", "village", "Triprangode", "kavu-1" ],
+  "text" : "Alathiyur is a village in the Tirur taluk of Malappuram district, Kerala, India.Alathiyur is located 6 km south of Tirur on the road towards Ponnani. Govinda Bhattathiri, a legendary figure in the Kerala astrological traditions, was born in this village in 1237 CE. Nearest places Tirur-6 km ponnani-14 km Triprangode siva temple-1.5 km (Important temple) Alathiyur Hanuman kavu-1.5 km (Important temple)"
+}, {
+  "entityIndex" : "6_entity19964",
+  "entityUrl" : "http://dbpedia.org/resource/Kaljawade",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:areaRank" : [ "area_total_km2" ]
+  },
+  "words" : [ "Kolhapur", "Kaljawade", "district", "village", "Maharashtra", ",", ".", "India" ],
+  "adjectives" : [ ],
+  "nouns" : [ "district", "village" ],
+  "text" : "Kaljawade is a village in the Kolhapur district of Maharashtra, India."
+} ]

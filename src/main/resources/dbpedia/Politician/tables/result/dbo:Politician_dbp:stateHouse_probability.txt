@@ -1,0 +1,8 @@
+id=60  property=dbp:stateHouse  object=North Carolina  NumberOfEntitiesFoundForObject=73
+assembly-NN  multiply=0.64003  P(assembly|object)=0.794521  P(object|assembly)=0.805556    
+general-JJ  multiply=0.603607  P(general|object)=0.808219  P(object|general)=0.746835    
+
+id=61  property=dbp:stateHouse  object=Oregon  NumberOfEntitiesFoundForObject=39
+politician-NN  multiply=0.245499  P(politician|object)=0.769231  P(object|politician)=0.319149    
+state-NN  multiply=0.172315  P(state|object)=0.794872  P(object|state)=0.216783    
+

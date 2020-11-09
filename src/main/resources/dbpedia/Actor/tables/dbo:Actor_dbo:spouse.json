@@ -1,0 +1,485 @@
+[ {
+  "entityIndex" : "1_entity14494",
+  "entityUrl" : "http://dbpedia.org/resource/Rayson_Tan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Chen_Liping" ]
+  },
+  "words" : [ "Tan", "eunuch", "-LRB-", "Singaporean", "陈泰铭", "television", "roles", "several", "best", ".", "actor", "MediaCorp", "known", "Rayson", "series", "-RRB-", "Chinese", ":" ],
+  "adjectives" : [ "Singaporean", "several" ],
+  "nouns" : [ "actor", "MediaCorp", "eunuch", "television", "series" ],
+  "text" : "Rayson Tan (Chinese: 陈泰铭) is a Singaporean MediaCorp actor. He is best known for his eunuch roles in several television series."
+}, {
+  "entityIndex" : "2_entity14538",
+  "entityUrl" : "http://dbpedia.org/resource/Richenda_Carey",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Nigel_Stock_(actor)" ]
+  },
+  "words" : [ "Justice", "mostly", "Separate", "-LRB-", "Richenda", "roles", "England", "episode", "Glen", "theatre", "Criminal", "2009", "appeared", "known", "sitcom", "Bitton", "Chalk", "July", "Coward", "actress", "British", "television", "recently", "wife", "born", "Monarch", "Calendar", "Noël", "South", "film", ",", "Gloucestershire", ".", "Girls", "Lies", "Nigel", "actor", "English", "third", "Carey", "Theatre", "-RRB-", "1948", "Crush", "Stock", "Jeeves", "Wooster" ],
+  "adjectives" : [ "English", "Separate", "British", "third" ],
+  "nouns" : [ "theatre", "actor", "actress", "television", "wife", "sitcom", "episode", "film", "Chalk" ],
+  "text" : "Richenda Carey (born 1948 in Bitton, South Gloucestershire, England) is an English theatre, television and film actress, who is mostly known for her roles in Monarch of the Glen, Jeeves and Wooster, Crush and most recently, Separate Lies and Criminal Justice. She appeared in an episode of the sitcom Chalk. She was the third wife of British actor Nigel Stock. From July 2009 she appeared in Calendar Girls at the Noël Coward Theatre."
+}, {
+  "entityIndex" : "3_entity14556",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Saire",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Roger_Allam" ]
+  },
+  "words" : [ "actress", "British", "BBC", "-LRB-", "16", "Shakespeare", "Rebecca", "born", ",", "played", "April", ".", "fourteen", "Saire", "1963", "Television", "gained", "series", "-RRB-", "attention", "writer", "Juliet", "early", "age" ],
+  "adjectives" : [ "British", "early" ],
+  "nouns" : [ "actress", "series", "attention", "writer", "age" ],
+  "text" : "Rebecca Saire (born 16 April 1963) is a British actress and writer who gained early attention when, at the age of fourteen, she played Juliet for the BBC Television Shakespeare series."
+}, {
+  "entityIndex" : "4_entity14663",
+  "entityUrl" : "http://dbpedia.org/resource/Roland_Hedlund",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Lisa_Bergström_(actress)" ]
+  },
+  "words" : [ "-LRB-", "role", "Ådalen", "Swedish", "award", "appeared", "shows", "won", "Actor", "Best", "Guldbagge", "February", "31", "1933", "1955", "films", "television", "born", "Hedlund", "6th", "film", ".", "actor", "Awards", "Roland", "-RRB-", "60", "1969", "20", "since" ],
+  "adjectives" : [ "6th", "Swedish" ],
+  "nouns" : [ "actor", "role", "award", "television", "Actor", "film" ],
+  "text" : "Roland Hedlund (born 20 February 1933) is a Swedish actor. For his role in the 1969 film Ådalen 31 he won the Best Actor award at the 6th Guldbagge Awards. He has appeared in more than 60 films and television shows since 1955."
+}, {
+  "entityIndex" : "5_entity14245",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Maynard",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Dennis_Waterman" ]
+  },
+  "words" : [ "-LRB-", "circuit", "Patricia", "Dennis", "Maynard", "England", "Griggs", "two", "second", "daughters", "judge", "February", "actress", "British", "16", "wife", "West", "born", "one", "Hannah", "South", ",", ".", "actor", "1942", "Jeremy", "-RRB-", "Waterman", "married" ],
+  "adjectives" : [ "British", "second" ],
+  "nouns" : [ "actor", "actress", "circuit", "wife", "judge" ],
+  "text" : "Patricia Maynard (born 16 February 1942) is a British actress. She was the second wife of actor Dennis Waterman, and they have two daughters, one of whom is the actress Hannah Waterman. She is now married to Jeremy Griggs, a circuit judge in the South West of England."
+}, {
+  "entityIndex" : "6_entity14263",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Lindgren_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Marianne_Nielsen" ]
+  },
+  "words" : [ "``", "Lidingö", "-LRB-", "role", "May", "Curious", "Edvin", "roles", "part", "father", "Lindgren", "16th", "Swedish", "Nielsen", "December", "award", "won", "Actor", "1915", "Best", "Guldbagge", "30", "--", "''", "include", "actress", "13", "Blue", "Lena", ",", "many", "'s", ".", "Monica", "actor", "Awards", "Yellow", "1981", "-RRB-", "Peter", "Marianne", "Maria", "1968", "1967" ],
+  "adjectives" : [ "Curious", "Yellow", "Blue", "many", "16th", "Swedish" ],
+  "nouns" : [ "actor", "actress", "award", "role", "part", "father", "Actor" ],
+  "text" : "Peter Edvin Lindgren (13 December 1915, Lidingö – 30 May 1981) was a Swedish actor. His many roles include the part of \"Lena's father\" in I Am Curious (Yellow) (1967) and I Am Curious (Blue) (1968). He won the award for Best Actor at the 16th Guldbagge Awards for his role in I Am Maria. He was the father (with actress Marianne Nielsen) of actress Monica Nielsen."
+}, {
+  "entityIndex" : "7_entity14302",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Bazely",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Charlotte_Jones_(writer)" ]
+  },
+  "words" : [ "Vanity", "TV", "Wives", "Pirates", "episode", "Tides", "appeared", "Holby", "members", "Making", "celebrate", "comedy", "made", "Youth", "City", "film", ",", ".", "Troy", "Doctors", "Heartbeat", "Theatre", "Matthew", ":", "birthday", "pirate", "Wright", "best", "Paul", "current", "perhaps", "known", "credits", "50th", "member", "Footballers", "performances", "Wardrobe", "Salaman", "include", "Widow", "Organisation", "Fair", "recently", "joined", "Benidorm.His", "Crowd", "also", "Doctor", "stars", "actor", "English", "Stranger", "appearance", "performance", "Croydon", "watch", "series", "Bazely", "starring", "Caribbean" ],
+  "adjectives" : [ "English", "current", "50th" ],
+  "nouns" : [ "birthday", "TV", "pirate", "comedy", "Crowd", "episode", "Doctor", "film", "actor", "appearance", "performance", "series", "member" ],
+  "text" : "Paul Bazely is an English actor, perhaps best known for his performances as Troy in the comedy series Benidorm.His other TV credits include: Making Out, Heartbeat, Doctors, Holby City, Vanity Fair, The IT Crowd, Footballers Wives and, more recently, in the Doctor Who episode, The Doctor, the Widow and the Wardrobe. Bazely has also appeared in the film Pirates of the Caribbean: On Stranger Tides as the pirate Salaman. Paul was a member of Croydon Youth Theatre Organisation and recently made an appearance to celebrate its 50th birthday. He was joined by other stars such as Matthew Wright to watch a performance starring its current members. He now resides in Brighton."
+}, {
+  "entityIndex" : "8_entity14308",
+  "entityUrl" : "http://dbpedia.org/resource/Priscelia_Chan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Alan_Tern" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "works", "two", "English-language", "Chan", "known", "host", "Priscelia", "actress", "Chinese-language", "television", "Channel", "also", ",", "-", ".", "Zeng", "Mei", "Shimei", "MediaCorp", "Shih", "channels", "5", "name", "-RRB-", "8", "Chinese", ";", "family" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actress", "English-language", "Chinese-language", "television", "name", "host", "family" ],
+  "text" : "(This is a Chinese name; the family name is Chan.) Priscelia Chan Shih Mei, also known as Zeng Shimei, is a Singaporean television actress and host who works on two channels of MediaCorp - Channel 8 (Chinese-language) and Channel 5 (English-language)."
+}, {
+  "entityIndex" : "9_entity14333",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Plunkett",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Tim_Turner" ]
+  },
+  "words" : [ "Pick-Up", "Googie", "Patricia", "leading", "Rains", "December", "1974", "hit", "character", "appeared", "step-daughter", "Shelley", "Sandigate", "Girl", "--", "actress", "12", "films", "13", "17", "Streatham", ",", ".", "Ruth", "dramatist", "Sunday", "-RRB-", "London", "Always", "1947", "1946", "Withers", "-LRB-", "role", "trained", "American", "probably", "roles", "Rose", "RADA", "best", "October", "known", "supporting", "early", "Doris", "Plunkett", "English", "stage", "Elsa", "Born", "1926" ],
+  "adjectives" : [ "English", "American", "early" ],
+  "nouns" : [ "actress", "character", "role", "stage", "Pick-Up", "dramatist", "Plunkett", "step-daughter" ],
+  "text" : "Patricia Ruth Plunkett (17 December 1926 – 13 October 1974) was an English actress. Born in Streatham, London, she trained at RADA and had an early stage hit in Pick-Up Girl (1946) by the American dramatist Elsa Shelley. Plunkett appeared in 12 films, in supporting roles. The best known of these is probably It Always Rains on Sunday (1947), in which her character, Doris Sandigate, is the step-daughter of Rose (Googie Withers), the leading role. Her husband was the actor Tim Turner (died 1987)."
+}, {
+  "entityIndex" : "10_entity14344",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Murray-Hill",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Phyllis_Calvert" ]
+  },
+  "words" : [ "--", "actress", "Hill", "-LRB-", "25", "death", "1908", "Murray", ",", "Phyllis", "April", ".", "Calvert", "actor", "English", "1941", "-RRB-", "Auriol", "publisher", "Peter", "1957", "married", "20", "November" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "actor", "actress", "death", "publisher" ],
+  "text" : "Peter Auriol Murray Hill (20 April 1908 – 25 November 1957) was an English actor, and publisher  He was married to the actress Phyllis Calvert from 1941 until his death."
+}, {
+  "entityIndex" : "11_entity12034",
+  "entityUrl" : "http://dbpedia.org/resource/Gillian_Blake",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Peter_Whitbread" ]
+  },
+  "words" : [ "Follyfoot", "became", "career", "-LRB-", "Guildhall", "May", "Blake", "additional", "roles", "England", "Mr.", "professional", "School", "appeared", "known", "late", "retired", "1960s", "early", "10", "1970s", "actress", "British", "went", "began", "studied", "Chips", "television", "born", "perform", "film", ",", ".", "Drama", "Music", "-RRB-", "well", "1949", "Dora", "1969", "Buckingham", "Goodbye", "Gillian", "acting" ],
+  "adjectives" : [ "British", "late", "additional", "retired", "early", "professional" ],
+  "nouns" : [ "actress", "career", "television", "film" ],
+  "text" : "Gillian Blake (born 10 May 1949), Buckingham, England is a retired British actress who became well known in the early 1970s as Dora in Follyfoot. Blake studied acting at the Guildhall School of Music and Drama and began her professional career in the late 1960s. She appeared in the 1969 film, Goodbye Mr. Chips. She went on to perform additional roles on television. In 1971 she landed the lead role in a Yorkshire Television Production Follyfoot, which ran for three series until 1973. Her last role of note was in two episodes of the BBC2 Playhouse series in 1980. Since then she has retired from acting, having spent some years concentrating on motherhood. She made a rare television appearance on This is Your Life in 1995, celebrating the career of Desmond Llewelyn (her co-star in Follyfoot). In the 1970s she married actor Peter Whitbread after meeting him on the set of Follyfoot. They had a son Jake."
+}, {
+  "entityIndex" : "12_entity11800",
+  "entityUrl" : "http://dbpedia.org/resource/Edvard_Persson",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Mim_Persson" ]
+  },
+  "words" : [ "Overall", "45", "got", "Swedish", "character", "January", "--", "films", "17", "made", "kind", "Carl", "Highway", "19", "Edvard", "often", "film", ",", "-", ".", "actors", "among", "Scania", "-RRB-", "Spången", "playing", "-LRB-", "role", "September", "singer", "feature", "good-natured", "jovial", "man", "1957", "popular", "Kalle", "silent", "one", "South", "1888", "actor", "Tröstehult", "Persson", "på", "time", "Studenterna", "first", "1923" ],
+  "adjectives" : [ "silent", "good-natured", "jovial", "popular", "first", "Swedish" ],
+  "nouns" : [ "Kalle", "role", "singer", "kind", "Highway", "film", "actor", "character", "Tröstehult", "feature", "på", "Spången", "time", "man", "Studenterna" ],
+  "text" : "Carl Edvard Persson (17 January 1888 – 19 September 1957) was a Swedish actor and singer. He got his first role in the 1923 silent film Studenterna på Tröstehult. Overall, Persson made 45 feature films, among those were South of the Highway and Kalle på Spången. He was one of the most popular film actors of his time, often playing the same kind of character - the jovial and good-natured man from Scania. As a singer he released numerous records. Among his more famous songs were Kalle på Spången, Jag har bott vid en landsväg, Jag är en liten gåsapåg från Skåne and Vi klarar oss nog ändå."
+}, {
+  "entityIndex" : "13_entity11827",
+  "entityUrl" : "http://dbpedia.org/resource/Eve_Matheson",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Phil_Davis_(actor)" ]
+  },
+  "words" : [ "Vanity", "Milcote", "Angell", "BBC", "career", "-LRB-", "May", "Mrs.", "production", "roles", "Edmundson", "Sharp", "adaptation", "best", "two", "2005-2006", "Royal", "December", "Fair.Eve", "pursue", "appeared", "known", "National", "Becky", "actress", "original", "Elisabeth", "Matheson", "born", ",", "'s", "Boy", ".", "English", "Zoe", "stage", "Eve", "1960", "left", "series", "Coram", "Theatre", "-RRB-", "novel", "Helen" ],
+  "adjectives" : [ "English", "original", "novel" ],
+  "nouns" : [ "actress", "career", "stage", "production", "series", "adaptation", "Boy" ],
+  "text" : "Eve Elisabeth Matheson (born 1960) is an English actress. She is best known for her roles as Zoe Angell in May to December and Becky Sharp in the BBC adaptation of the novel Vanity Fair.Eve left May to December after two series to pursue her career on stage. From 2005-2006, she appeared as Mrs. Milcote in the original Royal National Theatre production of Helen Edmundson's Coram Boy."
+}, {
+  "entityIndex" : "14_entity14786",
+  "entityUrl" : "http://dbpedia.org/resource/Susan_Skipper",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Anthony_Valentine" ]
+  },
+  "words" : [ "-LRB-", "Central", "Sweeney", "Cedar", "years", "debut", "1975", "School", "appeared", "Susan", "attending", "sitcom", "Tree", "n't", "beside", "Tales", "actress", "British", "Havers", "went", "like", "television", "Carry", "West", "Skipper", "Doctor", ",", ".", "Nigel", "stage", "Drama", "series", "following", "London", "Laughing", "-RRB-", "Speech", "gave", "End", "Wait" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "debut", "actress", "stage", "television", "series", "sitcom" ],
+  "text" : "Susan Skipper is a British television and stage actress. After attending the Central School of Speech and Drama in London she went to the British television. She gave her debut in the Carry On Laughing sitcom series in 1975. In the following years she appeared in series like The Cedar Tree, West End Tales, Don't Wait Up (beside Nigel Havers), The Sweeney and Doctor Who. In 1982 she was seen as Elizabeth Sarah Lavinia Spencer, Lady Diana's oldest sister, in the television drama Charles & Diana: A Royal Love Story by James Goldstone. In 1987 she had a short appearance in a flashback sequence as Emily Lloyd's mother in David Leland's film Wish You Were Here (1987). She had also an engagement as stage actress at the Mill Theatre Sonning where she played e.g. the role of Pat Cooper in the Terence Rattigan play Separate Tables. She was the first female voice of Sat-nav. Susan married the British actor Anthony Valentine in 1982. He died on 2 December 2015."
+}, {
+  "entityIndex" : "15_entity14878",
+  "entityUrl" : "http://dbpedia.org/resource/Sandra_Payne",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Alan_Jay_Lerner" ]
+  },
+  "words" : [ "``", "Professionals", "Triangle", "episode", "theatre", "appeared", "1960s", "1978", "actress", "Academy", "Payne", ",", ".", "Newcomers", "Conti", "Royston", "acted", "-RRB-", "appearing", "Selhurst", "soap", "1944", "24", "Christine", "-LRB-", "operas", "September", "roles", "best", "Ballard", "School", "known", "Compact", "God", "Phillipa", "attended", "''", "Blind", "British", "television", "born", "Harris", "Run", "Hertfordshire", "Grammar", "Italia", "repertory", "Waiting", "English", "series", "Marion", "Z-Cars", "Sandra" ],
+  "adjectives" : [ "English", "British" ],
+  "nouns" : [ "theatre", "actress", "television", "series", "episode", "repertory", "soap" ],
+  "text" : "Sandra Payne (born 24 September 1944, Royston, Hertfordshire) is an English actress best known for her roles as Christine Harris in the British television series Triangle and as Marion Ballard in Waiting for God. She attended Selhurst Grammar School and the Italia Conti Academy. She then acted in repertory theatre before appearing on television in the 1960s in the soap operas Compact, The Newcomers and Z-Cars. In 1978, she appeared as Phillipa in \"The Professionals\" episode \"Blind Run\". She also appeared as Mrs. Quilp in The Old Curiosity Shop, as Miss Taylor in The Wildcats of St Trinian's (1980), as Eryl Griffith in the 1985 TV movie Marple: The Moving Finger, and as Mrs Micawber in David Copperfield (1986)."
+}, {
+  "entityIndex" : "16_entity13024",
+  "entityUrl" : "http://dbpedia.org/resource/Katherine_Locke",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Norman_Corwin" ]
+  },
+  "words" : [ "June", "24", "1940s", "-LRB-", "1930s", "September", "Katherine", "father", "Broadway", "amateur", "1910", "Kalinkavičy", "1995", "U.S.", "appeared", "late", "Locke", "supporting", "1950s", "--", "12", "actress", "films", "born", "raised", ",", "Belarus", ".", "Mendel", "-RRB-", "writer" ],
+  "adjectives" : [ "late", "amateur" ],
+  "nouns" : [ "actress", "father", "writer" ],
+  "text" : "Katherine Locke (June 24, 1910 – September 12, 1995) was a Broadway actress in the late 1930s. She was born in Kalinkavičy, in what is now Belarus, and raised in the U.S. Her father Mendel Locke was an amateur writer. She appeared in films in the 1940s and 1950s as a supporting actress. She began her film work in the late 1930s in bit parts, but she is remembered today as a stage actress. She was married to radio legend Norman Corwin. In addition to appearing on a successful Broadway production of Hamlet playing Ophelia, her stage credits include starring with John Garfield in Having a Wonderful Time, Fifth Column with Lee J. Cobb, and Clash by Night with Tallulah Bankhead."
+}, {
+  "entityIndex" : "17_entity13272",
+  "entityUrl" : "http://dbpedia.org/resource/Kerstin_Granlund",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Mats_Wedin" ]
+  },
+  "words" : [ "June", "-LRB-", "revue", "artist", "Galenskaparna", "primarily", "Swedish", "comedian", "1951", "known", "och", "Mats", "member", "group", "Wedin", "Liseberg", "17", "comedy", "born", ",", "'s", "CEO", "grew", ".", "former", "actor", "Kerstin", "Granlund", "-RRB-", "Shave", "Marianne", "Trollhättan", "married" ],
+  "adjectives" : [ "former", "Swedish" ],
+  "nouns" : [ "comedian", "actor", "revue", "artist", "comedy", "member", "group" ],
+  "text" : "Kerstin Marianne Granlund Wedin (born June 17, 1951) is a Swedish revue artist, comedian and actor, who grew up in Trollhättan. She is primarily known as a member of the comedy group Galenskaparna och After Shave. She is married to Liseberg's former CEO Mats Wedin."
+}, {
+  "entityIndex" : "18_entity11086",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Miller_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Elisabeth_Sladen" ]
+  },
+  "words" : [ "``", "Wiston", "Blake", "Mr.", "episode", "tramp", "appeared", "Breath", "Brazil", "Angels", "Trial", "Dugdale", "17", "voices", "Remembrance", "Davros", "Buttle", "film", ",", "Deep", "'s", "Daleks", "April", ".", "Brian", "1941", "1985", "1984", "1983", "Miller", "7", "-RRB-", "Gilliam", "Bill", "playing", "appearing", "Dalek", "1988", "providing", "-LRB-", "role", "production", "Terry", "Resurrection", "Reginald", "2005", "Casualty", "Horizon", "Snakedance", "''", "include", "British", "Barney", "television", "born", "Doctor", "performed", "played", "actor", "stage", "serial", "various", "2014", "series", "productions" ],
+  "adjectives" : [ "British", "various", "Deep" ],
+  "nouns" : [ "role", "Trial", "production", "television", "Remembrance", "episode", "film", "actor", "tramp", "Resurrection", "stage", "serial", "Breath", "series", "Snakedance" ],
+  "text" : "Brian Reginald Miller (born 17 April 1941) is a British actor. He has performed in various Doctor Who productions, appearing as Dugdale in the serial Snakedance (1983), providing Dalek voices in Resurrection of the Daleks (1984) and Remembrance of the Daleks (1988), playing the role of Wiston in the 2005 stage production of The Trial of Davros, and playing the tramp Barney in the 2014 episode \"Deep Breath\". Miller played Mr. Buttle in Terry Gilliam's 1985 film Brazil. Other television series in which he has appeared include Blake's 7 (in the episode \"Horizon\"), The Bill, Angels and Casualty. On 8 June 1968, Miller married actress Elisabeth Sladen in Liverpool. 5 years later, Sladen took on the role of Sarah Jane Smith, a long-term Companion on Doctor Who, though her performance on the show did not overlap with the episodes Miller took part in. Their marriage lasted until her death on 19 April 2011. After the departure of his wife from Doctor Who, they returned to Liverpool and performed in a series of plays. This included a two-person production with Sladen in Mooney and his Caravans. A notable TV appearance was Miller playing the husband of Sladen in the ITV drama Send In The Girls. Miller and their daughter, Sadie Miller, performed with Sladen in a number of Sarah Jane Smith audio plays, released by Big Finish Productions. Miller appeared alongside his wife in the The Sarah Jane Adventures, as Harry the caretaker in the serial \"The Mad Woman in the Attic\" (2009). He has an occasional role in the radio serial The Archers as Jason the builder. More recently, Miller briefly played Cliff Pughes in Coronation Street and Mark in Wizards vs Aliens."
+}, {
+  "entityIndex" : "19_entity11167",
+  "entityUrl" : "http://dbpedia.org/resource/Britta_Holmberg",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Stig_Olin" ]
+  },
+  "words" : [ "Holmberg", "June", "-LRB-", "Olin", "sometimes", "eventually", "Swedish", "mother", "December", "appeared", "1973", "2004", "Britta", "divorced", "--", "actress", "films", "Alice", "18", "Lena", "film", ",", ".", "1921", "actor", "1942", "3", "-RRB-", "Stig", "Holmberg-Olin", "married", "credited", "21" ],
+  "adjectives" : [ "Swedish" ],
+  "nouns" : [ "actor", "actress", "mother", "film" ],
+  "text" : "Britta Holmberg, Britta Alice Holmberg (21 December 1921 – 3 June 2004), was a Swedish film actress. She appeared in 18 films between 1942 and 1973. She was married to actor Stig Olin (they eventually divorced), and is the mother of actress Lena Olin. She has sometimes been credited as Britta Olin, or Britta Holmberg-Olin."
+}, {
+  "entityIndex" : "20_entity11168",
+  "entityUrl" : "http://dbpedia.org/resource/Birgit_Tengroth",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Jens_Otto_Krag", "http://dbpedia.org/resource/Stig_Ahlgren" ]
+  },
+  "words" : [ "--", "actress", "films", "13", "46", "-LRB-", "September", "film", ".", "Swedish", "appeared", "1983", "1950", "Tengroth", "-RRB-", "Birgit", "July", "1915", "1926", "21" ],
+  "adjectives" : [ "Swedish" ],
+  "nouns" : [ "actress", "film" ],
+  "text" : "Birgit Tengroth (13 July 1915 – 21 September 1983) was a Swedish film actress. She appeared in 46 films between 1926 and 1950."
+}, {
+  "entityIndex" : "21_entity11176",
+  "entityUrl" : "http://dbpedia.org/resource/Brett_Findlay",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Jemilah_Findlay" ]
+  },
+  "words" : [ "-LRB-", "May", "trained", "Cherry", "Akiko", "née", "Studio", "1972", "30", "Emanuel", "Brett", "British", "born", "one", "Marshall", "film", "Jemilah", ",", ".", "granddaughter", "actor", "stage", "Drama", "Findlay", "-RRB-", "London", "married", "Litvinoff", "daughter" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "actor", "stage", "film", "daughter", "granddaughter" ],
+  "text" : "Brett Findlay (born 30 May 1972) is a British film and stage actor. Findlay trained at the Drama Studio London. He is married to Jemilah Findlay (née Litvinoff, granddaughter of Cherry Marshall and Emanuel Litvinoff). They have one daughter, Akiko. He had a cameo part in Beyond the Fire, the award-winning Best Film (UK Feature) London Independent Film Festival and was principal actor in the 2008 thriller Dark Rage. In his previous career as a musician he is most noted as percussionist with Kula Shaker, the English psychedelic rock band. He also played percussion on Toploader's album Onka's Big Moka."
+}, {
+  "entityIndex" : "22_entity15393",
+  "entityUrl" : "http://dbpedia.org/resource/Wendy_Williams_(actress)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Hugh_David" ]
+  },
+  "words" : [ "Mrs.", "Thriller", "1934", "Space", "actress", "including", "work", "director", "Wendy", ",", ".", "1987", "7", "-RRB-", "David", ":", "Man", "Ark", "-LRB-", "role", "May", "death", "Beau", "best", "Crossroads", "Darling", "long", "running", "Williams", "known", "credits", "Pallisers", "Danger", "Banks", "Buds", "Poldark", "November", "Regiment", "British", "television", "born", "Survivors", "Doctor", "Hugh", "Tenko", "serial", "Z-Cars", "married", "Geste" ],
+  "adjectives" : [ "British", "long" ],
+  "nouns" : [ "actress", "role", "death", "serial", "work", "television", "director", "Wendy", "Darling" ],
+  "text" : "Wendy Williams (born 7 November 1934) is a British actress. She is best known for her work on television, with credits including: Danger Man, Z-Cars, The Regiment, The Pallisers, Thriller, Doctor Who (in the serial The Ark in Space), Survivors, Poldark, Beau Geste, Tenko and The Darling Buds of May. She had a long running role in Crossroads as Mrs. Banks. Williams was married to television director Hugh David until his death in 1987."
+}, {
+  "entityIndex" : "23_entity15410",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_Li-Lin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Allan_Wu" ]
+  },
+  "words" : [ "真爱无敌", "黄丽玲", "cop", "长河", "Rising", "Tay", "1972", "Wong", "host", "Li", "actress", "Huáng", "made", "Channel", "2001", ",", "'s", ".", "Sea", "August", "Triple", "1", "2", "pinyin", "acted", "5", "Love", "-RRB-", "name", "8", ":", ";", "acting", "became", "-LRB-", "Singaporean", "role", "frequently", "Li-Lin", "Challenge", "debut", "1997", "drama", "1995", "顶天立地", "known", "1994", "Inspector", "Season", "谁与争锋", "30", "1999", "Expectations", "brief", "Reunion", "Masters", "television", "born", "started", "lead", "Lin", "better", "MediaCorp", "stage", "dramas", "Nine", "Lìlíng", "Chinese", "household", "Elaine", "returned", "hiatus" ],
+  "adjectives" : [ "Triple", "brief", "Singaporean", "lead" ],
+  "nouns" : [ "Reunion", "actress", "Masters", "role", "cop", "television", "长河", "Li-Lin", "Sea", "Challenge", "debut", "drama", "pinyin", "stage", "dramas", "name", "host", "household", "Season", "hiatus" ],
+  "text" : "Wong Li Lin (Chinese: 黄丽玲; pinyin: Huáng Lìlíng, born August 30, 1972), better known by her stage name Li-Lin, is a Singaporean actress and host. She made her television debut in 1994, and has acted in dramas such as Masters of the Sea (1994) and Rising Expectations (长河) (1997). She became a household name for her lead role as Inspector Elaine Tay in MediaCorp's Channel 5 cop drama Triple Nine (Season 1 and 2) from 1995 to 1997. After a brief hiatus from acting in 1999, she returned in 2001 and started acting frequently in Channel 8 dramas such as Love Me, Love Me Not (真爱无敌) (2001), The Challenge (谁与争锋) (2001) and The Reunion (顶天立地) (2001). She was also one of the four judges of the reality TV series \"The Dance Floor\". In 2008, Li-Lin starred in the Singapore romance film The Leap Years alongside Ananda Everingham, and was nominated for Best Performer in the Singapore Film Awards 2009. The movie was directed by Jean Yeo. Li-Lin was educated at Haig Girls’ School and Temasek Secondary School, before winning a scholarship to study ballet at the Royal Ballet School in London, where she became Head Girl. During her time off from showbiz, she subsequently obtained her Master’s degree in Anthropology at University of Surrey, where she wrote her dissertation on Falun Gong, and graduated in 2001. Li-Lin is well known for her straightforward personality. Her passion for dance, movement and fitness led to pioneering Singapore’s Pilates movement, and to founding several local dance centers. Li-Lin was married to Chinese-American actor and host Allan Wu from 2004-2013. They have two children, daughter Sage and son Jonas. She is currently managed by Fly Entertainment."
+}, {
+  "entityIndex" : "24_entity15334",
+  "entityUrl" : "http://dbpedia.org/resource/Vickery_Turner",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Warren_Oates" ]
+  },
+  "words" : [ "newcomer", "play", "BBC", "theatre", "playwright", "Critics", "Sunbury-on-Thames", "controversial", "promising", "--", "actress", "began", "author", "director", "work", "opposite", "received", ",", "'s", "April", ".", "3", "4", "Ken", "Wednesday", "-RRB-", "Miss", "London", "Vickery", "Brodie", "1945", "Surrey", "-LRB-", "role", "Prime", "breakthrough", "production", "best", "Clarence", "Redgrave", "2006", "Junction", "supporting", "Loach", "British", "Vanessa", "television", "started", "Jean", "1965", "performance", "stage", "Award", "series", "Turner", "Derwent", "first" ],
+  "adjectives" : [ "British", "opposite", "controversial", "first", "promising" ],
+  "nouns" : [ "newcomer", "play", "actress", "role", "breakthrough", "production", "author", "director", "television", "work", "theatre", "performance", "stage", "playwright", "Award", "series", "Turner", "Junction" ],
+  "text" : "Vickery Turner (3 April 1945 in Sunbury-on-Thames, Surrey – 4 April 2006) was a British actress, playwright, author and theatre director. She started out on stage and her first breakthrough role was in the first production of The Prime of Miss Jean Brodie opposite Vanessa Redgrave. For that role Turner received the Clarence Derwent Award for the best supporting performance and the London Critics Award for the most promising newcomer. Her television work began with Ken Loach's once controversial Up The Junction (1965) for the BBC's Wednesday play series. She acted in many of the more famous British plays of the 1960s. The plays she wrote for the BBC's Thirty-Minute Theatre series were \"Keep on Running\" and \"Magnolia Summer\" and for The Wednesday Play \"Kippers & Curtains\". Her film career included roles in Prudence and the Pill (1968), Crooks and Coronets (1969), The Mind of Mr. Soames (1970), Chandler (1971), Ruby and Oswald (1978), The Good Soldier (1981), and The Return of the Soldier (1982). In 1969 she met Warren Oates while filming Crooks and Coronets and they married. They were divorced in 1974. She was also a successful novelist and her published novels included Focussing, Lovers of Africa (Love & Hunger in the USA), The Testimony of Daniel Pagels and Delicate Matters. Turner's fifth novel—Lost Heir—was scheduled to be published around the time of her death."
+}, {
+  "entityIndex" : "25_entity13418",
+  "entityUrl" : "http://dbpedia.org/resource/Lil_Terselius",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Hans_Klinga", "http://dbpedia.org/resource/Lars_Norén" ]
+  },
+  "words" : [ "14th", "-LRB-", "role", "Swedish", "award", "won", "Best", "Guldbagge", "November", "actress", "born", "Poldi", "O'Neill", "2000", "film", "Lil", ".", "Awards", "stage", "5", "Love", "Award", "Games", "-RRB-", "Loneliness", "Actress", "Eugene", "Terselius", "1944" ],
+  "adjectives" : [ "14th", "Swedish" ],
+  "nouns" : [ "actress", "award", "role", "stage", "Award", "Actress", "film" ],
+  "text" : "Lil Poldi Terselius (born 5 November 1944) is a Swedish stage and film actress. At the 14th Guldbagge Awards she won the award for Best Actress for her role in Games of Love and Loneliness. She won the Eugene O'Neill Award in 2000."
+}, {
+  "entityIndex" : "26_entity12301",
+  "entityUrl" : "http://dbpedia.org/resource/Hugh_Sinclair_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Valerie_Taylor_(actress)", "http://dbpedia.org/resource/Rosalie_Williams" ]
+  },
+  "words" : [ "Art", "Sinclair", "-LRB-", "May", "29", "book", "England", "Royal", "December", "School", "son", "graduate", "marriage", "Struck", "Stage", "Charterhouse", "--", "actress", "!", "British", "clergyman", "Taylor", "Academy", "born", "19", "Hugh", ",", "Dramatic", ".", "actor", "educated", "1962", "Valerie", "-RRB-", "London", "1903", "first" ],
+  "adjectives" : [ "British", "Dramatic", "first" ],
+  "nouns" : [ "actor", "actress", "Art", "son", "clergyman", "graduate", "marriage", "book", "Stage" ],
+  "text" : "Hugh Sinclair (19 May 1903 – 29 December 1962) was a British actor born in London, England, the son of a clergyman. He was educated at Charterhouse School and a graduate of the Royal Academy of Dramatic Art. His first marriage was to the actress Valerie Taylor. In his book The Stage Struck Me! fellow actor Neville Phillips felt Sinclair always played variations of himself, handsome, debonair, suave and witty and excelled in light comedy. By contrast Phillips felt his wife, who Sinclair often appeared opposite, was a dramatic actress of tremendous power with a magnificent voice. Sinclair appeared both on Broadway and on the West End. His screen work began in British films. His most notable role possibly is Leslie Charteris' The Saint in The Saint's Vacation followed by The Saint Meets the Tiger. Sinclair died in Slapton, England at the age of 59."
+}, {
+  "entityIndex" : "27_entity12323",
+  "entityUrl" : "http://dbpedia.org/resource/Hong_Huifang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Zheng_Geping" ]
+  },
+  "words" : [ "``", "Hong", "contracted", "Tay", "won", "Geping", "January", "actress", "audience", "artiste", "Channel", "Peng", ",", "Hwee", ".", "produced", "7", "-RRB-", "8", "playing", "Ang", "-LRB-", "Singaporean", "roles", "Ah", "best", "Huifang", "known", "hearts", "supporting", "popular", "''", "Chinese-language", "Mediacorp", "television", "Kok", "born", "Jie", "many", "better", "critics", "MediaCorp", "alike", "dramas", "Fang", "1960", "Zheng", "fellow", "married" ],
+  "adjectives" : [ "Chinese-language", "Singaporean", "fellow", "many", "popular" ],
+  "nouns" : [ "actress", "MediaCorp", "audience", "dramas", "television", "artiste", "Ah", "Jie" ],
+  "text" : "Ang Hwee Fang (born 7 January 1960), better known as Hong Huifang, is a popular Singaporean television actress and a contracted artiste under MediaCorp. She is best known for playing supporting roles in many Chinese-language television dramas produced by MediaCorp Channel 8 that has won the hearts of critics and audience alike. The Mediacorp \"Ah Jie\" is married to Zheng Geping (Tay Kok Peng), a fellow MediaCorp artiste."
+}, {
+  "entityIndex" : "28_entity10775",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Tern",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Priscelia_Chan" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "Alan", "born", "March", "Tern", "唐育书", ",", ".", "1976", "actor", "name", "-RRB-", "Chinese", ":", ";", "family", "31" ],
+  "adjectives" : [ "Singaporean", "Chinese" ],
+  "nouns" : [ "actor", "name", "family" ],
+  "text" : "(This is a Chinese name; the family name is Tern.) Alan Tern (Chinese: 唐育书, born 31 March 1976) is a Singaporean actor."
+}, {
+  "entityIndex" : "29_entity11315",
+  "entityUrl" : "http://dbpedia.org/resource/Clive_Morton",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Fanny_Rowe" ]
+  },
+  "words" : [ "TV", "Commander", "upper", "screen", "fondly-remembered", "episode", "Rogue", "Upstairs", "Laurence", "Trenchard", "1975", "1974", "appeared", "1972", "children", "Englishmen", "Downstairs", "butler", "--", "Rock", "last", "16", "made", "III", ",", "'s", ".", "Sea", "especially", "-RRB-", "playing", "1904", "24", "-LRB-", "role", "September", "One", "roles", "March", "best", "Devils", "Clive", "appearances", "known", "Morton", "Richard", "class", "1955", "recalled", "television", "aged", "Doctor", "many", "fans", "actor", "English", "series", "Olivier", "first" ],
+  "adjectives" : [ "English", "last", "upper", "aged", "fondly-remembered", "many", "first" ],
+  "nouns" : [ "actor", "TV", "role", "television", "series", "screen", "butler", "episode", "class", "Sea" ],
+  "text" : "Clive Morton (16 March 1904 – 24 September 1975) was an English actor best known for playing upper class Englishmen, he made many screen appearances, especially on television. In 1955, he appeared in Laurence Olivier's Richard III and is recalled by fans of Doctor Who for his role as Trenchard in The Sea Devils in 1972. He was Commander Rogue in the first series of the fondly-remembered children's TV series Rogue's Rock in 1974. One of his last roles was as an aged butler in an episode of Upstairs Downstairs. Morton was also a Shakespearian actor and an Associate Artiste of the Royal Shakespeare Company. In the 1964 'Histories' Repertoire he played the Bishop of Carlisle in Richard II, the Earl of Worcester in Henry IV and the ferocious Earl of Talbot in Henry VI. Morton was married to Fresh Fields actress Fanny Rowe."
+}, {
+  "entityIndex" : "30_entity11377",
+  "entityUrl" : "http://dbpedia.org/resource/Cathryn_Bradshaw",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Mark_Strong" ]
+  },
+  "words" : [ "actress", "13", "-LRB-", "role", "Fruit", "born", "best", ",", "Cathryn", ".", "Bradshaw", "1964", "English", "Blackpool", "perhaps", "known", "-RRB-", "Oranges", "January" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "actress", "role" ],
+  "text" : "Cathryn Bradshaw (born 13 January 1964, Blackpool) is an English actress, perhaps best known for her role in Oranges Are Not the Only Fruit."
+}, {
+  "entityIndex" : "31_entity11642",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Farr",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Muriel_Pavlow" ]
+  },
+  "words" : [ "22", "Group", "-LRB-", "Capel", "death", "roles", "John", "March", "regularly", "appeared", "1938", "February", "1912", "Busters", "--", "films", "include", "British", "famous", "television", ",", "Captain", "Derrick", ".", "Whitworth", "actor", "1986", "Dam", "7", "London", "-RRB-", "Farr" ],
+  "adjectives" : [ "British", "famous" ],
+  "nouns" : [ "actor", "Dam", "death", "television" ],
+  "text" : "Derrick Capel Farr (7 February 1912, in London – 22 March 1986, in London) was a British actor who appeared regularly in British films and television from 1938 until his death in 1986. His more famous roles include Group Captain John Whitworth in The Dam Busters."
+}, {
+  "entityIndex" : "32_entity11698",
+  "entityUrl" : "http://dbpedia.org/resource/Diana_Ser",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/James_Lye" ]
+  },
+  "words" : [ "Ser", "-LRB-", "Singapore", "TCS", "training", "episode", "media", "seen", "local", "2008", "communications", "Dude", "known", "co-hosted", "Glamour", "Xiùyíng", "host", "Wong", "company", "Diana", "actress", "Bryan", "Xú", "presenter", "last", "Mum", "consulting", "television", "Channel", "NewsAsia", ",", "徐秀盈", "former", ".", "journalist", "Corporation", "MediaCorp", "pinyin", "Television", "-RRB-", "8", "Chinese", "well", ":", ";", "runs" ],
+  "adjectives" : [ "last", "former", "local" ],
+  "nouns" : [ "actress", "Xú", "presenter", "consulting", "television", "training", "episode", "journalist", "communications", "pinyin", "Television", "Xiùyíng", "host", "company" ],
+  "text" : "Diana Ser (Chinese: 徐秀盈; pinyin: Xú Xiùyíng) is a former journalist, Channel NewsAsia presenter, as well as actress and host for then Television Corporation of Singapore (TCS), now known as MediaCorp. She now runs a communications consulting and media training company. She was last seen on local television in 2008, where she co-hosted an episode of Glamour Mum and The Dude on MediaCorp Channel 8 with Bryan Wong."
+}, {
+  "entityIndex" : "33_entity11911",
+  "entityUrl" : "http://dbpedia.org/resource/Fylgia_Zadig",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Bengt_Eklund" ]
+  },
+  "words" : [ "-LRB-", "stadsteater", "September", "teatern", "city", "numerous", "roles", "Fylgia", "Bengt", "Malmö", "Sigge", "Swedish", "employed", "theatre", "Eklund", "Klas", "Ester", "mother", "Fredrik", "1994", "Nya", "November", "actress", "films", "economist", "grandmother", "Uppsala", "estate", "real", ",", "broker", "-", ".", "Stockholm", "1921", "actor", "3", "Born", "-RRB-", "Zadig", "novelist", "married" ],
+  "adjectives" : [ "numerous", "real", "Swedish" ],
+  "nouns" : [ "theatre", "actor", "actress", "mother", "stadsteater", "economist", "teatern", "city", "grandmother", "estate", "novelist", "broker" ],
+  "text" : "Fylgia Ester Zadig (3 November 1921 - 3 September 1994) was a Swedish actress. Born in Malmö, Zadig was employed with the Uppsala stadsteater (Uppsala city theatre) and the Nya teatern in Stockholm. She had roles in numerous Swedish films. She was married to actor Bengt Eklund and is the mother of economist Klas Eklund and grandmother to novelist Sigge Eklund and real estate broker Fredrik Eklund."
+}, {
+  "entityIndex" : "34_entity13553",
+  "entityUrl" : "http://dbpedia.org/resource/Mitchell_Hurwitz",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Mary_Jo_Keenen" ]
+  },
+  "words" : [ "``", "-LRB-", "May", "American", "Arrested", "29", "John", "best", "Ellen", "contributor", "known", "Mitchell", "Hurwitz", "sitcom", "Development", "Golden", "''", "creator", "television", "born", "D.", ",", ".", "Girls", "actor", "1963", "Mitch", "-RRB-", "producer", "well", "Show", "writer", "co-creator", "Larroquette" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "actor", "creator", "contributor", "television", "sitcom", "producer", "writer", "co-creator" ],
+  "text" : "Mitchell D. \"Mitch\" Hurwitz (born May 29, 1963) is an American television writer, producer, and actor. He is best known as the creator of the television sitcom Arrested Development as well as the co-creator of The Ellen Show, and a contributor to The John Larroquette Show and The Golden Girls."
+}, {
+  "entityIndex" : "35_entity12562",
+  "entityUrl" : "http://dbpedia.org/resource/Jeanne_Stuart",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Bernard_Docker" ]
+  },
+  "words" : [ "-LRB-", "Using", "Broadway", "Ivy", "pictures", "debut", "1931", "Docker", "2003", "Sweet", "February", "businessman", "twenty", "1933", "--", "12", "actress", "films", "13", "British", "went", "months", "motion", "star", "made", "1908", "born", "perform", "film", "union", ",", "performed", "lasted", ".", "picture", "August", "Stuart", "stage", "-RRB-", "name", "London", "Bernard", "Jeanne", "married" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "debut", "actress", "stage", "motion", "name", "film", "union", "businessman", "picture" ],
+  "text" : "Jeanne Stuart (13 August 1908 – 12 February 2003), born Ivy Sweet, was a British stage and film actress. Using the stage name Jeanne Stuart, she performed on the London stage, on Broadway, and in motion pictures. She made her motion picture debut in 1931 and went on to perform and star in more than twenty films. She was married in 1933 to businessman Bernard Docker but their union lasted only a few months. After World War II, she moved to the United States, taking up residence on Long Island. She met Baron Eugène Daniel von Rothschild, a member of the Rothschild family and grandson of Salomon Mayer von Rothschild of the Rothschild banking family of Austria. They married in 1952 after which she gave up her acting career. For a time, she and her husband lived in New York City and Long Island but eventually made their permanent home in Monte Carlo, Monaco. Baroness Jeanne de Rothschild died in Monte Carlo in 2003."
+}, {
+  "entityIndex" : "36_entity12575",
+  "entityUrl" : "http://dbpedia.org/resource/Judy_Buxton",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Jeffrey_Holland" ]
+  },
+  "words" : [ "small", "Company", "-LRB-", "Bruford", "Buxton", "part", "roles", "Rose", "Sweeney", "Shaw", "Royal", "principal", "nurse", "Katy", "Hospital", "1979", "regular", "actress", "Judy", "television", "joined", "Shakespeare", "born", ",", "played", ".", "English", "Croydon", "1982", "series", "graduated", "-RRB-", "College", "General", "1949", "playing" ],
+  "adjectives" : [ "small", "principal", "English", "regular" ],
+  "nouns" : [ "actress", "television", "series", "part", "nurse", "Sweeney" ],
+  "text" : "Judy Buxton (born 1949, in Croydon) is an English actress. She graduated from the Rose Bruford College. She then was a regular in the television series General Hospital playing nurse Katy Shaw and had a small part in The Sweeney. She joined the Royal Shakespeare Company in 1979, where she played principal roles until 1982. Her “memorable...and exceptional” performance of Iphigenia in The Greeks and Juliet in Romeo and Juliet were particularly notable. Time magazine critic T.E. Kalem wrote of her “unforgettable” portrayal of Iphigenia: “...as Buxton reaches the heartbreaking conclusion that the one life she has to give for Hellas is the noblest life to have lived, she radiates a great and unforgettable purity of spirit.” She later worked mainly in television, playing Ruth in the television comedy On the Up, Inga, Roj Blake's cousin in Blake's Seven and Susan Protheroe in 1983's production of By The Sword Divided. In 2006 she was in the cast of a well-received UK touring production of Noël Coward’s Star Quality. She appeared in two series-three episodes of Rising Damp, as Caroline Armitage. Buxton is married to Jeffrey Holland, best known as Spike in Hi-de-Hi!."
+}, {
+  "entityIndex" : "37_entity12580",
+  "entityUrl" : "http://dbpedia.org/resource/Jean_Boht",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Carl_Davis" ]
+  },
+  "words" : [ "TV", "-LRB-", "role", "March", "Bread", "1932", "sitcom", "actress", "famous", "Boswell", "Boht", "born", "Lane", "Jean", ",", "'s", ".", "Nellie", "English", "Carla", "6", "series", "Dance", "-RRB-", ";" ],
+  "adjectives" : [ "English", "famous" ],
+  "nouns" : [ "actress", "TV", "role", "series", "sitcom" ],
+  "text" : "Jean Boht (born Jean Dance; 6 March 1932) is an English actress, most famous for the role of Nellie Boswell in Carla Lane's TV sitcom series Bread."
+}, {
+  "entityIndex" : "38_entity12624",
+  "entityUrl" : "http://dbpedia.org/resource/Jane_Sherwin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Derrick_Sherwin" ]
+  },
+  "words" : [ "actress", "British", "fiction", "Blake", "television", "wife", "roles", "War", "Doctor", ",", "'s", "Jane", "Derrick", ".", "former", "appearances", "known", "serial", "science", "Games", "7", "Sherwin" ],
+  "adjectives" : [ "British", "serial", "former" ],
+  "nouns" : [ "actress", "fiction", "television", "wife", "science" ],
+  "text" : "Jane Sherwin is a British actress, known for her appearances in science fiction television, with roles in the Doctor Who serial The War Games and Blake's 7. She is the former wife of Derrick Sherwin."
+}, {
+  "entityIndex" : "39_entity12646",
+  "entityUrl" : "http://dbpedia.org/resource/Jennifer_Daniel",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Dinsdale_Landen" ]
+  },
+  "words" : [ "Hammer", "TV", "Mrs.", "Jennifer", "ITV", "Emily", "Hospital", "1936", "Brontë", "Heights", "actress", "films", "Collectors", "assorted", "Harry", "Daniel", "film", ",", "'s", "Brent", "Barlow", ".", "Wallace", "-RRB-", "Rumpole", "General", "Man", "Week", "23", "Edgar", "-LRB-", "Called", "May", "roles", "appearances", "Reptile", "credits", "1992", "Wuthering", "Mysteries", "included", "Bailey", "horror", "born", "Linton", "Welsh", "also", "played", "Play", "1963", "series", "Vampire", "Kiss", "1966" ],
+  "adjectives" : [ "assorted", "Welsh" ],
+  "nouns" : [ "actress", "Reptile", "TV", "horror", "series", "film", "Man", "Week" ],
+  "text" : "Jennifer Daniel (born 23 May 1936) is a Welsh actress. Her film appearances included assorted roles in the Edgar Wallace Mysteries film series, and the Hammer horror films The Kiss of the Vampire (1963) and The Reptile (1966). She also played Mrs. Linton in the 1992 film Emily Brontë's Wuthering Heights. Her TV credits included ITV Play of the Week, A Man Called Harry Brent, Barlow, General Hospital, Rumpole of the Bailey and The Collectors. She was married to actor Dinsdale Landen from 1959 until his death in 2003."
+}, {
+  "entityIndex" : "40_entity12662",
+  "entityUrl" : "http://dbpedia.org/resource/Julia_Foster",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Bruce_Fogle" ]
+  },
+  "words" : [ "celebrity", "-LSB-", "-LRB-", "singer", "screen", "husband", "Lionel", "second", "pop", "mother", "Morton", "Fogle", "band", "1960s", "Sussex", "actress", "British", "16", "television", "born", "Four", "Ben", ",", "'s", ".", "lead", "August", "Pennies", "Julia", "1943", "Bruce", "English", "Foster", "2", "Lewes", "stage", "Born", "veterinarian", "-RRB-", "-RSB-", "first" ],
+  "adjectives" : [ "English", "British", "first", "second" ],
+  "nouns" : [ "pop", "actress", "mother", "celebrity", "stage", "singer", "television", "veterinarian", "screen", "husband", "band", "lead" ],
+  "text" : "Julia Foster (born 2 August 1943) is an English stage, screen and television actress. Born in Lewes, Sussex. Foster's first husband was Lionel Morton, once the lead singer with the 1960s pop band The Four Pennies[16]. She is the mother of British television celebrity Ben Fogle with her second husband, veterinarian Bruce Fogle. Foster also built up her own antique furniture business.[17]. Foster's credits include the films The System (1964) with Oliver Reed, The Bargee (1964) with Harry H. Corbett, Alfie (1966) with Michael Caine, Half a Sixpence (1967) with Tommy Steele, and Percy (1971) with Hywel Bennett. On television, in 1969, she appeared in the second episode of series 1 of the Doctor in the House (TV series) She also starred as the eponymous heroine in the BBC production of Moll Flanders (1975) and also appeared alongside John Stride in the Yorkshire Television series Wilde Alliance in 1978. Additionally she appeared with Michael Winner in a British TV advert for Esure car insurance. She played Queen Margaret of Anjou in the BBC Television Shakespeare adaptations of Henry VI, Part 1 Henry VI, Part 2 and The Tragedy of Richard III, which received its UK broadcast in January 1983. After her stage debut with the Brighton Repertory Theatre, Foster made her London debut in Travelling Light in 1965 at the Prince of Wales Theatre, she has since appeared in several London stage productions, including at The Globe Theatre, Lyric Theatre (Hammersmith), Queens Theatre, Criterion Theatre, King's Head Theatre, Royal Court Theatre, Apollo Theatre, New End Theatre, also in the UK at the Nottingham Playhouse, New Theatre, Oxford, Birmingham Repertory Company and the Citizens Theatre, Glasgow. In 1967 Foster appeared on Juke Box Jury, in 1971 on Call My Bluff and in 1976 was the subject of Desert Island Discs."
+}, {
+  "entityIndex" : "41_entity12765",
+  "entityUrl" : "http://dbpedia.org/resource/Julia_Lockwood",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Ernest_Clark" ]
+  },
+  "words" : [ "Lockwood", "23", "-LRB-", "Rupert", "Margaret", "Hampshire", "retired", "Ringwood", "Leon", "early", "divorced", "actress", "British", "star", "born", "fairly", "film", ",", ".", "August", "Julia", "1941", "acted", "-RRB-", "1949", ";", "daughter", "age", "parents" ],
+  "adjectives" : [ "British", "retired", "early" ],
+  "nouns" : [ "actress", "star", "film", "daughter", "age" ],
+  "text" : "Julia Lockwood (born Margaret Julia Leon; 23 August 1941) is a retired British actress. She was born in Ringwood, Hampshire, the daughter of British film star Margaret Lockwood and Rupert Leon. Her parents divorced in 1949. She acted from a fairly early age. She began to gain leading roles in the late 1950s, often in comedy films such as Please Turn Over. She was in the radio series Brothers in Law with Richard Briers in the 1970s. Julia Lockwood retired from acting in 1976, after the birth of her third child. She and her late husband Ernest Clark had four children, Tim, Nicholas, Lucy and Katharine."
+}, {
+  "entityIndex" : "42_entity12828",
+  "entityUrl" : "http://dbpedia.org/resource/James_Lye",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Diana_Ser" ]
+  },
+  "words" : [ "Pictures", "June", "career", "-LRB-", "Singaporean", "Singapore", "movie", "entertainment", "Xìngxiáng", "industry", "Cheung", "shows", "Lài", "starred", "Lye", "1990s", "working", "赖兴祥", "Raintree", "brief", "Head", "James", "17", "television", "born", "Cluster", "entered", ",", "former", ".", "actor", "MediaCorp", "Corporation", "English", "pinyin", "Citibank", "Television", "currently", "Lai", "left", "-RRB-", "Hing", "Chinese", ":", ";", "1969", "first", "acting" ],
+  "adjectives" : [ "brief", "English", "Singaporean", "Chinese", "former" ],
+  "nouns" : [ "actor", "career", "pinyin", "movie", "entertainment", "television", "industry" ],
+  "text" : "James Lye (Chinese: 赖兴祥; pinyin: Lài Xìngxiáng, born 17 June 1969), born Lai Hing Cheung, is a former MediaCorp Singaporean television and Raintree Pictures movie actor. Lye first entered the entertainment industry during the 1990s with the former Television Corporation of Singapore and has starred in both English and Chinese shows. He left the industry after a brief acting career and is currently working as a Cluster Head with Citibank in Singapore."
+}, {
+  "entityIndex" : "43_entity15663",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Libing",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Li_Nanxing" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "entertainment", "Yang", "industry", "training", "drama", "hit", "award", "late", "starred", "SBC", "Star", "won", "long-running", "course", "older", "Best", "sister", "1980s", "1999", "actress", "Supporting", "also", "entered", ",", "'s", "former", ".", "Wok", "Awards", "Lina", "-RRB-", "Life", "Chinese", "Actress", ":", "Libing", "杨莉冰", "first" ],
+  "adjectives" : [ "Singaporean", "late", "long-running", "former" ],
+  "nouns" : [ "actress", "drama", "hit", "Wok", "award", "entertainment", "course", "Actress", "industry", "training", "sister" ],
+  "text" : "Yang Libing (Chinese: 杨莉冰) is a former Singaporean actress. Her older sister is the late Yang Lina, who was also an actress. Yang first entered the entertainment industry during the 1980s after SBC's drama training course. She starred in the long-running hit drama Wok of Life and won the Best Supporting Actress award at the Star Awards 1999. After leaving MediaCorp she went into business and operated a hair salon with her sister. Yang married fellow actor Li Nanxing in 1994 after co-starring with him in several drama series. They divorced in 2004 citing irreconcilable personality differences. Both have yet to remarry and they have no children from the marriage. More recently she has appeared in several of MediaCorp's anniversary events and was one of many former artistes present at the Star Awards 2012."
+}, {
+  "entityIndex" : "44_entity14163",
+  "entityUrl" : "http://dbpedia.org/resource/Naomi_Chance",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Guy_Hamilton" ]
+  },
+  "words" : [ "Naomi", "--", "actress", "-LRB-", "television", "director", "18", "March", "Guy", "film", ".", "Chance", "English", "1930", "2003", "Hamilton", "-RRB-", "married" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "actress", "television", "director", "film", "Chance" ],
+  "text" : "Naomi Chance (1930–18 March 2003) was an English film and television actress. Chance was married to the film director Guy Hamilton."
+} ]

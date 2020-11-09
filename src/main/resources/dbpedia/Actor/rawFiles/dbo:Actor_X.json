@@ -1,0 +1,210 @@
+[ {
+  "entityIndex" : "entity15466",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Saint-Macary",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1948-06-07", "1948-6-7" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Orléans", "http://dbpedia.org/resource/France" ],
+    "dbo:deathDate" : [ "1988-03-13", "1988-3-13" ],
+    "dbo:deathPlace" : [ "http://dbpedia.org/resource/Paris", "http://dbpedia.org/resource/France" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.imdb.com/name/nm0756732/" ],
+    "dbo:wikiPageID" : [ "628609" ],
+    "dbo:wikiPageRevisionID" : [ "736585073" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Day_for_Night_(film)", "http://dbpedia.org/resource/Loulou_(film)", "http://dbpedia.org/resource/1972_in_film", "http://dbpedia.org/resource/1988_in_film", "http://dbpedia.org/resource/La_Nuit_américaine", "http://dbpedia.org/resource/Category:1948_births", "http://dbpedia.org/resource/Category:1988_deaths", "http://dbpedia.org/resource/Category:20th-century_French_male_actors", "http://dbpedia.org/resource/Category:French_male_film_actors", "http://dbpedia.org/resource/Category:French_male_television_actors", "http://dbpedia.org/resource/François_Truffaut", "http://dbpedia.org/resource/Paris", "http://dbpedia.org/resource/Hubert_Saint-Macary", "http://dbpedia.org/resource/Signes_extérieurs_de_richesse", "http://dbpedia.org/resource/Orléans", "http://dbpedia.org/resource/France", "http://dbpedia.org/resource/Myocardial_infarction", "http://dbpedia.org/resource/Category:People_from_Orléans", "http://dbpedia.org/resource/Confidentially_Yours", "http://dbpedia.org/resource/Walt_Disney", "http://dbpedia.org/resource/Herbie_Goes_to_Monte_Carlo", "http://dbpedia.org/resource/Actor", "http://dbpedia.org/resource/Dites-lui_que_je_l'aime", "http://dbpedia.org/resource/Détective", "http://dbpedia.org/resource/Le_Château_perdu" ]
+  },
+  "words" : [ "Château", "movie", "Hubert", "Xavier", "1973", "Truffaut", "La", "Goes", "Le", "bumbling", "1977", "--", "13", "months", ",", "Monte", ".", "heart", "enthusiastic", "américaine", "7", "perdu", "-RRB-", "1948", "François", "brother", "1988", "birthday", "June", "-LRB-", "American", "Herbie", "March", "died", "remember", "French", "sudden", "attack", "Saint-Macary", "audiences", "directed", "40th", "Carlo", "Detective", "played", "Fontenoy", "actor", "Disney", "Nuit", "short" ],
+  "adjectives" : [ "enthusiastic", "French", "American", "sudden", "Saint-Macary", "40th" ],
+  "nouns" : [ "actor", "birthday", "américaine", "movie", "attack", "perdu", "brother", "heart" ],
+  "text" : "Xavier Saint-Macary (June 7, 1948 – March 13, 1988) was a French actor, brother of Hubert Saint-Macary. Saint-Macary played in La Nuit américaine (1973) directed by François Truffaut and Le Château perdu (1973). American audiences will remember him as the enthusiastic but bumbling Detective Fontenoy in the Disney movie Herbie Goes to Monte Carlo (1977). Saint-Macary died of a sudden heart attack in 1988, a few months short of his 40th birthday."
+}, {
+  "entityIndex" : "entity15467",
+  "entityUrl" : "http://dbpedia.org/resource/Xie_Shaoguang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1965-9-15" ],
+    "dbo:wikiPageExternalLink" : [ "https://web.archive.org/web/20041025124301/http:/www.mediacorptv.com/celeb/xieshaoguang/profile.htm" ],
+    "dbo:wikiPageID" : [ "2717901" ],
+    "dbo:wikiPageRevisionID" : [ "738078708" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Double_Happiness_(TV_series)", "http://dbpedia.org/resource/Xie_(surname)", "http://dbpedia.org/resource/Star_Awards_2000", "http://dbpedia.org/resource/Category:1961_births", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/Category:Singaporean_Buddhists", "http://dbpedia.org/resource/Ji_Gong", "http://dbpedia.org/resource/Heshan,_Guangdong", "http://dbpedia.org/resource/Star_Awards_2007", "http://dbpedia.org/resource/MediaCorp", "http://dbpedia.org/resource/Stand_by_Me_(TV_series)", "http://dbpedia.org/resource/Category:Singaporean_people_of_Hakka_descent", "http://dbpedia.org/resource/Malaysia", "http://dbpedia.org/resource/Category:People_from_Heshan", "http://dbpedia.org/resource/Category:Singaporean_male_television_actors", "http://dbpedia.org/resource/Star_Awards_2001", "http://dbpedia.org/resource/Hakka_people", "http://dbpedia.org/resource/The_Legends_of_Jigong", "http://dbpedia.org/resource/Holland_V_(TV_series)", "http://dbpedia.org/resource/Star_Awards_1998", "http://dbpedia.org/resource/Star_Awards_2003", "http://dbpedia.org/resource/Star_Awards_2004", "http://dbpedia.org/resource/Star_Awards_2005", "http://dbpedia.org/resource/Permas_Jaya", "http://dbpedia.org/resource/MediaCorp_Channel_8", "http://dbpedia.org/resource/Star_Awards", "http://dbpedia.org/resource/Baby_Blues_(Singaporean_TV_series)", "http://dbpedia.org/resource/Beautiful_Connection", "http://dbpedia.org/resource/Star_Awards_2002", "http://dbpedia.org/resource/Stepping_Out_(Singaporean_TV_series)", "http://dbpedia.org/resource/The_Last_Rhythm", "http://dbpedia.org/resource/The_Legends_of_Ji_Gong", "http://dbpedia.org/resource/A_Mother's_Love" ],
+    "dbp:birthPlace" : [ "Singapore" ]
+  },
+  "words" : [ "career", "All-Time", "Popular", "consecutively", "numerous", "inception", "recognition", "Male", "years", "Shao-Kwong", "Actor", "Shaoguang", "Best", "five", "10", "including", "went", "15", "Channel", "received", ",", "'s", ".", "produced", "twice", "Top", "Love", "ceremony", "-RRB-", "8", "accolades", "1989", "Favourite", "acting", "since", "-LRB-", "Singaporean", "September", "best", "亲心唤我心", "Artiste", "times", "award", "1995", "known", "Mother", "1994", "2005", "Star", "2004", "Since", "retired", "win", "Chinese-language", "winning", "awarded", "television", "born", "one", "start", "Supporting", "also", "many", "actor", "MediaCorp", "Awards", "1961", "Xie", "series", "awards", "Cha" ],
+  "adjectives" : [ "Chinese-language", "Singaporean", "Top", "numerous", "retired", "many" ],
+  "nouns" : [ "actor", "career", "award", "television", "series", "ceremony", "Actor", "start", "inception", "recognition" ],
+  "text" : "Xie Shaoguang (born 15 September 1961), also known as Cha Shao-Kwong, is a retired Singaporean actor best known for acting in many Chinese-language television series produced by MediaCorp Channel 8. Since the start of his acting career in 1989 in the television series A Mother's Love (亲心唤我心), Xie has received numerous accolades, including winning the Star Awards Best Actor award five times and the Best Supporting Actor award twice since the ceremony's inception in 1994. Xie went on to win one of the Top 10 Most Popular Male Artiste awards consecutively for 10 years, from 1995 until 2004. In 2005, he was awarded the All-Time Favourite Artiste award, in recognition of his career. One of his most notable roles is the Chinese folk deity Ji Gong in the 1997 television series The Legends of Jigong. In 2005, Xie formalised his plans to retire from the entertainment industry when he decided not to renew his contract which expired in September the same year, although his intentions to quit has been made known years earlier. He said that after retirement, he would be living in Malaysia, where he planned to open a refuge for stray dogs and cats. His final appearance in the media was in the television series Baby Blues, which ended its run on 9 September 2005. Xie currently resides in Permas Jaya, Malaysia, where he lived the life of an ordained monk. In 2016, Singaporean media reports say Xie has given up his vows as a monk. . Since leaving the entertainment industry, Xie has rejected all requests to appear in public events or on screen."
+}, {
+  "entityIndex" : "entity15468",
+  "entityUrl" : "http://dbpedia.org/resource/Xiang_Yun",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1961-10-27" ],
+    "dbo:wikiPageExternalLink" : [ "http://entertainment.xin.msn.com/en/celebrity/bios/Xiang-Yun.aspx" ],
+    "dbo:wikiPageID" : [ "3499100" ],
+    "dbo:wikiPageRevisionID" : [ "745118423" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Chinese_surname", "http://dbpedia.org/resource/Beyond_(2012_TV_series)", "http://dbpedia.org/resource/Double_Happiness_(TV_series)", "http://dbpedia.org/resource/Star_Awards_2009", "http://dbpedia.org/resource/Baby_Bonus_(TV_series)", "http://dbpedia.org/resource/The_Little_Nyonya", "http://dbpedia.org/resource/Chinese_name", "http://dbpedia.org/resource/I_Not_Stupid_2", "http://dbpedia.org/resource/Elizabeth_Choy", "http://dbpedia.org/resource/Edmund_Chen", "http://dbpedia.org/resource/Category:1961_births", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/Singapore", "http://dbpedia.org/resource/Chen_(surname)", "http://dbpedia.org/resource/The_Awakening_(TV_series)", "http://dbpedia.org/resource/Patrol_(TV_series)", "http://dbpedia.org/resource/Dai_Xiangyu", "http://dbpedia.org/resource/The_Score_(TV_series)", "http://dbpedia.org/resource/Kinship_(TV_series)", "http://dbpedia.org/resource/Star_Awards_2007", "http://dbpedia.org/resource/The_Price_of_Peace", "http://dbpedia.org/resource/Star_Awards_2010", "http://dbpedia.org/resource/Priceless_Wonder", "http://dbpedia.org/resource/Yours_Fatefully", "http://dbpedia.org/resource/Yours_Always", "http://dbpedia.org/resource/MediaCorp", "http://dbpedia.org/resource/Singapore_Broadcasting_Corporation", "http://dbpedia.org/resource/Wade-Giles", "http://dbpedia.org/resource/Category:Singaporean_television_actresses", "http://dbpedia.org/resource/Holland_V_(TV_series)", "http://dbpedia.org/resource/Portrait_of_Home", "http://dbpedia.org/resource/Love_at_0°C", "http://dbpedia.org/resource/Super_Senior", "http://dbpedia.org/resource/House_of_Fortune", "http://dbpedia.org/resource/Peace_&_Prosperity", "http://dbpedia.org/resource/Pillow_Talk_(TV_series)", "http://dbpedia.org/resource/Star_Awards_2011", "http://dbpedia.org/resource/Unriddle_2", "http://dbpedia.org/resource/Let_It_Shine_(TV_series)", "http://dbpedia.org/resource/Category:Singaporean_people_of_Teochew_descent", "http://dbpedia.org/resource/Sealed_With_A_Kiss_(TV_series)", "http://dbpedia.org/resource/Star_Awards", "http://dbpedia.org/resource/Huang_Wenyong", "http://dbpedia.org/resource/Unriddle", "http://dbpedia.org/resource/You_Can_Be_An_Angel_Too", "http://dbpedia.org/resource/A_Tale_Of_2_Cities", "http://dbpedia.org/resource/My_First_School", "http://dbpedia.org/resource/You_Can_Be_An_Angel_2", "http://dbpedia.org/resource/Asian_Television_Awards", "http://dbpedia.org/resource/Baby_Bonus", "http://dbpedia.org/resource/Love_At_Risk", "http://dbpedia.org/resource/The_Caregivers", "http://dbpedia.org/resource/All_That_Glitters_Is_Not_Gold_(1983_drama_series)", "http://dbpedia.org/resource/Housewives's_Holiday", "http://dbpedia.org/resource/Love_At_0°C", "http://dbpedia.org/resource/Rediscovering_Warmth", "http://dbpedia.org/resource/Start-Up!", "http://dbpedia.org/resource/The_Foothold", "http://dbpedia.org/resource/Served_H.O.T.", "http://dbpedia.org/resource/Portrait_Of_Home" ]
+  },
+  "words" : [ "``", "-LRB-", "Singaporean", "contracted", "trained", "27", "Ah", "industry", "elder", "Chen", "years", "October", "locally", "known", "30", "sister", "Xiang", "''", "actress", "Cuichang", "born", "artiste", "Jie", ",", "'s", ".", "better", "MediaCorp", "Yun", "1961", "stage", "popularly", "among", "-RRB-", "name", "Chinese", "artistes", "first", "referred" ],
+  "adjectives" : [ "Singaporean", "trained", "Chinese", "first" ],
+  "nouns" : [ "actress", "stage", "artiste", "Ah", "Jie", "name", "industry", "sister" ],
+  "text" : "Chen Cuichang (born 27 October 1961), better known by her Chinese stage name Xiang Yun, is a Singaporean actress and contracted artiste under MediaCorp. She is popularly referred to as MediaCorp's first \"Ah Jie\" (elder sister) as she was among the first locally trained artistes and has been in the industry for over 30 years."
+}, {
+  "entityIndex" : "entity15469",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Jinglei",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1974-4-16" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Beijing" ],
+    "dbo:wikiPageExternalLink" : [ "http://sino-angle.blogspot.com", "http://blog.sina.com.cn/m/xujinglei", "https://web.archive.org/web/20130318163738/http:/www.zcom.com/m/kaila/" ],
+    "dbo:wikiPageID" : [ "6460482" ],
+    "dbo:wikiPageRevisionID" : [ "738407892" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Women_bloggers", "http://dbpedia.org/resource/Kaila", "http://dbpedia.org/resource/Spring_Subway", "http://dbpedia.org/resource/Category:Chinese_film_directors", "http://dbpedia.org/resource/Category:Chinese_screenwriters", "http://dbpedia.org/resource/My_Father_and_I", "http://dbpedia.org/resource/Go_Lala_Go!", "http://dbpedia.org/resource/Dear_Enemy_(film)", "http://dbpedia.org/resource/Category:1974_births", "http://dbpedia.org/resource/Category:20th-century_women_writers", "http://dbpedia.org/resource/Category:21st-century_women_writers", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/Beijing_Film_Academy", "http://dbpedia.org/resource/The_Warlords", "http://dbpedia.org/resource/One_Step_Away_(film)", "http://dbpedia.org/resource/Shinjuku_Incident", "http://dbpedia.org/resource/Hundred_Flowers_Awards", "http://dbpedia.org/resource/Category:20th-century_Chinese_actresses", "http://dbpedia.org/resource/Category:21st-century_Chinese_actresses", "http://dbpedia.org/resource/Category:Actresses_from_Beijing", "http://dbpedia.org/resource/Category:Chinese_film_actresses", "http://dbpedia.org/resource/Category:People's_Republic_of_China_journalists", "http://dbpedia.org/resource/Category:Writers_from_Beijing", "http://dbpedia.org/resource/Category:Chinese_women_film_directors", "http://dbpedia.org/resource/Category:Film_directors_from_Beijing", "http://dbpedia.org/resource/Golden_Rooster_Awards", "http://dbpedia.org/resource/Xú", "http://dbpedia.org/resource/Category:Beijing_Film_Academy_alumni", "http://dbpedia.org/resource/E-zine", "http://dbpedia.org/resource/Heroic_Duo", "http://dbpedia.org/resource/Technorati", "http://dbpedia.org/resource/Category:Chinese_television_actresses", "http://dbpedia.org/resource/Huabiao_Awards", "http://dbpedia.org/resource/Category:Chinese_bloggers", "http://dbpedia.org/resource/Brothers_(2004_Chinese_film)", "http://dbpedia.org/resource/Donostia-San_Sebastián_International_Film_Festival", "http://dbpedia.org/resource/Confession_of_Pain", "http://dbpedia.org/resource/I_Love_You_(2002_film)", "http://dbpedia.org/resource/Far_from_Home_(2002_film)", "http://dbpedia.org/resource/The_Storm_Riders", "http://dbpedia.org/resource/Spicy_Love_Soup", "http://dbpedia.org/resource/Silver_Shell_for_Best_Director", "http://dbpedia.org/resource/Somewhere_Only_We_Know_(film)", "http://dbpedia.org/resource/Letter_from_an_Unknown_Woman_(2004_film)", "http://dbpedia.org/resource/Eternal_Moment", "http://dbpedia.org/resource/Battle_of_Memories", "http://dbpedia.org/resource/Chinese_Film_Media_Awards", "http://dbpedia.org/resource/Hundred_Flowers_Film_Awards", "http://dbpedia.org/resource/Four_Dan_Actresses", "http://dbpedia.org/resource/A_Letter_from_an_Unknown_Woman", "http://dbpedia.org/resource/Far_From_Home_(2002_film)", "http://dbpedia.org/resource/Dazzling_(2002_film)", "http://dbpedia.org/resource/Last_Love,_First_Love", "http://dbpedia.org/resource/Dreams_May_Come" ],
+    "dbp:birthPlace" : [ "Beijing, China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15470",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Xun",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1989-2-27" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Taiwan" ],
+    "dbo:wikiPageExternalLink" : [ "https://web.archive.org/web/20090503090915/http:/blog.woo.com.tw/blog/sf/", "http://www.gtv.com.tw/Program/S051420080511U/", "https://web.archive.org/web/20090318152238/http:/xn--mts073a0jkngiyk8b.tw/", "https://web.archive.org/web/20090514083230/http:/xn--uuqxth37hcmcdu0d.tw/", "http://www.gtv.com.tw/Program/S051420070505P/", "http://www.wretch.cc/blog/sflovemickey" ],
+    "dbo:wikiPageID" : [ "22969632" ],
+    "dbo:wikiPageRevisionID" : [ "744337811" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Model_(person)", "http://dbpedia.org/resource/Choc7", "http://dbpedia.org/resource/The_Legend_of_Brown_Sugar_Chivalries", "http://dbpedia.org/resource/Category:People_from_Taoyuan_City", "http://dbpedia.org/resource/Category:1989_births", "http://dbpedia.org/resource/Category:Taiwanese_female_singers", "http://dbpedia.org/resource/Mandarin_pop", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/Singer", "http://dbpedia.org/resource/Taoyuan,_Taiwan", "http://dbpedia.org/resource/Longtan_District,_Taoyuan", "http://dbpedia.org/resource/Brown_Sugar_Macchiato", "http://dbpedia.org/resource/Actress", "http://dbpedia.org/resource/Taiwan_Province", "http://dbpedia.org/resource/Angel_Lover", "http://dbpedia.org/resource/Rolling_Love", "http://dbpedia.org/resource/Category:Atayal_people", "http://dbpedia.org/resource/Hey_Girl_(Taiwanese_group)", "http://dbpedia.org/resource/Actor", "http://dbpedia.org/resource/Lollipop_(Taiwanese_group)", "http://dbpedia.org/resource/Love_Keeps_Going", "http://dbpedia.org/resource/Atayal_people", "http://dbpedia.org/resource/What_Is_Love_(TV_series)", "http://dbpedia.org/resource/The_Teen_Age", "http://dbpedia.org/resource/Dear_Mom_(TV_series)", "http://dbpedia.org/resource/18_Jin_Bu_Jin" ],
+    "dbp:birthPlace" : [ "http://dbpedia.org/resource/Taoyuan,_Taiwan", "http://dbpedia.org/resource/Longtan_District,_Taoyuan", "http://dbpedia.org/resource/Taiwan_Province" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15471",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Man",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1989-11-7" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/2007TaipeiITMonth_ChineseGamer_HeiSeHuiMeiMei_Shu-hsuan_Wang.jpg?width=300" ],
+    "dbo:wikiPageID" : [ "23783190" ],
+    "dbo:wikiPageRevisionID" : [ "736687070" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Model_(person)", "http://dbpedia.org/resource/The_Legend_of_Brown_Sugar_Chivalries", "http://dbpedia.org/resource/Category:1989_births", "http://dbpedia.org/resource/Category:Taiwanese_female_singers", "http://dbpedia.org/resource/Mandarin_pop", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/Singer", "http://dbpedia.org/resource/Lollipop_F", "http://dbpedia.org/resource/Brown_Sugar_Macchiato", "http://dbpedia.org/resource/Actress", "http://dbpedia.org/resource/Taiwan_Province", "http://dbpedia.org/resource/Republic_of_China", "http://dbpedia.org/resource/Taiwanese_people", "http://dbpedia.org/resource/Formosa_Television", "http://dbpedia.org/resource/Hey_Girl_(Taiwanese_group)", "http://dbpedia.org/resource/Public_Television_Service", "http://dbpedia.org/resource/Presenter", "http://dbpedia.org/resource/Category:Actresses_from_Taipei", "http://dbpedia.org/resource/Hey_Girl_(group)", "http://dbpedia.org/resource/Happy_Michelin_Kitchen", "http://dbpedia.org/resource/Category:Musicians_from_Taipei", "http://dbpedia.org/resource/Category:Taiwanese_television_actresses", "http://dbpedia.org/resource/Death_Girl", "http://dbpedia.org/resource/Cute_Fantasy_(Photobook)", "http://dbpedia.org/resource/Cute_Girl_(Model)" ],
+    "dbp:birthPlace" : [ "http://dbpedia.org/resource/Taiwan_Province", "http://dbpedia.org/resource/Republic_of_China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15472",
+  "entityUrl" : "http://dbpedia.org/resource/Xiaoshenyang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1981-5-7" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Tieling" ],
+    "dbo:wikiPageID" : [ "24808095" ],
+    "dbo:wikiPageRevisionID" : [ "731437229" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Liaoning", "http://dbpedia.org/resource/Category:1981_births", "http://dbpedia.org/resource/Category:Chinese_male_film_actors", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/The_Right_Mistake", "http://dbpedia.org/resource/Kaiyuan,_Liaoning", "http://dbpedia.org/resource/Shenyang", "http://dbpedia.org/resource/Tieling", "http://dbpedia.org/resource/A_Simple_Noodle_Story", "http://dbpedia.org/resource/Category:Singers_from_Liaoning", "http://dbpedia.org/resource/Zhao_Benshan", "http://dbpedia.org/resource/Category:Chinese_male_television_actors", "http://dbpedia.org/resource/Category:Male_actors_from_Liaoning", "http://dbpedia.org/resource/Zhang_Yimou", "http://dbpedia.org/resource/Jian_Bing_Man", "http://dbpedia.org/resource/Detective_Chinatown", "http://dbpedia.org/resource/Impossible_(2015_film)", "http://dbpedia.org/resource/The_Monkey_King_2", "http://dbpedia.org/resource/CCTV_New_Year's_Gala", "http://dbpedia.org/resource/Category:Chinese_male_singers", "http://dbpedia.org/resource/Category:People_from_Tieling", "http://dbpedia.org/resource/Errenzhuan", "http://dbpedia.org/resource/Shěn_(surname)" ],
+    "dbp:birthPlace" : [ "http://dbpedia.org/resource/Liaoning", "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Kaiyuan,_Liaoning", "http://dbpedia.org/resource/Tieling" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15473",
+  "entityUrl" : "http://dbpedia.org/resource/Xie_Na",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1980-5-6" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Happy_Camp_(variety_show)_1.jpg?width=300" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.weibo.com/xiena" ],
+    "dbo:wikiPageID" : [ "33542626" ],
+    "dbo:wikiPageRevisionID" : [ "742399834" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Xie_(surname)", "http://dbpedia.org/resource/Category:People's_Republic_of_China_writers", "http://dbpedia.org/resource/Louis_Fan", "http://dbpedia.org/resource/Wen_Zhang", "http://dbpedia.org/resource/He_Jiong", "http://dbpedia.org/resource/Host_(event)", "http://dbpedia.org/resource/Wu_Zongxian", "http://dbpedia.org/resource/Category:Actresses_from_Sichuan", "http://dbpedia.org/resource/Sichuan_Normal_University", "http://dbpedia.org/resource/Autobiography", "http://dbpedia.org/resource/Category:1980_births", "http://dbpedia.org/resource/Category:20th-century_women_writers", "http://dbpedia.org/resource/Category:21st-century_women_writers", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/Category:Women_autobiographers", "http://dbpedia.org/resource/Singer", "http://dbpedia.org/resource/Tong_Dawei", "http://dbpedia.org/resource/Wang_Gang_(actor)", "http://dbpedia.org/resource/Guo_Tao_(actor)", "http://dbpedia.org/resource/Gao_Xin", "http://dbpedia.org/resource/Huang_Lei", "http://dbpedia.org/resource/Vincent_Chiao", "http://dbpedia.org/resource/My_Geeky_Nerdy_Buddies", "http://dbpedia.org/resource/The_Left_Ear", "http://dbpedia.org/resource/Chengdu", "http://dbpedia.org/resource/Deyang", "http://dbpedia.org/resource/Shangri-La_City", "http://dbpedia.org/resource/Happy_Camp_(variety_show)", "http://dbpedia.org/resource/Jason_Zhang", "http://dbpedia.org/resource/Sina_Weibo", "http://dbpedia.org/resource/Su_Xing", "http://dbpedia.org/resource/The_Legend_of_the_Condor_Heroes_(2008_TV_series)", "http://dbpedia.org/resource/Actress", "http://dbpedia.org/resource/Boston_University", "http://dbpedia.org/resource/Sichuan", "http://dbpedia.org/resource/Category:Chinese_film_actresses", "http://dbpedia.org/resource/Category:Chinese_stage_actresses", "http://dbpedia.org/resource/Category:Chinese_voice_actresses", "http://dbpedia.org/resource/Daniel_Chan", "http://dbpedia.org/resource/Tracing_Shadow", "http://dbpedia.org/resource/Bring_Happiness_Home", "http://dbpedia.org/resource/Category:Chinese_television_presenters", "http://dbpedia.org/resource/Zhang_Weijian", "http://dbpedia.org/resource/Evonne_Hsu", "http://dbpedia.org/resource/Category:Chinese_television_actresses", "http://dbpedia.org/resource/Category:Writers_from_Sichuan", "http://dbpedia.org/resource/Liu_Bocheng", "http://dbpedia.org/resource/Du_Haitao", "http://dbpedia.org/resource/Bobby_Au-yeung", "http://dbpedia.org/resource/Sandra_Ng", "http://dbpedia.org/resource/Princess_and_the_Seven_Kung_Fu_Masters", "http://dbpedia.org/resource/Ronald_Cheng", "http://dbpedia.org/resource/Sun_Xing", "http://dbpedia.org/resource/Betty_Sun", "http://dbpedia.org/resource/Yao_Chen", "http://dbpedia.org/resource/Hu_Ge", "http://dbpedia.org/resource/Huo_Siyan", "http://dbpedia.org/resource/Annie_Wu_(actress)", "http://dbpedia.org/resource/Huayi_Brothers", "http://dbpedia.org/resource/Wong_Jing", "http://dbpedia.org/resource/Pace_Wu", "http://dbpedia.org/resource/Lu_Yi_(actor)", "http://dbpedia.org/resource/Category:Chinese_female_singers", "http://dbpedia.org/resource/Category:People_from_Deyang", "http://dbpedia.org/resource/Liu_Ye_(actor)", "http://dbpedia.org/resource/Category:Chinese_autobiographers", "http://dbpedia.org/resource/Mr._Nian", "http://dbpedia.org/resource/Fang_Zuming", "http://dbpedia.org/resource/Wu_Zhenyu", "http://dbpedia.org/resource/Hunan_Satellite_TV", "http://dbpedia.org/resource/Lin_Yichen", "http://dbpedia.org/resource/Sun_Song", "http://dbpedia.org/resource/Taobao_Mall", "http://dbpedia.org/resource/Marry_a_Perfect_Man", "http://dbpedia.org/resource/Fantastic_Adventure", "http://dbpedia.org/resource/Wang_Zhigang", "http://dbpedia.org/resource/Bao_Lei", "http://dbpedia.org/resource/Liu_Wei_(actor)", "http://dbpedia.org/resource/Ren_Quan", "http://dbpedia.org/resource/He_Meidian", "http://dbpedia.org/resource/Li_Chengxuan", "http://dbpedia.org/resource/Li_Jialin", "http://dbpedia.org/resource/Yu_Na", "http://dbpedia.org/resource/Zhang_Liang_(actor)", "http://dbpedia.org/resource/Huang_Haibing" ],
+    "dbp:birthPlace" : [ "http://dbpedia.org/resource/Deyang", "http://dbpedia.org/resource/Sichuan" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15474",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_G%C3%A9lin",
+  "dboClass" : "dbo:Actor",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15475",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Huanshan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1937-7-13" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Beijing" ],
+    "dbo:wikiPageID" : [ "35714553" ],
+    "dbo:wikiPageRevisionID" : [ "726146995" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Right-wing_politics", "http://dbpedia.org/resource/Zhang_Heng", "http://dbpedia.org/resource/Kangxi_Emperor", "http://dbpedia.org/resource/Xinjiang", "http://dbpedia.org/resource/Confucius_(2010_film)", "http://dbpedia.org/resource/Duke_Xian_of_Qin_(Shixi)", "http://dbpedia.org/resource/Subhuti", "http://dbpedia.org/resource/Leping", "http://dbpedia.org/resource/Huang_Baitao", "http://dbpedia.org/resource/The_Dream_of_Red_Mansions_(2010_TV_series)", "http://dbpedia.org/resource/Category:1937_births", "http://dbpedia.org/resource/Category:Chinese_male_film_actors", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/Category:Male_actors_from_Beijing", "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Communist_Party_of_China", "http://dbpedia.org/resource/Beijing_Film_Academy", "http://dbpedia.org/resource/Emperor_Gaozu_of_Han", "http://dbpedia.org/resource/Xiaozhuang_Mishi", "http://dbpedia.org/resource/Lin_Zexu", "http://dbpedia.org/resource/King_Goujian_of_Yue", "http://dbpedia.org/resource/Changping_of_the_War", "http://dbpedia.org/resource/Jiangshan_Weizhong", "http://dbpedia.org/resource/Shaolin_King_of_Martial_Arts", "http://dbpedia.org/resource/The_Founding_of_a_Republic", "http://dbpedia.org/resource/Beijing", "http://dbpedia.org/resource/Emperor_Wu_of_Han", "http://dbpedia.org/resource/The_Qin_Empire_(TV_series)", "http://dbpedia.org/resource/Laozi", "http://dbpedia.org/resource/Qian_Xuesen", "http://dbpedia.org/resource/Zhang_Lan", "http://dbpedia.org/resource/Nurhaci", "http://dbpedia.org/resource/List_of_Demi-Gods_and_Semi-Devils_characters", "http://dbpedia.org/resource/Category:Beijing_Film_Academy_alumni", "http://dbpedia.org/resource/Jiangxi", "http://dbpedia.org/resource/Category:Chinese_male_television_actors", "http://dbpedia.org/resource/Jiaqing_Emperor", "http://dbpedia.org/resource/Li_Hongzhang", "http://dbpedia.org/resource/Li_Zicheng", "http://dbpedia.org/resource/Liu_Bowen", "http://dbpedia.org/resource/Yu_Youren", "http://dbpedia.org/resource/Anti-Rightist_Movement", "http://dbpedia.org/resource/Journey_to_the_West_(2010_TV_series)", "http://dbpedia.org/resource/Demi-Gods_and_Semi-Devils_(2003_TV_series)", "http://dbpedia.org/resource/The_Legend_and_the_Hero", "http://dbpedia.org/resource/Song_of_the_Phoenix", "http://dbpedia.org/resource/Xǔ_(surname)", "http://dbpedia.org/resource/Wen_Zhong_(Shang_Dynasty)" ],
+    "dbp:birthPlace" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Beijing" ],
+    "dbp:name" : [ "Huanshan Xu" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15476",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Fan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1967-8-16" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Wuhan" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.rottentomatoes.com/celebrity/xu_fan" ],
+    "dbo:wikiPageID" : [ "36770259" ],
+    "dbo:wikiPageRevisionID" : [ "744554868" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Be_There_or_Be_Square", "http://dbpedia.org/resource/Sorry_Baby", "http://dbpedia.org/resource/Asia_Pacific_Screen_Award", "http://dbpedia.org/resource/Chuanqi_Huangdi_Zhu_Yuanzhang", "http://dbpedia.org/resource/Love_in_Space_(film)", "http://dbpedia.org/resource/Saving_General_Yang", "http://dbpedia.org/resource/Unforgettable_Life", "http://dbpedia.org/resource/Golden_Rooster_Award_for_Best_Actress", "http://dbpedia.org/resource/Rotten_Tomatoes", "http://dbpedia.org/resource/Back_to_1942", "http://dbpedia.org/resource/Empress_Ma_(Hongwu)", "http://dbpedia.org/resource/Category:Actresses_from_Wuhan", "http://dbpedia.org/resource/Hundred_Flowers_Award_for_Best_Actress", "http://dbpedia.org/resource/Category:1967_births", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/A_World_Without_Thieves", "http://dbpedia.org/resource/Wuhan", "http://dbpedia.org/resource/Aftershock_(2010_film)", "http://dbpedia.org/resource/The_Founding_of_a_Republic", "http://dbpedia.org/resource/She_Saihua", "http://dbpedia.org/resource/The_Rooftop_(film)", "http://dbpedia.org/resource/Asian_Film_Awards", "http://dbpedia.org/resource/The_Mirror_(1999_film)", "http://dbpedia.org/resource/Category:20th-century_Chinese_actresses", "http://dbpedia.org/resource/Category:21st-century_Chinese_actresses", "http://dbpedia.org/resource/Category:Chinese_film_actresses", "http://dbpedia.org/resource/Hubei", "http://dbpedia.org/resource/Golden_Horse_Award", "http://dbpedia.org/resource/Xú", "http://dbpedia.org/resource/Category:Chinese_television_actresses", "http://dbpedia.org/resource/Li_Lianying:_The_Imperial_Eunuch", "http://dbpedia.org/resource/Cell_Phone_(film)", "http://dbpedia.org/resource/Lotus_Lantern", "http://dbpedia.org/resource/Father_(2000_film)", "http://dbpedia.org/resource/Crossed_Lines_(film)", "http://dbpedia.org/resource/Feng_Xiaogang", "http://dbpedia.org/resource/Crash_Landing_(1999_film)", "http://dbpedia.org/resource/Consort_Zhen", "http://dbpedia.org/resource/Spicy_Love_Soup", "http://dbpedia.org/resource/Cairo_International_Film_Festival", "http://dbpedia.org/resource/Sigh_(film)", "http://dbpedia.org/resource/Railroad_Tigers", "http://dbpedia.org/resource/Golden_Rooster_Award_for_Best_Supporting_Actress", "http://dbpedia.org/resource/Flying_Apsaras_Award", "http://dbpedia.org/resource/Huabiao_Award", "http://dbpedia.org/resource/Students'_Choice_Award_for_Favorite_Actress" ],
+    "dbp:birthPlace" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Wuhan", "http://dbpedia.org/resource/Hubei" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15477",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Qing",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1969-1-22" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Beijing" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.xuqing.cn/", "http://data.ent.sina.com.cn/star/494.html" ],
+    "dbo:wikiPageID" : [ "37267348" ],
+    "dbo:wikiPageRevisionID" : [ "741028587" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Participants_in_Chinese_reality_television_series", "http://dbpedia.org/resource/Flash_Point_(film)", "http://dbpedia.org/resource/The_Emperor's_Shadow", "http://dbpedia.org/resource/Da_Qing_Fengyun", "http://dbpedia.org/resource/Hundred_Flowers_Award_for_Best_Actress", "http://dbpedia.org/resource/Category:1969_births", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Beijing_Film_Academy", "http://dbpedia.org/resource/Qian_Xiuling", "http://dbpedia.org/resource/Looper_(film)", "http://dbpedia.org/resource/The_Founding_of_a_Republic", "http://dbpedia.org/resource/Beijing", "http://dbpedia.org/resource/Bruce_Willis", "http://dbpedia.org/resource/Category:Actresses_from_Beijing", "http://dbpedia.org/resource/Category:Chinese_film_actresses", "http://dbpedia.org/resource/Chen_Kaige", "http://dbpedia.org/resource/List_of_The_Smiling,_Proud_Wanderer_characters", "http://dbpedia.org/resource/Category:Beijing_Film_Academy_alumni", "http://dbpedia.org/resource/Jin_Yong", "http://dbpedia.org/resource/Category:Tujia_people", "http://dbpedia.org/resource/Tujia_people", "http://dbpedia.org/resource/Category:Chinese_television_actresses", "http://dbpedia.org/resource/Laughing_in_the_Wind", "http://dbpedia.org/resource/Mr._Six_(film)", "http://dbpedia.org/resource/League_of_Gods", "http://dbpedia.org/resource/Agreed_Not_to_Separate", "http://dbpedia.org/resource/Soong_Ching-ling", "http://dbpedia.org/resource/Huayi_Brothers", "http://dbpedia.org/resource/Taiyi_Zhenren", "http://dbpedia.org/resource/Life_on_a_String_(film)", "http://dbpedia.org/resource/Empress_Dowager_Xiaozhuang", "http://dbpedia.org/resource/Ren_Yingying", "http://dbpedia.org/resource/Xǔ_(surname)", "http://dbpedia.org/resource/Sina.com" ],
+    "dbp:birthPlace" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Beijing" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity15478",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Zheng_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:birthDate" : [ "1972-4-18" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Shanghai" ],
+    "dbo:wikiPageExternalLink" : [ "http://weibo.com/1783286485" ],
+    "dbo:wikiPageID" : [ "37916470" ],
+    "dbo:wikiPageRevisionID" : [ "725334042" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/The_Liar_(Goldoni_play)", "http://dbpedia.org/resource/Much_Ado_About_Nothing", "http://dbpedia.org/resource/Category:Participants_in_Chinese_reality_television_series", "http://dbpedia.org/resource/Jianwen_Emperor", "http://dbpedia.org/resource/Category:Chinese_film_directors", "http://dbpedia.org/resource/Fit_Lover", "http://dbpedia.org/resource/List_of_highest-grossing_films_in_China", "http://dbpedia.org/resource/Children's_Palace_(China)", "http://dbpedia.org/resource/The_Bachelor_(Chinese_TV_series)", "http://dbpedia.org/resource/Category:Chinese_theatre_directors", "http://dbpedia.org/resource/Last_of_the_Red_Hot_Lovers", "http://dbpedia.org/resource/Category:1972_births", "http://dbpedia.org/resource/Category:20th-century_Chinese_male_actors", "http://dbpedia.org/resource/Category:21st-century_Chinese_male_actors", "http://dbpedia.org/resource/Category:Chinese_male_film_actors", "http://dbpedia.org/resource/Category:Living_people", "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Shanghai", "http://dbpedia.org/resource/Standard_Chinese", "http://dbpedia.org/resource/Emperor_Renzong_of_Song", "http://dbpedia.org/resource/No_Man's_Land_(2013_film)", "http://dbpedia.org/resource/Category:Male_actors_from_Shanghai", "http://dbpedia.org/resource/Category:Chinese_filmmakers", "http://dbpedia.org/resource/Legend_of_a_Rabbit", "http://dbpedia.org/resource/Lost_on_Journey", "http://dbpedia.org/resource/TV_Drama_Awards_Made_in_China", "http://dbpedia.org/resource/The_Great_Hypnotist", "http://dbpedia.org/resource/Beijing_Enlight_Pictures", "http://dbpedia.org/resource/Breakup_Buddies", "http://dbpedia.org/resource/Li_Wei_the_Magistrate", "http://dbpedia.org/resource/Li_Wei_the_Magistrate_II", "http://dbpedia.org/resource/Lost_in_Hong_Kong", "http://dbpedia.org/resource/Love_Through_Different_Times", "http://dbpedia.org/resource/No_Lonely_Angels", "http://dbpedia.org/resource/One_Night_in_Supermarket", "http://dbpedia.org/resource/Sunny_Piggy", "http://dbpedia.org/resource/To_Live_to_Love", "http://dbpedia.org/resource/Unfinished_Girl", "http://dbpedia.org/resource/Sina_Weibo", "http://dbpedia.org/resource/Love_in_the_Buff", "http://dbpedia.org/resource/Meet_the_In-Laws_(2012_film)", "http://dbpedia.org/resource/The_Lucky_Stars", "http://dbpedia.org/resource/Huang_Bo", "http://dbpedia.org/resource/Hundred_Flowers_Awards", "http://dbpedia.org/resource/Fake_Fiction", "http://dbpedia.org/resource/One_Night_Surprise", "http://dbpedia.org/resource/Beijing", "http://dbpedia.org/resource/Category:Shanghai_Theatre_Academy_alumni", "http://dbpedia.org/resource/Emperor_Zhenzong", "http://dbpedia.org/resource/Crazy_Racer", "http://dbpedia.org/resource/Lost_in_Thailand", "http://dbpedia.org/resource/Tao_Hong_(actress,_born_1972)", "http://dbpedia.org/resource/Prime_Minister_of_Thailand", "http://dbpedia.org/resource/Category:Chinese_male_television_actors", "http://dbpedia.org/resource/Category:Chinese_male_voice_actors", "http://dbpedia.org/resource/Zhu_Bajie", "http://dbpedia.org/resource/Chinese_American_Film_Festival", "http://dbpedia.org/resource/Crazy_Stone_(film)", "http://dbpedia.org/resource/Sky_Lovers_(TV_series)", "http://dbpedia.org/resource/Call_for_Love", "http://dbpedia.org/resource/Huabiao_Awards", "http://dbpedia.org/resource/Xuanzang_(film)", "http://dbpedia.org/resource/I'm_a_Boss", "http://dbpedia.org/resource/Shanghai_Theatre_Academy", "http://dbpedia.org/resource/The_Showroom_Tales", "http://dbpedia.org/resource/Beijing_College_Student_Film_Festival", "http://dbpedia.org/resource/Zhejiang_Television", "http://dbpedia.org/resource/Art_(play)", "http://dbpedia.org/resource/Wang_Ming", "http://dbpedia.org/resource/China_Film_Director's_Guild_Awards", "http://dbpedia.org/resource/China_Movie_Channel_Media_Awards", "http://dbpedia.org/resource/Category:Film_directors_from_Shanghai", "http://dbpedia.org/resource/Long_Day's_Journey_into_Night", "http://dbpedia.org/resource/Lü_Dongbin", "http://dbpedia.org/resource/Zhang_Guolao", "http://dbpedia.org/resource/Li_Wei_(Qing_dynasty)", "http://dbpedia.org/resource/Crossed_Lines_(film)", "http://dbpedia.org/resource/Ning_Hao", "http://dbpedia.org/resource/Huading_Awards", "http://dbpedia.org/resource/32nd_Hundred_Flowers_Awards", "http://dbpedia.org/resource/Category:Chinese_male_stage_actors", "http://dbpedia.org/resource/Shanghainese", "http://dbpedia.org/resource/Yingluck_Shinawatra", "http://dbpedia.org/resource/Wang_Baoqiang", "http://dbpedia.org/resource/Shi_Yukun", "http://dbpedia.org/resource/29th_Hundred_Flowers_Awards", "http://dbpedia.org/resource/Run_Daddy_Run", "http://dbpedia.org/resource/Hundred_Flowers_Award_for_Best_Actor", "http://dbpedia.org/resource/Hundred_Flowers_Award_for_Best_Supporting_Actor", "http://dbpedia.org/resource/Youth_Film_Handbook", "http://dbpedia.org/resource/Shanghai_Dramatic_Arts_Centre" ],
+    "dbp:birthPlace" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Shanghai" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

@@ -1,0 +1,5 @@
+# dbo:Politician_dbp:stateHouse_probability_0.45_0.45.txt ################################################
+id=12  property=dbp:stateHouse  object=North Carolina  NumberOfEntitiesFoundForObject=73
+term-NN  multiply=0.308702  P(term|object)=0.547945  P(object|term)=0.56338    
+democratic-JJ  multiply=0.284287  P(democratic|object)=0.575342  P(object|democratic)=0.494118    
+

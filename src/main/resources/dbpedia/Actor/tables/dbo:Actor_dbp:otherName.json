@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity11523",
+  "entityUrl" : "http://dbpedia.org/resource/Caisar_Aditya_Putra",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:otherName" : [ "Caisar Keep Smile" ]
+  },
+  "words" : [ "Putra", "became", "career", "-LRB-", "Caisar", "entertainment", "Keep", "29", "March", "focus", "life", "comedian", "world", "known", "Indonesian", "dance", "business", "born", "performing", "personal", "Aditya", "Smile", ",", "unpopular", ".", "Yuk", "August", "dancer", "actor", "2015", "-RRB-", "leaving", "1989", "stated", "since" ],
+  "adjectives" : [ "Caisar", "Indonesian", "personal", "unpopular" ],
+  "nouns" : [ "comedian", "dancer", "actor", "career", "world", "business", "entertainment", "Smile", "dance", "Yuk", "life" ],
+  "text" : "Caisar Putra Aditya known as Caisar Keep Smile (born August 29, 1989) is an Indonesian comedian, dancer, and actor. He became unpopular since performing the Caisar dance in Yuk Keep Smile. In March 2015, he stated he is leaving the world of entertainment to focus on his personal life and a career in business."
+}, {
+  "entityIndex" : "2_entity11696",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Chew",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:otherName" : [ "Auntie Lucy" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "woman", "singer", "93.3", "Dennis", "FM", "show", "cross-dress", "radio", "Kheng", "character", "1973", "known", "variety", "Aunty", "Chew", "Chongqing", "host", "deejays", "popular", "Zhou", "Chong", "15", "born", "one", "also", ",", "'s", ".", "August", "middle-aged", "actor", "Milan", "name", "-RRB-", "Chinese", "playing", ";", "Lucy", "family", "deejay", "Y.E.S.", "Paris", "requires" ],
+  "adjectives" : [ "Singaporean", "Chinese", "popular", "middle-aged" ],
+  "nouns" : [ "actor", "character", "woman", "singer", "variety", "name", "show", "host", "family", "deejay", "radio" ],
+  "text" : "(This is a Chinese name; the family name is Chew.) Dennis Chew Chong Kheng (born 15 August 1973), also known as Zhou Chongqing, is a Singaporean radio deejay, actor, variety show host and singer. Chew is known for being one of Y.E.S. 93.3FM's most popular deejays and for playing Aunty Lucy, a character which requires him to cross-dress as a middle-aged woman in the variety show Paris and Milan."
+} ]

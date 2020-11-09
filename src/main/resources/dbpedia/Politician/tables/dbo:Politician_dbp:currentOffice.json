@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity19241",
+  "entityUrl" : "http://dbpedia.org/resource/Will_Kraus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:currentOffice" : [ "http://dbpedia.org/resource/Missouri_State_Senate,_8th_District" ]
+  },
+  "words" : [ "22", "Tapawingo", "-LRB-", "Grain", "part", "March", "Jackson", "Lake", "Summit", "County", "Kraus", "represents", "1973", "Missouri", "Jack", "Springs", "Lotawana", "cities", "Blue", "Greenwood", "born", "Independence", "includes", ",", "'s", "Lee", "Grove", ".", "Senate", "Valley", "State", "district", "-RRB-", "Oak", "Eastern", "Lone" ],
+  "adjectives" : [ ],
+  "nouns" : [ "district", "part" ],
+  "text" : "Will Kraus (born March 22, 1973) represents Eastern Jackson County, Missouri in the Missouri State Senate. The district includes the cities of Blue Springs, Grain Valley, Greenwood, Independence (part), Lake Lotawana, Lake Tapawingo, Lee's Summit, Lone Jack and Oak Grove.",
+  "patterns" : { }
+} ]

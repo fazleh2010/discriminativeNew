@@ -1,0 +1,109 @@
+[ {
+  "entityIndex" : "1_entity10789",
+  "entityUrl" : "http://dbpedia.org/resource/K._Rani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "M.A., B.Ed" ]
+  },
+  "words" : [ "14th", "Nadu", "Congress", "K.", "-LRB-", "May", "political", "Rasipuram", "Sabha", "National", "member", "represented", "1958", "born", "19", "Lok", "Rani", ".", "Tamil", "India", "constituency", "reserved", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "reserved", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "Rasipuram", "party" ],
+  "text" : "K. Rani (born 19 May 1958) was a member of the 14th Lok Sabha of India. She represented the Rasipuram which is a reserved constituency of Tamil Nadu and was a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity10812",
+  "entityUrl" : "http://dbpedia.org/resource/Kirodi_Lal_Meena",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "http://dbpedia.org/resource/M.B.B.S._Educated_at_S.P._Medical_College,_Bikaner,_Rajasthan" ]
+  },
+  "words" : [ "MBBS", "-LRB-", "Meena", "2008", "Sabha", "1951", "Party", "National", "Bharatiya", "member", "state", "profession", "MP", "Janata", "People", "Lok", "Dausa", ",", "'s", "-", "Rajasthan", ".", "doctor", "constituency", "2016", "left", "Lal", "Kirodi", "-RRB-", "Indian" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "doctor", "profession", "MBBS", "MP", "constituency", "member", "state" ],
+  "text" : "Kirodi Lal Meena (1951 - ) is an Indian MBBS doctor by profession. He was MP from Dausa Lok Sabha constituency of the Indian state of Rajasthan. He was in Bharatiya Janata Party, but left it in 2008. As of 2016 he was a member of National People's Party. He was a cabinet minister and held the portfolio of food and civil supplies. He belongs to the Meena community.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity9447",
+  "entityUrl" : "http://dbpedia.org/resource/Jaywantrao_Awale",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "Higher Secondary" ]
+  },
+  "words" : [ "``", "Latur", "Congress", "-LRB-", "political", "Awale", "15th", "represents", "Sabha", "National", "member", "July", "Maharashtra", "Ichalkaranji", "''", "Jaywant", "born", "Jaywantrao", "Lok", ",", "Gangaram", ".", "India", "1940", "constituency", "6", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "Jaywant", "political", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "Ichalkaranji", "party" ],
+  "text" : "Jaywant Gangaram Awale (born 6 July 1940, Ichalkaranji)\"Jaywantrao Awale\". is a member of the 15th Lok Sabha of India. He represents the Latur constituency of Maharashtra and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity18290",
+  "entityUrl" : "http://dbpedia.org/resource/Vinay_Katiyar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "B.Com" ]
+  },
+  "words" : [ "Lower", "-LRB-", "Secretary", "organisation", "BJP", "Vishwa", "youth", "1954", "nationalist", "Katiyar", "Sabha", "Kanpur", "Party", "Hindu", "Bharatiya", "member", "national", "Member", "Vinay", "November", "VHP", "11", "Parishad", "Upper", "founder-president", "Janata", "born", "Lok", "House", ",", "Dal", ".", "India", "Rajya", "currently", "served", "-RRB-", "General", "wing", "Parliament", "Bajrang" ],
+  "adjectives" : [ "nationalist", "national" ],
+  "nouns" : [ "founder-president", "member", "organisation", "wing", "youth" ],
+  "text" : "Vinay Katiyar (born 11 November 1954, Kanpur) is the founder-president of Bajrang Dal, the youth wing of the Hindu nationalist organisation Vishwa Hindu Parishad (VHP) in India. He has served as a national General Secretary of the Bharatiya Janata Party (BJP), and as a Member of Parliament in the Lower House, Lok Sabha. He is currently a member of the Upper House, the Rajya Sabha.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity7304",
+  "entityUrl" : "http://dbpedia.org/resource/Hukumchand_Amdhare",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "Graduate" ]
+  },
+  "words" : [ "Amdhare", "-LRB-", "September", "Hukumchand", "born", "29", "politician", "-RRB-", "Govindrao", "Indian", "1956", "." ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "politician" ],
+  "text" : "Hukumchand Govindrao Amdhare (born 29 September 1956) is an Indian politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity17293",
+  "entityUrl" : "http://dbpedia.org/resource/Satish_Mahana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "B. Sc." ]
+  },
+  "words" : [ "-LRB-", "MLA", "Leader", "participated", "BJP", "Mahana", "2009", "belonging", "general", "October", "candidate", "Sabha", "Kanpur", "Satish", "Vice", "14", "six", "Cantonment", "born", "politician", "representing", "also", "elections", ".", "asa", "U.P.", "Maharajpur", "Vidhan", "constituency", "1960", "2014", "-RRB-", "Indian", "time" ],
+  "adjectives" : [ "general", "Indian" ],
+  "nouns" : [ "candidate", "MLA", "constituency", "politician", "time" ],
+  "text" : "Satish Mahana (born 14 October 1960) is an Indian politician belonging to BJP. He was six time MLA from Kanpur Cantonment and as of 2014 representing Maharajpur constituency of Kanpur. He also participated in the 2009 general elections asa BJP candidate from Kanpur. He was the Vice Leader of BJP in U.P. Vidhan Sabha.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity17294",
+  "entityUrl" : "http://dbpedia.org/resource/Salil_Vishnoi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "B.Sc." ]
+  },
+  "words" : [ "leader", "-LRB-", "MLA", "Arya", "Generalganj", "two", "times", "Party", "Kanpur", "earlier", "Pradesh", "Bharatiya", "member", "July", "Nagar", "Salil", "Assembly", "1955", "Uttar", "Janata", "born", "Vishnoi", ".", "unit", "constituency", "served", "-RRB-", "9", "Legislative" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "leader", "unit", "constituency", "member", "Assembly" ],
+  "text" : "Salil Vishnoi (born 9 July 1955 ) is a leader of Bharatiya Janata Party in Kanpur Uttar Pradesh unit. He is now member of Uttar Pradesh Legislative Assembly from Arya Nagar. He has earlier served Generalganj constituency of Kanpur as MLA two times.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity14449",
+  "entityUrl" : "http://dbpedia.org/resource/Premlata_Katiyar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "B.Com" ]
+  },
+  "words" : [ "Uttar", "MLA", "minister", "Government", "Lata", "Janata", "Prem", "community", "former", ".", "India", "Vice-President", "Katiyar", "unit", "Party", "Ex", "Kanpur", "Kurmi", "Pradesh", "Bharatiya", "cabinet" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "unit", "MLA", "minister", "Government", "community", "cabinet" ],
+  "text" : "Prem Lata Katiyar is a former cabinet minister in Government of Uttar Pradesh in India. She is the Vice-President of Bharatiya Janata Party Uttar Pradesh unit. She is now an Ex MLA from Kanpur. She is from Kurmi community. Premlata Katiyar has been a minister in governments in Uttar Pradesh headed by Kalyan Singh, Ram Prakash Gupta, Raj Nath Singh and even Mayawati (when the BSP had a tie-up with the BJP). Representing Kanpur’s Kalyanpur Assembly seat (under which IIT-Kanpur falls) continuously since 1991, this Kurmi leader has no relative connection with another UP BJP leader Vinay Katiyar. While Vinay Katiyar is known more for his hardline Hindutva, Premlata’s association with the BJP began with the anti-Emergency movement. Her daughter, Neelima, is now an office-bearer in the state Bharatiya Janata Yuva Morcha.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity1615",
+  "entityUrl" : "http://dbpedia.org/resource/Ashok_Kumar_Singh_Chandel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:educationalQualifications" : [ "B.A." ]
+  },
+  "words" : [ "Kumar", "-LRB-", "thirteenth", "1954", "represents", "Sabha", "Pradesh", "member", "Singh", "Chandel", "July", "Hamirpur", "Assembly", "Uttar", "born", "politician", "Lok", "also", ".", "elected", "4", "constituency", "-RRB-", "Indian", "Legislative", "Ashok" ],
+  "adjectives" : [ "Indian", "Legislative", "thirteenth" ],
+  "nouns" : [ "constituency", "politician", "member", "Assembly" ],
+  "text" : "Ashok Kumar Singh Chandel (born 4 July 1954) is an Indian politician from Uttar Pradesh. He was elected as member thirteenth Lok Sabha and represents Hamirpur constituency. He was also elected to Uttar Pradesh Legislative Assembly.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "1_entity14548",
+  "entityUrl" : "http://dbpedia.org/resource/Clear_Lake,_Oregon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Name" : [ "GNIS feature ID" ]
+  },
+  "words" : [ "Oregon", "named", "half", "north", "meander", "United", "Lake", "County", "N", "Clear", "States", "east", "disconnected", "west", "River", "219", "Route", "Wheatland", "unincorporated", "likely", "Willamette", "Keizer", "Road", "mile", "community", ",", ".", "approximately", "Marion" ],
+  "adjectives" : [ "unincorporated", "likely", "east", "west" ],
+  "nouns" : [ "half", "mile", "north", "meander", "west", "community" ],
+  "text" : "Clear Lake is an unincorporated community in Marion County, Oregon, United States, just north of Keizer. It is west and north of Oregon Route 219 and east of Wheatland Road N. It is likely named for Clear Lake which is approximately a half mile west of it, a disconnected meander of the Willamette River."
+}, {
+  "entityIndex" : "2_entity15849",
+  "entityUrl" : "http://dbpedia.org/resource/Elmhurst,_Indiana",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Name" : [ "GNIS feature ID" ]
+  },
+  "words" : [ "Madison", "Indiana", "latitude", "United", "County", "States", "America", "North", "place", "52", "longitude", "''", "Elmhurst", "17", "West", "'", ",", ".", "°", "5", "State", "located", "40", "85", "43" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "State", "latitude", "place", "longitude" ],
+  "text" : "Elmhurst is a place in Madison County in the State of Indiana in the United States of America. It is located at latitude 40°5'52\" North, longitude 85°43'17\" West."
+}, {
+  "entityIndex" : "3_entity18173",
+  "entityUrl" : "http://dbpedia.org/resource/Huaquechula",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Name" : [ "http://dbpedia.org/resource/Demonym" ]
+  },
+  "words" : [ "``", "sorghum", "cabo", "year", "corn", "moved", "del", "peanuts", "agricultural", "far", "members", "state", "raising", "dedicated", "Municipality", "town", "Dead", "1110", "dates", ",", "community", ".", "twice", "Huaquechula", "traditions", "even", "altars", "año", "Cross", "least", "back", "Feast", "crops", "died", "settlement", "founding", "current", "central", "Puebla", "known", "related", "today", "Since", "handcrafts", "''", "CE", "previous", "center", "although", "located", "Mexico", "well", "location", "family", "Day" ],
+  "adjectives" : [ "current", "central", "agricultural", "previous", "located" ],
+  "nouns" : [ "sorghum", "town", "year", "corn", "center", "Feast", "community", "settlement", "founding", "today", "location", "state", "family", "Day" ],
+  "text" : "Huaquechula is a town in Huaquechula Municipality located in state of Puebla in central Mexico. The settlement dates back at least as far as 1110 CE although its center has moved to twice to its current location. Since its founding, it has been an agricultural community, today raising crops such as peanuts, corn and sorghum, although there are some handcrafts as well. The town is known for its traditions related to the Feast of the Cross, but even more so for its “cabo del año” altars on Day of the Dead, which are dedicated to family members who have died during the previous year. These have been declared a cultural heritage of the state of Puebla and bring tourists to the town, mostly from Puebla."
+}, {
+  "entityIndex" : "4_entity15399",
+  "entityUrl" : "http://dbpedia.org/resource/Deem_City,_Florida",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Name" : [ "GNIS feature ID" ]
+  },
+  "words" : [ "24", "-LRB-", "27", "line", "northwest", "United", "county", "County", "miles", "States", "Beach", "U.S.", "Weston", "near", "Route", "unincorporated", "km", "15", "Beach/Broward", "Deem", "City", "community", ",", "Florida", ".", "approximately", "Palm", "-RRB-", "located" ],
+  "adjectives" : [ "unincorporated", "located" ],
+  "nouns" : [ "km", "line", "county", "community" ],
+  "text" : "Deem City is an unincorporated community in Palm Beach County, Florida, United States, located approximately 15 miles (24 km) northwest of Weston on U.S. Route 27, near the Palm Beach/Broward county line."
+}, {
+  "entityIndex" : "5_entity28100",
+  "entityUrl" : "http://dbpedia.org/resource/Texarkana_metropolitan_area",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Name" : [ "GNIS feature ID" ]
+  },
+  "words" : [ "Office", "-LRB-", "TX", "143,486", "United", "anchored", "2010", "Arkansas", "County", "States", "Bowie", "Ark-La-Tex", "MSA", "Budget", "broader", "defined", "twin", "Metropolitan", "two-county", "--", "surrounding", "encompassing", "cities", "Management", ",", ".", "population", "AR", "Area", "Texarkana", "Texas", "Miller", "census", "Statistical", "-RRB-", "region", "subset", "communities" ],
+  "adjectives" : [ "twin", "two-county" ],
+  "nouns" : [ "Ark-La-Tex", "AR", "census", "region", "subset", "population" ],
+  "text" : "The Texarkana, AR–Texarkana, TX Metropolitan Statistical Area (MSA), as defined by the United States Office of Management and Budget, is a two-county region anchored by the twin cities of Texarkana, Texas and Texarkana, Arkansas, and encompassing the surrounding communities in Bowie County, Texas and Miller County, Arkansas. As of the 2010 census, the MSA had a population of 143,486. Texarkana is a subset of the broader Ark-La-Tex region."
+}, {
+  "entityIndex" : "6_entity11199",
+  "entityUrl" : "http://dbpedia.org/resource/Armorel,_Arkansas",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Name" : [ "GNIS feature ID" ]
+  },
+  "words" : [ "Company", "rural", "County", "Arkansas", "1899", "R.E.L.", "312", "largely", "land", "lies", "company", "variously", "magnate", "holdings", "estimates", "area", "unincorporated", "given", "devoted", "town", "lumber", "Highway", "18", "one", "founded", "Wilson", "community", ",", "many", "forests", "people", "Lee", ".", "population", "Mississippi", "300", "500", "farms", "Armorel", "located", "president" ],
+  "adjectives" : [ "unincorporated", "rural", "many" ],
+  "nouns" : [ "area", "town", "lumber", "land", "company", "magnate", "community", "population", "president" ],
+  "text" : "Armorel is an unincorporated community located in Mississippi County, Arkansas. A largely rural area with most of its land devoted to forests and farms, population estimates are variously given as between 300 and 500 people. Most of the town lies between Arkansas Highway 18 and Arkansas Highway 312. The town was founded in 1899 by lumber magnate and president of Lee Wilson and Company, R.E.L. Wilson as one of his many company holdings. Wilson was an eclectic and colorful figure with vast land holdings in the Delta area after the Civil War. Also a big believer in education, Wilson was one of the original trustees of Arkansas State University, then A & M College. He sat on the board from 1917 until his death in 1933. The town's name was formed from the abbreviations of Arkansas and Missouri, along with the first three initials of its founder, R.E.L. Wilson."
+} ]

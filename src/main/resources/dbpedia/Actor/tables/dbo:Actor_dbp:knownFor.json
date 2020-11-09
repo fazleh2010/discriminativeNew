@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity13134",
+  "entityUrl" : "http://dbpedia.org/resource/Kelly_George_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:knownFor" : [ "Actor/Producer" ]
+  },
+  "words" : [ "``", "BBC", "Ray", "Cameron", "Davis", "December", "Penny", "character", "Like", "George", "school", "1970", "Charlie", "join", "written", "Musical", "Kips", "studying", "Acting", "Carl", "19", "filmed", ",", "'s", "Bates", ".", "Three", "1984", "Kip", "Theatre", "-RRB-", "playing", "Sir", "Opera", "Christine", "-LRB-", "Hill", "association", "Youngs", "War", "best", "Grange", "title", "long", "finishing", "drama", "known", "asked", "Sylvia", "Mcintosh", "''", "British", "Oliver", "born", "started", "played", "Kelly", "home", "actor", "Haynes", "series", "Career", "Place" ],
+  "adjectives" : [ "British", "Musical", "long" ],
+  "nouns" : [ "actor", "drama", "character", "school", "series", "association", "playing", "title", "Place", "home" ],
+  "text" : "Kelly George (born 19 December 1970) is a British actor, best known for his long association with the BBC school drama series, playing Ray Haynes in Grange Hill. Kelly's Acting Career started in 1984 playing Charlie Bates in Cameron Mcintosh \"Oliver\" and after finishing was asked to join Sylvia Youngs Theatre school. While studying there he filmed \"Who Sir Me Sir\", \"Three Penny Opera\" \" No Place Like home\", \"Christine\", and had a Carl Davis Musical written for him \" Kips War\" where he played the title character Kip."
+}, {
+  "entityIndex" : "2_entity10710",
+  "entityUrl" : "http://dbpedia.org/resource/Annie_Lambert",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:knownFor" : [ "Doctor Who role" ]
+  },
+  "words" : [ "New", "TV", "fiction", "Enlightenment", "moved", "several", "Sweeney", "soon", "photographers", "worked", "January", "sister", "Space", "actress", "Small", "younger", "Making", "work", "'", ",", "'s", ".", "Lambert", "Babies", "3", "Morse", "1982", "2point4", "science", "Kit", "-RRB-", "London", ":", "1946", "East", "Avengers", "acting", "-LRB-", "role", "best", "Way", "Creatures", "Doomsday", "Vogue", "known", "credits", "Howards", "News", "Inspector", "Annie", "Children", "Sussex", "sit", "1999", "include", "British", "manager", "television", "born", "Four", "assistant", "persuaded", "Doctor", "grew", "fans", "Bluebell", "Great", "Rockliffe", "Lovejoy", "serial", "series", "first", "fashion", "Minder", "Westbeach" ],
+  "adjectives" : [ "Great", "British", "Small", "several", "first" ],
+  "nouns" : [ "actress", "TV", "role", "manager", "fiction", "Enlightenment", "television", "work", "assistant", "Way", "serial", "series", "science", "Kit", "sister", "fashion" ],
+  "text" : "Annie Lambert (born 3 January 1946) is a British actress, best known to fans of the science fiction television series Doctor Who for her role as Enlightenment in the 1982 serial Four to Doomsday. She grew up in East Sussex and her first work in London was as a fashion assistant at Vogue, but several of the photographers she worked with persuaded her to sit for them, and she soon moved into acting. She is the younger sister of Kit Lambert, who was the manager of The Who. Her other TV credits include: The Sweeney, Space: 1999, The New Avengers, All Creatures Great and Small, Bluebell, Inspector Morse, Rockliffe's Babies, Howards' Way, Lovejoy, Minder, Making News, Westbeach and 2point4 Children."
+} ]

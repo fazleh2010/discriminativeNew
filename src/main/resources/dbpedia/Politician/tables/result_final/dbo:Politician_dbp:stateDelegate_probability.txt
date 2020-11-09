@@ -1,0 +1,6 @@
+# dbo:Politician_dbp:stateDelegate_probability_0.45_0.45.txt #########################################
+id=13  property=dbp:stateDelegate  object=Maryland  NumberOfEntitiesFoundForObject=54
+district-NN  multiply=0.604839  P(district|object)=0.833333  P(object|district)=0.725806    
+politician-NN  multiply=0.568182  P(politician|object)=0.833333  P(object|politician)=0.681818    
+member-NN  multiply=0.468339  P(member|object)=0.518519  P(object|member)=0.903226    
+

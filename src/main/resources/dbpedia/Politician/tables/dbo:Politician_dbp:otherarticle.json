@@ -1,0 +1,133 @@
+[ {
+  "entityIndex" : "1_entity9217",
+  "entityUrl" : "http://dbpedia.org/resource/Jean_Boyer_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "Jean Boyer" ]
+  },
+  "words" : [ "Nouveau", "français", "membre", "-LRB-", "politique", "est", "janvier", "Jean", "Puy-en-Velay", ",", "Centre", "Haute-Loire", ".", "Boyer", "du", "homme", "4", "au", "NC", "-RRB-", "le", "un", "né", "1937" ],
+  "adjectives" : [ ],
+  "nouns" : [ "membre", "homme", "au", "politique", "est", "janvier", "un", "né" ],
+  "text" : "Jean Boyer, né le 4 janvier 1937 au Puy-en-Velay (Haute-Loire), est un homme politique français membre du Nouveau Centre (NC).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity9725",
+  "entityUrl" : "http://dbpedia.org/resource/Jos_Geysels",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "Jos Geysels" ]
+  },
+  "words" : [ "juin", "de", "-LRB-", "Il", "politique", "fut", "Geysels", "secrétaire", "est", "ONG", "parti", "A.M.", "du", "1952", "2007", "11.11.11", "des", "septembre", "un", "coupole", "flamandes", "Depuis", "écologique", "à", "Turnhout", "!", "il", "Josephus", "Elisabeth", "étudié", "l'université", ",", ".", "Jos", "sociologie", "président", "homme", "Groen", "flamand", "la", "-RRB-", "d'Anvers", "le", "né", "20" ],
+  "adjectives" : [ ],
+  "nouns" : [ "juin", "Il", "il", "politique", "fut", "secrétaire", "est", "parti", "président", "homme", "septembre", "flamand", "un", "né", "écologique" ],
+  "text" : "Josephus Elisabeth A.M. (Jos) Geysels, né le 20 septembre 1952 à Turnhout, est un homme politique flamand. Il fut secrétaire politique du parti écologique flamand Groen!. Depuis le 20 juin 2007, il est président de 11.11.11, la coupole des ONG flamandes. Geysels a étudié la sociologie à l'université d'Anvers. Le 28 janvier 2002 il fut nommé ministre d'État.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity19533",
+  "entityUrl" : "http://dbpedia.org/resource/Werner_Schulz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "Werner Schulz" ]
+  },
+  "words" : [ "22", "Politiker", "-LRB-", "Grünen", "ist", "ein", "Schulz", "Er", "bis", "sich", "2009", "der", "des", "DDR", "1950", "von", "2005", "Bundestages", "90/Die", "durchsetzen", "seiner", "gilt", "dauerhaft", "profilierte", "Januar", "einzige", "Parlaments", "deutscher", "Partei", "1990", "war", "als", "Gustav", "*", "und", ",", "Werner", ".", "Bürgerrechtler", "Europäischen", "Mitglied", "Deutschen", "konnte", "Bündnis", "2014", "-RRB-", "aus", "Zwickau" ],
+  "adjectives" : [ "Januar", "einzige" ],
+  "nouns" : [ "Politiker", "Grünen", "deutscher", "Partei", "war", "und", "ist", "ein", "Bürgerrechtler", "konnte", "von", "Bündnis", "90/Die", "durchsetzen", "seiner", "gilt", "dauerhaft", "profilierte", "aus" ],
+  "text" : "Werner Gustav Schulz (* 22. Januar 1950 in Zwickau) ist ein deutscher Politiker (Bündnis 90/Die Grünen). Er war von 1990 bis 2005 Mitglied des Deutschen Bundestages und von 2009 bis 2014 Mitglied des Europäischen Parlaments. Schulz gilt als der einzige profilierte Bürgerrechtler aus der DDR, der sich in seiner Partei dauerhaft durchsetzen konnte. Aktuell vertrat er in der Sendung Zug um Zug, Streit um Ende der Sanktionen gegen Russland am 1. Juni 2016 (Zeitmarke 7:16) die Meinung, dass als einzig wirksame Sanktion der Westen den Vertrag von Montreux (auch Meerengen-Abkommen) vom 20. Juli 1936 aufkündigen und so der Bosporus für die russische Schwarzmeerflotte gesperrt werden sollte. Um diese Blockade durchführen zu können, dafür benötigt „Der Westen“ die Türkei.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity11884",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Ki-poong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "이기붕" ]
+  },
+  "words" : [ "、", "。", "만송", "起鵬", "イ", "大韓民国の政治家", "（", "）", "1896年12月20日", "「", "-", "」", "李", "は", "号は", "ギブン", "本貫は全州李氏", "晩松", "・", "이기붕", "1960年4月28日", "マンソン" ],
+  "adjectives" : [ ],
+  "nouns" : [ "は" ],
+  "text" : "李 起鵬（イ・ギブン、이기붕、1896年12月20日 - 1960年4月28日）は、大韓民国の政治家。本貫は全州李氏。号は「晩松」（マンソン、만송）。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity11905",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Jung-hee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "리정희_" ]
+  },
+  "words" : [ "de", "politique", "militante", "est", "progressiste", "sud-coréenne", "du", "des", "député", "élue", "un", "décembre", "avant", "été", "Elle", "Parti", "李正姬", ",", "-", ".", "l'élection", "et", "fusion", "dirigeants", "humains", "précédemment", "au", "lors", "-RRB-", ":", "dont", "22", "l'assemblée", "sein", "-LRB-", "2012", "était", "Gukhoe", "avocate", "sa", "coréen", "elle", "présidentielle", "2009", "candidate", "travail", "Jung-hee", "élections", "tête", "à", "PDT", "féministe", "reste", "femme", "hanja", "Lee", "une", "이정희", "unifié", "리정희", "la", "droits", "nationale", "démocrate", "1969" ],
+  "adjectives" : [ "femme", "démocrate", "décembre", "avant", "une" ],
+  "nouns" : [ "l'assemblée", "sein", "politique", "progressiste", "était", "avocate", "sa", "coréen", "sud-coréenne", "candidate", "député", "élue", "travail", "Jung-hee", "été", "à", "féministe", "hanja", "l'élection", "unifié", "fusion", "précédemment", "au", "nationale", "dont" ],
+  "text" : "Lee Jung-hee (coréen : 이정희 et 리정희, hanja : 李正姬, 22 décembre 1969 - ) est une femme politique sud-coréenne, avocate, féministe et militante des droits humains. Elle a été élue député à l'assemblée nationale, la Gukhoe lors des élections de 2012. Elle est la candidate du Parti progressiste unifié à l'élection présidentielle de 2012. Elle était précédemment à la tête du Parti démocrate du travail (PDT) de 2009 à 2012 avant sa fusion au sein du Parti progressiste unifié dont elle reste un des dirigeants.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity17426",
+  "entityUrl" : "http://dbpedia.org/resource/Traian_Popovici",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "Traian Popovici" ]
+  },
+  "words" : [ "June", "-LRB-", "War", "20,000", "World", "Bukovina", "October", "Popovici", "known", "Jews", "1892", "deportation", "lawyer", "--", "II", "Cernăuţi", "mayor", "17", "Romanian", ",", ".", "saving", "4", "Traian", "-RRB-", "1946" ],
+  "adjectives" : [ "Romanian" ],
+  "nouns" : [ "mayor", "deportation", "lawyer" ],
+  "text" : "Traian Popovici (October 17, 1892 – June 4, 1946) was a Romanian lawyer and mayor of Cernăuţi during World War II, known for saving 20,000 Jews of Bukovina from deportation.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity15074",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Huldai",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "רון חולדאי" ]
+  },
+  "words" : [ "Laborista", "de", "hebreo", "-LRB-", "רון", "26", "político", "del", "Huldai", "Es", "Fuerza", "חולדאי", "Israelí", "un", "agosto", "en", "*", "caza", ",", "miembro", "es", ".", "dedicarse", "piloto", "Ron", "israelí", "Partido", "la", "política", "fue", "-RRB-", "Aérea", ":", "Anteriormente", "Israel", "1944" ],
+  "adjectives" : [ ],
+  "nouns" : [ "hebreo", "israelí", "político", "Israelí", "fue", "un", "dedicarse" ],
+  "text" : "Ron Huldai (en hebreo: רון חולדאי), ( * 26 de agosto de 1944) es un político israelí. Anteriormente a dedicarse a la política fue piloto de caza en la Fuerza Aérea Israelí. Es miembro del Partido Laborista de Israel.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity15137",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Triboulet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "Raymond Triboulet" ]
+  },
+  "words" : [ "français", "Sèvres", "de", "Raymond", "-LRB-", "politique", "26", "est", "Hauts-de-Seine", "2006", "mai", "mort", "un", "à", "99", "l'âge", "ans", "Triboulet", ",", ".", "et", "homme", "3", "-RRB-", "le", "1906", "né", "octobre", "Paris" ],
+  "adjectives" : [ ],
+  "nouns" : [ "à", "français", "homme", "politique", "est", "Hauts-de-Seine", "un", "né", "octobre" ],
+  "text" : "Raymond Triboulet est un homme politique français, né à Paris le 3 octobre 1906 et mort à Sèvres (Hauts-de-Seine) le 26 mai 2006 à l'âge de 99 ans.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity3461",
+  "entityUrl" : "http://dbpedia.org/resource/Dmytro_Korchynsky",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "Дмитро Корчинський" ]
+  },
+  "words" : [ "22", "``", "leader", "religious", "Олександрович", "Dmytro", "-LRB-", "political", "Brotherhood", "Корчинський", "Kiev", "Oleksandrovych", "Ukrainian", "public", "Orthodox", "rooted", "Дмитро", "January", "''", "figure", "BRATSTVO", "born", "Ukraine", ",", "UNA-UNSO", "Korchynsky", ".", "former", "1964", "ultra-nationalist", "organization", "-RRB-", ":", ";", "party" ],
+  "adjectives" : [ "religious", "Ukrainian", "ultra-nationalist", "public", "Orthodox", "rooted", "political", "former" ],
+  "nouns" : [ "leader", "figure", "organization", "party" ],
+  "text" : "Dmytro Oleksandrovych Korchynsky (Ukrainian: Дмитро Олександрович Корчинський; born 22 January 1964, Kiev) is a Ukrainian public figure and leader of BRATSTVO (\"Brotherhood\"), a Ukrainian Orthodox rooted religious and political organization in Ukraine. Korchynsky is the former leader of the ultra-nationalist UNA-UNSO party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity14050",
+  "entityUrl" : "http://dbpedia.org/resource/Oazu_Nantoi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "Oazu Nantoi" ]
+  },
+  "words" : [ "февраля", "-LRB-", "2010", "молдавский", "Нантой", "ССР", "2009", "Оазу", "политик", "депутат", "Молдовы", "--", "политический", "род", "Парламента", ",", ".", "3", "Георгиевич", "Ванчикауцы", "-RRB-", "и", "1948", "Молдавская", "аналитик" ],
+  "adjectives" : [ ],
+  "nouns" : [ "февраля", "политик", "политический", "депутат", "род", "и", "молдавский", "аналитик" ],
+  "text" : "Оазу Георгиевич Нантой (род. 3 февраля 1948, Ванчикауцы, Молдавская ССР) — молдавский политик и политический аналитик, депутат Парламента Молдовы (2009—2010).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity5316",
+  "entityUrl" : "http://dbpedia.org/resource/Fumio_Ueda",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherarticle" : [ "上田文雄" ]
+  },
+  "words" : [ "弁護士", "、", "。", "うえだ", "（", "）", "3期", "-", "上田", "は", "前北海道札幌市長", "文雄", "日本の政治家", "1948年6月11日", "ふみお" ],
+  "adjectives" : [ ],
+  "nouns" : [ "、", "。", "上田" ],
+  "text" : "上田 文雄（うえだ ふみお、1948年6月11日 - ）は、日本の政治家、弁護士。前北海道札幌市長（3期）。",
+  "patterns" : { }
+} ]

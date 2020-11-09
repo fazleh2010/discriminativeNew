@@ -1,0 +1,34 @@
+[ {
+  "entityIndex" : "1_entity11093",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Beresford",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:agent" : [ "Crown Talent Group" ]
+  },
+  "words" : [ "British", "role", "Beresford", "Brandon", "ITV", "Ben", "Benjamin", "Jackson", "'s", ",", "played", ".", "actor", "Coronation", "Peacock", "Collins", "known", "2004", "Street", "Joshua", "Stephen", "child", "since", "taking" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "actor", "role", "child" ],
+  "text" : "Benjamin Beresford is a British child actor known for his role as Joshua Peacock on ITV's Coronation Street. Ben has played the role since 2004, taking over from Brandon Jackson and Stephen Collins."
+}, {
+  "entityIndex" : "2_entity10709",
+  "entityUrl" : "http://dbpedia.org/resource/Anna_Savva",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:agent" : [ "James Foster at James Foster Ltd." ]
+  },
+  "words" : [ "TV", "Suspect", "Prime", "roles", "EastEnders", "Savva", "Pappas", "Horrors", "Planespotting", "appeared", "shows", "Anna", "actress", "British", "puppeteer", "recently", "also", "many", ",", "played", ".", "Shop", "1985", "Little", "since", "Minder" ],
+  "adjectives" : [ "British", "Little", "many" ],
+  "nouns" : [ "actress", "TV", "puppeteer" ],
+  "text" : "Anna Savva is an actress who has appeared in many British TV shows since 1985. She has had roles in Minder, Prime Suspect and Planespotting. She was also a puppeteer in Little Shop of Horrors. Most recently, she played Anna Pappas in EastEnders. Anna will be seen as Lugaretzia in six episodes of Simon Nye's 'The Durrells' in 2016"
+}, {
+  "entityIndex" : "3_entity14030",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Luz",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:agent" : [ "http://dbpedia.org/resource/Star_Magic" ]
+  },
+  "words" : [ "love", "Quezon", "-LRB-", "Pinoy", "Mark", "best", "Reinier", "Tajon", "Filipino", "known", "personality", "interest", "Brother", "contestant", "February", "Big", "De", "Philippines", "television", "born", "one", "House", "City", ",", "'s", "Kim", ".", "Luz", "better", "actor", "entry", "among", "daily", "8", "-RRB-", "Model", "Unlimited", ":", "1988", "Guzman" ],
+  "adjectives" : [ "Big", "daily" ],
+  "nouns" : [ "actor", "love", "entry", "personality", "interest", "television", "contestant" ],
+  "text" : "Mark Reinier Tajon Luz (born February 8, 1988 in Quezon City, Philippines) or better known as Mark Luz is a Filipino actor, Model and television personality, He is best known for one of the contestant in Pinoy Big Brother: Unlimited among with Kim De Guzman Mark's love interest in the Big Brother House on daily entry."
+} ]

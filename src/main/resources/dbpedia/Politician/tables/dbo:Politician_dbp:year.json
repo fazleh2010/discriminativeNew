@@ -1,0 +1,1705 @@
+[ {
+  "entityIndex" : "1_entity10731",
+  "entityUrl" : "http://dbpedia.org/resource/Kishanbhai_Vestabhai_Patel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "June", "-LRB-", "Gujarat", "born", "Vestabhai", "Bulsar", "Kishanbhai", "Lok", ".", "India", "represents", "1964", "2", "Sabha", "constituency", "National", "-RRB-", "member", "Indian", "Patel" ],
+  "adjectives" : [ "14th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "Kishanbhai Vestabhai Patel (born 2 June 1964) is a member of the 14th Lok Sabha of India. He represents the Bulsar constituency of Gujarat and is a member of the Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity10785",
+  "entityUrl" : "http://dbpedia.org/resource/Karan_Singh_Yadav",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "Dr.", "-LRB-", "political", "legislative", "Sabha", "National", "member", "assembly", "Singh", "represented", "February", "Yadav", "Karan", "born", "politician", "Lok", "also", "Rajasthan", ".", "India", "Behror", "1", "twice", "constituency", "-RRB-", "Indian", "Alwar", "1945", "party", "INC" ],
+  "adjectives" : [ "14th", "Indian", "political", "legislative" ],
+  "nouns" : [ "Sabha", "constituency", "politician", "member", "assembly", "Lok", "party" ],
+  "text" : "Dr. Karan Singh Yadav (born 1 February 1945) is an Indian politician. He was a member of the 14th Lok Sabha of India. He represented the Alwar constituency of Rajasthan and is a member of the Indian National Congress (INC) political party. He also has been member of legislative assembly of Rajasthan from Behror constituency twice. He has served as the medical superintendent of SMS hospital Jaipur.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity10786",
+  "entityUrl" : "http://dbpedia.org/resource/K._C._Singh_Baba",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "चन्द", "Currently", "political", "Nainital", "15th", "Sabha", "St.Joseph", "Kashipur", "National", "graduate", "Hindi", "represented", "Nainital-Udhamsingh", "Karan", "Lok", "'s", ",", ".", "India", "stays", "Uttarakhand", "-RRB-", "College", ":", ";", "1947", "Parliament", "party", "INC", "14th", "Congress", "Baba", "-LRB-", "K.", "29", "March", "Fort", "C.", "Kings", "Chand", "Descendant", "member", "Singh", "Nagar", "born", "politician", "सिंह", "करण", "बाबा", "constituency", "Indian" ],
+  "adjectives" : [ "14th", "Indian", "political", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "Descendant", "graduate", "politician", "member", "Lok", "बाबा", "party" ],
+  "text" : "Karan Chand Singh Baba (Hindi: करण चन्द सिंह बाबा; born 29 March 1947) is an Indian politician who was a member of the 14th and 15th Lok Sabha of the Parliament of India. He represented the Nainital-Udhamsingh Nagar constituency of Uttarakhand and is a member of the Indian National Congress (INC) political party. He is a graduate of St.Joseph's College in Nainital. Currently he stays in Kashipur Fort, Kashipur K. C. Singh Baba is the Descendant of Chand Kings",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity10788",
+  "entityUrl" : "http://dbpedia.org/resource/Kotla_Jayasurya_Prakasha_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Jayasurya", "September", "born", "18", "Andhra", "Lok", "Prakasha", ".", "15th", "India", "Kotla", "Sabha", "Kurnool", "1951", "Reddy", "constituency", "National", "Pradesh", "-RRB-", "member", "Indian", "represented" ],
+  "adjectives" : [ "15th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "Kotla Jayasurya Prakasha Reddy (born 18 September 1951) was a member of the 15th Lok Sabha of India. He represented the Kurnool constituency of Andhra Pradesh and is a member of Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity10789",
+  "entityUrl" : "http://dbpedia.org/resource/K._Rani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2007" ]
+  },
+  "words" : [ "14th", "Nadu", "Congress", "K.", "-LRB-", "May", "political", "Rasipuram", "Sabha", "National", "member", "represented", "1958", "born", "19", "Lok", "Rani", ".", "Tamil", "India", "constituency", "reserved", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "reserved", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "Rasipuram", "party" ],
+  "text" : "K. Rani (born 19 May 1958) was a member of the 14th Lok Sabha of India. She represented the Rasipuram which is a reserved constituency of Tamil Nadu and was a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity10790",
+  "entityUrl" : "http://dbpedia.org/resource/K._V._Thangkabalu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Nadu", "Congress", "K.", "-LRB-", "March", "political", "Sabha", "1950", "National", "V.", "member", "Salem", "represented", "15", "born", "Thangkabalu", "Lok", "former", ".", "Tamil", "India", "constituency", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "political", "former" ],
+  "nouns" : [ "constituency", "member", "party" ],
+  "text" : "K. V. Thangkabalu (born 15 March 1950) is a former member of the Lok Sabha of India. He represented the Salem constituency of Tamil Nadu and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity10792",
+  "entityUrl" : "http://dbpedia.org/resource/Kantilal_Bhuria",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "till", "Ministry", "United", "Alliance-2", "led", "Kishore", "promoted", "National", "Consumer", "rank", "July", "Minister", "new", "Chandra", "minister", "Public", ",", "Earlier", ".", "India", "Progressive", "1", "State", "Kantilal", "Distribution", "-RRB-", "Congress", "June", "-LRB-", "Prime", "successor", "another", "2011", "Bhuria", "Republic", "2009", "government", "1950", "V", "member", "Manmohan", "Singh", "Agriculture", "Food", "Congressman", "Affairs", "born", "Tribal", "Deo", "Indian", "cabinet" ],
+  "adjectives" : [ "new" ],
+  "nouns" : [ "government", "successor", "minister", "Distribution", "member", "Alliance-2", "rank", "cabinet", "Republic", "Congressman" ],
+  "text" : "Kantilal Bhuria (born 1 June 1950) is a member of the Indian National Congress and was till July 2011 the Minister of Tribal Affairs of the Republic of India. He had been promoted to the rank of cabinet minister in the United Progressive Alliance-2 government, led by the Prime Minister Manmohan Singh in 2009. Earlier, he was the Minister of State in the Ministry of Agriculture and Minister of State in the Ministry of Consumer Affairs, Food and Public Distribution. His successor, the new Minister of Tribal Affairs is V Kishore Chandra Deo, another Congressman. Bhuria was elected to the Lok Sabha in 1998, 1999 and 2004 from Jhabua constituency in Madhya Pradesh and in 2009 and 2015 from Ratlam constituency.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity10793",
+  "entityUrl" : "http://dbpedia.org/resource/K._H._Muniyappa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "Dr.", "-LRB-", "consecutively", "Muniyappa", "March", "political", "Micro", "K.H.", "Kolar", "16th", "Union", "Sabha", "National", "Karnataka", "1991", "member", "represented", "Minister", "charge", "Small", "born", "Lok", ",", ".", "India", "Independent", "constituency", "State", "Medium", "7", "-RRB-", "Indian", "Enterprises", "1948", "party", "since", "INC" ],
+  "adjectives" : [ "political", "16th" ],
+  "nouns" : [ "Sabha", "charge", "constituency", "member", "Lok", "party" ],
+  "text" : "Dr. K.H. Muniyappa (born 7 March 1948) is a member of the 16th Lok Sabha of India. He has consecutively represented the Kolar constituency of Karnataka in the Lok Sabha since 1991 and is a member of the Indian National Congress (INC) political party. He was the Union Minister of State (Independent charge) of Minister of Micro, Small and Medium Enterprises.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity10794",
+  "entityUrl" : "http://dbpedia.org/resource/K._Virupaxappa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "K.", "-LRB-", "Koppal", "born", "March", "Lok", "political", "Virupaxappa", ".", "India", "represents", "1942", "Sabha", "constituency", "National", "Karnataka", "6", "-RRB-", "member", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "Koppal", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "K. Virupaxappa (born 6 March 1942) is a member of the 14th Lok Sabha of India. He represents the Koppal constituency of Karnataka and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity10795",
+  "entityUrl" : "http://dbpedia.org/resource/Karuna_Shukla",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "``", "politics", "-LRB-", "25", "BJP", "political", "Janjgir", "Chhattisgarh", "2009", "Shukla", "Sabha", "October", "Party", "1950", "National", "lost", "Bharatiya", "member", "represented", "power", "Charan", "Mahant", "resigned", "''", "grip", "Janata", "born", "Lok", "Karuna", "elections", "allegedly", ".", "August", "India", "1", "constituency", "Das", "2013", "-RRB-", "Korba", "Indian", "citing", "party" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "grip", "constituency", "member", "Lok", "BJP", "power", "party" ],
+  "text" : "Karuna Shukla (born 1 August 1950) was a member of the 14th Lok Sabha of India. She represented the Janjgir constituency of Chhattisgarh and was a member of the Bharatiya Janata Party (BJP) political party. She lost the 2009 elections from Korba to Charan Das Mahant of the Indian National Congress. She resigned from the BJP on 25 October 2013 citing that the party was \"allegedly under the grip of power politics\". Notably, Karuna is the niece of former Prime Minister Atal Bihari Vajpayee. After having ended her 32-year-long association with BJP, on February 27, 2014, she joined Indian National Congress and will contest 2014 Loksabha election from Bilaspur constituency in Chhattisgarh.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity11051",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Heinrich_von_Boetticher",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "1905" ]
+  },
+  "words" : [ "preußischer", "Politiker", "-LRB-", "Heinrich", "ein", "Beamter", "Boetticher", "1833", "der", "Karl", "Saale", "von", "Vizekanzler", "März", "Januar", "Naumburg", "†", "deutscher", "war", "*", "und", ",", ".", "Stettin", "6", "1907", "-RRB-", ";" ],
+  "adjectives" : [ "Januar" ],
+  "nouns" : [ "preußischer", "deutscher", "war", "ein" ],
+  "text" : "Karl Heinrich von Boetticher (* 6. Januar 1833 in Stettin; † 6. März 1907 in Naumburg an der Saale) war ein preußischer Beamter, deutscher Vizekanzler und Politiker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity11146",
+  "entityUrl" : "http://dbpedia.org/resource/K.M._Asghar_Husain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "M.", "political", "Conference", "Muslim", "Court", "Vice-President", "President", "Sabha", "National", "Education", "January", "Member", "Husain", "Shivaji", "Urdu", "4th", "Lok", ",", ".", "India", "Berar", "University", "-RRB-", "Nagpur", "College", ";", "Society", "party", "INC", "since", "Congress", "23", "-LRB-", "Khan", "Asghar", "Council", "represents", "1967-70", "member", "1916", "Akola", "Maharashtra", "Body", "Governing", "1955", "born", "5th", "Educational", "Municipal", "constituency", "Indian", "1969" ],
+  "adjectives" : [ "4th", "5th", "political", "Muslim" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Khan M. Asghar Husain (born 23 January 1916) was a member of the 4th and 5th Lok Sabha of India. He represents the Akola constituency of Maharashtra and a member of the Indian National Congress (INC) political party. He was a Member, Nagpur University Court during 1967-70 and Governing Body of Shivaji College, Akola. He was Vice-President of Municipal Council, Akola since 1955; He was President, Berar Muslim Educational Conference since 1969 and Urdu Education Society, Akola.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity11155",
+  "entityUrl" : "http://dbpedia.org/resource/Kamakhya_Prasad_Singh_Deo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "Prasad", "13th", "11th", "political", "commissioned", "Kamakhya", "Sabha", "National", "Dhenkanal", "Pradesh", "1971", "represented", "Army", "Vishisht", "4th", "Lok", ",", "8th", ".", "August", "India", "elected", "1941", "6", "-RRB-", "Seva", "Medal", "Orissa", "party", "Congress", "-LRB-", "10th", "Committee", "AVSM", "1994", "member", "Singh", "Territorial", "awarded", "born", "representing", "Swatantra", "7th", "Deo", "constituency", "Ati", "Party.He", "Indian", "first", "1967", "president" ],
+  "adjectives" : [ "Territorial", "13th", "11th", "10th", "Dhenkanal", "4th", "political", "7th", "8th", "first" ],
+  "nouns" : [ "AVSM", "Sabha", "constituency", "member", "Lok", "Medal", "party", "president" ],
+  "text" : "Kamakhya Prasad Singh Deo (born 6 August 1941) was a member of the 4th, 7th, 8th, 10th, 11th and 13th Lok Sabha of India. He was first elected to Lok Sabha in 1967 representing Swatantra Party.He represented the Dhenkanal constituency of Orissa and is a member of the Indian National Congress (Congress) political party. He was the president of the Orissa Pradesh Congress Committee. He was commissioned into Territorial Army in 1971 and was awarded Ati Vishisht Seva Medal (AVSM) in 1994.He was ADC to the President of India.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity11252",
+  "entityUrl" : "http://dbpedia.org/resource/Khagapati_Pradhani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "Congress", "Lower", "Pradhani", "politician", "Lok", "House", "Nowrangpur", ".", "elected", "1998", "belonging", "Sabha", "National", "constituency", "Khagapati", "Indian", "Odisha", "1967,1971,1977,1980,1984,1989,1991,1996", "Parliament" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "constituency", "politician" ],
+  "text" : "Khagapati Pradhani was an Indian politician belonging to the Indian National Congress he was elected in 1967,1971,1977,1980,1984,1989,1991,1996 and 1998 from Nowrangpur constituency of Odisha to the Lower House of the Indian Parliament the Lok Sabha.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity13577",
+  "entityUrl" : "http://dbpedia.org/resource/Naranbhai_Rathwa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "June", "12th", "-LRB-", "11th", "10th", "Gujarat", "Ministry", "Chhota", "Udaipur", "2009", "Elections", "1953", "Sabha", "National", "lost", "member", "represented", "Minister", "J.", "Railways", "&", "born", "Lok", ",", "9th", "Naranbhai", ".", "India", "1", "constituency", "Ramsinh", "State", "Rathwa", "-RRB-", "Indian" ],
+  "adjectives" : [ "14th", "12th", "11th", "10th", "9th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "Naranbhai J. Rathwa (born 1 June 1953) was a member of the 9th, 10th, 11th, 12th & 14th Lok Sabha of India. He represented the Chhota Udaipur constituency of Gujarat and is a member of the Indian National Congress. He was a Minister of State in the Ministry of Railways. He lost to Ramsinh Rathwa in 2009 Lok Sabha Elections",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity13582",
+  "entityUrl" : "http://dbpedia.org/resource/Namo_Narain_Meena",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2008" ]
+  },
+  "words" : [ "14th", "Congress", "Narain", "24", "Forests", "-LRB-", "Ministry", "Mr.", "Kirori", "Meena", "Sawai", "Union", "2009", "Namo", "December", "Sabha", "candidate", "National", "2004", "Baisla", "Singh", "Member", "Minister", "--", "winning", "Government", "Finance", "born", "Govt", "Lok", ",", "Rajasthan", ".", "India", "1943", "elected", "seat", "constituency", "State", "served", "-RRB-", "Indian", "Environment", "defeating", "party", "Parliament", "Madhopur", "INC" ],
+  "adjectives" : [ "14th", "Indian" ],
+  "nouns" : [ "seat", "candidate", "constituency", "Government", "party" ],
+  "text" : "Namo Narain Meena (born 24 December 1943) was a Minister of State for Finance in Government of India. He was elected to 14th Lok Sabha from Sawai Madhopur constituency in Rajasthan as a candidate of INC Indian National Congress party. He served Indian Government as Union Minister of State in Ministry of Environment and Forests from 2004–2009. After winning again on Member of Parliament seat from Sawai Madhopur constituency, defeating Mr. Kirori Singh Baisla, He had served Govt. of India as Union Minister of State(EB&I) in Ministry of Finance, India.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity13588",
+  "entityUrl" : "http://dbpedia.org/resource/Nedurumalli_Janardhana_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "13th", "12th", "-LRB-", "May", "Chief", "Rajyalakshmi", "Janardhana", "Telugu", "Sabha", "government", "Visakhapatnam", "National", "Pradesh", "2004", "1992", "రెడ్డి", "member", "represented", "February", "1935", "Minister", "--", "Nedurumalli", "minister", "నేదురుమల్లి", "wife", "Andhra", "1990", "Lok", "also", ",", ".", "జనార్థన్", "India", "Reddy", "constituency", "2014", "-RRB-", "9", "Indian", ":", ";", "20", "since" ],
+  "adjectives" : [ "14th", "13th", "12th" ],
+  "nouns" : [ "Sabha", "government", "constituency", "minister", "wife", "రెడ్డి", "member", "Lok" ],
+  "text" : "Nedurumalli Janardhana Reddy (Telugu: నేదురుమల్లి జనార్థన్ రెడ్డి; 20 February 1935 – 9 May 2014) was a member of the 12th, 13th and 14th Lok Sabha of India. He represented the Visakhapatnam constituency of Andhra Pradesh and was a member of the Indian National Congress. He was also a Chief Minister of Andhra Pradesh from 1990 to 1992. His wife, Nedurumalli Rajyalakshmi, has been a minister in the Andhra Pradesh government since 2004. He is the one who laid the foundation stone for the much acclaimed Hi-Tech City(Cyber Towers) in Madhapur, Hyderabad. In September 2007, Reddy escaped an assassination attempt near Nellore by naxal groups. Janardhana Reddy and his wife both escaped the event unhurt.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity13613",
+  "entityUrl" : "http://dbpedia.org/resource/Nakul_Das_Rai",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "12", "-LRB-", "Sikkim", "Democratic", "Front", "born", "Lok", "political", ".", "India", "represents", "Sabha", "constituency", "SDF", "1960", "Nakul", "Das", "-RRB-", "member", "Rai", "February", "party" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "SDF", "Front", "member", "Lok", "party" ],
+  "text" : "Nakul Das Rai (born 12 February 1960) is a member of the 14th Lok Sabha of India. He represents the Sikkim constituency and is a member of the Sikkim Democratic Front (SDF) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity13614",
+  "entityUrl" : "http://dbpedia.org/resource/N._Y._Hanumanthappa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "25", "September", "political", "Court", "Courts", "Sabha", "Chitradurga", "National", "previously", "Karnataka", "Pradesh", "member", "1939", "justice", "represented", "High", "Loksabha", "election", "contest", "chief", "born", "Andhra", "Lok", ",", ".", "India", "N.Y.", "constituency", "Hanumanthappa", "2014", "served", "-RRB-", "Indian", "Bellary", "Orissa", "party", "INC" ],
+  "adjectives" : [ "14th", "High", "chief", "political" ],
+  "nouns" : [ "Sabha", "election", "constituency", "member", "Lok", "justice", "party" ],
+  "text" : "N.Y. Hanumanthappa (born 25 September 1939) was a member of the 14th Lok Sabha of India. He represented the Chitradurga constituency of Karnataka and is a member of the Indian National Congress (INC) political party. Before his election to the Lok Sabha, Hanumanthappa served as chief justice of the Orissa High Court, having previously served on the High Courts of Karnataka and Andhra Pradesh. He will contest 2014 Loksabha election from Bellary constituency in Karnataka.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity13857",
+  "entityUrl" : "http://dbpedia.org/resource/Narendra_R_Deoghare",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "Congress", "-LRB-", "May", "Narendra", "political", "Commerce", "Seksaria", "resides", "Socialist", "Deoghare", "Mrs", "Sabha", "Party", "National", "Wardha", "sons", "previously", "road", "member", "Maharashtra", "born", "Bhandara", "4th", "Shashilabai", "Lok", "Praja", "Govindram", "Ramcharaji", ".", "India", "1", "2", "constituency", "4", "associated", "Nagpur", "-RRB-", "College", "Indian", "married", "daughter", "party", "1922", "INC" ],
+  "adjectives" : [ "4th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "road", "member", "Lok", "daughter", "party" ],
+  "text" : "Narendra Ramcharaji Deoghare (born 2 May 1922 Nagpur) was a member of the 4th Lok Sabha of India from the Nagpur constituency of Maharashtra and a member of the Indian National Congress (INC) political party. He has at Govindram Seksaria College of Commerce at Wardha. He was married to Mrs Shashilabai and had 4 sons and 1 daughter and resides at Bhandara road Nagpur. He was previously associated with the Praja Socialist Party. He was Chairman of Nagpur Resham and Vinkar Cooperative Society during 1956—60 and Director of Vidarbha Weavers Cooperative Society during 1946-1958. He was member of All India Cottage Industries Board. He worked as Member of District Congress Committee, Nagpur Pradesh Congress Committee and All India Congress Committee between 1955 and 1957.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity13880",
+  "entityUrl" : "http://dbpedia.org/resource/Niranjan_Patnaik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "22", "Congress", "-LRB-", "minister", "born", "politician", ",", "Committee", ".", "former", "Niranjan", "Pradesh", "Patnaik", "State", "-RRB-", "Indian", "state", "February", "Orissa", "1945", "president" ],
+  "adjectives" : [ "Indian", "former" ],
+  "nouns" : [ "minister", "politician", "state", "president" ],
+  "text" : "Niranjan Patnaik (born 22 February 1945) is an Indian politician, from Orissa. He is a former state president of Orissa Pradesh Congress Committee and former minister of Orissa State.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity13898",
+  "entityUrl" : "http://dbpedia.org/resource/Nathan_Sadowsky",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2016" ]
+  },
+  "words" : [ "Nelson", "congressional", "Gaylord", "United", "2nd", "political", "House", "Representatives", ",", "'s", ".", "States", "candidate", "Senate", "Nathan", "1950", "Sadowsky", "State", "lost", "district", "1948", "Wisconsin", "ran" ],
+  "adjectives" : [ "congressional", "2nd", "political" ],
+  "nouns" : [ "candidate", "district" ],
+  "text" : "Nathan Sadowsky was a political candidate in Wisconsin. In 1948, he ran for the Wisconsin State Senate. He lost to Gaylord Nelson. In 1950, Sadowsky was a candidate for the United States House of Representatives from Wisconsin's 2nd congressional district. He lost to incumbent Glenn Robert Davis. Sadowsky was a member of the Socialist Party of America.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity8333",
+  "entityUrl" : "http://dbpedia.org/resource/Jashubhai_Dhanabhai_Barad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "Dhanabhai", "14th", "-LRB-", "25", "role", "September", "Gujarat", "Projects", "Sabha", "irrigation", "member", "Barad", "represented", "state", "January", "Minister", "1955", "--", "development", "15", "Cabinet", "politician", "Lok", "resources", "Jashubhai", "water", "played", ".", "former", "India", "Junagadh", "Dam", "2016", "constituency", "Narmada", "Ukai", "-RRB-", "Indian", "vital" ],
+  "adjectives" : [ "14th", "Indian", "vital", "former" ],
+  "nouns" : [ "Junagadh", "Dam", "Sabha", "development", "irrigation", "role", "constituency", "politician", "member", "Lok", "state", "water" ],
+  "text" : "Jashubhai Dhanabhai Barad (15 September 1955 – 25 January 2016) was an Indian politician. He was a member of the 14th Lok Sabha of India where he represented the Junagadh constituency of Gujarat. He was a former Cabinet Minister of water resources and irrigation of Gujarat state. He played a vital role in the development of Narmada and Ukai Dam Projects. He served his fourth term as member of legislative assembly representing Talala Gir Constituency of Gujarat until 2016.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity8335",
+  "entityUrl" : "http://dbpedia.org/resource/Jivabhai_Ambalal_Patel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "Ambalal", "Gujarat", "born", "Lok", "April", ".", "India", "represents", "Sabha", "constituency", "National", "-RRB-", "member", "Mehsana", "Indian", "1938", "30", "Jivabhai", "Patel" ],
+  "adjectives" : [ "14th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "Jivabhai Ambalal Patel (born 30 April 1938) is a member of the 14th Lok Sabha of India. He represents the Mehsana constituency of Gujarat and is a member of the Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity8565",
+  "entityUrl" : "http://dbpedia.org/resource/Jai_Parkash",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "notoriously", "-LRB-", "political", "1954", "December", "Sabha", "National", "known", "member", "represented", "Parkash", "always", "committed", "born", "politician", "Hissar", "Lok", "personal", ".", "India", "single", "Haryana", "never", "2", "Jai", "constituency", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "single", "Indian", "political", "personal" ],
+  "nouns" : [ "Sabha", "constituency", "politician", "member", "Lok", "party" ],
+  "text" : "Jai Parkash (born 2 December 1954) is an Indian politician. He was a member of the 14th Lok Sabha of India. He represented the Hissar constituency of Haryana and is a member of the Indian National Congress (INC) political party. He is notoriously known as a politician who is never committed to a single party but always committed to his personal political will. As a Congress candidate, Jai Prakash gave a tough fight to Kuldeep Bishnoi in his home constituency Adampur in the October 2009 elections but lost with a narrow margin of 6000 votes.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity8820",
+  "entityUrl" : "http://dbpedia.org/resource/Jesudasu_Seelam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "Congress", "June", "politics", "-LRB-", "Ministry", "officer", "upper", "Shri", "house", "Administrative", "Sabha", "National", "Jesudasu", "Pradesh", "2004", "Karnataka", "cadre", "Member", "Minister", "Seelam", "Finance", "17", "politician", "representing", "Andhra", "Service", "1984-99", ",", ".", "India", "entering", "Rajya", "State", "Prior", "2013", "served", "-RRB-", "Indian", "Revenue", "IAS", "party", "Parliament" ],
+  "adjectives" : [ "upper", "Indian" ],
+  "nouns" : [ "officer", "politician", "cadre", "house", "party" ],
+  "text" : "Shri Jesudasu Seelam, a politician from Indian National Congress party, is a Member of the Parliament of India representing Andhra Pradesh in the Rajya Sabha, the upper house of the Parliament from 2004. He was Minister of State (Revenue) under the Ministry of Finance from 17 June 2013. Prior to entering politics he served as an Indian Administrative Service (IAS) officer from 1984-99 of Karnataka cadre.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity8947",
+  "entityUrl" : "http://dbpedia.org/resource/Jitendra_Prasada",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Prasad", "Rao", "New", "Gandhi", "defeated", "fought", "Vice-President", "National", "1938", "January", "12", "16", "2001", "2000", ",", "'s", "former", ".", "India", "Narasimha", "-RRB-", "9", ";", "Political", "presidential", "Congress", "Delhi", "-LRB-", "Prime", "died", "Prasada", "two", "Jitendra", "Sonia", "P", "Party", "1994", "V", "1991", "Rajiv", "Ministers", "November", "illness", "brief", "election", "politician", "Advisor", "also", "Indian" ],
+  "adjectives" : [ "brief", "Prime", "Indian", "presidential", "former" ],
+  "nouns" : [ "P", "election", "V", "politician", "illness" ],
+  "text" : "Jitendra Prasada (12 November 1938 ; 16 January 2001) was an Indian politician and a former Vice-President of the Indian National Congress. He was also the Political Advisor to two Prime Ministers of India, Rajiv Gandhi in 1991 and P V Narasimha Rao in 1994. Jitendra Prasad fought Congress Party's presidential election against Sonia Gandhi on 9 November 2000 but was defeated. He died on 16 January 2001 in New Delhi after a brief illness.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity9938",
+  "entityUrl" : "http://dbpedia.org/resource/Johann_Gustav_Heckscher",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "1905" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "26", "Moritz", "Hamburg", "ein", "Johann", "1797", "Heckscher", "Dezember", "†", "deutscher", "war", "Gustav", "*", "und", ".", "April", "Jurist", "1865", "Wien", "Wilhelm", "7", "-RRB-", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "deutscher", "war", "und", "ein", "Jurist" ],
+  "text" : "Johann Gustav Wilhelm Moritz Heckscher (* 26. Dezember 1797 in Hamburg; † 7. April 1865 in Wien) war ein deutscher Jurist und Politiker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity10577",
+  "entityUrl" : "http://dbpedia.org/resource/Jamal_Manakkadan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "Congress", "leader", "-LRB-", "May", "2010", "Politician", "National", "state", "Kerala", "Jamal", "period", "Municipality", "born", "Ernakulam", "chairman", ".", "Municipal", "Chairman", "elected", "Kalamassery", "1961", "third", "2015", "-RRB-", "Indian", "time", "Manakkadan", "District", "21" ],
+  "adjectives" : [ "third", "Indian", "Municipal" ],
+  "nouns" : [ "Politician", "leader", "period", "Municipality", "chairman", "state", "time", "Chairman" ],
+  "text" : "Jamal Manakkadan (born 21 May 1961) is an Indian Politician from the state of Kerala . He was the Municipal Chairman of Kalamassery Municipality for the 2010 to 2015 period  in Ernakulam District. It was the third time he was elected as the chairman of the Kalamassery Municipality. He is a leader of Indian National Congress. Manakkadan started his political career through the Kerala Students Union (KSU) during college times. He also served as the Chairman of Chamber of Municipal Chairman.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity19723",
+  "entityUrl" : "http://dbpedia.org/resource/Zora_Singh_Maan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2010" ]
+  },
+  "words" : [ "14th", "June", "-LRB-", "Maan", "political", "represents", "Shiromani", "Sabha", "Akali", "member", "Singh", "born", "18", "Lok", "Punjab", "Firozpur", "Zora", ".", "Dal", "India", "1940", "constituency", "SAD", "-RRB-", "party" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Zora Singh Maan (born 18 June 1940) is a member of the 14th Lok Sabha of India. He represents the Firozpur constituency of Punjab and is a member of the Shiromani Akali Dal (SAD) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity4429",
+  "entityUrl" : "http://dbpedia.org/resource/Eknath_Gaikwad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "14th", "एकनाथ", "-LRB-", "Marathi", "political", "Central", "Mumbai", "15th", "Sabha", "National", "lost", "member", "represented", "January", "Rahul", "Gaikwad", "born", "politician", "South", "Lok", ".", "India", "seat", "1", "1940", "constituency", "गायकवाड", "2014", "Shewale", "Eknath", "-RRB-", "Indian", ":", "party", "INC" ],
+  "adjectives" : [ "14th", "Indian", "political", "15th" ],
+  "nouns" : [ "seat", "Sabha", "constituency", "politician", "member", "Lok", "party" ],
+  "text" : "Eknath Gaikwad (Marathi: एकनाथ गायकवाड) (born 1 January 1940) is an Indian politician from the Indian National Congress (INC) political party. He was a member of the 15th Lok Sabha and the 14th Lok Sabha of India. He represented the Mumbai South Central constituency of Mumbai. He lost the seat to Rahul Shewale in 2014. He has been a three time Member of Legislative Assembly from Dharavi and also twice state minister of Maharashtra state cabinet. Since 1985, he has represented Dharavi which is Asia's largest slum.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity4598",
+  "entityUrl" : "http://dbpedia.org/resource/E._V._K._S._Elangovan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Nadu", "Congress", "Erode", "-LRB-", "K.", "Elangovan", "political", "E.", "Gobichettipalayam", "Sabha", "son", "National", "member", "V.", "represented", "Periyar", "grandson", "Lok", "'s", ".", "Tamil", "India", "Venkata", "Krishnasamy", "constituency", "Ramasamy", "-RRB-", "Indian", "Sampath", "brother", "party", "INC" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "son", "constituency", "grandson", "member", "Lok", "brother", "party" ],
+  "text" : "Erode . Venkata Krishnasamy Sampath Elangovan was a member of the 14th Lok Sabha of India. He represented the Gobichettipalayam constituency of Tamil Nadu and is a member of the Indian National Congress (INC) political party. He is the son of E. V. K. Sampath and grandson of Periyar E. V. Ramasamy's brother Krishnasamy. In 2009 Lok Sabha election, he lost to M. Ganeshmurthi of the MDMK by 49,336 votes in Erode constituency.He was appointed as President of Tamil Nadu Congress Committee by  All India Congress Committee  Chief Sonia Gandhi on 31 October 2014, followed by the resignation of B. S. Gnanadesikan.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity18826",
+  "entityUrl" : "http://dbpedia.org/resource/W._Wangyuh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "-LRB-", "Front", "born", "Lok", "political", "Wangyuh", ".", "India", "represents", "NDF", "October", "1963", "Sabha", "constituency", "W.", "-RRB-", "member", "Peoples", "Nagaland", "20", "party" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "NDF", "Sabha", "constituency", "Front", "member", "Lok", "party" ],
+  "text" : "W. Wangyuh (born 20 October 1963) is a member of the 14th Lok Sabha of India. He represents the Nagaland constituency and is a member of the Nagaland Peoples Front (NDF) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity18321",
+  "entityUrl" : "http://dbpedia.org/resource/Virjibhai_Thummar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "May", "Gujarat", "born", "Lok", ".", "India", "represents", "Sabha", "constituency", "National", "Thummar", "-RRB-", "member", "Indian", "Virjibhai", "1959", "Amreli", "31" ],
+  "adjectives" : [ "14th", "Amreli" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "Virjibhai Thummar (born 31 May 1959) is a member of the 14th Lok Sabha of India. He represents the Amreli constituency of Gujarat and is a member of the Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity18568",
+  "entityUrl" : "http://dbpedia.org/resource/Vinod_Saroj",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2013" ]
+  },
+  "words" : [ "Kumar", "-LRB-", "independent", "presently", "Bela", "2012", "Pradesh", "assembly", "July", "Member", "Assembly", "Saroj", "Uttar", "Pratapgarh", "politician", "representing", ",", ".", "India", "elected", "1", "twice", "constituency", "Born", "1980", "-RRB-", "Babaganj", "Indian", "Legislative", "time", "Vinod", "since" ],
+  "adjectives" : [ "twice", "independent", "Indian", "Legislative" ],
+  "nouns" : [ "constituency", "Pratapgarh", "politician", "assembly", "time", "Assembly" ],
+  "text" : "Vinod Kumar Saroj (Born 1 July 1980) is an Indian politician from Bela Pratapgarh, India. He is twice time elected independent Member of Legislative Assembly, presently since 2012, representing the Babaganj assembly constituency of Pratapgarh of Uttar Pradesh.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity18585",
+  "entityUrl" : "http://dbpedia.org/resource/Vijay_Sampla",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "Justice", "leader", "Vijay", "-LRB-", "till", "labourer", "parliament", "53-year-old", "Empowerment", "1998", "general", "Sabha", "candidate", "worked", "plumber", "Hoshiarpur", "Party", "won", "Bharatiya", "member", "farm", "July", "Minister", "hand", "10", "Social", "election", "Janata", "studied", "joined", "born", "Lok", "Sampla", "Punjab", ",", ".", "India", "1961", "constituency", "6", "State", "2014", "-RRB-", "Indian", "Class", "party" ],
+  "adjectives" : [ "general", "Indian", "53-year-old" ],
+  "nouns" : [ "leader", "candidate", "plumber", "election", "constituency", "labourer", "member", "farm", "parliament", "party", "hand" ],
+  "text" : "Vijay Sampla (born 6 July 1961), Minister of State for Social Justice and Empowerment in India, is a member of parliament from Hoshiarpur (Lok Sabha constituency). He won the Indian general election, 2014 as a Bharatiya Janata Party candidate. Sampla, a 53-year-old leader from Punjab, has worked as farm hand, labourer and plumber. Sampla, who studied till Class 10, joined the party in 1998. He is the second minister from Punjab after Akali Dal's Harsimrat Kaur Badal. His political journey began after he was elected the Sarpanch or head of his Sofi village (Jalandhar District). He has held several key posts in the BJP's Punjab unit. When he was a 27-year-old bereaved dalit, Sampla was trying to find his feet against the oppressive landlords of Jalandhar's Sofi Pind. His brother and he were left to fend for themselves after their father's death and Sampla went off to Saudi Arabia in 1979 to work for a plumbing company. On his swearing-in as BJP's first minister from Punjab in NDA-II, he says, \"I often recall one incident that shaped my life. While I was in Saudi Arabian city of Damam, I was asked to clean human excreta and repair a bathroom. I was young and flatly refused to do the cleaning part while telling the building owner that I was a plumber. On my insistence, the man put on plastic gloves and cleaned the muck himself. It taught me the difference between oppression against dalits and the will to work\", Sampla recalled.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity11887",
+  "entityUrl" : "http://dbpedia.org/resource/Lal_Chand_Kataria",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "-LRB-", "house", "Kataria", "2009", "Politician", "belonging", "Chand", "Sabha", "National", "Jaipur", "Rural", "12", "Jun", "born", "lower", "Lok", ",", "Rajasthan", ".", "Congress.He", "India", "elected", "Lal", "-RRB-", "Indian", "1968", "Parliament" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "Politician", "Jun", "house" ],
+  "text" : "Lal Chand Kataria (born 12 Jun 1968) is an Indian Politician belonging to the Indian National Congress.He was elected to the Lok Sabha, lower house of the Parliament of India from Jaipur Rural, Rajasthan in 2009.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity2541",
+  "entityUrl" : "http://dbpedia.org/resource/Chander_Kumar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "IPH", "career", "-LSB-", "MLA", "congress", "political", "parliament", "Himachal", "President", "Sabha", "Pollution", "Department", "Board", "son", "Pradesh", "Technology", "Education", "represented", "Parliamentary", "Kangra", "Constituency", "Sectory", "Chander", "Member", "Assembly", "Minister", "law", "Deputy", "Daughter", "Monika", "Lok", "Youth", "Public", ",", ".", "India", "elected", "1985", "Vidhan", "1984", "ex", "1982", "Neeraj", "State", "served", "district", "8", "-RRB-", "constituency.Year", ":", "Transport", "Parliament", "1944", "1988", "14th", "Irrigation", "Kumar", "-LRB-", "May", "Chief", "Chamba", "Jawali", "Bharti", "2009", "1998", "Control", "Guler", "2004", "1993", "Hemurja", "2003", "HRTC", "Agriculture", "Vice", "Health", "Cabinet", "Road", "born", "representing", "started", "also", "Pradesh.His", "Chairman", "Corporation", "constituency", "Year", "currently", "Legislative", "Forest", "-RSB-", "time", "first" ],
+  "adjectives" : [ "14th", "constituency.Year", "political", "Legislative", "Jawali", "first" ],
+  "nouns" : [ "Irrigation", "career", "MLA", "law", "congress", "Lok", "parliament", "Sabha", "son", "constituency", "Year", "Technology", "Hemurja", "district", "time", "Assembly" ],
+  "text" : "Chander Kumar (born 8 May 1944) served as Member of the 14th Lok Sabha of India. He represented the Kangra Chamba constituency of Himachal Pradesh as Member of Parliament from 2004 to 2009. His political career started off when he was elected first time to Himachal Pradesh Vidhan Sabha as Member of Legislative Assembly (MLA) from Guler (now Jawali) constituency.Year 1982 to 1984: Vice Chairman HRTC (Himachal Road Transport Corporation),Year 1984 to 1985: Deputy Health Minister,Year 1985 to 1988: Forest Minister for State,Year 1988: Agriculture Minister,Year 1993 to 1998: Cabinet Minister for [Irrigation and Public Health(IPH),Technology,Hemurja and Pollution Control Board],Year 1998 to 2003: MLA,Year 2003 to 2004: Cabinet Forest Minister,Year 2004 to 2009: Member of parliament, Lok Sabha representing Kangra Chamba Constituency. His son Neeraj Bharti is currently Chief Parliamentary Sectory(Department of Education) elected from Jawali Constituency of district Kangra,Himachal Pradesh.His Daughter in law Monika Bharti is also ex congress Youth President(Himachal Pradesh).He is one of the few Politicians who is known for his Honesty and Simplicity. He is a Public Servant in true sense of word.His Qualifications:Bachelor of Arts(HPU),1966:Master Of Arts Geography(Punjab University),1967:M.Ed,1980:LLB(HPU).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity2542",
+  "entityUrl" : "http://dbpedia.org/resource/Chinta_Mohan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "Mohan", "-LRB-", "born", "Chinta", "19", "Andhra", "Lok", ".", "India", "1954", "represents", "Sabha", "constituency", "National", "Pradesh", "-RRB-", "member", "Tirupathi", "Indian", "November" ],
+  "adjectives" : [ "14th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "Chinta Mohan (born 19 November 1954) is a member of the 14th Lok Sabha of India. He represents the Tirupathi constituency of Andhra Pradesh and is a member of the Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity2543",
+  "entityUrl" : "http://dbpedia.org/resource/Chegondi_Venkata_Harirama_Jogaiah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "Harirama", "Narasapur", "membership", "sabha", "represents", "2008", "Sabha", "Party", "National", "Pradesh", "member", "1937", "resigned", "Recently", "Jogaiah", "new", "Movement", "Chegondi", "joined", "born", "18", "Andhra", "Lok", "started", "Praja", "April", ".", "India", "August", "Venkata", "Jai", "constituency", "5", "-RRB-", "Indian", "Chiranjeevi", "Rajyam" ],
+  "adjectives" : [ "14th", "new" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "membership", "sabha" ],
+  "text" : "Chegondi Venkata Harirama Jogaiah (born 5 April 1937) was a member of the 14th Lok Sabha of India. He represents the Narasapur constituency of Andhra Pradesh and is a member of the Indian National Congress. He resigned to Lok sabha and Congress membership on 18 August 2008 and joined new Party started by Chiranjeevi. Recently he resigned to Praja Rajyam Party (Chiranjeevi Party) and he joined into Jai Andhra Movement. Later he joined in YSR Congress Party, on March 2014 he resigned YSR Congress Party. Now he is not active in politics. He released his political autobiography on 1 November 2015 named \" 60 vasantala rajakeeya prasthanam\" where he wrote all his political experiences till now. This book is released by NTR's daughter Daggubati Purandhareshwari and he dedicated his book to NTR.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity2587",
+  "entityUrl" : "http://dbpedia.org/resource/Charanjit_Singh_Atwal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "-LRB-", "2012", "March", "political", "2009", "Shiromani", "1997", "Sabha", "Akali", "previously", "2004", "2002", "member", "Singh", "represented", "1937", "Assembly", "Speaker", "Charanjit", "15", "Atwal", "Deputy", "born", "politician", "Lok", "Punjab", ".", "Dal", "India", "constituency", "SAD", "served", "-RRB-", "Indian", "Legislative", "Phillaur", ";", "party", "since" ],
+  "adjectives" : [ "14th", "Indian", "political", "Legislative" ],
+  "nouns" : [ "Sabha", "constituency", "politician", "member", "Lok", "party", "Assembly" ],
+  "text" : "Charanjit Singh Atwal (born 15 March 1937) is an Indian politician who was Deputy Speaker of the 14th Lok Sabha of India from 2004 to 2009. He represented the Phillaur constituency of Punjab in the 14th Lok Sabha and is a member of the Shiromani Akali Dal (SAD) political party. He has served as Speaker of the Punjab Legislative Assembly since 2012; he previously served as Speaker from 1997 to 2002.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity2588",
+  "entityUrl" : "http://dbpedia.org/resource/Chandra_Sekhar_Sahu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "mega", "-LRB-", "Ministry", "Mahapatra", "political", "Siddhanta", "15th", "represents", "Sabha", "1950", "National", "lost", "member", "Development", "July", "Sahu", "Minister", "Rural", "Chandra", "Sekhar", "star", "born", "Odia", "Lok", "Berhampur", "Election", ".", "India", "constituency", "State", "7", "-RRB-", "Indian", "Orissa", "party", "INC" ],
+  "adjectives" : [ "14th", "mega", "political", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "star", "member", "Lok", "party" ],
+  "text" : "Chandra Sekhar Sahu (born 7 July 1950) was a member of the 14th Lok Sabha of India. He represents the Berhampur constituency of Orissa and is a member of the Indian National Congress (INC) political party. He was Minister of State in the Ministry of Rural Development In the 15th Lok Sabha Election of India he lost to Odia mega star Siddhanta Mahapatra",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity2932",
+  "entityUrl" : "http://dbpedia.org/resource/Chhangur_Ram",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Katain", "June", "Uttar", "-LRB-", "Village", "16", "born", "politician", "Lok", ",", "Lalganj", "Chhangur", "-", "Azamgarh", ".", "Sabha", "expired", "2005", "Pradesh", "-RRB-", "Indian", "Constituency", "Ram" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "politician" ],
+  "text" : "Chhangur Ram (born at Village - Katain, Azamgarh) was an Indian politician for the Lalganj (Lok Sabha Constituency) in Uttar Pradesh. He has expired on 16 June 2005.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "44_entity1831",
+  "entityUrl" : "http://dbpedia.org/resource/Bapu_Hari_Chaure",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "political", "Chaure", "represents", "Sabha", "National", "member", "Maharashtra", "January", "Dhule", "born", "Lok", ".", "India", "1", "Hari", "constituency", "-RRB-", "Indian", "1949", "Bapu", "party", "INC" ],
+  "adjectives" : [ "14th", "Dhule", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Chaure Bapu Hari (born 1 January 1949) is a member of the 14th Lok Sabha of India. He represents the Dhule constituency of Maharashtra and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "45_entity1832",
+  "entityUrl" : "http://dbpedia.org/resource/Balashowry_Vallabhaneni",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LSB-", "-LRB-", "September", "born", "18", "Andhra", "Lok", ".", "India", "Vallabhaneni", "Sabha", "constituency", "Pradesh", "-RRB-", "member", "Tenali", "ysr", "-RSB-", "represented", "Balashowry", "1968" ],
+  "adjectives" : [ "14th", "Tenali" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "ysr" ],
+  "text" : "Balashowry Vallabhaneni (born 18 September 1968) was a member of the 14th Lok Sabha of India. He represented the Tenali constituency of Andhra Pradesh and is a member of the [[ysr Congress now]].",
+  "patterns" : { }
+}, {
+  "entityIndex" : "46_entity1835",
+  "entityUrl" : "http://dbpedia.org/resource/Bijendra_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "-LRB-", "25", "Aligarh.He", "MLA", "stood", "December", "Sabha", "times", "National", "2004", "Iglas", "politician.He", "Singh", "near", "village", "Member", "five", "1956", "resident", "ticket", "Bijendra", "born", "Tehsil", "Lok", "also", ",", "elections", ".", "Aligarh", "Dhonda", "-RRB-", "Indian", "Khair", "Parliament" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "ticket", "Dhonda", "village", "resident" ],
+  "text" : "Bijendra Singh (born 25 December 1956) is an Indian politician.He stood for the 2004 Lok Sabha elections on the Indian National Congress ticket and had been a Member of Parliament from Aligarh.He is the resident of village Dhonda near Khair Tehsil. He had also been five times MLA from Iglas, Aligarh.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "47_entity1836",
+  "entityUrl" : "http://dbpedia.org/resource/Baleshwar_Yadav",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Yadav", "24", "-LRB-", "MP", "born", "politician", "stood", "Lok", "DEBT", "Baleshwar", "elections", ".", "elected", "1942", "December", "Sabha", "2004", "Padrauna", "-RRB-", "HIGHEST", "Indian", "GOVERNMENT" ],
+  "adjectives" : [ "14th", "HIGHEST", "Indian" ],
+  "nouns" : [ "MP", "politician", "DEBT" ],
+  "text" : "Baleshwar Yadav (born 24 December 1942) is an Indian politician. He stood for the 2004 Lok Sabha elections and he was elected from Padrauna for the 14th Lok Sabha . HE IS THE MP WITH HIGHEST DEBT OF GOVERNMENT.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "48_entity1837",
+  "entityUrl" : "http://dbpedia.org/resource/Bagun_Sumbrai",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "24", "-LRB-", "political", "Bagun", "Sabha", "Singhbhum", "National", "indigenous", "member", "Sumbrai", "represented", "February", "ethnic", "born", "Ho", "Kolhan", "politician", "Lok", "tribal", ",", "former", ".", "Jharkhand", "constituency", "-RRB-", "Indian", "1924", "party", "INC" ],
+  "adjectives" : [ "14th", "ethnic", "indigenous", "Indian", "political", "tribal", "former" ],
+  "nouns" : [ "constituency", "politician", "member", "party" ],
+  "text" : "Bagun Sumbrai (born 24 February 1924), an ethnic Ho or Kolhan (indigenous tribal), is an Indian politician and a former member of the 14th Lok Sabha. He represented the Singhbhum constituency of Jharkhand, and he is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "49_entity1838",
+  "entityUrl" : "http://dbpedia.org/resource/Biren_Sing_Engti",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "14th", "-LRB-", "Assam", "Biren", "Sing", "March", "political", "Engti", "Karbi", "Sabha", "National", "member", "Autonomous", "born", "politician", "Lok", ",", ".", "India", "2", "constituency", "-RRB-", "Indian", "District", "1945", "Anglong", "party", "INC", "represent" ],
+  "adjectives" : [ "14th", "Indian", "political" ],
+  "nouns" : [ "Sabha", "constituency", "politician", "member", "Lok", "party" ],
+  "text" : "Biren Sing Engti (born 2 March 1945) is an Indian politician from Karbi Anglong, Assam. He is a member of Indian National Congress (INC) political party. He was a member of the 14th Lok Sabha of India. He represent the Autonomous District constituency of Assam.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "50_entity1959",
+  "entityUrl" : "http://dbpedia.org/resource/Botsa_Jhansi_Lakshmi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2010" ]
+  },
+  "words" : [ "Botsa", "-LRB-", "past", "Botcha", "politician", "Andhra", "Lok", "also", "spelled", "Jhansi", ",", ".", "Sabha", "Pradesh", "-RRB-", "member", "Indian", "Vizianagaram", "Lakshmi" ],
+  "adjectives" : [ "past", "Indian" ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Botsa Jhansi Lakshmi (also spelled as Botcha Jhansi Lakshmi) is an Indian politician and past member of the Lok Sabha from Vizianagaram, Andhra Pradesh.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "51_entity2164",
+  "entityUrl" : "http://dbpedia.org/resource/Botsa_Satyanarayana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2010" ]
+  },
+  "words" : [ "Congress", "June", "-LRB-", "Satyanarayana", "National", "Pradesh", "July", "1958", "Botsa", "joined", "Botcha", "politician", "Andhra", "also", ",", "Babu", ".", "India", "2015", "7", "-RRB-", "Sathi", "9", "Indian", "YSR", "belonged" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "politician" ],
+  "text" : "Botsa Satyanarayana (9 July 1958) also Botcha Satyanarayana(Sathi Babu) is an Indian politician from Andhra Pradesh, India. He belonged to the Indian National Congress until 2015 and he joined the YSR Congress On 7 June 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "52_entity2225",
+  "entityUrl" : "http://dbpedia.org/resource/Bhaurao_Dagadurao_Deshmukh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Law", "Dagadurao", "29", "political", "Bhokharden", "resides", "December", "Sabha", "daughters", "National", "sons", "Bombay", "member", "Osmania", "1952-1956", "state", "Maharashtra", "Assembly", "1956", "3rd", "studied", "Bhaurao", "born", "Auragabad", "4th", "Lok", ",", ".", "Hyderabad", "India", "3", "Deshmukh", "constituency", "University", "4", "State", "district", "-RRB-", "Indian", "Aurangabad", "married", "party", "Shashikala", "1922", "INC" ],
+  "adjectives" : [ "3rd", "4th", "political" ],
+  "nouns" : [ "Sabha", "Law", "constituency", "district", "member", "Lok", "state", "party", "Assembly" ],
+  "text" : "Bhaurao Dagadurao Deshmukh (born 29 December 1922) was a member of the 3rd and 4th Lok Sabha of India from the Aurangabad constituency of Maharashtra and a member of the Indian National Congress (INC) political party. He has studied Law at Osmania University at Hyderabad. He was married to Shashikala and had 4 sons and 3 daughters and resides at Bhokharden in then Auragabad district. He was member of Hyderabad State Assembly during 1952-1956, member of Bombay state Assembly in 1956",
+  "patterns" : { }
+}, {
+  "entityIndex" : "53_entity2256",
+  "entityUrl" : "http://dbpedia.org/resource/Bharat_Ram_Meghwal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "-LRB-", "Ganganagar", "Bharat", "house", "2009", "Politician", "belonging", "Sabha", "National", "Meghwal", "1956", "11", "born", "lower", "Lok", ",", "Rajasthan", ".", "Congress.He", "India", "elected", "Jan", "-RRB-", "Indian", "Parliament", "Ram" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "Politician", "house" ],
+  "text" : "Bharat Ram Meghwal (born 11 Jan 1956) is an Indian Politician belonging to the Indian National Congress.He was elected to the Lok Sabha, lower house of the Parliament of India from Ganganagar Rajasthan in 2009.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "54_entity17489",
+  "entityUrl" : "http://dbpedia.org/resource/Tushar_Amarsinh_Chaudhary",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Congress", "14th", "Dr.", "leader", "-LRB-", "Gujarat", "Chief", "Gajraben", "15th", "2009", "December", "Sabha", "son", "National", "2004", "Tushar", "state", "Minister", "born", "18", "politician", "Lok", ",", "Bardoli", ".", "former", "1965", "elected", "Mandvi", "Chaudhary", "constituency", "-RRB-", "Indian", "Amarsinh" ],
+  "adjectives" : [ "14th", "Indian", "former", "15th" ],
+  "nouns" : [ "leader", "son", "constituency", "politician", "state" ],
+  "text" : "Dr. Tushar Amarsinh Chaudhary (born 18 December 1965) is an Indian politician and a leader of the Indian National Congress in Gujarat state. He is son of former Chief Minister of Gujarat, Amarsinh Chaudhary and Gajraben. In 2004, he was elected to the 14th Lok Sabha from Mandvi constituency. In 2009, he was elected to the 15th Lok Sabha from Bardoli constituency. He was the Union Minister of State for Tribal Affairs from 28 May 2009 to 28 Sep 2012. On 28 Sep 2012 he became the Union Minister of State for Road Transport and Highways. Chaudhary has studied medicine.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "55_entity17575",
+  "entityUrl" : "http://dbpedia.org/resource/Thokchom_Meinya",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Meinya", "Congress", "Dr.", "-LRB-", "political", "Inner", "serving", "second", "represents", "October", "Sabha", "candidate", "Thokchom", "National", "won", "member", "term", "12", "born", "Lok", "elections", "consecutive", ".", "currently", "constituency", "-RRB-", "Indian", "Manipur", "1945", "party", "INC" ],
+  "adjectives" : [ "political", "consecutive", "second" ],
+  "nouns" : [ "candidate", "constituency", "member", "term", "party" ],
+  "text" : "Dr. Thokchom Meinya (born 12 October 1945) is a member of the Lok Sabha who is currently serving his second consecutive term. He represents the Inner Manipur constituency of Manipur and won the elections as a party candidate of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "56_entity18118",
+  "entityUrl" : "http://dbpedia.org/resource/Tarachand_Bhagora",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "-LRB-", "Bhagora", "house", "1954", "2009", "Politician", "belonging", "Sabha", "National", "Banswara", "January", "Tarachand", "born", "lower", "1996,1999", "Lok", ",", "Rajasthan", ".", "Congress.He", "India", "elected", "1", "-RRB-", "Indian", "Parliament" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "Politician", "house" ],
+  "text" : "Tarachand Bhagora (born 1 January 1954) is an Indian Politician belonging to the Indian National Congress.He was elected to the Lok Sabha, lower house of the Parliament of India from Banswara, Rajasthan in 1996,1999 and 2009.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "57_entity15097",
+  "entityUrl" : "http://dbpedia.org/resource/R._L._Jalappa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "11th", "Chikballapur", "political", "1998", "October", "Sabha", "1996", "candidate", "National", "Karnataka", "2004", "member", "represented", "R.L.", "1999", "Janata", "Jalappa", "born", "19", "Lok", ",", ".", "Dal", "India", "elected", "Later", "re-elected", "constituency", "-RRB-", "Indian", "1925", "party", "INC" ],
+  "adjectives" : [ "14th", "11th", "political", "Indian" ],
+  "nouns" : [ "Sabha", "candidate", "constituency", "member", "Lok", "party" ],
+  "text" : "R.L. Jalappa (born 19 October 1925) was a member of the 14th Lok Sabha of India. He represented the Chikballapur constituency of Karnataka and is a member of the Indian National Congress (INC) political party. In 1996, he was elected to the 11th Lok Sabha as a Janata Dal candidate. Later he was re-elected to the Lok Sabha in 1998, 1999 and 2004 as an Indian National Congress candidate. He was also former union minister in the ministry of Deve Gowda. He is also the chairman of the Sri Devaraj Urs Medical College situated in Kolar.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "58_entity15129",
+  "entityUrl" : "http://dbpedia.org/resource/Ramakrishna_Badiga",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Rao", "defeated", "BJP", "multi", "PRP", "Sabha", "Narayana", "National", "Pradesh", "represented", "Candidate", "lakh", "margin", "contest", "12000", "Andhra", "Lok", "'s", ",", "community", "elections", ".", "India", "1942", "candidates", "2", "fielded", "-RRB-", "14th", "Congress", "Konakalla", "BC", "-LRB-", "September", "sabha", "2009", "meager", "member", "Kapu", "Badiga", "TDP", "born", "sided", "Ramakrishna", "Machilipatnam", "Loksatta", "polled", "constituency", "Indian", "votes" ],
+  "adjectives" : [ "14th", "meager", "multi" ],
+  "nouns" : [ "lakh", "TDP", "Sabha", "margin", "contest", "constituency", "member", "Lok", "community", "sabha", "PRP" ],
+  "text" : "Ramakrishna Badiga (born 2 September 1942) was a member of the 14th Lok Sabha of India. He represented the Machilipatnam constituency of Andhra Pradesh and is a member of the Indian National Congress. He was defeated by the TDP's BC Candidate Konakalla Narayana Rao in 2009 Lok sabha elections by a meager margin of 12000 votes in a multi sided contest, where in PRP, Loksatta, BJP fielded candidates from the Kapu community and polled more than 2 lakh votes.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "59_entity15200",
+  "entityUrl" : "http://dbpedia.org/resource/Rajesh_Kumar_Mishra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "Started", "Kumar", "-LRB-", "congress", "कुमार", "stood", "Committee", "मिश्रा", "life", "2009", "Sabha", "राजेश", "1950", "2004", "lost", "member", "Hindi", "July", "Member", "Mishra", "ticket", "born", "politician", "Rajesh", "Lok", "Student", "elections", ".", "India", "elected", "seat", "7", "Varanasi", "-RRB-", "Indian", ":", "Politics", ";", "Parliament" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "seat", "ticket", "congress", "politician", "member", "Student", "मिश्रा", "life" ],
+  "text" : "Rajesh Kumar Mishra (Hindi: राजेश कुमार मिश्रा; born 7 July 1950) is an Indian politician. He stood for the 2004 Lok Sabha elections on the congress ticket and was elected a Member of Parliament from Varanasi but lost his seat in 2009. He is a member of All India Congress Committee. He Started his Politics in Student life.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "60_entity15201",
+  "entityUrl" : "http://dbpedia.org/resource/Raja_Ram_Pal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "14th", "23", "sub", "-LRB-", "Duryodhana", "Akbarpur", "Operation", "15th", "Bilhaur", "Sabha", "December", "Party", "National", "2005", "along", "Samaj", "member", "term", "ten", "BSP", "others", "November", "Raja", "expelled", "born", "politician", "Lok", "finished", "sting", ",", "Earlier", ".", "judice", "currently", "constituency", "1960", "-RRB-", "Indian", "Pal", "Bahujan", "expulsion", "20", "Ram" ],
+  "adjectives" : [ "14th", "sub", "Indian", "15th" ],
+  "nouns" : [ "judice", "constituency", "politician", "member", "term", "sting", "expulsion" ],
+  "text" : "Raja Ram Pal (born 20 November 1960) is an Indian politician with the Indian National Congress, and currently a member of the 15th Lok Sabha from Akbarpur (Lok Sabha constituency). Earlier, as a member of the Bahujan Samaj Party (BSP), he had been a member of the 14th Lok Sabha from Bilhaur, before being expelled on 23 December 2005, along with ten others, after the sting Operation Duryodhana. The expulsion was sub judice when the 14th Lok Sabha finished its term.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "61_entity15202",
+  "entityUrl" : "http://dbpedia.org/resource/R._Prabhu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "Nadu", "-LRB-", "Gandhi", "May", "Union", "times", "National", "member", "Rajiv", "Nilgiris", "R.", "31", "Minister", "Ooty", "Prabhu", "born", "representing", ",", "Tamil", ".", "India", "elected", "constituency", "5", "1980", "-RRB-", "Indian", "time", "1947", "cabinet", "Parliament", "since" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "constituency", "member", "time", "cabinet" ],
+  "text" : "R. Prabhu (born 31 May 1947) was an Indian National Congress member of Parliament in India, representing the Nilgiris (Ooty) constituency of Tamil Nadu, India. He was elected from Nilgiris 5 times since 1980 and once time Union Minister in Rajiv Gandhi cabinet.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "62_entity15204",
+  "entityUrl" : "http://dbpedia.org/resource/R._Dhanuskodi_Athithan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Athithan", "14th", "Nadu", "Congress", "-LRB-", "Vaagaikulam", "March", "political", "died", "accident", "1953", "Tuticorin", "Sabha", "2006", "Tirunelveli", "National", "road", "Indra", "member", "represented", "near", "R.", "wounded", "Dhanuskodi", "wife", "born", "Highway", "Lok", "-", ".", "Tamil", "happened", "India", "August", "critically", "Adithan", "constituency", "Devi", "6", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "road", "wife", "member", "Lok", "party", "accident" ],
+  "text" : "R. Dhanuskodi Athithan (born 6 March 1953) was a member of the 14th Lok Sabha of India. He represented the Tirunelveli constituency of Tamil Nadu and is a member of the Indian National Congress (INC) political party. He was critically wounded in a road accident which happened near Vaagaikulam on the Tirunelveli - Tuticorin National Highway on 6 August 2006. His wife Indra Devi Adithan died in the accident.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "63_entity15205",
+  "entityUrl" : "http://dbpedia.org/resource/Rana_Gurjeet_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "year", "political", "dist", "1952", "Sabha", "Ropar", "National", "paper", "member", "Singh", "represented", "migrated", "set", "Rana", "born", "19", "Lok", "Jalandhar", "Punjab", "April", ".", "kraft-based", "India", "mill", "1986", "constituency", "Gurjeet", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "political", "kraft-based" ],
+  "nouns" : [ "Sabha", "constituency", "paper", "year", "member", "Lok", "dist", "party", "mill" ],
+  "text" : "Rana Gurjeet Singh (born 19 April 1952) was a member of the 14th Lok Sabha of India. He represented the Jalandhar constituency of Punjab and is a member of the Indian National Congress (INC) political party. Rana Gurjeet Singh migrated to Punjab in the year 1986 and set up a kraft-based paper mill in dist. Ropar. He later went on the set up a sugar mill in Buttar Sivia village of Amritsar district. He has built a political career for himself when he won his first M.L.A. election in Kapurthala, Punjab. He has since been elected as a M.P. from Jalandhar and has lost only one election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "64_entity15206",
+  "entityUrl" : "http://dbpedia.org/resource/Rattan_Singh_Ajnala",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "14th", "-LRB-", "Khadoor", "Ajnala", "Rattan", "political", "15th", "represents", "Shiromani", "Sabha", "Akali", "member", "Singh", "represented", "January", "16", "born", "Lok", "Punjab", "Sahib", ".", "Tarn", "Dal", "India", "constituency", "SAD", "-RRB-", "party", "1944", "Taran" ],
+  "adjectives" : [ "14th", "political", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Rattan Singh Ajnala (born 16 January 1944) is a member of the 15th Lok Sabha of India and represents the Khadoor Sahib constituency of Punjab . He represented the Tarn Taran constituency of Punjab in the 14th Lok Sabha and is a member of the Shiromani Akali Dal (SAD) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "65_entity15207",
+  "entityUrl" : "http://dbpedia.org/resource/Ramsevak_Singh_(Babuji)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "14th", "-LRB-", "27", "Gwalior", "March", "political", "1953", "Sabha", "National", "Pradesh", "member", "Singh", "represented", "born", "politician", "Lok", "Madhya", ",", ".", "India", "Ramsevak", "constituency", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "Indian", "political" ],
+  "nouns" : [ "Sabha", "constituency", "politician", "member", "Lok", "party" ],
+  "text" : "Ramsevak Singh (born 27 March 1953) is an Indian politician and is a member of the Indian National Congress (INC) political party. He was a member of the 14th Lok Sabha of India, where he represented the Gwalior constituency of Madhya Pradesh.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "66_entity15209",
+  "entityUrl" : "http://dbpedia.org/resource/Rameshwar_Oraon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Polizeidienst", "Politiker", "nationalen", "Unterhaus", "-LRB-", "Universität", "trat", "ist", "ein", "den", "Ökonomie", "Rameshwar", "der", "Oraon", "von", "1972", "promovierte", "Wahlkreis", "Lohardaga", "Bundesstaat", "Chianki", "bevor", "14", "im", "Kandidat", "als", "*", "indischer", ",", "er", ".", "repräsentiert", "Jharkhand", "Kongresspartei", "Ranchi", "7", "-RRB-", "ostindischen", "1947", "Februar" ],
+  "adjectives" : [ "Februar" ],
+  "nouns" : [ "nationalen", "Unterhaus", "bevor", "im", "trat", "indischer", "ist", "ein", "den", "er", "repräsentiert", "der", "promovierte", "ostindischen" ],
+  "text" : "Rameshwar Oraon (* 14. Februar 1947 in Chianki, Jharkhand) ist ein indischer Politiker, der als Kandidat der Kongresspartei den Wahlkreis Lohardaga im ostindischen Bundesstaat Jharkhand im nationalen Unterhaus repräsentiert. Oraon promovierte in Ökonomie an der Universität von Ranchi, bevor er 1972 in den nationalen Polizeidienst trat. Am 7. April 2008 wurde Oraon als Minister für Stammesangelegenheiten („tribal affairs“) im ersten Kabinett unter Manmohan Singh vereidigt. Der neuen Regierung unter Manmohan Singh ab 2009 gehörte er nicht mehr an.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "67_entity15324",
+  "entityUrl" : "http://dbpedia.org/resource/Ram_Prakash",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2011" ]
+  },
+  "words" : [ "Congress", "Dr.", "leader", "-LRB-", "डॉ.राम", "upper", "house", "Sabha", "National", "Hindi", "Member", "Kangri", "پرکاش", "Urdu", "politician", "ڈاکٹر.رام", "representing", "प्रकाश", "also", ",", "Prakash", ".", "India", "Gurukul", "Haryana", "Rajya", "chancellor", "currently", "University", "-RRB-", "Indian", ":", "party", "Parliament", "Ram" ],
+  "adjectives" : [ "upper", "Indian" ],
+  "nouns" : [ "leader", "chancellor", "politician", "house", "party" ],
+  "text" : "Dr. Ram Prakash (Hindi: डॉ.राम प्रकाश) (Urdu: ڈاکٹر.رام پرکاش‎) is an Indian politician and a leader of Indian National Congress party. He is Member of the Parliament of India representing Haryana in the Rajya Sabha, the upper house of the Indian Parliament and currently he is also the chancellor of Gurukul Kangri University",
+  "patterns" : { }
+}, {
+  "entityIndex" : "68_entity15524",
+  "entityUrl" : "http://dbpedia.org/resource/Ramesh_Dube",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Mirzapur", "stood", "1968-1984", "Nationalist", "Ramesh", "Mumbai", "October", "2007", "Party", "Dube", "National", "Samaj", "member", "state", "Member", "BSP", "by-elections", "Assembly", "ticket", "minister", "16", "founder", "born", "politician", "also", "Earlier", ".", "former", "Municipal", "1942", "Corporation", "1985-1995", "Andheri", "-RRB-", "Indian", "Legislative", "Bahujan", "Parliament" ],
+  "adjectives" : [ "Indian", "Legislative", "Nationalist", "former" ],
+  "nouns" : [ "ticket", "minister", "founder", "politician", "member", "state", "BSP", "Assembly" ],
+  "text" : "Ramesh Dube (born 16 October 1942) is an Indian politician with the Bahujan Samaj Party (BSP). He stood for the 2007 by-elections on the BSP ticket and was a Member of Parliament from Mirzapur. He is a former Member of the Legislative Assembly during 1985-1995 from Indian National Congress and state minister from Andheri Earlier he was member of Mumbai Municipal Corporation during 1968-1984. He was also founder member of Nationalist Congress Party",
+  "patterns" : { }
+}, {
+  "entityIndex" : "69_entity15572",
+  "entityUrl" : "http://dbpedia.org/resource/Ravneet_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "Congress", "anti-congress", "wave", "15th", "2009", "belonging", "general", "Sabha", "National", "spite", "won", "Ludhiana", "parliamentary", "Ravneet", "Singh", "represented", "Member", "politician", "Lok", "Punjab", "Sahib", "Earlier", "elections", ".", "elected", "constituency", "Indian", "nationwide", "Parliament", "Anandpur" ],
+  "adjectives" : [ "general", "anti-congress", "Indian", "parliamentary", "nationwide", "15th" ],
+  "nouns" : [ "constituency", "spite", "politician", "wave" ],
+  "text" : "Ravneet Singh is an Indian politician belonging to Indian National Congress. He is Member of Parliament from Ludhiana parliamentary constituency from where he won in spite of a nationwide anti-congress wave. Earlier he represented Anandpur Sahib in Punjab. He was elected to the 15th Lok Sabha in the general elections of 2009. He is the grandson of slain Punjab Chief Minister Beant Singh. He is considered a member of the youth brigade of Rahul Gandhi. He is also the first elected President of Youth Congress of Punjab (2008).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "70_entity15805",
+  "entityUrl" : "http://dbpedia.org/resource/Rao_Narendra_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Congress", "Rao", "Bhiwani-mahendragarh", "congress", "Narendra", "subsequently", "2009", "October", "lost", "won", "assembly", "Singh", "Parliamentary", "state", "Constituency", "included", "Minister", "Ticket", "election", "minister", "Health", "joined", "chief", ",", "elections", "Janhit", ".", "Narnaul", "seat", "Later", "Haryana", "Indian", "cabinet" ],
+  "adjectives" : [ "Bhiwani-mahendragarh", "Indian", "Parliamentary" ],
+  "nouns" : [ "seat", "election", "minister", "congress", "chief", "assembly", "state", "Constituency", "cabinet" ],
+  "text" : "Rao Narendra Singh is the Minister of Health of the Indian state of Haryana. He lost Bhiwani-mahendragarh Parliamentary Constituency in 2009 elections, but won assembly election from Narnaul assembly seat in October 2009 on Haryana Janhit Congress Ticket. Later he joined congress and subsequently the chief minister included him in his cabinet.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "71_entity15999",
+  "entityUrl" : "http://dbpedia.org/resource/Rajaram_Kisan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2013" ]
+  },
+  "words" : [ "``", "Congress", "Ajhara", "Shukl", "-LRB-", "MLA", "died", "Lalganj", "Rajaram", "December", "1952", "Sabha", "Party", "known", "National", "Pradesh", "member", "1917", "Deum", "term", "state", "1957", "Assembly", "''", "--", "activist", "Uttar", "17", "Independence", "politician", "also", ",", ".", "Kisan", "elected", "Vidhan", "belongs", "2013", "-RRB-", "Indian", "Legislative", "Pandit", "first" ],
+  "adjectives" : [ "Vidhan", "Indian", "Legislative", "first" ],
+  "nouns" : [ "activist", "Sabha", "Independence", "politician", "member", "term", "state", "Assembly" ],
+  "text" : "Pandit Rajaram Shukl \"Kisan\" (1917 – 17 December 2013), also known as Rajaram Kisan, was an Indian Independence activist and politician who belongs to the Indian National Congress Party. He was elected MLA in 1952 and was member of the first state Uttar Pradesh Legislative Assembly (Vidhan Sabha), which had its term from 1952 to 1957. On 17 December 2013 Rajaram died at Deum, Lalganj Ajhara.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "72_entity3581",
+  "entityUrl" : "http://dbpedia.org/resource/Dhani_Ram_Shandil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "14th", "13th", "Shandil", "-LRB-", "Shimla", "Vikas", "political", "Himachal", "October", "Sabha", "candidate", "National", "Pradesh", "2004", "Dhani", "member", "1999", "Retd", "born", "politician", "Lok", ",", ".", "elected", "1940", "re-elected", "constituency", "Colonel", "-RRB-", "Indian", "20", "party", "Ram" ],
+  "adjectives" : [ "14th", "13th", "Indian", "political" ],
+  "nouns" : [ "candidate", "constituency", "politician", "member", "party" ],
+  "text" : "Colonel Dhani Ram Shandil (Retd) (born 20 October 1940) is an Indian politician. He is a member of the Indian National Congress political party. In 1999, he was elected to the 13th Lok Sabha from Shimla constituency in Himachal Pradesh as a Himachal Vikas Congress candidate. He was re-elected to the 14th Lok Sabha in 2004 from the same constituency as an Indian National Congress. He is the MLA from Solan and Social Justice and empowerment minister in the Himachal Pradesh Cabinet.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "73_entity3582",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_A._Reed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "1899", "1900", "1903", "1910", "1911" ]
+  },
+  "words" : [ "New", "Politiker", "-LRB-", "September", "York", "1919", "Zwischen", "ein", "den", "County", "Washington", "1875", "Reed", "US-Repräsentantenhaus", "1959", "Bundesstaat", "Chautauqua", "US-amerikanischer", "†", "vertrat", "Alden", "15", "im", "19", "war", "*", "D.C.", "und", "Daniel", ",", "er", ".", "Sheridan", "-RRB-", ";", "Februar" ],
+  "adjectives" : [ "und", "Februar" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Daniel Alden Reed (* 15. September 1875 in Sheridan, Chautauqua County, New York; † 19. Februar 1959 in Washington, D.C.) war ein US-amerikanischer Politiker. Zwischen 1919 und 1959 vertrat er den Bundesstaat New York im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "74_entity3647",
+  "entityUrl" : "http://dbpedia.org/resource/Dawa_Narbula",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "Dawa", "political", "Darjeeling", "December", "Sabha", "Kurseong", "National", "member", "represented", "1935", "Assembly", "1977", "16", "Bengal", "West", "Narbula", "born", "Lok", ".", "India", "elected", "constituency", "State", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "Darjeeling", "party" ],
+  "text" : "Dawa Narbula (born 16 December 1935) was a member of the 14th Lok Sabha of India. He represented the Darjeeling constituency of West Bengal and is a member of the Indian National Congress (INC) political party. He was elected to the West State Assembly from Kurseong in 1977.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "75_entity3651",
+  "entityUrl" : "http://dbpedia.org/resource/Devarakonda_Vittal_Rao",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Vittal", "14th", "Congress", "Rao", "-LRB-", "May", "28", "political", "Sabha", "National", "Pradesh", "Devarakonda", "member", "represented", "Mahabubnagar", "November", "--", "14", "Andhra", "Lok", ".", "India", "2016", "constituency", "-RRB-", "Indian", "1947", "party", "INC" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Devarakonda Vittal Rao (14 November 1947 – 28 May 2016) was a member of the 14th Lok Sabha of India. He represented the Mahabubnagar constituency of Andhra Pradesh and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "76_entity3807",
+  "entityUrl" : "http://dbpedia.org/resource/Daroga_Prasad_Rai",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2008" ]
+  },
+  "words" : [ "Prasad", "date", "Bihar", "-LRB-", "September", "death", "Chief", "unknown", "1970", "state", "Minister", "Daroga", "Yadav", "born", "politician", ",", ".", "/", "Ahir", "2", "-RRB-", "Indian", "Rai", "family", "1922" ],
+  "adjectives" : [ "Indian", "unknown" ],
+  "nouns" : [ "date", "death", "politician", "state", "family" ],
+  "text" : "Daroga Prasad Rai (born 2 September 1922, date of death unknown) was an Indian politician from the state of Bihar. He was born in Yadav / Ahir family. He was the Chief Minister of Bihar in 1970.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "77_entity3848",
+  "entityUrl" : "http://dbpedia.org/resource/D._Srinivas_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "leader", "strategic", "congress", "respectively.On", "bring", "reputation", "BJP", "DS", "belonging", "President", "worked", "high", "leader.Being", "TRS", "Pradesh", "portfolio", "A.p.", "Dharmapuri", "nephew", "state", "July", "different", "command.He", "new", "minister", "Andhra", "state.Lost", "'s", ",", "elections", ".", "former", "Assembly.Also", "PCC", "2", "popularly", "A.P.", "State", "true", "party", "Congress", "PARTY", "BC", "dyanamic", "role", "RAJARAM", "Telangana", "2012", "back", "Played", "2009", "Party", "government", "known", "2004", "key", "resigned", "High", "follower", "politician", "Ex-MLA", "command", "Rashtra", "2015", "2014", "Srinivas", "Samithi", "ARGUL", "Indian", "Good", "delhi", "cabinet", "pradesh", "finance" ],
+  "adjectives" : [ "High", "new", "dyanamic", "high", "strategic", "true", "Indian", "different", "Good", "former", "key" ],
+  "nouns" : [ "BC", "leader", "role", "follower", "minister", "congress", "respectively.On", "politician", "Ex-MLA", "reputation", "command", "DS", "government", "leader.Being", "portfolio", "nephew", "state", "command.He", "cabinet", "pradesh", "party", "finance" ],
+  "text" : "Dharmapuri Srinivas is an Indian politician belonging to the Telangana Rashtra Samithi. He is the former President of Andhra Pradesh Congress Party PCC and Ex-MLA of State Assembly.Also worked with different portfolio's in state cabinet of Andhra pradesh. Played key role to bring back congress party government in 2004 and 2009 in A.p. Good reputation with high command in new delhi and known as key strategic BC leader. He is popularly known as DS and dyanamic leader.Being true follower of High command.He is nephew of former finance minister ARGUL RAJARAM of A.P. state.Lost the elections in 2009, 2012 to BJP and 2014 to TRS PARTY respectively.On 2 July 2015 he resigned for congress party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "78_entity4112",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Dalton_(British_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "1999", "2010" ]
+  },
+  "words" : [ "de", "-LRB-", "Il", "politique", "joueur", "est", "du", "1974", "Dalton", "un", "Oxford", "31", "à", "membre", "Parti", "janvier", "Royaume-Uni", "Daniel", ",", ".", "et", "homme", "britannique", "cricket", "-RRB-", "conservateur", "le", "né" ],
+  "adjectives" : [ ],
+  "nouns" : [ "à", "membre", "homme", "Il", "politique", "britannique", "cricket", "est", "janvier", "conservateur", "un", "né" ],
+  "text" : "Daniel Dalton, né le 31 janvier 1974 à Oxford (Royaume-Uni), est un homme politique et joueur de cricket britannique. Il est membre du Parti conservateur.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "79_entity4153",
+  "entityUrl" : "http://dbpedia.org/resource/Dilip_Chalil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2013" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Incharge", "Secretary", "Committee", "Dutt", "Priya", "National", "Pradesh", "Maharashtra", "January", "Member", "profession", "Social", "Dilip", "process", "charge", "initiative", "&", "born", "politician", "MPCC", "Chalil", "Media", "also", "improvement", ",", ".", "unit", "consultant", "currently", "6", "-RRB-", "Indian", "well", "1967", "Parliament" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "profession", "process", "unit", "charge", "initiative", "consultant", "politician", "improvement" ],
+  "text" : "Dilip Chalil (born 6 January 1967) is an Indian politician and a process improvement consultant by profession. He is currently the Secretary of the Maharashtra Pradesh Congress Committee (MPCC), the Maharashtra unit of the Indian National Congress. He is also in charge of the MPCC IT & Social Media initiative in Maharashtra, as well as the Media Incharge for Indian Member of Parliament Priya Dutt.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "80_entity4201",
+  "entityUrl" : "http://dbpedia.org/resource/Devwrat_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "Jamnagar", "Congress", "14th", "June", "-LRB-", "Gujrat", "political", "legislative", "Chhattisgarh", "Sabha", "Rajnandgaon", "later", "National", "Pradesh", "2003", "member", "Singh", "Assembly", "MP", "Chhattisgarh.During", "born", "politician", "1998-2003", "representing", "Lok", "Madhya", ",", ".", "India", "elected", "1995-1998", "3", "Devwrat", "constituency", "-RRB-", "Indian", "Legislative", "1969", "party" ],
+  "adjectives" : [ "14th", "Indian", "political", "Legislative", "legislative" ],
+  "nouns" : [ "Sabha", "Rajnandgaon", "MP", "constituency", "politician", "member", "Lok", "party", "Assembly" ],
+  "text" : "Devwrat Singh (born 3 June 1969 Jamnagar, Gujrat) is an Indian politician and a member of the Indian National Congress political party. He was a member of the 14th Lok Sabha of India, representing the Rajnandgaon constituency of Chhattisgarh.During 1995-1998 he was member of Madhya Pradesh Legislative Assembly. During 1998-2003 he was again elected to MP legislative Assembly later Chhattisgarh Legislative Assembly. He was elected to it again in 2003. He is married to Mrs Padma Devi and has one son and one daughter.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "81_entity19650",
+  "entityUrl" : "http://dbpedia.org/resource/Yadav_Shivram_Mahajan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "political", "Sabha", "later", "National", "sons", "1970", "Himgona", "Jalgaon", "Economics", "4th", "Lok", "Buldhan", ",", "8th", ".", "India", "elected", "seat", "1", "2", "district", "-RRB-", "London", "daughter", "party", "INC", "22", "Congress", "-LRB-", "resides", "Mrs", "School", "Buldhana", "member", "Maharashtra", "by-elections", "November", "1911", "Shivram", "Yadav", "Mahajan", "born", "5th", "7th", "9th", "Middle", "Sarojini", "educated", "constituency", "Temple", "Indian", "married" ],
+  "adjectives" : [ "4th", "political", "5th", "8th", "9th" ],
+  "nouns" : [ "seat", "Sabha", "constituency", "district", "member", "Lok", "daughter", "party" ],
+  "text" : "Yadav Shivram Mahajan (born at Himgona, Jalgaon district, Maharashtra, 22 November 1911) was a member of the 4th Lok Sabha of India from the Buldhana constituency of Maharashtra elected in 1970 by-elections and a member of the Indian National Congress (INC) political party. He was later elected to 5th Lok Sabha from Buldhan and to 7th, 8th and 9th Lok Sabha from Jalgaon seat. He was educated at London School of Economics and the Middle Temple, London. He was married to Mrs Sarojini and had 2 sons and 1 daughter and resides at Jalgaon. He worked as Member of District Congress Committee for 5 years and Executive Member of Pradesh Congress Committee of Maharashtra for 2 years",
+  "patterns" : { }
+}, {
+  "entityIndex" : "82_entity19651",
+  "entityUrl" : "http://dbpedia.org/resource/Yashwantrao_Martandrao_Mukne",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "Congress", "Rajkumar", "-LRB-", "Rajkot", "Old", "England", "political", "Jawhar", "Dahanu", "Sabha", "1st", "School", "National", "Thane", "member", "1917", "Maharashtra", "11", "ST", "b", "Dec", "3rd", "H.", "4th", "Mukne", "Lok", "also", ",", "Yashwantrao", "Blundells", ".", "former", "Middle", "India", "educated", "constituency", "Temple", "State", "-RRB-", "College", "Indian", "Bhiwandi", "Martandrao", "party", "INC" ],
+  "adjectives" : [ "ST", "1st", "3rd", "4th", "political", "former" ],
+  "nouns" : [ "b", "Sabha", "constituency", "member", "Mukne", "Lok", "party" ],
+  "text" : "H. H. Yashwantrao Martandrao Mukne (b 11 Dec 1917, Jawhar) was a member of the 4th Lok Sabha of India from the Dahanu constituency of Maharashtra and a member of the Indian National Congress (INC) political party. He was also member of 1st Lok Sabha from Thane(ST) and 3rd Lok Sabha from Bhiwandi. He was former of Jawhar State in Maharashtra. He had educated at Rajkumar College, Rajkot, Old Blundells School, England and at the Middle Temple, England. He was married to Her Highness Priyamvada Raje and had 1 son and 2 daughters and resides at Jaivilas Palace, Jawhar in Thane district.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "83_entity6911",
+  "entityUrl" : "http://dbpedia.org/resource/Hemlal_Murmu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Murmu", "-LRB-", "Janata", "Rajmahal", "Lok", "political", "Mukti", "JMM", ".", "India", "represents", "Jharkhand", "Sabha", "candidate", "Party", "constituency", "Bharatiya", "Hemlal", "member", "-RRB-", "Morcha", "Constituency", "party" ],
+  "adjectives" : [ "14th", "Hemlal", "Rajmahal", "political" ],
+  "nouns" : [ "Murmu", "Sabha", "candidate", "constituency", "member", "Lok", "party" ],
+  "text" : "Hemlal Murmu is a member of the 14th Lok Sabha of India. He represents the Rajmahal constituency of Jharkhand and was a member of the Jharkhand Mukti Morcha (JMM) political party. He is the Bharatiya Janata Party candidate from Rajmahal (Lok Sabha Constituency).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "84_entity7132",
+  "entityUrl" : "http://dbpedia.org/resource/Hemananda_Biswal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Congress", "ନନ", "leader", "-LRB-", "Chief", "March", "office", "2009", "December", "National", "Hemananda", "1939", "Odisha", "Minister", "1999", "Sundergarh", "MP", "ଦ", "born", "Odia", "1990", "2000", "Biswal", "ବ", ",", "ମ", "former", ".", "elected", "ୱ", "1", "ଳ", "5", "ଶ", "6", "7", "-RRB-", "ହ", "Indian", ":", ";", "1989" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "ନନ", "leader", "ଳ", "MP", "ଶ", "office" ],
+  "text" : "Hemananda Biswal (Odia: ହେମାନନ୍ଦ ବିଶ୍ୱାଳ; born 1 December 1939) is a leader of the Indian National Congress, and a former Chief Minister of Odisha, who was in office from 7 December 1989 to 5 March 1990 and again from 6 December 1999 to 5 March 2000; and was again elected as an MP from Sundergarh in 2009.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "85_entity7675",
+  "entityUrl" : "http://dbpedia.org/resource/Iqbal_Ahmed_Saradgi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "political", "Labour", "15th", "Elections", "Mallikarjun", "Sabha", "National", "Saradgi", "won", "represented", "Minister", "still", "contest", "made", "Lok", "opportunity", "active", ",", "'s", ".", "Kharge", "India", "seat", "senior", "5", "reserved", "belongs", "-RRB-", "General", "gave", "community.Sri", "India.Sri", "party", "1944", "INC", "14th", "Congress", "June", "politics", "-LRB-", "Gulbarga", "Sri", "Union", "Republic", "2009", "SC", "Karnataka", "Employment", "Henceforth", "member", "Ahmed", "election", "born", "constituency", "Indian", "Iqbal" ],
+  "adjectives" : [ "14th", "senior", "reserved", "political", "active", "15th" ],
+  "nouns" : [ "seat", "SC", "Sabha", "election", "constituency", "member", "Lok", "opportunity", "party", "Republic" ],
+  "text" : "Iqbal Ahmed Saradgi (born 5 June 1944) was the member of the 14th Lok Sabha of India. He represented the Gulbarga constituency of Karnataka and is a member of the Indian National Congress (INC) political party. In 2009 General Elections for the 15th Lok Sabha, the Gulbarga constituency was made as a reserved seat for SC's.Henceforth Sri Iqbal Ahmed Saradgi gave the opportunity to Sri Mallikarjun Kharge to contest the election as he belongs to that community.Sri Mallikarjun Kharge won the seat and is now Union Minister of Labour and Employment of the Republic of India.Sri Saradgi is still active in politics and is very senior member of Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "86_entity16293",
+  "entityUrl" : "http://dbpedia.org/resource/Sansuma_Khunggur_Bwiswmuthiary",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "leader", "-LRB-", "सानसुमा", "Assam", "independent", "Front", "years", "represents", "1998", "Sabha", "candidate", "2004", "बैसोमुथियारी", "member", "Sansuma", "January", "Bwiswmuthiary", "1999", "कुंगुर", "Bodo", "born", "People", "Lok", "'s", ",", ".", "India", "elected", "1", "Independent", "constituency", "1960", "Khunggur", "Bodoland", "-RRB-", ":", "Kokrajhar" ],
+  "adjectives" : [ "14th", "Independent", "independent" ],
+  "nouns" : [ "leader", "Sabha", "candidate", "constituency", "Front", "member", "Lok" ],
+  "text" : "Sansuma Khunggur Bwiswmuthiary (Bodo:  सानसुमा कुंगुर बैसोमुथियारी born 1 January 1960) is a member of the 14th Lok Sabha of India. He represents the Kokrajhar constituency of Assam. He is an Independent member and leader of the Bodoland People's Front. Bwiswmuthiary has been elected to the Lok Sabha as an independent candidate from the Kokrajhar constituency in Assam in the years 1998, 1999 and 2004. Bwiswmuthiary is a Bodo nationalist, and favors the creation of an autonomous Bodoland region. His backers include the All Bodo Students Union and the National Democratic Alliance. Bwiswmuthiary is a supporter of the Indo-US nuclear deal.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "87_entity16325",
+  "entityUrl" : "http://dbpedia.org/resource/Sis_Ram_Ola",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2013" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Ola", "15th", "Jhunjhunu", "December", "Sabha", "1996", "National", "1993", "member", "represented", "July", "30", "1957", "Member", "Assembly", "--", "15", "minister", "Government", "1990", "Lok", ",", "Rajasthan", ".", "India", "constituency", "2013", "1980", "-RRB-", "Indian", "Legislative", "1927", "Sis", "cabinet", "Ram" ],
+  "adjectives" : [ "Legislative", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "minister", "Government", "member", "Lok", "cabinet", "Assembly" ],
+  "text" : "Sis Ram Ola (30 July 1927 – 15 December 2013) was a member of the 15th Lok Sabha of India. He represented the Jhunjhunu constituency of Rajasthan and was a member of the Indian National Congress. He was a member of the Rajasthan Legislative Assembly from 1957 to 1990, and from 1980 to 1990 he was a cabinet minister in the Government of Rajasthan. From 1993 to 1996, he was again a Member of the Rajasthan Legislative Assembly. In 1996, he was elected to the 11th Lok Sabha; he was Union Minister of State for Chemicals and Fertilizers (Independent Charge) from 1996 to 1997 and Union Minister of State for Water Resources (Independent Charge) from 1997 to 1998. He was re-elected to the 12th Lok Sabha in 1998, the 13th Lok Sabha in 1999, the 14th Lok Sabha in 2004,and the 15th Lok Sabha in 2009. He was Union Cabinet Minister of Labour and Employment from 23 May 2004 to 27 November 2004 and was Union Cabinet Minister of Mines in Dr. Manmohan Singh's government. He was also jila pramukh of Jhujhunu and his son Bijender Ola is a MLA from Jhunjhunu and was a former minister in the Rajasthan government. Sis Ram Ola was the recipient of the Padma Shri award in 1968 for social work. Started girls education in a remote area in rural Rajasthan with three girls in the school known as Indira Gandhi Balika Niketan Ardawata in 1952; as a result of his efforts since 1952, brought Jhunjhunu district to third place in literacy (in Rajasthan) according to 2011 census.Sis Ram Ola died in Medanta Hospital, Gurgoan on 15 December 2013 because of cardiac arrest. He had been admitted in a Gurgaon hospital with a cardiac complaint.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "88_entity16338",
+  "entityUrl" : "http://dbpedia.org/resource/Sadiq_Ali",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2007" ]
+  },
+  "words" : [ "-LRB-", "May", "Mr", "influential", "artist", "father", "Mr.", "2011", "Jaffer", "Srinagar", "three", "environmentalist", "1952", "late", "Kashmir", "legislator", "terms", "poet", "businessman", "Assembly", "--", "Sadiq", "mache", "business", "18", "politician", "born", "active", ",", "April", ".", "consecutive", "India", "senior", "noted", "elected", "2", "State", "-RRB-", "Paper", "writer", "family", "Ali" ],
+  "adjectives" : [ "senior", "late", "influential", "active", "consecutive" ],
+  "nouns" : [ "mache", "business", "legislator", "artist", "politician", "father", "Paper", "poet", "writer", "family", "businessman", "environmentalist" ],
+  "text" : "Sadiq Ali (May 2, 1952 – April 18, 2011) was a senior politician of Kashmir, India, a noted poet and writer and an active environmentalist. He was an elected legislator in the Kashmir State Assembly for three consecutive terms. Mr Sadiq Ali was born in Srinagar into an influential business family. His father, the late Mr. Jaffer Ali was a Paper mache artist and businessman. Sadiq Ali graduated from Aligarh Muslim University and earned his MA in Political Science. He has given some important recommendations about the solution of the Kashmir conflict between India and Pakistan. His self-rule report has been widely applauded in both India and Pakistan and his recommendations have been regarded as one of the most workable solutions of this issue. He has also written a comprehensive paper on the deteriorating conditions of the forests of Jammu and Kashmir State; he has further submitted an indepth research paper outlining how the Dal Lake may be saved from further degradation. Mr Sadiq Ali entered politics at a very young age, and was one of the closest associates of Sheikh Abdullah, the founder of National Conference. He was nominated to the State Legislative Council numerous times. He also held the position of treasurer of the JKNC for 23 years. He quit National Conference stating personal reasons, although he never spoke against the NC party or its principles. There was widespread speculation that the only reason Mr Sadiq Ali quit NC was because of the NC leadership's inadequate action against a rival from within NC, whom Mr Sadiq had accused of sabotaging his re-election bid from Zadibal. On March 9, 2008, Farooq Abdullah, the patron of NC, announced to the media that Mr Sadiq Ali had rejoined the party and would be handling the state affairs of the party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "89_entity16350",
+  "entityUrl" : "http://dbpedia.org/resource/Sai_Prathap_Annayyagari",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "fought", "Mr.", "Rajampet", "Sabha", "National", "Pradesh", "represented", "state", "MP", "minister", "Kadapa", "Andhra", "Lok", "Prathap", "protest", ",", ".", "India", "even", "State", "district", "-RRB-", "Sai", "Pratap", "20", "Annayyagari", "1944", "14th", "Congress", "steel", "-LRB-", "September", "united", "bifurcate", "Cabinet.He", "six-time", "rajampet", "member", "Manmohan", "Singh", "resigned", "six", "decision", "recently", "born", "representing", "constituency", "Indian", "quit", "pradesh", "terms.He" ],
+  "adjectives" : [ "14th", "six-time" ],
+  "nouns" : [ "steel", "MP", "minister", "decision", "Kadapa", "Lok", "protest", "Sabha", "constituency", "rajampet", "State", "district", "member", "state", "pradesh", "terms.He" ],
+  "text" : "Sai Prathap Annayyagari (born 20 September 1944) was a member of the 14th Lok Sabha of India. He represented the Rajampet constituency of Andhra Pradesh and was a member of the Indian National Congress until recently. He was a minister of state for steel in Manmohan Singh Cabinet.He was representing rajampet constituency for six terms.He fought for united Andhra pradesh and he even quit the Indian National Congress for that. A six-time MP from Rajampet Lok Sabha constituency of Kadapa district, Mr. Sai Pratap resigned from the Congress in protest against its decision to bifurcate the State. He had kept himself away from active politics ever since. He joined TDP in the presence of Chandra Babu Naidu on 24-Mar-2016.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "90_entity16361",
+  "entityUrl" : "http://dbpedia.org/resource/Sudesh_Mahto",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "Chief", "Mahto", "29", "stood", "inducted", "Union", "Munda", "2009", "President", "Cricket", "December", "Sabha", "2006", "Association", "Students", "post", "lost", "Sudesh", "represented", "Arjun", "state", "Minister", "took", "Deputy", "politician", "'s", ".", "Jharkhand", "Silli", "Vidhan", "constituency", "Indian", "cabinet", "ministry" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "post", "constituency", "politician", "state", "cabinet", "ministry" ],
+  "text" : "Sudesh Mahto is an Indian politician who was the Deputy Chief Minister of Jharkhand for the All Jharkhand Students Union. He was inducted into the cabinet of Arjun Munda's ministry and took over as Deputy Chief Minister of Jharkhand state on 29 December 2009. In 2006 he stood for the President post for Jharkhand Cricket Association but lost. He represented the Silli Vidhan Sabha constituency. Mahto is youth face in Jharkhand, and known to his supporters as Dada (means elder brother).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "91_entity16431",
+  "entityUrl" : "http://dbpedia.org/resource/Surendra_Prakash_Goyal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Goyal", "Congress", "next", "Suresh", "-LRB-", "defeated", "2012", "stood", "BJP", "2009", "general", "Sabha", "National", "Pradesh", "2004", "won", "Singh", "January", "BSP", "Surendra", "Uttar", "ticket", "Bansal", "Ghaziabad", "born", "politician", "Lok", ",", "Rajnath", "elections", "Prakash", ".", "1", "-RRB-", "Indian", "Gaziabad", "1946", "INC", "president" ],
+  "adjectives" : [ "next", "general", "Indian" ],
+  "nouns" : [ "ticket", "politician", "president" ],
+  "text" : "Surendra Prakash Goyal (born 1 January 1946), is an Indian politician from Gaziabad, Uttar Pradesh. He stood for the 2004 Lok Sabha elections on the Indian National Congress (INC) ticket and won from Ghaziabad. He was defeated by the president of BJP Rajnath Singh in the next general elections in 2009. He was defeated again by Suresh Bansal of BSP in 2012 elections. As of 2012, he is charged with one criminal case for preventing a public servant from discharging Government duties.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "92_entity16432",
+  "entityUrl" : "http://dbpedia.org/resource/S._K._Kharventhan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "14th", "Nadu", "``", "-LRB-", "11th", "May", "political", "Palani", "three", "2009", "Tamilmannila", "Sabha", "Party", "National", "top", "Kharventhan", "S.K.", "member", "represented", "10", "''", "sessions", "performers", "14", "Sabha2004", "born", "one", "Lok", ".", "Tamil", "India", "constituency", "-RRB-", "1996-1998", "Indian", "1948", "combined", "party", "INC" ],
+  "adjectives" : [ "14th", "11th", "top", "political" ],
+  "nouns" : [ "Sabha", "Sabha2004", "constituency", "member", "Lok", "party" ],
+  "text" : "S.K. Kharventhan (born 10 May 1948) was a member of the 11th Lok Sabha of India of Tamilmannila Congress party in 1996-1998 and member of Indian National Congress Party 14th Lok Sabha2004 to 2009 . He represented the Palani constituency of Tamil Nadu and is a member of the Indian National Congress (INC) political party. He is one of the \"top three performers in the 14th Lok Sabha (all 14 sessions combined)\".",
+  "patterns" : { }
+}, {
+  "entityIndex" : "93_entity16435",
+  "entityUrl" : "http://dbpedia.org/resource/Sukhdev_Singh_Libra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "-LRB-", "political", "15th", "1932", "Sabha", "National", "member", "Singh", "represented", "November", "born", "Lok", "Punjab", "Sahib", ".", "India", "Fatehgarh", "Libra", "constituency", "Sukhdev", "7", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "political", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Sukhdev Singh Libra (born 7 November 1932) was a member of the 15th Lok Sabha of India. He represented the Fatehgarh Sahib constituency of Punjab and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "94_entity16438",
+  "entityUrl" : "http://dbpedia.org/resource/Sunil_Kumar_Mahato",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "14th", "Kumar", "-LRB-", "organised", "Mahato", "Holi", "Sunil", "Jamshedpur", "March", "political", "local", "2007", "Sabha", "Singhbhum", "Hindu", "attending", "member", "Morcha", "represented", "state", "near", "January", "Maoist", "11", "--", "eastern", "assassinated", "Ghatsila", "suspected", "festival", "match", "Lok", "Mukti", "JMM", "football", ",", ".", "India", "Jharkhand", "4", "constituency", "district", "-RRB-", "rebels", "East", "party", "mark", "1966" ],
+  "adjectives" : [ "14th", "eastern", "political", "local" ],
+  "nouns" : [ "Sabha", "constituency", "festival", "district", "member", "match", "Lok", "state", "football", "party" ],
+  "text" : "Sunil Kumar Mahato (11 January 1966 – 4 March 2007) was a member of the 14th Lok Sabha of India. A member of the Jharkhand Mukti Morcha (JMM) political party, he represented the constituency of Jamshedpur in the eastern state of Jharkhand. Mahato was assassinated by suspected Maoist rebels near Ghatsila in East Singhbhum district on 4 March 2007 while he was attending a local football match organised to mark the Hindu festival of Holi.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "95_entity16440",
+  "entityUrl" : "http://dbpedia.org/resource/Sarvey_Sathyanarayana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "14th", "-LRB-", "Telangana", "Sarvey", "political", "Siddipet", "15th", "1954", "2009", "Highways", "Sabha", "National", "Pradesh", "2004", "road", "member", "represented", "Constituency", "minister", "&", "born", "Sathyanarayana", "Andhra", "India.He", "Lok", "union", "transport", "April", ".", "India", "4", "constituency", "served", "-RRB-", "Indian", "Malkajgiri", "party", "INC" ],
+  "adjectives" : [ "14th", "political", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "minister", "road", "member", "Lok", "union", "transport", "party" ],
+  "text" : "Sarvey Sathyanarayana (born 4 April 1954) was a member of the 15th Lok Sabha of India. In 2009 he represented the Malkajgiri constituency in Andhra Pradesh(now Telangana) and is a member of the Indian National Congress (INC) political party. In 2004 he represented Siddipet (Lok Sabha Constituency) constituency in Andhra Pradesh in the 14th Lok Sabha of India.He served as a union minister for road transport &Highways",
+  "patterns" : { }
+}, {
+  "entityIndex" : "96_entity16580",
+  "entityUrl" : "http://dbpedia.org/resource/Sushila_Tiriya",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2010" ]
+  },
+  "words" : [ "Tiriya", "Congress", "politician", "upper", "representing", ",", "house", ".", "India", "Rajya", "Sabha", "National", "Sushila", "Indian", "Odisha", "Member", "party", "Parliament" ],
+  "adjectives" : [ "upper" ],
+  "nouns" : [ "politician", "house", "party" ],
+  "text" : "Sushila Tiriya, a politician from the Indian National Congress party, was a Member of the Parliament of India representing Odisha in the Rajya Sabha, the upper house of the Indian Parliament.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "97_entity16803",
+  "entityUrl" : "http://dbpedia.org/resource/Saugata_Roy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Law", "Jogesh", "সৌগত", "National", "Search", "Development", "post-graduate", "Trinamool", "Minister", "Chandra", "degree", "Kolkata", "Asutosh", ",", ".", "former", "August", "Bengali", "professor", "University", "6", "State", "-RRB-", "College", ":", ";", "1947", "Roy", "Congress", "Saugata", "-LRB-", "Scholar", "student", "Presidency", "Science", "Prof.", "St.", "Union", "Urban", "School", "government", "Manmohan", "Singh", "retired", "High", "Calcutta", "born", "politician", "Lawrence", "also", "Talent", "Physics", "রায়", "Chaudhuri", "Indian", "holds" ],
+  "adjectives" : [ "Indian", "post-graduate", "retired", "former" ],
+  "nouns" : [ "professor", "government", "Law", "student", "politician", "degree", "Physics" ],
+  "text" : "Prof. Saugata Roy (Bengali: সৌগত রায়; born 6 August 1947) is an Indian politician of Trinamool Congress and was the Union Minister of State for Urban Development in the Manmohan Singh government. A National Science Talent Search Scholar and a former student of St. Lawrence High School, Kolkata, Jogesh Chandra Chaudhuri Law College and Presidency College, Kolkata, he holds a post-graduate degree in Physics. He also holds a degree in Law from Calcutta University. He is a retired professor of Physics from Asutosh College. A veteran politician from West Bengal, senior leader of Trinamool Congress, he was elected to the 15th Lok Sabha from the Dum Dum (Lok Sabha constituency) and re-elected to the 16th Lok Sabha from the same constituency. He had earlier been elected from Barrackpore (Lok Sabha constituency) in 1977. He was briefly the Union Minister of State for Petroleum in the Charan Singh Ministry and was the Union Minister of State for Urban Development in the UPA II Ministry from 2009 to 2012. He has been elected to the West Bengal State Legislative Assembly five times having been elected from Alipore (3 Terms), Dhakuria and Bangaon constituencies. From 1967 to 1969 he was General Secretary, West Bengal Chhatra Parishad and from 1973 to 1977 he was General Secretary, West Bengal Pradesh Congress Committee. Prof. Roy serves on the following committees as a Member of Parliament:",
+  "patterns" : { }
+}, {
+  "entityIndex" : "98_entity16813",
+  "entityUrl" : "http://dbpedia.org/resource/S._K._Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "``", "leader", "qualified", "Sadashiv", "Mayor", "-LRB-", "K.", "city", "Mumbai", "number", "known", "Bombay", "culturally", "nurtured", "Maharashtra", "''", "particularly", "freedom-fighter", "king", "enriched", "orator", ",", "scholar", "thrice", "former", ".", "Kanoji", "journalist", "elected", "uncrowned", "institutions", "assisted", "Patil", "veteran", "1898-1981", "-RRB-", "S.", "abbreviated", "supported" ],
+  "adjectives" : [ "uncrowned", "qualified", "former" ],
+  "nouns" : [ "journalist", "leader", "number", "veteran", "freedom-fighter", "king", "city", "orator", "scholar" ],
+  "text" : "Sadashiv Kanoji Patil (abbreviated as S. K. Patil) (1898-1981) was a former Congress leader from Maharashtra. A veteran freedom-fighter, he was a qualified journalist, scholar and orator. He was thrice elected Mayor of Bombay and was known as \"the uncrowned king of Bombay\". He supported, assisted and nurtured a number of institutions, particularly in Mumbai and enriched the city culturally. He was the Member of Parliament from Bombay when it was part of the unified Bombay State. He was a Union Minister during the time of Jawaharlal Nehru, Lal Bahadur Shashtri and Indira Gandhi. Though a three-time MP, he was defeated by George Fernandes in Mumbai South (Lok Sabha constituency) in 1967 for 4th Lok Sabha. He then fought a by-poll from Banaskantha in Gujarat and rejoined Lok Sabha. In 1969 he left Congress of Indira Gandhi with senior leaders like Morarji Desai and Nijalingappa. He contested from Banaskantha Lok Sabha seat in 1971 on Congress (O) ticket but lost to the Congress candidate. In the Lok Sabha discussions on the report of the States Reorganisation Commission, on 15 November 1955, Patil demanded that the Bombay city be constituted as an autonomous city-state, laying great stress on its cosmopolitan character. However, Bombay state was partitioned into the present day states of Gujarat and Maharashtra in 1960, and the city of Bombay (now called Mumbai) became the capital of Maharashtra.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "99_entity16974",
+  "entityUrl" : "http://dbpedia.org/resource/Sharwan_Kumar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "14th", "Congress", "Surajgarh", "Kumar", "September", "held", "represents", "Jhunjhunu", "National", "Sharwan", "won", "member", "Assembly", "13", "margin", "election", "Rajasthan", "people", ".", "3270", "constituency", "true", "Legislative", "Indian", "votes", "District", "champion", "by-poll" ],
+  "adjectives" : [ "14th", "true", "Legislative" ],
+  "nouns" : [ "margin", "election", "constituency", "member", "Assembly", "champion", "by-poll" ],
+  "text" : "Sharwan Kumar is a member of the 14th Rajasthan Legislative Assembly. He represents the Surajgarh constituency of Jhunjhunu District of Rajasthan and is a member of the Indian National Congress. He is a true champion of the people. He won the by-poll election held on 13 September by a margin of 3270 votes. This victory is hailed by the media/local people as victory over government as more than 30 sitting BJP MLAs, 6 BJP MPs and 2 Rajasthan state Cabinet Ministers were over-seeing and were literally micro-managing the election campaign for BJP candidate. Sharwan Kumar was born in a family of farmers in a small village called Ghardu Ki Dhani in Surajgarh. He started his political career at a young age and was elected Sarpanch of his Village. He first fought MLA election in 1993 from Pilani and won as an independent candidate. In 2008 Legislative Assembly Elections, he changed his constituency from Pilani to Surajgarh due to Reservation of Pilani Seat. He again won from Surajgarh beating Bhartiya Janta Party Candidate Santosh Ahlawat over a margin of nearly 8000 Votes. He again fought MLA elections in 2013 but lost to BJP candidate Santosh Ahlawat with over 50,000 Votes. His loss came as a surprise among the people and that too, with such a huge margin. Since Santosh Ahlawat became an MP, the Surajgarh assembly seat again went to poll on 13 September 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "100_entity17038",
+  "entityUrl" : "http://dbpedia.org/resource/Sewa_Singh_Sekhwan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "politics", "MLA", "death", "father", "Gurdaspur", "run", "years", "1997", "worked", "teacher", "encouraged", "government", "assembly", "Singh", "Sewa", "Parkash", "Minister", "Badal", "14", "minister", "Sekhwan", "chief", "made", "1990", "Punjab", "Relations", "Public", "'s", ",", "follow", ".", "elected", "entering", "SAD", "Kahnuwan", "Revenue", "Rehabilitation", "District", "president", "supported" ],
+  "adjectives" : [ "chief", "SAD", "Badal" ],
+  "nouns" : [ "teacher", "government", "death", "minister", "father", "assembly", "Revenue", "president" ],
+  "text" : "Sewa Singh Sekhwan worked as a teacher for 14 years before entering politics after his father's death in 1990. Punjab chief minister Parkash Singh Badal, then SAD president encouraged him to follow his father and supported him to run for Kahnuwan assembly in Gurdaspur District. He was elected MLA in 1997 from Kahnuwan. He was made Revenue, Rehabilitation and Public Relations, Minister in the Badal government. Sekhwan is a member of SGPC, the supreme Sikh body. His wife Amarjit Kaur is on the executive body of SGPC.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "101_entity17062",
+  "entityUrl" : "http://dbpedia.org/resource/Shiv_Kumar_Shastri",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Rajput", "Kumar", "-LRB-", "Scholar", "Shiv", "Arya", "father", "Shri", "mother", "Sharti", "Singh", "1915", "Nagar", "reformer", "शास्त्री", "Chandra", "Vedic", "15", "social", "Village", "&", "born", "politician", "Sisodiya", ",", ".", "April", "U.P.", "Aligarh", "-RRB-", "Indian", "शिवकुमार", "Smt", "District", "Ram" ],
+  "adjectives" : [ "Vedic", "social", "Indian" ],
+  "nouns" : [ "mother", "politician", "father", "reformer" ],
+  "text" : "Shiv Kumar Sharti शिवकुमार शास्त्री(born) was an Indian politician, social reformer and Vedic Scholar. He was born on 15 April 1915 at Village Arya Nagar, District Aligarh(U.P.).He was Sisodiya Rajput. His father was Shri Ram Chandra Singh & mother was Smt. Gayatri Devi. His wife's name was Smt. Somlata Devi. He was a member for the Fourth and Fifth Aligarh (Lok Sabha constituency).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "102_entity17139",
+  "entityUrl" : "http://dbpedia.org/resource/Suman_Mahato",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "organised", "Mahato", "Sunil", "Jamshedpur", "political", "husband", "December", "Sabha", "Hindu", "Morcha", "represented", "state", "near", "Maoist", "eastern", "MP", "Ghatsila", "suspected", "festival", "Lok", "Mukti", ",", ".", "India", "Jharkhand", "4", "district", "-RRB-", "East", "party", "14th", "became", "-LRB-", "Kumar", "Holi", "March", "local", "Suman", "2007", "Singhbhum", "attending", "member", "by-elections", "assassinated", "born", "match", "JMM", "football", "1964", "constituency", "rebels", "sitting", "mark" ],
+  "adjectives" : [ "14th", "eastern", "political", "local" ],
+  "nouns" : [ "Sabha", "MP", "constituency", "festival", "district", "member", "match", "Lok", "husband", "state", "football", "party" ],
+  "text" : "Suman Mahato (born 4 December 1964) was a member of the 14th Lok Sabha of India. A member of the Jharkhand Mukti Morcha (JMM) political party, she represented the constituency of Jamshedpur in the eastern state of Jharkhand. She became MP in the by-elections after her husband and sitting MP Sunil Kumar Mahato was assassinated by suspected Maoist rebels near Ghatsila in East Singhbhum district on 4 March 2007 while he was attending a local football match organised to mark the Hindu festival of Holi.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "103_entity17140",
+  "entityUrl" : "http://dbpedia.org/resource/Sharanjit_Singh_Dhillon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2010" ]
+  },
+  "words" : [ "-LRB-", "Dhillion", "represents", "1953", "ruling", "SAD-BJP", "irrigation", "government", "member", "Ludhiana", "Singh", "Sharanjit", "Assembly", "Sahnewal", "minister", "born", "18", "Punjab", ",", "April", ".", "India", "constituency", "-RRB-", "Legislative" ],
+  "adjectives" : [ "irrigation", "Legislative" ],
+  "nouns" : [ "ruling", "SAD-BJP", "government", "constituency", "minister", "member", "Assembly" ],
+  "text" : "Sharanjit Singh Dhillion (born 18 April 1953) is a member of the Legislative Assembly of Punjab of India. He represents the Sahnewal, Ludhiana constituency of Punjab and is irrigation minister in ruling SAD-BJP government of Punjab.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "104_entity17141",
+  "entityUrl" : "http://dbpedia.org/resource/Surajratan_Fatehchand_Damani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "New", "Ratanbai", "Company", "Nav", "Singhji", "political", "Fatehchand", "philanthropic", "Bharat", "Parade", "Sabha", "daughters", "charitable", "later", "son", "National", "Bombay", "maternity", "scholarships", "July", "Sujan", "January", "Jalore", "13", "14", "educational", "4th", "Lok", "6th", "House", "child-welfare", ",", "Rajasthan", "-", ".", "India", "institutions", "1", "3", "Cuffe", "awarding", "purposes", "-RRB-", "Spinning", "party", "INC", "become", "higher", "Congress", "Industries", "Ranjit", "Delhi", "Ratan", "-LRB-", "resides", "Limited", "Mumbai", "Mrs", "R", "Solapur", "1995", "member", "Mills", "studies", "Maharashtra", "free", "1912", "centres", "Simplex", "Jamsri", "born", "Bikaner", "2nd", "founded", "5th", "Trust", "Chairman", "constituency", "Indian", "Weaving", "Refrigeration", "married", "Damani" ],
+  "adjectives" : [ "charitable", "educational", "2nd", "4th", "political", "5th", "6th", "philanthropic", "child-welfare", "free" ],
+  "nouns" : [ "R", "Sabha", "son", "constituency", "maternity", "member", "Lok", "party" ],
+  "text" : "S R Damani or Sujan Ratan Fatehchand Damani (born 14 July 1912 Bikaner Rajasthan - 13 January 1995) was a member of the 2nd Lok Sabha of India from the Jalore constituency of Rajasthan and a member of the Indian National Congress (INC) political party. He later become member of 4th, 5th and 6th Lok Sabha from the Solapur constituency of Maharashtra He was Chairman of Simplex Mills Company Bombay, Jamsri Ranjit Singhji Spinning and Weaving Mills Limited, Solapur and Nav Bharat Refrigeration and Industries Limited, New Delhi. He was married to Mrs Ratanbai and had 1 son and 3 daughters and resides at Damani House, Cuffe Parade Mumbai. He founded a charitable Trust for the educational institutions, free maternity and child-welfare centres, for awarding scholarships for higher studies and other philanthropic purposes. He worked as member of Executive Committee of Congress Party in Parliament and its Treasurer during 1969-1971.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "105_entity17143",
+  "entityUrl" : "http://dbpedia.org/resource/Sonubhau_Dagadu_Baswant",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "political", "Parwatibai", "Thana", "December", "Sabha", "Board", "Sonubhau", "National", "Thane", "Shahpur", "Development", "Co-operative", "10", "--", "16", "3rd", "4th", "Lok", ",", ".", "India", "1987", "State", "district", "-RRB-", "District", "party", "INC", "Congress", "dagadu", "-LRB-", "A.I.C.C", "Union", "1952", "member", "1915", "Khatghar", "1959", "Maharashtra", "February", "Baswant", "also", "1964", "constituency", "Born", "Indian", "agriculturist", "Forest", "Bhiwandi", "married", "1967", "resided" ],
+  "adjectives" : [ "3rd", "4th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "district", "member", "A.I.C.C", "Baswant", "Lok", "agriculturist", "party" ],
+  "text" : "Sonubhau dagadu Baswant (10 February 1915 – 16 December 1987) was a member of the 4th Lok Sabha of India from the Bhiwandi constituency of Maharashtra and a member of the Indian National Congress (INC) political party. He was also member of 3rd Lok Sabha from Thane. Born in Khatghar, Shahpur Thane district, he was married to Parwatibai and resided at Shahpur in Thane district. He was an agriculturist and member of the Thana District Development Board from 1952 through 1959, a member of A.I.C.C from 1964 through 1967, and a member of the Maharashtra State Forest Development Board and Maharashtra Development Co-operative Union. He was President of the Thana District Congress Committee from 1959 through 1964, the Ambernath Ordnance Factory National Employees Union, the Thana District P.W.D., and the Zilla Parishad Road Workers Union since 1964. He has been chairman of the Shahapur Taluqa Co-operative Milk Production Union since 1963.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "106_entity17185",
+  "entityUrl" : "http://dbpedia.org/resource/Santosh_Chowdhary",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Commission", "house", "2009", "Politician", "belonging", "October", "Sabha", "Hoshiarpur", "National", "earlier", "1992", "Karamcharis", "Chairperson", "1999", "Safai", "born", "lower", "Lok", "Punjab", ",", "Chowdhary", ".", "India", "elected", "constituency", "5", "-RRB-", "Indian", "Phillaur", "Parliament", "Santosh", "1944" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "Politician", "constituency", "house" ],
+  "text" : "Santosh Chowdhary (born 5 October 1944) is an Indian Politician belonging to the Indian National Congress. She was elected to the Lok Sabha, lower house of the Parliament of India from the Hoshiarpur constituency in 2009. She was earlier elected from the Phillaur constituency Punjab in 1992 and 1999. She was the Chairperson of the National Commission for Safai Karamcharis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "107_entity12392",
+  "entityUrl" : "http://dbpedia.org/resource/Mohanbhai_Sanjibhai_Delkar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Congress", "Mohanbhai", "-LRB-", "presently", "born", "politician", "19", "Sanjibhai", ",", ".", "December", "1962", "National", "-RRB-", "member", "Indian", "Delkar" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Mohanbhai Sanjibhai Delkar (born 19 December 1962) is an Indian politician and presently, a member of the Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "108_entity12393",
+  "entityUrl" : "http://dbpedia.org/resource/Manoranjan_Bhakta",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "leader", "political", "seven", "contested", "Sabha", "later", "National", "terms", "Mondal", "Trinamool", "Member", "Congress.His", "10", "1977", "Lok", "6th", "finished", ",", "April", ".", "elected", "seat", "left", "served", "-RRB-", "daughter", "party", "Parliament", "INC", "Congress", "June", "-LRB-", "Andaman", "2010", "eight", "general", "total", "candidate", "Nicobar", "place", "Islands", "Manoranjan", "election", "ticket", "garnering", "joined", "2,283", "politician", "consecutive", "Anita", "1977-1999", "constituency", "2015", "2014", "Indian", "Bhakta", "votes", "fourth", "denied", "1939-12", "first" ],
+  "adjectives" : [ "general", "Indian", "political", "6th", "fourth", "first", "consecutive" ],
+  "nouns" : [ "seat", "leader", "total", "candidate", "election", "constituency", "ticket", "politician", "place", "daughter", "party" ],
+  "text" : "Manoranjan Bhakta (10 April 1939-12 June 2015) was an Indian politician and a leader of the Indian National Congress (INC) political party. He was first elected as Member of Parliament for the Andaman and Nicobar Islands in 1977 to the 6th Lok Sabha. In total, he served eight terms as Member of Parliament for this constituency, seven of which were consecutive from 1977-1999. In 2010, after being denied a ticket in an election, he left the INC and later joined the Trinamool Congress.His daughter, Anita Mondal, contested the Andaman and Nicobar Islands seat as Trinamool Congress candidate in the 2014 general election where she finished in fourth place garnering 2,283 votes. She is also a Trinamool Congress councillor in Bidhannagar Municipality.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "109_entity12394",
+  "entityUrl" : "http://dbpedia.org/resource/Mani_Charenamei",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "-LRB-", "born", "Lok", "Mani", "Outer", ".", "India", "represents", "Sabha", "constituency", "-RRB-", "member", "1959", "Manipur", "Charenamei", "February", "10" ],
+  "adjectives" : [ "14th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "Mani Charenamei (born 10 February 1959) was a member of the 14th Lok Sabha of India. He represents the Outer Manipur constituency of Manipur.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "110_entity12395",
+  "entityUrl" : "http://dbpedia.org/resource/Madan_Lal_Sharma",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "22", "14th", "Congress", "-LRB-", "political", "represents", "1952", "Sabha", "National", "Kashmir", "member", "Jammu", "born", "Lok", "April", ".", "India", "Sharma", "constituency", "Lal", "Madan", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Madan Lal Sharma (born 22 April 1952) is a member of the 14th Lok Sabha of India. He represents the Jammu constituency of Jammu and Kashmir and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "111_entity12397",
+  "entityUrl" : "http://dbpedia.org/resource/Mohite_Subodh_Baburao",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "Sena", "developments", "-LRB-", "till", "Shiv", "Mohite", "political", "Subodh", "October", "Sabha", "2007", "Baburao", "member", "represented", "Maharashtra", "February", "recent", "SS", "17", "joined", "born", "Lok", "Ramtek", ".", "India", "1961", "constituency", "left", "-RRB-", "party" ],
+  "adjectives" : [ "14th", "political", "recent" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Mohite Subodh Baburao (born 17 October 1961) was a member of the 14th Lok Sabha of India. He represented the Ramtek constituency of Maharashtra and was a member of the Shiv Sena (SS) political party till February 2007. In recent developments he left the party and joined Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "112_entity12398",
+  "entityUrl" : "http://dbpedia.org/resource/Magunta_Sreenivasulu_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "12th", "-LRB-", "soon", "15th", ",14", "represents", "Magunta", "1953", "Telugu", "October", "Sabha", "split", "later", "Party", "National", "Pradesh", "member", "passed", "15", "joined", "born", "Andhra", "Lok", "bill", "Ongole", ".", "India", "elected", "Sreenivasulu", "Desam", "Reddy", "constituency", "th", "-RRB-", "Indian", "quit" ],
+  "adjectives" : [ "12th", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "bill" ],
+  "text" : "Magunta Sreenivasulu Reddy (born 15 October 1953) is a member of the 15th Lok Sabha of India. He represents the Ongole constituency of Andhra Pradesh and is a member of the Indian National Congress. He elected for the 12th,14th and 15th Lok Sabha. He quit Congress soon after the bill to split Andhra Pradesh was passed by the Lok Sabha and later joined Telugu Desam Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "113_entity12509",
+  "entityUrl" : "http://dbpedia.org/resource/M._V._Rajasekharan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2007" ]
+  },
+  "words" : [ "Congress", "Government", "politician", "upper", "Shri", ",", "house", "Council", ".", "India", "Rajasekharan", "National", "Karnataka", "Indian", "Legislative", "M.V.", "state", "Planning", "Member", "formerly", "party", "Minister" ],
+  "adjectives" : [ "upper", "Legislative" ],
+  "nouns" : [ "Government", "politician", "state", "house", "party" ],
+  "text" : "Shri M.V. Rajasekharan a politician from Indian National Congress party is a Member of the Legislative Council Karnataka in the upper house of the Government of Karnataka. He was formerly the Minister of state for Planning, Government of India.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "114_entity12510",
+  "entityUrl" : "http://dbpedia.org/resource/Mabel_Rebello",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2010" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : "",
+  "patterns" : { }
+}, {
+  "entityIndex" : "115_entity13433",
+  "entityUrl" : "http://dbpedia.org/resource/Maganti_Venkateswara_Rao",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2016" ]
+  },
+  "words" : [ "Rao", "-LRB-", "initiated", "Maganti", "supply", "Telugu", "Sabha", "candidate", "Party", "known", "handicapped", "Pradesh", "poor", "initiatives", "drinking", "villages", "social", "tankers", "Kolleru", "politician", "Andhra", "Lok", "distributed", "Babu", "elections", "water", ".", "Eluru", "elected", "persons", "Desam", "physically", "constituency", "2014", "-RRB-", "Indian", "well", "Venkateswara", "Try-cycles" ],
+  "adjectives" : [ "social", "poor", "Indian" ],
+  "nouns" : [ "candidate", "drinking", "constituency", "politician", "supply", "water" ],
+  "text" : "Maganti Venkateswara Rao (Babu) is an Indian politician from Andhra Pradesh. He is elected in 2014 Lok Sabha elections from Eluru (Lok Sabha constituency) as Telugu Desam Party candidate. He is well known for his social initiatives. He initiated supply of drinking water through tankers to villages in Kolleru villages and distributed Try-cycles to poor and physically handicapped persons. He awarded scholarships to economically backward students and organized medical camps through the MRC trust.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "116_entity5166",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Hanly",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "1916" ]
+  },
+  "words" : [ "Franklin", "achievements", "Indiana", "passage", "United", "gambling", "political", "led", "fighting", "arousing", "ban", "sales", "States", "1897", "1895", "awareness", "adjusting", "majority", "state", "--", "raising", "alcohol", "successfully", "law", "1909", "nationally", "local-option", "banning", ",", "'s", "basis", "April", ".", "August", "26th", "important", "1", "Governor", "Flying", "1863", "operate", "4", "served", "effect", "-RRB-", "Squadron", "1905", "governor", "counties", "non-partisan", "support", "corruption", "-LRB-", "role", "liquor", "advocated", "public", "congressman", "prohibition", "term", "included", "James", "Hanly", "founder", "politician", "agencies", "played", "1920" ],
+  "adjectives" : [ "important", "public", "local-option", "political", "non-partisan", "26th" ],
+  "nouns" : [ "alcohol", "role", "law", "passage", "founder", "politician", "gambling", "liquor", "basis", "Governor", "awareness", "congressman", "effect", "prohibition", "term", "majority", "governor", "state", "support", "corruption" ],
+  "text" : "James Franklin Hanly (April 4, 1863 – August 1, 1920) was a United States politician who served as a congressman from Indiana from 1895 until 1897, and was the 26th Governor of Indiana from 1905 to 1909. He was the founder of Hanly's Flying Squadron, which advocated prohibition nationally and played an important role in raising awareness about the effect of alcohol and arousing public support for prohibition. During his term as governor he successfully advocated the passage of a local-option liquor law, which led the majority of Indiana's counties to ban liquor sales. His other achievements included banning gambling, fighting political corruption, and adjusting state agencies to operate on a non-partisan basis. He left office and the Republican Party and became an active and vocal prohibitionist. He was an unsuccessful Prohibition Party candidate for President of the United States in the 1916 election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "117_entity5248",
+  "entityUrl" : "http://dbpedia.org/resource/Furkan_Ansari",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "Godda", "born", "politician", "Lok", "Furkan", ".", "elected", "Jharkhand", "Sabha", "candidate", "constituency", "National", "5", "-RRB-", "Indian", "1948", "Ansari", "February", "Member", "Parliament" ],
+  "adjectives" : [ "14th", "Indian" ],
+  "nouns" : [ "candidate", "constituency", "politician" ],
+  "text" : "Furkan Ansari (born 5 February 1948) is an Indian politician. He was elected a Member of Parliament to the 14th Lok Sabha from Godda constituency of Jharkhand being an Indian National Congress candidate.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "118_entity5872",
+  "entityUrl" : "http://dbpedia.org/resource/G._V._Harsha_Kumar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2015" ]
+  },
+  "words" : [ "14th", "Congress", "June", "Kumar", "-LRB-", "born", "Andhra", "Lok", "Amalapuram", ".", "15th", "India", "represents", "Sabha", "constituency", "National", "Pradesh", "-RRB-", "member", "9", "Indian", "Harsha", "1959", "G.V." ],
+  "adjectives" : [ "14th", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "G.V. Harsha Kumar (born 9 June 1959) is a member of the 14th and 15th Lok Sabha of India. He represents the Amalapuram constituency of Andhra Pradesh and is a member of the Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "119_entity5873",
+  "entityUrl" : "http://dbpedia.org/resource/G._Nizamuddin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "G.", "born", "Andhra", "Lok", ".", "India", "1954", "1", "Nizamuddin", "Sabha", "constituency", "National", "Pradesh", "-RRB-", "member", "Indian", "represented", "July", "Hindupur" ],
+  "adjectives" : [ "14th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
+  "text" : "G. Nizamuddin (born 1 July 1954) was a member of the 14th Lok Sabha of India. He represented the Hindupur constituency of Andhra Pradesh and is a member of the Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "120_entity5937",
+  "entityUrl" : "http://dbpedia.org/resource/Giridhar_Gamang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2013" ]
+  },
+  "words" : [ "leader", "-LRB-", "Chief", "BJP", "Giridhar", "1998", "Dibirisingi", "Sabha", "1996", "1972", "2004", "1991", "Odisha", "village", "Minister", "1977", "born", "5th", "Lok", ",", "Koraput", "April", "former", ".", "1943", "Rayagada", "elected", "re-elected", "1984", "Gamang", "district", "1980", "8", "-RRB-", "Subsequently", "time", "first", "1989" ],
+  "adjectives" : [ "5th", "former", "first" ],
+  "nouns" : [ "leader", "district", "BJP", "Odisha", "time", "village" ],
+  "text" : "Giridhar Gamang (born 8 April 1943) is a leader of the BJP and a former Chief Minister of Odisha. He was born at Dibirisingi village in Rayagada district of Odisha. In 1972, he was elected for the first time to the 5th Lok Sabha from Koraput. Subsequently, he was re-elected to the Lok Sabha in 1977, 1980, 1984, 1989, 1991, 1996, 1998 and 2004. He was the Chief Minister of Odisha from 17 February 1999 to 6 December 1999. His wife, Hema Gamang, won from Koraput constituency in the 1999 elections to the 13th Lok Sabha, while he was serving as the Chief Minister of Odisha. He lost the Koraput Lok Sabha seat for the first time in the 2009 elections to Jayaram Pangi of the Biju Janata Dal.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "121_entity5939",
+  "entityUrl" : "http://dbpedia.org/resource/Ganesh_Prasad_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Prasad", "14th", "Jahanabad", "Bihar", "-LRB-", "refugees", "political", "best", "RJD", "durable", "Sabha", "view", "solution", "member", "voluntary", "Singh", "represented", "specifically", "July", "case", "repatriation", "Janata", "born", "Lok", "Afghan", ",", ".", "Dal", "India", "1", "Ganesh", "constituency", "Rashtriya", "-RRB-", "1947", "party", "supported" ],
+  "adjectives" : [ "14th", "durable", "political", "voluntary" ],
+  "nouns" : [ "repatriation", "Sabha", "view", "constituency", "solution", "member", "Lok", "party", "case" ],
+  "text" : "Ganesh Prasad Singh (born 1 July 1947) was a member of the 14th Lok Sabha of India. He represented the Jahanabad constituency of Bihar and is a member of the Rashtriya Janata Dal (RJD) political party. He has supported the view that voluntary repatriation of refugees is the best and most durable solution, specifically in the case of Afghan refugees.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "122_entity6686",
+  "entityUrl" : "http://dbpedia.org/resource/Gokaraju_Ganga_Raju",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2014" ]
+  },
+  "words" : [ "గంగరాజు", "Group", "-LRB-", "Companies", "16th", "Vice-President", "Telugu", "general", "Cricket", "Sabha", "candidate", "Control", "Party", "Board", "Pradesh", "won", "Bharatiya", "Ganga", "Member", "Recently", "గోకరాజు", "election", "Narsapuram", "Janata", "founder", "Zone", "politician", "Andhra", "South", "Lok", "also", ",", ".", "India", "elected", "Gokaraju", "constituency", "Laila", "2014", "-RRB-", "BCCI", "Indian", ":", "Raju", "Parliament" ],
+  "adjectives" : [ "general", "Indian", "16th" ],
+  "nouns" : [ "candidate", "election", "constituency", "founder", "politician", "Vice-President" ],
+  "text" : "Gokaraju Ganga Raju (Telugu: గోకరాజు గంగరాజు) is an Indian politician and a Member of Parliament to the 16th Lok Sabha from Narsapuram (Lok Sabha constituency), Andhra Pradesh. He won the Indian general election, 2014 being a Bharatiya Janata Party candidate. He is also the founder of Laila Group of Companies. Recently, he was elected as Vice-President to Board of Control for Cricket in India(BCCI) South Zone. Hailing from an agricultural family, reputed for service to the society, Dr Ganga Raju, a leading industrialist, recognized as a person serving the society. He has dedicated himself to serving the society through Vishva Hindu Parishad and Rashtriya Swayamsevak Sangh. One of his friends who helped each other were: MLA, Varada Prasad. He graduated in Bachelor of Pharmacy from Andhra University in 1970, His father, Late Shri Gokaraju Ranga Raju, served as an MLA from Undi constituency, ZP Vice Chairman of West Godavari District and also served Lord Balaji as the Chairman of Board of trustees, TTD, twice. Being a sportsman and sports enthusiast, Dr Ganga Raju is the Secretary of Andhra Cricket Association, Chairman of Financial Committee of BCCI and also the Member of Governing Council of Indian Premier League run by BCCI. Recently, Raju was elected as Vice-President to Board of Control for Cricket in India(BCCI).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "123_entity14261",
+  "entityUrl" : "http://dbpedia.org/resource/Panabaka_Lakshmi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Bapatla", "Congress", "2004-2014", "-LRB-", "born", "Andhra", "Dr.Panabaka", "former", "Union", ".", "represents", "October", "constituency", "National", "Pradesh", "6", "-RRB-", "member", "Indian", "1958", "Member", "Lakshmi", "Parliament", "Minister" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "constituency", "member", "Dr.Panabaka", "Lakshmi" ],
+  "text" : "Dr.Panabaka Lakshmi (born 6 October 1958) is a former Member of Parliament and Union Minister(2004-2014).She represents the Bapatla constituency of Andhra Pradesh and is a member of the Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "124_entity14307",
+  "entityUrl" : "http://dbpedia.org/resource/Prakashbapu_Vasantdada_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "Shailaja", "June", "13th", "-LRB-", "10th", "death", "पाटील", "father", "Sangli", "political", "died", "Pratik", "Sabha", "October", "son", "2005", "National", "won", "member", "represented", "Maharashtra", "Vasantdada", "occasioned", "wife", "born", "Lok", "प्रकाश", "survived", ",", "8th", "'s", "9th", ".", "India", "Patil", "Sangli.He", "constituency", "Prakashbapu", "-RRB-", "Indian", ";", "1947", "party", "by-poll", "21", "INC" ],
+  "adjectives" : [ "14th", "13th", "10th", "Sangli", "political", "8th", "9th" ],
+  "nouns" : [ "Sabha", "son", "constituency", "death", "wife", "father", "member", "Lok", "party", "by-poll" ],
+  "text" : "Patil Prakashbapu Vasantdada (प्रकाश पाटील; born 21 June 1947, died in 2005) was a member of the 14th Lok Sabha of India. He represented the Sangli constituency of Maharashtra and was a member of the Indian National Congress (INC) political party. He was member of 8th 9th 10th 13th Lok Sabha from Sangli.He died on October 2005. He was survived by his wife (Shailaja Patil), and their son Pratik Patil who won the by-poll occasioned by his father's death.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "125_entity14308",
+  "entityUrl" : "http://dbpedia.org/resource/Paramjit_Kaur_Gulshan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "-LRB-", "Paramjit", "born", "representing", "Gulshan", "Lok", "parliament", "Dal", ".", "Kaur", "Shiromani", "Akali", "Bathinda", "Sabha", "Faridkot", "4", "-RRB-", "member", "1949", "represented", "January" ],
+  "adjectives" : [ "14th" ],
+  "nouns" : [ "member", "parliament" ],
+  "text" : "Paramjit Kaur Gulshan (born 4 January 1949) is a member of parliament representing Faridkot and is a member of the Shiromani Akali Dal. She represented Bathinda in the 14th Lok Sabha.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "126_entity14311",
+  "entityUrl" : "http://dbpedia.org/resource/P._V._Rangaiah_Naidu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2008" ]
+  },
+  "words" : [ "country", "joining", "politics", "-LRB-", "10th", "Palacholla", "spelled", "decorated", "meritorious", "Sabha", "P.V.", "Pradesh", "member", "represented", "1933", "Rangayya", "Khammam", "born", "Andhra", "Director", "Lok", "Service", "also", "Police", "April", ".", "India", "twice", "Venkata", "constituency", "6", "service", "served", "-RRB-", "Indian", "General", "Rangaiah", "Naidu" ],
+  "adjectives" : [ "10th", "Indian", "meritorious" ],
+  "nouns" : [ "country", "Sabha", "constituency", "service", "member", "Lok" ],
+  "text" : "Palacholla Venkata Rangaiah Naidu (also spelled as P.V. Rangayya Naidu) (born 6 April 1933) was a member of the 10th Lok Sabha of India. He represented the Khammam constituency of Andhra Pradesh. He served his country in the Indian Police Service as a Director General of Police before joining politics. He was decorated twice for meritorious service to the country of India. In 1972 Naidu was awarded the Indian Police Medal and in 1983 he was awarded the President's Police Medal for Distinguished Service. He served as a Union Minister in the government of India during the prime ministership of P.V. Narasimha Rao, from 1991 to 1996. He served as the Deputy Minister for Telecommunications and Minister of State for Power and Water Resources. He has been a member of the Indian National Congress party since his retirement from the Indian Police Service.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "127_entity14534",
+  "entityUrl" : "http://dbpedia.org/resource/Prem_Singh_Chandumajra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Chandumajra", "alumnus", "12th", "-LRB-", "11th", "Secretary", "16th", "Shiromani", "Akali", "current", "Sabha", "1950", "Singh", "Patiala", "January", "Member", "''", "spokesman", "MP", "born", "Lok", "also", "Prem", "Sahib", ",", "Dal", "former", ".", "1", "constituency", "University", "SAD", "-RRB-", "General", "Parliament", "Anandpur", "Punjabi" ],
+  "adjectives" : [ "current", "12th", "11th", "former", "16th" ],
+  "nouns" : [ "alumnus", "Sabha", "spokesman", "MP", "constituency", "Lok" ],
+  "text" : "Prem Singh Chandumajra (born 1 January 1950)  is General Secretary and spokesman of the Shiromani Akali Dal (SAD) \" and current Member of Parliament from Anandpur Sahib and former constituency MP from Patiala. He is also an alumnus of Punjabi University, Patiala. He was a Member of Parliament in 11th, 12th and 16th Lok Sabha.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "128_entity14898",
+  "entityUrl" : "http://dbpedia.org/resource/Praniti_Shinde",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2015" ]
+  },
+  "words" : [ "Congress", "sushilkumar", "MLA", "politician", "Twitter", "Praniti", "City", "Assembly.Praniti", ".", "legislative", "Solapur", "central", "National", "Shinde", "Indian", "party" ],
+  "adjectives" : [ "central", "Indian", "legislative" ],
+  "nouns" : [ "sushilkumar", "MLA", "politician", "Praniti", "party" ],
+  "text" : "Praniti sushilkumar Shinde is an Indian politician and MLA of Solapur City central from legislative Assembly.Praniti Shinde on Twitter Her party is Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "129_entity234",
+  "entityUrl" : "http://dbpedia.org/resource/Ashok_Kumar_(Indian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2009" ]
+  },
+  "words" : [ "Congress", "Dr.", "MBBS", "Kumar", "-LRB-", "अशोक", "कुमार", "08", "political", "represents", "December", "National", "terms", "Hindi", "represented", "Hospital", "Member", "five", "Assembly", "Singhia", "Patna", "born", "politician", ",", ".", "constituency", "-RRB-", "College", "Indian", "Legislative", ":", "Medical", "Ashok", "1948", "party" ],
+  "adjectives" : [ "Indian", "political", "Legislative" ],
+  "nouns" : [ "MBBS", "constituency", "politician", "party", "Assembly" ],
+  "text" : "Dr. Ashok Kumar (Hindi: अशोक कुमार, born 08 December 1948) is an Indian politician. His political party is the Indian National Congress. He is a Member of Legislative Assembly where he represents Singhia constituency, he has represented the constituency for five terms. Dr. Kumar has an MBBS from Patna Medical College and Hospital.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "130_entity255",
+  "entityUrl" : "http://dbpedia.org/resource/Ahir_Vikrambhai_Arjanbhai_Madam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Jamnagar", "Congress", "``", "Vikrambhai", "23", "caught", "-LRB-", "Gujarat", "bribe", "March", "recommendation", "Falcon", "agreeing", "represents", "Sabha", "National", "member", "dubious", "company", "1958", "Claw", "11", "''", "born", "one", "Arjanbhai", "Lok", "conducted", "sting", ".", "Ahir", "India", "MPs", "take", "constituency", "Madam", "CobraPost", "letter", "-RRB-", "Indian", "operation", "return" ],
+  "adjectives" : [ "14th", "dubious" ],
+  "nouns" : [ "Sabha", "constituency", "bribe", "letter", "member", "Lok", "recommendation", "company", "sting", "operation", "return" ],
+  "text" : "Ahir Vikrambhai Arjanbhai Madam (born 23 March 1958) is a member of the 14th Lok Sabha of India. He represents the Jamnagar constituency of Gujarat and is a member of the Indian National Congress. He is one of the 11 MPs on whom the sting operation \"Falcon Claw\" was conducted by CobraPost and was caught agreeing to take bribe in return for a recommendation letter to a dubious company.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "131_entity408",
+  "entityUrl" : "http://dbpedia.org/resource/Arvind_Kumar_Sharma",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "Kumar", "-LRB-", "political", "15th", "represents", "Arvind", "October", "Sabha", "National", "member", "Karnal", "12", "born", "Lok", ".", "India", "Haryana", "1963", "Sharma", "constituency", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "political", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Arvind Kumar Sharma (born 12 October 1963) is a member of the 15th Lok Sabha of India. He represents the Karnal constituency of Haryana and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "132_entity409",
+  "entityUrl" : "http://dbpedia.org/resource/Avtar_Singh_Bhadana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "party.He", "political", "represents", "December", "Sabha", "National", "member", "Singh", "join", "1957", "17", "born", "Lok", ".", "India", "August", "Haryana", "Bhadana", "2014", "-RRB-", "Indian", "quit", "Avtar", "Faridabadconstituency", "INC", "INLD" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "party.He", "member", "Lok", "Faridabadconstituency", "INLD" ],
+  "text" : "Avtar Singh Bhadana (born 17 December 1957) is a member of the 14th Lok Sabha of India. He represents the Faridabadconstituency of Haryana and a member of the Indian National Congress (INC) political party.He quit INC in August 2014 and join INLD",
+  "patterns" : { }
+}, {
+  "entityIndex" : "133_entity410",
+  "entityUrl" : "http://dbpedia.org/resource/Atma_Singh_Gill",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "Sirsa", "political", "represents", "October", "Sabha", "National", "member", "Singh", "1938", "12", "Gill", "born", "Lok", ".", "India", "Haryana", "constituency", "Atma", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Atma Singh Gill (born 12 October 1938) is a member of the 14th Lok Sabha of India. He represents the Sirsa constituency of Haryana and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "134_entity411",
+  "entityUrl" : "http://dbpedia.org/resource/Abdul_Rashid_Shaheen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "-LRB-", "Rashid", "political", "Conference", "represents", "Sabha", "Baramulla", "National", "JKNC", "Kashmir", "Shaheen", "Abdul", "member", "Jammu", "born", "Lok", ".", "August", "India", "3", "constituency", "-RRB-", "1945", "party" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Abdul Rashid Shaheen (born 3 August 1945) is a member of the 14th Lok Sabha of India. He represents the Baramulla constituency of Jammu and Kashmir and is a member of the Jammu and Kashmir National Conference (JKNC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "135_entity415",
+  "entityUrl" : "http://dbpedia.org/resource/Anantha_Venkatarami_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Venkatarami", "14th", "Congress", "12th", "-LRB-", "11th", "Anantha", "March", "15th", "represents", "Sabha", "National", "Pradesh", "member", "1956", "Anantapur", "joined", "born", "Andhra", "YSRCP", "Lok", ",", ".", "August", "India", "1", "Reddy", "constituency", "2014", "-RRB-", "Indian" ],
+  "adjectives" : [ "14th", "12th", "11th", "15th" ],
+  "nouns" : [ "Sabha", "constituency", "member", "YSRCP", "Lok" ],
+  "text" : "Anantha Venkatarami Reddy (born 1 August 1956) has been a member of the 11th, 12th, 14th and 15th Lok Sabha of India. He represents the Anantapur constituency of Andhra Pradesh and is a member of the Indian National Congress up to 2014 March, when he joined YSRCP.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "136_entity420",
+  "entityUrl" : "http://dbpedia.org/resource/Anwar_Hussain_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "Assam", "born", "Hussain", "Lok", "political", "April", ".", "India", "represents", "1", "Dhubri", "Sabha", "constituency", "National", "-RRB-", "member", "Indian", "Anwar", "1947", "party", "INC" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Anwar Hussain (born 1 April 1947) is a member of the 14th Lok Sabha of India. He represents the Dhubri constituency of Assam and is a member of the Indian National Congress (INC) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "137_entity421",
+  "entityUrl" : "http://dbpedia.org/resource/A._F._Golam_Osmani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "Congress", "Politiker", "-LRB-", "Assam", "Osmani", "ein", "Golam", "A.", "2009", "National", "März", "31", "1933", "†", "F.", "war", "*", "indischer", ",", ".", "April", "1", "-RRB-", "Indian", ";", "Neu-Delhi", "Silchar" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "Politiker", "war", "indischer", "ein", "A." ],
+  "text" : "A. F. Golam Osmani (* 1. April 1933 in Silchar, Assam; † 31. März 2009 in Neu-Delhi) war ein indischer Politiker (Indian National Congress).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "138_entity422",
+  "entityUrl" : "http://dbpedia.org/resource/Arun_Kumar_Sarmah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "14th", "Kumar", "-LRB-", "Assam", "political", "Gana", "Sabha", "member", "represented", "1956", "November", "Parishad", "born", "Lakhimpur", "Lok", "AGP", ".", "India", "Asom", "1", "constituency", "Arun", "-RRB-", "Sah", "party" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Arun Kumar Sah (born 1 November 1956) was a member of the 14th Lok Sabha of India. He represented the Lakhimpur constituency of Assam and is a member of the Asom Gana Parishad (AGP) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "139_entity423",
+  "entityUrl" : "http://dbpedia.org/resource/Anjan_Kumar_Yadav",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "Congress", "M.", "Kumar", "-LRB-", "May", "Telangana", "political", "BJP", "15th", "Sabha", "candidate", "National", "lost", "member", "represented", "Yadav", "Dattatreya", "born", "Lok", "Anjan", "elections", ".", "India", "Bandaru", "1961", "constituency", "5", "Secunderabad", "2014", "-RRB-", "Indian", "party", "INC" ],
+  "adjectives" : [ "political", "15th" ],
+  "nouns" : [ "Sabha", "candidate", "constituency", "member", "Lok", "party" ],
+  "text" : "M. Anjan Kumar Yadav (born 5 May 1961) was a member of the 15th Lok Sabha of India. He represented the Secunderabad constituency of Telangana and is a member of the Indian National Congress (INC) political party. Yadav lost the 2014 elections to BJP candidate Bandaru Dattatreya from Secunderabad.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "140_entity671",
+  "entityUrl" : "http://dbpedia.org/resource/Adesh_Partap_Singh_Kairon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "great-grandson", "-LRB-", "longest", "political", "four-time", "serving", "Harcharan", "son", "Adesh", "nephew", "Singh", "1959", "state", "Constituency", "Parkash", "Member", "Assembly", "Badal", "son-in-law", "Surinder", "minister", "Nihal", "grandson", "born", "politician", "Punjab", "brother-in-law", ",", "Sukhbir", "Patti", ".", "currently", "belongs", "-RRB-", "Legislative", "Pratap", "family", "Kairon", "Brar" ],
+  "adjectives" : [ "political", "Legislative", "four-time" ],
+  "nouns" : [ "son-in-law", "great-grandson", "son", "minister", "grandson", "politician", "nephew", "state", "brother-in-law", "family", "Assembly" ],
+  "text" : "Adesh Pratap Singh Kairon (born 1959) is a politician from Punjab. He belongs to the Kairon political family and is currently the longest serving minister in the state of Punjab. He is the great-grandson of Nihal Singh Kairon, grandson of Pratap Singh Kairon, son of Surinder Singh Kairon, son-in-law of Parkash Singh Badal, nephew of Harcharan Singh Brar and brother-in-law of Sukhbir Singh Badal. He is a four-time Member of Legislative Assembly in the Punjab Legislative Assembly from the Patti Constituency. He has served thrice as a minister. He has held the portfolios of Excise and Taxation, Food and IT. He holds a BTech degree from Punjab Engineering College and an MBA from Northwestern's Kellogg School of Management. He has two sons, Dilsher Kairon and Jai Kairon.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "141_entity1156",
+  "entityUrl" : "http://dbpedia.org/resource/Akbaruddin_Owaisi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2006" ]
+  },
+  "words" : [ "June", "leader", "-LRB-", "MLA", "Majlis-e", "Telangana", "Salahuddin", "Asaduddin", "Owaisi", "son", "known", "1970", "member", "hate", "floor", "Assembly", "based", "14", "younger", "Akbaruddin", "Ittihad", "born", "politician", "speeches", ",", "Hindus", "Hyderabad", ".", "India", "Sultan", "al-Muslimin", "belongs", "-RRB-", "Legislative", "family", "brother" ],
+  "adjectives" : [ "al-Muslimin", "Legislative" ],
+  "nouns" : [ "leader", "MLA", "son", "politician", "member", "hate", "floor", "family", "brother", "Assembly", "Owaisi" ],
+  "text" : "Akbaruddin Owaisi (born 14 June 1970) is a politician based in Hyderabad, Telangana and an MLA of the Telangana Legislative Assembly. He belongs to All India Majlis-e Ittihad al-Muslimin and is its floor leader in the Telangana Legislative Assembly. Akbaruddin is a member of the Owaisi family, the son of Sultan Salahuddin Owaisi and the younger brother of Asaduddin Owaisi. He is known for his hate speeches against Hindus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "142_entity1287",
+  "entityUrl" : "http://dbpedia.org/resource/Anil_Shukla_Warsi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "14th", "-LRB-", "politician", "Warsi", "Lok", "poll", ",", ".", "Anil", "elected", "Bilhaur", "Shukla", "2007", "Sabha", "candidate", "Kanpur", "-RRB-", "Indian", "Constituency", "BSP" ],
+  "adjectives" : [ "14th", "Indian" ],
+  "nouns" : [ "candidate", "politician", "poll" ],
+  "text" : "Anil Shukla Warsi is an Indian politician. In 2007, he was elected to 14th Lok Sabha in a by poll from Bilhaur (Kanpur) Constituency as BSP candidate.",
+  "patterns" : { }
+} ]

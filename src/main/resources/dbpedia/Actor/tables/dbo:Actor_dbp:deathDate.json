@@ -1,0 +1,45 @@
+[ {
+  "entityIndex" : "1_entity14528",
+  "entityUrl" : "http://dbpedia.org/resource/Rosanna_Carter",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathDate" : [ "2001" ]
+  },
+  "words" : [ "New", "-LRB-", "September", "American", "fiction", "Carter", "tale", "Harlem", "plot", "Brother", "slavery", "Estelle", "Planet", "sister", "fairy", "Rolle", "Players", "Another", "described", "--", "actress", "television", "Esther", "1908", "one", "2001", "heritage", "film", ",", "Bahamian", ".", "Renaissance", "Theater", "1984", "stage", "acted", "Lafayette", "Evans", "science", "-RRB-", "Rosanna", "well-reviewed", "20" ],
+  "adjectives" : [ "American", "Bahamian", "well-reviewed" ],
+  "nouns" : [ "actress", "fiction", "television", "heritage", "film", "tale", "stage", "plot", "science", "slavery", "Planet", "sister", "fairy" ],
+  "text" : "Rosanna Rolle Carter (September 20, 1908 – 2001) was an American television, stage and film actress, of Bahamian heritage, and the sister of Esther Rolle and Estelle Evans. During the Harlem Renaissance, she acted at New Lafayette Theater as one of the Lafayette Players. She acted in The Brother from Another Planet, a well-reviewed 1984 film described as a science fiction fairy tale with a slavery plot."
+}, {
+  "entityIndex" : "2_entity14978",
+  "entityUrl" : "http://dbpedia.org/resource/Sybil_Grove",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathDate" : [ "Unknown" ]
+  },
+  "words" : [ "trained", "RADA", "debut", "October", "hair", "known", "tall", "Wingrove", "''", "actress", "born", "'", "1891", "Marian", "also", "Teddington", ",", "brown", "Grove", ".", "English", "4", "stage", "Sybil", "5", "Middlesex", "8", "Westmacott", "1927", "reddish" ],
+  "adjectives" : [ "English", "reddish", "tall", "brown" ],
+  "nouns" : [ "debut", "actress", "hair", "stage" ],
+  "text" : "Sybil Grove was an English actress. She was born Sybil Marian Westmacott on 4 October 1891 in Teddington, Middlesex, and was also known as Sybil Wingrove. She had reddish brown hair and was 5' 8\" tall. She trained at RADA and her stage debut was in 1927. She had seven years in the UK in straight plays, revues and musical comedies then seven years directing and playing in her own stock company in the Orient. She also worked in the United States."
+}, {
+  "entityIndex" : "3_entity11376",
+  "entityUrl" : "http://dbpedia.org/resource/Chan_Shen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathDate" : [ "1984-04-26" ]
+  },
+  "words" : [ "Taiwanese", "prolific", "Hong", "-LRB-", "villains", "26", "year", "roles", "March", "best", "industry", "Already", "Chan", "known", "would", "1971", "action", "cinema", "ten", "Kong", "1970s", "11", "established", "films", "particularly", "gangsters", "born", "often", "film", "entered", ",", "many", "-", "April", ".", "actor", "appear", "1940", "1984", "Taiwan", "-RRB-", "Shen" ],
+  "adjectives" : [ "Taiwanese", "established", "prolific", "many" ],
+  "nouns" : [ "actor", "year", "action", "industry", "film", "cinema" ],
+  "text" : "Chan Shen (11 March 1940 - 26 April 1984) was a Taiwanese born Hong Kong film actor. He is best known for his roles as gangsters or villains in Hong Kong action cinema in the 1970s. Already an established film actor in Taiwan, he entered the Hong Kong film industry in 1971. He was a particularly prolific actor and would often appear in as many as ten films a year. In his fourteen-year film career in Hong Kong, he appeared in 160 action films. Much of his career was spent at Hong Kong's Shaw Studio."
+}, {
+  "entityIndex" : "4_entity12756",
+  "entityUrl" : "http://dbpedia.org/resource/John_Cheng",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathDate" : [ "2013-01-22" ]
+  },
+  "words" : [ "22", "-LRB-", "Singaporean", "entertainment", "Yao", "Getai", "Ah", "roles", "John", "screen", "notable", "media", "gangster", "compere", "debut", "Enough", "Money", "known", "Cheng", "criminal", "January", "performances", "Po", "--", "Movie", "figure", "made", "one", "also", ".", "actor", "1961", "various", "2013", "-RRB-", "Nan", ":", "Nam", ";", "circle", "Yeow", "Liang", "credited", "Zhong" ],
+  "adjectives" : [ "Singaporean", "various", "notable", "criminal" ],
+  "nouns" : [ "actor", "debut", "Movie", "figure", "entertainment", "Getai", "Ah", "screen", "Nan", "circle", "gangster", "compere" ],
+  "text" : "John Cheng Yeow Nam (also credited as Zhong Yao Nan; known in entertainment circle as Ah Nan or Ah Nam) (1961 – 22 January 2013) was a Singaporean actor and Getai compere who made his screen debut in Money No Enough and was most notable for his criminal figure roles in various media. Liang Po Po: The Movie was one of his most notable performances of a gangster figure."
+} ]

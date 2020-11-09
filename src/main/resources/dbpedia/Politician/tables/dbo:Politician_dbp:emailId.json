@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity12509",
+  "entityUrl" : "http://dbpedia.org/resource/M._V._Rajasekharan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:emailId" : [ "rajar@sansad.nic.in" ]
+  },
+  "words" : [ "Congress", "Government", "politician", "upper", "Shri", ",", "house", "Council", ".", "India", "Rajasekharan", "National", "Karnataka", "Indian", "Legislative", "M.V.", "state", "Planning", "Member", "formerly", "party", "Minister" ],
+  "adjectives" : [ "upper", "Legislative" ],
+  "nouns" : [ "Government", "politician", "state", "house", "party" ],
+  "text" : "Shri M.V. Rajasekharan a politician from Indian National Congress party is a Member of the Legislative Council Karnataka in the upper house of the Government of Karnataka. He was formerly the Minister of state for Planning, Government of India.",
+  "patterns" : { }
+} ]

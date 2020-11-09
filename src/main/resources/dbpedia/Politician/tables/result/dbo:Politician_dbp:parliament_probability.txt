@@ -1,0 +1,24 @@
+id=145  property=dbp:parliament  object=New South Wales  NumberOfEntitiesFoundForObject=64
+australian-JJ  multiply=0.476562  P(australian|object)=0.953125  P(object|australian)=0.5    
+new-JJ  multiply=0.422975  P(new|object)=0.96875  P(object|new)=0.43662    
+
+id=146  property=dbp:parliament  object=Canadian  NumberOfEntitiesFoundForObject=46
+canadian-JJ  multiply=0.837409  P(canadian|object)=0.934783  P(object|canadian)=0.895833    
+federal-JJ  multiply=0.233816  P(federal|object)=0.478261  P(object|federal)=0.488889    
+
+id=147  property=dbp:parliament  object=Ontario Provincial  NumberOfEntitiesFoundForObject=52
+legislative-JJ  multiply=0.279837  P(legislative|object)=0.942308  P(object|legislative)=0.29697    
+assembly-NN  multiply=0.260865  P(assembly|object)=0.942308  P(object|assembly)=0.276836    
+
+id=148  property=dbp:parliament  object=Malaysian  NumberOfEntitiesFoundForObject=27
+malay-JJ  multiply=1.0  P(malay|object)=1.0  P(object|malay)=1.0    
+malaysian-JJ  multiply=0.925926  P(malaysian|object)=0.925926  P(object|malaysian)=1.0    
+
+id=149  property=dbp:parliament  object=New Zealand  NumberOfEntitiesFoundForObject=27
+19th-century-JJ  multiply=0.296296  P(19th-century|object)=0.296296  P(object|19th-century)=1.0    
+new-JJ  multiply=0.190141  P(new|object)=1.0  P(object|new)=0.190141    
+
+id=150  property=dbp:parliament  object=Queensland  NumberOfEntitiesFoundForObject=24
+australian-JJ  multiply=0.204918  P(australian|object)=1.0  P(object|australian)=0.204918    
+state-NN  multiply=0.159204  P(state|object)=0.666667  P(object|state)=0.238806    
+

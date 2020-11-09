@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity26788",
+  "entityUrl" : "http://dbpedia.org/resource/Seri_Kembangan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:janRainMm" : [ "192" ]
+  },
+  "words" : [ "New", "Serdang", "town", "Village", "city", "Malaysia", ",", "northern", "-", "Seri", ".", "Selangor", "Expressway", "considerable", "known", "size", "Kembangan", "located", "end", "near", "Southern", "formerly", "Route", "PLUS" ],
+  "adjectives" : [ "considerable", "located", "northern" ],
+  "nouns" : [ "town", "size", "city", "end" ],
+  "text" : "Seri Kembangan, formerly known as Serdang New Village, is a town located in Selangor, Malaysia. The town is now a considerable city in size - it is located near the northern end of the PLUS Expressway Southern Route ."
+}, {
+  "entityIndex" : "2_entity27455",
+  "entityUrl" : "http://dbpedia.org/resource/Surajgarha",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:janRainMm" : [ "18.9" ]
+  },
+  "words" : [ "small", "Bihar", "seven", "nearest", "Durga", "Ganges", "major", "117", "railhead.This", "Gaya", "town", "banks", "16", "17", ",", ".", "airports", "north-east", "Station", "Ibrahim", "Kiul", "Airport", "mighty", "Lakhisarai.During", "District", "NH-33", "Railway", "Sher", "puja", "Khan", "Surajgarha", "16th", "lies", "River", "place", "32", "witnessed", "km", "famous", "villages", "Lakhisarai", "blocks", "one", "Munger", "Shah.Patna", "battle", "consisting", "century", "powerful", "celebrations", "located", "sweets", "river" ],
+  "adjectives" : [ "small", "famous", "powerful", "major", "located", "mighty", "16th" ],
+  "nouns" : [ "north-east", "battle", "km", "century", "town", "Kiul", "puja", "place", "river", "railhead.This", "NH-33" ],
+  "text" : "Surajgarha is one of seven blocks in Lakhisarai District of Bihar consisting of 117 villages. It lies on the banks of the mighty Ganges River and is 17 km north-east of Lakhisarai.During the 16th century, the place had witnessed a powerful battle between Ibrahim Khan and Sher Shah.Patna Airport and Gaya Airport are the nearest airports. Kiul Railway Station is the nearest major railhead.This is a small town located 32 km from Munger and 16 km from Lakhisarai, on NH-33. It is on the banks of Kiul river, and this town is famous for its Durga puja celebrations, and sweets. There is a particular type of sweet, called 'CHENA' made by some shops here, which is famous even in the neighbouring cities."
+} ]

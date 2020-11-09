@@ -1,0 +1,553 @@
+[ {
+  "entityIndex" : "1_entity10819",
+  "entityUrl" : "http://dbpedia.org/resource/Kees_Vendrik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.rekenkamer.nl" ]
+  },
+  "words" : [ "Vendrik", "de", "-LRB-", "politicus", "januari", "Constant", "lid", "2010", "Kees", "een", "1998", "Cornelis", "Tweede", "tot", "30", "Nederlands", "van", "16", "Hij", "GroenLinks", "Algemene", ",", ".", "Nijmegen", "1963", "juni", "-RRB-", "Kamerfractie", "Maria", "Rekenkamer" ],
+  "adjectives" : [ "Constant", "een" ],
+  "nouns" : [ "van", "politicus", "januari", "lid", "Hij", "tot" ],
+  "text" : "Cornelis Constant Maria (Kees) Vendrik (Nijmegen, 30 januari 1963) is een Nederlands politicus. Hij is lid van de Algemene Rekenkamer. Hij was van 1998 tot 16 juni 2010 lid van de Tweede Kamerfractie van GroenLinks.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8266",
+  "entityUrl" : "http://dbpedia.org/resource/Jun_Choi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.junchoi.com" ]
+  },
+  "words" : [ "New", "Mayor", "education", "engagement", "becoming", "municipality", "led", "sworn", "Asian", "good", "worked", "major", "1971", "Jersey", "state", "January", "greater", "development", "environmental", "mayor", "began", "17", "history", ",", "community", "former", ".", "reform", "1", "fiscal", "Prior", "-RRB-", "Edison", "Choi", "largest", "-LRB-", "May", "American", "city", "100,000", "youngest", "protection", "civic", "2006", "government", "public", "responsibility", "Jun", "business", "H.", "born", "politician", "people", "fifth", "movement", "first", "economic", "improvements" ],
+  "adjectives" : [ "environmental", "American", "major", "public", "fiscal", "fifth", "Asian", "good", "former", "first", "economic", "civic" ],
+  "nouns" : [ "Jun", "development", "education", "engagement", "business", "mayor", "city", "H.", "politician", "municipality", "protection", "history", "community", "reform", "government", "responsibility", "state", "movement" ],
+  "text" : "Jun H. Choi (born May 17, 1971) is an American politician and the former Mayor of Edison, New Jersey, a community of over 100,000 people and the fifth largest municipality in the state. He was sworn in on January 1, 2006 as the youngest mayor in Edison history and the first Asian American mayor of a major city in New Jersey. He began a good government, reform movement that led to greater fiscal responsibility, economic development, public education improvements, environmental protection and civic engagement. Prior to becoming Mayor of Edison, Choi worked in both business and government. He served as a senior official on education policy at the New Jersey Department of Education where he started the NJ SMART Program, improving public school education performance metrics for 1.4 million New Jersey children. He also served in the White House Office of Management and Budget and worked as a management consultant focusing on strategy and technology issues for Fortune 500 US corporations. In May 2011 Choi announced that he would seek the Democratic nomination for New Jersey's 7th congressional district, a seat currently held by Rep. Leonard Lance, a Republican. However, Choi put his campaign on hold after Edison was placed inside the 6th district by the new Congressional redistricting map. Choi earned a Bachelor of Science from the Massachusetts Institute of Technology and a master's degree in public policy and administration from Columbia University. Choi is also a Leadership New Jersey Fellow (Class of 2003).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity8821",
+  "entityUrl" : "http://dbpedia.org/resource/Jai_Parkash_Aggarwal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.jaiprakashagarwal.com/" ]
+  },
+  "words" : [ "Congress", "Tiwari", "Delhi", "defeated", "380,000", "Shri", "Bhartiya", "Aggarwal", "house", "2009", "general", "Sabha", "candidate", "Party", "National", "lost", "Bharatiya", "came", "North", "Parkash", "Member", "results", "margin", "election", "Janta", "Janata", "politician", "lower", "distant", "representing", "Lok", ",", ".", "India", "200,000", "Jai", "third", "2014", "Indian", "votes", "East", "party", "Parliament", "Manoj" ],
+  "adjectives" : [ "general", "third", "distant", "Indian" ],
+  "nouns" : [ "candidate", "margin", "election", "politician", "house", "party" ],
+  "text" : "Shri Jai Parkash Aggarwal is a politician from the Indian National Congress party and a Member of the Parliament of India representing North East Delhi in Lok Sabha, the lower house of the Indian Parliament. In the 2009 Indian general election, he defeated the Bharatiya Janata Party candidate by a margin of over 200,000 votes. In the 2014 Indian general election, he lost to Bhartiya Janta Party candidate Manoj Tiwari by a margin of about 380,000. He came in a distant third in the results.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity19732",
+  "entityUrl" : "http://dbpedia.org/resource/Zulhasnan_Rafique",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.umnosetiawangsa.com.my" ]
+  },
+  "words" : [ "。", "马来语", "也是巫统中央委员", "bin", "（", "）", "：", "朱哈斯南", "Zulhasnan", "Rafique", "，", "马来西亚吉隆坡斯帝亚旺沙国阵巫统国会议员" ],
+  "adjectives" : [ ],
+  "nouns" : [ "。", "bin", "：", "Zulhasnan" ],
+  "text" : "朱哈斯南（马来语：Zulhasnan bin Rafique），马来西亚吉隆坡斯帝亚旺沙国阵巫统国会议员，也是巫统中央委员 。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity4981",
+  "entityUrl" : "http://dbpedia.org/resource/Eugene_Puryear",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "eugenepuryear.com" ]
+  },
+  "words" : [ "-LRB-", "American", "28", "At-Large", "Socialism", "United", "Council", "States", "2008", "candidate", "Party", "nominee", "February", "Liberation", "activist", "vice", "Charlottesville", "election", "born", "politician", "PSL", "D.C.", "Statehood", ",", ".", "seat", "1986", "Puryear", "2014", "-RRB-", "Eugene", "presidential", "Virginia", "Green", "DC" ],
+  "adjectives" : [ "American", "presidential" ],
+  "nouns" : [ "activist", "seat", "candidate", "vice", "election", "politician", "nominee" ],
+  "text" : "Eugene Puryear (born February 28, 1986 in Charlottesville, Virginia) is an American activist and politician. In 2014 he was a candidate for the At-Large seat in the DC Council with the D.C. Statehood Green Party and in the 2008 United States presidential election was the vice presidential nominee of the Party for Socialism and Liberation (PSL).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity18287",
+  "entityUrl" : "http://dbpedia.org/resource/Viveka_Eriksson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.liberalerna.ax" ]
+  },
+  "words" : [ "-LRB-", "Viveka", "born", "18", "politician", "2011", "autonomous", ",", "former", ".", "August", "Eriksson", "Premier", "2007", "-RRB-", "Åland", "Islands", "1956", "Viveca" ],
+  "adjectives" : [ "autonomous", "former" ],
+  "nouns" : [ "politician" ],
+  "text" : "Viveka Eriksson or Viveca Eriksson (born August 18, 1956) is a politician on the autonomous Åland Islands and the former Premier of Åland from 2007 to 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity18508",
+  "entityUrl" : "http://dbpedia.org/resource/Vellampalli_Srinivas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "[ Personal Website]" ]
+  },
+  "words" : [ "MLA", "-LRB-", "Vijayawada", "born", "Praja", ",", "elections", ".", "AP", "PRP", "elected", "2009", "Party", "Srinivas", "AP-Legislative", "-RRB-", "Rajyam", "Vellampalli" ],
+  "adjectives" : [ "AP-Legislative" ],
+  "nouns" : [ "MLA", "PRP" ],
+  "text" : "Vellampalli Srinivas was born in Vijayawada, AP and elected as MLA through the Praja Rajyam Party (PRP) in the 2009 AP-Legislative elections.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity18533",
+  "entityUrl" : "http://dbpedia.org/resource/Vladimir_Plahotniuc",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.plahotniuc.md" ]
+  },
+  "words" : [ "-LRB-", "Питушка", "Влад", "2010", "молдавский", "СССР", "ССР", "район", "политик", "материнской", "линии", "Молдовы", "известен", "Также", "по", "--", "Плахотню́к", "род", "Парламента", "Гео́ргиевич", ",", "фамилия", ".", "Каларашский", "1", "Влади́мир", "вице-председатель", "2013", "января", "-RRB-", "Улинич", "Молдавская", "бизнесмен", "имени", "первый", "1966" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Плахотню́к", "род", "Влад", "Гео́ргиевич", "молдавский", "фамилия", "Влади́мир", "район", "вице-председатель", "политик", "материнской", "января", "Улинич", "линии", "бизнесмен", "имени", "первый", "известен", "Также", "по" ],
+  "text" : "Влади́мир Гео́ргиевич Плахотню́к (род. 1 января 1966, Питушка, Каларашский район, Молдавская ССР, СССР) — молдавский политик, бизнесмен, первый вице-председатель Парламента Молдовы (2010—2013). Также известен по имени Влад Улинич (фамилия по материнской линии).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity11497",
+  "entityUrl" : "http://dbpedia.org/resource/Leader_of_the_Liberal_Democrats",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "http://www.libdems.org.uk/tim_farron" ]
+  },
+  "words" : [ "leader", "constitution", "Leader", "called", "United", "political", "elect", "required", "colloquially", "Party", "Democrat", "Commons", "members", "federal", "member", "Parliamentary", "`", "Liberal", "Deputy", "'", "also", "House", "often", ",", ".", "Democrats", "Kingdom", "party", "Members", "Parliament" ],
+  "adjectives" : [ "Liberal", "federal", "political" ],
+  "nouns" : [ "leader", "constitution", "member", "party" ],
+  "text" : "The Liberal Democrats are a political party in the United Kingdom. Party members elect the Leader of the Liberal Democrats. Liberal Democrat Members of Parliament also elect a Deputy Leader of the Liberal Democrats Parliamentary Party in the House of Commons, often colloquially called 'the Deputy Leader'. Under the federal constitution of the Liberal Democrats the leader is required to be a member of the House of Commons. Before the election of the first federal leader of the party (the Liberal Democrats having a federal structure in their internal party organisation), the leaders of the two parties which merged to form the Liberal Democrats, the Liberal Party and the SDP, served as joint interim leaders. In the event that the leader dies, resigns or loses his or her seat in Parliament, the deputy leader serves as interim leader until a leadership election takes place. This has occurred twice, with Menzies Campbell serving as interim leader following the resignation of Charles Kennedy (Campbell was elected leader in the ensuing election) and Vince Cable serving as interim leader following Campbell's resignation.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity11797",
+  "entityUrl" : "http://dbpedia.org/resource/Lew_Frederick",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "lewfrederick.org" ]
+  },
+  "words" : [ "``", "leader", "moved", "Legislature", "Skanner", "December", "1974", "highest-ranking", "state", "Rouge", "Frederick", "Democratic", "House", ",", "'s", ".", "Amanda", "endorsed", "-RRB-", "campaign", "District", "Oregon", "-LRB-", "Portland", "American", "2010", "Representatives", "Fritz", "Washington", "serving", "1951", "U.S.", "Atlanta", "Baton", "man", "Tribune", "According", "''", "born", "politician", "representing", "raised", "black", "Commissioner", "Pullman", "currently", "Born", "Lew", "43" ],
+  "adjectives" : [ "American", "highest-ranking", "Democratic", "black" ],
+  "nouns" : [ "Skanner", "leader", "politician", "campaign", "state", "man" ],
+  "text" : "Lew Frederick (born December 1951) is an American Democratic politician from the U.S. state of Oregon, currently representing District 43 in the Oregon House of Representatives. Born in Pullman, Washington, Frederick was raised in Baton Rouge and Atlanta, and moved to Portland in 1974. According to the Portland Tribune, he is Oregon's \"highest-ranking black leader and the only black man serving in the Oregon Legislature\" as of 2010. Commissioner Amanda Fritz and The Skanner endorsed Frederick during his campaign for District 43.Frederick, formerly a member of the House Joint Committee on Legislative Audits, Information Management and Technology, has moved into the leadership ranks through his new Committee assignments. Frederick's 2013 Regular Session assignments are as Vice-Chair, Land Use Committee; and both the Ways and Means Committee, per se, as well as the Ways and Means Subcommittee On Education.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity2433",
+  "entityUrl" : "http://dbpedia.org/resource/Camilla_Gunell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.regeringen.ax" ]
+  },
+  "words" : [ "-LRB-", "September", "within", "Government", "born", "politician", "Gunell", "autonomous", ",", "former", ".", "Swedish", "Premier", "1970", "7", "Finland", "-RRB-", "unilingually", "Åland", "Islands", "Camilla", "territory" ],
+  "adjectives" : [ "autonomous", "former", "Swedish" ],
+  "nouns" : [ "Government", "politician", "Åland", "territory" ],
+  "text" : "Camilla Gunell (born September 7, 1970) is a politician within the Åland Islands, an autonomous and unilingually Swedish territory of Finland, and the former Premier of the Government of Åland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity2442",
+  "entityUrl" : "http://dbpedia.org/resource/Christofer_Fjellner",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.fjellner.eu" ]
+  },
+  "words" : [ "-LRB-", "part", "Västerås", "Committee", "Swedish", "1976", "Trade", "December", "Control", "Party", "Moderate", "gained", "2004", "2002", "member", "national", "Member", "Fjellner", "group", "International", "sits", "13", "League", "Budgetary", "born", "politician", "People", "Youth", "Gustav", "chairman", "Christofer", "European", ",", "'s", "Ingemar", "-", ".", "Democrats", "-RRB-", "Parliament", "prominence" ],
+  "adjectives" : [ "Moderate", "national", "European", "Swedish" ],
+  "nouns" : [ "politician", "part", "member", "chairman", "group", "prominence" ],
+  "text" : "Gustav Christofer Ingemar Fjellner (born 13 December 1976 in Västerås) is a Swedish politician and Member of the European Parliament. He is a member of the Moderate Party, part of the European People's Party - European Democrats group. Fjellner gained national prominence as chairman of the Moderate Youth League from 2002 to 2004. He sits on the European Parliament's Committee on International Trade and its Committee on Budgetary Control. In that capacity, he drafted the Parliament’s review of EU spending in 2010. He is also a substitute for the Committee on the Environment, Public Health and Food Safety, a member of the delegation for relations with Belarus, and a substitute for the delegation for relations with Iran. In September 2016, Fjellner joined more than 50 MEPs from six different political groups – including Ashley Fox, Alojz Peterle, Vicky Ford and Beatrix von Storch – in signing a proposal for a two-term limit of the President of the European Parliament. This move was widely seen as an effort to prevent incumbent Martin Schulz from holding onto the presidency for a third consecutive term.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity3105",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Casuscelli",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "charlescasuscelli.com.au" ]
+  },
+  "words" : [ "22", "New", "-LRB-", "Strathfield", "Wales", "2011", "October", "Party", "member", "1956", "Assembly", "Charles", "Liberal", "born", "politician", "South", "representing", ",", ".", "Casuscelli", "2015", "Australian", "-RRB-", "Legislative", "Australia" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Charles Casuscelli (born 22 October 1956), an Australian politician, was a member of the New South Wales Legislative Assembly representing Strathfield for the Liberal Party of Australia from 2011 to 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity1697",
+  "entityUrl" : "http://dbpedia.org/resource/Britt_Lundberg",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.centern.ax" ]
+  },
+  "words" : [ "Lundberg", "-LRB-", "born", "politician", "19", "autonomous", ",", "Britt", "April", ".", "Swedish", "1963", "Finland", "-RRB-", "unilingually", "Åland", "Islands", "territory" ],
+  "adjectives" : [ "autonomous", "Swedish" ],
+  "nouns" : [ "politician", "territory" ],
+  "text" : "Britt Lundberg (born April 19, 1963) is a politician in the Åland Islands, an autonomous and unilingually Swedish territory of Finland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity2149",
+  "entityUrl" : "http://dbpedia.org/resource/Blane_Vick",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.blanevick.com" ]
+  },
+  "words" : [ "``", "Pebblebrook", "-LRB-", "May", "American", "Republican", "County", "Warner", "School", "candidate", "Vick", "Board", "Back", "Mableton", "''", "attended", "High", "Movement", "Commissioners", "15", "born", "politician", "4th", ",", "grew", ".", "1987", "seat", "Architect", "Douglas", "GOSBOT", "Get", "-RRB-", "Blane", "Georgia", "Society", "District", "Track" ],
+  "adjectives" : [ "American", "4th", "Republican" ],
+  "nouns" : [ "seat", "Architect", "candidate", "politician" ],
+  "text" : "Warner \"Blane\" Vick (born May 15, 1987) is an American politician. He grew up in Mableton, Georgia and attended Pebblebrook High School. Architect of the GOSBOT (Get Our Society Back On Track) Movement. Vick was a Republican candidate for 4th District seat of the Board of Commissioners in Douglas County, Georgia. later served as one of the last Jury Commissioners in Douglas County, Georgia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity18124",
+  "entityUrl" : "http://dbpedia.org/resource/Tomio_Okamura",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.tomio.cz" ]
+  },
+  "words" : [ "n.", "escritor", "de", "-LRB-", "Tokio", "político", "actualmente", "del", "Tomio", "Okamura", "富夫", "1972", "Japón", "Senado", "un", "岡村", "senador", "Parlamento", "el", "en", "julio", ",", "empresario", "es", ".", "checo", "República", "4", "la", "-RRB-", "y", "Checa", "?" ],
+  "adjectives" : [ ],
+  "nouns" : [ "un", "empresario", "checo" ],
+  "text" : "Tomio Okamura (岡村 富夫 Okamura Tomio?, n. el 4 de julio de 1972 en Tokio, Japón) es un empresario, escritor y político checo, actualmente es senador en el Senado del Parlamento de la República Checa.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity14955",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Nordlund",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.centern.ax" ]
+  },
+  "words" : [ "-LRB-", "autonomous", "Swedish", "serving", "member", "unilingually", "1957", "Islands", "Minister", "November", "Roger", "Government", "Deputy", "Finance", "born", "politician", "19", ",", "Centre", ".", "Premier", "currently", "Finland", "-RRB-", "Nordlund", "Åland", "party", "territory" ],
+  "adjectives" : [ "autonomous", "Swedish" ],
+  "nouns" : [ "politician", "member", "party", "territory" ],
+  "text" : "Roger Nordlund (born November 19, 1957) is a politician in the Åland Islands, an autonomous and unilingually Swedish territory of Finland. Nordlund is a member of the Åland Centre party and is currently serving as Deputy Premier Government of Åland and Minister of Finance.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity15314",
+  "entityUrl" : "http://dbpedia.org/resource/RoseMarie_Panio",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.rosemariepanio.com" ]
+  },
+  "words" : [ "Westchester", "New", "-LRB-", "American", "York", "Secretary", "unsuccessful", "Republican", "office", "Committee", "liquor", "resides", "County", "three", "2007", "2006", "public", "2004", "Town", "owns", "Peekskill", "ran", "Heights", "attempts", "including", "race", "town", "grandmother", "born", "politician", "GOP", "store", ",", ".", "home", "elected", "1941", "RoseMarie", "unanimously", "Panio", "State", "-RRB-", "supervisor", "Yorktown" ],
+  "adjectives" : [ "American", "public", "unsuccessful" ],
+  "nouns" : [ "race", "town", "Town", "grandmother", "politician", "office", "store", "liquor", "supervisor", "home" ],
+  "text" : "RoseMarie Panio (born 1941) is an American politician that ran the Westchester County, New York Republican Committee from 2004 to 2007. She was unanimously elected Secretary for the State GOP in 2006, but has been unsuccessful in three attempts at public office, including a 2007 race for Town supervisor of her home town. Panio owns a liquor store in Peekskill, New York, and is a grandmother. She resides in Yorktown Heights, New York.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity15572",
+  "entityUrl" : "http://dbpedia.org/resource/Ravneet_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.ravneetbittu.com" ]
+  },
+  "words" : [ "Congress", "anti-congress", "wave", "15th", "2009", "belonging", "general", "Sabha", "National", "spite", "won", "Ludhiana", "parliamentary", "Ravneet", "Singh", "represented", "Member", "politician", "Lok", "Punjab", "Sahib", "Earlier", "elections", ".", "elected", "constituency", "Indian", "nationwide", "Parliament", "Anandpur" ],
+  "adjectives" : [ "general", "anti-congress", "Indian", "parliamentary", "nationwide", "15th" ],
+  "nouns" : [ "constituency", "spite", "politician", "wave" ],
+  "text" : "Ravneet Singh is an Indian politician belonging to Indian National Congress. He is Member of Parliament from Ludhiana parliamentary constituency from where he won in spite of a nationwide anti-congress wave. Earlier he represented Anandpur Sahib in Punjab. He was elected to the 15th Lok Sabha in the general elections of 2009. He is the grandson of slain Punjab Chief Minister Beant Singh. He is considered a member of the youth brigade of Rahul Gandhi. He is also the first elected President of Youth Congress of Punjab (2008).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity15699",
+  "entityUrl" : "http://dbpedia.org/resource/Rhonda_Sivarajah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.ElectRhonda.com" ]
+  },
+  "words" : [ "Sonjay", "-LRB-", "Congressional", "husband", "office", "Cambridge", "St.", "resides", "County", "two", "division", "running", "candidate", "worked", "Lieutenant", "along", "Asha", "children", "international", "human", "Anoka", "Sivarajah", "born", "politician", "degree", "Rhonda", "Commissioner", "Minnesota", "received", "services", ",", "'s", "former", ".", "seat", "Governor", "University", "Sixth", "State", "Cloud", "-RRB-", "Lakes", "Lino", "relations", "District", "Ran" ],
+  "adjectives" : [ "international", "human", "former" ],
+  "nouns" : [ "seat", "division", "candidate", "politician", "degree", "husband", "office", "Ran" ],
+  "text" : "Rhonda Sivarajah (born in Cambridge, Minnesota) is a Minnesota politician, Anoka County Commissioner, former candidate for Lieutenant Governor and former candidate for Minnesota's Sixth District Congressional seat. Sivarajah received a degree in international relations from St. Cloud State University. She worked in the human services division of Anoka County before running for office. She resides in Lino Lakes, along with her husband, Ran, and two children, Sonjay and Asha. She is a former small business owner. In 2002, Sivarajah was elected to the Anoka County Commission, representing the 6th district. In 2011 she was first elected the Anoka County Board Chair and has been re-elected as chair by her peers each year since then. When Sivarajah was elected to the Anoka County Board she initially was the sole conservative. Over the years she has been called \"a darling of the local conservative blogs\", according to the Star-Tribune.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity16015",
+  "entityUrl" : "http://dbpedia.org/resource/Raja_Ashfaq_Sarwar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.pmln.org.pk" ]
+  },
+  "words" : [ "career", "-LRB-", "Chief", "27", "Secretary", "held", "Sarwar", "اشفاک", "Labour", "1954", "October", "current", "Wildlife", "PMLN", "Member", "Assembly", "Minister", "Raja", "Human", "Adviser", "including", "Affairs", "Health", "Urdu", "&", "born", "politician", "Resource", "portfolios", "Youth", "Fisheries", "Punjab", "Pakistani", ",", "former", ".", "Ashfaq", "various", "Forestry", "-RRB-", "راجا", "سارور", "General", "center-right", ":", "party" ],
+  "adjectives" : [ "Human", "current", "various", "center-right", "Pakistani", "former" ],
+  "nouns" : [ "career", "politician", "سارور", "PMLN", "party" ],
+  "text" : "Raja Ashfaq Sarwar (Urdu:  راجا اشفاک سارور) (born 27 October 1954) is a Pakistani politician, Member of Punjab Assembly, former Adviser to Chief Minister of Punjab, and current Minister for Labour and Human Resource. He is Secretary General of the center-right party PMLN in Punjab. He has held various portfolios over his career including Minister for Youth Affairs, Minister for Forestry Wildlife & Fisheries, and Minister for Health.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity3453",
+  "entityUrl" : "http://dbpedia.org/resource/DeWitt_Clinton_Cregier",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "Wikipedia, Chicago Public Library" ]
+  },
+  "words" : [ "fountain", "buried", "hydrant", "1898", "173,768", "Patent", "fire", "Cemetery", "animals", "combination", "--", "drinking", "mayor", "Democratic", "old", "widely", "City", "basin", ",", "Clinton", "-", ".", "hydrants", "1", "photographs", "Illinois", "Prior", "served", "-RRB-", "1829", "9", ";", "June", "Rosehill", "-LRB-", "Cregier", "seen", "164,149", "1876", "DeWitt", "1875", "Party", "U.S.", "November", "Chicago", "awarded", "1891", "engineer", "watering", "latter", "1889" ],
+  "adjectives" : [ "old" ],
+  "nouns" : [ "hydrant", "fountain", "drinking", "mayor", "fire", "latter", "City", "basin", "engineer", "combination" ],
+  "text" : "DeWitt Clinton Cregier (June 1, 1829 - November 9, 1898; buried in Rosehill Cemetery) served as mayor of Chicago, Illinois (1889–1891) for the Democratic Party. Prior to this he was an engineer with the City of Chicago, and was awarded, in 1875, U.S. Patent 164,149 and in 1876, U.S. Patent 173,768, both for fire hydrants. The latter was a combination drinking fountain, fire hydrant, and watering basin for animals. The Cregier hydrant is widely seen in old photographs of Chicago. Cregier was also Master Mason, presided as Worshipful Master of Blaney Lodge No. 271, A.F. & A.M. of Illinois for eight years, and served as Grand Master of Illinois in 1870-1871. D.C. Cregier Lodge No. 81 in Wheeling, Illinois, is named after him. He was a fifth great-grandson of Martin Cregier, first Burgomaster of New Amsterdam. Biography entitled: \"The New York Orphan Who Built Chicago\" subtitled: \"The Story of DeWitt Clinton Cregier A 19th-Century American Engineering Genius\" published October 2011, author Gloria Cregier Emma, one of Cregier's last surviving two grandchildren. Book available at public libraries and history museums in Chicago and suburban areas, in Springfield, Illinois, and by contact with author in Batavia, Illinois.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity3928",
+  "entityUrl" : "http://dbpedia.org/resource/Diliprao_Deshmukh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.dilipraodeshmukh.com or www.dilipraojideshmukh.com" ]
+  },
+  "words" : [ "career", "Marathi", "देशमुख", "sworn", "Arts", "1976", "National", "Diliprao", "Graduated", "join", "state", "Chavan", "Fergusson", "Minister", "development", "went", "work", "18", "degree", "Public", "'s", ",", "April", ".", "दिलीपराव", "1", "Working", "University", "State", "-RRB-", "College", ":", "Pune", "Planning", "Congress", "-LRB-", "Dagdojirao", "Babalgaon", "March", "Committee", "2009", "Ex", "1950", "2004", "2003", "member", "village", "Maharashtra", "Social", "Rural", "Sarpanch", "M.A", "Administration", "Cabinet", "Government", "Finance", "born", "started", "master", "Deshmukh", "Indian", "Ashok" ],
+  "adjectives" : [ "Rural" ],
+  "nouns" : [ "M.A", "development", "career", "Government", "work", "Babalgaon", "degree", "member", "state", "village", "master" ],
+  "text" : "Diliprao Dagdojirao Deshmukh (Marathi: दिलीपराव देशमुख ) (born 18 April 1950) Graduated with a master's degree in Arts (M.A in Public Administration) from Fergusson College, (Pune University) and went on to join Social work and Rural development. He started his career in village Babalgaon as a Sarpanch in 1976 He is an Ex Minister of state Finance and Planning Maharashtra, from 2003 to 2004. On 1 March 2009 he was sworn in as Cabinet Minister, in Ashok Chavan’s Government. He is a member of the Indian National Congress and member of Working Committee of Maharashtra State Congress. He originally belongs to Latur district in the Marathwada region of the state of Maharashtra. He is currently Member of Legislative Council. (Local self Government Constituency. ‘Districts: Osmanabad –Beed- Latur’) He also served as Minister for Sports, Youth Welfar and Protocol. Diliprao is younger brother of Union Minister of Heavy Industries Mr. Vilasrao Deshmukh.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity4222",
+  "entityUrl" : "http://dbpedia.org/resource/Drew_Barnes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.drewbarnes4wildrose.com" ]
+  },
+  "words" : [ "Drew", "Currently", "-LRB-", "Advanced", "May", "Alberta", "Canadian", "electoral", "Caucus", "acts", "Education", "member", "Critic", "Assembly", "Human", "Barnes", "Finance", "&", "born", "politician", "representing", "Moosomin", "also", "Saskatchewan", ",", ".", "elected", "Services", "Whip", "1961", "2015", "district", "-RRB-", "Legislative", "Hat", "21", "Cypress-Medicine" ],
+  "adjectives" : [ "Canadian", "electoral", "Legislative" ],
+  "nouns" : [ "politician", "district", "member", "Assembly" ],
+  "text" : "Drew Barnes (born May 21, 1961) is a Canadian politician who is an elected member to the Legislative Assembly of Alberta representing the electoral district of Cypress-Medicine Hat. He was born in Moosomin, Saskatchewan. Currently (2015) he is the Finance, Education & Advanced Education, and Human Services Critic. He also acts as Caucus Whip. In the past he has been the Infrastructure and Transportation Critic for the Wildrose Official Opposition. He has served on the Standing Committees of the Alberta Heritage Trust Fund, Public Accounts, Resource Stewardship and Private Bills. He authored two reports, (\"How to Build Alberta Better\" and \"On Time, On Budget\", and co-authored \"Twin Highway 63 Now\" and \"Debt Free Capital Plan\".",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity4261",
+  "entityUrl" : "http://dbpedia.org/resource/Dave_Roberts_(California_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.SupervisorDaveRoberts.com" ]
+  },
+  "words" : [ "``", "San", "Mayor", "-LRB-", "American", "north", "county", "used", "County", "Beach", "Solana", "Democrat", "portions", "''", "born", "politician", "Diego", "representing", "includes", "California", "Dave", "Roberts", ",", ".", "3", "1960", "W.", "district", "David", "-RRB-", "supervisor" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "politician", "district", "north", "county", "supervisor" ],
+  "text" : "David W. \"Dave\" Roberts (born 1960) is an American politician from Solana Beach, California. He is the county supervisor for San Diego County, representing district 3, which includes portions of San Diego and most of north San Diego County. He used to be the Mayor of Solana Beach. He is a Democrat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity4394",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Rayfield",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.danrayfield.com" ]
+  },
+  "words" : [ "Oregon", "American", "16", "Democratic", "serves", "politician", "comprising", "representing", "House", "Representatives", ",", "Corvallis", "A.", ".", "Dan", "elected", "Party", "currently", "Rayfield", "2014", "member", "Philomath", "District", "first" ],
+  "adjectives" : [ "American", "first" ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Dan A. Rayfield is an American politician, who is a member of the Democratic Party. Rayfield was first elected in 2014 and currently serves in the Oregon House of Representatives, representing House District 16, comprising Corvallis and Philomath.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity19607",
+  "entityUrl" : "http://dbpedia.org/resource/Yuval_Rotem",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.mfa.gov.il" ]
+  },
+  "words" : [ "-LRB-", "Universität", "Tel-Aviv", "Politikwissenschaft", "ist", "ein", "den", "studierte", "bis", "Hebräischen", "Arts", "der", "von", "März", "mit", "Auszeichnung", "1959", "israelischen", "Beziehungen", "Nach", "seinen", "1978", "israelischer", "seinem", "Jerusalem", "Rotem", "Militärdienst", "*", "und", "internationale", "Bachelor", ",", "er", "jeweils", ".", "Streitkräften", "Master", "Diplomat", "1985", "1981", "erhielt", "Yuval", "-RRB-", "21", "sowie", "1988" ],
+  "adjectives" : [ "bis", "sowie" ],
+  "nouns" : [ "Universität", "und", "ist", "ein", "den", "studierte", "internationale", "Bachelor", "er", "Master", "Diplomat", "erhielt", "israelischen", "seinen", "israelischer" ],
+  "text" : "Yuval Rotem (* 21. März 1959 in Tel-Aviv) ist ein israelischer Diplomat. Nach seinem Militärdienst in den israelischen Streitkräften von 1978 bis 1981 studierte Rotem Politikwissenschaft und internationale Beziehungen an der Hebräischen Universität in Jerusalem. 1985 erhielt er seinen Bachelor of Arts, sowie 1988 seinen Master of Arts, jeweils mit Auszeichnung. Im Jahr 1985 begann Rotem im israelischen Außenministerium tätig zu werden. Während seiner diplomatischen Karriere bekleidete er verschiedenen Posten innerhalb des Außenministeriums und in verschiedenen diplomatischen Vertretungen im Ausland. So war er von 1999 bis 2004 Generalkonsul in Los Angeles. Im Jahr 2003 erhielt Rotem den persönlichen Rang eines Botschafters. August 2007 löste er Naftali Tamir als israelischen Botschafter in Australien ab. Dieser war Oktober 2006 wegen Bemerkungen über Asiaten abberufen worden und bis zu Rotems Ankunft in Australien durch die Geschäftsträgerin Irit Lillian vertreten worden. Rotem ist verheiratet und hat drei Kinder.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity7244",
+  "entityUrl" : "http://dbpedia.org/resource/Harriet_Lindeman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.fs.ax" ]
+  },
+  "words" : [ "June", "-LRB-", "Lindeman", "16", "born", "politician", "autonomous", ",", ".", "Swedish", "Finland", "-RRB-", "unilingually", "Åland", "Harriet", "1946", "Islands", "territory" ],
+  "adjectives" : [ "autonomous", "Swedish" ],
+  "nouns" : [ "politician", "territory" ],
+  "text" : "Harriet Lindeman (born June 16, 1946) is a politician in the Åland Islands, an autonomous and unilingually Swedish territory of Finland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity7250",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Darnall",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "http://dbpedia.org/resource/File:Henry_Darnall_Signature.jpg" ]
+  },
+  "words" : [ "Coode", "-LRB-", "wealthy", "defeated", "numerous", "offices", "John", "stripped", "Proprietary", "died", "Darnall", "1711", "1675", "Puritan", "colonial", "planter", "Baron", "Henry", "--", "Agent", "Charles", "Catholic", "3rd", "Deputy", "Roman", ",", ".", "Province", "Protestant", "Calvert", "army", "1645", "Governor", "1689", "Baltimore", "Colonel", "served", "-RRB-", "proprietarial", "time", "Maryland", "1605", "Revolution" ],
+  "adjectives" : [ "wealthy", "3rd", "numerous", "proprietarial", "Proprietary" ],
+  "nouns" : [ "army", "colonial", "planter", "time" ],
+  "text" : "Colonel Henry Darnall (1645–1711), was a wealthy Maryland Roman Catholic planter, the Proprietary Agent of Charles Calvert, 3rd Baron Baltimore (1605–1675). He served for a time as Deputy Governor of the Province. During the Protestant Revolution of 1689, his proprietarial army was defeated by the Puritan army of Colonel John Coode, and he was stripped of his numerous colonial offices. Darnall died in 1711.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity7710",
+  "entityUrl" : "http://dbpedia.org/resource/Itamar_Rabinovich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.itamarrabinovich.tau.ac.il" ]
+  },
+  "words" : [ "Professor", "Staaten", "Vereinigten", "-LRB-", "Jahren", "רבינוביץ", "Universität", "Itamar", "hebräisch", "ist", "Israels", "ehemaliger", "den", "der", "des", "Botschafter", "Geschichte", "mit", "für", "Aviv", "israelischer", "איתמר", "Ostens", "Jerusalem", "Nahen", "Syrien", "*", "und", ",", ".", "Rabinovich", "1942", "emeritus", "Friedensverhandlungen", "1990er", "-RRB-", "Chefunterhändler", "Tel" ],
+  "adjectives" : [ ],
+  "nouns" : [ "emeritus", "Friedensverhandlungen", "Botschafter", "mit", "und", "ist", "ehemaliger", "den", "für", "israelischer" ],
+  "text" : "Itamar Rabinovich (hebräisch איתמר רבינוביץ‎, * 1942 in Jerusalem) ist Professor emeritus für Geschichte des Nahen Ostens an der Universität Tel Aviv, ehemaliger israelischer Botschafter in den Vereinigten Staaten und Chefunterhändler Israels in den Friedensverhandlungen mit Syrien in den 1990er Jahren.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity7752",
+  "entityUrl" : "http://dbpedia.org/resource/Ismail_Sabri_Yaakob",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.ismailsabri.my" ]
+  },
+  "words" : [ "依斯迈沙比礼", "2004年初次當選国会议员", "Ab", "、", "。", "-LRB-", "马来语", "並擔任巴達威內閣的青年与體育部长", "bin", "Yaakob", "（", "）", "，", "国阵-巫统", "在擔任國會议员之前", "Sabri", "合作与消费部长", "Ismail", "：", "他曾经指出过不相信纳吉等于不相信阿啦", "以表达对国阵的支持", "2009年4月", "也是巫统中央委员", "沙比礼是马来西亚國家體育中心的主席", "马来西亚彭亨州百乐的国会议员", "2008年連任", "-RRB-", "他成為了纳吉內閣的国内贸易" ],
+  "adjectives" : [ "依斯迈沙比礼" ],
+  "nouns" : [ "Ab", "。", "（", "马来西亚彭亨州百乐的国会议员", "，", "国阵-巫统" ],
+  "text" : "依斯迈沙比礼（马来语：Ismail Sabri bin Ab Yaakob），马来西亚彭亨州百乐的国会议员(国阵-巫统)，也是巫统中央委员 。 在擔任國會议员之前，沙比礼是马来西亚國家體育中心的主席，2004年初次當選国会议员，2008年連任，並擔任巴達威內閣的青年与體育部长，2009年4月，他成為了纳吉內閣的国内贸易、合作与消费部长。他曾经指出过不相信纳吉等于不相信阿啦，以表达对国阵的支持。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity7806",
+  "entityUrl" : "http://dbpedia.org/resource/Ioannis_Tsoukalas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "http://www.tsoukalas.org" ]
+  },
+  "words" : [ "Politiker", "Αργυρίου", "-LRB-", "Tsoukalas", "Thessaloniki", "Τσουκαλάς", "griechisch", "*", "Juli", "ist", "ein", "Nea", "Dimokratia", ",", ".", "der", "1941", "3", "Argyriou", "griechischer", "Ιωάννης", "-RRB-", "Ioannis" ],
+  "adjectives" : [ "griechisch" ],
+  "nouns" : [ "griechischer", "ist", "ein" ],
+  "text" : "Ioannis Argyriou Tsoukalas (griechisch Ιωάννης Αργυρίου Τσουκαλάς, * 3. Juli 1941 in Thessaloniki) ist ein griechischer Politiker der Nea Dimokratia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity14057",
+  "entityUrl" : "http://dbpedia.org/resource/Ossi_Sandvik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "ossi.sandvik at perussuomalaiset.fi" ]
+  },
+  "words" : [ "Luopajärvi", "-LRB-", "Jalasjärvi", "rural", "municipality", "True", "parliament", "Mari", "1953", "2007", "worked", "secretary", "previously", "member", "parliamentary", "Sandvik", "different", "village", "prime", "minister", "16", "Kiviniemi", "born", "politician", "assistant", "South", "also", ",", "Vistbacka", "Raimo", "April", ".", "former", "Ostrobothnian", "served", "2013", "district", "-RRB-", "Finns", "party", "Ossi" ],
+  "adjectives" : [ "prime", "rural", "True", "parliamentary", "different", "former" ],
+  "nouns" : [ "secretary", "minister", "politician", "assistant", "district", "member", "municipality", "parliament", "village", "party" ],
+  "text" : "Ossi Sandvik (born April 16, 1953)is a True Finns politician, who served as the party secretary from 2007 to 2013. He previously worked as a parliamentary assistant for the member of the parliament Raimo Vistbacka and had also been the district secretary of the True Finns in the South Ostrobothnian district of the True Finns. Ossi Sandvik is from the same rural municipality as the former prime minister Mari Kiviniemi, Jalasjärvi, but from a different village. Ossi Sandvik is from Luopajärvi. Sandvik was elected as a member of the municipal council of Jalasjärvi in 2008 and got 101 votes. The previous time he was the member of the council was 1993-1996. Now the True Finns have five seats in the council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity16543",
+  "entityUrl" : "http://dbpedia.org/resource/Shane_Jett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "http://dbpedia.org/resource/Www.JettForCongress.com" ]
+  },
+  "words" : [ "Shane", "-LRB-", "Oklahoma", "born", "politician", "United", "House", "2010", "Representatives", ",", ".", "States", "December", "1974", "U.S.", "5", "2004", "Jett", "-RRB-", "member", "state" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "member", "state" ],
+  "text" : "Shane Jett (born December 5, 1974) is a United States politician from the U.S. state of Oklahoma and was a member of the Oklahoma House of Representatives from 2004 to 2010.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity17295",
+  "entityUrl" : "http://dbpedia.org/resource/Shyam_Bihari_Misra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.buvm.org" ]
+  },
+  "words" : [ "Bihari", "belonging", "Bilhaur", "President", "Shyam", "Sabha", "times", "Party", "Kanpur", "four", "Bharatiya", "member", "Constituency", "Vyapaar", "Udyog", "Mishra", "Janata", "Baijnath", "politician", "Lok", ".", "former", "elected", "district", "Indian", "Mandal", "Pandit" ],
+  "adjectives" : [ "Indian", "former" ],
+  "nouns" : [ "politician", "district", "member" ],
+  "text" : "Pandit Shyam Bihari Baijnath Mishra is an Indian politician belonging to the Bharatiya Janata Party. He is a former member of the Lok Sabha elected from Bilhaur Lok Sabha Constituency in Kanpur district for four times. He is now the President of Bharatiya Udyog Vyapaar Mandal.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity12529",
+  "entityUrl" : "http://dbpedia.org/resource/Marcelo_Crivella",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "marcelocrivella.com.br" ]
+  },
+  "words" : [ "com", "de", "estado", "religioso", "político", "Bezerra", "Crivella", "Janeiro", "pelo", "período", "milhões", "Senado", "um", "Marcelo", "Republicano", "aproximadamente", "senador", "brasileiro", "cadeira", "em", "Exerce", ",", ".", "República", "Partido", "-RRB-", "9", "gospel", "Eleito", "escritor", "-LRB-", "uma", "2010", "outubro", "votos", "Ocupou", "engenheiro", "Brasileiro", "representando", "2003", "2002", "mandato", "1957", "e", "é", "o", "Rio", "3,2", "cantor", "da" ],
+  "adjectives" : [ "República" ],
+  "nouns" : [ "escritor", "com", "aproximadamente", "estado", "político", "cadeira", "uma", "é", "Exerce", "pelo", "engenheiro", "o", "representando", "um", "gospel", "cantor", "da" ],
+  "text" : "Marcelo Bezerra Crivella (Rio de Janeiro, 9 de outubro de 1957) é um político, cantor gospel, engenheiro, escritor e religioso brasileiro. Exerce mandato de senador da República pelo Partido Republicano Brasileiro, representando o estado do Rio de Janeiro. Eleito em 2002, com aproximadamente 3,2 milhões de votos. Ocupou uma cadeira no Senado no período de 2003 a 2010. Em 2010, foi o primeiro senador reeleito no estado do Rio de Janeiro em 24 anos para o período 2011 a 2019. Ocupa o cargo de bispo, licenciado, da denominação neopentecostal Igreja Universal do Reino de Deus (IURD).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity13050",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Dembrow",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.michaeldembrow.com" ]
+  },
+  "words" : [ "45", "E.", "northeastern", "appointment", "Dembrow", "legislative", "Board", "Education", "Michael", "state", "US", "League", "Willamette", "Democratic", "House", "c.", ",", "'s", ".", "endorsed", "Park", "Governor", "contains", "Senate", "instructor", "State", "served", "-RRB-", "College", "Higher", "District", "Week", "Oregon", "23", "-LRB-", "Portland", "American", "Conservation", "Representatives", "serving", "2008", "1951", "Maywood", "Voters", "election", "Parkrose", "born", "politician", "representing", "English", "Ted", "currently", "Kulongoski", "formerly", "Community" ],
+  "adjectives" : [ "English", "American", "Democratic", "northeastern", "legislative" ],
+  "nouns" : [ "Governor", "election", "instructor", "Education", "politician", "appointment", "state" ],
+  "text" : "Michael E. Dembrow (born c. 1951) is an American Democratic politician from the US state of Oregon, currently representing District 23 (which contains northeastern Portland, Maywood Park and Parkrose) in the Oregon Senate. Before his appointment to the Oregon Senate, Dembrow served in the Oregon House of Representatives serving District 45. Dembrow, formerly an English instructor at Portland Community College, served on Governor Ted Kulongoski's State Board of Higher Education. The Oregon League of Conservation Voters and Willamette Week endorsed Dembrow during the 2008 legislative election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity13479",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Venditto",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "https://www.nysenate.gov/senators/michael-venditto" ]
+  },
+  "words" : [ "New", "Task", "Massapequa", "deceased", "Republican", "Shore", "Consumer", "Education", "Schmitt", "Michael", "Libraries", "First", "Legislator", "Protection", "Heroin", "J.", "Presiding", "committees", "replacing", ",", "comprises", "Island", ".", "elected", "ending", "Senate", "1981", "State", "Prior", "Crime", "served", "-RRB-", "8", "Long", "Higher", "District", "East", "June", "Nassau", "12th", "-LRB-", "beginning", "York", "Force", "serves", "Venditto", "Committee", "Labor", "Correction", "County", "represents", "member", "30", "Codes", "Judiciary", "Victims", "West", "born", "Baldwin", "South", "also", "Babylon", "Chairman", "2014", "Insurance", "well", "Peter", "Officer" ],
+  "adjectives" : [ "12th", "deceased", "First" ],
+  "nouns" : [ "Education", "Insurance", "Crime", "member", "Correction" ],
+  "text" : "Michael Venditto (born June 30, 1981 in Massapequa, New York) represents District 8 of the New York State Senate, which comprises the South Shore of Long Island beginning with Baldwin in the West and ending with West Babylon in the East. First elected in 2014, he serves as Chairman of the Consumer Protection Committee in the State Senate. Michael, a Republican, also serves on the Codes, Higher Education, Insurance, Judiciary, Labor, Libraries, and Crime Victims, Crime and Correction committees as well as a member of the Heroin Task Force. Prior to being elected to the State Senate Michael served as a Nassau County Legislator from the 12th District, replacing the deceased Presiding Officer Peter J. Schmitt. Michael began his career worked as an Attorney for the Town of Hempstead, New York. He resides in the hamlet of Massapequa with his wife and son. He is the son of Town of Oyster Bay, New York Supervisor John Venditto.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity5715",
+  "entityUrl" : "http://dbpedia.org/resource/Governor-General_of_Grenada",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "http://www.gov.gd/departments/governor_general.html/" ]
+  },
+  "words" : [ "country", "viceroys", "governors", "Queen", "United", "viceroy", "'s", "independence", "list", ",", "Governor-General", ".", "Grenada", "1974", "see", "Kingdom", "colonial", "List", "administrators", "since" ],
+  "adjectives" : [ ],
+  "nouns" : [ "country", "Queen", "colonial", "viceroy", "List", "independence", "list" ],
+  "text" : "The Governor-General of Grenada has been the viceroy of the Queen of Grenada since the country's independence from the United Kingdom in 1974. For a list of viceroys in Grenada before independence, see List of colonial governors and administrators of Grenada.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity5956",
+  "entityUrl" : "http://dbpedia.org/resource/Graham_Steele",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.grahamsteele.ca" ]
+  },
+  "words" : [ "New", "St", "Graham", "Law", "attend", "moved", "Fairview", "represented", "July", "Dalhousie", "Scholarship", "Assembly", "Economics", "Democratic", "B.A.", "degree", "House", "received", ",", "'s", "Steele", "former", ".", "Governor", "Silver", "1986", "graduating", "University", "graduated", "8", "-RRB-", "General", "Medal", "Philosophy", "-LRB-", "Manitoba", "Rhodes", "PPE", "Canadian", "Winnipeg", "School", "Party", "fall", "native", "Oxford", "lawyer", "2001-2013", "attended", "Scotia", "politician", "Nova", "Halifax", "Edmund", "1964", "constituency", "LL.B", "recipient", "Politics", "Hall" ],
+  "adjectives" : [ "Canadian", "recipient", "former" ],
+  "nouns" : [ "Silver", "constituency", "fall", "native", "politician", "LL.B", "degree", "Medal", "Scholarship", "lawyer" ],
+  "text" : "Graham Steele (July 8, 1964, Winnipeg, Manitoba) is a Canadian lawyer and former politician, having represented the constituency of Halifax Fairview in the Nova Scotia House of Assembly from 2001-2013 for the Nova Scotia New Democratic Party. A native of Winnipeg, Steele graduated with a B.A. from the University of Manitoba and was recipient of the Governor General's Silver Medal. Steele received a Rhodes Scholarship and attended St Edmund Hall, Oxford University graduating in 1986 with a degree in Philosophy, Politics, and Economics (PPE). Steele moved to Halifax in fall 1986 to attend Dalhousie Law School and graduated with an LL.B. in 1989. Steele practised law with Stewart McKelvey Stirling Scales in Halifax from 1989-1993 and was General Counsel to the Nova Scotia Workers Compensation Board from 1993-1998. Steele was Research Director for the Nova Scotia New Democratic Party's caucus office from 1998-2001. Steele has done workshops in Montenegro, Bosnia and Herzegovina, Kosovo and the Middle East for the National Democratic Institute for International Affairs. Steele is an Esperantist, having offered part of his legislative website in Esperanto, and has commemorated Nova Scotia Esperantists in the Nova Scotia House of Assembly.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity14359",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Lawlor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.peterlawlor.com.au" ]
+  },
+  "words" : [ "-LRB-", "Southport", "March", "Labor", "parliament", "Council", "Tourism", "Coast", "Party", "previously", "Trading", "term", "Ayr", "state", "Member", "councillor", "Minister", "Gold", "Fair", "born", "City", ",", "former", ".", "1", "Lawlor", "Australian", "State", "Prior", "served", "-RRB-", "Peter", "1948", "Parliament", "Queensland" ],
+  "adjectives" : [ "Australian", "former" ],
+  "nouns" : [ "term", "state", "parliament", "councillor" ],
+  "text" : "Peter Lawlor (born Ayr, Queensland 1 March 1948) is a former Australian Labor Party Member for Southport in the Queensland State Parliament. He served as Queensland Minister for Tourism and Fair Trading. Prior to his term in state parliament he previously served as a councillor on the Gold Coast City Council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity14381",
+  "entityUrl" : "http://dbpedia.org/resource/Pamela_Beidle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.pambeidle.com" ]
+  },
+  "words" : [ "Arundel", "-LRB-", "American", "serves", "2010", "Committee", "County", "two", "Council", "1st", "Pamela", "1951", "Party", "2006", "terms", "Beidle", "member", "July", "Anne", "Member", "32", "Environmental", "election", "Democratic", "born", "politician", "representing", "House", ",", "'s", "Matters", ".", "elected", "currently", "reelected", "2014", "Prior", "Graboski", "served", "-RRB-", "Delegates", "Maryland", "District", "21" ],
+  "adjectives" : [ "1st", "American" ],
+  "nouns" : [ "election", "politician", "member", "District" ],
+  "text" : "Pamela Graboski Beidle (born July 21, 1951) is an American politician from Maryland and a member of the Democratic Party. She was elected in 2006, and reelected in 2010 and 2014 to the Maryland House of Delegates, representing Maryland's District 32 in Anne Arundel County. She currently serves on the Environmental Matters Committee. Prior to her election in the Maryland House of Delegates, she served two terms as a County Council Member for the 1st District of Anne Arundel County. She is also the President of Beidle Insurance Agency located in Glen Burnie, Maryland and Hanover, Maryland. Beidle also serves as a bank director with the Arundel Federal Savings Bank. As a member of the House of Delegates, Delegate Beidle serves on the Environmental Matters committee, serving on theEnvironment, Housing and Real Property, and the Bi-County and Local Government sub-committees. Beidle is a graduate of Archbishop Spalding High School, 1969, Anne Arundel Community College, 1977 and Towson State University,1994. Pamela and her husband, Len live in Linthicum, Maryland. They have three grown children, Nicholas, Nathan, and Lyndsey. They also have two grandchildren.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity14382",
+  "entityUrl" : "http://dbpedia.org/resource/Papa_Owusu-Ankomah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "http://dbpedia.org/resource/Www.papaowusuankomah.com" ]
+  },
+  "words" : [ "Politiker", "Parlamentes", "-LRB-", "27", "John", "Sekondi", "ist", "ein", "Juli", "unter", "Er", "bis", "Sport", "2007", "des", "wurde", "1957", "für", "Minister", "Wissenschaft", "Amtsnachfolger", "Kufuor", "Owusu-Ankomah", "Agyekum", "Dominic", "Papa", "war", "*", "Ghana", "und", ",", ".", "April", "Hochschullehrer", "Jurist", "Mitglied", "Erziehung", "Präsident", "Fobih", "-RRB-" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Owusu-Ankomah", "Politiker", "wurde", "Papa", "war", "ist", "ein", "unter", "für", "Jurist", "Amtsnachfolger" ],
+  "text" : "Papa Owusu-Ankomah (* 27. April 1957, Sekondi, Ghana) ist ein Politiker, Hochschullehrer und Jurist in Ghana. Er ist Mitglied des Parlamentes und war unter Präsident John Agyekum Kufuor Minister für Erziehung, Wissenschaft und Sport bis Juli 2007. Amtsnachfolger wurde Dominic Fobih. Ankomah trat vom Amt zurück, um sich als Kandidat der New Patriotic Party (NPP) bei den Vorwahlen zu den Präsidentschaftsnominierungen stellen zu können.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "44_entity14543",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_McCarthy_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.sdlp.ie" ]
+  },
+  "words" : [ "Mayor", "city", "Labour", "Council", "nationalist", "MBE", "Sinn", "Party", "Belfast", "2006", "Northern", "member", "First", "Laganbank", "Social", "McCarthy", "mayor", "Democratic", "politician", "2001", "City", "Féin", ",", "'s", ".", "endorsed", "Irish", "chosen", "elected", "Lord", "Patrick", "council", "parties", "except", "fourth" ],
+  "adjectives" : [ "nationalist", "Northern", "First", "fourth", "Irish" ],
+  "nouns" : [ "city", "mayor", "council", "politician", "member" ],
+  "text" : "Patrick McCarthy MBE is a Northern Irish Social Democratic and Labour Party politician and member of Belfast City Council. First elected to the council in 2001 for Laganbank he was chosen as Lord Mayor of Belfast in 2006. McCarthy, the city's fourth nationalist mayor, was endorsed by all parties except Sinn Féin.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "45_entity14561",
+  "entityUrl" : "http://dbpedia.org/resource/Pratik_Prakashbapu_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "www.pratikpatil.com" ]
+  },
+  "words" : [ "Federal", "held", "प्रतीक", "पाटील", "Marathi", "political", "15th", "Sabha", "1973", "son", "National", "Coal", "Padmabhushan", "represented", "Minister", "minister", "&", "Lok", ".", "former", "August", "India", "Vasantraodada", "State", "Prakashbapu", "-RRB-", "9", ":", ";", "position", "party", "Congress", "-LRB-", "Sangli", "Union", "Pratik", "maharashtra", "member", "Maharashtra", "Loksabha", "grandson", "Government", "chief", "प्रकाशबापू", "born", "also", "Prakash-bapu", "INCP", "Patil", "constituency", "Indian" ],
+  "adjectives" : [ "chief", "Sangli", "political", "former", "15th" ],
+  "nouns" : [ "grandson", "minister", "पाटील", "Lok", "Prakash-bapu", "Sabha", "son", "constituency", "maharashtra", "member", "Padmabhushan", "position", "party" ],
+  "text" : "Pratik Prakashbapu Patil (Marathi: प्रतीक प्रकाशबापू पाटील; born 9 August 1973) was a member of the 15th Lok Sabha of India. He is son of former Loksabha member Prakash-bapu Patil & also grandson of former chief minister of maharashtra Padmabhushan Vasantraodada Patil . He represented the Sangli constituency of Maharashtra and is a member of the Indian National Congress (INCP) political party. He is held a position in the Indian Federal Government as the Union Minister of State for Coal. He was also a member of the 14th Lok Sabha from Sangli, Maharashtra.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "46_entity1377",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_J._Tata",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:website" : [ "http://www.ajtata.com/" ]
+  },
+  "words" : [ "Tony", "Pat", "-LRB-", "McCrory", "American", "Secretary", "Transportation", "subject", "United", "focuses", "matter", "years", "life", "teɪˈtə", "States", "2009", "Department", "retiring", "known", "North", "military", "Tata", "Army", "Anthony", "J.", "Brigadier", "twenty-eight", "Carolina", "fictional", "also", ",", "whose", ".", "A.J.", "/", "Governor", "Series", "2015", "served", "2013", "-RRB-", "General", "novelist", "Threat" ],
+  "adjectives" : [ "teɪˈtə", "American", "subject", "fictional", "military" ],
+  "nouns" : [ "novelist", "matter", "life" ],
+  "text" : "Brigadier General Anthony J. Tata, also known as Tony Tata and A.J. Tata (/teɪˈtə/), served as Secretary of the North Carolina Department of Transportation from 2013 to 2015 under Governor Pat McCrory. General Tata served in the United States Army for twenty-eight years before retiring in 2009. He is also an American novelist whose subject matter focuses on military life. Tata is most known for the fictional Threat Series.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,205 @@
+[ {
+  "entityIndex" : "1_entity7984",
+  "entityUrl" : "http://dbpedia.org/resource/Jules_Wijdenbosch",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Pretaap_Radhakishun" ]
+  },
+  "words" : [ "فيجدينبوش", "باراماريبو", "25بك", "Jules", "أي", "بمصادر", "بشكل", "،", "الدمقراطي", "التشكيك", "البير", "المحتوى", "من", "سورينامي", "بالحزب", "في", "ينقصه", "يمكن", ".", "موثوق", "الوطني", "هنا", "Wijdenbosch", "مايو", "2", "1941", "الذي", "خلال", "-RRB-", ":", "جول", "مواليد", "موثقة", "-LRB-", "سياسي", "عضو", "مارس", "السلطة", "معلومات", "الاستشهاد", "هو", "مطلق", "بالإنجليزية", "على", "وإزالتها", "سورينام", "2016", "يرجى", "سيطر", "غير", "الثمانينات", "مصادر", "إيراد", "بها" ],
+  "adjectives" : [ ],
+  "nouns" : [ "فيجدينبوش", "باراماريبو", "يرجى", "أي", "بمصادر", "في", "الثمانينات", "،", "وإزالتها", "مواليد" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) جول البير فيجدينبوش (بالإنجليزية: Jules Wijdenbosch) من مواليد (2 مايو 1941 في باراماريبو) هو سياسي سورينامي، عضو بالحزب الدمقراطي الوطني، الذي سيطر على السلطة بشكل مطلق في سورينام خلال الثمانينات. كان رئيسا للوزراء من عام 1987 حتى عام 1988 ، نائب للرئيس خلال الفترة من يناير 1991 و حتى سبتمبر 1991 و تولى الرئاسة من 1996 حتى 2000.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity9312",
+  "entityUrl" : "http://dbpedia.org/resource/Jared_Bernstein",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Joe_Biden" ]
+  },
+  "words" : [ "Policy", "Leiter", "Task", "-LRB-", "26", "Chief", "Force", "bei", "seit", "Bernstein", "ist", "ein", "den", "US-Vizepräsident", "Grad", "der", "2008", "des", "Institute", "Biden", "Welfare", "1992", "wurde", "Ökonom", "Ph.D.", "Dezember", "Jared", "hat", "US-amerikanischer", "1955", "Social", "Joe", "erworben", "Advisor", "*", "und", "er", ".", "Middle", "Economist", "Economic", "Columbia", "University", "-RRB-", "eines", "Class", "Mitarbeiter", "sowie" ],
+  "adjectives" : [ ],
+  "nouns" : [ "erworben", "seit", "und", "ist", "ein", "den", "er", "der", "wurde", "Ökonom", "hat", "US-amerikanischer", "sowie" ],
+  "text" : "Jared Bernstein (* 26. Dezember 1955) ist ein US-amerikanischer Ökonom und seit Dezember 2008 Chief Economist and Economic Policy Advisor bei US-Vizepräsident Joe Biden sowie Leiter der Middle Class Task Force. Bernstein hat den Grad eines Ph.D. in Social Welfare an der Columbia University erworben. 1992 wurde er Mitarbeiter des Economic Policy Institute. 1995 bis 1996 diente er als Deputy Chief Economist im Department of Labor unter Robert B. Reich. Als Wirtschaftsforscher beschäftigte Bernstein sich mit solchen Einzelaspekten der US-Volkswirtschaft wie Ungleichheit, Soziale Mobilität, Niedriglöhnen, Wirtschaftspolitik der US-Bundesregierung sowie der Bundesstaaten einschließlich internationaler Vergleiche. Er ist über acht Auflagen hinweg Mitautor von The State of Working America. Er veröffentlichte Beiträge in der New York Times, Washington Post und The American Prospect sowie Beiträge für den Rundfunksender CNBC. Seine letzten Bücher sind betitelt All Together Now: Common Sense for a Fair Economy und Crunch: Why Do I Feel So Squeezed? (And Other Unsolved Economic Mysteries).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity9366",
+  "entityUrl" : "http://dbpedia.org/resource/John_Fischer_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Frank_Hough" ]
+  },
+  "words" : [ "-LRB-", "Fischer", "Australian", "born", "politician", "John", "-RRB-", "1947", "former", "." ],
+  "adjectives" : [ "Australian", "former" ],
+  "nouns" : [ "politician" ],
+  "text" : "John Fischer (born 1947) is a former Australian politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity10204",
+  "entityUrl" : "http://dbpedia.org/resource/Johan_Kraag",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Jules_Wijdenbosch" ]
+  },
+  "words" : [ "موثقة", "-LRB-", "25بك", "صامويل", "أي", "بمصادر", "بيتروس", "التشكيك", "المحتوى", "مارس", "رئيس", "معلومات", "الخامس", "الاستشهاد", "هو", "ينقصه", "يمكن", "وإزالتها", ".", "موثوق", "هنا", "كراغ", "سورينام", "2016", "يرجى", "-RRB-", "غير", "مصادر", "يوهانس", "إيراد", "بها" ],
+  "adjectives" : [ ],
+  "nouns" : [ "هو", "يرجى", "أي", "الخامس", "بمصادر", "وإزالتها" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) يوهانس صامويل بيتروس كراغ هو رئيس سورينام الخامس. شغل عده مناصب وزارية خلال ستينات القرن العشرين، كان عضواً في الحزب الوطني السورينامي.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity4771",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Alexander_(press_secretary)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Joe_Biden" ]
+  },
+  "words" : [ "country", "Previously", "United", "office", "campaigns", "Biden", "UN", "Foundation", "press", "Joe", "began", "Communications", "Director", "Carolina", "Relations", ",", "Nations", "'s", ".", "Senate", "Elizabeth", "served", "creating", "campaign", "Gephardt", "Press", "primary", "Alexander", "Secretary", "Terry", "media", "Committee", "around", "highlight", "general", "2006", "world", "secretary", "2004", "McAuliffe", "causes", "working", "Foreign", "election", "South", "Dick", "Chairman", "Evans", "Rep.", "DNC", "traveled", "first" ],
+  "adjectives" : [ "general", "primary" ],
+  "nouns" : [ "country", "world", "election", "secretary", "campaign", "office", "press" ],
+  "text" : "Elizabeth Evans Alexander began working for Joe Biden in 2006, first as Press Secretary and then as Communications Director in his Senate office and for the Senate Foreign Relations Committee. Previously, Alexander served as Press Secretary for the United Nations Foundation, creating media campaigns to highlight UN causes around the world. During the 2004 general election campaign, she traveled the country as DNC Chairman Terry McAuliffe's press secretary. During the 2004 primary campaign, she served as Rep. Dick Gephardt's South Carolina press secretary. Prior, Alexander was Rep. Adam Schiff's (D-CA) Communications Director and Deputy Press Secretary for U.S. Senator Chuck Schumer (D-NY). In May 2011, Vice President Biden announced that Elizabeth Alexander would soon leave his office to practice law. Alexander is from Cleburne, Texas, and graduated with a bachelor's degree in Political Science from Texas A&M University.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity18606",
+  "entityUrl" : "http://dbpedia.org/resource/William_Kristol",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Dan_Quayle" ]
+  },
+  "words" : [ "23", "New", "neoconservative", "conservative", "-LRB-", "prominent", "American", "several", "political", "Standard", "networks", "number", "1997", "December", "1952", "commentator", "2005", "Weekly", "tanks", "editor", "think", "founder", "born", "Citizenship", "chairman", "William", ",", ".", "Project", "associated", "-RRB-", "Kristol", "analyst", "magazine" ],
+  "adjectives" : [ "neoconservative", "conservative", "prominent", "American", "several", "political" ],
+  "nouns" : [ "editor", "number", "think", "commentator", "founder", "analyst", "chairman", "magazine" ],
+  "text" : "William Kristol (born December 23, 1952) is an American neoconservative political analyst and commentator. He is the founder and editor of the political magazine The Weekly Standard and a political commentator on several networks. Kristol is associated with a number of prominent conservative think tanks. He was chairman of the New Citizenship Project from 1997 to 2005. In 1997, he co-founded the Project for the New American Century (PNAC) with Robert Kagan. He is a member of the board of trustees for the free-market Manhattan Institute for Policy Research, a member of the Policy Advisory Board for the Ethics and Public Policy Center, and a director of the Foreign Policy Initiative. He is also one of the three board members of Keep America Safe, a think tank co-founded by Liz Cheney and Debra Burlingame, and serves on the board of the Emergency Committee for Israel and the Susan B. Anthony List.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity2493",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Burson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Al_Gore" ]
+  },
+  "words" : [ "became", "decade", "Chief", "almost", "year", "Tennessee", "Staff", "United", "Al", "Josie", "serving", "States", "President", "1997", "son", "Wainman", "Burson", "legal", "Gore", "Kumiki", "Vice", "February", "1999", "resigned", "Charles", "counsel", "replacing", "Gibson", "'s", ",", ".", "August", "Ron", "Klain", "Leo", "General", "position", "assumed", "Attorney" ],
+  "adjectives" : [ "legal" ],
+  "nouns" : [ "counsel", "decade", "son", "year", "position" ],
+  "text" : "Charles Wainman Burson was a legal counsel and Chief of Staff to the Vice President of the United States under Al Gore. He assumed the position of legal counsel from Kumiki Gibson in February 1997 after serving almost a decade as Tennessee Attorney General. In 1999 Charles Burson became Gore's Chief of Staff, replacing Ron Klain who resigned in August of that year. Burson is the son of Josie Burson and Leo Burson. He grew up in Shelby County, Tennessee, where he graduated from Central High School in Memphis in 1962. Burson received his Bachelor of Arts in political science from the University of Michigan, his Master of Arts from the University of Cambridge, and his J.D. from Harvard Law School. Burson was a friend of Gore for over three decades at the time of his appointment as Chief of Staff to the Vice President of the United States. Charles Burson first became friends with the future Vice President in 1968 during the time Gore was studying Tennessee history at Memphis State University. In 1984 he was the chairman of Gore's senatorial campaign. This continued a family tradition of involvement with the Gores. Burson's parents were active in Tennessee Democratic politics, and his mother had held a position in Albert Gore Sr.'s senatorial campaign in 1958. Before joining the White House, Charles Burson held a variety of public and private roles. From 1970 until 1988, he worked in private practice as a lawyer. He briefly flirted with active politics in the 1978 when he lost a race to Republican Ed Williams for the East Memphis seat in the Tennessee House of Representatives. In 1988 he was appointed the Tennessee Attorney General. In this capacity, Burson served on a number of public legal bodies. He was a member of the Tennessee Board of Law Examiners, of the Tennessee Code Commission and of the Commission on the Future of the Judicial System. Burson also represented the state several times before the Supreme Court of the United States. One notable case he argued was Burson v. Freeman, which established a state's ability to regulate election advertising on voting day. After his time in the White House, Burson served as Executive Vice President and General Counsel to the global agribusiness corporation, Monsanto. Burson is married to Bunny Burson and has two daughters, Clare and Kate. He presently resides in St. Louis, Missouri, teaches at the Washington University School of Law and is of counsel to the St. Louis law firm Bryan Cave.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity18168",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Brindle_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/John_Archer_(politician)", "http://dbpedia.org/resource/Jim_Thorn" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "stood", "March", "Labour", "conscription", "Representatives", "Council", "jailed", "times", "Party", "speaking", "1950", "member", "1936", "five", "early", "1878", "November", "Wellington", "Thomas", "''", "--", "activist", "election", "19", "WWI", "House", "City", ".", "Zealand", "Tom", "Brindle", "-RRB-", "Legislative", "British-born" ],
+  "adjectives" : [ "Legislative", "British-born", "early" ],
+  "nouns" : [ "activist", "election", "member", "conscription" ],
+  "text" : "Thomas \"Tom\" Brindle (1878 – 19 November 1950) was a British-born early activist for the New Zealand Labour Party who was jailed during WWI for speaking out against conscription. He was a member of Wellington City Council and stood for election to the House of Representatives five times. He was a member of the Legislative Council from 1936 until March 1950.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity4328",
+  "entityUrl" : "http://dbpedia.org/resource/Deeq_Sulaiman_Yusuf",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Abdihakim_Abdullahi_Haji_Omar" ]
+  },
+  "words" : [ "Dr.", "-LRB-", "Sulaiman", "Somalia", "northeastern", "autonomous", "Presidential", "Arabic", "Yusuf", "يوسف", "Palace", "politician", "الديك", "Director", ",", "Deeq", "Yuusuf", ".", "سليمان", "Puntland", "-RRB-", ":", "Somali", "region", "Sulaymaan" ],
+  "adjectives" : [ "northeastern", "autonomous", "Somali" ],
+  "nouns" : [ "Palace", "politician", "يوسف", "Director", "region" ],
+  "text" : "Dr. Deeq Sulaiman Yusuf (Somali: Deeq Sulaymaan Yuusuf, Arabic: الديك سليمان يوسف‎‎) is a Somali politician. He is the Director of the Presidential Palace of the autonomous Puntland region in northeastern Somalia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity16507",
+  "entityUrl" : "http://dbpedia.org/resource/Scooter_Libby",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Dick_Cheney" ]
+  },
+  "words" : [ "عمل", "له", "25بك", "أي", "بمصادر", "الأميركي", "التشكيك", "و2005", "المحتوى", "بشهادة", "منصبه", "ولاحقا", "حيث", "لمكتب", "من", "استقال", "2001", "ينقصه", "يمكن", ".", "موثوق", "الرئيس", "هنا", "-RRB-", "السابق", "ديك", "22", "موثقة", "-LRB-", "تشيني", "الإدلاء", "كاذبة", "وعرقلة", "نائب", "سكوتر", "1950", "مارس", "باسم", "وجهت", "معلومات", "أتهامات", "القضاء", "ليبي", "لويس", "الملقب", "عامي", "الاستشهاد", "اغسطس", "وإزالتها", "بتهمة", "المدير", "بين", "2016", "يرجى", "غير", "مصادر", "إيراد", "بها" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "سكوتر", "له", "يرجى", "أي", "القضاء", "بمصادر", "وإزالتها" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) لويس ليبي (الملقب باسم سكوتر) (22 اغسطس 1950) المدير السابق لمكتب نائب الرئيس الأميركي ديك تشيني بين عامي 2001 و2005 حيث استقال من منصبه ولاحقا وجهت له أتهامات بتهمة الإدلاء بشهادة كاذبة وعرقلة عمل القضاء.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity17022",
+  "entityUrl" : "http://dbpedia.org/resource/Sudafi_Henry",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Joe_Biden" ]
+  },
+  "words" : [ "Policy", "passage", "United", "Steny", "focus", "leaders", "experience", "years", "States", "President", "Biden", "group", "10", "Joe", "closely", "including", "crisis", "work", "Director", "House", "particular", ",", "former", ".", "Senior", "crafting", "served", "-RRB-", "S.", "Members", "Congress", "Sudafi", "-LRB-", "Hill", "Leader", "critical", "financial", "pending", "telecommunications", "current", "previously", "Cleaver", "D-MO", "leadership", "working", "Capitol", "Counsel", "liaison", "Vice", "Henry", "Majority", "D-MD", "legislation", "policy", "Emanuel", "committee", "Affairs", "winning", "business", "Advisor", "staff", "also", "Reps.", "D-NY", "Owens", "trade", "Major", "matters", "constituency", "Hoyer", "Rep.", "Legislative", "responses", "experts", "economic" ],
+  "adjectives" : [ "current", "critical", "financial", "Legislative", "particular", "former", "economic" ],
+  "nouns" : [ "committee", "passage", "crisis", "business", "work", "Director", "focus", "staff", "experience", "trade", "constituency", "leadership", "liaison", "legislation", "policy", "group" ],
+  "text" : "Sudafi S. Henry is the former Director of Legislative Affairs for Joe Biden, the Vice President of the United States. Henry was previously Counsel and Senior Policy Advisor for House Majority Leader Steny Hoyer (D-MD), working closely with Congress, leadership staff and committee staff on crafting and winning passage of critical legislation, with a particular focus on trade, telecommunications, economic matters and responses to the current financial crisis. Henry has also served as a liaison for Rep. Hoyer to policy experts, business leaders, and constituency group leaders on pending legislation. Henry has more than 10 years of experience on Capitol Hill, including his work for Reps. Major Owens (D-NY) and Emanuel Cleaver (D-MO) as the Legislative Director for both Members. A native of Los Angeles, California, Henry received a B.A. from the University of Maryland at College Park and a J.D. from George Washington University Law School, and is a member of the Maryland bar.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity17267",
+  "entityUrl" : "http://dbpedia.org/resource/Shire_Haji_Farah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Abdihakim_Abdullahi_Haji_Omar" ]
+  },
+  "words" : [ "-LRB-", "Shire", "شيري", "فرح", "Relations", ",", "entrepreneur", ".", "Xaaji", "Arabic", "Faarax", "Farah", "Puntland", "-RRB-", "Haji", ":", "Planning", "Somali", "حاجي", "Minister", "International" ],
+  "adjectives" : [ "Somali" ],
+  "nouns" : [ "فرح", "entrepreneur" ],
+  "text" : "Shire Haji Farah (Somali: Shire Xaaji Faarax, Arabic: شيري حاجي فرح‎‎) is a Somali entrepreneur. He is the Minister of Planning and International Relations of Puntland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity5695",
+  "entityUrl" : "http://dbpedia.org/resource/Gus_Hall",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Angela_Davis", "http://dbpedia.org/resource/Jarvis_Tyner" ]
+  },
+  "words" : [ "``", "leader", "smaller", "CPUSA", "nation", "release", "led", "years", "Communist", "Marxist", "1937", "prison", "orthodox", "--", "13", "closely", "Gus", "Scare", "Smith", "2000", "often", ",", "'s", ".", "labor", "Leninist", "8", "-RRB-", "Little", ";", "presidential", "steel", "-LRB-", "regional", "effort", "four-time", "Halberg", "eight", "1910", "October", "candidate", "Party", "U.S.", "Arvo", "sentenced", "indicted", "so-called", "''", "USA", "manufacturers", "born", "Strike", "Kustaa", "chairman", "Steel", "Red", "Act", "Second", "unionize", "associated", "Hall", "40", "stance", "taking" ],
+  "adjectives" : [ "Marxist", "regional", "presidential", "four-time", "so-called", "orthodox", "Leninist" ],
+  "nouns" : [ "leader", "steel", "candidate", "nation", "release", "Strike", "chairman", "effort", "Hall", "prison", "stance", "labor" ],
+  "text" : "Gus Hall (born Arvo Kustaa Halberg; October 8, 1910 – October 13, 2000) was a leader and chairman of the Communist Party USA (CPUSA) and its four-time U.S. presidential candidate. As a labor leader, Hall was closely associated with the so-called \"Little Steel\" Strike of 1937, an effort to unionize the nation's smaller, regional steel manufacturers. During the Second Red Scare, Hall was indicted under the Smith Act and was sentenced to eight years in prison. After his release, Hall led the CPUSA for over 40 years, often taking an orthodox Marxist–Leninist stance.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity154",
+  "entityUrl" : "http://dbpedia.org/resource/Alfredo_Palacio",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Alejandro_Serrano" ]
+  },
+  "words" : [ "22", "موثقة", "-LRB-", "يناير", "25بك", "أي", "بمصادر", "الأسبق", "،", "التشكيك", "المحتوى", "ألفريدو", "رئيس", "معلومات", "1939", "الاستشهاد", "الإكوادور", "فبراير", "بالاسيو", "ينقصه", "يمكن", "وإزالتها", "-", ".", "موثوق", "هنا", "2016", "يرجى", "-RRB-", "غير", "مصادر", "إيراد", "بها" ],
+  "adjectives" : [ ],
+  "nouns" : [ "يرجى", "أي", "بمصادر", "الأسبق", "وإزالتها" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) ألفريدو بالاسيو (22 يناير 1939 - ) ، رئيس الإكوادور الأسبق. ولد بمدينة غواياكيول. تولى رئاسة الإكوادور في 20 أبريل 2005 إلى 15 يناير 2007.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity380",
+  "entityUrl" : "http://dbpedia.org/resource/Abdirahman_Jama_Barre",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Muhammad_Ali_Samatar" ]
+  },
+  "words" : [ "-LRB-", "Prime", "Jama", "Somalia", "Republic", "1st", "Arabic", "later", "Cabdiraxmaan", "عبد", "1937", "Minister", "Foreign", "Affairs", "Democratic", "Finance", "Deputy", "born", "politician", "Barre", "جامع", "also", "Abdirahman", ",", "Jaamac", "الرحمن", ".", "twice", "بري", "served", "-RRB-", ":", "Somali" ],
+  "adjectives" : [ "1st", "Somali" ],
+  "nouns" : [ "بري", "politician" ],
+  "text" : "Abdirahman Jama Barre (Somali: Cabdiraxmaan Jaamac Barre, Arabic: عبد الرحمن جامع بري‎‎) (born 1937) is a Somali politician. He twice served as the Minister of Foreign Affairs of the Somali Democratic Republic, and later as the Minister of Finance. He was also the 1st Deputy Prime Minister of Somalia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity1500",
+  "entityUrl" : "http://dbpedia.org/resource/Ali_Haji_Warsame",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Abdihakim_Abdullahi_Haji_Omar" ]
+  },
+  "words" : [ "-LRB-", "accountant", "Chief", "حاج", "Port", "Somalia", "Golis", "Arabic", "later", "Education", "Minister", "ورسمه", "Executive", "Cali", "Bosaso", "علي", "politician", "Director", "Management", ",", "Warsame", "entrepreneur", ".", "appointed", "Telecom", "Xaaji", "professor", "2014", "served", "Puntland", "-RRB-", "Haji", ":", "Somali", "first", "Ali", "Officer" ],
+  "adjectives" : [ "Cali", "Somali", "first" ],
+  "nouns" : [ "ورسمه", "professor", "accountant", "politician", "Director", "Management", "entrepreneur" ],
+  "text" : "Ali Haji Warsame (Somali: Cali Xaaji Warsame, Arabic: علي حاج ورسمه‎‎) is a Somali entrepreneur, accountant, professor and politician. He served as the first Director of Management at the Port of Bosaso, and later as the Chief Executive Officer of Golis Telecom Somalia. In 2014, he was appointed the Minister of Education of Puntland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity1534",
+  "entityUrl" : "http://dbpedia.org/resource/Anisa_Hajimumin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Abdihakim_Abdullahi_Haji_Omar" ]
+  },
+  "words" : [ "المؤمن", "-LRB-", "American", "Anisa", "أنيسة", "Cabdulqaadir", "Arabic", "Hajimumin", "حاجي", "1978", "Minister", "November", "activist", "Women", "Affairs", "social", "&", "born", "politician", ",", "Xaajimuumin", ".", "Puntland", "-RRB-", "Family", ":", "writer", "Somali", "Abdulkadir", "20" ],
+  "adjectives" : [ "American", "social", "Somali" ],
+  "nouns" : [ "المؤمن", "activist", "politician", "writer" ],
+  "text" : "Anisa Abdulkadir Hajimumin (Somali: Anisa Cabdulqaadir Xaajimuumin, Arabic: أنيسة حاجي المؤمن‎‎) (born November 20, 1978) is a Somali American politician, social activist and writer. She is the Minister of Women & Family Affairs of Puntland.",
+  "patterns" : { }
+} ]

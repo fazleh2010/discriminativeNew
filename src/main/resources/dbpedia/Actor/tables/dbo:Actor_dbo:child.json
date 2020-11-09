@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "1_entity14245",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Maynard",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:child" : [ "http://dbpedia.org/resource/Hannah_Waterman" ]
+  },
+  "words" : [ "-LRB-", "circuit", "Patricia", "Dennis", "Maynard", "England", "Griggs", "two", "second", "daughters", "judge", "February", "actress", "British", "16", "wife", "West", "born", "one", "Hannah", "South", ",", ".", "actor", "1942", "Jeremy", "-RRB-", "Waterman", "married" ],
+  "adjectives" : [ "British", "second" ],
+  "nouns" : [ "actor", "actress", "circuit", "wife", "judge" ],
+  "text" : "Patricia Maynard (born 16 February 1942) is a British actress. She was the second wife of actor Dennis Waterman, and they have two daughters, one of whom is the actress Hannah Waterman. She is now married to Jeremy Griggs, a circuit judge in the South West of England."
+}, {
+  "entityIndex" : "2_entity14263",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Lindgren_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:child" : [ "http://dbpedia.org/resource/Monica_Nielsen" ]
+  },
+  "words" : [ "``", "Lidingö", "-LRB-", "role", "May", "Curious", "Edvin", "roles", "part", "father", "Lindgren", "16th", "Swedish", "Nielsen", "December", "award", "won", "Actor", "1915", "Best", "Guldbagge", "30", "--", "''", "include", "actress", "13", "Blue", "Lena", ",", "many", "'s", ".", "Monica", "actor", "Awards", "Yellow", "1981", "-RRB-", "Peter", "Marianne", "Maria", "1968", "1967" ],
+  "adjectives" : [ "Curious", "Yellow", "Blue", "many", "16th", "Swedish" ],
+  "nouns" : [ "actor", "actress", "award", "role", "part", "father", "Actor" ],
+  "text" : "Peter Edvin Lindgren (13 December 1915, Lidingö – 30 May 1981) was a Swedish actor. His many roles include the part of \"Lena's father\" in I Am Curious (Yellow) (1967) and I Am Curious (Blue) (1968). He won the award for Best Actor at the 16th Guldbagge Awards for his role in I Am Maria. He was the father (with actress Marianne Nielsen) of actress Monica Nielsen."
+}, {
+  "entityIndex" : "3_entity11086",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Miller_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:child" : [ "http://dbpedia.org/resource/Sadie_Miller" ]
+  },
+  "words" : [ "``", "Wiston", "Blake", "Mr.", "episode", "tramp", "appeared", "Breath", "Brazil", "Angels", "Trial", "Dugdale", "17", "voices", "Remembrance", "Davros", "Buttle", "film", ",", "Deep", "'s", "Daleks", "April", ".", "Brian", "1941", "1985", "1984", "1983", "Miller", "7", "-RRB-", "Gilliam", "Bill", "playing", "appearing", "Dalek", "1988", "providing", "-LRB-", "role", "production", "Terry", "Resurrection", "Reginald", "2005", "Casualty", "Horizon", "Snakedance", "''", "include", "British", "Barney", "television", "born", "Doctor", "performed", "played", "actor", "stage", "serial", "various", "2014", "series", "productions" ],
+  "adjectives" : [ "British", "various", "Deep" ],
+  "nouns" : [ "role", "Trial", "production", "television", "Remembrance", "episode", "film", "actor", "tramp", "Resurrection", "stage", "serial", "Breath", "series", "Snakedance" ],
+  "text" : "Brian Reginald Miller (born 17 April 1941) is a British actor. He has performed in various Doctor Who productions, appearing as Dugdale in the serial Snakedance (1983), providing Dalek voices in Resurrection of the Daleks (1984) and Remembrance of the Daleks (1988), playing the role of Wiston in the 2005 stage production of The Trial of Davros, and playing the tramp Barney in the 2014 episode \"Deep Breath\". Miller played Mr. Buttle in Terry Gilliam's 1985 film Brazil. Other television series in which he has appeared include Blake's 7 (in the episode \"Horizon\"), The Bill, Angels and Casualty. On 8 June 1968, Miller married actress Elisabeth Sladen in Liverpool. 5 years later, Sladen took on the role of Sarah Jane Smith, a long-term Companion on Doctor Who, though her performance on the show did not overlap with the episodes Miller took part in. Their marriage lasted until her death on 19 April 2011. After the departure of his wife from Doctor Who, they returned to Liverpool and performed in a series of plays. This included a two-person production with Sladen in Mooney and his Caravans. A notable TV appearance was Miller playing the husband of Sladen in the ITV drama Send In The Girls. Miller and their daughter, Sadie Miller, performed with Sladen in a number of Sarah Jane Smith audio plays, released by Big Finish Productions. Miller appeared alongside his wife in the The Sarah Jane Adventures, as Harry the caretaker in the serial \"The Mad Woman in the Attic\" (2009). He has an occasional role in the radio serial The Archers as Jason the builder. More recently, Miller briefly played Cliff Pughes in Coronation Street and Mark in Wizards vs Aliens."
+}, {
+  "entityIndex" : "4_entity11167",
+  "entityUrl" : "http://dbpedia.org/resource/Britta_Holmberg",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:child" : [ "http://dbpedia.org/resource/Lena_Olin" ]
+  },
+  "words" : [ "Holmberg", "June", "-LRB-", "Olin", "sometimes", "eventually", "Swedish", "mother", "December", "appeared", "1973", "2004", "Britta", "divorced", "--", "actress", "films", "Alice", "18", "Lena", "film", ",", ".", "1921", "actor", "1942", "3", "-RRB-", "Stig", "Holmberg-Olin", "married", "credited", "21" ],
+  "adjectives" : [ "Swedish" ],
+  "nouns" : [ "actor", "actress", "mother", "film" ],
+  "text" : "Britta Holmberg, Britta Alice Holmberg (21 December 1921 – 3 June 2004), was a Swedish film actress. She appeared in 18 films between 1942 and 1973. She was married to actor Stig Olin (they eventually divorced), and is the mother of actress Lena Olin. She has sometimes been credited as Britta Olin, or Britta Holmberg-Olin."
+}, {
+  "entityIndex" : "5_entity14234",
+  "entityUrl" : "http://dbpedia.org/resource/Olof_Thunberg",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:child" : [ "http://dbpedia.org/resource/Svante_Thunberg" ]
+  },
+  "words" : [ "-LRB-", "May", "director", "born", "Thunberg", "Fritz", ".", "Swedish", "actor", "Olof", "-RRB-", "1925", "21" ],
+  "adjectives" : [ "Olof", "Swedish" ],
+  "nouns" : [ "actor", "director" ],
+  "text" : "Olof Fritz Thunberg (born 21 May 1925) is a Swedish actor and director."
+}, {
+  "entityIndex" : "6_entity11911",
+  "entityUrl" : "http://dbpedia.org/resource/Fylgia_Zadig",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:child" : [ "http://dbpedia.org/resource/Klas_Eklund" ]
+  },
+  "words" : [ "-LRB-", "stadsteater", "September", "teatern", "city", "numerous", "roles", "Fylgia", "Bengt", "Malmö", "Sigge", "Swedish", "employed", "theatre", "Eklund", "Klas", "Ester", "mother", "Fredrik", "1994", "Nya", "November", "actress", "films", "economist", "grandmother", "Uppsala", "estate", "real", ",", "broker", "-", ".", "Stockholm", "1921", "actor", "3", "Born", "-RRB-", "Zadig", "novelist", "married" ],
+  "adjectives" : [ "numerous", "real", "Swedish" ],
+  "nouns" : [ "theatre", "actor", "actress", "mother", "stadsteater", "economist", "teatern", "city", "grandmother", "estate", "novelist", "broker" ],
+  "text" : "Fylgia Ester Zadig (3 November 1921 - 3 September 1994) was a Swedish actress. Born in Malmö, Zadig was employed with the Uppsala stadsteater (Uppsala city theatre) and the Nya teatern in Stockholm. She had roles in numerous Swedish films. She was married to actor Bengt Eklund and is the mother of economist Klas Eklund and grandmother to novelist Sigge Eklund and real estate broker Fredrik Eklund."
+}, {
+  "entityIndex" : "7_entity13881",
+  "entityUrl" : "http://dbpedia.org/resource/Malin_Ek",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:child" : [ "http://dbpedia.org/resource/Elin_Klinga" ]
+  },
+  "words" : [ "-LRB-", "role", "choreographer", "Ek", "laureate", "2010", "Malmö", "19th", "Swedish", "award", "1971", "won", "Cullberg", "Birgit", "Best", "Guldbagge", "actress", "born", "18", "Anders", "Mamma", "O'Neill", "film", "April", ".", "actor", "Awards", "stage", "Award", "Malin", "-RRB-", "Actress", "Eugene", "daughter", "1945" ],
+  "adjectives" : [ "19th", "Swedish" ],
+  "nouns" : [ "actor", "actress", "award", "role", "stage", "choreographer", "Award", "laureate", "Actress", "Malmö", "film", "daughter" ],
+  "text" : "Malin Ek (born 18 April 1945 in Malmö) is a Swedish stage and film actress. She won the Eugene O'Neill Award in 2010. She is the daughter of actor Anders Ek (the 1971 O'Neill Award laureate) and choreographer Birgit Cullberg. She won the award for Best Actress at the 19th Guldbagge Awards for her role in Mamma. She won again in 1985 for her role in False as Water. She won it for a third time at the 26th Guldbagge Awards for her role in The Guardian Angel."
+}, {
+  "entityIndex" : "8_entity12662",
+  "entityUrl" : "http://dbpedia.org/resource/Julia_Foster",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:child" : [ "http://dbpedia.org/resource/Ben_Fogle" ]
+  },
+  "words" : [ "celebrity", "-LSB-", "-LRB-", "singer", "screen", "husband", "Lionel", "second", "pop", "mother", "Morton", "Fogle", "band", "1960s", "Sussex", "actress", "British", "16", "television", "born", "Four", "Ben", ",", "'s", ".", "lead", "August", "Pennies", "Julia", "1943", "Bruce", "English", "Foster", "2", "Lewes", "stage", "Born", "veterinarian", "-RRB-", "-RSB-", "first" ],
+  "adjectives" : [ "English", "British", "first", "second" ],
+  "nouns" : [ "pop", "actress", "mother", "celebrity", "stage", "singer", "television", "veterinarian", "screen", "husband", "band", "lead" ],
+  "text" : "Julia Foster (born 2 August 1943) is an English stage, screen and television actress. Born in Lewes, Sussex. Foster's first husband was Lionel Morton, once the lead singer with the 1960s pop band The Four Pennies[16]. She is the mother of British television celebrity Ben Fogle with her second husband, veterinarian Bruce Fogle. Foster also built up her own antique furniture business.[17]. Foster's credits include the films The System (1964) with Oliver Reed, The Bargee (1964) with Harry H. Corbett, Alfie (1966) with Michael Caine, Half a Sixpence (1967) with Tommy Steele, and Percy (1971) with Hywel Bennett. On television, in 1969, she appeared in the second episode of series 1 of the Doctor in the House (TV series) She also starred as the eponymous heroine in the BBC production of Moll Flanders (1975) and also appeared alongside John Stride in the Yorkshire Television series Wilde Alliance in 1978. Additionally she appeared with Michael Winner in a British TV advert for Esure car insurance. She played Queen Margaret of Anjou in the BBC Television Shakespeare adaptations of Henry VI, Part 1 Henry VI, Part 2 and The Tragedy of Richard III, which received its UK broadcast in January 1983. After her stage debut with the Brighton Repertory Theatre, Foster made her London debut in Travelling Light in 1965 at the Prince of Wales Theatre, she has since appeared in several London stage productions, including at The Globe Theatre, Lyric Theatre (Hammersmith), Queens Theatre, Criterion Theatre, King's Head Theatre, Royal Court Theatre, Apollo Theatre, New End Theatre, also in the UK at the Nottingham Playhouse, New Theatre, Oxford, Birmingham Repertory Company and the Citizens Theatre, Glasgow. In 1967 Foster appeared on Juke Box Jury, in 1971 on Call My Bluff and in 1976 was the subject of Desert Island Discs."
+} ]

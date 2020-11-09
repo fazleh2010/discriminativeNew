@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity14500",
+  "entityUrl" : "http://dbpedia.org/resource/Cooee,_Tasmania",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:nearNe" : [ "http://dbpedia.org/resource/Bass_Strait" ]
+  },
+  "words" : [ "small", "dormitory", "2011", "north-west", "immediately", "Burnie", "Super", "west", "559", "North", "town", "Tasmania", "West", "Cooee", "GP", ",", ".", "population", "Clinic", "coast", "Pathology", "effect", "census", "pharmacy", "suburb", "located", "well" ],
+  "adjectives" : [ "small", "located", "north-west", "North" ],
+  "nouns" : [ "coast", "town", "effect", "dormitory", "census", "west", "pharmacy", "suburb", "GP", "population" ],
+  "text" : "Cooee is a small town on the north-west coast of Tasmania immediately west of Burnie, to which it is in effect a dormitory suburb. At the 2011 census, Cooee had a population of 559. The Burnie GP Super Clinic is located in Cooee as well as a pharmacy and North West Pathology."
+} ]

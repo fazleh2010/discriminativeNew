@@ -1,0 +1,727 @@
+[ {
+  "entityIndex" : "1_entity25713",
+  "entityUrl" : "http://dbpedia.org/resource/Rehman_Town,_Islamabad",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "200" ]
+  },
+  "words" : [ "mostly", "private", "-LRB-", "portion", "H", "رحمان", "parks", "National", "major", "Town", "Sciences", "Technology", "school", "hospital", "sector", "covers", "new", "dedicated", "sectors", "educational", "town", "Urdu", "Sector", "H-12", "Rehman", "H-15", "health", ",", "Islamabad", ".", "institutions", "University", "-RRB-", "ٹاؤن", ":", "facilities" ],
+  "adjectives" : [ "new", "private", "educational", "major" ],
+  "nouns" : [ "town", "school", "portion", "H-12", "H", "health", "hospital", "sector" ],
+  "text" : "Rehman Town (Urdu:  رحمان ٹاؤن‎) is a new town in the H-15 Sector of Islamabad. The H sectors of Islamabad are mostly dedicated to educational and health institutions. National University of Sciences and Technology covers a major portion of sector H-12. It has a private school, hospital, parks and other facilities. It is near the Chowk and Kashmir highway and the Daewoo Pakistan bus stop.."
+}, {
+  "entityIndex" : "2_entity28826",
+  "entityUrl" : "http://dbpedia.org/resource/Varsity_View,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "duplexes", "mostly", "south", "immediately", "units", "subdivision", "2007", "central", "suburban", "mixture", "neighbourhood", "older", "near", "area", "campus", "Saskatoon", "comprising", "dwellings", "Saskatchewan", "low-density", ",", "View", "apartment-style", ".", "home", "single", "detached", "Canada", "residential", "University", "Varsity", "located", "residents", "3,611" ],
+  "adjectives" : [ "single", "residential", "central", "suburban", "located", "apartment-style" ],
+  "nouns" : [ "area", "subdivision", "mixture", "neighbourhood", "campus", "low-density", "home" ],
+  "text" : "Varsity View is a mostly residential neighbourhood located near central Saskatoon, Saskatchewan, Canada. It is immediately south of the University of Saskatchewan campus. It is an older suburban subdivision, comprising a mixture of low-density, single detached dwellings, detached duplexes and apartment-style units. As of 2007, the area is home to 3,611 residents. The neighbourhood is considered a middle-income area, with an average family income of $50,587, an average dwelling value of $284,710 and a home ownership rate of 38.7%. Its proximity to the university gives this area its relatively high student population, almost 25% in 2005.According to MLS data, the average sale price of a home as of 2013 was $402,332."
+}, {
+  "entityIndex" : "3_entity28865",
+  "entityUrl" : "http://dbpedia.org/resource/Villa_Hidalgo,_Durango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "Mexican", "Villa", "Municipality", "town", "serves", "Hidalgo", "2010", ",", ".", "population", "head", "Durango", "614", "state" ],
+  "adjectives" : [ "Mexican" ],
+  "nouns" : [ "head", "town", "state", "population" ],
+  "text" : "Villa Hidalgo is a town in the Mexican state of Durango. It serves as the head town of Hidalgo Municipality. As of 2010, the town had a population of 614."
+}, {
+  "entityIndex" : "4_entity28874",
+  "entityUrl" : "http://dbpedia.org/resource/Villa_Ocampo,_Durango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "Villa", "town", "municipality", "2010", ",", ".", "population", "Ocampo", "seat", "1,076", "Durango", "north-western", "Mexico", "state" ],
+  "adjectives" : [ "north-western" ],
+  "nouns" : [ "seat", "town", "municipality", "state", "population" ],
+  "text" : "Villa Ocampo is a town and seat of the municipality of Ocampo, in the state of Durango, north-western Mexico. As of 2010, the town had a population of 1,076."
+}, {
+  "entityIndex" : "5_entity26946",
+  "entityUrl" : "http://dbpedia.org/resource/Sillanwali",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "southern", "-LRB-", "49", "22E", "سِلانٚوالى", "mainly", "Muslim", "situated", "Pakistan", "speaking", "Sargodha", "province", "Population", "72", "Bhatiore", "31", "32", "lying", "area", "town", "Sillanwali", "Urdu", "'", "Tehsil", "Punjab", ",", "tehsil", "45N", ".", "°", "headquarters", "bordering", "-RRB-", ":", "District", "Punjabi", "Jhang" ],
+  "adjectives" : [ "southern", "tehsil", "Muslim", "Punjabi" ],
+  "nouns" : [ "area", "headquarters", "speaking", "town", "province", "22E", "Sillanwali", "45N", "Punjabi" ],
+  "text" : "Sillanwali (Punjabi,Urdu: سِلانٚوالى‎), is a town of Sargodha District in the Punjab province of Pakistan. The town is tehsil headquarters of Sillanwali Tehsil. It is situated at 31°49'45N 72°32'22E, lying in the southern area of Sargodha, bordering with Jhang District in the Bhatiore area. Population is mainly Muslim and Punjabi speaking."
+}, {
+  "entityIndex" : "6_entity26977",
+  "entityUrl" : "http://dbpedia.org/resource/Sutherland,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "semi-detached", "204,213", "subdivision", "43.8", "suburban", "2006", "composed", "rate", "neighbourhood", "houses", "single-family", "older", "east-central", "multiple-unit", "mix", "value", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "home", "detached", "Canada", "near-even", "51,857", "residential", "ownership", "Sutherland", "located", "residents", "family", "apartment", "5,206" ],
+  "adjectives" : [ "average", "near-even", "residential", "suburban", "middle-income", "located", "single-family", "semi-detached", "east-central", "multiple-unit" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "mix", "value", "apartment" ],
+  "text" : "Sutherland is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is an older suburban subdivision, composed of a near-even mix of single-family detached houses and multiple-unit apartment and semi-detached dwellings. As of 2006, the area is home to 5,206 residents. The neighbourhood is considered a middle-income area, with an average family income of $51,857, an average dwelling value of $204,213 and a home ownership rate of 43.8%. According to MLS data, the average sale price of a home as of 2013 was $288,651.Sutherland was originally a town outside of Saskatoon before being annexed by the city in 1956."
+}, {
+  "entityIndex" : "7_entity27210",
+  "entityUrl" : "http://dbpedia.org/resource/Sharaqpur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "-LRB-", "called", "48", "city", "27", "E.", "Sharif", "Sharaqpur", "N", "Pakistan", "province", "74", "31", "Urdu", "Tehsil", "Sharqpur", "also", "Punjab", ",", ".", "°", "0", "پُور", "headquarters", "Shaikhupura", "′", "″", "6", "-RRB-", "located", ":", "شرق", "District" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "headquarters", "′", "province", "city", "Tehsil", "Sharqpur", "N" ],
+  "text" : "Sharqpur (Urdu: شرق پُور‎), also called Sharqpur Sharif, is a city and Tehsil headquarters of Sharaqpur Tehsil of Shaikhupura District in the Punjab province of Pakistan. It is located at 31°27′48″N 74°6′0″E."
+}, {
+  "entityIndex" : "8_entity27337",
+  "entityUrl" : "http://dbpedia.org/resource/Stonebridge,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "67,642", "dwelling", "semi-detached", "south-central", "321,004", "2009", "subdivision", "suburban", "994", "rate", "neighbourhood", "mix", "value", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "Stonebridge", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "medium-density", "72.4", "located", "residents", "family", "apartment" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "medium-density", "located", "semi-detached", "south-central" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "mix", "value", "apartment" ],
+  "text" : "Stonebridge is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting of low-density, single detached dwellings and a mix of medium-density apartment and semi-detached dwellings. As of 2009, the area is home to 994 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,642, an average dwelling value of $321,004 and a home ownership rate of 72.4%.According to MLS data, the average sale price of a home as of 2013 was $380,777."
+}, {
+  "entityIndex" : "9_entity27347",
+  "entityUrl" : "http://dbpedia.org/resource/Sapgyo",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "200" ]
+  },
+  "words" : [ "small", "Yesan", "Chungcheong", "46", "km", "-LRB-", "city", "within", "northwest", "county", "South", "Sabkyo", ",", "Daejeon", "Province", ".", "miles", "Sapgyo", "-RRB-", "located", "74", "Korea" ],
+  "adjectives" : [ "small", "located" ],
+  "nouns" : [ "km", "city", "county" ],
+  "text" : "Sabkyo or (Sapgyo) is a small city located within Yesan county in South Chungcheong Province, South Korea. It is about 46 miles (74 km) northwest of Daejeon."
+}, {
+  "entityIndex" : "10_entity27365",
+  "entityUrl" : "http://dbpedia.org/resource/Sutherland_Industrial,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "Nation", "Industrial", "city", "part", "Muskeg", "Lake", "Cree", "subdivision", "reserve", "east-central", "annexed", "1956", "town", "Saskatoon", "originally", "also", "Saskatchewan", ",", ".", "Canada", "industrial", "contains", "urban", "outside", "Sutherland", "located", "first" ],
+  "adjectives" : [ "industrial", "urban", "located", "east-central", "first" ],
+  "nouns" : [ "subdivision", "town", "city", "part", "reserve" ],
+  "text" : "Sutherland Industrial is an industrial subdivision located in east-central Saskatoon, Saskatchewan, Canada. It was originally part of Sutherland, a town outside of Saskatoon before being annexed by the city in 1956. The subdivision also contains the first urban reserve in Saskatchewan, the Muskeg Lake Cree Nation."
+}, {
+  "entityIndex" : "11_entity27378",
+  "entityUrl" : "http://dbpedia.org/resource/Samaro",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "سمارو", "-LRB-", "town", "Urdu", ",", ".", "subdivision", "headquarters", "Samaro", "Pakistan", "province", "administrative", "taluka", "-RRB-", "Umarkot", ":", "District", "Sindh" ],
+  "adjectives" : [ "administrative" ],
+  "nouns" : [ "subdivision", "headquarters", "Samaro", "town", "province", "taluka" ],
+  "text" : "Samaro (Urdu: سمارو‎), is a town in the Sindh province of Pakistan. The town is the headquarters of a taluka (an administrative subdivision) of Umarkot District."
+}, {
+  "entityIndex" : "12_entity27528",
+  "entityUrl" : "http://dbpedia.org/resource/Sainthamaruthu",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "275" ]
+  },
+  "words" : [ "commercial", "education", "several", "developing", "main", "bordered", "percentage", "urbanized", "bay", "potential", "fully", "area", "eastern", ",", "Province", ".", "ද", "dense", "population", "congested", "Sainthamaruthu", "න", "coast", "Ampara", "strengths", "-RRB-", ":", "ය", "Eastern", "western", ";", "25,412", "District", "Sammanthurai", "paddy", "engaged", "southern", "hundred", "-LRB-", "ස", "reasons", "city", "දමර", "part", "Sri", "Kalmunai", "agriculture", "east", "Lanka", "Karativu", "Northern", "village", "arts", "சாய்ந்தமருது", "highly", "Muslims", "middle", "business", "sports", "villages", "Bengal", "one", "fishing", "Tamil", "cultivation", "religion", "site", "due", "Sinhala", "culture", "activities", "increasing", "located", "fisheries" ],
+  "adjectives" : [ "southern", "eastern", "commercial", "middle", "several", "main", "dense", "east", "due", "urbanized", "located", "western", "potential" ],
+  "nouns" : [ "area", "education", "business", "city", "part", "fishing", "Tamil", "cultivation", "ද", "population", "religion", "Sainthamaruthu", "agriculture", "coast", "site", "culture", "percentage", "bay", "village", "paddy" ],
+  "text" : "Sainthamaruthu (Tamil: சாய்ந்தமருது, Sinhala: සායින්දමරුදු) is one of a dense city in Sri Lanka with a population of 25,412 and is located on the east coast of Ampara District of Eastern Province, Sri Lanka. Sainthamaruthu is a developing city with strengths in the education, business, agriculture, fisheries, sports, arts, culture and religion and this is the only city of Sri Lanka with hundred percentage of Muslims. Sainthamaruthu is located in a middle part of some other villages such as Sammanthurai on the western, Kalmunai on the Northern, Karativu on the southern and the eastern bordered with bay of Bengal. Sainthamaruthu is highly urbanized and congested due to several reasons;increasing commercial activities in the main area of the village, the eastern site is potential for fishing and western site is fully engaged with paddy cultivation. There is a lagoon which is used by deep sea fisherman as anchorage to keep their boards."
+}, {
+  "entityIndex" : "13_entity18471",
+  "entityUrl" : "http://dbpedia.org/resource/Ignacio_Zaragoza,_Chihuahua",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "3,518", "Mexican", "town", "city", "municipality", "2010", ",", "northern", "Chihuahua", "3,190", ".", "population", "seat", "Zaragoza", "2005", "state", "Ignacio" ],
+  "adjectives" : [ "Mexican", "northern" ],
+  "nouns" : [ "seat", "town", "city", "municipality", "state", "population" ],
+  "text" : "Ignacio Zaragoza  is a city and seat of the municipality of Ignacio Zaragoza, in the northern Mexican state of Chihuahua. As of 2010, the town of Ignacio Zaragoza had a population of 3,518, up from 3,190 as of 2005."
+}, {
+  "entityIndex" : "14_entity13017",
+  "entityUrl" : "http://dbpedia.org/resource/Buena_Vista,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "Vista", "income", "average", "mostly", "considered", "2011", "dwelling", "subdivision", "suburban", "rate", "neighbourhood", "older", "near", "Buena", "value", "67,170", "area", "including", "$", "middle-income", "%", "Saskatoon", "dwellings", "centre", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "3,271", "77.7", "Canada", "residential", "ownership", "located", "residents", "family", "251,560" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "low-density" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "centre", "dwelling", "family", "value", "home" ],
+  "text" : "Buena Vista is a residential neighbourhood located near the centre of Saskatoon, Saskatchewan, Canada. It is an older suburban subdivision, including mostly low-density, single detached dwellings. As of 2011, the area is home to 3,271 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,170, an average dwelling value of $251,560 and a home ownership rate of 77.7%."
+}, {
+  "entityIndex" : "15_entity13024",
+  "entityUrl" : "http://dbpedia.org/resource/Briarwood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "117,619", "considered", "part", "dwelling", "Briarwood", "2009", "rate", "neighbourhood", "high-income", "449,158", "majority", "value", "live", "area", "$", "%", "Saskatoon", "dwellings", "4,473", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "residential", "ownership", "located", "residents", "97.0", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value", "southeast" ],
+  "text" : "Briarwood is a residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in low-density, single detached dwellings. As of 2009, the area is home to 4,473 residents. The neighbourhood is considered a very high-income area, with an average family income of $117,619, an average dwelling value of $449,158 and a home ownership rate of 97.0%.According to MLS data, the average sale price of a home as of 2013 was $489,830."
+}, {
+  "entityIndex" : "16_entity13045",
+  "entityUrl" : "http://dbpedia.org/resource/Brevoort_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "half", "part", "duplex", "minority", "primarily", "2007", "neighbourhood", "houses", "Street", "sizeable", "3,424", "area", "Brevoort", "business", "Saskatoon", "dwellings", "multiple", "includes", "Saskatchewan", ",", "8th", "apartment-style", ".", "Park", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "unit", "half", "business", "neighbourhood", "part", "district", "Street", "duplex", "minority", "southeast", "home" ],
+  "text" : "Brevoort Park is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. Just over half of its dwellings are single detached houses, with a sizeable minority of duplex or apartment-style multiple unit dwellings. As of 2007, the area is home to 3,424 residents. The neighbourhood is considered a middle-income area, with an average family income of $52,098, and a home ownership rate of 54.0%.According to MLS data, the average sale price of a home as of 2013 was $325,447."
+}, {
+  "entityIndex" : "17_entity13101",
+  "entityUrl" : "http://dbpedia.org/resource/Buleda",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "small", "feet", "expanding", "resembles", "pools", "irrigation", "province", "1653", "Hills", "gishkaur", "band", "large", "بُليدا", ",", "water", ".", "channels", "-RRB-", ":", "valley", "arms", "District", "Zamuran", "little", "altitude", "-LRB-", "Buledai", "Balochi", "south", "part", "north", "range", "two", "jawan", "situated", "meters", "running", "Pakistan", "central", "taken", "Balochistan", "Division", "canal", "picturesque", "within", "Makran", "one", "Tehsil", "Buleda", "artificial", "503", "located", "Kech", "mardan" ],
+  "adjectives" : [ "small", "artificial", "central", "large", "Makran", "located", "picturesque", "little" ],
+  "nouns" : [ "altitude", "south", "part", "north", "Tehsil", "range", "water", "jawan", "irrigation", "province", "valley", "gishkaur", "band", "canal", "mardan" ],
+  "text" : "Buleda (Balochi: بُليدا), is a small valley and a Tehsil of Kech District in Balochistan province of Pakistan. It is a part of Makran Division situated in the north of Kech. It is located at an altitude of 503 meters (1653 feet) within the two arms of the central Makran range the Buledai or Kech band being on the south and the Zamuran Hills on the north. It is a picturesque little valley with the gishkaur running through it, expanding here and there into large pools from which water for irrigation is taken in artificial channels, one of which the jawan mardan resembles a small canal. It is famous for the abundance of its pasturage, and possesses a fairly extensive irrigated area and a good many date groves. Buleda is said to have been the home of Buledai dynasty, there are many Dambis or cairns of the banks of a hill called the Dambani Kaur. The number of permanent Union councils is six, the principal among which are Sulo, Chib, Bit, Mainaz and Koshk. The inhabitants are Sunni Muslims. The tribes living in the valley are,Buledai,Kahudai,Rind,Kushk,KhosagYallanzai,Tajozai,Shambezai,Sanghur,Barr(tribe),Rakhshani,Koh baloch. thumbnail"
+}, {
+  "entityIndex" : "18_entity13200",
+  "entityUrl" : "http://dbpedia.org/resource/Barehsar",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "capital", "-LRB-", "city", "Persian", "بره", "range", "northern", "County", "Gilan", "Khorgam", "pirehsar", "mountain", "2006", "Iran", "deilami", "Barehsar", "سر", "Rudbar", "barasar", "Alborz", ",", "families", "Province", ".", "population", "census", "700", "-RRB-", "located", ":", ";", "Elburz", "District", "1605" ],
+  "adjectives" : [ "located", "northern" ],
+  "nouns" : [ "pirehsar", "capital", "mountain", "city", "census", "range", "deilami", "barasar", "سر", "population" ],
+  "text" : "Barehsar (Persian: بره سر‎‎, deilami: barasar; pirehsar) is a city in and the capital of Khorgam District, in Rudbar County, Gilan Province, northern Iran. It is located in the Alborz (Elburz) mountain range. At the 2006 census, its population was 1605, in 700 families."
+}, {
+  "entityIndex" : "19_entity13215",
+  "entityUrl" : "http://dbpedia.org/resource/Bandhi",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "250" ]
+  },
+  "words" : [ "-LRB-", "town", "Urdu", "باندھی", "Shaheed", ",", "ٻانڌي", ".", "population", "Sindhi", "40,000", "-RRB-", ":", "Abad", "Bandhi", "Benazir", "District", "Sindh" ],
+  "adjectives" : [ ],
+  "nouns" : [ "town", "population" ],
+  "text" : "Bandhi (Sindhi: ٻانڌي ) (Urdu: باندھی‎) is a town of Shaheed Benazir Abad District of Sindh, with a population of over 40,000."
+}, {
+  "entityIndex" : "20_entity14501",
+  "entityUrl" : "http://dbpedia.org/resource/Confederation_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "commercial", "development", "city", "Saskatoon", "Suburban", "Saskatchewan", "Centre", "community", ",", "primarily", ".", "consists", "Confederation" ],
+  "adjectives" : [ "commercial" ],
+  "nouns" : [ "development", "city", "community" ],
+  "text" : "Confederation Suburban Centre is a community in the city of Saskatoon, Saskatchewan, which consists primarily of commercial development."
+}, {
+  "entityIndex" : "21_entity14597",
+  "entityUrl" : "http://dbpedia.org/resource/Ciudad_Guadalupe_Victoria",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "Guadalupe", "Municipality", "city", "Victoria", "2010", "Ciudad", ",", ".", "population", "seat", "Durango", "north-western", "Mexico", "state", "16,506" ],
+  "adjectives" : [ "north-western" ],
+  "nouns" : [ "seat", "city", "state", "population" ],
+  "text" : "Ciudad Guadalupe Victoria  is a city and seat of Guadalupe Victoria Municipality, in the state of Durango, north-western Mexico. As of 2010, the city of Guadalupe Victoria had a population of 16,506."
+}, {
+  "entityIndex" : "22_entity14600",
+  "entityUrl" : "http://dbpedia.org/resource/Copala,_Guerrero",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "seat", "city", "Copala", "municipality", "south-western", "Mexico", "Guerrero", "state", ",", "." ],
+  "adjectives" : [ "south-western" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Copala is a city and seat of the municipality of Copala, in the state of Guerrero, south-western Mexico."
+}, {
+  "entityIndex" : "23_entity28538",
+  "entityUrl" : "http://dbpedia.org/resource/University_Heights_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "``", "income", "average", "commercial", "considered", "dwelling", "areas", "medium", "high-density", "civic", "2009", "subdivision", "suburban", "composed", "rate", "neighbourhood", "multiple-unit", "1,479", "85.7", "value", "Heights", "''", "area", "$", "middle-income", "237,698", "%", "Saskatoon", "dwellings", "Suburban", "northeast", "centre", "classified", "Saskatchewan", "Centre", ",", "69,219", "mixed-development", ".", "home", "Canada", "University", "ownership", "located", "residents", "facilities", "family" ],
+  "adjectives" : [ "average", "commercial", "suburban", "middle-income", "located", "northeast", "multiple-unit", "high-density", "civic" ],
+  "nouns" : [ "area", "income", "%", "centre", "dwelling", "medium", "mixed-development", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value" ],
+  "text" : "University Heights Suburban Centre is a mixed-development neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2009, the area is home to 1,479 residents. The neighbourhood is considered a middle-income area, with an average family income of $69,219, an average dwelling value of $237,698 and a home ownership rate of 85.7%.According to MLS data, the average sale price of a home as of 2013 was $304,903."
+}, {
+  "entityIndex" : "24_entity29919",
+  "entityUrl" : "http://dbpedia.org/resource/Zafarwal",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "capital", "-LRB-", "city", "Urdu", "Tehsil", "Punjab", ",", ".", "situated", "ظفروال", "Zafarwal", "Pakistan", "Narowal", "-RRB-", ":", "District", "Punjabi" ],
+  "adjectives" : [ ],
+  "nouns" : [ "capital", "city" ],
+  "text" : "Zafarwal (Urdu: ظفروال‎), (Punjabi: ظفروال) is a city and capital of Zafarwal Tehsil situated in the Narowal District of Punjab, Pakistan."
+}, {
+  "entityIndex" : "25_entity17280",
+  "entityUrl" : "http://dbpedia.org/resource/Garhi_Yasin",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "political", "historical", "ڳڙهي", "second", "province", "four", "1977", "new", "Yasin", "town", "Urdu", "old", "created", "Garhiyasin", "14,000", ",", ".", "Garhi", "population", "Sindhi", "1", "گڑھی", "sub-districts", "district", "-RRB-", "attached", "Pakistan.On", ":", "Sukkur", "District", "June", "largest", "-LRB-", "One", "north", "two", "subdivision", "Pakistan", "Division", "Larkana", "talukas", "separated", "great", "significance", "ياسين", "consisting", "taluka", "located", "Shikarpur", "Sindh" ],
+  "adjectives" : [ "Sindhi", "new", "old", "political", "historical", "located", "great", "second" ],
+  "nouns" : [ "significance", "subdivision", "town", "province", "taluka", "north", "district", "Pakistan.On", "population" ],
+  "text" : "Garhi Yasin (Urdu: گڑھی ياسين‎), Sindhi ڳڙهي ياسين is a town and taluka of Shikarpur District, Sindh, Pakistan. One of the four talukas (sub-districts) of Shikarpur, Garhi Yasin is of great political and historical significance to Pakistan.On 1 June 1977 the old Shikarpur subdivision, consisting of the two talukas of Shikarpur and Garhiyasin, was separated from Sukkur District, and a new District Shikarpur was created and attached to Larkana Division. Garhi Yasin is a town located in the north of Sindh province of Pakistan. It is the second largest town of the district Shikarpur, having population of more than 14,000. Garhi Yasin is situated on the right bank of River Indus. Garhi Yasin region has always been an important because of proximity with the Shikarpur, a place that commanded the trade route through the Bolan Pass, and its merchants had dealings with many towns in Central Asia. Garhi Yasin taluka comprises two main towns Dakhan,Madeji and some main villages Haji Rohelo Khan Jaffri, and Bado. Garhi Yasin has produced remarkable Politicians, Civil Servants, Like Agha Siraj Khan Durrani the Speaker of Sindh assembly and Agha Rafique Khan Durrani former chief justice of sharia law and Chairman of SPSC .The town is named after its founder Yasin Khan Pathan. Sindhi is the common language of the people in this region. The Jaffri |Mangi]], Kalhora, Mughal, Seelro, Wadhio, Chandio, Memon, Sindhi Hindu, Soomra, Shaikh, khakhrani, Syed, Mirani, Qazi, Bhutta, Lashari, RahooJo, Bhatti, Mahar, Jakhro, Kakepota, Arain, Mangi, and Bhayo Tribe. With the Durrani tribe being one of the strongest both politically and by land. After the independence from British India, Many Hindu and Sikh clans migrated to India. There also Hindus settled in Garhi Yasin."
+}, {
+  "entityIndex" : "26_entity15928",
+  "entityUrl" : "http://dbpedia.org/resource/Eastview,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "Eastview", "considered", "dwelling", "semi-detached", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "houses", "value", "260,050", "3,566", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "58,703", ",", ".", "home", "single", "detached", "low-rise", "Canada", "consisting", "residential", "ownership", "buildings", "located", "residents", "family", "51.6", "apartment" ],
+  "adjectives" : [ "single", "low-rise", "average", "residential", "suburban", "middle-income", "located", "semi-detached", "south-central" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value", "apartment" ],
+  "text" : "Eastview is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting of low-density, single detached dwellings, low-rise apartment buildings and semi-detached houses. As of 2007, the area is home to 3,566 residents. The neighbourhood is considered a middle-income area, with an average family income of $58,703, an average dwelling value of $260,050 and a home ownership rate of 51.6%.According to MLS data, the average sale price of a home as of 2013 was $318,449."
+}, {
+  "entityIndex" : "27_entity15929",
+  "entityUrl" : "http://dbpedia.org/resource/Erindale,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "340,990", "average", "mostly", "considered", "Erindale", "2011", "dwelling", "primarily", "4,338", "rate", "neighbourhood", "high-income", "123,336", "value", "area", "$", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "residential", "ownership", "located", "residents", "95.3", "family" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located", "northeast", "low-density" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "value", "home" ],
+  "text" : "Erindale is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings. As of 2011, the area is home to 4,338 residents. The neighbourhood is considered a high-income area, with an average family income of $123,336, an average dwelling value of $340,990 and a home ownership rate of 95.3%.According to MLS data, the average sale price of a home as of 2013 was $398,768."
+}, {
+  "entityIndex" : "28_entity16463",
+  "entityUrl" : "http://dbpedia.org/resource/Feeding_Hills,_Agawam,_Massachusetts",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "250" ]
+  },
+  "words" : [ "subsection", "code", "-LRB-", "separate", "mid-19th", "ditch", "office", "two", "point", "Provin", "total", "post", "Mountain", "Hills", "pseudo-border", "01030", "moderate-sized", "Street", "early", "zip", "town", "one", "accepted", "Agawam", ",", "many", "-", ".", "sections", "Feeding", "generally", "population", "Line", "century", "contains", "highest", "farms", "dug", "-RRB-", "residents", "well", "quarter" ],
+  "adjectives" : [ "total", "mid-19th", "moderate-sized", "many", "early" ],
+  "nouns" : [ "zip", "subsection", "century", "code", "town", "post", "pseudo-border", "ditch", "office", "point", "quarter", "population" ],
+  "text" : "Feeding Hills is a subsection of the town of Agawam with its own zip code (01030) and post office. Line Street in Agawam is generally accepted by residents as being the pseudo-border. In the early- to mid-19th century, a ditch was dug here to separate the two sections. Feeding Hills contains one quarter of the total population, as well as Provin Mountain, the highest point in the town, and many moderate-sized farms. Today, Feeding Hills is under extensive land development in and around the Provin Mountain communities. Several farms have been split up and sold to developers, resulting in an increased real estate market. Older sections of Feeding Hills, such as those closer to Line Street and Agawam High School, have remained much the same, although in recent years have experienced an exodus of businesses to other parts of town. Feeding Hills contains several churches, shopping centers, and a variety of eateries. It is home to WWLP-TV's transmitting site atop Provin Mountain (their studio has since moved to Chicopee). Agawam's police station can be found on Springfield St., one of the subsection's most populous roads. Of the 4 elementary schools and 3 md/jr/sr highs only the Junior High School and Granger Elementary, are located in \"Feeding Hills\""
+}, {
+  "entityIndex" : "29_entity16467",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_I._Madero,_Durango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "de", "town", "I.", "city", "4,550", "2010", ",", ".", "population", "seat", "Francisco", "Durango", "north-western", "Madero", "Mexico", "state", "Coronado", "Pánuco" ],
+  "adjectives" : [ "north-western" ],
+  "nouns" : [ "seat", "town", "city", "state", "population" ],
+  "text" : "Francisco I. Madero is a city and seat of the Pánuco de Coronado, in the state of Durango, north-western Mexico. As of 2010, the town of Francisco I. Madero had a population of 4,550."
+}, {
+  "entityIndex" : "30_entity24934",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Elizabeth,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "2,491", "dwelling", "south-central", "280,970", "subdivision", "2007", "66.9", "suburban", "rate", "neighbourhood", "value", "area", "61,904", "$", "middle-income", "%", "Queen", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "Elizabeth", "residential", "ownership", "located", "residents", "family" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Queen Elizabeth is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,491 residents. The neighbourhood is considered a middle-income area, with an average family income of $61,904, an average dwelling value of $280,970 and a home ownership rate of 66.9%.According to MLS data, the average sale price of a home as of 2013 was $343,459."
+}, {
+  "entityIndex" : "31_entity23737",
+  "entityUrl" : "http://dbpedia.org/resource/Ozuluama",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "de", "-LRB-", "September", "city", "Ozuluama", "serves", "municipality", "1910", "Veracruz", "state", "Mascareñas", "surrounding", "given", "Mexican", "Alta", "'s", ".", "Huasteca", "seat", "6", "-RRB-", "located", "municipal", ":", "region", "formally", "status" ],
+  "adjectives" : [ "Mexican", "located", "municipal" ],
+  "nouns" : [ "seat", "city", "Ozuluama", "municipality", "state", "region", "status" ],
+  "text" : "Ozuluama (formally: Ozuluama de Mascareñas)is a city in the Mexican state of Veracruz. It is located in the state's Huasteca Alta region. It serves as the municipal seat for the surrounding municipality of Ozuluama de Mascareñas. It was given city status on 6 September 1910. In the 2005 INEGI Census, the city of Ozuluama reported a total population of 3,439 The name \"Ozuluama\" is Nahuatl in origin. The epithet \"de Mascareñas\" (awarded 20 August 1980) honours Colonel Francisco Esteban Mascareñas, who was born here and fought on the Liberal side in the Reform War."
+}, {
+  "entityIndex" : "32_entity23749",
+  "entityUrl" : "http://dbpedia.org/resource/Old_Tafo",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "Ashanti", "largest", "city", "south", "Old", "work", "mechanic", "Ghana", "whole", "Kumasi", ",", ".", "market", "Tafo", "district", "Region", "shoppes" ],
+  "adjectives" : [ ],
+  "nouns" : [ "market", "city", "work", "district", "mechanic", "whole" ],
+  "text" : "Old Tafo  is a city in the Kumasi, a district in the Ashanti Region of south Ghana. It has the largest market and mechanic work shoppes in the whole of Ghana."
+}, {
+  "entityIndex" : "33_entity24513",
+  "entityUrl" : "http://dbpedia.org/resource/Piplan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "capital", "called", "almost", "Harnauli", "لِياقت", "road", "WaliMattha", "west", "Kaloor", "پِپلاں", "52", "similar", "town", "Indus", "Urdu", "Doaba", "Punjab", ",", ".", "Jhanbir", "Musa", "district", "towns", "-RRB-", ":", ";", "Piplan", "District", "Kundian", "surrounded", "-LRB-", "Mianwali", "south", "north", "آباد", "situated", "Kaloorkot", "east", "Pakistan", "previously", "Quaidabad", "lies", "River", "km", "Liaqatabad", "Tehsil", "many", "Churkin", "Kot" ],
+  "adjectives" : [ "similar", "east", "Harnauli", "many" ],
+  "nouns" : [ "km", "capital", "town", "Quaidabad", "road", "south", "district", "north", "west", "Kaloorkot" ],
+  "text" : "Liaqatabad (Urdu: لِياقت آباد‎),previously called Piplan (Urdu: پِپلاں‎), is a town in Piplan Tehsil in Mianwali District, situated in Punjab, Pakistan.  It is almost 52 km (by road) from the district capital Mianwali which lies to the north. Piplan is surrounded by many other similar towns:To the south are the towns of Musa WaliMattha, Churkin,Jhanbir and Kaloor Kot,to the north are Doaba, Kundian and Mianwali; to the east, Harnauli and Quaidabad; to the north, Kaloorkot; and to the west is the Indus River."
+}, {
+  "entityIndex" : "34_entity24808",
+  "entityUrl" : "http://dbpedia.org/resource/Progreso,_Coahuila",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "seat", "Mexican", "Coahuila", "city", "Progreso", "north-eastern", "municipality", "state", ",", "." ],
+  "adjectives" : [ "Mexican", "north-eastern" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Progreso is a city and seat of the municipality of Progreso, in the north-eastern Mexican state of Coahuila."
+}, {
+  "entityIndex" : "35_entity24825",
+  "entityUrl" : "http://dbpedia.org/resource/Pothuhera",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "275" ]
+  },
+  "words" : [ "small", "Muslims", "living", "town", "Sinhalese", "also", "Sri", ",", "Kurunegala", "people", ".", "Tamils", "Lanka", "located", "District", "Pothuhera" ],
+  "adjectives" : [ "small", "located" ],
+  "nouns" : [ "town" ],
+  "text" : "Pothuhera is a small town located in Kurunegala District, Sri Lanka. Most of the people are Sinhalese. There are also Muslims and Tamils living there."
+}, {
+  "entityIndex" : "36_entity22422",
+  "entityUrl" : "http://dbpedia.org/resource/Morelos,_Coahuila",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "seat", "Mexican", "Morelos", "Coahuila", "city", "north-eastern", "municipality", "state", ",", "." ],
+  "adjectives" : [ "Mexican", "north-eastern" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Morelos is a city and seat of the municipality of Morelos, in the north-eastern Mexican state of Coahuila."
+}, {
+  "entityIndex" : "37_entity22494",
+  "entityUrl" : "http://dbpedia.org/resource/Marot",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "-LRB-", "city", "Marot", "20,000", "notable", "Fort", "مروٹ", "entire", "situated", "Bahawalpur.The", "Pakistan", "Meergarh", "Mojgarh", "forts", "Jaamgarh", "50", "Bahawalnagar", "Fortabbas", "border", "km", "Urdu", "estimated", "Punjab", "160", ",", "Province", ".", "280,000", "India", "population", "100", "contains", "district", "-RRB-", ":", "District" ],
+  "adjectives" : [ "notable", "entire" ],
+  "nouns" : [ "border", "km", "city", "district", "population" ],
+  "text" : "Marot (Urdu: مروٹ‎) is a city district in Bahawalnagar District in the Province of Punjab, Pakistan. This city is situated at the border of India and Pakistan. This city is situated 50 km from Fortabbas, 160 km from Bahawalnagar and 100 km from Bahawalpur.The population of the city is estimated 20,000, with some 280,000 in the entire district. It contains some notable forts such as Marot Fort, Jaamgarh, Mojgarh and Meergarh. Mostly people are farmers in the area and the major crops are wheat, cotton, mustard and sugar cane."
+}, {
+  "entityIndex" : "38_entity23252",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "Nutana", "nearly", "Broadway", "primarily", "2009", "mixture", "neighbourhood", "Avenue", "near", "area", "business", "Saskatoon", "dwellings", "multiple", "centre", "includes", "Saskatchewan", "low-density", ",", "comprises", "apartment-style", ".", "home", "single", "detached", "Canada", "unit", "residential", "even", "district", "located", "residents", "6,261" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "apartment-style" ],
+  "nouns" : [ "area", "unit", "business", "mixture", "neighbourhood", "district", "centre", "low-density", "home" ],
+  "text" : "Nutana is a primarily residential neighbourhood located near the centre of Saskatoon, Saskatchewan, Canada. It includes the business district of Broadway Avenue. It comprises a nearly even mixture of low-density, single detached dwellings and apartment-style multiple unit dwellings. As of 2009, the area is home to 6,261 residents. The neighbourhood is considered a middle to upper-income area, with an average family income of $67,657, an average dwelling value of $206,830 and a home ownership rate of 51.3%.According to MLS data, the average sale price of a home as of 2013 was $409,891. First established in 1883, Nutana was the original settlement of what now makes up the city of Saskatoon."
+}, {
+  "entityIndex" : "39_entity23253",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "``", "commercial", "-LRB-", "Nutana", "sometimes", "areas", "medium", "south-central", "high-density", "civic", "SC", "2009", "subdivision", "suburban", "composed", "neighbourhood", "houses", "row", "multiple-unit", "''", "area", "Saskatoon", "dwellings", "Suburban", "centre", "classified", "Saskatchewan", "Centre", ",", "Housing", "mixed-development", "apartment-style", ".", "2,962", "home", "Canada", "-RRB-", "located", "residents", "consists", "facilities", "abbreviated" ],
+  "adjectives" : [ "commercial", "suburban", "located", "multiple-unit", "south-central", "apartment-style", "high-density", "civic" ],
+  "nouns" : [ "area", "subdivision", "neighbourhood", "centre", "medium", "row", "Housing", "mixed-development", "home" ],
+  "text" : "Nutana Suburban Centre (sometimes abbreviated as Nutana SC) is a mixed-development neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2009, the area is home to 2,962 residents. Housing in the neighbourhood consists of high-density apartment-style dwellings and row houses. The neighbourhood is considered a lower-income area, with an average family income of $34,474, an average dwelling value of $266,311 and a home ownership rate of 29.3%. The low average income but comparatively high dwelling value is due to the number of senior citizens residing in the neighbourhood. The age distribution of Nutana SC's population is skewed very highly toward residents age 65 and older.According to MLS data, the average sale price of a home as of 2013 was $296,114."
+}, {
+  "entityIndex" : "40_entity23268",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "-LRB-", "considered", "Nutana", "sometimes", "dwelling", "south-central", "subdivision", "2007", "suburban", "2,748", "rate", "neighbourhood", "66,555", "85.1", "value", "area", "$", "257,789", "middle-income", "%", "Saskatoon", "South", "dwellings", "Saskatchewan", "low-density", ",", ".", "Park", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "-RRB-", "located", "residents", "family", "referred" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Nutana Park (sometimes referred to as South Nutana Park) is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,748 residents. The neighbourhood is considered a middle-income area, with an average family income of $66,555, an average dwelling value of $257,789 and a home ownership rate of 85.1%.According to MLS data, the average sale price of a home as of 2013 was $356,116."
+}, {
+  "entityIndex" : "41_entity23287",
+  "entityUrl" : "http://dbpedia.org/resource/Narang_Mandi",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "Muridke", "-LRB-", "city", "Urdu", "Famous", "Tehsil", "Punjab", ",", ".", "1", "نارنگ", "Pakistan", "Colleges", "منڈی", "Mandi", "Shaikhupur", "-RRB-", "located", ":", "Narang", "District" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "city" ],
+  "text" : "Narang (Urdu: نارنگ‎), or Narang Mandi (Urdu: نارنگ منڈی‎), is a city located in the Muridke Tehsil of Shaikhupur District, Punjab, Pakistan. Famous Colleges: 1."
+}, {
+  "entityIndex" : "42_entity23302",
+  "entityUrl" : "http://dbpedia.org/resource/Nava,_Coahuila",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "seat", "Mexican", "Municipality", "Coahuila", "city", "north-eastern", "Nava", "state", ",", "." ],
+  "adjectives" : [ "Mexican", "north-eastern" ],
+  "nouns" : [ "seat", "city", "state" ],
+  "text" : "Nava is a city and seat of Nava Municipality, in the north-eastern Mexican state of Coahuila."
+}, {
+  "entityIndex" : "43_entity23305",
+  "entityUrl" : "http://dbpedia.org/resource/Naudanda",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "gliding", "away", "beauty", "good", "enjoying", "Gandaki", "world", "northern-central", "para", "Kaski", "arrive", "village", "Nepal", "views", "Thousands", "area", "Naudanda", "km", "natural", "Pokhara", "Zone", "recreation", "5th", "Range", ",", "'s", ".", "way", "Annapurna", "6", "Sarangkot", "spot", "information", "tourists", "District", "annually" ],
+  "adjectives" : [ "northern-central", "natural", "5th", "good" ],
+  "nouns" : [ "area", "km", "world", "para", "beauty", "spot", "recreation", "information", "village", "way" ],
+  "text" : "Naudanda is a village in Kaski District in the Gandaki Zone of northern-central Nepal. There are good views of the Annapurna Range from this area of Pokhara, Nepal. It is on the way to Sarangkot, the world's 5th para gliding spot 6 km away from Pokhara. Thousands of tourists arrive annually here for recreation, information, and enjoying natural beauty."
+}, {
+  "entityIndex" : "44_entity29671",
+  "entityUrl" : "http://dbpedia.org/resource/Xalpatlahuac",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "seat", "city", "municipality", "southwestern", "Xalpatlahuac", "Mexico", "Guerrero", "state", ",", "." ],
+  "adjectives" : [ "southwestern" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Xalpatlahuac  is a city and seat of the municipality of Xalpatlahuac, in the state of Guerrero, southwestern Mexico."
+}, {
+  "entityIndex" : "45_entity20842",
+  "entityUrl" : "http://dbpedia.org/resource/Lakewood_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "``", "income", "average", "mostly", "commercial", "considered", "2011", "dwelling", "areas", "medium", "high-density", "civic", "subdivision", "suburban", "composed", "rate", "neighbourhood", "multiple-unit", "value", "1,850", "''", "area", "$", "middle-income", "227,522", "%", "Saskatoon", "dwellings", "Suburban", "centre", "classified", "Saskatchewan", "Centre", ",", "mixed-development", ".", "Lakewood", "home", "76.8", "Canada", "65,927", "ownership", "located", "residents", "facilities", "family", "southeast" ],
+  "adjectives" : [ "average", "commercial", "suburban", "middle-income", "located", "multiple-unit", "high-density", "civic" ],
+  "nouns" : [ "area", "income", "%", "centre", "dwelling", "medium", "mixed-development", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value", "southeast" ],
+  "text" : "Lakewood Suburban Centre is a mixed-development neighbourhood located in southeast Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of mostly medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2011, the area is home to 1,850 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,927, an average dwelling value of $227,522 and a home ownership rate of 76.8%.According to MLS data, the average sale price of a home as of 2013 was $252,618."
+}, {
+  "entityIndex" : "46_entity20843",
+  "entityUrl" : "http://dbpedia.org/resource/Lakeridge,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "considered", "part", "dwelling", "2009", "rate", "neighbourhood", "houses", "value", "Almost", "live", "area", "127,698", "$", "4,051", "%", "Saskatoon", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "357,024", "Lakeridge", "residential", "98.8", "ownership", "located", "residents", "upper-income", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "residential", "located" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "home", "ownership", "rate", "neighbourhood", "upper-income", "family", "value", "southeast" ],
+  "text" : "Lakeridge is a residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. Almost all of its residents live in low-density, single detached houses. As of 2009, the area is home to 4,051 residents. The neighbourhood is considered an upper-income area, with an average family income of $127,698, an average dwelling value of $357,024 and a home ownership rate of 98.8%.According to MLS data, the average sale price of a home as of 2013 was $442,999."
+}, {
+  "entityIndex" : "47_entity20847",
+  "entityUrl" : "http://dbpedia.org/resource/Lakeview,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "277,070", "71.0", "considered", "part", "2011", "dwelling", "semi-detached", "minority", "primarily", "high", "rate", "neighbourhood", "majority", "sizeable", "value", "live", "area", "$", "%", "Lakeview", "Saskatoon", "dwellings", "multiple", "Saskatchewan", "low-density", ",", "apartment-style", "120,042", ".", "home", "single", "detached", "Canada", "unit", "residential", "ownership", "located", "residents", "7,732", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "high", "residential", "multiple", "located", "sizeable", "semi-detached", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "minority", "home", "unit", "ownership", "rate", "neighbourhood", "majority", "family", "value", "southeast" ],
+  "text" : "Lakeview is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in low-density, single detached dwellings, with a sizeable minority of semi-detached or apartment-style multiple unit dwellings. As of 2011, the area is home to 7,732 residents. The neighbourhood is considered a high income area, with an average family income of $120,042, an average dwelling value of $277,070 and a home ownership rate of 71.0%. According to MLS data, the average sale price of a home as of 2013 was $322,868.It was the first community in Saskatoon to feature a man-made lake amenity."
+}, {
+  "entityIndex" : "48_entity20857",
+  "entityUrl" : "http://dbpedia.org/resource/Luddan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "24", "-LRB-", "away", "Chief", "27", "city", "Luddan", "cotton", "crops", "Mian", "sugarcane", "Daultana", "agriculture", "1953", "bank", "Pakistan", "1951", "major", "Sutlej", "Hasilpur", "mi", "Minister", "area", "Mumtaz", "km", "town", "Urdu", "17", "born", "rich", "Punjab", ",", "rice", "maize", "Ahmad", ".", "former", "لُڈّن", "-RRB-", "located", ":", "District", "Vehari" ],
+  "adjectives" : [ "major", "located", "rich", "former" ],
+  "nouns" : [ "agriculture", "area", "bank", "km", "town", "city", "Luddan", "cotton", "mi", "rice", "maize", "sugarcane" ],
+  "text" : "Luddan (Urdu: لُڈّن‎), is a town located on the bank of the Sutlej in Vehari District Punjab, Pakistan. It is about 27 km (17 mi) away from city of Vehari and 24 km away from Hasilpur. Luddan is a rich agriculture area, with cotton, maize, rice and sugarcane being major crops. Mian Mumtaz Ahmad Daultana, former Chief Minister of Punjab, (1951 to 1953) was born here. The main tribes of Luddan are Kharal, Arain, Daultana, Joiya, Sargana, Gazar, Taili and Khokhar."
+}, {
+  "entityIndex" : "49_entity20905",
+  "entityUrl" : "http://dbpedia.org/resource/Lamki",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "Kailali", "populated", "Lamki", "place", "District", "Nepal", "." ],
+  "adjectives" : [ "populated" ],
+  "nouns" : [ "place" ],
+  "text" : "Lamki is a populated place in the Kailali District in Nepal."
+}, {
+  "entityIndex" : "50_entity18135",
+  "entityUrl" : "http://dbpedia.org/resource/Haultain,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "201,503", "value", "area", "Haultain", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "2,742", "home", "single", "detached", "Canada", "consisting", "47,890", "59.3", "residential", "ownership", "located", "residents", "family" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Haultain is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,742 residents. The neighbourhood is considered a middle-income area, with an average family income of $47,890, an average dwelling value of $201,503 and a home ownership rate of 59.3%.According to MLS data, the average sale price of a home as of 2013 was $316,411."
+}, {
+  "entityIndex" : "51_entity18141",
+  "entityUrl" : "http://dbpedia.org/resource/Holliston,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "half", "part", "duplex", "minority", "primarily", "2007", "neighbourhood", "houses", "Street", "sizeable", "area", "business", "Saskatoon", "dwellings", "multiple", "Holliston", "includes", "Saskatchewan", ",", "8th", "apartment-style", ".", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast", "3,412" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "unit", "half", "business", "neighbourhood", "part", "district", "Street", "duplex", "minority", "southeast", "home" ],
+  "text" : "Holliston is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. Just over half of its dwellings are single detached houses, with a sizeable minority of duplex or apartment-style multiple unit dwellings. As of 2007, the area is home to 3,412 residents. The neighbourhood is considered a middle-income area, with an average family income of $51,674, and a home ownership rate of 62.8%.According to MLS data, the average sale price of a home as of 2013 was $357,590."
+}, {
+  "entityIndex" : "52_entity18186",
+  "entityUrl" : "http://dbpedia.org/resource/Habibabad",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "-LRB-", "town", "Wan", "Urdu", "part", "Tehsil", "Punjab", "150,000", ",", "Pattoki", "Province", ".", "آباد", "population", "Pakistan", "previously", "Kasur", "Habibabad", "-RRB-", ":", "District", "حبِيب", "Radha", "Ram" ],
+  "adjectives" : [ ],
+  "nouns" : [ "town", "Habibabad", "part", "population" ],
+  "text" : "Habibabad (Urdu: حبِيب آباد‎), (previously, Wan Radha Ram) is a town part of Pattoki Tehsil in the Kasur District in the Province of Punjab, Pakistan. The population is about 150,000."
+}, {
+  "entityIndex" : "53_entity18190",
+  "entityUrl" : "http://dbpedia.org/resource/Hueycantenango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "300" ]
+  },
+  "words" : [ "de", "Joaquín", "Herrera", "city", "municipality", "south-western", "Guerrero", "Hueycantenango", ",", ".", "seat", "José", "Mexico", "state" ],
+  "adjectives" : [ "south-western" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Hueycantenango  is a city and seat of the municipality of José Joaquín de Herrera, in the state of Guerrero, south-western Mexico."
+}, {
+  "entityIndex" : "54_entity18199",
+  "entityUrl" : "http://dbpedia.org/resource/History_of_Hartford_City,_Indiana",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "250" ]
+  },
+  "words" : [ "small", "``", "became", "Indiana", "beginning", "log", "boom", "north", "portion", "county", "County", "late", "creek", "Boom", "agricultural", "Located", "farming", "gas", "manufacturing", "near", "state", "east-central", "included", "cabins", "experienced", "''", "1830s", "natural", "began", "caused", "clustered", "one", "also", "City", "economy", ",", "community", ".", "transition", "seat", "15-year", "discovery", "1880s", "Gas", "Blackford", "Hartford" ],
+  "adjectives" : [ "small", "15-year", "late", "natural", "agricultural", "east-central" ],
+  "nouns" : [ "log", "boom", "north", "portion", "county", "economy", "community", "transition", "seat", "creek", "discovery", "gas", "manufacturing", "state" ],
+  "text" : "Hartford City, Indiana, began in the late 1830s as a few log cabins clustered near a creek. The community became the county seat of Blackford County. Located in the north east-central portion of the state, the small farming community experienced a 15-year \"boom\" beginning in the late 1880s caused by the discovery of natural gas. The Indiana Gas Boom caused the community to transition from an agricultural economy to one that also included manufacturing. During the 1890s, Hartford City was the home of the nation's largest window glass company (Hartford City Glass Company)and the nation's largest producer of lantern globes (Sneath Glass Company). The phenomenal growth ended after the boom, but the city was able to retain much of its workforce, as some of the glass factories and paper mills continued operations within the city. Jobs relating to the new automobile industry also became available in nearby cities. In the first half of the 20th century, Hartford City was able to attract several new manufacturers that became cornerstones for employment within the town, including Overhead Door and 3M. However, as the fortunes of the auto industry have declined in recent decades, so have the fortunes of Hartford City. As a reminder of the Gas Boom, the National Park Service of the United States Department of the Interior added the Hartford City Courthouse Square Historic District to the National Register of Historic Places on June 21, 2006—meaning the buildings and objects that contribute to the continuity of the district are worthy of preservation because of their historical and architectural significance. Individual buildings in Hartford City also recognized by the National Register of Historic Places include the Blackford County Courthouse and the First Presbyterian Church."
+}, {
+  "entityIndex" : "55_entity28112",
+  "entityUrl" : "http://dbpedia.org/resource/Taftan,_Balochistan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "``", "-LRB-", "Balochi", "almost", "careful", "official", "smuggling", "point", "getting", "Pakistan", "Iran", "road", "Taftan", "Chaghi", "legal", "Balochistan", "Iranian", "border", "''", "12", "km", "hours", "side", "famous", "town", "journey", "Urdu", ",", "'s", "crossing", ".", "تفتا", "driving", "route", "600", "-RRB-", "London", "Quetta", "Mirjaveh", "located", ":", "famed", "District", "تفتان", "locals" ],
+  "adjectives" : [ "famous", "legal", "careful", "located", "Iranian" ],
+  "nouns" : [ "border", "driving", "km", "side", "route", "town", "journey", "road", "official", "smuggling", "point" ],
+  "text" : "Taftan (Urdu: تفتان‎), (Balochi: تفتا) is a town located in Chaghi District, Balochistan, Pakistan. It is Pakistan's only legal official border crossing into Iran and famed by locals as the \"road to London\" because it is a famous smuggling route. Over 600 km from Quetta, getting to Taftan is a journey of almost 12 hours of careful driving. The border crossing point on the Iranian side is at Mirjaveh. Basically, Sanjranis are ruler of Chagai ( western Sanjrani Agency) in Taftan many tribes are settled. In Talap area Khan Sahib Chagai Mohammad Omar Khan Sanjrani has given land to almost every tribe for agriculture purpose from there own even though at that time Chief of Chagai Sardar Mohammad Akbar Khan Sanjrani got very angry on Khan Sahib Sanjrani for this gift of lands in Talap area to notable of Chagai for agriculture purpose. After a long discussion between both Chief And Khan Sanjrani it has been decided that Sardar Sanjrani will take over land from Khan sahib in other ares of Chagai in place of Talap area lands which distributed to people with out prior approval / consultation with him but Khan Sahib Sanjrani took position and didn't get back the lands from people."
+}, {
+  "entityIndex" : "56_entity29804",
+  "entityUrl" : "http://dbpedia.org/resource/Yazman",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "southern", "45", "altitude", "metres", "feet", "capital", "-LRB-", "city", "29", "Pakistan", "يزمان", "0E", "115", "71", "0N", "Urdu", "Yazman", "'", "Tehsil", "Punjab", "380", ",", "Bahawalpur", ".", "°", "-RRB-", "8", "located", ":", "District" ],
+  "adjectives" : [ "southern", "located" ],
+  "nouns" : [ "altitude", "capital", "city", "0E", "Yazman", "0N" ],
+  "text" : "Yazman (Urdu: يزمان‎), is a city and capital of Yazman Tehsil of Bahawalpur District, in southern Punjab, Pakistan. It is located at 29°8'0N 71°45'0E with an altitude of 115 metres (380 feet)."
+}, {
+  "entityIndex" : "57_entity11419",
+  "entityUrl" : "http://dbpedia.org/resource/Ahmedpur_Sial",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "-LRB-", "city", "13,131", "Sial", "150", "situated", "1998", "subdivision", "احمد", "Pakistan", "province", "road", "پُورسیال", "Muzaffargargh", "Khushab", "98", "--", "km", "Muzaffargarh", "Urdu", "Tehsil", "Punjab", ",", ".", "population", "headquarters", "administrative", "district", "-RRB-", ":", "Ahmedpur", "District", "Ahmadpur", "Jhang" ],
+  "adjectives" : [ "administrative" ],
+  "nouns" : [ "subdivision", "headquarters", "km", "province", "city", "road", "district", "population" ],
+  "text" : "Ahmadpur Sial (Urdu: احمد پُورسیال‎), is a city in Jhang District in the Punjab province of Pakistan. The city is the headquarters of Ahmedpur Sial Tehsil which an administrative subdivision of the district. Its population in 1998 was 13,131. It is situated on the Khushab – Muzaffargargh road, 98 km from Muzaffargarh and 150 km from Khushab. It lies just a few kilometers from the Chenab River. It is a highly agricultural are, with wheat, cotton, rice and sugar cane being the major crops. It is very important tehsil for constituency NA-91 and PP-83. Many politicians have their political offices there; Rana Imtiaz Ahmad Khan and Najaf Abbas Khan Sial are the two famous personalities of Ahmad Pur Sial. Govt High School Ahmedpur Sial has been very instrumental in terms of imparting high caliber education to students in Ahmedpur Sial and neighborhood and generated many scholars in myriad of fields. Mr. Ghazanfar Ali Sanpal (resident of Moza Ranjit Kot) matriculated from the high school and later on received his MSc degree in Computer Science in 2003 from Quad-e-Azam University (QAU), Islamabad (Pakistan). Ghazanfar Ali represents ZTE Corporation, Nanjing, China as Vice-Chairman at Distributed Management Task Force (DMTF) Cloud Management Sub-Committee. He attended approximately 50 face to face International technical meetings held in different continents including Pacific Asia, Europe, and North America and delivered and presented about 400 proposals/contributions in different technical standards developed in ITU SG13, OMA, and DMTF. Ahmedpur Sial once initiated an anti-money lender uprising, known as 'grain dacoitees', which later spread throughout the district and beyond."
+}, {
+  "entityIndex" : "58_entity11458",
+  "entityUrl" : "http://dbpedia.org/resource/Athara_Hazari",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "capital", "-LRB-", "Athara", "city", "north", "serve", "local", "situated", "Pakistan", "flows", "station", "boundaries", "Hazari", "Barrage", "rivers", "اٹهاره", "Trimmu", "town", "within", "Urdu", "Jhang-Bakhar", "Highway", "Tehsil", "Punjab", ",", "water", ".", "Jhelum", "Chenab", "police", "meet", "5", "kilometers", "-RRB-", ":", "ہزارى", "region", "District", "Jhang" ],
+  "adjectives" : [ "local" ],
+  "nouns" : [ "capital", "police", "town", "city", "north", "station", "region", "water" ],
+  "text" : "Athara Hazari (Urdu: اٹهاره ہزارى‎), is a city and capital of Athara Hazari Tehsil situated on the Jhang-Bakhar Highway within the boundaries of the Jhang District, Punjab, Pakistan. It is about 5 kilometers from the Trimmu Barrage. To the north of the town, the rivers Jhelum and Chenab meet and the water flows down to the Trimmu Barrage. Athara Hazari has a police station to serve the local region. Hazari also has a NADRA office and ZTBL bank. Wheat, rice and sugarcane are the main crops of this area."
+}, {
+  "entityIndex" : "59_entity11459",
+  "entityUrl" : "http://dbpedia.org/resource/Arbor_Creek,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "primarily", "2006", "rate", "neighbourhood", "high-income", "Arbor", "value", "area", "$", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", "4,654", ".", "home", "single", "detached", "Canada", "327,262", "residential", "99,631", "ownership", "Creek", "located", "residents", "92.5", "family" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located", "northeast", "low-density" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "value", "home" ],
+  "text" : "Arbor Creek is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings. As of 2006, the area is home to 4,654 residents. The neighbourhood is considered a high-income area, with an average family income of $99,631, an average dwelling value of $327,262 and a home ownership rate of 92.5%.According to MLS data, the average sale price of a home as of 2013 was $416,596."
+}, {
+  "entityIndex" : "60_entity11468",
+  "entityUrl" : "http://dbpedia.org/resource/Adelaide/Churchill,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "90.3", "dwelling", "78,438", "south-central", "2009", "subdivision", "suburban", "rate", "neighbourhood", "value", "3,445", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Adelaide/Churchill", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "287,976" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Adelaide/Churchill is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2009, the area is home to 3,445 residents. The neighbourhood is considered a middle-income area, with an average family income of $78,438, an average dwelling value of $287,976 and a home ownership rate of 90.3%.According to MLS data, the average sale price of a home as of 2013 was $350,096."
+}, {
+  "entityIndex" : "61_entity11469",
+  "entityUrl" : "http://dbpedia.org/resource/Avalon,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "Avalon", "dwelling", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "168,444", "value", "area", "$", "middle-income", "%", "65,000", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "77.3", "3,214" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Avalon is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 3,214 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,000, an average dwelling value of $168,444 and a home ownership rate of 77.3%.According to MLS data, the average sale price of a home as of 2013 was $352,359."
+}, {
+  "entityIndex" : "62_entity29615",
+  "entityUrl" : "http://dbpedia.org/resource/Wildwood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "townhouse", "part", "2012", "minority", "primarily", "neighbourhood", "Street", "majority", "sizeable", "live", "area", "7,582", "business", "Saskatoon", "multiple", "dwellings", "includes", "Saskatchewan", "low-density", ",", "8th", "apartment-style", ".", "Wildwood", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "townhouse", "business", "part", "low-density", "minority", "home", "unit", "neighbourhood", "district", "Street", "majority", "southeast" ],
+  "text" : "Wildwood is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. The majority of its residents live in townhouse or apartment-style multiple unit dwellings, with a sizeable minority of low-density, single detached dwellings. As of 2012, the area is home to 7,582 residents. The neighbourhood is considered a middle-income area, with an average family income of $64,196, and a home ownership rate of 64.7%.According to MLS data, the average sale price of a home as of 2013 was $270,309."
+}, {
+  "entityIndex" : "63_entity29621",
+  "entityUrl" : "http://dbpedia.org/resource/Willowgrove,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "270" ]
+  },
+  "words" : [ "income", "average", "Willowgrove", "considered", "fewer", "2011", "dwelling", "primarily", "mainly", "rate", "neighbourhood", "houses", "high-income", "single-family", "multiple-unit", "84.8", "mix", "value", "area", "middle", "$", "%", "Saskatoon", "dwellings", "northeast", "Saskatchewan", ",", "comprises", ".", "home", "detached", "Canada", "96,002", "residential", "ownership", "located", "residents", "family", "218,357", "3,973" ],
+  "adjectives" : [ "average", "residential", "middle", "high-income", "located", "northeast", "single-family", "multiple-unit" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "mix", "value", "home" ],
+  "text" : "Willowgrove is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It comprises a mix of mainly single-family detached houses and fewer multiple-unit dwellings. As of 2011, the area is home to 3,973 residents. The neighbourhood is considered a middle to high-income area, with an average family income of $96,002, an average dwelling value of $218,357 and a home ownership rate of 84.8%.According to MLS data, the average sale price of a home as of 2013 was $456,157."
+}, {
+  "entityIndex" : "64_entity19412",
+  "entityUrl" : "http://dbpedia.org/resource/Kamunting",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "260" ]
+  },
+  "words" : [ "Larut", "``", "Detention", "held", "Internal", "United", "Malaysia", "run", "Security", "three", "mainly", "without", "trial", "Brigade", "dan", "States", "biggest", "major", "Commonwealth", "Malay", "military", "Guantanamo", "prison", "Malaya", "similar", "period", "pronunciation", "town", "large", "nicknamed", "BMHs", "'s", ",", "28th", ".", "Kamunting", "/", "Kemunting", "camp", "Hospitals", "district", "-RRB-", ":", "1948", "hundred", "-LRB-", "detainees", "indefinite", "Gitmo", "referring", "2006", "satellite", "Selama", "Military", "''", "Center", "British", "Taiping", "famous", "British/Commonwealth", "one", "Matang", "also", "many", "home", "Perak", "Cuba", "Infantry", "industrial", "site", "Independent", "Act", "1960", "garrison", "Malayan", "holds", "Bay", "Emergency", "base" ],
+  "adjectives" : [ "similar", "industrial", "British", "famous", "major", "large", "Malay", "military", "many", "28th", "indefinite" ],
+  "nouns" : [ "period", "pronunciation", "town", "British/Commonwealth", "trial", "Kamunting", "Kemunting", "home", "camp", "Brigade", "site", "garrison", "district", "satellite", "prison", "base" ],
+  "text" : "Kamunting (Malay pronunciation: /Kemunting/) is the biggest satellite town in Taiping's Larut, Matang dan Selama district, Perak, Malaysia. It is also the biggest industrial town in Taiping and is famous mainly for being home to the Kamunting Detention Center a prison camp for detainees under the Internal Security Act, many of whom are held without trial for an indefinite period. The prison has been nicknamed \"Malaysia's Gitmo\" (referring to the Guantanamo Bay or Gitmo prison for similar detainees in Cuba run by the United States), and holds about a hundred detainees as of 2006. During the Malayan Emergency between 1948 and 1960, Kamunting was the site of a major British/Commonwealth military base, there being a large garrison for the 28th Commonwealth Independent Infantry Brigade and also one of the three British Military Hospitals (BMHs) in Malaya. Between Taiping and Kamunting is one of the main Military Cemeteries in Malaya. Over the many years of the conflict against the Communist terrorists, thousands of British, Australian, New Zealand, Fijian and Gurkha troops lived - and died - in and around Kamunting and Taiping. Kamunting houses the main bus station (Kamunting Raya) for Taiping town. Soon the Taiping train station will relocate there too. It has a weekly night market every Saturday night near the bus station that sells all sorts of local fresh produce and food stuffs. There are also fruit sellers along the road leading to the Kamunting bus stops which sell seasonal fruits like durian and mangosteens. It also connects Taiping to the North-South Expressway via the northern exit. Major tourist spot is Bukit Jana, which has a waterfall and streams off the range of Bukit Larut. The Bukit Jana Golf & Country Club is also situated nearby. Plans for Taiping sports centre, which includes a 15000-seater stadium, indoor venues and extreme sports site, are still under consideration."
+}, {
+  "entityIndex" : "65_entity19749",
+  "entityUrl" : "http://dbpedia.org/resource/Kunri",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "240" ]
+  },
+  "words" : [ "southern", "largest", "chili", "capital", "-LRB-", "100,000", "part", "ڪنري", "Kunri", "miles", "red", "Pakistan", "province", "taalqa", "كُنرى", "km", "town", "cities", "Urdu", "one", ",", "480", ".", "population", "Sindhi", "Karachi", "300", "Asia", "-RRB-", "located", "Umarkot", ":", "District", "Sindh" ],
+  "adjectives" : [ "red", "southern", "located" ],
+  "nouns" : [ "km", "chili", "capital", "town", "province", "part", "Kunri", "taalqa", "population" ],
+  "text" : "Kunri (Urdu: كُنرى‎), (Sindhi: ڪنري‎) is a taalqa and a town located in the Umarkot District, Sindh province in the southern part of Pakistan. It is about 300 miles (480 km) from Karachi, one of the largest cities in Pakistan. It has a population of about 100,000. It is the red chili capital of Asia. Kunri's red chili is very important to the domestic as well international markets; as a result, it attracts Chinese buyers all the way from Hong Kong who need chilies to make their chili sauce."
+}, {
+  "entityIndex" : "66_entity19860",
+  "entityUrl" : "http://dbpedia.org/resource/Khairpur_Tamiwali",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:imagesize" : [ "Hanzala Nasir" ]
+  },
+  "words" : [ "capital", "Khairpur", "Pakistan", "city", "Tehsil", "Tamewali", "Punjab", ",", "Bahawalpur", "District", "." ],
+  "adjectives" : [ ],
+  "nouns" : [ "capital", "city" ],
+  "text" : "Khairpur Tamewali is a city and the capital of Khairpur Tamewali Tehsil, Bahawalpur District, Punjab, Pakistan."
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity208",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Pennington",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:deathCause" : [ "http://dbpedia.org/resource/Stabbing" ]
+  },
+  "words" : [ "--", "British", "-LRB-", "James", "Andrew", "GM", "28", "politician", "2001", "2000", "Pennington", ",", "posthumous", ".", "1", "George", "1960", "-RRB-", "recipient", "Medal", "February", "January" ],
+  "adjectives" : [ "British", "recipient", "posthumous" ],
+  "nouns" : [ "politician", "Medal" ],
+  "text" : "Andrew James Pennington GM (1 February 1960 – 28 January 2000) was a British politician, and a posthumous recipient of the George Medal in 2001.",
+  "patterns" : { }
+} ]

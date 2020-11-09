@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity11222",
+  "entityUrl" : "http://dbpedia.org/resource/Bonnie_Loo",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:after" : [ "N/A" ]
+  },
+  "words" : [ "held", "competition", "won", "羅美儀", "season", "July", "female", "Musical", "cash", "Malaysian", "12", "Campus", "singing", "$", "Bonnie", "artiste", "contract", "opportunity", "Mee", ",", "Anatomy", "Loo", ".", "Měiyí", "traditional", "pinyin", "winner", "simplified", "two-year", "Dang", "Yee", "-RRB-", ":", ";", "Ding", "since", "-LRB-", "Singapore", "singer", "Luō", "5,000", "Glass", "emerged", "School", "2006", "1994", "SuperStar", "罗美仪", "Secondary", "Mediacorp", "Singapore-based", "born", "one", "competitions", "perform", "hails", "crowned", "Taiwan-based", "management", "Chinese", "fourth", "first", "Riverside" ],
+  "adjectives" : [ "traditional", "Secondary", "Mediacorp", "Taiwan-based", "two-year", "Singapore-based", "Chinese", "fourth", "female", "Musical", "Malaysian", "first" ],
+  "nouns" : [ "singer", "singing", "Luō", "artiste", "contract", "opportunity", "competition", "Měiyí", "pinyin", "winner", "management", "season", "cash" ],
+  "text" : "Bonnie Loo Mee Yee (simplified Chinese: 罗美仪; traditional Chinese: 羅美儀; pinyin: Luō Měiyí; born July 12, 1994), is a Singapore-based, Malaysian singer and Mediacorp artiste. She emerged from the fourth season of Campus SuperStar, one of the Chinese singing competitions held in Singapore. She hails from Riverside Secondary School, Singapore. She was crowned the first female winner since the first competition in 2006 and won a two-year Mediacorp management contract, $5,000 cash and the opportunity to perform with Taiwan-based singer Ding Dang in Glass Anatomy The Musical."
+}, {
+  "entityIndex" : "2_entity10861",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_Denville",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:after" : [ "http://dbpedia.org/resource/Lyall_Wilkes" ]
+  },
+  "words" : [ "defeated", "Arthur", "held", "leading", "Central", "retirement", "upon", "Denville", "theatre", "1931", "companies", "UK", "January", "Member", "ran", "Hinchcliffe", "--", "Charles", "still", "MP", ",", "'s", ".", "elected", "seat", "actors", "Tyne", "-RRB-", "London", "Alfred", "Sir", "Parliament", "1945", "23", "-LRB-", "impresario", "27", "March", "Newcastle", "1876", "general", "Party", "Trevelyan", "1955", "election", "politician", "one", "founded", "repertory", "home", "actor", "English", "trade", "Northwood", "Conservative", "Hall", "1924", "operation" ],
+  "adjectives" : [ "English", "general" ],
+  "nouns" : [ "actor", "theatre", "seat", "impresario", "trade", "election", "politician", "repertory", "retirement", "operation", "home" ],
+  "text" : "Alfred Arthur Hinchcliffe Denville (27 January 1876 – 23 March 1955) was an English actor, theatre impresario and Conservative Party politician. Denville, an actor by trade, ran one of the UK's leading repertory companies. In 1924 Denville founded Denville Hall, a retirement home for actors in Northwood, London that is still in operation. As a politician Denville was elected as the Member of Parliament (MP) for Newcastle upon Tyne Central seat from Sir Charles Trevelyan in the 1931 general election and held the seat until he was defeated in 1945. For a time he was associated with the far right of the Conservative Party, and during the 1930s was a leading member of the Friends of National Spain, which stressed support for Francisco Franco and anti-communism. He had also declared himself to be an admirer of Benito Mussolini although, in keeping with a number of contemporary Tories who admired the southern European fascists, he was critical of Adolf Hitler."
+} ]

@@ -1,0 +1,1541 @@
+[ {
+  "entityIndex" : "1_entity14405",
+  "entityUrl" : "http://dbpedia.org/resource/Ryo_Kase",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "174.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "2_entity14439",
+  "entityUrl" : "http://dbpedia.org/resource/Ryoko_Yonekura",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "168.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "3_entity14451",
+  "entityUrl" : "http://dbpedia.org/resource/Rena_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "158.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "4_entity14509",
+  "entityUrl" : "http://dbpedia.org/resource/Rina_Akiyama",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "163.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "5_entity14523",
+  "entityUrl" : "http://dbpedia.org/resource/Riki_Miura",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "180.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "6_entity14557",
+  "entityUrl" : "http://dbpedia.org/resource/Rin_Takanashi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "166.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "7_entity14597",
+  "entityUrl" : "http://dbpedia.org/resource/Ryota_Ozawa",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "177.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "8_entity14609",
+  "entityUrl" : "http://dbpedia.org/resource/Rina_Hidaka",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "154.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "9_entity14657",
+  "entityUrl" : "http://dbpedia.org/resource/Ryo_Ryusei",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "183.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "10_entity12071",
+  "entityUrl" : "http://dbpedia.org/resource/Georgia_May_Foote",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "154.94" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "11_entity12134",
+  "entityUrl" : "http://dbpedia.org/resource/Gaku_Hamada",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "12_entity11778",
+  "entityUrl" : "http://dbpedia.org/resource/Etsushi_Toyokawa",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "186.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "13_entity11779",
+  "entityUrl" : "http://dbpedia.org/resource/Eiji_Okuda",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "175.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "14_entity11855",
+  "entityUrl" : "http://dbpedia.org/resource/Eri_Fukatsu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "156.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "15_entity11888",
+  "entityUrl" : "http://dbpedia.org/resource/Elaiza_Ikeda",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "171.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "16_entity14690",
+  "entityUrl" : "http://dbpedia.org/resource/Shima_Iwashita",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.0" ]
+  },
+  "words" : [ "TV", "-LRB-", "Film", "frequently", "志麻", "岩下", "Shinoda", "best", "Orin", "appeared", "award", "known", "Tokyo", "won", "January", "篠田", "actress", "films", "Japan", "director", "born", "Iwashita", "2nd", "Shima", "film", "Ballad", ",", "many", "'s", "Japanese", "whose", ".", "better", "100", "1941", "3", "performance", "Award", "Hochi", "-RRB-", "productions", "Masahiro", "married" ],
+  "adjectives" : [ "2nd", "many", "Japanese" ],
+  "nouns" : [ "actress", "TV", "award", "performance", "director", "Award", "film", "Ballad" ],
+  "text" : "Shima Shinoda (篠田 志麻 Shinoda Shima), better known as Shima Iwashita (岩下 志麻 Iwashita Shima), born January 3, 1941, in Tokyo, Japan, is a Japanese actress who has appeared in about 100 films and many TV productions. She is married to film director Masahiro Shinoda, in whose films she has frequently appeared. She won the award for best actress at the 2nd Hochi Film Award for her performance in Shinoda's Ballad of Orin."
+}, {
+  "entityIndex" : "17_entity14732",
+  "entityUrl" : "http://dbpedia.org/resource/Shinichiro_Ohta",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "172.0" ]
+  },
+  "words" : [ "voice", "``", "Ohta", "announcer", "rapid-fire", "Mr.", "several", "episode", "character", "would", "1971", "Network", "per", "interrupting", "Kenji", "ichirō", ",", "'s", "Japanese", "version", ".", "dubbed", "field", "-RRB-", "style", "Ōta", "20", "commentary", "?", "-LRB-", "Shinichiro", "American", "Chef", "line", "March", "Iron", "best", "太田", "primarily", "English-language", "announcing", "times", "perhaps", "known", "dialogue", "kitchen", "Fukui-san", "Food", "`", "''", "aired", "Fukui", "真一郎", "television", "West", "born", "Manning", "reporter", "say", "actor", "noted", "appearance", "Jeff", "report", "Shin" ],
+  "adjectives" : [ "English-language", "rapid-fire", "American", "several", "Japanese" ],
+  "nouns" : [ "voice", "announcer", "ichirō", "television", "line", "reporter", "episode", "version", "actor", "character", "appearance", "field", "dialogue", "report", "style", "kitchen", "Fukui-san", "commentary" ],
+  "text" : "Shinichiro Ohta (太田 真一郎 Ōta Shin'ichirō, born March 20, 1971) is a Japanese voice actor and television announcer noted primarily in the West for his appearance as the kitchen reporter in Iron Chef, where he was known for his rapid-fire announcing style. On the English-language version of Iron Chef, which aired on Food Network, Ohta's dialogue is dubbed by American voice actor Jeff Manning. Ohta's character is perhaps best known for his line, \"Fukui-san?\" (Mr. Fukui), which he would say several times per episode, when interrupting Kenji Fukui's commentary with a report from the field. His talent agency is Aoni Production."
+}, {
+  "entityIndex" : "18_entity14735",
+  "entityUrl" : "http://dbpedia.org/resource/Shino_Kakinuma",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "158.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "19_entity14773",
+  "entityUrl" : "http://dbpedia.org/resource/Sosuke_Ikematsu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "172.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "20_entity14789",
+  "entityUrl" : "http://dbpedia.org/resource/Shinichi_Tsutsumi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "179.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "21_entity14824",
+  "entityUrl" : "http://dbpedia.org/resource/Sunny_Lane",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "22_entity14849",
+  "entityUrl" : "http://dbpedia.org/resource/Sei_Ashina",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "23_entity14857",
+  "entityUrl" : "http://dbpedia.org/resource/Shigenori_Yamazaki",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "24_entity14896",
+  "entityUrl" : "http://dbpedia.org/resource/Shingo_Tsurumi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "176.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "25_entity14897",
+  "entityUrl" : "http://dbpedia.org/resource/Shintaro_Yamada",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "178.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "26_entity14957",
+  "entityUrl" : "http://dbpedia.org/resource/Shogo_Suzuki_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "172.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "27_entity14965",
+  "entityUrl" : "http://dbpedia.org/resource/Seiichi_Tanabe",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "182.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "28_entity14969",
+  "entityUrl" : "http://dbpedia.org/resource/Suzanne_Collins_(actress)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "167.64000000000001" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "29_entity15034",
+  "entityUrl" : "http://dbpedia.org/resource/Shefali_Chowdhury",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "162.56" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "30_entity15036",
+  "entityUrl" : "http://dbpedia.org/resource/Siobhan_O'Neill",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4", "1.524" ]
+  },
+  "words" : [ "Sky", "TV", "BBC", "medical", "ITV", "World", "Kyneska", "Holby", "Considine", "band", "actress", "murder", "including", "work", "Angel", "Lane", "O'Neill", "City", "filmed", ",", "-", ".", "Siobhan", "Productions", "all-sister", "Housemaid", "Dark", "Mack", "-RRB-", ":", "-LRB-", "role", "Mr", "Going", "Whicher", "notable", "Thor", "rock", "Emerald", "sitcom", "Colman", "Paddy", "musician", "directed", "Christopher", "alongside", "Menaul", "television", "recently", "Trick", "born", "also", "Suspicions", "Lee", "drummer", "Olivia", "English", "Cambridgeshire", "series", "Huntingdon", "starring", "Hat", "formerly" ],
+  "adjectives" : [ "English", "medical", "all-sister", "Dark", "Emerald", "notable" ],
+  "nouns" : [ "Sky", "actress", "murder", "TV", "role", "work", "television", "World", "drummer", "Kyneska", "rock", "Housemaid", "series", "sitcom", "band", "musician" ],
+  "text" : "Siobhan O'Neill is an English actress and musician born in Huntingdon, Cambridgeshire. She is notable for her work in television, including Thor: The Dark World, TV sitcom Him and Her, TV sitcom Not Going Out starring Lee Mack and BBC TV medical series Holby City. Siobhan O'Neill is also the drummer for all-sister rock band Kyneska (formerly Emerald Sky). She has recently filmed the role of the Housemaid in The Suspicions of Mr Whicher - The murder in Angel Lane, alongside Olivia Colman and Paddy Considine, directed by Christopher Menaul for Hat Trick Productions and ITV."
+}, {
+  "entityIndex" : "31_entity15042",
+  "entityUrl" : "http://dbpedia.org/resource/Sora_Amamiya",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "32_entity15059",
+  "entityUrl" : "http://dbpedia.org/resource/Toshiko_Fujita",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "159.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "33_entity15069",
+  "entityUrl" : "http://dbpedia.org/resource/Tomoko_Yamaguchi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "170.0" ]
+  },
+  "words" : [ "-LRB-", "singer", "Tomoko", "j-drama", "October", "Tochigi", "1995", "山口", "智子", "Takuya", "actress", "Vacation", "alongside", "Kimura", "born", ",", "Japanese", ".", "lead", "1964", "classic", "Karasawa", "Yamaguchi", "-RRB-", "Long", "Toshiaki", "starring", "married", "20", "since" ],
+  "adjectives" : [ "classic", "Long", "Japanese" ],
+  "nouns" : [ "actress", "j-drama", "Vacation", "singer", "lead" ],
+  "text" : "Tomoko Yamaguchi (山口 智子 Yamaguchi Tomoko, born October 20, 1964) is a Japanese actress and singer from Tochigi. She is the lead actress for the classic j-drama Long Vacation, starring alongside Takuya Kimura. She has been married to Toshiaki Karasawa since 1995."
+}, {
+  "entityIndex" : "34_entity15076",
+  "entityUrl" : "http://dbpedia.org/resource/Tae_Kimura",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "162.0" ]
+  },
+  "words" : [ "actress", "32nd", "Kimura", "-LRB-", "木村", "16", "Japan", "Academy", "born", "Around", "March", ",", "Japanese", "多江", ".", "Prize", "award", "1971", "won", "-RRB-", "Tae", "Actress", "Best", "Us" ],
+  "adjectives" : [ "32nd", "Japanese" ],
+  "nouns" : [ "actress", "award", "Actress" ],
+  "text" : "Tae Kimura (木村 多江 Kimura Tae, born March 16, 1971) is a Japanese actress. She won the Best Actress award at the 32nd Japan Academy Prize for All Around Us."
+}, {
+  "entityIndex" : "35_entity15091",
+  "entityUrl" : "http://dbpedia.org/resource/Toshie_Negishi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "162.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "36_entity15099",
+  "entityUrl" : "http://dbpedia.org/resource/Toshiaki_Karasawa",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "175.0" ]
+  },
+  "words" : [ "play", "Bōizu", "Polar", "fighting", "theatre", "唐沢", "specialises", "action", "Story", "唐澤", "Sutei", "Gold", "made", "real", "film", ",", "'s", "Japanese", "Boy", ".", "1987", "3", "dubbed", "Tom", "-RRB-", "name", "Hanks", "Toy", "June", "theatrical", "-LRB-", "Gōrudo", "roles", "swordplay", "sequences", "debut", "潔", "ステイゴールド", "ボーイズレビュー", "Kiyoshi", "Stay", "Revue", "Express", "寿明", "born", "actor", "1963", "Rebyū", "Karasawa", "series", "Toshiaki", "・" ],
+  "adjectives" : [ "theatrical", "real", "Japanese" ],
+  "nouns" : [ "theatre", "actor", "debut", "play", "series", "name", "action", "swordplay", "film", "fighting", "Boy" ],
+  "text" : "Toshiaki Karasawa (唐沢 寿明 Karasawa Toshiaki, born June 3, 1963) (real name Kiyoshi Karasawa (唐澤 潔 Karasawa Kiyoshi)) is a Japanese theatre and film actor. He made his theatrical debut in the play Boy's Revue Stay Gold (ボーイズレビュー・ステイゴールド Bōizu Rebyū Sutei Gōrudo) in 1987. He specialises in theatrical action sequences such as swordplay and fighting. He dubbed over the roles of Tom Hanks in the Toy Story series, and The Polar Express. He has been nominated for two Japanese Academy Awards, and was named Best Newcomer in 1992. He married actress Tomoko Yamaguchi on December 15, 1995."
+}, {
+  "entityIndex" : "37_entity15114",
+  "entityUrl" : "http://dbpedia.org/resource/Takanori_Hoshino",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "191.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "38_entity15126",
+  "entityUrl" : "http://dbpedia.org/resource/Takaaki_Ishibashi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "182.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "39_entity15129",
+  "entityUrl" : "http://dbpedia.org/resource/Toshiyuki_Toyonaga",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "0.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "40_entity15189",
+  "entityUrl" : "http://dbpedia.org/resource/Tetsushi_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "182.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "41_entity15219",
+  "entityUrl" : "http://dbpedia.org/resource/Tatsuya_Fuji",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "174.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "42_entity15310",
+  "entityUrl" : "http://dbpedia.org/resource/Tao_Tsuchiya",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "155.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "43_entity13038",
+  "entityUrl" : "http://dbpedia.org/resource/Katja_Kassin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "154.94" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "44_entity13084",
+  "entityUrl" : "http://dbpedia.org/resource/Koji_Yamamoto_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "179.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "45_entity13108",
+  "entityUrl" : "http://dbpedia.org/resource/Kiichi_Nakai",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "181.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "46_entity13132",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Fukuhara",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "151.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "47_entity13157",
+  "entityUrl" : "http://dbpedia.org/resource/Kaho_(actress)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "164.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "48_entity13197",
+  "entityUrl" : "http://dbpedia.org/resource/Kento_Nakajima",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "176.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "49_entity13200",
+  "entityUrl" : "http://dbpedia.org/resource/Kaoru_Kobayashi_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "175.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "50_entity13202",
+  "entityUrl" : "http://dbpedia.org/resource/Katherine_East",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "182.88", "1.8288" ]
+  },
+  "words" : [ "Pilot", "TV", "Shebahonaning", "Katherine", "Degrassi", "United", "Monkeys", "shows", "appeared", "Covert", "GravyTrain", "Kink", "Erica", "Da", "others", "--", "Hair", "actress", "12", "frozen", "roads", "Saving", "film", ",", "'s", "community", "-", ".", "Ron", "Canada", "Generation", "schoolhouse", "among", "person", "Next", "-RRB-", "Bill", "Death", "Show", ":", "Skin", "Georgia", "East", "lake", "-LRB-", "Canadian", "Indigenous", "MVP", "Killjoys", "isolated", "general", "credits", "variety", "Northern", "Sensitive", "Squad", "village", "Kill", "include", "British", "Cheerleader", "Babysitter", "James", "Affairs", "television", "Puppets", "fishing", "one", "raised", "also", "Puck", "store", "room", "Hogs", "Guns", "Killarney", "stage", "Kingdom", "500", "series", "various", "Blindness", "Runaway", "productions", "Vampire", "complete", "Hope" ],
+  "adjectives" : [ "general", "British", "Canadian", "Indigenous", "various", "Sensitive", "frozen", "complete" ],
+  "nouns" : [ "Hair", "Pilot", "actress", "TV", "Babysitter", "television", "fishing", "film", "store", "community", "room", "schoolhouse", "stage", "variety", "series", "person", "Kink", "Skin", "Vampire", "village", "Da", "lake" ],
+  "text" : "Katherine East is a Canadian–British actress. Her television and film credits include a variety of shows, among others Puck Hogs, My Babysitter's a Vampire (TV series), Being Erica, GravyTrain, Runaway, Blindness, MVP, Guns, Da Kink in My Hair, Puppets Who Kill, Puck Hogs, The Ron James Show, Covert Affairs, Saving Hope, Degrassi: The Next Generation, Sensitive Skin (Canadian TV series),  Killjoys, 12 Monkeys (TV series), Cheerleader Death Squad (Pilot) and The Bill. She has also appeared on stage in various productions in Canada, the United Kingdom and Georgia. She was raised in the Indigenous community of Killarney (Shebahonaning) in Northern Canada - an isolated 500 person fishing village complete with a general store, a one room schoolhouse and frozen lake roads. Often homeschooled in the winter on her family's sailboat in The Bahamas. After travelling solo around the world at 18 she moved to Britain to study acting. She now resides in Toronto performing on both stage and screen."
+}, {
+  "entityIndex" : "51_entity13214",
+  "entityUrl" : "http://dbpedia.org/resource/Kanna_Mori",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "170.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "52_entity13230",
+  "entityUrl" : "http://dbpedia.org/resource/Katja_K",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "175.26" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "53_entity13232",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuki_Shimizu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "173.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "54_entity13234",
+  "entityUrl" : "http://dbpedia.org/resource/Kuranosuke_Sasaki",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "182.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "55_entity13241",
+  "entityUrl" : "http://dbpedia.org/resource/Kento_Kaku",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "178.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "56_entity13245",
+  "entityUrl" : "http://dbpedia.org/resource/Keisuke_Koide",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "176.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "57_entity13261",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Bracken",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "58_entity13262",
+  "entityUrl" : "http://dbpedia.org/resource/Kei_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "178.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "59_entity11139",
+  "entityUrl" : "http://dbpedia.org/resource/Britt_Morgan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.02" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "60_entity15411",
+  "entityUrl" : "http://dbpedia.org/resource/Wakana_Matsumoto",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "61_entity15414",
+  "entityUrl" : "http://dbpedia.org/resource/Wilde_Oscar",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "172.72" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "62_entity12214",
+  "entityUrl" : "http://dbpedia.org/resource/Haruhi_Nanao",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "156.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "63_entity12277",
+  "entityUrl" : "http://dbpedia.org/resource/Hiromi_Konno",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "64_entity12287",
+  "entityUrl" : "http://dbpedia.org/resource/Hiroyuki_Watanabe",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "176.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "65_entity12296",
+  "entityUrl" : "http://dbpedia.org/resource/Hiroya_Matsumoto",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "173.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "66_entity12297",
+  "entityUrl" : "http://dbpedia.org/resource/Hidetoshi_Nishijima_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "178.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "67_entity12436",
+  "entityUrl" : "http://dbpedia.org/resource/Hiroki_Hasegawa",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "183.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "68_entity10644",
+  "entityUrl" : "http://dbpedia.org/resource/Arata_Iura",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "183.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "69_entity10651",
+  "entityUrl" : "http://dbpedia.org/resource/Ayumi_Ito",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "166.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "70_entity10676",
+  "entityUrl" : "http://dbpedia.org/resource/Akira_Kobayashi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "180.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "71_entity10826",
+  "entityUrl" : "http://dbpedia.org/resource/Angela_Summers",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.02" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "72_entity10854",
+  "entityUrl" : "http://dbpedia.org/resource/Airi_Taira",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "155.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "73_entity10967",
+  "entityUrl" : "http://dbpedia.org/resource/Alice_Hirose",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "74_entity10980",
+  "entityUrl" : "http://dbpedia.org/resource/Arisa_Komiya",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "164.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "75_entity11000",
+  "entityUrl" : "http://dbpedia.org/resource/Ayame_Goriki",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "162.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "76_entity11002",
+  "entityUrl" : "http://dbpedia.org/resource/Azumi_Asakura",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "156.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "77_entity11015",
+  "entityUrl" : "http://dbpedia.org/resource/Ayuri_Konno",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "163.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "78_entity11025",
+  "entityUrl" : "http://dbpedia.org/resource/Atsuro_Watabe",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "180.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "79_entity11026",
+  "entityUrl" : "http://dbpedia.org/resource/Aislinn_O'Neill",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4", "1.524" ]
+  },
+  "words" : [ "Aislinn", "TV", "BBC", "medical", "Law", "Snow", "adaptation", "Kyneska", "Simon", "UK", "Holby", "pen", "band", "Eagle", "saga", "guitarist", "described", "Order", "actress", "author", "work", "&", "'", "O'Neill", "includes", "published", "film", "City", ",", ".", "August", "all-sister", "Chickens", "name", "producer", ":", "Amazon", "love", "singer", "Bird", "Stewart", "debut", "2009", "rock", "world", "known", "feature", "parallel", "takes", "musician", "God", "Huntsman", "television", "war", "also", "...", "English", "bass", "White", "stage", "Kristen", "serial", "2014", "series", "2013", "starring", "Emma", "novel" ],
+  "adjectives" : [ "English", "medical", "parallel", "all-sister" ],
+  "nouns" : [ "love", "TV", "singer", "adaptation", "Kyneska", "debut", "rock", "world", "feature", "pen", "band", "musician", "saga", "guitarist", "actress", "author", "work", "television", "war", "film", "bass", "stage", "serial", "series", "name", "producer", "novel" ],
+  "text" : "Aislinn O'Neill is an English actress, musician and author, also known by the stage and pen name Kyneska. Her debut novel, Eagle God was published on Amazon in August 2014 and is described as '…a saga of love and war on a parallel world.'  Her work in film and television includes the 2013 feature film Snow White and the Huntsman starring Kristen Stewart, the 2009 TV serial adaptation of Emma, TV series Law & Order: UK, TV series Chickens starring Simon Bird and BBC TV medical series Holby City. She is also the singer, bass guitarist and producer for all-sister rock band Kyneska, from which she takes her stage name."
+}, {
+  "entityIndex" : "80_entity11045",
+  "entityUrl" : "http://dbpedia.org/resource/Angell_Summers",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "81_entity11261",
+  "entityUrl" : "http://dbpedia.org/resource/Chizuru_Ikewaki",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "155.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "82_entity11299",
+  "entityUrl" : "http://dbpedia.org/resource/Connie_Chiu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "167.64000000000001", "1.6764" ]
+  },
+  "words" : [ "Hong", "-LRB-", "moved", "skin", "seven", "Connie", "eyes", "result", "Chiu", "Sweden", "world", "Like", "model", "protect", "photosensitive", "Kong", "British", "born", "'s", "many", ",", "people", "albinistic", ".", "albinism", "sunlight", "-RRB-", "Chinese", "1969", "family", "first", "fashion" ],
+  "adjectives" : [ "British", "Chinese", "photosensitive", "many", "first", "albinistic" ],
+  "nouns" : [ "result", "sunlight", "world", "skin", "model", "family", "albinism", "fashion" ],
+  "text" : "Connie Chiu (born 1969) was the world's first albinistic fashion model. Chiu was born in British Hong Kong to a Chinese family. Like many people with albinism, she has to protect her photosensitive eyes and skin from the sunlight. As a result, her family moved to Sweden when she was seven. Connie Chiu was first introduced to modeling when her sister asked her to become a model at one of her final shows. At age 25, Chiu began modeling for fashion photographers such as Terry Richardson, Paul Burley, Heidi Niemala and Morten Smidt. Chiu later studied journalism. Chiu starred in the music video for the single \"Stalker\" by Recoil, the solo project of Depeche Mode member Alan Wilder."
+}, {
+  "entityIndex" : "83_entity11352",
+  "entityUrl" : "http://dbpedia.org/resource/Chloe_Howman",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "84_entity11506",
+  "entityUrl" : "http://dbpedia.org/resource/Ceara_O'Neill",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4", "1.524" ]
+  },
+  "words" : [ "TV", "BBC", "medical", "Blunt", "Bird", "notable", "Kyneska", "rock", "Ceara", "Emily", "Simon", "backing", "Holby", "Inbetweeners", "sitcom", "band", "musician", "guitarist", "actress", "Young", "vocalist", "including", "work", "television", "Victoria", "O'Neill", "also", "City", ",", ".", "English", "all-sister", "series", "starring" ],
+  "adjectives" : [ "English", "medical", "all-sister", "notable" ],
+  "nouns" : [ "rock", "actress", "vocalist", "backing", "work", "television", "series", "sitcom", "band", "musician", "guitarist", "Kyneska" ],
+  "text" : "Ceara O'Neill is an English actress and musician. She is notable for her work in television, including Young Victoria, starring Emily Blunt, TV sitcom The Inbetweeners starring Simon Bird, TV sitcom Him and Her, and BBC TV medical series Holby City. Ceara O'Neill is also the guitarist and backing vocalist for all-sister rock band Kyneska."
+}, {
+  "entityIndex" : "85_entity11552",
+  "entityUrl" : "http://dbpedia.org/resource/Dany_Verissimo",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "86_entity11562",
+  "entityUrl" : "http://dbpedia.org/resource/Dru_Berrymore",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "170.18" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "87_entity11699",
+  "entityUrl" : "http://dbpedia.org/resource/Dylan_Ryan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "88_entity11714",
+  "entityUrl" : "http://dbpedia.org/resource/David_Caves",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "189.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "89_entity11715",
+  "entityUrl" : "http://dbpedia.org/resource/Dylan_Ryder",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "175.26" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "90_entity12000",
+  "entityUrl" : "http://dbpedia.org/resource/Fumi_Dan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "170.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "91_entity13513",
+  "entityUrl" : "http://dbpedia.org/resource/Masashi_Sugawara",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "177.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "92_entity13522",
+  "entityUrl" : "http://dbpedia.org/resource/Maki_Mizuno",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "162.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "93_entity13530",
+  "entityUrl" : "http://dbpedia.org/resource/Miki_Mizuno",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "167.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "94_entity13532",
+  "entityUrl" : "http://dbpedia.org/resource/Misako_Konno",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "167.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "95_entity13533",
+  "entityUrl" : "http://dbpedia.org/resource/Mahiru_Konno",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "96_entity13540",
+  "entityUrl" : "http://dbpedia.org/resource/Mayumi_Asano",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "161.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "97_entity13589",
+  "entityUrl" : "http://dbpedia.org/resource/Michel_Constantin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "185.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "98_entity13604",
+  "entityUrl" : "http://dbpedia.org/resource/Masakazu_Tamura",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "174.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "99_entity13636",
+  "entityUrl" : "http://dbpedia.org/resource/Mikako_Ichikawa",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "169.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "100_entity13700",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Graham_Cox",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "177.8" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "101_entity13763",
+  "entityUrl" : "http://dbpedia.org/resource/Melanie_Moore_(pornographic_actress)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "175.26" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "102_entity13775",
+  "entityUrl" : "http://dbpedia.org/resource/Masaki_Okada",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "180.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "103_entity13777",
+  "entityUrl" : "http://dbpedia.org/resource/Masanobu_Takashima",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "180.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "104_entity13810",
+  "entityUrl" : "http://dbpedia.org/resource/Masahiro_Inoue",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "182.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "105_entity13838",
+  "entityUrl" : "http://dbpedia.org/resource/Masaki_Suda",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "176.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "106_entity13841",
+  "entityUrl" : "http://dbpedia.org/resource/Masaya_Kato",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "183.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "107_entity13862",
+  "entityUrl" : "http://dbpedia.org/resource/Misty_Stone",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "108_entity13896",
+  "entityUrl" : "http://dbpedia.org/resource/Maho_Nonami",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "166.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "109_entity13931",
+  "entityUrl" : "http://dbpedia.org/resource/Mirei_Kiritani",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "163.5" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "110_entity13994",
+  "entityUrl" : "http://dbpedia.org/resource/Misti_Dawn",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "157.48000000000002" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "111_entity13999",
+  "entityUrl" : "http://dbpedia.org/resource/Mikako_Komatsu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "112_entity14019",
+  "entityUrl" : "http://dbpedia.org/resource/Misaki_Momose",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "151.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "113_entity14030",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Luz",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "152.4", "1.524" ]
+  },
+  "words" : [ "love", "Quezon", "-LRB-", "Pinoy", "Mark", "best", "Reinier", "Tajon", "Filipino", "known", "personality", "interest", "Brother", "contestant", "February", "Big", "De", "Philippines", "television", "born", "one", "House", "City", ",", "'s", "Kim", ".", "Luz", "better", "actor", "entry", "among", "daily", "8", "-RRB-", "Model", "Unlimited", ":", "1988", "Guzman" ],
+  "adjectives" : [ "Big", "daily" ],
+  "nouns" : [ "actor", "love", "entry", "personality", "interest", "television", "contestant" ],
+  "text" : "Mark Reinier Tajon Luz (born February 8, 1988 in Quezon City, Philippines) or better known as Mark Luz is a Filipino actor, Model and television personality, He is best known for one of the contestant in Pinoy Big Brother: Unlimited among with Kim De Guzman Mark's love interest in the Big Brother House on daily entry."
+}, {
+  "entityIndex" : "114_entity14031",
+  "entityUrl" : "http://dbpedia.org/resource/Mayu_Matsuoka",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "115_entity12528",
+  "entityUrl" : "http://dbpedia.org/resource/Johan_Paulik",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "180.0" ]
+  },
+  "words" : [ "studio", "became", "Slovak", "pornographic", "career", "-LRB-", "John", "March", "inducted", "entire", "confused", "1975", "general", "Fame", "worked", "George", "Paulk", "Johan", "2002", "model", "Paulik", "Ami", "gay", "owner", "GayVN", "14", "manager", "Europe", "born", "Bel", "2000", ",", ".", "former", "Lukas", "stage", "Ridgeston", "-RRB-", "name", "Hall", "Duroy" ],
+  "adjectives" : [ "general", "Slovak", "pornographic", "entire", "former", "gay" ],
+  "nouns" : [ "owner", "studio", "career", "stage", "manager", "name", "model" ],
+  "text" : "(Not to be confused with John Paulk.) Johan Paulik (born 14 March 1975) is the stage name of a Slovak former gay pornographic model. In 2000, he was inducted into the GayVN Hall of Fame with Lukas Ridgeston and George Duroy, owner of Bel Ami, the studio Paulik worked for his entire career. In 2002, Paulik became general manager for Bel Ami in Europe."
+}, {
+  "entityIndex" : "116_entity12550",
+  "entityUrl" : "http://dbpedia.org/resource/Jasmin_St._Claire",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "167.64000000000001" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "117_entity12632",
+  "entityUrl" : "http://dbpedia.org/resource/Johnni_Black",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "118_entity12692",
+  "entityUrl" : "http://dbpedia.org/resource/Junji_Takada",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "175.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "119_entity12714",
+  "entityUrl" : "http://dbpedia.org/resource/Jimmy_Vee",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "112.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "120_entity12737",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Linsley",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "182.88", "1.8288" ]
+  },
+  "words" : [ "Wine", "``", "Chest", "-LRB-", "roles", "07", "Summer", "Pirates", "ship", "World", "Dutchman", "professional", "debut", "Last", "appeared", "2006", "Jonathan", "January", "1956", "''", "--", "include", "Dead", "17", "made", "television", "Ogilvey", "born", "film", ",", "'s", ".", "actor", "English", "Flying", "Milburn", "1984", "Linsley", "1980", "-RRB-", "Crusher", ":", "End", "aboard", "Man", "Caribbean", "87" ],
+  "adjectives" : [ "English", "Last", "Dead", "professional" ],
+  "nouns" : [ "actor", "debut", "Wine", "Chest", "television", "Ogilvey", "Summer", "ship", "End", "film", "Man" ],
+  "text" : "Jonathan Linsley (born 17 January 1956) is an English actor who made his professional debut in 1980. He appeared on television in Last of the Summer Wine as \"Crusher\" Milburn (1984–87), and his film roles include Pirates of the Caribbean: Dead Man's Chest and Pirates of the Caribbean: At World's End, as Ogilvey aboard the ship Flying Dutchman (2006–07)."
+}, {
+  "entityIndex" : "121_entity12870",
+  "entityUrl" : "http://dbpedia.org/resource/Junya_Ikeda",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "171.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "122_entity12931",
+  "entityUrl" : "http://dbpedia.org/resource/Julien_Kang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "194.3" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "123_entity12964",
+  "entityUrl" : "http://dbpedia.org/resource/Jun_Shison",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "178.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "124_entity15512",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshino_Kimura",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "167.0" ]
+  },
+  "words" : [ "``", "-LRB-", "singer", "Yoshino", "idol", "episode", "prize", "1976", "Shitsurakuen", "appeared", "won", "English-born", "Showtime", "10", "''", "actress", "Masters", "Kimura", "Horror", "木村", "Japan", "Academy", "born", "Rookie", ",", "Japanese", "April", "former", ".", "Awards", "appearance", "Year", "series", "21st", "-RRB-", "佳乃" ],
+  "adjectives" : [ "English-born", "Japanese", "former" ],
+  "nouns" : [ "actress", "Masters", "appearance", "singer", "Year", "series", "Rookie", "idol", "episode", "prize" ],
+  "text" : "Yoshino Kimura (木村 佳乃 Kimura Yoshino, born 10 April 1976) is an English-born Japanese actress and former idol singer. She appeared on an episode of the Showtime series Masters of Horror. Kimura won the \"Rookie of the Year\" prize at the 21st Japan Academy Awards for her appearance in Shitsurakuen."
+}, {
+  "entityIndex" : "125_entity15513",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Moriguchi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "164.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "126_entity15534",
+  "entityUrl" : "http://dbpedia.org/resource/Yutaka_Takenouchi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "179.0" ]
+  },
+  "words" : [ "-LRB-", "modeling", "ボクの就職", "Boku", "豊", "appears", "「", "」", "debut", "on-screen", "drama", "regularly", "1994", "1971", "Syūshoku", "January", "contest", "winning", "born", "commercials", ",", "Japanese", ".", "竹野内", "actor", "2", "Takenouchi", "-RRB-", "Yutaka", "acting" ],
+  "adjectives" : [ "on-screen", "Japanese" ],
+  "nouns" : [ "actor", "debut", "drama", "modeling", "contest", "Syūshoku", "Boku", "」" ],
+  "text" : "Yutaka Takenouchi (竹野内 豊 Takenouchi Yutaka, born January 2, 1971) is a Japanese actor. His on-screen acting debut was in the drama 「ボクの就職」 (Boku no Syūshoku) in 1994, after winning a modeling contest. He regularly appears in commercials."
+}, {
+  "entityIndex" : "127_entity15555",
+  "entityUrl" : "http://dbpedia.org/resource/Yumi_Asou",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "161.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "128_entity15556",
+  "entityUrl" : "http://dbpedia.org/resource/Yutaka_Matsushige",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "188.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "129_entity15596",
+  "entityUrl" : "http://dbpedia.org/resource/Yuma_Ishigaki",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "173.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "130_entity15615",
+  "entityUrl" : "http://dbpedia.org/resource/Yuko_Ito",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "131_entity15649",
+  "entityUrl" : "http://dbpedia.org/resource/Yuki_Yamada",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "177.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "132_entity15666",
+  "entityUrl" : "http://dbpedia.org/resource/Yudai_Chiba",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "173.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "133_entity15669",
+  "entityUrl" : "http://dbpedia.org/resource/Yuko_Takayama",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "167.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "134_entity14047",
+  "entityUrl" : "http://dbpedia.org/resource/Noname_Jane",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "160.02" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "135_entity14056",
+  "entityUrl" : "http://dbpedia.org/resource/Nanako_Matsushima",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "172.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "136_entity14069",
+  "entityUrl" : "http://dbpedia.org/resource/Nicole_Sheridan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "177.8" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "137_entity14120",
+  "entityUrl" : "http://dbpedia.org/resource/Nana_Katase",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "172.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "138_entity14125",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Iriyama",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "168.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "139_entity14140",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Saputra",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "178.0", "1.78" ]
+  },
+  "words" : [ "dengan", "romance", "24", "-LRB-", "role", "Dengan", "reprised", "personality", "known", "cult", "Rangga", "Indonesian", "2002", "model", "Saputra", "February", "television", "born", "Nicholas", ",", ".", "actor", "2", "1984", "classic", "Apa", "Cinta", "-RRB-", "Ada", "?" ],
+  "adjectives" : [ "classic", "Indonesian" ],
+  "nouns" : [ "actor", "dengan", "romance", "role", "Apa", "personality", "cult", "television", "model" ],
+  "text" : "Nicholas Saputra (born February 24, 1984) is an Indonesian actor, model and television personality. He is known for his role as Rangga in the 2002 cult classic romance Ada Apa dengan Cinta? , a role he reprised in Ada Apa Dengan Cinta? 2. His film, Interchange, debuted at the Locarno International Film Festival  and will be screened at the 2016 Toronto International Film Festival, one of the most prestigious events of its kind in the world. He won Best Leading Role Actor in Indonesian Movie Awards for his role in Janji Joni and Citra Award for Best Leading Actor in Indonesian Film Festival 2005 for his role in Gie. Saputra is also known as a dedicated environmentalist."
+}, {
+  "entityIndex" : "140_entity14173",
+  "entityUrl" : "http://dbpedia.org/resource/Natsuna_Watanabe",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:height" : [ "165.0" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

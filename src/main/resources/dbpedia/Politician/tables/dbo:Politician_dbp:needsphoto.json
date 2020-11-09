@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity11853",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_Reid_(councilmember)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:needsphoto" : [ "yes" ]
+  },
+  "words" : [ "city", "council", "Larry", "Reid", "member", "also", "California", "Oakland", ",", ".", "president" ],
+  "adjectives" : [ ],
+  "nouns" : [ "city", "council", "member", "president" ],
+  "text" : "Larry Reid is a city council member in Oakland, California. He is also the president of the council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity4194",
+  "entityUrl" : "http://dbpedia.org/resource/Desley_Brooks",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:needsphoto" : [ "yes" ]
+  },
+  "words" : [ "New", "Mayor", "held", "Science", "2011", "Angeles", "Oakland", "Council", "Washington", "2002", "member", "Orleans", "January", "Vice", "Desley", "Brooks", "Seattle", "born", "B.A.", "also", "City", "California", ",", "'s", "J.D.", "inaugurated", "grew", ".", "Moses", "Mayne.Brooks", "elected", "seat", "Los", "University", "council", "holds", "position", "Political", "formerly", "first", "since", "taking" ],
+  "adjectives" : [ "first" ],
+  "nouns" : [ "seat", "council", "member", "position" ],
+  "text" : "Desley Brooks is a City Council member on the Oakland City Council, a position she's held since 2002. In January 2011, Brooks was also inaugurated as the Vice Mayor of Oakland, California. Brooks was first elected to the council in 2002, taking the seat formerly held by Moses Mayne.Brooks was born in New Orleans, and she grew up in Los Angeles and Seattle. She holds a B.A. in Political Science from University of Washington and a J.D. from Seattle University. Prior to her service on the city council, Brooks served Chief of Staff to Alameda County Supervisor Keith Carson. In 2002, Brooks listed endorsements by a number of individuals including sitting city council member Nancy Nadel and civil rights attorney Dan Siegel. In 2008 Brooks sued San Francisco Chronicle for libel. That case, Brooks v. San Francisco Chronicle, was ultimately dismissed. In 2010 Brooks spoke on the one-year anniversary of the BART Police shooting of Oscar Grant. In 2011 Council member Brooks was among the protestors sleeping in tents on the inaugural night of the Occupy Oakland encampment. In 2012, Brooks put forward a public safety proposal calling for, among other things, better lighting in high crime areas of the city.",
+  "patterns" : { }
+} ]

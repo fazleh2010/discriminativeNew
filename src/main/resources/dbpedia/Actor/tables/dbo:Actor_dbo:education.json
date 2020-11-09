@@ -1,0 +1,45 @@
+[ {
+  "entityIndex" : "1_entity12047",
+  "entityUrl" : "http://dbpedia.org/resource/Graham_Pountney",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:education" : [ "http://dbpedia.org/resource/Bristol_Old_Vic_Theatre_School" ]
+  },
+  "words" : [ "New", "Graham", "-LRB-", "Hustle", "Souls", "Practice", "Way", "1953", "credits", "Howards", "Michael", "Peak", "Angels", "February", "include", "British", "television", "born", "'", ",", ".", "Sea", "Tricks", "Doctors", "actor", "6", "-RRB-", "Cleopatras", ":", "Pountney" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "actor", "television", "Way", "Sea" ],
+  "text" : "Graham Michael Pountney (born 6 February 1953) is a British actor. His television credits include: Angels, The Cleopatras, Howards' Way, Peak Practice, Doctors, Sea of Souls, Hustle and New Tricks."
+}, {
+  "entityIndex" : "2_entity15258",
+  "entityUrl" : "http://dbpedia.org/resource/Theo_Stevenson",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:education" : [ "http://dbpedia.org/resource/St_John's_School,_Billericay" ]
+  },
+  "words" : [ "``", "-LRB-", "27", "Humans", "Millie", "John", "title", "1998", "character", "known", "Toby", "sitcom", "Si-Fi", "Theo", "February", "Henry", "''", "Movie", "recently", "born", "Horrid", ".", "actor", "better", "English", "Theodore", "Drama", "Craig", "-RRB-", "Inbetween", "starring", ":", "playing", "Stevenson", "family" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "actor", "Movie", "character", "sitcom", "title", "family" ],
+  "text" : "Theodore John \"Theo\" Stevenson (born 27 February 1998) is an English actor known for starring as the title character in Horrid Henry: The Movie. More recently he is better known for playing Craig in the family sitcom Millie Inbetween and Toby in the Si-Fi Drama Humans."
+}, {
+  "entityIndex" : "3_entity11538",
+  "entityUrl" : "http://dbpedia.org/resource/David_Horovitch",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:education" : [ "http://dbpedia.org/resource/St_Christopher_School,_Letchworth", "http://dbpedia.org/resource/Central_School_of_Speech_and_Drama" ]
+  },
+  "words" : [ "Horovitch", "11", "-LRB-", "born", "best", ",", ".", "August", "actor", "English", "character", "perhaps", "known", "Slack", "David", "-RRB-", "Miss", "Inspector", "playing", "Marple", "1945" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "actor", "character" ],
+  "text" : "David Horovitch (born 11 August 1945) is an English actor, perhaps best known for playing the character of Inspector Slack in Miss Marple."
+}, {
+  "entityIndex" : "4_entity13555",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Pearlman",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbo:education" : [ "http://dbpedia.org/resource/Goshen_Central_High_School" ]
+  },
+  "words" : [ "New", "-LRB-", "York", "Pearlman", "moved", "Central", "Pony", "Paul", "School", "appeared", "1995", "1972", "feature", "Simon", "Michael", "1991", "season", "Journalism", "Baio", "written", "Southern", "released", "November", "High", "attended", "Charles", "15", "born", "Charge", "also", "received", "film", "California", ",", "former", ".", "actor", "University", "1982", "1980", "graduated", "-RRB-", "One-Trick", "starring", "Goshen", "first", "Scott", "BA" ],
+  "adjectives" : [ "former", "first" ],
+  "nouns" : [ "actor", "feature", "season", "film", "BA" ],
+  "text" : "Michael Pearlman (born November 15, 1972, in New York), is a former actor who appeared in the first season of Charles in Charge, with Scott Baio. He also appeared in One-Trick Pony, a feature film written by and starring Paul Simon that was released in 1980. He moved to Goshen, New York, in 1982 and graduated from Goshen Central High School in 1991. He attended the University of Southern California and New York University, where he received a BA in Journalism in 1995. He currently lives in Cheyenne, Wyoming with his wife and daughter, where he works as a writer and maintains a personal blog covering sports and the outdoors."
+} ]

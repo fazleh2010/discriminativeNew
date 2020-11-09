@@ -1,0 +1,301 @@
+[ {
+  "entityIndex" : "1_entity10665",
+  "entityUrl" : "http://dbpedia.org/resource/Karpal_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Education", "Ethnicity", "Other name" ]
+  },
+  "words" : [ "given", "-LRB-", "politician", "Penang", ",", ".", "article", "patronymic", "see", "seaside", "promenade", "person", "name", "Karpal", "-RRB-", "Indian", "Drive", "Singh", "family", "Malaysian", "lawyer", "Ram", "referred" ],
+  "adjectives" : [ "patronymic", "seaside", "Indian", "Malaysian" ],
+  "nouns" : [ "promenade", "person", "politician", "name", "family", "article", "lawyer" ],
+  "text" : "(In this Indian name, the name Ram Singh is a patronymic, not a family name, and the person should be referred to by the given name, Karpal Singh.)(This article is about the Malaysian politician and lawyer. For the seaside promenade in Penang, see Karpal Singh Drive.)",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity10932",
+  "entityUrl" : "http://dbpedia.org/resource/K._Thurairetnasingam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Ethnicity" ]
+  },
+  "words" : [ "Thurairetnasingam", "-LRB-", "Lankan", "Kathirgamathamby", "கதிர்காமத்தம்பி", "born", "politician", "Sri", ",", "Tamil", ".", "துரைரத்தினசிங்கம்", "1941", "servant", "4", "civil", "-RRB-", ":", ";", "January", "Member", "Parliament" ],
+  "adjectives" : [ "civil" ],
+  "nouns" : [ "servant", "politician" ],
+  "text" : "Kathirgamathamby Thurairetnasingam (Tamil: கதிர்காமத்தம்பி துரைரத்தினசிங்கம்; born 4 January 1941) is a Sri Lankan Tamil civil servant, politician and Member of Parliament.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity11072",
+  "entityUrl" : "http://dbpedia.org/resource/K._K._Shetty",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Source" ]
+  },
+  "words" : [ "date", "Congress", "K.", "-LRB-", "death", "independence", "unknown", "Sabha", "National", "member", "represented", "Constituency", "Member", "activist", "Shetty", "born", "18", "5th", "Lok", "Mangalore", ",", "April", ".", "journalist", "-RRB-", "Indian", "1901", "Parliament" ],
+  "adjectives" : [ "Indian", "5th", "unknown" ],
+  "nouns" : [ "date", "activist", "journalist", "Sabha", "death", "member", "Lok", "independence" ],
+  "text" : "K. K. Shetty (born 18 April 1901, date of death unknown) was an Indian independence activist, journalist and a Member of Parliament who represented the Mangalore Constituency in the 5th Lok Sabha. He was a member of Indian National Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity11075",
+  "entityUrl" : "http://dbpedia.org/resource/K._Nagappa_Alva",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Source" ]
+  },
+  "words" : [ "Dr.", "Health", "Government", "Alva", ",", ".", "Nagappa", "Politician", "Rajya", "Sabha", "known", "Karnataka", "State", "served", "Indian", "Kodman", "Member", "Parliament", "Minister", "Mysore" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "Politician", "Government", "State", "Mysore" ],
+  "text" : "Dr. Kodman. Nagappa Alva was an Indian Politician who served as Member of Parliament in the Rajya Sabha and as Minister of Health in the State Government of Karnataka, then known as Mysore State.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity11137",
+  "entityUrl" : "http://dbpedia.org/resource/K._Aiyadurai",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Ethnicity" ]
+  },
+  "words" : [ "Aiyadurai", "politician", "Ceylon", "Tamil", "lawyer", ".", "Kandavanam" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "lawyer" ],
+  "text" : "Kandavanam Aiyadurai was a Ceylon Tamil politician and lawyer.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity11801",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_(cat)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Gender" ]
+  },
+  "words" : [ "Office", "-LRB-", "Chief", "britischen", "seit", "2011", "trägt", "ist", "ein", "den", "Er", "der", "Mäusefänger", "2007", "tut", "des", "Larry", "Street", "Januar", "10", "Rt", "Kater", "Cabinet", "Hon", "Premierministers", "als", "*", ",", "No.", ".", "Dienst", "Downing", "Mouser", "Titel", "-RRB-", "Amtswohnung" ],
+  "adjectives" : [ ],
+  "nouns" : [ "tut", "trägt", "ist", "ein", "No.", "den", "Er" ],
+  "text" : "The Rt Hon Larry (* Januar 2007) ist ein Kater, der seit 2011 in Downing Street No. 10, der Amtswohnung des britischen Premierministers, als Mäusefänger Dienst tut. Er trägt den Titel Chief Mouser to the Cabinet Office.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity11974",
+  "entityUrl" : "http://dbpedia.org/resource/Luis_Balbino_Arroyo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Known for" ]
+  },
+  "words" : [ "became", "Arroyo", "-LRB-", "education", "Moca", "university", "youngest", "finish", "Colón", "11", "admitted", "Rico", "born", "1990", "prodigy", "Puerto", ",", ".", "secondary", "ever", "Balbino", "person", "Luis", "-RRB-", "age", "child" ],
+  "adjectives" : [ "secondary" ],
+  "nouns" : [ "education", "person", "university", "prodigy", "age", "child" ],
+  "text" : "Luis Balbino Arroyo Colón (born 1990) is a child prodigy from Moca, Puerto Rico, who, at the age of 11, became the youngest person ever to finish secondary education in Puerto Rico and to be admitted to a university in Puerto Rico.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity2142",
+  "entityUrl" : "http://dbpedia.org/resource/Bali_Ram",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Website", "Official Biography", "Lok Sabha Committee Memberships", "Father’s name", "Mother’s name" ]
+  },
+  "words" : [ "Dr.", "Lower", "Bali", "Lalganj", "15th", "Banaras", "2009", "Sabha", "Pradesh", "Education", "Hindu", "member", "parliamentary", "state", "representative", "Uttar", "degree", "Lok", "House", ",", "'s", ".", "India", "master", "Doctorate", "elected", "constituency", "University", "holds", "Parliament", "Ram" ],
+  "adjectives" : [ "parliamentary", "15th" ],
+  "nouns" : [ "constituency", "member", "degree", "state", "representative", "master" ],
+  "text" : "Dr. Bali Ram  is a member of Lok Sabha, Lower House of the Parliament of India. He was elected to 15th Lok Sabha in 2009 as a representative of Lalganj, a parliamentary constituency in the state of Uttar Pradesh. He holds the master's degree in Education and Doctorate from Banaras Hindu University.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity2143",
+  "entityUrl" : "http://dbpedia.org/resource/Balram_Naik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Official Biography", "Lok Sabha Committee Memberships" ]
+  },
+  "words" : [ "Congress", "June", "Lower", "-LRB-", "political", "15th", "Naik", "Sabha", "known", "National", "member", "born", "politician", "Lok", "House", ",", ".", "India", "1964", "6", "Balram", "-RRB-", "Porika", "Indian", "party", "Parliament" ],
+  "adjectives" : [ "Indian", "political", "15th" ],
+  "nouns" : [ "politician", "member", "party" ],
+  "text" : "Porika Naik Balram known as Balram Naik (born 6 June 1964) is an Indian politician and a member of the Indian National Congress political party. He was a member of the 15th Lok Sabha, Lower House of the Parliament of India.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity15724",
+  "entityUrl" : "http://dbpedia.org/resource/Rob_Hamill",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Sport" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "political", "World", "Robbie", "1997", "2008", "general", "candidate", "Hamill", "Party", "known", "public", "1994", "Robert", "won", "Race", "came", "medal", "January", "win", "''", "went", "election", "Rob", "born", "Rowing", "also", ",", "former", ".", "Miles", "MNZM", "1964", "Zealand", "Championships", "4", "-RRB-", "attention", "silver", "rower", "Atlantic", "first", "Green" ],
+  "adjectives" : [ "general", "public", "political", "former", "first" ],
+  "nouns" : [ "candidate", "election", "medal", "attention", "silver", "rower" ],
+  "text" : "Robert Miles \"Rob\" Hamill, MNZM, (born 4 January 1964), also known as Robbie Hamill, is a former New Zealand rower and political candidate. He came to public attention when, in 1994, he won a silver medal in the World Rowing Championships. He went on to win the first Atlantic Rowing Race in 1997. Hamill was a candidate at the 2008 general election for the Green Party. However, he was not elected. His oldest brother, Kerry, was imprisoned and killed by members of the Khmer Rouge in 1978, after straying into Cambodian waters. Rob testified in court against the leader of the prison, Duch, in 2009.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity15828",
+  "entityUrl" : "http://dbpedia.org/resource/Rana_Muhammad_Akram_Khan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Award" ]
+  },
+  "words" : [ "-LRB-", "محمد", "Rana", "Urdu", "Khan", "chairman", "Punjab", "Pakistani", "zamindar", ".", "former", "Council", "PBC", "Muhammad", "executive", "Akram", "Bar", "اکرم", "خاں", "-RRB-", ":", "lawyer", "رانا" ],
+  "adjectives" : [ "Pakistani", "former" ],
+  "nouns" : [ "executive", "خاں", "chairman", "zamindar", "lawyer" ],
+  "text" : "Rana Muhammad Akram Khan (Urdu: رانا محمد اکرم خاں‎) is a Pakistani lawyer and zamindar. He is former chairman executive of the Punjab Bar Council (PBC).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity7753",
+  "entityUrl" : "http://dbpedia.org/resource/Ion_Codreanu_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Parents" ]
+  },
+  "words" : [ "--", "Moldovan", "Codreanu", "-LRB-", "14", "Ştefăneşti", "Soroca", "15", "Bucharest", "politician", "Ion", ",", "County", "April", "Floreşti", ".", "-RRB-", "Stepanovici", "1949", "February", "1879" ],
+  "adjectives" : [ "Moldovan" ],
+  "nouns" : [ "politician", "Ion" ],
+  "text" : "Ion Stepanovici Codreanu (April 14, 1879 in Ştefăneşti, Floreşti, Soroca County – February 15, 1949 in Bucharest) was a Moldovan politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity16200",
+  "entityUrl" : "http://dbpedia.org/resource/Szmul_Zygielbojm",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Ethnicity" ]
+  },
+  "words" : [ "leader", "-LSB-", "-LRB-", "Holocaust", "May", "indifference", "exile", "governments", "Council", "zɨˈɡʲɛlbɔjm", "Zygielbojm", "government", "1895", "National", "Szmul", "member", "זיגלבוים", "ˈʂmul", "February", "--", "11", "socialist", "committed", "Polish", "שמואל", "politician", "suicide", "Allied", "Yiddish", "protest", ",", ".", "1943", "face", "Bund", "-RRB-", "-RSB-", ":", ";", "Jewish-Polish", "21" ],
+  "adjectives" : [ "socialist", "Polish", "Yiddish", "Jewish-Polish", "ˈʂmul" ],
+  "nouns" : [ "leader", "zɨˈɡʲɛlbɔjm", "face", "government", "indifference", "Bund", "politician", "suicide", "member", "exile" ],
+  "text" : "Szmul Zygielbojm (Polish: [ˈʂmul zɨˈɡʲɛlbɔjm]; Yiddish: שמואל זיגלבוים‎; February 21, 1895 – May 11, 1943) was a Jewish-Polish socialist politician, leader of the Bund, and a member of the National Council of the Polish government in exile. He committed suicide to protest the indifference of the Allied governments in the face of the Holocaust.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity16282",
+  "entityUrl" : "http://dbpedia.org/resource/Steve_Laffey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Author", "Filmmaker" ]
+  },
+  "words" : [ "disconnect", "Company", "United", "Republican", "political", "States", "executive", "President", "fix", "road", "lost", "Primary", "businessman", "released", "emotions", "crisis", "mayor", "author", "&", "solutions", "Americans", "'", "2001", ",", "'s", "Island", "filmmaker", ".", "former", "Rhode", "/", "Senate", "served", "-RRB-", "Tennessee-based", "departure", "ˈlæfiː", "Laffey", "Fixing", "problems", "entitled", "-LRB-", "Cranston", "American", "asking", "financial", "book", "2012", "Mistake", "2007", "Morgan", "elite", "2006", "2003", "America", "company", "collects", "documentary", "thoughts", "COO", "politician", "ultimately", "Keegan", "Steve", "bid", "Stephen" ],
+  "adjectives" : [ "American", "financial", "Primary", "political", "Tennessee-based", "ˈlæfiː", "former" ],
+  "nouns" : [ "crisis", "mayor", "author", "politician", "book", "filmmaker", "executive", "elite", "road", "company", "departure", "bid", "businessman", "documentary" ],
+  "text" : "Stephen (Steve) Laffey /ˈlæfiː/ is an American politician, businessman, author and filmmaker. He is the former Republican mayor of Cranston, Rhode Island from 2003 to 2007 and lost a bid for the United States Senate in 2006. He is a former executive of Morgan Keegan & Company, a Tennessee-based financial company where he served as President and COO until his departure in 2001. He is the author of the book Primary Mistake and in 2012, he released a documentary entitled Fixing America which is a road documentary asking Americans' about America's financial crisis, the disconnect with the political elite, and ultimately collects their thoughts, their emotions and their solutions to fix America's financial problems. He currently resides in Colorado with his wife and children where he raises Irish Dexter cattle and Irish Gypsy Cob horses.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity17158",
+  "entityUrl" : "http://dbpedia.org/resource/Sudhir_Mungantiwar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Designation" ]
+  },
+  "words" : [ "Departments", "-LRB-", "Mungantiwar", "Cabinet", "Government", "chief", "Janata", "Finance", "BJP", "'s", ",", "Sudhir", ".", "Ex", "Party", "currently", "State", "Bharatiya", "-RRB-", "Forest", "Planning", "Maharashtra", "Minister" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Government", "chief", "State" ],
+  "text" : "Sudhir Mungantiwar is the Maharashtra's Ex chief of Bharatiya Janata Party (BJP). He is currently a State Cabinet Minister of Finance, Planning, and Forest Departments in the Government of Maharashtra.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity12425",
+  "entityUrl" : "http://dbpedia.org/resource/Mei_Ju-ao",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Education" ]
+  },
+  "words" : [ "、", "。", "梅", "汝璈", "（", "）", "「", "-", "」", "は", "ばい", "中華民国及び中華人民共和国の法律家", "政治家", "字は", "じょこう", "1973年4月23日", "亜軒", "1904年11月7日" ],
+  "adjectives" : [ ],
+  "nouns" : [ "、", "ばい", "。", "字は", "梅", "は" ],
+  "text" : "梅 汝璈（ばい じょこう、1904年11月7日 - 1973年4月23日）は、中華民国及び中華人民共和国の法律家、政治家。字は「亜軒」。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity12741",
+  "entityUrl" : "http://dbpedia.org/resource/M._K._Shivajilingam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Ethnicity" ]
+  },
+  "words" : [ "-LRB-", "Lankan", "politician", "Sri", ",", "Mahalingam", "Shivajilingam", "Kanagalingam", "Tamil", "former", ".", "கனகலிங்கம்", "சிவாஜிலிங்கம்", "-RRB-", "provincial", ":", "councillor", "Member", "Parliament", "மகாலிங்கம்" ],
+  "adjectives" : [ "provincial", "former" ],
+  "nouns" : [ "politician", "சிவாஜிலிங்கம்", "councillor" ],
+  "text" : "Mahalingam Kanagalingam Shivajilingam (Tamil: மகாலிங்கம் கனகலிங்கம் சிவாஜிலிங்கம்) is a Sri Lankan Tamil politician, provincial councillor and former Member of Parliament.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity13397",
+  "entityUrl" : "http://dbpedia.org/resource/Madhavrao_Bhujangrao_Kinhalkar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Designation" ]
+  },
+  "words" : [ "Sharad", "leader", "Bhaskarrao", "Successive", "MLA", "BJP", "headed", "Suryakanta", "Mumbai", "along", "Khatgaonkar", "Constituency", "1991-1999", "state", "Co-Operation", "Maharashtra", "presence", "Home", "Minister", "1991-1995", "period", "Pawar", "Affairs", "Government", "&", "joined", "Amit", ",", ".", "2", "Patil", "2014", "served", "Revenue", "NCP", "time", "Shah", "Bhokar" ],
+  "adjectives" : [ "Successive" ],
+  "nouns" : [ "leader", "period", "BJP", "time", "state", "presence" ],
+  "text" : "He is MLA of Bhokar Constituency in period of 1991-1999 for 2 Successive time. He served as Minister of state for Home Affairs,Revenue & Co-Operation in Maharashtra Government headed by Sharad Pawar in period of 1991-1995.He is NCP leader, But in 2014 he joined BJP at Mumbai in presence of Amit Shah along with Suryakanta Patil & Bhaskarrao Khatgaonkar .",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity5620",
+  "entityUrl" : "http://dbpedia.org/resource/Freya_(cat)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Gender", "Owned by" ]
+  },
+  "words" : [ "Office", "die", "-LRB-", "Prime", "Chief", "diente", "2012", "ist", "unter", "Cameron", "Freya", "2009", "Minister", "Cabinet", "Katze", "als", "*", "und", ",", "April", ".", "zwischen", "eine", "Mouser", "2014", "-RRB-", "David" ],
+  "adjectives" : [ "zwischen", "und" ],
+  "nouns" : [ "eine", "diente", "ist", "unter" ],
+  "text" : "Freya (* April 2009) ist eine Katze, die zwischen 2012 und 2014 unter Prime Minister David Cameron als Chief Mouser to the Cabinet Office diente.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity5727",
+  "entityUrl" : "http://dbpedia.org/resource/Graham_Richardson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Nickname" ]
+  },
+  "words" : [ "Sky", "New", "Graham", "held", "Wales", "political", "governments", "parliament", "branch", "1976", "retiring", "right-wing", "94", "--", "Frederick", "minister", "hosts", "Senator", "Live", "often", "+", ",", "former", ".", "senior", "organiser", "1983", "Prior", "speaker", "-RRB-", "General", "1949", "position", "programs", "become", "politics", "-LRB-", "September", "27", "Secretary", "Richo", "media", "Labor", "two", "weekly", "Keating", "commmentary", "Jones", "commentator", "Party", "public", "Branch", "News", "Since", "power", "lobbyist", "politician", "South", "broker", "entering", "Richardson", "Australian", "time", "Hawke", "referred" ],
+  "adjectives" : [ "senior", "public", "Australian", "right-wing", "political", "former", "weekly", "commmentary" ],
+  "nouns" : [ "organiser", "commentator", "minister", "politician", "speaker", "time", "power", "position", "broker", "parliament", "branch", "lobbyist" ],
+  "text" : "Graham Frederick Richardson (27 September 1949), a former Australian politician, was a Senator for New South Wales from 1983–94 for the Australian Labor Party, a senior minister in Hawke and Keating governments, and is now a political lobbyist, public speaker, and media commentator. During his time in politics, Richardson was often referred to as a right-wing power broker. Prior to entering parliament, Richardson was a Labor Party branch organiser and held the position of General Secretary of the Australian Labor Party (New South Wales Branch) from 1976 to 1983. Since retiring from politics, Richardson has become a political commentator for Sky News Live, and hosts two weekly commmentary programs, Richo and Richo + Jones.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity5849",
+  "entityUrl" : "http://dbpedia.org/resource/Grigore_Vieru",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Parents" ]
+  },
+  "words" : [ "rumanos", "de", "entonces", "Grigore", "Su", "descripción", "parte", "venerada", "moldavo", "intensa", "sagrada", "febrero", "1935", "paisajes", "nacido", "como", "14", "él", "18", "el", "en", "imagen", ",", "-", ".", "madre", "es", "cuentos", "naturales", "poemas", "rumano", "-RRB-", "evocar", "niños", "contemporáneos", "escritor", "quien", "-LRB-", "origen", "provincia", "escritores", "Es", "Briceni", "Moldavia", "2009", "sus", "los", "por", "se", "para", "caracteriza", "era", "Vieru", "lírica", "enero", "patriotismo", "más", "su", "una", "Pererita", "principalmente", "libros", "la", "uno", "importantes", "conocido", "y", "así", "Rumania", "considerado" ],
+  "adjectives" : [ "quien" ],
+  "nouns" : [ "escritor", "como", "por", "él", "rumano", "era", "el", "así", "patriotismo" ],
+  "text" : "Grigore Vieru (Pererita, 14 de febrero de 1935 - 18 de enero de 2009) escritor moldavo de origen rumano, nacido en Briceni, una provincia de la Moldavia, entonces parte de Rumania. Es conocido principalmente por sus poemas y por sus libros de cuentos para niños. Su lírica se caracteriza por una descripción intensa de los paisajes naturales, por el patriotismo rumano, así como por evocar la imagen venerada de su madre, quien era sagrada para él. Vieru es considerado uno de los más importantes escritores rumanos contemporáneos.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity14112",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Garrett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Height" ]
+  },
+  "words" : [ "New", "Wales", "years", "President", "contribution", "music", "Robert", "Foundation", "band", "ten", "Member", "activist", "Order", "16", "Smith", "House", ",", "April", "former", ".", "August", "appointed", "seat", "Oil", "served", "-RRB-", "-LRB-", "singer", "Conservation", "industry", "Kingsford", "Representatives", "Labor", "environmentalist", "rock", "1953", "October", "Party", "2004", "2003", "member", "musician", "born", "politician", "South", "lead", "environment", "Australian", "Garrett", "2013", "Peter", "Midnight", "Australia" ],
+  "adjectives" : [ "Australian", "former", "lead" ],
+  "nouns" : [ "activist", "Order", "singer", "politician", "industry", "environmentalist", "rock", "seat", "environment", "contribution", "music", "member", "band", "musician" ],
+  "text" : "Peter Robert Garrett AM (born 16 April 1953) is an Australian musician, environmentalist, activist and former politician. Garrett is the lead singer of the Australian rock band Midnight Oil. He served as President of the Australian Conservation Foundation for ten years and, in 2003, was appointed a Member of the Order of Australia for his contribution to the environment and music industry. He was the Australian Labor Party member of the House of Representatives for the seat of Kingsford Smith, New South Wales, from October 2004 to August 2013. After the Labor Party won in the November 2007 election, Garrett was appointed Minister for the Environment, Heritage and the Arts by Prime Minister Kevin Rudd. On 8 March 2010, his portfolio title was changed to Environment Protection, Heritage and the Arts. He continued in this role in Julia Gillard's first Ministry. He was re-elected at the 2010 election and was appointed Minister for School Education, Early Childhood and Youth by Prime Minister Julia Gillard. He was sworn into this portfolio on 14 September 2010 as a member of the Second Gillard Ministry, and following a leadership spill in the Australian Labor Party, Garrett resigned his position as Minister for School Education, Early Childhood and Youth and moved to the backbench. He later announced that he would not be contesting his seat at the next federal election. Garrett became a Member of the Order of Australia in 2003 \"For service to the community as a prominent advocate for environmental conservation and protection, and to the music industry.\" In 2009, the French Government appointed Garrett an Officer of the Order of Arts and Letters. In 2010, the World Wide Fund for Nature presented him with their Leaders for a Living Planet award.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity14199",
+  "entityUrl" : "http://dbpedia.org/resource/Pavlo_Tychyna",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "http://dbpedia.org/resource/National_Academy_of_Sciences_of_Ukraine" ]
+  },
+  "words" : [ "23", "-LSB-", "-LRB-", "September", "Anthem", "Tychyna", "Socialist", "Павло", "Republic", "Ukrainian", "academician", "major", "public", "poet", "Pavlo", "January", "lyrics", "O.S.", "11", "--", "activist", "statesman", "16", "Тичина", "created", "1891", "interpreter", "Soviet", ",", "Григорович", ".", "-RRB-", "-RSB-", ":", ";", "1967", "publicist" ],
+  "adjectives" : [ "Ukrainian", "major", "public", "Soviet", "Socialist" ],
+  "nouns" : [ "activist", "academician", "statesman", "poet", "interpreter", "publicist", "Republic" ],
+  "text" : "Pavlo Tychyna (Ukrainian: Павло Григорович Тичина; 23 January [O.S. 11 January] 1891 – September 16, 1967) was a major Ukrainian poet, interpreter, publicist, public activist, academician, and statesman. He created lyrics to the Anthem of the Ukrainian Soviet Socialist Republic.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity14379",
+  "entityUrl" : "http://dbpedia.org/resource/Pan_Halippa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Parents" ]
+  },
+  "words" : [ "de", "Moldavie", "Il", "politique", "est", "était", "Bessarabie", "avril", "éditeur", "mort", "un", "roumaine", "Cubolta", "30", "1979", "1er", "à", "Halippa", "membre", "moldave", "Bucarest", "en", "août", ",", "pédagogue", ".", "et", "l'Académie", "Pantelimon", "homme", "1883", "le", "né", "journaliste" ],
+  "adjectives" : [ "éditeur", "1er" ],
+  "nouns" : [ "Halippa", "Il", "politique", "est", "était", "août", "avril", "pédagogue", "l'Académie", "Pantelimon", "un", "roumaine", "né", "Cubolta", "journaliste" ],
+  "text" : "Pantelimon Halippa, né le 1er août 1883, Cubolta, en Moldavie et mort le 30 avril 1979 à Bucarest, est un pédagogue, journaliste, éditeur et homme politique moldave de Bessarabie. Il était membre de l'Académie roumaine.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity1455",
+  "entityUrl" : "http://dbpedia.org/resource/A._E._Silva",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blank" : [ "Ethnicity" ]
+  },
+  "words" : [ "-LRB-", "September", "Lankan", "Front", "defected", "Emmanuel", "died", "Sri", "contested", "candidate", "later", "Party", "2002", "Vanni", "EPDP", "get", "parliamentary", "Member", "Liberation", "Silva", "14", "election", "Eelam", "Anthony", "Democratic", "politician", "one", "People", "2001", "failed", "'s", "Tamil", ".", "elected", "candidates", "Revolutionary", "paramilitary", "-RRB-", "District", "Parliament", "1989" ],
+  "adjectives" : [ "paramilitary", "parliamentary" ],
+  "nouns" : [ "candidate", "election", "Front", "politician", "EPDP" ],
+  "text" : "Anthony Emmanuel Silva (died 14 September 2002) was a Sri Lankan Tamil politician and Member of Parliament. Silva contested the 1989 parliamentary election as one of the Eelam People's Revolutionary Liberation Front's candidates in Vanni District and was elected to Parliament. He later defected to the paramilitary Eelam People's Democratic Party. He contested the 2001 parliamentary election as an EPDP candidate in Vanni District but failed to get elected. Silva was burnt to death at his house on 14 September 2002 under mysterious circumstances.",
+  "patterns" : { }
+} ]

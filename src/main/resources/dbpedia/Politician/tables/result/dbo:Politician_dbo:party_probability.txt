@@ -1,0 +1,55 @@
+id=1  property=dbo:party  object=http://dbpedia.org/resource/Liberal_Party_of_Australia  NumberOfEntitiesFoundForObject=90
+australian-JJ  multiply=0.095281  P(australian|object)=0.9  P(object|australian)=0.105867    
+
+id=2  property=dbo:party  object=http://dbpedia.org/resource/Australian_Labor_Party  NumberOfEntitiesFoundForObject=625
+labor-NN  multiply=0.697351  P(labor|object)=0.8256  P(object|labor)=0.84466    
+australian-JJ  multiply=0.612847  P(australian|object)=0.872  P(object|australian)=0.702806    
+
+id=3  property=dbo:party  object=http://dbpedia.org/resource/Liberal_Party_(UK)  NumberOfEntitiesFoundForObject=388
+liberal-JJ  multiply=0.254925  P(liberal|object)=0.925258  P(object|liberal)=0.275518    
+english-JJ  multiply=0.230253  P(english|object)=0.347938  P(object|english)=0.661765    
+
+id=4  property=dbo:party  object=http://dbpedia.org/resource/Social_Credit_Party_of_Alberta  NumberOfEntitiesFoundForObject=99
+caucus-NN  multiply=0.199526  P(caucus|object)=0.89899  P(object|caucus)=0.221945    
+provincial-JJ  multiply=0.099312  P(provincial|object)=0.909091  P(object|provincial)=0.109244    
+
+id=5  property=dbo:party  object=http://dbpedia.org/resource/Republican_Party_(United_States)  NumberOfEntitiesFoundForObject=489
+republican-JJ  multiply=0.459086  P(republican|object)=0.709611  P(object|republican)=0.646953    
+public-JJ  multiply=0.277984  P(public|object)=0.728016  P(object|public)=0.381837    
+
+id=6  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta  NumberOfEntitiesFoundForObject=156
+level-NN  multiply=0.196815  P(level|object)=0.525641  P(object|level)=0.374429    
+provincial-JJ  multiply=0.096523  P(provincial|object)=0.711538  P(object|provincial)=0.135654    
+
+id=7  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario  NumberOfEntitiesFoundForObject=187
+conservative-JJ  multiply=0.181984  P(conservative|object)=0.967914  P(object|conservative)=0.188017    
+figure-NN  multiply=0.071658  P(figure|object)=0.358289  P(object|figure)=0.2    
+
+id=8  property=dbo:party  object=http://dbpedia.org/resource/British_Columbia_Liberal_Party  NumberOfEntitiesFoundForObject=81
+british-JJ  multiply=0.105016  P(british|object)=0.987654  P(object|british)=0.106329    
+
+id=9  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia  NumberOfEntitiesFoundForObject=82
+electoral-JJ  multiply=0.085114  P(electoral|object)=0.731707  P(object|electoral)=0.116323    
+
+id=10  property=dbo:party  object=http://dbpedia.org/resource/United_Farmers_of_Alberta  NumberOfEntitiesFoundForObject=40
+farmer-NN  multiply=0.148804  P(farmer|object)=0.925  P(object|farmer)=0.16087    
+
+id=11  property=dbo:party  object=http://dbpedia.org/resource/Alberta_Liberal_Party  NumberOfEntitiesFoundForObject=58
+opposition-NN  multiply=0.048589  P(opposition|object)=0.448276  P(object|opposition)=0.108392    
+
+id=12  property=dbo:party  object=http://dbpedia.org/resource/British_Columbia_New_Democratic_Party  NumberOfEntitiesFoundForObject=85
+british-JJ  multiply=0.105078  P(british|object)=0.988235  P(object|british)=0.106329    
+mla-NN  multiply=0.057353  P(mla|object)=0.458824  P(object|mla)=0.125    
+
+id=13  property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_(UK)  NumberOfEntitiesFoundForObject=304
+labour-NN  multiply=0.545266  P(labour|object)=0.986842  P(object|labour)=0.552536    
+british-JJ  multiply=0.212658  P(british|object)=0.736842  P(object|british)=0.288608    
+
+id=14  property=dbo:party  object=http://dbpedia.org/resource/Democratic_Party_(United_States)  NumberOfEntitiesFoundForObject=760
+american-JJ  multiply=0.309157  P(american|object)=0.546053  P(object|american)=0.566166    
+democratic-JJ  multiply=0.25355  P(democratic|object)=0.530263  P(object|democratic)=0.478158    
+
+id=15  property=dbo:party  object=http://dbpedia.org/resource/Indian_National_Congress  NumberOfEntitiesFoundForObject=693
+indian-JJ  multiply=0.674782  P(indian|object)=0.897547  P(object|indian)=0.751807    
+sabha-NN  multiply=0.303087  P(sabha|object)=0.408369  P(object|sabha)=0.742188    
+

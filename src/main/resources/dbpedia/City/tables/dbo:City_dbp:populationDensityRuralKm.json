@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity18496",
+  "entityUrl" : "http://dbpedia.org/resource/Ivano-Frankivsk_Municipality",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:populationDensityRuralKm" : [ "auto" ]
+  },
+  "words" : [ "surrounded", "Ivano-Frankivsk", "localities", "-LRB-", "city", "rural", "est.", "municipality", "raion", "251,509", "subdivision", "number", "Population", "Tysmenytsia", "within", "center", "Raion", "oblast", ",", ".", "Oblast", "2016", "administrative", "-RRB-", "located", "consists", ":", "completely" ],
+  "adjectives" : [ "administrative", "rural", "located" ],
+  "nouns" : [ "subdivision", "number", "city", "center", "municipality", "Raion", "oblast", "raion" ],
+  "text" : "Ivano-Frankivsk municipality is an administrative subdivision of the Ivano-Frankivsk Oblast located within the Tysmenytsia Raion and is completely surrounded by that raion. It consists of the city of Ivano-Frankivsk, the administrative center of the oblast, and a number of rural localities. Population: 251,509 (2016 est.)."
+} ]

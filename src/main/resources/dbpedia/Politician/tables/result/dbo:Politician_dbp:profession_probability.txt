@@ -1,0 +1,8 @@
+id=113  property=dbp:profession  object=Attorney  NumberOfEntitiesFoundForObject=24
+attorney-NN  multiply=0.18006  P(attorney|object)=0.458333  P(object|attorney)=0.392857    
+law-NN  multiply=0.073068  P(law|object)=0.458333  P(object|law)=0.15942    
+
+id=114  property=dbp:profession  object=Lawyer  NumberOfEntitiesFoundForObject=45
+lawyer-NN  multiply=0.150192  P(lawyer|object)=0.311111  P(object|lawyer)=0.482759    
+law-NN  multiply=0.128824  P(law|object)=0.444444  P(object|law)=0.289855    
+

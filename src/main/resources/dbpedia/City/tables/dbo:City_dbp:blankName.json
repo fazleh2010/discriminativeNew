@@ -1,0 +1,155 @@
+[ {
+  "entityIndex" : "1_entity27207",
+  "entityUrl" : "http://dbpedia.org/resource/Santa_Rosa,_Mendoza",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Köppen_climate_classification" ]
+  },
+  "words" : [ "inhabitants", "capital", "-LSB-", "city", "Tunuyán", "15,818", "northern", "Rosa", "head", "Santa", "Department", "province", "National", "River", "provincial", "per", "Route", "Argentina", "town", "shore", "2001", "center-north", ",", ".", "INDEC", "7", "census", "located", "-RSB-", "south-east", "Mendoza" ],
+  "adjectives" : [ "located", "provincial", "northern" ],
+  "nouns" : [ "head", "capital", "province", "INDEC", "town", "city", "census", "shore", "center-north", "south-east" ],
+  "text" : "Santa Rosa is a city in the center-north of the province of Mendoza, Argentina, located on the northern shore of the Tunuyán River, by National Route 7, south-east from the provincial capital Mendoza. It has 15,818 inhabitants as per the 2001 census [INDEC], and is the head town of the Santa Rosa Department."
+}, {
+  "entityIndex" : "2_entity14548",
+  "entityUrl" : "http://dbpedia.org/resource/Clear_Lake,_Oregon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Federal_Information_Processing_Standard" ]
+  },
+  "words" : [ "Oregon", "named", "half", "north", "meander", "United", "Lake", "County", "N", "Clear", "States", "east", "disconnected", "west", "River", "219", "Route", "Wheatland", "unincorporated", "likely", "Willamette", "Keizer", "Road", "mile", "community", ",", ".", "approximately", "Marion" ],
+  "adjectives" : [ "unincorporated", "likely", "east", "west" ],
+  "nouns" : [ "half", "mile", "north", "meander", "west", "community" ],
+  "text" : "Clear Lake is an unincorporated community in Marion County, Oregon, United States, just north of Keizer. It is west and north of Oregon Route 219 and east of Wheatland Road N. It is likely named for Clear Lake which is approximately a half mile west of it, a disconnected meander of the Willamette River."
+}, {
+  "entityIndex" : "3_entity15849",
+  "entityUrl" : "http://dbpedia.org/resource/Elmhurst,_Indiana",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Federal_Information_Processing_Standard" ]
+  },
+  "words" : [ "Madison", "Indiana", "latitude", "United", "County", "States", "America", "North", "place", "52", "longitude", "''", "Elmhurst", "17", "West", "'", ",", ".", "°", "5", "State", "located", "40", "85", "43" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "State", "latitude", "place", "longitude" ],
+  "text" : "Elmhurst is a place in Madison County in the State of Indiana in the United States of America. It is located at latitude 40°5'52\" North, longitude 85°43'17\" West."
+}, {
+  "entityIndex" : "4_entity23737",
+  "entityUrl" : "http://dbpedia.org/resource/Ozuluama",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "Demonym" ]
+  },
+  "words" : [ "de", "-LRB-", "September", "city", "Ozuluama", "serves", "municipality", "1910", "Veracruz", "state", "Mascareñas", "surrounding", "given", "Mexican", "Alta", "'s", ".", "Huasteca", "seat", "6", "-RRB-", "located", "municipal", ":", "region", "formally", "status" ],
+  "adjectives" : [ "Mexican", "located", "municipal" ],
+  "nouns" : [ "seat", "city", "Ozuluama", "municipality", "state", "region", "status" ],
+  "text" : "Ozuluama (formally: Ozuluama de Mascareñas)is a city in the Mexican state of Veracruz. It is located in the state's Huasteca Alta region. It serves as the municipal seat for the surrounding municipality of Ozuluama de Mascareñas. It was given city status on 6 September 1910. In the 2005 INEGI Census, the city of Ozuluama reported a total population of 3,439 The name \"Ozuluama\" is Nahuatl in origin. The epithet \"de Mascareñas\" (awarded 20 August 1980) honours Colonel Francisco Esteban Mascareñas, who was born here and fought on the Liberal side in the Reform War."
+}, {
+  "entityIndex" : "5_entity24787",
+  "entityUrl" : "http://dbpedia.org/resource/Pakyong",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Köppen_climate_classification" ]
+  },
+  "words" : [ "small", "called", "offices", "Punj", "run", "used", "Xavier", "approved", "school", "state", "Sub", "new", "town", "'s", ",", ".", "airport", "foothills", "schools", "district", "-RRB-", ":", "missionary", "East", "District", "-LRB-", "Himalayas", "St.", "two", "settlement", "government", "central", "top", "Nepali", "ranked", "1990s", "Division", "Pakyong", "greenfield", "constructed", "पाक्किम", "Sikkim", "one", "also", "many", "Indian", "located", "holds", "Lloyd" ],
+  "adjectives" : [ "small", "new", "central", "top", "Indian", "located", "missionary", "many" ],
+  "nouns" : [ "Sub", "greenfield", "government", "town", "school", "district", "Division", "run", "state", "settlement", "airport" ],
+  "text" : "Pakyong (Nepali:  पाक्किम) is a town in the East Sikkim district of the Indian state of Sikkim located in the foothills of the Himalayas. The small town is also Sub Division of East District and holds many government offices. Pakyong used to be a small settlement until the central government approved a new greenfield airport to be constructed by Punj Lloyd. The town has a missionary run school called St. Xavier's, which ranked as one of the top two schools in Sikkim during the 1990s. Notable among its alumni are the Padmashri awardee footballer Baichung Bhutia. The \"National Research Centre for Orchids\", (ICAR Institute) is also located in the town."
+}, {
+  "entityIndex" : "6_entity15395",
+  "entityUrl" : "http://dbpedia.org/resource/Dooradoyle",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Irish_grid_reference_system" ]
+  },
+  "words" : [ "suburbs", "-LRB-", "estates", "housing", "Dooradoyle", "Dáill", "Ireland", "Limerick", "Shopping", "Hospital", "class", "area", "middle", "large", "campus", "settled", "one", "lower", "varied", ",", "'s", "Centre", ".", "Irish", "home", "newer", "ranging", "University", "Crescent", "Tuar", "council", "-RRB-", "suburb", ":", "demographics" ],
+  "adjectives" : [ "middle", "large", "Irish" ],
+  "nouns" : [ "area", "housing", "Dooradoyle", "campus", "council", "suburb", "Dáill", "class", "home" ],
+  "text" : "Dooradoyle (Irish: Tuar an Dáill) is a large suburb of Limerick, Ireland. It is one of Limerick's newer suburbs, and is home to the campus of University Hospital Limerick and the Crescent Shopping Centre. The demographics of the area are varied, ranging from council housing to more settled, lower middle class estates."
+}, {
+  "entityIndex" : "7_entity15399",
+  "entityUrl" : "http://dbpedia.org/resource/Deem_City,_Florida",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Federal_Information_Processing_Standard" ]
+  },
+  "words" : [ "24", "-LRB-", "27", "line", "northwest", "United", "county", "County", "miles", "States", "Beach", "U.S.", "Weston", "near", "Route", "unincorporated", "km", "15", "Beach/Broward", "Deem", "City", "community", ",", "Florida", ".", "approximately", "Palm", "-RRB-", "located" ],
+  "adjectives" : [ "unincorporated", "located" ],
+  "nouns" : [ "km", "line", "county", "community" ],
+  "text" : "Deem City is an unincorporated community in Palm Beach County, Florida, United States, located approximately 15 miles (24 km) northwest of Weston on U.S. Route 27, near the Palm Beach/Broward county line."
+}, {
+  "entityIndex" : "8_entity28100",
+  "entityUrl" : "http://dbpedia.org/resource/Texarkana_metropolitan_area",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Federal_Information_Processing_Standard" ]
+  },
+  "words" : [ "Office", "-LRB-", "TX", "143,486", "United", "anchored", "2010", "Arkansas", "County", "States", "Bowie", "Ark-La-Tex", "MSA", "Budget", "broader", "defined", "twin", "Metropolitan", "two-county", "--", "surrounding", "encompassing", "cities", "Management", ",", ".", "population", "AR", "Area", "Texarkana", "Texas", "Miller", "census", "Statistical", "-RRB-", "region", "subset", "communities" ],
+  "adjectives" : [ "twin", "two-county" ],
+  "nouns" : [ "Ark-La-Tex", "AR", "census", "region", "subset", "population" ],
+  "text" : "The Texarkana, AR–Texarkana, TX Metropolitan Statistical Area (MSA), as defined by the United States Office of Management and Budget, is a two-county region anchored by the twin cities of Texarkana, Texas and Texarkana, Arkansas, and encompassing the surrounding communities in Bowie County, Texas and Miller County, Arkansas. As of the 2010 census, the MSA had a population of 143,486. Texarkana is a subset of the broader Ark-La-Tex region."
+}, {
+  "entityIndex" : "9_entity28339",
+  "entityUrl" : "http://dbpedia.org/resource/Tankara",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Köppen_climate_classification" ]
+  },
+  "words" : [ "Jamnagar", "Dayananda", "Rajkot", "Gujarat", "Morbi", "considered", "Arya", "situated", "Tankara", "Samaj", "land", "state", "Demi", "February", "12", "town", "holy", "founder", "born", ",", ".", "Saraswati", "Swami", "birthplace", "district", "80", "Indian", "kilometres", "river", "40", "20", "1824" ],
+  "adjectives" : [ "holy", "Indian" ],
+  "nouns" : [ "town", "birthplace", "founder", "district", "land", "state", "river" ],
+  "text" : "Tankara is a town in Morbi district in the Indian state of Gujarat. It is situated on the river of Demi, 20 kilometres from Morbi, 40 kilometres from Rajkot, and 80 kilometres from Jamnagar. Tankara is considered holy land because it is the birthplace of Swami Dayananda Saraswati, founder of the Arya Samaj born on 12 February 1824"
+}, {
+  "entityIndex" : "10_entity11199",
+  "entityUrl" : "http://dbpedia.org/resource/Armorel,_Arkansas",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Federal_Information_Processing_Standard" ]
+  },
+  "words" : [ "Company", "rural", "County", "Arkansas", "1899", "R.E.L.", "312", "largely", "land", "lies", "company", "variously", "magnate", "holdings", "estimates", "area", "unincorporated", "given", "devoted", "town", "lumber", "Highway", "18", "one", "founded", "Wilson", "community", ",", "many", "forests", "people", "Lee", ".", "population", "Mississippi", "300", "500", "farms", "Armorel", "located", "president" ],
+  "adjectives" : [ "unincorporated", "rural", "many" ],
+  "nouns" : [ "area", "town", "lumber", "land", "company", "magnate", "community", "population", "president" ],
+  "text" : "Armorel is an unincorporated community located in Mississippi County, Arkansas. A largely rural area with most of its land devoted to forests and farms, population estimates are variously given as between 300 and 500 people. Most of the town lies between Arkansas Highway 18 and Arkansas Highway 312. The town was founded in 1899 by lumber magnate and president of Lee Wilson and Company, R.E.L. Wilson as one of his many company holdings. Wilson was an eclectic and colorful figure with vast land holdings in the Delta area after the Civil War. Also a big believer in education, Wilson was one of the original trustees of Arkansas State University, then A & M College. He sat on the board from 1917 until his death in 1933. The town's name was formed from the abbreviations of Arkansas and Missouri, along with the first three initials of its founder, R.E.L. Wilson."
+}, {
+  "entityIndex" : "11_entity29610",
+  "entityUrl" : "http://dbpedia.org/resource/Warman,_Saskatchewan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/List_of_Saskatchewan_provincial_highways" ]
+  },
+  "words" : [ "-LRB-", "city", "north", "current", "Warman", "mi", "Martensville", "mayor", "Saskatoon", "northeast", "often", "Saskatchewan", ",", "community", ".", "bedroom", "Canada", "approximately", "Spence", "5", "3.1", "-RRB-", "kilometres", "Sheryl", "referred" ],
+  "adjectives" : [ "current" ],
+  "nouns" : [ "city", "mayor", "north", "northeast", "mi", "community", "bedroom" ],
+  "text" : "Warman is a city in Saskatchewan, Canada. It is approximately 5 kilometres (3.1 mi) north of the city of Saskatoon, and 5 kilometres (3.1 mi) northeast of the city of Martensville. Warman is often referred to as a bedroom community of Saskatoon. The current mayor is Sheryl Spence. Warman is the newest city in Saskatchewan, officially incorporated on October 27, 2012. Warman is surrounded by the Rural Municipality of Corman Park No. 344."
+}, {
+  "entityIndex" : "12_entity29624",
+  "entityUrl" : "http://dbpedia.org/resource/West_Industrial,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "GNBC CGNDB Key" ]
+  },
+  "words" : [ "area", "11th", "Industrial", "south", "West", "Saskatoon", "north", "rail", "Saskatchewan", ",", ".", "P", "Canada", "industrial", "extends", "light", "neighbourhood", "Avenue", "west", "Street" ],
+  "adjectives" : [ "industrial", "11th", "light" ],
+  "nouns" : [ "area", "P", "south", "neighbourhood", "north", "rail", "west", "Street" ],
+  "text" : "West Industrial is a light industrial area in Saskatoon, Saskatchewan, Canada. This neighbourhood extends north of 11th Street, south of the rail and west of Avenue P south."
+}, {
+  "entityIndex" : "13_entity19844",
+  "entityUrl" : "http://dbpedia.org/resource/Keolari",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Köppen_climate_classification" ]
+  },
+  "words" : [ "rivers", "confluence", "-LRB-", "town", "Madhya", ",", "tehsil", ".", "India", "Wainganga", "Training", "Institute", "Pradesh", "Sagar", "Education", "district", "-RRB-", "Seoni", "located", "Keolari", "D.I.E.T.", "state", "District" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "confluence", "town", "district", "state", "tehsil" ],
+  "text" : "Keolari  is a town and a tehsil in Seoni district in the state of Madhya Pradesh, India. The confluence of the Wainganga and Sagar rivers is located at Keolari. The town has a District Institute of Education Training Institute (D.I.E.T.)."
+}, {
+  "entityIndex" : "14_entity19888",
+  "entityUrl" : "http://dbpedia.org/resource/Kibber",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blankName" : [ "http://dbpedia.org/resource/Köppen_climate_classification" ]
+  },
+  "words" : [ "TV", "Spiti", "used", "office", "elsewhere", "around", "telegraph", "high", "post", "school", "civil", "houses", "Kibber", "brick", "village", "dispensary", "Monastery", "Rimpochhe", "given", "set", "made", "founded", "adobe", ",", "instead", "community", ".", "stone", "extensively", "unique", "80", "Serkang", "valley", "mud", "Tabo" ],
+  "adjectives" : [ "high", "unique", "civil" ],
+  "nouns" : [ "dispensary", "TV", "set", "adobe", "office", "community", "stone", "telegraph", "post", "school", "valley", "brick", "village", "mud" ],
+  "text" : "The village has around 80 houses, unique, given that they are made of stone instead of mud or adobe brick used extensively elsewhere in the Spiti valley. Kibber has a civil dispensary, a high school, a post office, a telegraph office and a community TV set in the village. Kibber Monastery was founded by Serkang Rimpochhe of Tabo."
+} ]

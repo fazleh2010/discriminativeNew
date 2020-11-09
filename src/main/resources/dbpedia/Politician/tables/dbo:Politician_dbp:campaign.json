@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity4049",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_La_Botz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:campaign" : [ "http://dbpedia.org/resource/United_States_Senate_election_in_Ohio,_2010" ]
+  },
+  "words" : [ "``", "United", "States", "La", "academic", "Teamsters", "written", "worker", "ran", "activist", "author", "Democratic", "Daniel", "Solidarity", "Botz", ",", ".", "August", "labor", "journalist", "seat", "Senate", "revolutionary", "-RRB-", "9", "1945", "co-founder", "-LRB-", "prominent", "American", "comes", "2010", "Socialist", "Union", "Party", "rights", "member", "democratic", "anti-racist", "tradition", "''", "socialist", "TDU", "H.", "born", "union", "Trotskyist", "describes", "extensively", "organization", "Mexico", "feminist" ],
+  "adjectives" : [ "socialist", "prominent", "American", "academic", "revolutionary", "democratic", "anti-racist", "feminist" ],
+  "nouns" : [ "activist", "journalist", "seat", "author", "organization", "member", "union", "tradition", "worker", "labor", "co-founder" ],
+  "text" : "Daniel H. La Botz (born August 9, 1945) is a prominent American labor union activist, academic, journalist, and author. He was a co-founder of Teamsters for a Democratic Union (TDU) and has written extensively on worker rights in the United States and Mexico. He is a member of the socialist organization Solidarity, which describes itself as \"a democratic, revolutionary socialist, feminist, anti-racist organization,\" which comes out of the Trotskyist tradition. La Botz ran in 2010 for a seat in the United States Senate for the Socialist Party.",
+  "patterns" : { }
+} ]

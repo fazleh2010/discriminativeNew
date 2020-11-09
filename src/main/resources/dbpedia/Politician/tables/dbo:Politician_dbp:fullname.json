@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity1853",
+  "entityUrl" : "http://dbpedia.org/resource/Bernd_Heynemann",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:fullname" : [ "Bernd Reinhold Gerhard Heynemann" ]
+  },
+  "words" : [ "22", "موثقة", "-LRB-", "يناير", "كرة", "الآن", "25بك", "أي", "سابق", "بمصادر", "سياسي", "ماغدبورغ", "بيرند", "راينهولد", "،", "ألماني", "هينيمان", "التشكيك", "1954", "المحتوى", "معلومات", "حكم", "دولي", "الاستشهاد", "قدم", "من", "فبراير", "في", "ينقصه", "يمكن", "وإزالتها", ".", "موثوق", "هنا", "جيرهارد", "وهو", "2016", "يرجى", "-RRB-", "غير", "مصادر", "إيراد", "بها", "مواليد" ],
+  "adjectives" : [ ],
+  "nouns" : [ "يرجى", "أي", "بمصادر", "سياسي", "،", "وإزالتها" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) بيرند راينهولد جيرهارد هينيمان ، من مواليد 22 يناير 1954 في ماغدبورغ، وهو حكم كرة قدم ألماني دولي سابق، وهو الآن سياسي. وقد حكم في كأس الأمم الأوروبية لكرة القدم 1996.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity17221",
+  "entityUrl" : "http://dbpedia.org/resource/Stanislav_Hurenko",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:fullname" : [ "Stanislav Ivanovych Hurenko", "Станіслав Іванович Гуренко" ]
+  },
+  "words" : [ "de", "-LRB-", "ukrainien", "Гуренко", "politique", "est", "avril", "Hourenko", "mai", "mort", "un", "1936", "Іванович", "30", "Станіслав", "Ilovaïsk", "76", "à", "14", "Donetsk", "Ivanovitch", "ans", "en", ",", "Stanislav", ".", "et", "homme", "région", "2013", "-RRB-", "le", ":", "né", "Ivanovytch" ],
+  "adjectives" : [ ],
+  "nouns" : [ "à", "homme", "ukrainien", "région", "politique", "est", "un", "né", "avril", "Ilovaïsk" ],
+  "text" : "Stanislav Ivanovitch Hourenko (en ukrainien : Станіслав Іванович Гуренко, Stanislav Ivanovytch Hourenko), né à Ilovaïsk, région de Donetsk, le 30 mai 1936, et mort le 14 avril 2013 (à 76 ans), est un homme politique ukrainien.",
+  "patterns" : { }
+} ]

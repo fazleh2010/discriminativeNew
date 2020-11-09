@@ -1,0 +1,24 @@
+# dbo:Actor_dbo:country_probability_0.45_0.45.txt #########################################
+id=2  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=342
+british-JJ  multiply=0.491356  P(british|object)=0.725146  P(object|british)=0.677596    
+play-NN  multiply=0.352315  P(play|object)=0.614035  P(object|play)=0.57377    
+television-NN  multiply=0.349924  P(television|object)=0.611111  P(object|television)=0.572603    
+role-NN  multiply=0.298685  P(role|object)=0.549708  P(object|role)=0.543353    
+series-NN  multiply=0.255449  P(series|object)=0.453216  P(object|series)=0.563636    
+actress-NN  multiply=0.239849  P(actress|object)=0.47076  P(object|actress)=0.509494    
+
+id=3  property=dbo:country  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=291
+english-JJ  multiply=0.470447  P(english|object)=0.635739  P(object|english)=0.74    
+age-NN  multiply=0.267278  P(age|object)=0.4811  P(object|age)=0.555556    
+film-NN  multiply=0.222538  P(film|object)=0.450172  P(object|film)=0.49434    
+
+# dbo:Actor_dbo:country_probability_0.6_0.6.txt #########################################
+id=1  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=342
+british-JJ  multiply=0.491356  P(british|object)=0.725146  P(object|british)=0.677596    
+
+id=2  property=dbo:country  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=291
+english-JJ  multiply=0.470447  P(english|object)=0.635739  P(object|english)=0.74    
+
+
+
+

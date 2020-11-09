@@ -1,0 +1,19 @@
+id=33  property=dbp:children  object=1  NumberOfEntitiesFoundForObject=110
+lok-NN  multiply=0.149335  P(lok|object)=0.481818  P(object|lok)=0.309942    
+sabha-NN  multiply=0.138034  P(sabha|object)=0.481818  P(object|sabha)=0.286486    
+
+id=34  property=dbp:children  object=2  NumberOfEntitiesFoundForObject=216
+member-NN  multiply=0.132385  P(member|object)=0.726852  P(object|member)=0.182135    
+sabha-NN  multiply=0.09009  P(sabha|object)=0.277778  P(object|sabha)=0.324324    
+
+id=35  property=dbp:children  object=3  NumberOfEntitiesFoundForObject=132
+member-NN  multiply=0.069614  P(member|object)=0.674242  P(object|member)=0.103248    
+council-NN  multiply=0.033583  P(council|object)=0.242424  P(object|council)=0.138528    
+
+id=36  property=dbp:children  object=4  NumberOfEntitiesFoundForObject=73
+conservative-JJ  multiply=0.027276  P(conservative|object)=0.205479  P(object|conservative)=0.132743    
+family-NN  multiply=0.012609  P(family|object)=0.123288  P(object|family)=0.102273    
+
+id=37  property=dbp:children  object=5  NumberOfEntitiesFoundForObject=46
+businessman-NN  multiply=0.014766  P(businessman|object)=0.130435  P(object|businessman)=0.113208    
+

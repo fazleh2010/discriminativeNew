@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity2700",
+  "entityUrl" : "http://dbpedia.org/resource/C._Anthony_Muse",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:servingWith" : [ "Obie Patterson, David Valderrama" ]
+  },
+  "words" : [ "southern", "Church", "-LRB-", "American", "26", "Pastor", "C.", "County", "serving", "Prince", "Party", "George", "member", "term", "Safety", "1958", "Upper", "Anthony", "minister", "17", "Democratic", "born", "politician", "Marlboro", "2nd", "representing", "also", ",", "'s", "April", ".", "Senate", "currently", "Senior", "State", "-RRB-", "Christian", "Ark", "Maryland", "District", "Muse" ],
+  "adjectives" : [ "southern", "American", "Senior", "2nd" ],
+  "nouns" : [ "minister", "Pastor", "politician", "member", "term" ],
+  "text" : "C. Anthony Muse (born April 17, 1958) is an American politician and minister from Maryland and a member of the Democratic Party. He is currently serving in his 2nd term in the Maryland State Senate, representing Maryland's District 26 in southern Prince George's County. He is also the Senior Pastor of the Ark of Safety Christian Church in Upper Marlboro, Maryland.",
+  "patterns" : { }
+} ]

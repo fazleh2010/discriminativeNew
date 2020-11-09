@@ -1,0 +1,1079 @@
+[ {
+  "entityIndex" : "1_entity25647",
+  "entityUrl" : "http://dbpedia.org/resource/Rosewood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Rosewood" ]
+  },
+  "words" : [ "2011", "primarily", "neighbourhood", "construction", "majority", "73", "residences", "live", "early", "occupied", "area", "Rosewood", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "home", "single", "detached", "Canada", "residential", "approximately", "2015", "residents", "900", "southeast" ],
+  "adjectives" : [ "single", "residential", "occupied" ],
+  "nouns" : [ "area", "neighbourhood", "construction", "majority", "southeast", "home" ],
+  "text" : "Rosewood is a primarily residential neighbourhood under construction in southeast Saskatoon, Saskatchewan, Canada. The majority of its residents live in single detached dwellings. In 2011, the area was home to 73 residents. I early 2015 there were approximately 900 occupied residences. The neighbourhood is considered a high-income area, with an average family income of $104,964, and a home ownership rate of 93.3%. According to MLS data, the average sale price of a home as of 2013 was $442,316."
+}, {
+  "entityIndex" : "2_entity25665",
+  "entityUrl" : "http://dbpedia.org/resource/Rajpur,_Baroda",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "21" ]
+  },
+  "words" : [ "Rajput", "Rajpur", "Mansinhji", "lord", "bank", "state", "Fatehsinhji", "last", "princely", "Thakur", "Jaladhar", "Saheb", "Mahisagar", "history", ",", ".", "Baroda", "associated", "Indian", "located", "river", "family", "royal", "Mahadevaji", "Shree" ],
+  "adjectives" : [ "last", "princely", "Indian", "located" ],
+  "nouns" : [ "bank", "lord", "state", "river", "history", "family", "royal" ],
+  "text" : "Rajpur, Baroda was an Indian princely state located on the bank of river Mahisagar. Thakur Saheb Shree Mansinhji Fatehsinhji was the last Thakur Saheb of Rajpur. The history of the Rajput royal family is associated with lord Jaladhar Mahadevaji."
+}, {
+  "entityIndex" : "3_entity25683",
+  "entityUrl" : "http://dbpedia.org/resource/Rhenock",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "East Sikkim" ]
+  },
+  "words" : [ "small", "88", "metres", "dialect", "Rhe-nock", "Situated", "historical", "Black", "Pass", "state", "extreme", "रिनाक", "10", "Gangtok", "town", "establishment", ",", ".", "/", "°", "′", "″", "27.176622", "Lepcha", "district", "-RRB-", "kilometres", ":", "63", "word", "Rhenock", "altitude", "-LRB-", "Hill", "27", "E", "88.6432", "N", "east", "Nepali", "lies", "Jelepla", "event", "witnessed", "means", "36", "38", "Sikkim", "way", "police", "1,040", "Indian", "located", "first", "outpost" ],
+  "adjectives" : [ "small", "east", "Indian", "located", "historical", "Black", "extreme", "first" ],
+  "nouns" : [ "altitude", "dialect", "town", "E", "Rhe-nock", "establishment", "N", "way", "′", "police", "Pass", "district", "state", "event", "word", "outpost" ],
+  "text" : "Rhenock (Nepali: रिनाक ) is a small town in the east district in the Indian state of Sikkim, located at 27°10′36″N 88°38′36″E﻿ / ﻿27.176622°N 88.6432°E. It lies 63 kilometres east of Gangtok on the way to Jelepla Pass at an altitude of 1,040 metres. The word Rhe-nock (in Lepcha dialect) means Black Hill. Situated in the extreme east of Sikkim, Rhenock witnessed the establishment of the first police outpost in the state, which is the historical event."
+}, {
+  "entityIndex" : "4_entity25708",
+  "entityUrl" : "http://dbpedia.org/resource/Rohilanwali",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "47" ]
+  },
+  "words" : [ "Muzaffargarh", "-LRB-", "town", "Urdu", "Punjab", "Rohilanwali", ",", "روہِيلاں", ".", "Pakistan", "province", "والى", "-RRB-", ":", "popular", "District" ],
+  "adjectives" : [ "popular" ],
+  "nouns" : [ "town", "province" ],
+  "text" : "Rohilanwali (Urdu: روہِيلاں والى‎), is a popular town of Muzaffargarh District in the Punjab province of Pakistan."
+}, {
+  "entityIndex" : "5_entity28741",
+  "entityUrl" : "http://dbpedia.org/resource/Venkatagirikota",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Venkatagirikota" ]
+  },
+  "words" : [ "small", "-LRB-", "town", "V.Kota", "Venkatagirikota", "Andhra", "also", ".", "Venkatagiri", "Kota", "Chittoor", "headquarters", "known", "Pradesh", "district", "-RRB-", "Indian", "state", "mandal" ],
+  "adjectives" : [ "small", "Indian", "mandal" ],
+  "nouns" : [ "headquarters", "town", "V.Kota", "district", "state", "mandal" ],
+  "text" : "Venkatagiri Kota(also known as V.Kota) is a small town in Chittoor district of the Indian state of Andhra Pradesh. It is the mandal headquarters of Venkatagirikota mandal."
+}, {
+  "entityIndex" : "6_entity28826",
+  "entityUrl" : "http://dbpedia.org/resource/Varsity_View,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Varsity View" ]
+  },
+  "words" : [ "duplexes", "mostly", "south", "immediately", "units", "subdivision", "2007", "central", "suburban", "mixture", "neighbourhood", "older", "near", "area", "campus", "Saskatoon", "comprising", "dwellings", "Saskatchewan", "low-density", ",", "View", "apartment-style", ".", "home", "single", "detached", "Canada", "residential", "University", "Varsity", "located", "residents", "3,611" ],
+  "adjectives" : [ "single", "residential", "central", "suburban", "located", "apartment-style" ],
+  "nouns" : [ "area", "subdivision", "mixture", "neighbourhood", "campus", "low-density", "home" ],
+  "text" : "Varsity View is a mostly residential neighbourhood located near central Saskatoon, Saskatchewan, Canada. It is immediately south of the University of Saskatchewan campus. It is an older suburban subdivision, comprising a mixture of low-density, single detached dwellings, detached duplexes and apartment-style units. As of 2007, the area is home to 3,611 residents. The neighbourhood is considered a middle-income area, with an average family income of $50,587, an average dwelling value of $284,710 and a home ownership rate of 38.7%. Its proximity to the university gives this area its relatively high student population, almost 25% in 2005.According to MLS data, the average sale price of a home as of 2013 was $402,332."
+}, {
+  "entityIndex" : "7_entity28859",
+  "entityUrl" : "http://dbpedia.org/resource/Valaichchenai",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Koralai Pattu" ]
+  },
+  "words" : [ "Valaichenai", "world-famous", "spelled", "Sri", "sea", "Beach", "east", "Lanka", "along", "Ocean", "km", "famous", "town", "could", "also", "Valaichchenai", "water", "Province", ".", "calm", "Pasikudah", "3", "beach", "located", "Indian", "Eastern", "shallow" ],
+  "adjectives" : [ "world-famous", "calm", "east", "famous", "located", "shallow" ],
+  "nouns" : [ "km", "town", "beach", "water", "sea" ],
+  "text" : "Valaichchenai is a town in the Eastern Province of Sri Lanka. It could also be spelled as Valaichenai. The world-famous Pasikudah Beach is located about 3 km east of Valaichenai along the Indian Ocean. Pasikudah beach is famous for shallow and calm sea water."
+}, {
+  "entityIndex" : "8_entity26977",
+  "entityUrl" : "http://dbpedia.org/resource/Sutherland,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Sutherland" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "semi-detached", "204,213", "subdivision", "43.8", "suburban", "2006", "composed", "rate", "neighbourhood", "houses", "single-family", "older", "east-central", "multiple-unit", "mix", "value", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "home", "detached", "Canada", "near-even", "51,857", "residential", "ownership", "Sutherland", "located", "residents", "family", "apartment", "5,206" ],
+  "adjectives" : [ "average", "near-even", "residential", "suburban", "middle-income", "located", "single-family", "semi-detached", "east-central", "multiple-unit" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "mix", "value", "apartment" ],
+  "text" : "Sutherland is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is an older suburban subdivision, composed of a near-even mix of single-family detached houses and multiple-unit apartment and semi-detached dwellings. As of 2006, the area is home to 5,206 residents. The neighbourhood is considered a middle-income area, with an average family income of $51,857, an average dwelling value of $204,213 and a home ownership rate of 43.8%. According to MLS data, the average sale price of a home as of 2013 was $288,651.Sutherland was originally a town outside of Saskatoon before being annexed by the city in 1956."
+}, {
+  "entityIndex" : "9_entity27240",
+  "entityUrl" : "http://dbpedia.org/resource/Strathcona,_Alberta",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "810", "NW" ]
+  },
+  "words" : [ "hunters", "fur", "mostly", "Alberta", "speculators", "Metis", "pioneer", "North", "near", "Québécois", "Orkney", "eastern", "began", "old", "Saskatchewan", "City", "history", ",", "'s", "community", "Strathcona", ".", "Canada", "especially", "Edmonton", "-RRB-", "1880s", "residents", "employees", "-LRB-", "city", "south", "Canadian", "north", "Fort", "mixed", "farmers", "Cree", "across", "self-employed", "River", "land", "offshoot", "side", "British", "hangers-on", "replaced", "recorded", "families", "contractors", "trade", "located", "river", "first", "1870s", "resided" ],
+  "adjectives" : [ "British", "eastern", "south", "self-employed", "Canadian", "old", "north", "located", "mixed", "recorded", "first" ],
+  "nouns" : [ "offshoot", "side", "fur", "trade", "hangers-on", "city", "land", "City", "history", "river", "community", "pioneer" ],
+  "text" : "Strathcona was a city in Alberta, Canada, located on the south side of the North Saskatchewan River across from the City of Edmonton. Strathcona's recorded history began in the 1870s. Its first residents were an offshoot of the hangers-on and self-employed contractors who resided near the old Fort Edmonton on the north side of the river. This mixed community of British (especially Orkney), Québécois, Cree and Metis fur trade employees, pioneer farmers, hunters, and their families, was mostly replaced by eastern Canadian pioneer farmers (and land speculators) in the 1880s. The Calgary and Edmonton Railway arrived in 1891, establishing an urban hamlet centred on what is now Whyte Avenue. The townsite \"Plan I\" was registered September 25, 1891. Businesses, at first located in quickly-built primitive shacks, some made of logs, provided goods and services to a flood of immigrants from eastern Canada, Britain and continental Europe, U.S. and other parts of the world that came by train to the area. It was thought that \"South Edmonton\" would overwhelm \"Old Edmonton\" on the north side but Strathcona's geographic difficulties prevented this. However, Strathcona was in good enough position for businesses near the railway station to prosper. Over the following 20 years the centre's primitive buildings were replaced by more substantial two-storey wood or even brick buildings, many of which exist to this day. On May 29, 1899, Strathcona was incorporated as a town named after Lord Strathcona, Donald A. Smith. Smith was a prominent official in the Hudson's Bay Company and the Canadian Pacific Railway, that operated the Calgary and Edmonton Railway, the community's lifeline. The first mayor of Strathcona was Thomas Bennett. The original boundaries of the town included all the numbered river lots between #9 and #17 south of the river, corresponding to the area from present-day 109 Street in the west to 97 Street in the east and south to University Avenue, a total area of 1,000 acres (400 ha). In 1902, alarmed by fires that swept through many prairie communities at the time, Strathcona's town council passed an ordinance requiring that all buildings be constructed of fire-resistant materials, such as brick. This, along with the limited municipal re-development occurring south of the river after amalgamation, means that Whyte Avenue and the surrounding area has one of the largest stocks of vintage buildings in western Canada. After becoming a city on March 15, 1907, Premier A.C. Rutherford, Strathcona's MLA, established the University of Alberta in the City of Strathcona in 1908, with the purchase of the campus on the west edge of the city. Until the first campus buildings were completed, the University found a home in the Queen Alexandra Public School, still standing on 106 Street, then in the building that is now Old Scona Academic High School. In the 1911 census, Strathcona had a population of 5,579, while Edmonton had a population of 24,900. In anticipation of lower taxes and other benefits of being a larger city, an amalgamation of the two cities was proposed in which Strathcona and Edmonton residents voted 667-96 and 518-178 in favour of the merger respectively. The amalgamation of the two cities went into effect on February 1, 1912, resulting in increased policing and more affordable transit for Strathcona. At the time of the merger, Strathcona's boundaries were the North Saskatchewan River to the west and north, 91 Street to the east, and a combination of 62 Avenue and 68 Avenue to the south, with 111 Street comprising the brief jog between the two avenues. Whitemud Creek comprised the brief portion of the city's west boundary between 68 Avenue and the river. This included land annexed by Strathcona that was not fully developed until after WWII, well after the merger. Today's neighbourhood of Strathcona covers the portion of the former City of Strathcona lying east of 107 Street, north of Whyte Avenue, west of the Mill Creek ravine and south of the North Saskatchewan River valley. Also, the historic commercial core of the former City of Strathcona has been designated as the Old Strathcona Provincial Historic Area."
+}, {
+  "entityIndex" : "10_entity27286",
+  "entityUrl" : "http://dbpedia.org/resource/Sarchu",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Leh" ]
+  },
+  "words" : [ "use", "Himachal", "nearby", "14,070", "Chu", "high", "major", "Pradesh", "La", "road", "Ladakh", "highway", "4,290", "journey", "travellers", "banks", "Highway", ",", ".", "India", "camp", "army", "stop", "spot", "-RRB-", "Lachulung", "conditions", "Sir", "boundary", "altitude", "Sarchu", "-LRB-", "south", "Himalayas", "north", "two", "point", "ft", "situated", "overnight", "known", "along", "Kashmir", "Baralacha", "takes", "Jammu", "Bhum", "tented", "Tsarap", "also", "Leh-Manali", "m", "Manali-Leh", "halt", "accommodation", "variable", "days", "Indian", "tourists", "sited", "river", "Chun", "normally" ],
+  "adjectives" : [ "overnight", "high", "tented", "major", "south", "variable", "Indian", "Lachulung" ],
+  "nouns" : [ "boundary", "altitude", "journey", "north", "m", "point", "ft", "camp", "army", "halt", "stop", "La", "road", "spot", "accommodation", "river", "highway" ],
+  "text" : "Sarchu (also known as Sir Bhum Chun) is a major halt point with tented accommodation in the Himalayas on the Leh-Manali Highway, on the boundary between Himachal Pradesh and Ladakh (Jammu and Kashmir) in India. It is situated between Baralacha La to the south and Lachulung La to the north, at an altitude of 4,290 m (14,070 ft). The journey along the Manali-Leh highway at high altitude and variable road conditions, normally takes two days, so travellers and tourists use this spot as an overnight stop. An Indian army camp is sited nearby on the banks of the Tsarap Chu river. The highway and thus the camp are closed during the winter, when snow blocks the high passes along the road. This spot can also be used as a start point for the difficult trek into the Zanskar region of Ladakh."
+}, {
+  "entityIndex" : "11_entity27298",
+  "entityUrl" : "http://dbpedia.org/resource/Sirpur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Sirpur" ]
+  },
+  "words" : [ "Sirpur-T", "mills.It", "-LRB-", "Telangana", "city", "part", "notable", "Adilabad", "around", "Sirpur", "division", "east", "revenue", "paper", "Wardha", "Town", "west", "state", "village", "km", "Asifabad", "banks", "rests", "160", ",", ".", "district", "-RRB-", "Indian", "located", "Mandal", "river", "mandal" ],
+  "adjectives" : [ "east", "Indian", "located", "notable", "Adilabad" ],
+  "nouns" : [ "Sirpur-T", "mills.It", "km", "city", "part", "division", "revenue", "paper", "district", "west", "state", "river", "village", "mandal" ],
+  "text" : "Sirpur Town is a village in east part of Adilabad district of the Indian state of Telangana. It is located in Sirpur (T) mandal of Asifabad revenue division. Sirpur-T is a village and a Mandal in Adilabad district,It is notable for Sirpur paper mills.It rests on the banks of river Wardha. Sirpur is around 160 km west of Adilabad city. Sirpur, formerly known as Suryapuram, was ruled by the Gond King, Ballala. Sipurt Fort is a major tourist attraction,The Gond King, Bhim Ballal Sing built Sirpur Fort in 9th century AD.The modern town grew around the fort. Distinction of the town is the Sirpur Paper Mills, one of the biggest paper mills in India and hence the name Sirpur Kagaznagar.Hyderabad Airport is the nearest airport.Sirpur Town Railway Station and Sirpur Kagaznagar Railway Station serve the town."
+}, {
+  "entityIndex" : "12_entity27335",
+  "entityUrl" : "http://dbpedia.org/resource/Shinai,_Kutch",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Gram Panchayat" ]
+  },
+  "words" : [ "Villagers", "televisions", "chronicles", "nearest", "good", "supply", "Shinai", "later", "houses", "state", "per", "entrance", "cable", "welcome", "AD", "drinking", "15", "town", "&", "Mistris", "telephone", ",", "community", "shortages.The", "Parmar", "water", ".", "visitors", "Shenoi", "greets", "district", "kilometres", "Gurjar", "12th", "Gujarat", "enjoy", "Kshatriya", "Kutch", "power", "village", "Rathor", "Yadav", "villages", "penetration", "founded", "Anjar", "electricity", "Vegad", "century", "taluka", "clans", "located", "Indian", "gate", "shifted" ],
+  "adjectives" : [ "12th", "located", "Indian", "good", "welcome" ],
+  "nouns" : [ "AD", "drinking", "town", "penetration", "electricity", "telephone", "community", "shortages.The", "water", "supply", "century", "taluka", "district", "state", "power", "gate", "village", "entrance", "cable" ],
+  "text" : "Shinai or Shenoi village is located 15 kilometres from the nearest town, Anjar in the taluka of Kutch district in the Indian state of Gujarat. As per chronicles of Kutch Gurjar Kshatriya or Mistris of Kutch, the village was founded by Rathor, Vegad, Yadav & Parmar clans of their community in 12th century AD but later they shifted to other villages. Villagers enjoy good drinking water and electricity supply with few power shortages.The village has good telephone penetration, and most of the houses have televisions and cable supply. The village entrance greets visitors with a welcome gate."
+}, {
+  "entityIndex" : "13_entity27337",
+  "entityUrl" : "http://dbpedia.org/resource/Stonebridge,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Stonebridge" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "67,642", "dwelling", "semi-detached", "south-central", "321,004", "2009", "subdivision", "suburban", "994", "rate", "neighbourhood", "mix", "value", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "Stonebridge", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "medium-density", "72.4", "located", "residents", "family", "apartment" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "medium-density", "located", "semi-detached", "south-central" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "mix", "value", "apartment" ],
+  "text" : "Stonebridge is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting of low-density, single detached dwellings and a mix of medium-density apartment and semi-detached dwellings. As of 2009, the area is home to 994 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,642, an average dwelling value of $321,004 and a home ownership rate of 72.4%.According to MLS data, the average sale price of a home as of 2013 was $380,777."
+}, {
+  "entityIndex" : "14_entity27365",
+  "entityUrl" : "http://dbpedia.org/resource/Sutherland_Industrial,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Sutherland Industrial" ]
+  },
+  "words" : [ "Nation", "Industrial", "city", "part", "Muskeg", "Lake", "Cree", "subdivision", "reserve", "east-central", "annexed", "1956", "town", "Saskatoon", "originally", "also", "Saskatchewan", ",", ".", "Canada", "industrial", "contains", "urban", "outside", "Sutherland", "located", "first" ],
+  "adjectives" : [ "industrial", "urban", "located", "east-central", "first" ],
+  "nouns" : [ "subdivision", "town", "city", "part", "reserve" ],
+  "text" : "Sutherland Industrial is an industrial subdivision located in east-central Saskatoon, Saskatchewan, Canada. It was originally part of Sutherland, a town outside of Saskatoon before being annexed by the city in 1956. The subdivision also contains the first urban reserve in Saskatchewan, the Muskeg Lake Cree Nation."
+}, {
+  "entityIndex" : "15_entity27377",
+  "entityUrl" : "http://dbpedia.org/resource/Serai_Naurang",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Pakistan", "Naurang" ]
+  },
+  "words" : [ "metres", "feet", "46", "Gandhapur", "49", "legend", "Lakki", "Mr.", "275", "province", "Ismail", "Pakhtunkhwa", "Marwat", "Khyber", "landed", "15", "town", "55E", "goes", "'", "Serai", ",", "-", "whose", ".", "°", "Dera", "-RRB-", "name", "Bannu", "District", "altitude", "-LRB-", "25", "distance", "south", "Khan", "32N", "miles", "holding", "Pakistan", "70", "derived", "32", "Road", "one", "Tehsil", "kilometers", "Naurang", "located", "family", "905" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "altitude", "province", "distance", "town", "55E", "legend", "name", "family", "32N" ],
+  "text" : "Serai Naurang is Tehsil of Lakki Marwat District in Khyber Pakhtunkhwa province of Pakistan. It is located at 32°49'32N 70°46'55E and has an altitude of 275 metres (905 feet). It is located at Bannu - Dera Ismail Khan Road at a distance of 25 kilometers or 15 miles south of Bannu. The town derived its name, as legend goes, from one Mr. Naurang Khan Gandhapur, whose family has landed holding in the town. The prefix is supposed to added in the era of English rule in the 18th century when they established camping grounds/ inns on each 15 miles of roads as resting place for the movements of their infantry. These inns are called \"Serai\", hence Naurang got its prefix as Serai Naurang. The town is commercially located between the districts of Bannu, Karak, Frontier Region of Bannu and Lakki Marwat. It caters to the needs of adjacent districts for vegetables, fruit, rice, oil, wheat, flour, household goods and grocery. It is hub for various fruits like orange, watermelon from Punjab province, MashMelon, pomegranate and grapes from Afghanistan, apple from FATA, peach, pear and persimmon ('amlok' in Pashtu, 'D.kaki' in Japanese) from Peshawer. It is famous for weekly Market arranged on every Thursday especially for cattle exchange and weekly supply of food items for the people of peripheral areas.سرائے means inn نو means(new) رنگ means (colour) so serai naurang means (new colour inn) ."
+}, {
+  "entityIndex" : "16_entity27394",
+  "entityUrl" : "http://dbpedia.org/resource/Selaiyur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "-LRB-", "called", "Rajakilpakkam", "Chitlapakkam", "upon", "Tambaram", "AirForce", "bases", "Madambakkam", "Chennai", "Sembakkam", "near", "place", "Selaiyur", "Madras", "include", "Road", "one", "Neighbouring", ",", "-", ".", "towns", "-RRB-", "suburb", "located", "Indian", "time", "Silaiyur", "Velachery", "Medavakkam.The" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "suburb", "time", "place" ],
+  "text" : "Selaiyur is a suburb near Tambaram, Chennai (Madras). This suburb is located on the Tambaram - Velachery Road. Once upon a time, this place was called as Silaiyur. Neighbouring towns include Tambaram, Madambakkam, Rajakilpakkam, Sembakkam, Chitlapakkam and Medavakkam.The Indian AirForce has one if its bases here .It has been a preferred area for most of the retired airforce families and hence there are mix of people like north Indians, andhraites, keralites etc. Over the past few years this suburb has rapidly developed in terms of population due to the presence of vast number of private companies (national and multi national) present nearby.The nearest suburb station is Tambaram station and the Chennai airport (domestic and international) is only about 9 km away.Selaiyur has bus connectivity to all the main regions of the city. The East tambaram bus terminus is about 3 km away and passengers can also board the buses in camp road junction bus stop located in Selaiyur."
+}, {
+  "entityIndex" : "17_entity27423",
+  "entityUrl" : "http://dbpedia.org/resource/Santragachhi",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "?" ]
+  },
+  "words" : [ "junction", "Railway", "named", "city", "whistling", "Santragachi", "winter", "migratory", "birds", "neighbourhood", "lesser", "duck", "station", "Howrah", "attracts", "railway", "months", "large", "Bengal", "West", "South", ",", "Jheel", ".", "India", "Eastern", "lake", "Santragachhi" ],
+  "adjectives" : [ "large", "migratory" ],
+  "nouns" : [ "junction", "city", "neighbourhood", "duck", "station", "winter", "railway", "lake" ],
+  "text" : "Santragachhi or Santragachi is a neighbourhood of Howrah city in West Bengal, India. It has a railway station which is a railway junction on the South Eastern Railway. There is a large lake here named Santragachhi Jheel which attracts migratory birds such as lesser whistling duck in the winter months."
+}, {
+  "entityIndex" : "18_entity27508",
+  "entityUrl" : "http://dbpedia.org/resource/Siddapura,_Bangalore",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "bangalore" ]
+  },
+  "words" : [ "localities", "-LRB-", "One", "another", "Whitefield", "two", "Bangalore", "situated", "Mahanagara", "1st", "block", "near", "village", "jayanagar", "limits", "BMP", "within", "Palike", "Jayanagar", ".", "Siddapura", "Part", "name", "-RRB-", "suburb" ],
+  "adjectives" : [ "1st" ],
+  "nouns" : [ "BMP", "name", "suburb", "block", "village", "jayanagar" ],
+  "text" : "Siddapura is the name of two localities within the limits of the Bangalore Mahanagara Palike (BMP). One is situated near Jayanagar in Bangalore and another village is the suburb of Whitefield. Siddapura Part of 1st block jayanagar"
+}, {
+  "entityIndex" : "19_entity27528",
+  "entityUrl" : "http://dbpedia.org/resource/Sainthamaruthu",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Mr.A.L.M.Saleem", "Sainthamaruthu" ]
+  },
+  "words" : [ "commercial", "education", "several", "developing", "main", "bordered", "percentage", "urbanized", "bay", "potential", "fully", "area", "eastern", ",", "Province", ".", "ද", "dense", "population", "congested", "Sainthamaruthu", "න", "coast", "Ampara", "strengths", "-RRB-", ":", "ය", "Eastern", "western", ";", "25,412", "District", "Sammanthurai", "paddy", "engaged", "southern", "hundred", "-LRB-", "ස", "reasons", "city", "දමර", "part", "Sri", "Kalmunai", "agriculture", "east", "Lanka", "Karativu", "Northern", "village", "arts", "சாய்ந்தமருது", "highly", "Muslims", "middle", "business", "sports", "villages", "Bengal", "one", "fishing", "Tamil", "cultivation", "religion", "site", "due", "Sinhala", "culture", "activities", "increasing", "located", "fisheries" ],
+  "adjectives" : [ "southern", "eastern", "commercial", "middle", "several", "main", "dense", "east", "due", "urbanized", "located", "western", "potential" ],
+  "nouns" : [ "area", "education", "business", "city", "part", "fishing", "Tamil", "cultivation", "ද", "population", "religion", "Sainthamaruthu", "agriculture", "coast", "site", "culture", "percentage", "bay", "village", "paddy" ],
+  "text" : "Sainthamaruthu (Tamil: சாய்ந்தமருது, Sinhala: සායින්දමරුදු) is one of a dense city in Sri Lanka with a population of 25,412 and is located on the east coast of Ampara District of Eastern Province, Sri Lanka. Sainthamaruthu is a developing city with strengths in the education, business, agriculture, fisheries, sports, arts, culture and religion and this is the only city of Sri Lanka with hundred percentage of Muslims. Sainthamaruthu is located in a middle part of some other villages such as Sammanthurai on the western, Kalmunai on the Northern, Karativu on the southern and the eastern bordered with bay of Bengal. Sainthamaruthu is highly urbanized and congested due to several reasons;increasing commercial activities in the main area of the village, the eastern site is potential for fishing and western site is fully engaged with paddy cultivation. There is a lagoon which is used by deep sea fisherman as anchorage to keep their boards."
+}, {
+  "entityIndex" : "20_entity27536",
+  "entityUrl" : "http://dbpedia.org/resource/Shere,_Nigeria",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "City Shere" ]
+  },
+  "words" : [ "Shere", "metres", "capital", "-LRB-", "called", "city", "part", "northern", "got", "ft", "east", "high", "central", "found", "Hills", "elevated", "Northern", "village", "Nigeria", "highly", "elevation", "Plateau", "making", "4,596", ",", ".", "Jos", "State", "hills", "name", "-RRB-", "1,401" ],
+  "adjectives" : [ "east", "high", "central", "elevated", "Northern", "northern" ],
+  "nouns" : [ "elevation", "capital", "city", "part", "name", "village", "ft" ],
+  "text" : "Shere is a village east of Jos city, the capital of Plateau State in central Nigeria. The village is found on hills called Shere Hills on the northern part of the Jos Plateau. The Hills got the name Shere from the village. The village is found at an elevation of about 1,401 metres (4,596 ft) high on the hills making the village the most highly elevated village in Northern Nigeria."
+}, {
+  "entityIndex" : "21_entity27627",
+  "entityUrl" : "http://dbpedia.org/resource/Sipajhar",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "1" ]
+  },
+  "words" : [ "Sipajhar", "Guwahati", "capital", "away", "-LRB-", "Assam", "city", "Mangaldoi", "main", "National", "50", "state", "town.It", "km", "middle", "15", "town", "goes", "one", "Highway", ",", ".", "tehsils", "India", "headquarters", "Darrang", "towns", "district", "-RRB-", "Indian" ],
+  "adjectives" : [ "middle", "Indian", "main" ],
+  "nouns" : [ "km", "capital", "headquarters", "town", "city", "district", "state", "town.It" ],
+  "text" : "Sipajhar is one of the main towns in middle Assam or in Darrang district. It is about 50 km away from Guwahati, capital city of Assam. It is one of the tehsils of Indian state Assam. National Highway 15 (India) goes through the town.It is about 15  km away from the headquarters town of Darrang district, Mangaldoi. The town is also a major bus stop ."
+}, {
+  "entityIndex" : "22_entity27632",
+  "entityUrl" : "http://dbpedia.org/resource/Sector_62,_Noida",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "commercial", "-LRB-", "city", "part", "areas", "planned", "National", "Hindi", "Noida", "prime", "sectors", "Sector", "effectively", "one", "centre", "Capital", ",", ".", "India", "residential", "सेक्टर", "-RRB-", "well", "Region", ":", "location", "62", "segregated" ],
+  "adjectives" : [ "prime", "commercial", "residential" ],
+  "nouns" : [ "city", "Sector", "part", "centre", "location" ],
+  "text" : "Sector 62 (Hindi: सेक्टर 62), is a prime location in centre of Noida city. It is one of the well planned sectors of Noida city where residential and commercial areas are segregated effectively. Noida is a part of National Capital Region of India."
+}, {
+  "entityIndex" : "23_entity13017",
+  "entityUrl" : "http://dbpedia.org/resource/Buena_Vista,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Buena Vista" ]
+  },
+  "words" : [ "Vista", "income", "average", "mostly", "considered", "2011", "dwelling", "subdivision", "suburban", "rate", "neighbourhood", "older", "near", "Buena", "value", "67,170", "area", "including", "$", "middle-income", "%", "Saskatoon", "dwellings", "centre", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "3,271", "77.7", "Canada", "residential", "ownership", "located", "residents", "family", "251,560" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "low-density" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "centre", "dwelling", "family", "value", "home" ],
+  "text" : "Buena Vista is a residential neighbourhood located near the centre of Saskatoon, Saskatchewan, Canada. It is an older suburban subdivision, including mostly low-density, single detached dwellings. As of 2011, the area is home to 3,271 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,170, an average dwelling value of $251,560 and a home ownership rate of 77.7%."
+}, {
+  "entityIndex" : "24_entity13024",
+  "entityUrl" : "http://dbpedia.org/resource/Briarwood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Briarwood" ]
+  },
+  "words" : [ "income", "average", "117,619", "considered", "part", "dwelling", "Briarwood", "2009", "rate", "neighbourhood", "high-income", "449,158", "majority", "value", "live", "area", "$", "%", "Saskatoon", "dwellings", "4,473", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "residential", "ownership", "located", "residents", "97.0", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value", "southeast" ],
+  "text" : "Briarwood is a residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in low-density, single detached dwellings. As of 2009, the area is home to 4,473 residents. The neighbourhood is considered a very high-income area, with an average family income of $117,619, an average dwelling value of $449,158 and a home ownership rate of 97.0%.According to MLS data, the average sale price of a home as of 2013 was $489,830."
+}, {
+  "entityIndex" : "25_entity13045",
+  "entityUrl" : "http://dbpedia.org/resource/Brevoort_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Brevoort Park" ]
+  },
+  "words" : [ "half", "part", "duplex", "minority", "primarily", "2007", "neighbourhood", "houses", "Street", "sizeable", "3,424", "area", "Brevoort", "business", "Saskatoon", "dwellings", "multiple", "includes", "Saskatchewan", ",", "8th", "apartment-style", ".", "Park", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "unit", "half", "business", "neighbourhood", "part", "district", "Street", "duplex", "minority", "southeast", "home" ],
+  "text" : "Brevoort Park is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. Just over half of its dwellings are single detached houses, with a sizeable minority of duplex or apartment-style multiple unit dwellings. As of 2007, the area is home to 3,424 residents. The neighbourhood is considered a middle-income area, with an average family income of $52,098, and a home ownership rate of 54.0%.According to MLS data, the average sale price of a home as of 2013 was $325,447."
+}, {
+  "entityIndex" : "26_entity13210",
+  "entityUrl" : "http://dbpedia.org/resource/Bjerkaker",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Midt-Troms" ]
+  },
+  "words" : [ "southern", "city", "held", "part", "municipality", "county", "summer", "Open", "Tromsøysund", "tip", "July", "Bjerkaker", "Bukta", "1955", "Festival", "Troms", "Tromsøya", "island", "Air", ",", ".", "former", "Tromsø", "1", "Norway", "Telegrafbukta", "located" ],
+  "adjectives" : [ "southern", "located", "former" ],
+  "nouns" : [ "Tromsøya", "city", "island", "part", "municipality", "county", "Tromsøysund", "tip", "summer" ],
+  "text" : "Bjerkaker is a part of the city of Tromsø in the municipality of Tromsø in Troms county, Norway. It is located on the southern tip of the island of Tromsøya. Before 1 July 1955 Bjerkaker was part of the former municipality Tromsøysund. Each summer Bukta Tromsø Open Air Festival is held at Telegrafbukta. In April 2003 about 40 people met up at Bjerkaker Skole and founded an informal Sør-Tromsøya Borough Council. A list of the members can be found on their Web pages. The German battleship Tirpitz was sunk by British bombers between Bjerkaker and Håkøya in 1944."
+}, {
+  "entityIndex" : "27_entity13231",
+  "entityUrl" : "http://dbpedia.org/resource/Betasing",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Betasing Block." ]
+  },
+  "words" : [ "Rural", "km", "&", "West", "South", ",", "Ampati", ".", "situated", "headquarters", "Hills", "Garo", "7", "district", "Development", "Block", "Betasing", "Community" ],
+  "adjectives" : [ ],
+  "nouns" : [ "headquarters", "km", "district" ],
+  "text" : "Betasing is the Community & Rural Development Block headquarters situated 7 km from the district headquarters of South West Garo Hills, Ampati."
+}, {
+  "entityIndex" : "28_entity14502",
+  "entityUrl" : "http://dbpedia.org/resource/College_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "College Park" ]
+  },
+  "words" : [ "sizable", "income", "average", "65,133", "considered", "part", "2011", "dwelling", "232,228", "minority", "primarily", "high-density", "rate", "neighbourhood", "single-family", "majority", "east-central", "multiple-unit", "value", "live", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "5,470", "Saskatchewan", ",", ".", "Park", "home", "detached", "Canada", "residential", "ownership", "58.9", "College", "located", "residents", "family" ],
+  "adjectives" : [ "sizable", "average", "residential", "middle-income", "located", "single-family", "east-central", "multiple-unit", "high-density" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value" ],
+  "text" : "College Park is a primarily residential neighbourhood located in the east-central part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in single-family detached dwellings, with a sizable minority of high-density, multiple-unit dwellings. As of 2011, the area is home to 5,470 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,133, an average dwelling value of $232,228 and a home ownership rate of 58.9%.According to MLS data, the average sale price of a home as of 2013 was $299,844."
+}, {
+  "entityIndex" : "29_entity14503",
+  "entityUrl" : "http://dbpedia.org/resource/College_Park_East,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "College Park East" ]
+  },
+  "words" : [ "income", "average", "considered", "part", "dwelling", "minority", "primarily", "high-density", "67,946", "2006", "rate", "neighbourhood", "single-family", "majority", "sizeable", "east-central", "multiple-unit", "67.2", "value", "live", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "Park", "home", "detached", "Canada", "residential", "ownership", "314,000", "College", "4,809", "located", "residents", "family", "East" ],
+  "adjectives" : [ "average", "residential", "middle-income", "located", "single-family", "sizeable", "east-central", "multiple-unit", "high-density" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value" ],
+  "text" : "College Park East is a primarily residential neighbourhood located in the east-central part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in single-family detached dwellings, with a sizeable minority of high-density, multiple-unit dwellings. As of 2006, the area is home to 4,809 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,946, an average dwelling value of $314,000 and a home ownership rate of 67.2%.According to MLS data, the average sale price of a home as of 2013 was $315,083."
+}, {
+  "entityIndex" : "30_entity14551",
+  "entityUrl" : "http://dbpedia.org/resource/Chandroda",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Gram Panchayat" ]
+  },
+  "words" : [ "22", "-LRB-", "14", "town", "Gujarat", "4000", "Chandroda", "Anjar", ",", "around", ".", "India", "population", "school", "taluka", "district", "-RRB-", "Kutch", "kilometres", "village", "mi", "primary" ],
+  "adjectives" : [ "primary" ],
+  "nouns" : [ "town", "school", "taluka", "district", "village", "mi", "population" ],
+  "text" : "Chandroda is a village 22 kilometres (14 mi) from the town of Anjar, in the taluka of Kutch district, Gujarat, India. It has a population of around 4000. There is a primary school in Chandroda."
+}, {
+  "entityIndex" : "31_entity14556",
+  "entityUrl" : "http://dbpedia.org/resource/Carter_Park,_Oklahoma",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States" ]
+  },
+  "words" : [ "S.E.", "city", "south", "Oklahoma", "Road", "United", "Del", "City", "Carter", ",", "County", ".", "Park", "15th", "States", "1954", "Sunnylane", "west", "located", "Street", "annexed" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "city", "west" ],
+  "text" : "Carter Park was a city in Oklahoma County, Oklahoma, United States. It was located south of S.E. 15th Street and west of Sunnylane Road, west of Del City. It was annexed in 1954 by Del City."
+}, {
+  "entityIndex" : "32_entity14571",
+  "entityUrl" : "http://dbpedia.org/resource/C.N._Industrial,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "C.N. Industrial Area" ]
+  },
+  "words" : [ "southern", "Trunk", "Railway", "Industrial", "part", "Nutana", "subdivision", "known", "Development", "River", "park", "siding", "area", "established", "Saskatoon", "rail", "South", "Suburban", "also", "CN", "Saskatchewan", ",", "crossing", ".", "Grand", "Area", "industrial", "Pacific", "located" ],
+  "adjectives" : [ "southern", "industrial", "located" ],
+  "nouns" : [ "siding", "area", "subdivision", "Railway", "rail", "part", "CN", "park" ],
+  "text" : "The CN Industrial Area is the industrial subdivision located in southern Saskatoon. It is also known as South Saskatoon, after the CN rail siding located in the area. It is a part of the Nutana Suburban Development Area. This industrial park was established with the Grand Trunk Pacific Railway crossing the South Saskatchewan River. C.N. Industrial is bisected by Circle Drive, which directly links to all major highways entering the city, and is also connected directly to the Idylwyld Freeway, which links to downtown Saskatoon. This neighbourhood on the east side of Saskatoon is not to be confused with the Canadian National Railway (C.N.) Yards Management Area located on Chappell Drive in the Confederation SDA of Saskatoon's west side. These two sides of Saskatoon are connected with the Grand Trunk Bridge or CN railway bridge over the South Saskatchewan River."
+}, {
+  "entityIndex" : "33_entity28534",
+  "entityUrl" : "http://dbpedia.org/resource/Urban_neighbourhoods_of_Sudbury",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "124589101112" ]
+  },
+  "words" : [ "city", "Rayside-Balfour", "Sudbury", "see", "suburban", "fall", "pre-2001", "limits", "--", "neighbourhoods", "within", "Capreol", "includes", "list", ",", "Centre", ".", "former", "municipalities", "Falls", "core", "urban", "Walden", "Valley", "Onaping", "Greater", "Nickel", "Ontario", "articles", "East", "communities" ],
+  "adjectives" : [ "suburban", "urban", "pre-2001", "former" ],
+  "nouns" : [ "core", "city", "list" ],
+  "text" : "This is a list of neighbourhoods in the urban core of Greater Sudbury, Ontario. This list includes only those neighbourhoods that fall within the pre-2001 city limits of Sudbury — for communities within the former suburban municipalities, see the articles Capreol, Nickel Centre, Onaping Falls, Rayside-Balfour, Valley East and Walden."
+}, {
+  "entityIndex" : "34_entity28538",
+  "entityUrl" : "http://dbpedia.org/resource/University_Heights_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "University Heights Suburban Centre" ]
+  },
+  "words" : [ "``", "income", "average", "commercial", "considered", "dwelling", "areas", "medium", "high-density", "civic", "2009", "subdivision", "suburban", "composed", "rate", "neighbourhood", "multiple-unit", "1,479", "85.7", "value", "Heights", "''", "area", "$", "middle-income", "237,698", "%", "Saskatoon", "dwellings", "Suburban", "northeast", "centre", "classified", "Saskatchewan", "Centre", ",", "69,219", "mixed-development", ".", "home", "Canada", "University", "ownership", "located", "residents", "facilities", "family" ],
+  "adjectives" : [ "average", "commercial", "suburban", "middle-income", "located", "northeast", "multiple-unit", "high-density", "civic" ],
+  "nouns" : [ "area", "income", "%", "centre", "dwelling", "medium", "mixed-development", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value" ],
+  "text" : "University Heights Suburban Centre is a mixed-development neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2009, the area is home to 1,479 residents. The neighbourhood is considered a middle-income area, with an average family income of $69,219, an average dwelling value of $237,698 and a home ownership rate of 85.7%.According to MLS data, the average sale price of a home as of 2013 was $304,903."
+}, {
+  "entityIndex" : "35_entity29866",
+  "entityUrl" : "http://dbpedia.org/resource/Zeyawaddy",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Phyu", "Zeyawaddy" ]
+  },
+  "words" : [ "small", "Fiji", "Zeyawaddy", "Rangoon", "Surinam", "north", "descendants", "around", "Bihari", "sugarcane", "Indians", "215", "came", "migrated", "group", "surrounding", "Durban", "km", "ethnic", "grow", "town", "villages", "Burma", ",", "Mauritius", ".", "population", "etc.", "1904" ],
+  "adjectives" : [ "small", "ethnic" ],
+  "nouns" : [ "km", "town", "north", "Burma", "population", "sugarcane", "group" ],
+  "text" : "Zeyawaddy is a small town, 215 km north of Rangoon, Burma. The population of the town and the surrounding villages are descendants of Bihari Indians who came to Burma around 1904. They had migrated to Burma to grow sugarcane. They were of the same ethnic group as those Indians who migrated to Fiji, Mauritius, Durban and Surinam, etc. to grow sugarcane. With the view of transferring population from densely populated regions of Bihar & Northern Provinces( Uttar Pradesh to waste lands/jungles of Burma, the British Government offered large tracts of land in Burma by way of Grants,to big Indian Zamindars & Princely States to take up the migration work. Invitations were sent to the Maharaja of Dumraon as well as to the Dewan of Dumraon State. While the Maharaja declined the offer, Dewan Jai Prakash Lall C.I.E. accepted the offer and was granted 18340 acres of land in Zayawadi region in Myanmar by the British Empire. Dewan Jai Prakash Lall C.I.E. & his son Rai Bahadur Harihar Prasad Singh took neighboring people from Bihar & Northern Provinces to Myanmar and let them cut and clean the forest in that land and allowed them to grow paddy & sugar cane to earn living. In 1934-35 a sugar mill, bought from Britain was set up by Rai Bahadur Harihar Prasad Singh & his son, Mr. Chandradeva Prakash Sinha. The mill had a capacity of 1000 tons per year initially, which was expanded to 2,500 tons before the second World War. The mill was the largest sugar mill in Burma of the time. New machinery was also bought during the war days to further expand capacity. The sugar factory had been running till 1952-53. In 1954 the mill was nationalized by the Myanmar Government and the factory was run by the Government thereafter."
+}, {
+  "entityIndex" : "36_entity17248",
+  "entityUrl" : "http://dbpedia.org/resource/Grosvenor_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Grosvenor Park" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "units", "67,544", "subdivision", "44.8", "suburban", "2006", "composed", "rate", "neighbourhood", "east-central", "mix", "value", "area", "$", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", "apartment-style", ".", "Park", "home", "329,988", "single", "detached", "Canada", "near-even", "Grosvenor", "residential", "ownership", "located", "residents", "1,645", "upper-income", "family" ],
+  "adjectives" : [ "single", "average", "near-even", "residential", "suburban", "located", "east-central", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "upper-income", "family", "mix", "value" ],
+  "text" : "Grosvenor Park is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, composed of a near-even mix of low-density, single detached dwellings and apartment-style units. As of 2006, the area is home to 1,645 residents. The neighbourhood is considered an upper-income area, with an average family income of $67,544, an average dwelling value of $329,988 and a home ownership rate of 44.8%.According to MLS data, the average sale price of a home as of 2013 was $493,174."
+}, {
+  "entityIndex" : "37_entity17252",
+  "entityUrl" : "http://dbpedia.org/resource/Greystone_Heights,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Greystone Heights" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "minority", "subdivision", "2007", "suburban", "58,811", "rate", "neighbourhood", "sizeable", "east-central", "multiple-unit", "Greystone", "value", "Heights", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "2,525", ",", "241,850", "apartment-style", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "58.1" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "sizeable", "east-central", "multiple-unit", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "minority", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value" ],
+  "text" : "Greystone Heights is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings and a sizeable minority of apartment-style multiple-unit dwellings. As of 2007, the area is home to 2,525 residents. The neighbourhood is considered a middle-income area, with an average family income of $58,811, an average dwelling value of $241,850 and a home ownership rate of 58.1%.According to MLS data, the average sale price of a home as of 2013 was $338,763."
+}, {
+  "entityIndex" : "38_entity17329",
+  "entityUrl" : "http://dbpedia.org/resource/Gembu,_Nigeria",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "City Gembu" ]
+  },
+  "words" : [ "``", "average", "-LRB-", "4,423", "ft", "meters", "high", "found", "elevated", "plateau", "Taraba", "Gembu", "Nigeria", "''", "elevation", "town", "Government", "state.Sitting", "Local", "Mambilla", ",", ".", "sealevel", "mambilla", "headquarters", "Sardauna", "Area", "State", "among", "towns", "-RRB-", "1,348", "formerly" ],
+  "adjectives" : [ "average", "high", "elevated" ],
+  "nouns" : [ "elevation", "sealevel", "mambilla", "headquarters", "town", "state.Sitting", "plateau", "ft" ],
+  "text" : "Gembu is a town found on the mambilla plateau in Taraba State of Nigeria. It is the headquarters of Sardauna Local Government Area (formerly \"Mambilla\") in Taraba state.Sitting at an average elevation of about 1,348 meters (4,423 ft) above sealevel, it is among the high elevated towns in Nigeria."
+}, {
+  "entityIndex" : "39_entity17356",
+  "entityUrl" : "http://dbpedia.org/resource/Gwalior_inscription_of_Mihirakula",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "dedicated", "named", "CE", "individual", "Gwalior", "year", "king", "part", "Mihirakula", ".", "15th", "Mātṛcheṭa", "sixth", "epigraphic", "century", "Inscription", "documenting", "Hūṇa", "record", "construction", "temple", "Sūrya", "assigned", "first" ],
+  "adjectives" : [ "sixth", "epigraphic", "individual", "first", "15th" ],
+  "nouns" : [ "century", "CE", "year", "king", "record", "part", "construction", "temple" ],
+  "text" : "The Gwalior Inscription of Mihirakula is an epigraphic record documenting the construction of a temple dedicated to Sūrya by an individual named Mātṛcheṭa in the 15th year of the Hūṇa king Mihirakula. It can be assigned to the first part of the sixth century CE."
+}, {
+  "entityIndex" : "40_entity15928",
+  "entityUrl" : "http://dbpedia.org/resource/Eastview,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Eastview" ]
+  },
+  "words" : [ "income", "average", "mostly", "Eastview", "considered", "dwelling", "semi-detached", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "houses", "value", "260,050", "3,566", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "58,703", ",", ".", "home", "single", "detached", "low-rise", "Canada", "consisting", "residential", "ownership", "buildings", "located", "residents", "family", "51.6", "apartment" ],
+  "adjectives" : [ "single", "low-rise", "average", "residential", "suburban", "middle-income", "located", "semi-detached", "south-central" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value", "apartment" ],
+  "text" : "Eastview is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting of low-density, single detached dwellings, low-rise apartment buildings and semi-detached houses. As of 2007, the area is home to 3,566 residents. The neighbourhood is considered a middle-income area, with an average family income of $58,703, an average dwelling value of $260,050 and a home ownership rate of 51.6%.According to MLS data, the average sale price of a home as of 2013 was $318,449."
+}, {
+  "entityIndex" : "41_entity15929",
+  "entityUrl" : "http://dbpedia.org/resource/Erindale,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Erindale" ]
+  },
+  "words" : [ "income", "340,990", "average", "mostly", "considered", "Erindale", "2011", "dwelling", "primarily", "4,338", "rate", "neighbourhood", "high-income", "123,336", "value", "area", "$", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "residential", "ownership", "located", "residents", "95.3", "family" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located", "northeast", "low-density" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "value", "home" ],
+  "text" : "Erindale is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings. As of 2011, the area is home to 4,338 residents. The neighbourhood is considered a high-income area, with an average family income of $123,336, an average dwelling value of $340,990 and a home ownership rate of 95.3%.According to MLS data, the average sale price of a home as of 2013 was $398,768."
+}, {
+  "entityIndex" : "42_entity16447",
+  "entityUrl" : "http://dbpedia.org/resource/Forest_Grove,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Forest Grove" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "2011", "dwelling", "minority", "primarily", "rate", "neighbourhood", "sizeable", "62.4", "multiple-unit", "value", "area", "$", "middle-income", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", "Grove", ".", "home", "single", "detached", "Canada", "residential", "70,487", "ownership", "5,907", "246,680", "Forest", "located", "residents", "family", "apartment" ],
+  "adjectives" : [ "single", "average", "residential", "middle-income", "located", "northeast", "sizeable", "low-density", "multiple-unit" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "Forest", "family", "value", "apartment" ],
+  "text" : "Forest Grove is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings, with a sizeable minority of multiple-unit apartment dwellings. As of 2011, the area is home to 5,907 residents. The neighbourhood is considered a middle-income area, with an average family income of $70,487, an average dwelling value of $246,680 and a home ownership rate of 62.4%.According to MLS data, the average sale price of a home as of 2013 was $304,527."
+}, {
+  "entityIndex" : "43_entity16463",
+  "entityUrl" : "http://dbpedia.org/resource/Feeding_Hills,_Agawam,_Massachusetts",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States" ]
+  },
+  "words" : [ "subsection", "code", "-LRB-", "separate", "mid-19th", "ditch", "office", "two", "point", "Provin", "total", "post", "Mountain", "Hills", "pseudo-border", "01030", "moderate-sized", "Street", "early", "zip", "town", "one", "accepted", "Agawam", ",", "many", "-", ".", "sections", "Feeding", "generally", "population", "Line", "century", "contains", "highest", "farms", "dug", "-RRB-", "residents", "well", "quarter" ],
+  "adjectives" : [ "total", "mid-19th", "moderate-sized", "many", "early" ],
+  "nouns" : [ "zip", "subsection", "century", "code", "town", "post", "pseudo-border", "ditch", "office", "point", "quarter", "population" ],
+  "text" : "Feeding Hills is a subsection of the town of Agawam with its own zip code (01030) and post office. Line Street in Agawam is generally accepted by residents as being the pseudo-border. In the early- to mid-19th century, a ditch was dug here to separate the two sections. Feeding Hills contains one quarter of the total population, as well as Provin Mountain, the highest point in the town, and many moderate-sized farms. Today, Feeding Hills is under extensive land development in and around the Provin Mountain communities. Several farms have been split up and sold to developers, resulting in an increased real estate market. Older sections of Feeding Hills, such as those closer to Line Street and Agawam High School, have remained much the same, although in recent years have experienced an exodus of businesses to other parts of town. Feeding Hills contains several churches, shopping centers, and a variety of eateries. It is home to WWLP-TV's transmitting site atop Provin Mountain (their studio has since moved to Chicopee). Agawam's police station can be found on Springfield St., one of the subsection's most populous roads. Of the 4 elementary schools and 3 md/jr/sr highs only the Junior High School and Granger Elementary, are located in \"Feeding Hills\""
+}, {
+  "entityIndex" : "44_entity16469",
+  "entityUrl" : "http://dbpedia.org/resource/First_Ward,_Binghamton",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States of America" ]
+  },
+  "words" : [ "``", "New", "Dickinson", "section", "main", "Ely", "west", "Street", "First", "Southern", "drag", "defined", "train", "area", "town", "Glenwood", "City", ",", "'s", "Clinton", "Market", ".", "Park", "Ave", "Ward", "State", "buildings", "Airport", "name", "neighborhood", "western", "East", "Bridge", "Norfolk", "York", "city", "south", "north", "neighboring", "primarily", "retail", "Chenango", "east", "along", "pockets", "River", "village", "foot", "''", "encompassing", "Johnson", "Road", "tracks", "industrial", "residential", "urban", "Binghamton", "implies", "runs" ],
+  "adjectives" : [ "industrial", "east", "residential", "urban", "main", "western", "retail" ],
+  "nouns" : [ "area", "town", "city", "north", "name", "west", "section", "neighborhood", "drag", "village", "foot", "train" ],
+  "text" : "The First Ward, as the name implies, is a neighborhood in the western section of the New York State city of Binghamton. It is primarily an urban residential neighborhood with retail along Clinton Street and pockets of industrial buildings along the train tracks. The First Ward can be defined as encompassing the area north of the Norfolk Southern tracks, east of the neighboring village of Johnson City along Market Street and Airport Road, west of the Chenango River and south of the Binghamton Ely Park neighborhood and the town of Dickinson. The area's \"main drag\" is Clinton Street to Glenwood Ave, it runs from the foot of the East Clinton Street Bridge west and into Johnson City. The eastern section of Clinton Street is known as Antique Row due to the high concentration of antique shops in that short stretch. The remainder of the street is lined with retail, consisting of several large supermarkets, churches, pharmacies, bank branches, a few bars and restaurants as well as a few mom and pop shops which contrast the antique stores and provide such goods as video games and music."
+}, {
+  "entityIndex" : "45_entity24934",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Elizabeth,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Queen Elizabeth" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "2,491", "dwelling", "south-central", "280,970", "subdivision", "2007", "66.9", "suburban", "rate", "neighbourhood", "value", "area", "61,904", "$", "middle-income", "%", "Queen", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "Elizabeth", "residential", "ownership", "located", "residents", "family" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Queen Elizabeth is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,491 residents. The neighbourhood is considered a middle-income area, with an average family income of $61,904, an average dwelling value of $280,970 and a home ownership rate of 66.9%.According to MLS data, the average sale price of a home as of 2013 was $343,459."
+}, {
+  "entityIndex" : "46_entity24447",
+  "entityUrl" : "http://dbpedia.org/resource/Patan,_Rajasthan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Sikar" ]
+  },
+  "words" : [ "Rao", "minor", "called", "Torawati", "armies", "considered", "ruler", "Maratha", "ruled", "Jaipur", "rulers", "won", "state", "Anang", "Tanwar/Tomar", ",", "Rajasthan", ".", "India", "Tomar", "name", "-RRB-", "Chauhan", "became", "Delhi", "12th", "Rajput", "-LRB-", "city", "warrior", "direct", "eighteenth", "Shinde", "alias", "place", "Alijah", "Shrinath", "Patan", "chief", "centre", "war", "many", "great", "Prithviraj", "battle", "descent", "century", "Mahdhojirao", "clan", "Tomara", "Indian", "Pal", "Mahadji", "Tanwarawati" ],
+  "adjectives" : [ "12th", "minor", "direct", "Indian", "many", "great", "eighteenth" ],
+  "nouns" : [ "Rajput", "city", "warrior", "chief", "centre", "war", "ruler", "Maratha", "battle", "descent", "century", "clan", "name", "state", "place" ],
+  "text" : "Patan is a city in the Indian state of Rajasthan. In the 12th century, it became the centre of a minor state called Tanwarawati or Torawati (after Tanwar/Tomar the clan name) ruled by the Tomara clan the chief of which the Rao of Patan is considered the direct in descent from Anang Pal Tomar the ruler of Delhi before Prithviraj Chauhan. This city was a war place for many rulers of India. In the eighteenth century the great Maratha warrior Alijah Shrinath Mahdhojirao (alias Mahadji Shinde) won the battle against the Rajput armies of Jaipur. Today's Jaipur and Jodhpur were on one side and on the other side was the army of Shrinath Mahadji Shinde supported by De Boigne."
+}, {
+  "entityIndex" : "47_entity24723",
+  "entityUrl" : "http://dbpedia.org/resource/Pileru",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Pileru" ]
+  },
+  "words" : [ "small", "Eru", "language", "got", "local", "passes", "Pradesh", "stream", "hence", "state", "town", "literally", "Pileru", "Andhra", "water", ".", "Pilla", "Chittoor", "headquarters", "census", "district", "name", "translates", "Indian", "river", "mandal" ],
+  "adjectives" : [ "small", "Indian", "local", "mandal" ],
+  "nouns" : [ "headquarters", "town", "stream", "census", "district", "Pileru", "name", "language", "state", "river", "water", "mandal" ],
+  "text" : "Pileru is a census town in Chittoor district of the Indian state of Andhra Pradesh. It is the mandal headquarters of Pileru mandal. It passes through a river and hence it got the name Pileru. In the local language Pilla Eru literally translates to A small water stream."
+}, {
+  "entityIndex" : "48_entity24749",
+  "entityUrl" : "http://dbpedia.org/resource/Puthoor",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "trading", "-LRB-", "minor", "26", "main", "areas", "around", "number", "biggest", "satellite", "Puthur", "mi", "Kerala", "centres", "shopping", "town", "16", "one", "South", "City", ",", ".", "India", "hub", "kilometers", "-RRB-", "located", "Kollam", "District" ],
+  "adjectives" : [ "minor", "located", "main" ],
+  "nouns" : [ "trading", "number", "town", "hub", "satellite", "mi", "shopping" ],
+  "text" : "Puthur is a minor town located 26 kilometers (16 mi) from Kollam City in Kollam District, Kerala, India. It is one of the biggest trading centres of South India. Puthur town is the main shopping hub for a number of satellite areas in and around."
+}, {
+  "entityIndex" : "49_entity24780",
+  "entityUrl" : "http://dbpedia.org/resource/Pantiya",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Gram Panchayat" ]
+  },
+  "words" : [ "Cable", "Villagers", "televisions", "Telephone", "Pantiya", "nearly", "enjoy", "nearest", "good", "supply", "IFFCO", "Entrance", "Kutch", "houses", "near", "state", "power", "village", "welcome", "10", "KM", "amount", "town", "Kandla", "Village", "penetration", "Anjar", "Gujarat.This", "electricity", "less", ",", "water", ".", "shortages.Village", "supply.Village", "greets", "taluka", "district", "Indian", "located", "gate", "dinking", "adopted" ],
+  "adjectives" : [ "Indian", "located", "good", "welcome" ],
+  "nouns" : [ "KM", "amount", "town", "penetration", "Pantiya", "electricity", "water", "supply", "shortages.Village", "taluka", "district", "state", "power", "gate", "village", "dinking" ],
+  "text" : "Pantiya is a village near the town Anjar, the taluka of Kutch district in the Indian state of Gujarat.This village is adopted by IFFCO Kandla. Village is located 10 KM from nearest town Anjar. Villagers enjoy very good dinking water supply,and electricity supply with very less power shortages.Village has good amount Telephone penetration, and nearly most of the houses has televisions and Cable supply.Village Entrance greets welcome gate."
+}, {
+  "entityIndex" : "50_entity24813",
+  "entityUrl" : "http://dbpedia.org/resource/Places_of_worship_in_Bangalore",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Bangalore Urban" ]
+  },
+  "words" : [ "Parsi", "called", "Bahá", "registered", "Centre.In", "three", "number", "character", "fire", "represented", "diverse", "state", "presence", "reflects", "comprise", "5.79", "Bengaluru", "large", "metropolis", "%", "temples", "ís", "double", "fairly", "'", ",", "community", "'s", "churches", "gurdwaras", "propose", "whose", ".", "India", "population", "Chabad", "400", "census", "cosmopolitan", "religious", "average", "-LRB-", "proportion", "1000", "Buddhist", "respectively", "two", "Bangalore", "known", "Karnataka", "reported", "national", "According", "multireligious", "Muslims", "include", "km", "one", "religion", "places", "Sikh", "Jains", "located", "-RSB-", "13.37", "40", "economic", "capital", "viharas", "Jewish", "major", "Hindu", "members", "roughly", "mosques", "demographically", "Jain", "derasars", "area", "making", "2001", "establish", "Christians", "²", "-RRB-", "averages", "79.37", "society", "fastest-growing", "í", "100", "741", "hub", "1.05", "temple", "growth", "account" ],
+  "adjectives" : [ "religious", "large", "double", "Buddhist", "Jewish", "fastest-growing", "major", "located", "national", "diverse", "cosmopolitan", "economic", "multireligious" ],
+  "nouns" : [ "average", "capital", "Parsi", "proportion", "Centre.In", "number", "character", "society", "fire", "state", "presence", "Jain", "area", "km", "metropolis", "%", "ís", "community", "í", "religion", "population", "²", "hub", "census", "temple", "growth" ],
+  "text" : "Bangalore (Bengaluru), the capital of Karnataka state, India, reflects its multireligious and cosmopolitan character by its more than 1000 temples, 400 mosques, 100 churches, 40 Jain derasars, three Sikh gurdwaras, two Buddhist viharas and one Parsi fire temple located in an area of 741 km² of the metropolis. The religious places are further represented to include the few members of the Jewish] community who are making their presence known through the Chabad that they propose to establish in Bengaluru and the fairly large number of Bahá'ís whose presence is registered with a society called the Bahá'í Centre.In the demographically diverse, major economic hub and India's fastest-growing major metropolis of Bengaluru, the number of religious places of each religion reported reflects growth in proportion to the population growth. According to the 2001 census of India, 79.37% of Bangalore's population is Hindu, roughly the same as the national average. Muslims comprise 13.37% of the population, which again is roughly the same as the national average, while Christians and Jains account for 5.79% and 1.05% of the population, respectively, double that of their national averages. Anglo-Indians also form a substantial group within the city."
+}, {
+  "entityIndex" : "51_entity24816",
+  "entityUrl" : "http://dbpedia.org/resource/Paliganj",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "14" ]
+  },
+  "words" : [ "Sub-Division", "Bihar", "-LRB-", "Patna", "city", "2011", "Pali", "City", ",", ".", "India", "population", "confused", "Census", "State", "district", "-RRB-", "254,904", "Paliganj", "Indian", "Districts", "Constituency", "Assembly" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "city", "State", "district", "City", "Constituency", "Assembly", "population" ],
+  "text" : "(Not to be confused with Pali, the city in Bihar, India.) Paliganj is a City in Patna district. It is Sub-Division of Patna Districts and an Assembly Constituency in Patna district in the Indian State of Bihar. In the Census of 2011, Paliganj has 254,904 of population."
+}, {
+  "entityIndex" : "52_entity24859",
+  "entityUrl" : "http://dbpedia.org/resource/Palin,_Arunachal_Pradesh",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "small", "28.15285", "Daadi", "MLA", "-LRB-", "latitude", "according", "August-2016", "Name", "5816", "current", "headquarter", "Pradesh", "Located", "station", "Arunachal", "longitude", "Nyishi", "town", "Tagar", "Takam", "2001", ",", ".", "population", "hill", "94.12288", "Pario", "constituency", "Palin", "tribe", "district", "census", "-RRB-", "inhabited", "Kra" ],
+  "adjectives" : [ "small", "current", "headquarter" ],
+  "nouns" : [ "hill", "MLA", "town", "constituency", "tribe", "district", "latitude", "census", "station", "August-2016", "longitude", "population" ],
+  "text" : "Palin is a small hill station town and the headquarter of Kra Daadi district in Arunachal Pradesh. It is inhabited by Nyishi tribe of Arunachal Pradesh. Located at latitude of 28.15285 and a longitude 94.12288, it has a population of 5816 according to 2001 census. Name of current MLA (August-2016) of Palin constituency is  Takam Tagar (Pario)."
+}, {
+  "entityIndex" : "53_entity18898",
+  "entityUrl" : "http://dbpedia.org/resource/Jharoda_Kalan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "South West Delhi" ]
+  },
+  "words" : [ "Delhi", "West", "South", "Jharoda", ",", "Police", "Kalan", ".", "India", "camp", "Training", "Department", "district", "College", "located", "CRPF", "village" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "district", "village", "camp" ],
+  "text" : "Jharoda Kalan is a village in South West district, Delhi, India. The Police Training College of the Department of Police, Delhi is located in Jharoda Kalan. The CRPF camp is located here."
+}, {
+  "entityIndex" : "54_entity18906",
+  "entityUrl" : "http://dbpedia.org/resource/Jayapur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "74", "Aaraji Line", "Sevapuri" ]
+  },
+  "words" : [ "surrounded", "28", "Mirzapur", "situated", "Rajatalab", "Pradesh", "segment", "station", "assembly", "Aaraji", "near", "railway", "village", "Arajiline", "border", "Uttar", "km", "Jayapur", "Sevapuri", "Tehsil", "South", "towards", ",", ".", "India", "cantt", "Line", "Shikhar", "Varanasi", "district", "7", "Block", "District", "East", "Place" ],
+  "adjectives" : [ ],
+  "nouns" : [ "cantt", "border", "km", "district", "segment", "station", "assembly", "railway", "village", "Place" ],
+  "text" : "Jayapur is a village in the Varanasi district of Uttar Pradesh, India. It is situated near about 28 km from the Varanasi cantt railway station and near about 7 km from the Rajatalab railway station in the Sevapuri assembly segment and Aaraji Line Block. This Place is situated at the border of the Varanasi District and Mirzapur District. Jayapur is surrounded by Arajiline Tehsil towards East, Shikhar Tehsil towards South .The nearby Villages to Jayapur are Chandapur ( 1 km ), Panchai (1 km ),jakhini ( 3 km ), Singhai ( 1 km ), Narsara ( 2 km ), Marui ( 2 km ), Jamua ( 5 km). The village comes under the constituency of Indian Prime Minister Narendra Modi, who adopted the village on 7 November 2014 under the Sansad Adarsh Gram Yojana (\"MP's model village scheme\"). The village was already adopted by the Rashtriya SwayamSevak Sangh (RSS) under its ideal village scheme in 2002."
+}, {
+  "entityIndex" : "55_entity21955",
+  "entityUrl" : "http://dbpedia.org/resource/Manchester,_Richmond,_Virginia",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States of America", "Chesterfield ; Independent" ]
+  },
+  "words" : [ "capital", "independent", "city", "south", "line", "part", "north", "United", "county", "County", "States", "receiving", "1876", "bank", "later", "known", "fall", "1870", "Manastoh", "River", "state", "side", "Rocky", "James", "opposite", ",", "former", ".", "seat", "Today", "Prior", "served", "Originally", "Manchester", "located", "river", "Virginia", "status", "Chesterfield", "Richmond", "Ridge" ],
+  "adjectives" : [ "independent", "south", "north", "former" ],
+  "nouns" : [ "capital", "side", "city", "line", "part", "county", "seat", "Today", "bank", "fall", "state", "river", "status" ],
+  "text" : "Manchester, Virginia is a former independent city in Virginia in the United States. Prior to receiving independent status, it served as the county seat of Chesterfield County, between 1870 and 1876. Today, it is a part of the city of Richmond, Virginia. Originally known as Manastoh and later Rocky Ridge, it was located on the south bank of the James River at the fall line opposite the state capital city of Richmond, on the north side of the river. Manchester was an active port city, and was a port of entry for slave ships principally in the 18th century. The port shipped out tobacco and coal which was transported 13 miles overland from the Midlothian-area mines on the Midlothian Turnpike, first paved toll road in Virginia in 1807, and the Chesterfield Railroad, the state's first in 1831. Manchester became an incorporated town in 1769 and an independent city in 1874. In 1910, it merged by mutual agreement with the larger state capital City of Richmond, achieving another \"first\" as the earliest of Virginia's independent cities to lose its identity. In modern times, \"Old Manchester\" is considered a neighborhood of Richmond. Many vestiges of its past are clearly visible, notably the courthouse, the Hull Street business district, a number of historic houses, and several former railroad and street railway buildings. As part of the community's African American heritage, a \"slave trail\" traces the route into the downtown area from where the slave ships are believed to have docked along the river. Interstate 95, and four other major highways, U.S. Routes 1, 60, 301 and 360 all cross the James River and enter downtown Richmond from Manchester."
+}, {
+  "entityIndex" : "56_entity22387",
+  "entityUrl" : "http://dbpedia.org/resource/Mindiyana",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Gram Panchayat" ]
+  },
+  "words" : [ "KM", "town", "Gujarat", "Village", "Anjar", ",", "nearest", ".", "Mindiyana", "taluka", "district", "Kutch", "8", "Indian", "located", "near", "state", "village" ],
+  "adjectives" : [ "Indian", "located" ],
+  "nouns" : [ "KM", "town", "taluka", "district", "state", "village" ],
+  "text" : "Mindiyana is a village near the town Anjar, the taluka of Kutch district in the Indian state of Gujarat. Village is located 8 KM from nearest town Anjar."
+}, {
+  "entityIndex" : "57_entity22452",
+  "entityUrl" : "http://dbpedia.org/resource/Madurankuli",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Kalpitiya Pradeshiya Sabha", "MDK", "Mundalama Divisional Secretariat" ]
+  },
+  "words" : [ "``", "commercial", "capital", "49", "environments", "developing", "Western", "A3", "114", "MDK", "road", "மதுரங்குளி", "ක", "North", "railway", "54", "Chilaw", "town", "level", "'", "roads", ",", "accurately", ".", "Province", "°", "greenery", "operate", "7", "-RRB-", "ය", ";", "region", "ල", "-LRB-", "away", "Prime", "city", "north", "Sri", "network", "situated", "well-connected", "east", "Lanka", "known", "රන", "actively", "equator", "Colombo", "Peliyagoda", "''", "km", "79", "Puttalam", "centre", "also", "Tamil", "Meridian", "fast", "මද", "Sinhala", "suburb", "located", "Madurankuliya", "river", "abbreviated", "43" ],
+  "adjectives" : [ "well-connected", "commercial", "east", "fast", "located" ],
+  "nouns" : [ "km", "capital", "town", "city", "level", "Puttalam", "north", "centre", "network", "A3", "road", "equator", "suburb", "ක", "ය", "Madurankuliya", "railway", "river", "region" ],
+  "text" : "Madurankuliya is a town and an actively operate to be a city level in the suburb of Puttalam. It is also known as Madurankuliya(මදුරන්කුලිය) in Sinhala and மதுரங்குளி in Tamil; it is abbreviated as \"MDK\". It is a fast developing city in North Western Province, Sri Lanka with well-connected by roads and railway network, situated between Puttalam and Chilaw (in the A3 Puttalam to Peliyagoda road) town. This city is located 114 km away from the centre of the commercial capital Colombo, accurately in North Western region at 7°54'43\" north of the equator and 79°49'49\" east of the Prime Meridian with most greenery and river environments. It is one of the oldest residential parts of the city with over 3,000+ people around including all religions - Buddhist, Hindu, Muslims, Christian, living together with prosperity and harmonny. Madurankuli is a growing commercial and agricultural area, it is famous for trading activities and agricultural cultivations and exports of Coconuts, Copra, Salts, Oil, Prawn Farms, Fresh Vegetables, and much more. And it is relatively a good city for business industry investments, because most of the lands are unused and now they are being used for building factories, farms, agri-business, real-estate and some other business activities."
+}, {
+  "entityIndex" : "58_entity22548",
+  "entityUrl" : "http://dbpedia.org/resource/Mananwala",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "39170", "UC.-100/1" ]
+  },
+  "words" : [ "capital", "-LRB-", "famous", "Faisalabad", "city", "Mananwala", "Urdu", "مانانوالہ", "Road", "one", "Tehsil", "Punjab", "City", "-", ".", "situated", "Pakistan", "Lahore", "-RRB-", ":", "Sheikhupura", "District" ],
+  "adjectives" : [ "famous" ],
+  "nouns" : [ "capital", "city", "Mananwala", "City" ],
+  "text" : "Mananwala (Urdu: مانانوالہ‎) is the capital city of Sheikhupura District Punjab (Pakistan). It is one of the famous City of Tehsil Sheikhupura. Mananwala is a City of Sheikhupura situated on the Lahore - Sheikhupura - Faisalabad Road."
+}, {
+  "entityIndex" : "59_entity23252",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Nutana" ]
+  },
+  "words" : [ "Nutana", "nearly", "Broadway", "primarily", "2009", "mixture", "neighbourhood", "Avenue", "near", "area", "business", "Saskatoon", "dwellings", "multiple", "centre", "includes", "Saskatchewan", "low-density", ",", "comprises", "apartment-style", ".", "home", "single", "detached", "Canada", "unit", "residential", "even", "district", "located", "residents", "6,261" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "apartment-style" ],
+  "nouns" : [ "area", "unit", "business", "mixture", "neighbourhood", "district", "centre", "low-density", "home" ],
+  "text" : "Nutana is a primarily residential neighbourhood located near the centre of Saskatoon, Saskatchewan, Canada. It includes the business district of Broadway Avenue. It comprises a nearly even mixture of low-density, single detached dwellings and apartment-style multiple unit dwellings. As of 2009, the area is home to 6,261 residents. The neighbourhood is considered a middle to upper-income area, with an average family income of $67,657, an average dwelling value of $206,830 and a home ownership rate of 51.3%.According to MLS data, the average sale price of a home as of 2013 was $409,891. First established in 1883, Nutana was the original settlement of what now makes up the city of Saskatoon."
+}, {
+  "entityIndex" : "60_entity23253",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Nutana Suburban Centre" ]
+  },
+  "words" : [ "``", "commercial", "-LRB-", "Nutana", "sometimes", "areas", "medium", "south-central", "high-density", "civic", "SC", "2009", "subdivision", "suburban", "composed", "neighbourhood", "houses", "row", "multiple-unit", "''", "area", "Saskatoon", "dwellings", "Suburban", "centre", "classified", "Saskatchewan", "Centre", ",", "Housing", "mixed-development", "apartment-style", ".", "2,962", "home", "Canada", "-RRB-", "located", "residents", "consists", "facilities", "abbreviated" ],
+  "adjectives" : [ "commercial", "suburban", "located", "multiple-unit", "south-central", "apartment-style", "high-density", "civic" ],
+  "nouns" : [ "area", "subdivision", "neighbourhood", "centre", "medium", "row", "Housing", "mixed-development", "home" ],
+  "text" : "Nutana Suburban Centre (sometimes abbreviated as Nutana SC) is a mixed-development neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2009, the area is home to 2,962 residents. Housing in the neighbourhood consists of high-density apartment-style dwellings and row houses. The neighbourhood is considered a lower-income area, with an average family income of $34,474, an average dwelling value of $266,311 and a home ownership rate of 29.3%. The low average income but comparatively high dwelling value is due to the number of senior citizens residing in the neighbourhood. The age distribution of Nutana SC's population is skewed very highly toward residents age 65 and older.According to MLS data, the average sale price of a home as of 2013 was $296,114."
+}, {
+  "entityIndex" : "61_entity23254",
+  "entityUrl" : "http://dbpedia.org/resource/Nangal_Choudhary",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "``", "MLA", "BJP", "Mahendragarh", "Cyber", "Nangal", "government", "Choudhary", "assembly", "Singh", "First", "crown", "''", "Abhe", "Yadav", "town", "Village", "tehsil", ".", "Narnaul", "important", "seat", "Haryana", "headquarters", "dominated", "holds", "region", "District" ],
+  "adjectives" : [ "important" ],
+  "nouns" : [ "seat", "headquarters", "government", "town", "assembly", "region", "tehsil", "crown" ],
+  "text" : "Nangal Choudhary is an important town and tehsil headquarters of District Mahendragarh at Narnaul. It holds the crown of being \"First Cyber Village of Haryana\". Now it has an assembly seat in Haryana government. Abhe Singh Yadav of BJP is MLA from Nangal Choudhary and it is a Yadav dominated region."
+}, {
+  "entityIndex" : "62_entity23268",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Nutana Park" ]
+  },
+  "words" : [ "income", "average", "mostly", "-LRB-", "considered", "Nutana", "sometimes", "dwelling", "south-central", "subdivision", "2007", "suburban", "2,748", "rate", "neighbourhood", "66,555", "85.1", "value", "area", "$", "257,789", "middle-income", "%", "Saskatoon", "South", "dwellings", "Saskatchewan", "low-density", ",", ".", "Park", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "-RRB-", "located", "residents", "family", "referred" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Nutana Park (sometimes referred to as South Nutana Park) is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,748 residents. The neighbourhood is considered a middle-income area, with an average family income of $66,555, an average dwelling value of $257,789 and a home ownership rate of 85.1%.According to MLS data, the average sale price of a home as of 2013 was $356,116."
+}, {
+  "entityIndex" : "63_entity23291",
+  "entityUrl" : "http://dbpedia.org/resource/Naya_Raipur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "capital", "surrounded", "hectares", "city", "NH-6", "Abhanpur", "Central", "industry", "Chhattisgarh", "serving", "Highways", "current", "Vivekananda", "National", "Mahasamund", "state", "NH-43", "covers", "needs", "Arang", "area", "new", "km", "8000", "cities", "Raipur", "17", "old", "infrastructural", "also", ",", "caters", ".", "Rajim", "India", "Swami", "trade", "administrative", "State", "Airport", "separates", "located", "south-east", ";", "region.Naya", "Naya" ],
+  "adjectives" : [ "new", "current", "old", "administrative", "infrastructural", "located" ],
+  "nouns" : [ "area", "capital", "km", "trade", "city", "State", "NH-6", "south-east", "industry", "state", "NH-43" ],
+  "text" : "Naya Raipur is the new capital city of Chhattisgarh, a state in Central India. Naya Raipur is located between National Highways NH-6 and NH-43, about 17 km south-east of the current capital Raipur; Swami Vivekananda Airport separates the old and new cities. Naya Raipur is serving as the administrative capital of the State and also caters to the infrastructural needs of industry and trade in the region.Naya Raipur is surrounded by the cities of Raipur, Arang, Mahasamund, Rajim and Abhanpur. Naya Raipur covers an area of about 8000 hectares. It includes 41 villages out of which 27 villages form the core of Naya Raipur. During the renovation of villages for the construction of Naya Raipur, it displaced the population of one village. About half of the total acquired land is being used for afforestation, roads, parks, public conveniences, water facilities-canals, green belts etc.; twenty three percent (23%) of the land would be reserved for educational institutions, government offices and public auditoriums etc.; and thirty percent (30%) of the land will be used for residential and economical purposes. Naya Raipur is India's sixth planned city after Jamshedpur (Jharkhand), Bhubaneshwar (Odisha), Gandhinagar (Gujarat), Chandigarh (Punjab & Haryana), and Navi Mumbai (Maharashtra) and fourth among the capital cities. The city is expected to house about 4.5 lakh (450,000) people within a decade. Provisions have been made for its expansion and to upgrade infrastructure in the future."
+}, {
+  "entityIndex" : "64_entity23333",
+  "entityUrl" : "http://dbpedia.org/resource/North_West_Side_(Denver)",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States" ]
+  },
+  "words" : [ "-LRB-", "Sloan", "Berkeley", "Lake", "County", "Side", "known", "Sunnyside", "North", "Denver", "Chaffee", "Highland", "neighborhoods", "within", "West", "Jefferson", "Globeville", "also", "'s", ",", "Regis", ".", "Park", "-RRB-", "located", "region" ],
+  "adjectives" : [ "located", "North" ],
+  "nouns" : [ "region" ],
+  "text" : "The North West Side (Denver) is a region in Denver County. It is also known as North Denver. The neighborhoods located within Denver's North West Side are Sloan's Lake, West Highland, Berkeley, Regis, Chaffee Park, Sunnyside, Globeville, Highland, and Jefferson Park."
+}, {
+  "entityIndex" : "65_entity23335",
+  "entityUrl" : "http://dbpedia.org/resource/New_Bongaigaon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "1" ]
+  },
+  "words" : [ "New", "Guwahati", "-LRB-", "Assam", "city", "Old", "part", "divided", "north", "two", "situated", "112", "west", "Chirang", "state", "mi", "included", "--", "new", "give", "town", "180", "Assamese", "City", ",", "বঙাইগাওঁ", "Bodos", ".", "way", "/", "bɒŋɡɑːɪˈɡɒ̃ʊ", "meet", "district", "-RRB-", "parts", "Indian", "municipal", "kilometres", ":", "Bongaigaon", ";", "District", "board", "demands" ],
+  "adjectives" : [ "new", "Old", "Indian", "municipal" ],
+  "nouns" : [ "bɒŋɡɑːɪˈɡɒ̃ʊ", "town", "city", "part", "district", "west", "state", "mi", "board", "way" ],
+  "text" : "New Bongaigaon /bɒŋɡɑːɪˈɡɒ̃ʊ/; (Assamese: বঙাইগাওঁ) is a city in the Indian state of Assam. The City included or new part of municipal board of Bongaigaon District. The town, divided into two parts – Old Bongaigaon and New Bongaigaon, is situated 180 kilometres (112 mi) north west of Guwahati. To meet the demands of Bodos of Assam, Bongaigaon was divided up to give way for Chirang district. Bongaigaon has a major petrochemical industry, the Indian Oil Corporation Limited (IOCL BGR). The town occupied a place in the map of Indian Railway with the establishment of the railway station in the year 1908. Most of the institutions like ITI, Bongaigaon College, Office of the Assam State Electricity Board in the early 60’s and in fact the very base of the development of the town was laid in this decade only. The development further gained momentum with the establishment of the Bongaigaon Refinery and Petrochemicals Limited (BRPL) Complex in the year 1972 at Dhaligaon and also Thermal Power Plant at Salakati. Though these area are not within the limit of Bongaigaon Municipality the town also caters to the demand of this population.The Bongaigaon Town Committee was first constituted in the year 1961 and was upgraded to a Municipal Board in the year 1977. Presently the Municipal Area consists of 25 nos. of wards covering an area of 14.31 sq m."
+}, {
+  "entityIndex" : "66_entity23342",
+  "entityUrl" : "http://dbpedia.org/resource/Nguroje",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "City Nguroje" ]
+  },
+  "words" : [ "``", "Guroji", "Kwuo", "Old", "Magu", "language", "enclave", "later", "Thus", "Ngu-ro-je", "meaning", "Ngu-ro-re", "eastern", "Kwu-Mbungnu", "town", "enclaves", "cradle", "Local", "rendering", ",", "Mambilla", "easy", ".", "mambilla", "Area", "straight-away", "Mbunip", "Nigeria.It", "State", "-RRB-", "town.History", "Mbungnu", "income", "-LRB-", "plural", "settle", "Fulani", "founders", "see", "found", "perhaps", "NgurojeOld", "plateau", "Taraba", "came", "term", "derived", "Springs", "''", "original", "Government", "Living", "1890", "separated", "Fulfulde", "tribes", "English", "Fulbe", "Sardauna", "translation", "clans", "Nguroje", "Ngu-ram", "certain", "economic", "non-Fulfulde" ],
+  "adjectives" : [ "eastern", "straight-away", "original", "easy", "Ngu-ro-re", "certain", "economic", "non-Fulfulde" ],
+  "nouns" : [ "income", "plural", "town", "cradle", "rendering", "language", "enclave", "Fulbe", "mambilla", "Nigeria.It", "Ngu-ro-je", "plateau", "translation", "term", "town.History", "Ngu-ram" ],
+  "text" : "Nguroje is a town found on the mambilla plateau,in Sardauna Local Government Area of Taraba State in eastern Nigeria.It is easy to see that the term \"Nguroje\" is an original rendering in Fulfulde (Fulani) language, derived from \"Ngu-ram\", meaning economic income. Thus, \"Ngu-ro-je\" (economic enclaves) is a plural of \"Ngu-ro-re\" (an economic enclave). The straight-away translation of the term \"Nguroje\" in English language is \"Living Springs\". \"Guroji\" is a non-Fulfulde rendering, perhaps by certain tribes that later came to settle in the town with the original Fulbe founders of the town.History of NgurojeOld Mbungnu (Mbungnu, Kwuo, Guroji, Nguroje) Old Mbungnu (Kwuo or Kwu-Mbungnu) was the cradle of the Mbunip and Magu clans of Mambilla down to about 1890 before they separated from here. Some “Kobira” came at the beginning of the British administration and settled on the abandoned Mbungnu site, obviously a little before the Hausa man, Musa Bichi, arrived at the camp. The kobiras were former abductees, majority of whom had escaped from their abductors after the Anglo-German War at Banyo of 1915. A few however came a few years before 1915. In the “Kobira” section, the Ward headship followed no specific line. The first Ward Head was one ‘Hamajulde’ who died in 1935. Then, ‘Dika Pullo’ became Ward Head in 1937 and died 1939. ‘Dika Pullo’ came from Tibati. Like most “Kobira”, neither his ancestry nor that of Hamajulde is ascertained. The next Ward Head was Barde, said by some to have been indigenous. He took over rulership in 1940. The Kobira, because of their “detention” or “incarceration” outside their homelands, usually lost their culture and became “elements of no culture”. They commonly betrayed their roots, in many instances pretending to be allies of their own erstwhile tormentors. Many of these Kobiras were simply those who mixed with Fulanis in their sojourning and tended to behave like Fulanis. This is not to show that all the existing inhabitants of Kwu-Mbungnu were by 1915 all Kobira. There were indeed remnants of the pre-existing Kwu-Mbungnu people who were erroneously classed with the Kobira.Hausa traders also pitched their tents at Kwu-Mbungnu on the ruins (“Guroji” = “ruins”) at the end German rule (c.1915) and inception of British suzerainty. The first itinerant Hausa traders then included he aforementioned Musa Bichi from Bichi of Kano, who was based in Garbabi and used to travel through Mambilla to Bamenda for trading just before the end of German rule. Under the British, he finally relocated from Garbabi to Old Mbungnu possibly in the late 1920s. He became the first Hausa to settle here at Old Mbungnu site. Musa Bichi of Kano thus became the first of the Hausa-settler trading colony that met the Kobira on the ruins of Kwu-Mbungnu. He was born and bred in Bichi near Kano and became the first Sarkin Hausawa (Ward Head) of the Hausa trading section of Kwu-Mbungnu, later called “Guroji”, Fulani term for ‘ruined town’ (a name used, until much later, exclusively by the newcomers at that time). Musa Bichi was the first head of only the Hausa section and was still Ward Head by 1932 (1938 I.R). By that year, there was no Fulani ward or head in the camp, the rare visiting graziers being noticed only in bush grass shacks.When the cattle selling point was first set up here by the British in about 1927, more and more Hausa traders and Fulani cattle sellers were attracted in the 1930s, more so by the opportunity provided by the opening in 1926 of the Government-organized Trade Route through Mambilla to Bamenda.In 2005, Kwu-Mbungnu (with the “Guroje” misnomer) was made one of 20 districts created by the 2005 Order. Historically, it had been the territorial jurisdiction of the Mbon Mbunibi (Chief of Mbunip) and the 1938 Intelligence Report suggested its subsequent return to the Chief of Mbunip."
+}, {
+  "entityIndex" : "67_entity23375",
+  "entityUrl" : "http://dbpedia.org/resource/Namkhola",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "1" ]
+  },
+  "words" : [ "Namkhola", "comined", "villages", "Assam", "fastest", "one", "part", "Bah", ",", "tehsil", "Molla", ".", "India", "market", "growing", "Darrang", "north-western", "district", "Khairabar", "place", "region", "popular", "Athiyabari" ],
+  "adjectives" : [ "north-western", "popular" ],
+  "nouns" : [ "market", "district", "part", "place", "region", "tehsil" ],
+  "text" : "Namkhola is a popular region in Khairabar tehsil, comined villages Bah Molla and Athiyabari in Darrang district, Assam, India. It is one of the fastest growing market place in north-western part of Darrang district."
+}, {
+  "entityIndex" : "68_entity23377",
+  "entityUrl" : "http://dbpedia.org/resource/Netrang_City",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Netrang City" ]
+  },
+  "words" : [ "45", "largest", "New", "Delhi", "capital", "-LRB-", "away", "Gujarat", "city", "28", "Mumbai", "around", "Netrangtaluka", "Hindu", "state", "mi", "12", "town", "People", "City", "'s", ",", "140", ".", "India", "220", "320", "Netrang", "headquarters", "200", "1,000", "620", "administrative", "district", "-RRB-", "Indian", "kilometres", "Gandhinagar", "Bharuch", "20" ],
+  "adjectives" : [ "administrative", "Indian" ],
+  "nouns" : [ "headquarters", "capital", "town", "city", "district", "state", "mi" ],
+  "text" : "Netrang City is a Hindu People's town in the Netrangtaluka in Bharuch district of the Indian state of Gujarat. Netrang is 20 kilometres (12 mi) away from the city of Netrang, 45 kilometres (28 mi) from Bharuch, the administrative headquarters of the district, 220 kilometres (140 mi) from Gandhinagar, the capital of the state of Gujarat, 320 kilometres (200 mi) from Mumbai, the largest city in India, and around 1,000 kilometres (620 mi) from New Delhi, the capital of India."
+}, {
+  "entityIndex" : "69_entity23380",
+  "entityUrl" : "http://dbpedia.org/resource/New_Chandigarh",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "``", "''", "New", "new", "town", "city", "Chandigarh", "Punjab", ",", "'s", "Mullanpur", "smart", ".", "settlement", "located", "vicinity", "near", "Garibdass", "designed", "first" ],
+  "adjectives" : [ "new", "located", "first", "smart" ],
+  "nouns" : [ "town", "city", "vicinity", "settlement" ],
+  "text" : "New Chandigarh, located near the town of Mullanpur Garibdass in the vicinity of Chandigarh, is a new settlement designed as Punjab's first \"smart city\"."
+}, {
+  "entityIndex" : "70_entity20757",
+  "entityUrl" : "http://dbpedia.org/resource/Longewala",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Jaisalmer" ]
+  },
+  "words" : [ "-LRB-", "part", "War", "notable", "लोंगेवाला", "Pakistan", "1971", "Hindi", "state", "close", "border", "Jaisalmer", "Longewala", "Thar", "town", "Indo-Pakistani", ",", "Rajasthan", ".", "India", "Battle", "district", "-RRB-", ":", "location", "Desert", "western" ],
+  "adjectives" : [ "notable", "western", "close" ],
+  "nouns" : [ "border", "Longewala", "town", "Battle", "part", "district", "Hindi", "location", "state" ],
+  "text" : "Longewala (Hindi: लोंगेवाला) is a border town in the Thar Desert in the western part of Jaisalmer district, in the state of Rajasthan, India. It is very close to the border with Pakistan and is most notable as the location of the Battle of Longewala during the Indo-Pakistani War of 1971."
+}, {
+  "entityIndex" : "71_entity20820",
+  "entityUrl" : "http://dbpedia.org/resource/Lodhran",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "1", "28", "Lodhran" ]
+  },
+  "words" : [ "capital", "side", "-LRB-", "city", "Urdu", "Punjab", ",", "northern", "Lodhran", ".", "Pakistan", "province", "Sutlej", "-RRB-", "لودهراں", "located", "River", ":", "District" ],
+  "adjectives" : [ "located", "northern" ],
+  "nouns" : [ "capital", "side", "province", "city", "River", "Lodhran" ],
+  "text" : "Lodhran (Urdu: لودهراں‎), is a city and the capital of Lodhran District in the Punjab province of Pakistan. It is located on the northern side of River Sutlej."
+}, {
+  "entityIndex" : "72_entity20842",
+  "entityUrl" : "http://dbpedia.org/resource/Lakewood_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Lakewood Suburban Centre" ]
+  },
+  "words" : [ "``", "income", "average", "mostly", "commercial", "considered", "2011", "dwelling", "areas", "medium", "high-density", "civic", "subdivision", "suburban", "composed", "rate", "neighbourhood", "multiple-unit", "value", "1,850", "''", "area", "$", "middle-income", "227,522", "%", "Saskatoon", "dwellings", "Suburban", "centre", "classified", "Saskatchewan", "Centre", ",", "mixed-development", ".", "Lakewood", "home", "76.8", "Canada", "65,927", "ownership", "located", "residents", "facilities", "family", "southeast" ],
+  "adjectives" : [ "average", "commercial", "suburban", "middle-income", "located", "multiple-unit", "high-density", "civic" ],
+  "nouns" : [ "area", "income", "%", "centre", "dwelling", "medium", "mixed-development", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value", "southeast" ],
+  "text" : "Lakewood Suburban Centre is a mixed-development neighbourhood located in southeast Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of mostly medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2011, the area is home to 1,850 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,927, an average dwelling value of $227,522 and a home ownership rate of 76.8%.According to MLS data, the average sale price of a home as of 2013 was $252,618."
+}, {
+  "entityIndex" : "73_entity20843",
+  "entityUrl" : "http://dbpedia.org/resource/Lakeridge,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Lakeridge" ]
+  },
+  "words" : [ "income", "average", "considered", "part", "dwelling", "2009", "rate", "neighbourhood", "houses", "value", "Almost", "live", "area", "127,698", "$", "4,051", "%", "Saskatoon", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "357,024", "Lakeridge", "residential", "98.8", "ownership", "located", "residents", "upper-income", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "residential", "located" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "home", "ownership", "rate", "neighbourhood", "upper-income", "family", "value", "southeast" ],
+  "text" : "Lakeridge is a residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. Almost all of its residents live in low-density, single detached houses. As of 2009, the area is home to 4,051 residents. The neighbourhood is considered an upper-income area, with an average family income of $127,698, an average dwelling value of $357,024 and a home ownership rate of 98.8%.According to MLS data, the average sale price of a home as of 2013 was $442,999."
+}, {
+  "entityIndex" : "74_entity20847",
+  "entityUrl" : "http://dbpedia.org/resource/Lakeview,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Lakeview" ]
+  },
+  "words" : [ "income", "average", "277,070", "71.0", "considered", "part", "2011", "dwelling", "semi-detached", "minority", "primarily", "high", "rate", "neighbourhood", "majority", "sizeable", "value", "live", "area", "$", "%", "Lakeview", "Saskatoon", "dwellings", "multiple", "Saskatchewan", "low-density", ",", "apartment-style", "120,042", ".", "home", "single", "detached", "Canada", "unit", "residential", "ownership", "located", "residents", "7,732", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "high", "residential", "multiple", "located", "sizeable", "semi-detached", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "minority", "home", "unit", "ownership", "rate", "neighbourhood", "majority", "family", "value", "southeast" ],
+  "text" : "Lakeview is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in low-density, single detached dwellings, with a sizeable minority of semi-detached or apartment-style multiple unit dwellings. As of 2011, the area is home to 7,732 residents. The neighbourhood is considered a high income area, with an average family income of $120,042, an average dwelling value of $277,070 and a home ownership rate of 71.0%. According to MLS data, the average sale price of a home as of 2013 was $322,868.It was the first community in Saskatoon to feature a man-made lake amenity."
+}, {
+  "entityIndex" : "75_entity18135",
+  "entityUrl" : "http://dbpedia.org/resource/Haultain,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Haultain" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "201,503", "value", "area", "Haultain", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "2,742", "home", "single", "detached", "Canada", "consisting", "47,890", "59.3", "residential", "ownership", "located", "residents", "family" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Haultain is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,742 residents. The neighbourhood is considered a middle-income area, with an average family income of $47,890, an average dwelling value of $201,503 and a home ownership rate of 59.3%.According to MLS data, the average sale price of a home as of 2013 was $316,411."
+}, {
+  "entityIndex" : "76_entity18141",
+  "entityUrl" : "http://dbpedia.org/resource/Holliston,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Holliston" ]
+  },
+  "words" : [ "half", "part", "duplex", "minority", "primarily", "2007", "neighbourhood", "houses", "Street", "sizeable", "area", "business", "Saskatoon", "dwellings", "multiple", "Holliston", "includes", "Saskatchewan", ",", "8th", "apartment-style", ".", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast", "3,412" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "unit", "half", "business", "neighbourhood", "part", "district", "Street", "duplex", "minority", "southeast", "home" ],
+  "text" : "Holliston is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. Just over half of its dwellings are single detached houses, with a sizeable minority of duplex or apartment-style multiple unit dwellings. As of 2007, the area is home to 3,412 residents. The neighbourhood is considered a middle-income area, with an average family income of $51,674, and a home ownership rate of 62.8%.According to MLS data, the average sale price of a home as of 2013 was $357,590."
+}, {
+  "entityIndex" : "77_entity18250",
+  "entityUrl" : "http://dbpedia.org/resource/History_of_Faizabad",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "settlements", "temporary", "Ghaghra", "Modern", "Subah", "Court", "reference", "Mughal", "Saket", "King", "meaning", "Ayodhya", "Heaven", "given", "hutment", "Saadat", "banks", "barracks", "made", "'", "estate", "dwellings", "However", "history", ",", "accurately", "Dashrath", "ancient", "-", ".", "Faizabad", "Lord", "Ramayana", "fortress", "Fyzabad", "name", "-RRB-", "mud", "private", "-LRB-", "sources", "Awadh", "city", "father", "Khan", "around", "Burhan-ul-Mulk", "found", "along", "known", "Due", "indicate", "said", "Nawab", "`", "means", "charge", "implied", "holy", "Bangla", "mythical", "earliest", "1722", "Sa'adat", "consisting", "Medieval", "cantonment", "first", "referred", "Ram", "Sanskrit", "Ali" ],
+  "adjectives" : [ "temporary", "private", "Medieval", "holy", "Due", "mythical", "ancient", "first" ],
+  "nouns" : [ "hutment", "charge", "city", "father", "estate", "Ghaghra", "history", "Subah", "reference", "fortress", "cantonment", "meaning", "name", "mud" ],
+  "text" : "The earliest reference made to Fyzabad or now Faizabad is said to be in the Ramayana, in which the city is referred to as Saket, the mythical private estate of King Dashrath, father of Lord Ram but the other sources indicate that Saket, which means Heaven in Sanskrit, is the ancient name of holy city of Ayodhya not Faizabad. However, more accurately, the reference is found in Medieval and Modern history, when Nawab Saadat Ali Khan, Burhan-ul-Mulk was given the charge of the Subah of Awadh around 1722 by the Mughal Court. Nawab Sa'adat Khan made the first settlements along the banks of Ghaghra with a cantonment consisting of a fortress and mud barracks. Due to these temporary dwellings, Faizabad was first known as 'Bangla' (implied meaning- hutment)."
+}, {
+  "entityIndex" : "78_entity15331",
+  "entityUrl" : "http://dbpedia.org/resource/Demographics_of_Staten_Island",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Richmond" ]
+  },
+  "words" : [ "New", "largest", "-LRB-", "York", "boroughs", "United", "least", "2010", "borough", "County", "468,730", "153", "States", "km2", "known", "730", "mi", "five", "sq", "According", "area", "living", "59", "%", "populated", "2000", "also", "City", ",", "increase", "Island", "people", ".", "Staten", "Census", "third", "468", "-RRB-", "5.6", "Richmond", "since" ],
+  "adjectives" : [ "third", "populated" ],
+  "nouns" : [ "area", "km2", "%", "borough", "mi", "increase", "sq" ],
+  "text" : "Richmond County, also known as Staten Island is a borough of New York City, New York, United States. Staten Island is the least populated of the five boroughs with 468, 730 people but is the third largest in area at 59 sq mi (153 km2). According to the 2010 Census, there were 468,730 people living in Staten Island, which is an increase of 5.6% since the 2000 Census."
+}, {
+  "entityIndex" : "79_entity15376",
+  "entityUrl" : "http://dbpedia.org/resource/Downtown_Oklahoma_City",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States" ]
+  },
+  "words" : [ "Entertainment", "ring", "several", "Central", "office", "space", "Arts", "geographic", "51,000", "legal", "Business", "area", "including", "metropolitan", "to-date", "City", "Downtown", ",", "Deep", "Flatiron", ".", "contains", "district", "-RRB-", ";", "Deuce", "neighborhood", "region", "oriented", "District", "-LRB-", "CBD", "city", "12,000,000", "entertainment", "Oklahoma", "financial", "districts", "ft", "retail", "principal", "Bricktown", "central", "workers", "sq", "business", "m2", "nightlife", "center", "also", "A-Alley", "residential", "urban", "located", "consists", "1,100,000", "economic" ],
+  "adjectives" : [ "geographic", "central", "residential", "metropolitan", "urban", "financial", "legal", "several", "located", "economic", "retail" ],
+  "nouns" : [ "area", "business", "city", "m2", "to-date", "entertainment", "nightlife", "center", "office", "Downtown", "A-Alley", "ft", "space", "principal", "district", "neighborhood", "region", "sq" ],
+  "text" : "Downtown Oklahoma City is located at the geographic center of the Oklahoma City metropolitan area and contains the principal, central business district of the city. The CBD has over 51,000 workers and over 12,000,000 sq ft (1,100,000 m2) of office space to-date. Downtown Oklahoma City also is the legal, financial, economic, nightlife, and entertainment center of the region. Downtown Oklahoma City consists of several urban districts that ring the Central Business District; including the retail oriented A-Alley, the Arts District, Bricktown Entertainment District, Deep Deuce residential neighborhood, and the Flatiron District. Unofficial/new areas of downtown OKC include \"Lower Bricktown\", MidTown urban neighborhood, SOSA (South of Saint Anthony 'hospital'), WestTown, Film Row urban district, Farmer's Market, and the new Downtown South \"Core-2-Shore\" neighborhoods."
+}, {
+  "entityIndex" : "80_entity15389",
+  "entityUrl" : "http://dbpedia.org/resource/Diefenbaker_Management_Area,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Diefenbaker Management Area" ]
+  },
+  "words" : [ "venue", "snowboarding", "Nutana", "medium-sized", "used", "tobogganing", "subdivision", "public", "west", "Diefenbaker", "Cemetery", "performances", "park", "events", "area", "Saskatoon", "frequently-used", "includes", "Management", ",", ".", "Exhibition", "Park", "hill", "Area", "Pioneer", "picnics" ],
+  "adjectives" : [ "public", "frequently-used", "medium-sized" ],
+  "nouns" : [ "area", "subdivision", "hill", "venue", "west", "park" ],
+  "text" : "The Diefenbaker Management Area is an area of Saskatoon, to the west of the Exhibition subdivision. The area includes Diefenbaker Park and the Nutana Pioneer Cemetery. The park includes a medium-sized hill which is used for tobogganing and snowboarding, and the park itself is a frequently-used venue for picnics and public events and performances."
+}, {
+  "entityIndex" : "81_entity15418",
+  "entityUrl" : "http://dbpedia.org/resource/Downtown_Hartford",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States", "Capitol Region", "Hartford" ]
+  },
+  "words" : [ "area", "business", "city", "center", "Downtown", ",", "'s", ".", "government", "Connecticut", "district", "Hartford", "state", "primary" ],
+  "adjectives" : [ "primary" ],
+  "nouns" : [ "area", "government", "business", "city", "district", "center", "state", "Downtown" ],
+  "text" : "The Downtown area of Hartford, Connecticut, is that city's primary business district and the center of Connecticut's state government."
+}, {
+  "entityIndex" : "82_entity28100",
+  "entityUrl" : "http://dbpedia.org/resource/Texarkana_metropolitan_area",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States" ]
+  },
+  "words" : [ "Office", "-LRB-", "TX", "143,486", "United", "anchored", "2010", "Arkansas", "County", "States", "Bowie", "Ark-La-Tex", "MSA", "Budget", "broader", "defined", "twin", "Metropolitan", "two-county", "--", "surrounding", "encompassing", "cities", "Management", ",", ".", "population", "AR", "Area", "Texarkana", "Texas", "Miller", "census", "Statistical", "-RRB-", "region", "subset", "communities" ],
+  "adjectives" : [ "twin", "two-county" ],
+  "nouns" : [ "Ark-La-Tex", "AR", "census", "region", "subset", "population" ],
+  "text" : "The Texarkana, AR–Texarkana, TX Metropolitan Statistical Area (MSA), as defined by the United States Office of Management and Budget, is a two-county region anchored by the twin cities of Texarkana, Texas and Texarkana, Arkansas, and encompassing the surrounding communities in Bowie County, Texas and Miller County, Arkansas. As of the 2010 census, the MSA had a population of 143,486. Texarkana is a subset of the broader Ark-La-Tex region."
+}, {
+  "entityIndex" : "83_entity29796",
+  "entityUrl" : "http://dbpedia.org/resource/Yerpedu",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Yerpedu" ]
+  },
+  "words" : [ "-LRB-", "females", "Andhra", "2011", "Erpedu", "males", "-", ".", "mandal.papulation", "literacy", "Yerpedu", "Chittoor", "headquarters", "58,403", "Pradesh", "28,131", "district", "Total", "-RRB-", "Indian", "state", "28,272", "village", "mandal" ],
+  "adjectives" : [ "Total", "Indian", "mandal" ],
+  "nouns" : [ "literacy", "headquarters", "district", "state", "village", "mandal.papulation" ],
+  "text" : "Yerpedu or Erpedu is a village in Chittoor district of the Indian state of Andhra Pradesh. It is the mandal headquarters of Yerpedu mandal.papulation. (2011) - Total 58,403 - males. 28,131 - females 28,272 literacy. (2011) - Total 62.97% - males 74.67% - females 51.17% pin code. 517619"
+}, {
+  "entityIndex" : "84_entity11459",
+  "entityUrl" : "http://dbpedia.org/resource/Arbor_Creek,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Arbor Creek" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "primarily", "2006", "rate", "neighbourhood", "high-income", "Arbor", "value", "area", "$", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", "4,654", ".", "home", "single", "detached", "Canada", "327,262", "residential", "99,631", "ownership", "Creek", "located", "residents", "92.5", "family" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located", "northeast", "low-density" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "value", "home" ],
+  "text" : "Arbor Creek is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings. As of 2006, the area is home to 4,654 residents. The neighbourhood is considered a high-income area, with an average family income of $99,631, an average dwelling value of $327,262 and a home ownership rate of 92.5%.According to MLS data, the average sale price of a home as of 2013 was $416,596."
+}, {
+  "entityIndex" : "85_entity11468",
+  "entityUrl" : "http://dbpedia.org/resource/Adelaide/Churchill,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Adelaide/Churchill" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "90.3", "dwelling", "78,438", "south-central", "2009", "subdivision", "suburban", "rate", "neighbourhood", "value", "3,445", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Adelaide/Churchill", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "287,976" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Adelaide/Churchill is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2009, the area is home to 3,445 residents. The neighbourhood is considered a middle-income area, with an average family income of $78,438, an average dwelling value of $287,976 and a home ownership rate of 90.3%.According to MLS data, the average sale price of a home as of 2013 was $350,096."
+}, {
+  "entityIndex" : "86_entity11469",
+  "entityUrl" : "http://dbpedia.org/resource/Avalon,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Avalon" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "Avalon", "dwelling", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "168,444", "value", "area", "$", "middle-income", "%", "65,000", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "77.3", "3,214" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Avalon is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 3,214 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,000, an average dwelling value of $168,444 and a home ownership rate of 77.3%.According to MLS data, the average sale price of a home as of 2013 was $352,359."
+}, {
+  "entityIndex" : "87_entity11500",
+  "entityUrl" : "http://dbpedia.org/resource/Adipur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Gandhidham Municipality" ]
+  },
+  "words" : [ "km", "-LRB-", "town", "Gujarat", "Gandhidham", ",", ".", "India", "situated", "miles", "approximately", "5", "Kutch", "-RRB-", "Adipur", "8.0", "state", "District" ],
+  "adjectives" : [ ],
+  "nouns" : [ "km", "town", "state" ],
+  "text" : "Adipur is a town in Kutch District in the state of Gujarat, India. The town is situated approximately 5 miles (8.0 km) from Gandhidham."
+}, {
+  "entityIndex" : "88_entity11502",
+  "entityUrl" : "http://dbpedia.org/resource/Alluwali",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Piplan" ]
+  },
+  "words" : [ "small", "capital", "almost", "Commission", "bank", "province", "road", "Alluwali", "علووالى", "Indus", "Urdu", "'", "Punjab", ",", ".", "population", "°", "5E", "Nuclear", "council", "district", "7", "-RRB-", ":", "District", "Piplan", "21", "24", "-LRB-", "Mianwali", "city", "40000", "Atomic", "situated", "Complex", "Pakistan", "Energy", "lies", "River", "71", "village", "32", "km", "Chashma", "north.It", "39", "Tehsil", "union", "57N", "located", "Power" ],
+  "adjectives" : [ "small", "located", "Atomic" ],
+  "nouns" : [ "km", "capital", "north.It", "city", "union", "57N", "population", "Complex", "5E", "bank", "province", "road", "council", "district", "Alluwali", "village" ],
+  "text" : "Alluwali (Urdu: علووالى‎), is a small city village and union council of Mianwali District in the Punjab province of Pakistan. It is almost 39 km (by road) from the district capital Mianwali which lies to the north.It is located in Piplan Tehsil at 32°21'57N 71°24'5E and lies on the bank of the Indus River. Alluwali has a population up to 40000. It is situated almost 7 km from Chashma Nuclear Power Complex, Pakistan Atomic Energy Commission."
+}, {
+  "entityIndex" : "89_entity11648",
+  "entityUrl" : "http://dbpedia.org/resource/Aspen_Ridge,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Aspen Ridge" ]
+  },
+  "words" : [ "build-out", "city", "housing", "eventually", "house", "Aspen", "network", "suburban", "feature", "neighbourhood", "construction", "Unlike", "neighbourhoods", "density", "began", "13,000", "Saskatoon", "estimated", "northeast", "roads", "Saskatchewan", ",", "many", "'s", "people", ".", "Canada", "2014", "grid", "located", "Ridge", "full", "higher" ],
+  "adjectives" : [ "suburban", "located", "northeast", "many", "full" ],
+  "nouns" : [ "build-out", "density", "city", "housing", "neighbourhood", "grid", "construction", "network" ],
+  "text" : "Aspen Ridge is a neighbourhood located in northeast Saskatoon, Saskatchewan, Canada, construction on which began in 2014. At full build-out, Aspen Ridge will eventually house an estimated 13,000 people. Unlike many of the city's suburban neighbourhoods, it will feature higher density housing on a grid network of roads."
+}, {
+  "entityIndex" : "90_entity29567",
+  "entityUrl" : "http://dbpedia.org/resource/Wild_Dunes",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "United States" ]
+  },
+  "words" : [ "controlled-access", "oceanfront", "Isle", "Wild", "-LRB-", "island", "north", "South", "United", "Carolina", ",", ".", "States", "km2", "gates", "Palms", "6", "-RRB-", "end", "acres", "resort", "1,600", "Dunes" ],
+  "adjectives" : [ "controlled-access", "oceanfront" ],
+  "nouns" : [ "km2", "island", "north", "end", "resort" ],
+  "text" : "Wild Dunes is an oceanfront resort on Isle of Palms, South Carolina, United States. It is 1,600 acres (6 km2) on the north end of the island and has controlled-access gates."
+}, {
+  "entityIndex" : "91_entity29615",
+  "entityUrl" : "http://dbpedia.org/resource/Wildwood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Wildwood" ]
+  },
+  "words" : [ "townhouse", "part", "2012", "minority", "primarily", "neighbourhood", "Street", "majority", "sizeable", "live", "area", "7,582", "business", "Saskatoon", "multiple", "dwellings", "includes", "Saskatchewan", "low-density", ",", "8th", "apartment-style", ".", "Wildwood", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "townhouse", "business", "part", "low-density", "minority", "home", "unit", "neighbourhood", "district", "Street", "majority", "southeast" ],
+  "text" : "Wildwood is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. The majority of its residents live in townhouse or apartment-style multiple unit dwellings, with a sizeable minority of low-density, single detached dwellings. As of 2012, the area is home to 7,582 residents. The neighbourhood is considered a middle-income area, with an average family income of $64,196, and a home ownership rate of 64.7%.According to MLS data, the average sale price of a home as of 2013 was $270,309."
+}, {
+  "entityIndex" : "92_entity29621",
+  "entityUrl" : "http://dbpedia.org/resource/Willowgrove,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Willowgrove" ]
+  },
+  "words" : [ "income", "average", "Willowgrove", "considered", "fewer", "2011", "dwelling", "primarily", "mainly", "rate", "neighbourhood", "houses", "high-income", "single-family", "multiple-unit", "84.8", "mix", "value", "area", "middle", "$", "%", "Saskatoon", "dwellings", "northeast", "Saskatchewan", ",", "comprises", ".", "home", "detached", "Canada", "96,002", "residential", "ownership", "located", "residents", "family", "218,357", "3,973" ],
+  "adjectives" : [ "average", "residential", "middle", "high-income", "located", "northeast", "single-family", "multiple-unit" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "mix", "value", "home" ],
+  "text" : "Willowgrove is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It comprises a mix of mainly single-family detached houses and fewer multiple-unit dwellings. As of 2011, the area is home to 3,973 residents. The neighbourhood is considered a middle to high-income area, with an average family income of $96,002, an average dwelling value of $218,357 and a home ownership rate of 84.8%.According to MLS data, the average sale price of a home as of 2013 was $456,157."
+}, {
+  "entityIndex" : "93_entity29636",
+  "entityUrl" : "http://dbpedia.org/resource/Wadala_Sandhuan",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "1" ]
+  },
+  "words" : [ "-LRB-", "away", "Gujranwala-Pasrur", "Sandhwan", "nearly", "spelled", "ft", "sea", "situated", "meters", "232", "Pakistan", "province", "Sialkot", "Sundhwan", "road", "North", "Daska", "km", "سندہواں", "town", "level", "Urdu", "Wadala", "18", "Tehsil", "32.11", "also", "Punjab", ",", "74.24", ".", "°", "Gujranwala", "761", "belongs", "وڈالہ", "-RRB-", "located", ":", "Sandhuan", "East", "District", "Punjabi" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "km", "town", "province", "road", "level", "ft", "sea" ],
+  "text" : "Wadala Sandhuan (Punjabi, Urdu: وڈالہ سندہواں) (Sandhuan also spelled Sandhwan or Sundhwan) is a town situated on the Gujranwala-Pasrur road in the Punjab province of Pakistan. Wadala Sandhuan is located at 32.11° North, 74.24° East. it is 232 meters (761 ft) above sea level and is nearly 18 km away from Gujranwala. This town belongs to Tehsil Daska and District Sialkot. The town is on the Gujranwala-Pasrur road, which allows logistical connections to the cities such as Pasrur and Gujranwala. It is in between Gujranwala and Pasrur. The town is home to grain markets which provides jobs for thousands of people. There are over 30 rice mills located in the area from which Shahid Brothers Rice mill is major market contributor. Wheat Flour Mill ( Hudaibiya Flour & General Mills ) is under construction, making it one of the major wheat grain contributor to markets in the Punjab region. This is one of the most beautiful town in its surroundings. There are vast green fields and gardens around the town. It shares the borders with some small towns and villages such as Kotli Kheran, Gopipur, Rampur, Chakri, Jhang, Dherowali, Ramke etc. Punjabi and Mewati are the local language, but Urdu is also common, particularly in schools and offices."
+}, {
+  "entityIndex" : "94_entity19399",
+  "entityUrl" : "http://dbpedia.org/resource/Kaleshwaram",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "India" ]
+  },
+  "words" : [ "Pranahita", "Telangana", "Karimnagar", "Ramagundam", "Manthani", "277", "115", "90", "station", "state", "railway", "village", "Godavari", "75", "juncture", "rivers", "Mahadevpur", "Parkal", "&", "Warangal", "tributary", ",", ".", "Hyderabad", "refers", "125", "Godavarikhani", "district", "name", "Kaleshwaram", "Indian", "kilometres", "Mandal", "60", "broadly" ],
+  "adjectives" : [ "Parkal", "Indian" ],
+  "nouns" : [ "juncture", "district", "name", "station", "tributary", "state", "railway", "village" ],
+  "text" : "Kaleshwaram is a village in Mahadevpur Mandal in Karimnagar district in the Indian state of Telangana. This name refers more broadly to the state of Telangana. Kaleshwaram is at the juncture of the rivers Godavari and its Pranahita tributary. It is 277 kilometres from Hyderabad, 125 kilometres from Karimnagar, 115 kilometres from Warangal, 75 kilometres from Parkal and 60 kilometres from Manthani , 90 kilometres from Ramagundam railway station & Godavarikhani."
+}, {
+  "entityIndex" : "95_entity19792",
+  "entityUrl" : "http://dbpedia.org/resource/Khambhra",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Gram Panchayat" ]
+  },
+  "words" : [ "town", "Gujarat", "Anjar", "Khambhra", ",", "nearest", ".", "eight", "taluka", "district", "Kutch", "Indian", "kilometres", "Khamra", "near", "state", "village" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "town", "taluka", "district", "state", "village" ],
+  "text" : "Khambhra or Khamra is a village near the town Anjar and the taluka of Kutch district in the Indian state of Gujarat. The village is eight kilometres from the nearest town, Anjar."
+}, {
+  "entityIndex" : "96_entity19888",
+  "entityUrl" : "http://dbpedia.org/resource/Kibber",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Lahul and Spiti" ]
+  },
+  "words" : [ "TV", "Spiti", "used", "office", "elsewhere", "around", "telegraph", "high", "post", "school", "civil", "houses", "Kibber", "brick", "village", "dispensary", "Monastery", "Rimpochhe", "given", "set", "made", "founded", "adobe", ",", "instead", "community", ".", "stone", "extensively", "unique", "80", "Serkang", "valley", "mud", "Tabo" ],
+  "adjectives" : [ "high", "unique", "civil" ],
+  "nouns" : [ "dispensary", "TV", "set", "adobe", "office", "community", "stone", "telegraph", "post", "school", "valley", "brick", "village", "mud" ],
+  "text" : "The village has around 80 houses, unique, given that they are made of stone instead of mud or adobe brick used extensively elsewhere in the Spiti valley. Kibber has a civil dispensary, a high school, a post office, a telegraph office and a community TV set in the village. Kibber Monastery was founded by Serkang Rimpochhe of Tabo."
+}, {
+  "entityIndex" : "97_entity19894",
+  "entityUrl" : "http://dbpedia.org/resource/Kensington,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Kensington" ]
+  },
+  "words" : [ "reach", "Around", "network", "2028", "feature", "neighbourhood", "8,300", "street", "west", "construction", "completion", "began", "Saskatoon", "estimated", "Saskatchewan", ",", "'s", "Kensington", ".", "population", "Canada", "application", "grid", "2013", "fused", "located", "first" ],
+  "adjectives" : [ "west", "located", "first" ],
+  "nouns" : [ "completion", "application", "neighbourhood", "grid", "street", "construction", "population", "network" ],
+  "text" : "Kensington is a neighbourhood located in west Saskatoon, Saskatchewan, Canada that began construction in 2013. Around 2028, Kensington will reach completion and have an estimated population of 8,300. Kensington will feature Saskatoon's first application of the fused grid street network."
+}, {
+  "entityIndex" : "98_entity19903",
+  "entityUrl" : "http://dbpedia.org/resource/Kondapur,_Ranga_Reddy",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:subdivisionName" : [ "Ranga Reddy" ]
+  },
+  "words" : [ "area", "-LRB-", "Telangana", "Ranga", "Kondapur", ",", "pur", ".", "settlement", "India", "konda", "hill", "suburban", "Reddy", "district", "-RRB-", "=" ],
+  "adjectives" : [ "suburban", "=" ],
+  "nouns" : [ "konda", "area", "hill", "district", "Kondapur", "pur", "settlement" ],
+  "text" : "Kondapur (konda = hill, pur = settlement) is a suburban area in the Ranga Reddy district of Telangana, India."
+} ]

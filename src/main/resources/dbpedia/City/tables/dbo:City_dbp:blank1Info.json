@@ -1,0 +1,56 @@
+[ {
+  "entityIndex" : "1_entity14548",
+  "entityUrl" : "http://dbpedia.org/resource/Clear_Lake,_Oregon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Info" : [ "1119004" ]
+  },
+  "words" : [ "Oregon", "named", "half", "north", "meander", "United", "Lake", "County", "N", "Clear", "States", "east", "disconnected", "west", "River", "219", "Route", "Wheatland", "unincorporated", "likely", "Willamette", "Keizer", "Road", "mile", "community", ",", ".", "approximately", "Marion" ],
+  "adjectives" : [ "unincorporated", "likely", "east", "west" ],
+  "nouns" : [ "half", "mile", "north", "meander", "west", "community" ],
+  "text" : "Clear Lake is an unincorporated community in Marion County, Oregon, United States, just north of Keizer. It is west and north of Oregon Route 219 and east of Wheatland Road N. It is likely named for Clear Lake which is approximately a half mile west of it, a disconnected meander of the Willamette River."
+}, {
+  "entityIndex" : "2_entity15849",
+  "entityUrl" : "http://dbpedia.org/resource/Elmhurst,_Indiana",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Info" : [ "434129" ]
+  },
+  "words" : [ "Madison", "Indiana", "latitude", "United", "County", "States", "America", "North", "place", "52", "longitude", "''", "Elmhurst", "17", "West", "'", ",", ".", "°", "5", "State", "located", "40", "85", "43" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "State", "latitude", "place", "longitude" ],
+  "text" : "Elmhurst is a place in Madison County in the State of Indiana in the United States of America. It is located at latitude 40°5'52\" North, longitude 85°43'17\" West."
+}, {
+  "entityIndex" : "3_entity18199",
+  "entityUrl" : "http://dbpedia.org/resource/History_of_Hartford_City,_Indiana",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Info" : [ "435826" ]
+  },
+  "words" : [ "small", "``", "became", "Indiana", "beginning", "log", "boom", "north", "portion", "county", "County", "late", "creek", "Boom", "agricultural", "Located", "farming", "gas", "manufacturing", "near", "state", "east-central", "included", "cabins", "experienced", "''", "1830s", "natural", "began", "caused", "clustered", "one", "also", "City", "economy", ",", "community", ".", "transition", "seat", "15-year", "discovery", "1880s", "Gas", "Blackford", "Hartford" ],
+  "adjectives" : [ "small", "15-year", "late", "natural", "agricultural", "east-central" ],
+  "nouns" : [ "log", "boom", "north", "portion", "county", "economy", "community", "transition", "seat", "creek", "discovery", "gas", "manufacturing", "state" ],
+  "text" : "Hartford City, Indiana, began in the late 1830s as a few log cabins clustered near a creek. The community became the county seat of Blackford County. Located in the north east-central portion of the state, the small farming community experienced a 15-year \"boom\" beginning in the late 1880s caused by the discovery of natural gas. The Indiana Gas Boom caused the community to transition from an agricultural economy to one that also included manufacturing. During the 1890s, Hartford City was the home of the nation's largest window glass company (Hartford City Glass Company)and the nation's largest producer of lantern globes (Sneath Glass Company). The phenomenal growth ended after the boom, but the city was able to retain much of its workforce, as some of the glass factories and paper mills continued operations within the city. Jobs relating to the new automobile industry also became available in nearby cities. In the first half of the 20th century, Hartford City was able to attract several new manufacturers that became cornerstones for employment within the town, including Overhead Door and 3M. However, as the fortunes of the auto industry have declined in recent decades, so have the fortunes of Hartford City. As a reminder of the Gas Boom, the National Park Service of the United States Department of the Interior added the Hartford City Courthouse Square Historic District to the National Register of Historic Places on June 21, 2006—meaning the buildings and objects that contribute to the continuity of the district are worthy of preservation because of their historical and architectural significance. Individual buildings in Hartford City also recognized by the National Register of Historic Places include the Blackford County Courthouse and the First Presbyterian Church."
+}, {
+  "entityIndex" : "4_entity15399",
+  "entityUrl" : "http://dbpedia.org/resource/Deem_City,_Florida",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Info" : [ "293620" ]
+  },
+  "words" : [ "24", "-LRB-", "27", "line", "northwest", "United", "county", "County", "miles", "States", "Beach", "U.S.", "Weston", "near", "Route", "unincorporated", "km", "15", "Beach/Broward", "Deem", "City", "community", ",", "Florida", ".", "approximately", "Palm", "-RRB-", "located" ],
+  "adjectives" : [ "unincorporated", "located" ],
+  "nouns" : [ "km", "line", "county", "community" ],
+  "text" : "Deem City is an unincorporated community in Palm Beach County, Florida, United States, located approximately 15 miles (24 km) northwest of Weston on U.S. Route 27, near the Palm Beach/Broward county line."
+}, {
+  "entityIndex" : "5_entity28100",
+  "entityUrl" : "http://dbpedia.org/resource/Texarkana_metropolitan_area",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:blank1Info" : [ "1369752" ]
+  },
+  "words" : [ "Office", "-LRB-", "TX", "143,486", "United", "anchored", "2010", "Arkansas", "County", "States", "Bowie", "Ark-La-Tex", "MSA", "Budget", "broader", "defined", "twin", "Metropolitan", "two-county", "--", "surrounding", "encompassing", "cities", "Management", ",", ".", "population", "AR", "Area", "Texarkana", "Texas", "Miller", "census", "Statistical", "-RRB-", "region", "subset", "communities" ],
+  "adjectives" : [ "twin", "two-county" ],
+  "nouns" : [ "Ark-La-Tex", "AR", "census", "region", "subset", "population" ],
+  "text" : "The Texarkana, AR–Texarkana, TX Metropolitan Statistical Area (MSA), as defined by the United States Office of Management and Budget, is a two-county region anchored by the twin cities of Texarkana, Texas and Texarkana, Arkansas, and encompassing the surrounding communities in Bowie County, Texas and Miller County, Arkansas. As of the 2010 census, the MSA had a population of 143,486. Texarkana is a subset of the broader Ark-La-Tex region."
+} ]

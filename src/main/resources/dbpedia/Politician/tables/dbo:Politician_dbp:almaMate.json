@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity4884",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_H._Cook",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:almaMate" : [ "http://dbpedia.org/resource/Yale_University" ]
+  },
+  "words" : [ "``", "private", "-LRB-", "American", "held", "numerous", "Secretary", "Oklahoma", "Cook", "destination", "tourism", "Edward", "commerce", "serving", "Keating", "Tourism", "Serving", "promote", "1995", "chamber", "1935", "businessman", "sector", "1999", "''", "oversaw", "H.", "born", "positions", "City", ",", "'s", ".", "appointed", "Governor", "efforts", "Recreation", "organization", "-RRB-", "Greater", "position", "Chamber", "Frank", "return", "Ed", "president" ],
+  "adjectives" : [ "private", "American", "numerous" ],
+  "nouns" : [ "Governor", "chamber", "organization", "destination", "tourism", "position", "commerce", "businessman", "sector", "return", "president" ],
+  "text" : "Edward H. \"Ed\" Cook (born 1935) is an American businessman from Oklahoma. Cook has held numerous positions with the Greater Oklahoma City Chamber, that City's chamber of commerce, serving as that organization's president. After a return to the private sector, Governor of Oklahoma Frank Keating appointed him as his Secretary of Tourism and Recreation in 1995. Serving in that position until 1999, Cook oversaw all efforts to promote Oklahoma as a tourism destination.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity2337",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Ricks",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:almaMate" : [ "http://dbpedia.org/resource/Baylor_University" ]
+  },
+  "words" : [ "``", "Federal", "FBI", "retirement", "Security", "A.", "professional", "Siege", "worked", "Bob", "Robert", "Assistant", "Special", "Agent", "14", "law", "enforcement", "City", ",", ".", "former", "Governor", "Backdraft", "Texas", "served", "-RRB-", "bombing", "1944", "-LRB-", "American", "Secretary", "Oklahoma", "best", "local", "Keating", "October", "1995", "known", "1993", "federal", "Safety", "Bureau", "''", "Ricks", "born", "Charge", "Following", "service", "Investigation", "investigation", "Frank", "Waco" ],
+  "adjectives" : [ "American", "Special", "federal", "local", "former", "professional" ],
+  "nouns" : [ "Governor", "law", "service", "enforcement", "investigation", "bombing", "retirement" ],
+  "text" : "Robert A. \"Backdraft Bob\" Ricks (born October 14, 1944) is an American law enforcement professional from Texas and Oklahoma. Ricks has worked for the Federal Bureau of Investigation, the Governor of Oklahoma and in local law enforcement. He is best known as the former FBI Assistant Special Agent in Charge during the 1993 Waco Siege and as FBI Special Agent in Charge during the 1995 Oklahoma City bombing investigation. Following his retirement from federal service, Ricks served as the Oklahoma Secretary of Safety and Security under Governor of Oklahoma Frank Keating. Ricks serve as Secretary during the Keating's entire term as governor, from 1995 to 2003. Concurrent with his service as Secretary, Ricks was also appointed by Keating to serve as his Commissioner of the Oklahoma Department of Public Safety.",
+  "patterns" : { }
+} ]

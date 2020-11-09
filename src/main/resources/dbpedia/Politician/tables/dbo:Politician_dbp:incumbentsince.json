@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity11396",
+  "entityUrl" : "http://dbpedia.org/resource/Leader_of_the_Liberal_Democrats_in_the_House_of_Lords",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:incumbentsince" : [ "2016-09-13" ]
+  },
+  "words" : [ "Leader", "peers", "leaders", "Labour", "elect", "October", "Party", "Democrat", "members", "Tankerness", "Lords", "Social", "merging", "election", "previous", "Liberal", "Democratic", "House", ",", ".", "Lord", "Wallace", "Democrats", "form", "left", "1981", "2013", "1988" ],
+  "adjectives" : [ "previous", "Liberal" ],
+  "nouns" : [ "election" ],
+  "text" : "The Liberal Democrat peers elect the Leader of the Liberal Democrats in the House of Lords. Until the election of Lord Wallace of Tankerness in October 2013, all previous leaders had been members of the Labour Party who left to form the Social Democratic Party in 1981 before merging with the Liberal Party in 1988.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity11497",
+  "entityUrl" : "http://dbpedia.org/resource/Leader_of_the_Liberal_Democrats",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:incumbentsince" : [ "2015-07-16" ]
+  },
+  "words" : [ "leader", "constitution", "Leader", "called", "United", "political", "elect", "required", "colloquially", "Party", "Democrat", "Commons", "members", "federal", "member", "Parliamentary", "`", "Liberal", "Deputy", "'", "also", "House", "often", ",", ".", "Democrats", "Kingdom", "party", "Members", "Parliament" ],
+  "adjectives" : [ "Liberal", "federal", "political" ],
+  "nouns" : [ "leader", "constitution", "member", "party" ],
+  "text" : "The Liberal Democrats are a political party in the United Kingdom. Party members elect the Leader of the Liberal Democrats. Liberal Democrat Members of Parliament also elect a Deputy Leader of the Liberal Democrats Parliamentary Party in the House of Commons, often colloquially called 'the Deputy Leader'. Under the federal constitution of the Liberal Democrats the leader is required to be a member of the House of Commons. Before the election of the first federal leader of the party (the Liberal Democrats having a federal structure in their internal party organisation), the leaders of the two parties which merged to form the Liberal Democrats, the Liberal Party and the SDP, served as joint interim leaders. In the event that the leader dies, resigns or loses his or her seat in Parliament, the deputy leader serves as interim leader until a leadership election takes place. This has occurred twice, with Menzies Campbell serving as interim leader following the resignation of Charles Kennedy (Campbell was elected leader in the ensuing election) and Vince Cable serving as interim leader following Campbell's resignation.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity11654",
+  "entityUrl" : "http://dbpedia.org/resource/List_of_Deputy_Leaders_of_the_Liberal_Democrats",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:incumbentsince" : [ "2015-05-08" ]
+  },
+  "words" : [ "constitution", "Leader", "United", "political", "elect", "Leaders", "Party", "Democrat", "Commons", "Parliamentary", "may", "Liberal", "Deputy", "Following", "House", "often", ",", "Election", ".", "elected", "Democrats", "Kingdom", "2015", "General", "position", "party", "Members", "Parliament", "referred" ],
+  "adjectives" : [ "Liberal", "political" ],
+  "nouns" : [ "constitution", "position", "party" ],
+  "text" : "The Liberal Democrats are a political party in the United Kingdom. Liberal Democrat Members of Parliament may elect a Deputy Leader. Under the constitution of the Liberal Democrats, there is no position of Deputy Leader of the Liberal Democrats, Deputy Leaders of the Liberal Democrat Parliamentary Party in the House of Commons are often referred to as Deputy Leader of the Liberal Democrats. Following the 2015 General Election, the Liberal Democrat Members of Parliament have not elected a Deputy Leader.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity5715",
+  "entityUrl" : "http://dbpedia.org/resource/Governor-General_of_Grenada",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:incumbentsince" : [ "2013-05-07" ]
+  },
+  "words" : [ "country", "viceroys", "governors", "Queen", "United", "viceroy", "'s", "independence", "list", ",", "Governor-General", ".", "Grenada", "1974", "see", "Kingdom", "colonial", "List", "administrators", "since" ],
+  "adjectives" : [ ],
+  "nouns" : [ "country", "Queen", "colonial", "viceroy", "List", "independence", "list" ],
+  "text" : "The Governor-General of Grenada has been the viceroy of the Queen of Grenada since the country's independence from the United Kingdom in 1974. For a list of viceroys in Grenada before independence, see List of colonial governors and administrators of Grenada.",
+  "patterns" : { }
+} ]

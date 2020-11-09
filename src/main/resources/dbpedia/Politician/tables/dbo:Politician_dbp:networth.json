@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity2524",
+  "entityUrl" : "http://dbpedia.org/resource/Chung_Mong-joon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:networth" : [ "1.2E9" ]
+  },
+  "words" : [ "Oktober", "Politiker", "die", "Mong-joon", "-LRB-", "südkoreanischer", "reichste", "17", "Chung", "*", "und", "ist", "Südkoreas", "Er", ".", "Fußballfunktionär", "1951", "Busan", "-RRB-", "Person" ],
+  "adjectives" : [ "reichste" ],
+  "nouns" : [ "Politiker", "Fußballfunktionär", "südkoreanischer", "und", "ist", "Er", "Person" ],
+  "text" : "Chung Mong-joon (* 17. Oktober 1951 in Busan) ist südkoreanischer Politiker und Fußballfunktionär. Er ist die reichste Person Südkoreas.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity3508",
+  "entityUrl" : "http://dbpedia.org/resource/Daim_Zainuddin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:networth" : [ "1.02E10" ]
+  },
+  "words" : [ "Kedah", "-LRB-", "bin", "29", "Zainuddin", "Malaysia", "1991", "1938", "businessman", "Malaysian", "Minister", "Daim", "economist", "Finance", "born", "politician", "Tun", ",", "April", "former", ".", "Alor", "Setar", "1984", "-RRB-" ],
+  "adjectives" : [ "Malaysian", "former" ],
+  "nouns" : [ "economist", "politician", "businessman" ],
+  "text" : "Tun Daim bin Zainuddin (born 29 April 1938 in Alor Setar, Kedah) is a Malaysian economist, businessman, politician and a former Finance Minister of Malaysia from 1984 to 1991.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity7270",
+  "entityUrl" : "http://dbpedia.org/resource/Hussain_Sajwani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:networth" : [ "3.0E9" ]
+  },
+  "words" : [ "Group", "-LRB-", "حسين", "founder", "علي", "born", "Hussain", "chairman", ",", "CEO", "DAMAC", ".", "executive", "Arabic", "-RRB-", "UAE", "Sajwani", ":", "سجواني", "1956", "Ali" ],
+  "adjectives" : [ ],
+  "nouns" : [ "executive", "founder", "سجواني", "chairman" ],
+  "text" : "Hussain Ali Sajwani (Arabic: حسين علي سجواني), (born 1956) is the UAE executive chairman, CEO and founder of the DAMAC Group.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity7811",
+  "entityUrl" : "http://dbpedia.org/resource/Ibrahim_Khraibut",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:networth" : [ "US$65 million+" ]
+  },
+  "words" : [ "المركز", "بـ1123", "سابق", "أي", "الحميد", "العاشرة", "الأولى", "إبراهيم", "باقر", "الثالثة", "وانتخابات", "،", "الكويتي", "شارك", "1975", "الدائرة", "1971", "يوليو", "عبد", "أصوات", "من", "وتوفي", "وحصل", "1990", "في", "ميثم", ".", "الوطني", "بـ890", "سقط", "وهو", "1985", "الذي", "المجيد", "5", "1981", "وفشل", "بـ804", "مواليد", "صلاح", "وشارك", "مجلس", "خريبط", "ينجح", "وعبد", "الثاني", "صوت", "منها", "ولم", "نائب", "بعدها", "وجد", "2006", "2003", "وفاز", "الخامس", "يوسف", "بالانتخابات", "بـ813", "1913", "1999", "كل", "الأول", "على", "علي", "الأمة", "الفوز", "انتخابات", "وعم", "المجلس", "عشر", "عام", "وانسحب", "1963", "خليل", "والد", "بـ428", "1967" ],
+  "adjectives" : [ ],
+  "nouns" : [ "كل", "بعدها", "في", "إبراهيم", "بالانتخابات", "،" ],
+  "text" : "إبراهيم علي يوسف خريبط من مواليد 1913، وتوفي في 5 يوليو 2003 ، نائب سابق في مجلس الأمة الكويتي، وهو والد كل من عبد الحميد إبراهيم خريبط الذي سقط في انتخابات المجلس الوطني عام 1990  وعبد المجيد إبراهيم خريبط الذي سقط في انتخابات مجلس الأمة الكويتي 1999 في الدائرة العاشرة  وعم صلاح باقر خريبط الذي شارك في انتخابات مجلس الأمة الكويتي 1981 وانتخابات مجلس الأمة الكويتي 1985 وانتخابات مجلس الأمة الكويتي 1999 ولم ينجح في أي منها ، وجد ميثم خليل خريبط الذي شارك في انتخابات مجلس الأمة الكويتي 2006 وانسحب بعدها . شارك في انتخابات مجلس الأمة الكويتي 1963 في الدائرة الأولى، وحصل على المركز الثاني بـ804 أصوات وفاز بالانتخابات ، وشارك في انتخابات مجلس الأمة الكويتي 1967 في الدائرة الأولى، وحصل على المركز الثاني بـ1123 صوت وفاز بالانتخابات ، شارك في انتخابات مجلس الأمة الكويتي 1971 في الدائرة الأولى، وحصل على المركز الأول بـ890 صوت وفاز بالانتخابات ، وشارك في انتخابات مجلس الأمة الكويتي 1975 في الدائرة الأولى، وحصل على المركز الثاني بـ813 صوت وفاز بالانتخابات ، وشارك في انتخابات مجلس الأمة الكويتي 1985 الثالثة عشر، وحصل على المركز الخامس بـ428 وفشل في الفوز بالانتخابات .",
+  "patterns" : { }
+} ]

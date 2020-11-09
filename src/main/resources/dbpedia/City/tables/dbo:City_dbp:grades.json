@@ -1,0 +1,243 @@
+[ {
+  "entityIndex" : "1_entity28826",
+  "entityUrl" : "http://dbpedia.org/resource/Varsity_View,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Pre-Kindergarten to Grade 8", "Grade 6 to Grade 12" ]
+  },
+  "words" : [ "duplexes", "mostly", "south", "immediately", "units", "subdivision", "2007", "central", "suburban", "mixture", "neighbourhood", "older", "near", "area", "campus", "Saskatoon", "comprising", "dwellings", "Saskatchewan", "low-density", ",", "View", "apartment-style", ".", "home", "single", "detached", "Canada", "residential", "University", "Varsity", "located", "residents", "3,611" ],
+  "adjectives" : [ "single", "residential", "central", "suburban", "located", "apartment-style" ],
+  "nouns" : [ "area", "subdivision", "mixture", "neighbourhood", "campus", "low-density", "home" ],
+  "text" : "Varsity View is a mostly residential neighbourhood located near central Saskatoon, Saskatchewan, Canada. It is immediately south of the University of Saskatchewan campus. It is an older suburban subdivision, comprising a mixture of low-density, single detached dwellings, detached duplexes and apartment-style units. As of 2007, the area is home to 3,611 residents. The neighbourhood is considered a middle-income area, with an average family income of $50,587, an average dwelling value of $284,710 and a home ownership rate of 38.7%. Its proximity to the university gives this area its relatively high student population, almost 25% in 2005.According to MLS data, the average sale price of a home as of 2013 was $402,332."
+}, {
+  "entityIndex" : "2_entity26977",
+  "entityUrl" : "http://dbpedia.org/resource/Sutherland,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "semi-detached", "204,213", "subdivision", "43.8", "suburban", "2006", "composed", "rate", "neighbourhood", "houses", "single-family", "older", "east-central", "multiple-unit", "mix", "value", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "home", "detached", "Canada", "near-even", "51,857", "residential", "ownership", "Sutherland", "located", "residents", "family", "apartment", "5,206" ],
+  "adjectives" : [ "average", "near-even", "residential", "suburban", "middle-income", "located", "single-family", "semi-detached", "east-central", "multiple-unit" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "mix", "value", "apartment" ],
+  "text" : "Sutherland is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is an older suburban subdivision, composed of a near-even mix of single-family detached houses and multiple-unit apartment and semi-detached dwellings. As of 2006, the area is home to 5,206 residents. The neighbourhood is considered a middle-income area, with an average family income of $51,857, an average dwelling value of $204,213 and a home ownership rate of 43.8%. According to MLS data, the average sale price of a home as of 2013 was $288,651.Sutherland was originally a town outside of Saskatoon before being annexed by the city in 1956."
+}, {
+  "entityIndex" : "3_entity13017",
+  "entityUrl" : "http://dbpedia.org/resource/Buena_Vista,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "Vista", "income", "average", "mostly", "considered", "2011", "dwelling", "subdivision", "suburban", "rate", "neighbourhood", "older", "near", "Buena", "value", "67,170", "area", "including", "$", "middle-income", "%", "Saskatoon", "dwellings", "centre", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "3,271", "77.7", "Canada", "residential", "ownership", "located", "residents", "family", "251,560" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "low-density" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "centre", "dwelling", "family", "value", "home" ],
+  "text" : "Buena Vista is a residential neighbourhood located near the centre of Saskatoon, Saskatchewan, Canada. It is an older suburban subdivision, including mostly low-density, single detached dwellings. As of 2011, the area is home to 3,271 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,170, an average dwelling value of $251,560 and a home ownership rate of 77.7%."
+}, {
+  "entityIndex" : "4_entity13045",
+  "entityUrl" : "http://dbpedia.org/resource/Brevoort_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8", "Pre-Kindergarten to Grade 8" ]
+  },
+  "words" : [ "half", "part", "duplex", "minority", "primarily", "2007", "neighbourhood", "houses", "Street", "sizeable", "3,424", "area", "Brevoort", "business", "Saskatoon", "dwellings", "multiple", "includes", "Saskatchewan", ",", "8th", "apartment-style", ".", "Park", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "unit", "half", "business", "neighbourhood", "part", "district", "Street", "duplex", "minority", "southeast", "home" ],
+  "text" : "Brevoort Park is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. Just over half of its dwellings are single detached houses, with a sizeable minority of duplex or apartment-style multiple unit dwellings. As of 2007, the area is home to 3,424 residents. The neighbourhood is considered a middle-income area, with an average family income of $52,098, and a home ownership rate of 54.0%.According to MLS data, the average sale price of a home as of 2013 was $325,447."
+}, {
+  "entityIndex" : "5_entity14502",
+  "entityUrl" : "http://dbpedia.org/resource/College_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "sizable", "income", "average", "65,133", "considered", "part", "2011", "dwelling", "232,228", "minority", "primarily", "high-density", "rate", "neighbourhood", "single-family", "majority", "east-central", "multiple-unit", "value", "live", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "5,470", "Saskatchewan", ",", ".", "Park", "home", "detached", "Canada", "residential", "ownership", "58.9", "College", "located", "residents", "family" ],
+  "adjectives" : [ "sizable", "average", "residential", "middle-income", "located", "single-family", "east-central", "multiple-unit", "high-density" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value" ],
+  "text" : "College Park is a primarily residential neighbourhood located in the east-central part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in single-family detached dwellings, with a sizable minority of high-density, multiple-unit dwellings. As of 2011, the area is home to 5,470 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,133, an average dwelling value of $232,228 and a home ownership rate of 58.9%.According to MLS data, the average sale price of a home as of 2013 was $299,844."
+}, {
+  "entityIndex" : "6_entity14503",
+  "entityUrl" : "http://dbpedia.org/resource/College_Park_East,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "considered", "part", "dwelling", "minority", "primarily", "high-density", "67,946", "2006", "rate", "neighbourhood", "single-family", "majority", "sizeable", "east-central", "multiple-unit", "67.2", "value", "live", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "Park", "home", "detached", "Canada", "residential", "ownership", "314,000", "College", "4,809", "located", "residents", "family", "East" ],
+  "adjectives" : [ "average", "residential", "middle-income", "located", "single-family", "sizeable", "east-central", "multiple-unit", "high-density" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value" ],
+  "text" : "College Park East is a primarily residential neighbourhood located in the east-central part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in single-family detached dwellings, with a sizeable minority of high-density, multiple-unit dwellings. As of 2006, the area is home to 4,809 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,946, an average dwelling value of $314,000 and a home ownership rate of 67.2%.According to MLS data, the average sale price of a home as of 2013 was $315,083."
+}, {
+  "entityIndex" : "7_entity17248",
+  "entityUrl" : "http://dbpedia.org/resource/Grosvenor_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Pre-Kindergarten to Grade 9" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "units", "67,544", "subdivision", "44.8", "suburban", "2006", "composed", "rate", "neighbourhood", "east-central", "mix", "value", "area", "$", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", "apartment-style", ".", "Park", "home", "329,988", "single", "detached", "Canada", "near-even", "Grosvenor", "residential", "ownership", "located", "residents", "1,645", "upper-income", "family" ],
+  "adjectives" : [ "single", "average", "near-even", "residential", "suburban", "located", "east-central", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "upper-income", "family", "mix", "value" ],
+  "text" : "Grosvenor Park is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, composed of a near-even mix of low-density, single detached dwellings and apartment-style units. As of 2006, the area is home to 1,645 residents. The neighbourhood is considered an upper-income area, with an average family income of $67,544, an average dwelling value of $329,988 and a home ownership rate of 44.8%.According to MLS data, the average sale price of a home as of 2013 was $493,174."
+}, {
+  "entityIndex" : "8_entity17252",
+  "entityUrl" : "http://dbpedia.org/resource/Greystone_Heights,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8", "Grade 4 to Grade 8" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "minority", "subdivision", "2007", "suburban", "58,811", "rate", "neighbourhood", "sizeable", "east-central", "multiple-unit", "Greystone", "value", "Heights", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "2,525", ",", "241,850", "apartment-style", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "58.1" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "sizeable", "east-central", "multiple-unit", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "minority", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value" ],
+  "text" : "Greystone Heights is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings and a sizeable minority of apartment-style multiple-unit dwellings. As of 2007, the area is home to 2,525 residents. The neighbourhood is considered a middle-income area, with an average family income of $58,811, an average dwelling value of $241,850 and a home ownership rate of 58.1%.According to MLS data, the average sale price of a home as of 2013 was $338,763."
+}, {
+  "entityIndex" : "9_entity15928",
+  "entityUrl" : "http://dbpedia.org/resource/Eastview,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8", "Kindergarten to Grade 12" ]
+  },
+  "words" : [ "income", "average", "mostly", "Eastview", "considered", "dwelling", "semi-detached", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "houses", "value", "260,050", "3,566", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "58,703", ",", ".", "home", "single", "detached", "low-rise", "Canada", "consisting", "residential", "ownership", "buildings", "located", "residents", "family", "51.6", "apartment" ],
+  "adjectives" : [ "single", "low-rise", "average", "residential", "suburban", "middle-income", "located", "semi-detached", "south-central" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value", "apartment" ],
+  "text" : "Eastview is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting of low-density, single detached dwellings, low-rise apartment buildings and semi-detached houses. As of 2007, the area is home to 3,566 residents. The neighbourhood is considered a middle-income area, with an average family income of $58,703, an average dwelling value of $260,050 and a home ownership rate of 51.6%.According to MLS data, the average sale price of a home as of 2013 was $318,449."
+}, {
+  "entityIndex" : "10_entity15929",
+  "entityUrl" : "http://dbpedia.org/resource/Erindale,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "340,990", "average", "mostly", "considered", "Erindale", "2011", "dwelling", "primarily", "4,338", "rate", "neighbourhood", "high-income", "123,336", "value", "area", "$", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "residential", "ownership", "located", "residents", "95.3", "family" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located", "northeast", "low-density" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "value", "home" ],
+  "text" : "Erindale is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings. As of 2011, the area is home to 4,338 residents. The neighbourhood is considered a high-income area, with an average family income of $123,336, an average dwelling value of $340,990 and a home ownership rate of 95.3%.According to MLS data, the average sale price of a home as of 2013 was $398,768."
+}, {
+  "entityIndex" : "11_entity16447",
+  "entityUrl" : "http://dbpedia.org/resource/Forest_Grove,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "2011", "dwelling", "minority", "primarily", "rate", "neighbourhood", "sizeable", "62.4", "multiple-unit", "value", "area", "$", "middle-income", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", "Grove", ".", "home", "single", "detached", "Canada", "residential", "70,487", "ownership", "5,907", "246,680", "Forest", "located", "residents", "family", "apartment" ],
+  "adjectives" : [ "single", "average", "residential", "middle-income", "located", "northeast", "sizeable", "low-density", "multiple-unit" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "Forest", "family", "value", "apartment" ],
+  "text" : "Forest Grove is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings, with a sizeable minority of multiple-unit apartment dwellings. As of 2011, the area is home to 5,907 residents. The neighbourhood is considered a middle-income area, with an average family income of $70,487, an average dwelling value of $246,680 and a home ownership rate of 62.4%.According to MLS data, the average sale price of a home as of 2013 was $304,527."
+}, {
+  "entityIndex" : "12_entity24934",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Elizabeth,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "2,491", "dwelling", "south-central", "280,970", "subdivision", "2007", "66.9", "suburban", "rate", "neighbourhood", "value", "area", "61,904", "$", "middle-income", "%", "Queen", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "Elizabeth", "residential", "ownership", "located", "residents", "family" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Queen Elizabeth is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,491 residents. The neighbourhood is considered a middle-income area, with an average family income of $61,904, an average dwelling value of $280,970 and a home ownership rate of 66.9%.According to MLS data, the average sale price of a home as of 2013 was $343,459."
+}, {
+  "entityIndex" : "13_entity23252",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Grade 9 to Grade 12", "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "Nutana", "nearly", "Broadway", "primarily", "2009", "mixture", "neighbourhood", "Avenue", "near", "area", "business", "Saskatoon", "dwellings", "multiple", "centre", "includes", "Saskatchewan", "low-density", ",", "comprises", "apartment-style", ".", "home", "single", "detached", "Canada", "unit", "residential", "even", "district", "located", "residents", "6,261" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "apartment-style" ],
+  "nouns" : [ "area", "unit", "business", "mixture", "neighbourhood", "district", "centre", "low-density", "home" ],
+  "text" : "Nutana is a primarily residential neighbourhood located near the centre of Saskatoon, Saskatchewan, Canada. It includes the business district of Broadway Avenue. It comprises a nearly even mixture of low-density, single detached dwellings and apartment-style multiple unit dwellings. As of 2009, the area is home to 6,261 residents. The neighbourhood is considered a middle to upper-income area, with an average family income of $67,657, an average dwelling value of $206,830 and a home ownership rate of 51.3%.According to MLS data, the average sale price of a home as of 2013 was $409,891. First established in 1883, Nutana was the original settlement of what now makes up the city of Saskatoon."
+}, {
+  "entityIndex" : "14_entity23268",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "mostly", "-LRB-", "considered", "Nutana", "sometimes", "dwelling", "south-central", "subdivision", "2007", "suburban", "2,748", "rate", "neighbourhood", "66,555", "85.1", "value", "area", "$", "257,789", "middle-income", "%", "Saskatoon", "South", "dwellings", "Saskatchewan", "low-density", ",", ".", "Park", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "-RRB-", "located", "residents", "family", "referred" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Nutana Park (sometimes referred to as South Nutana Park) is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,748 residents. The neighbourhood is considered a middle-income area, with an average family income of $66,555, an average dwelling value of $257,789 and a home ownership rate of 85.1%.According to MLS data, the average sale price of a home as of 2013 was $356,116."
+}, {
+  "entityIndex" : "15_entity20843",
+  "entityUrl" : "http://dbpedia.org/resource/Lakeridge,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "considered", "part", "dwelling", "2009", "rate", "neighbourhood", "houses", "value", "Almost", "live", "area", "127,698", "$", "4,051", "%", "Saskatoon", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "357,024", "Lakeridge", "residential", "98.8", "ownership", "located", "residents", "upper-income", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "residential", "located" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "home", "ownership", "rate", "neighbourhood", "upper-income", "family", "value", "southeast" ],
+  "text" : "Lakeridge is a residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. Almost all of its residents live in low-density, single detached houses. As of 2009, the area is home to 4,051 residents. The neighbourhood is considered an upper-income area, with an average family income of $127,698, an average dwelling value of $357,024 and a home ownership rate of 98.8%.According to MLS data, the average sale price of a home as of 2013 was $442,999."
+}, {
+  "entityIndex" : "16_entity20847",
+  "entityUrl" : "http://dbpedia.org/resource/Lakeview,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "277,070", "71.0", "considered", "part", "2011", "dwelling", "semi-detached", "minority", "primarily", "high", "rate", "neighbourhood", "majority", "sizeable", "value", "live", "area", "$", "%", "Lakeview", "Saskatoon", "dwellings", "multiple", "Saskatchewan", "low-density", ",", "apartment-style", "120,042", ".", "home", "single", "detached", "Canada", "unit", "residential", "ownership", "located", "residents", "7,732", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "high", "residential", "multiple", "located", "sizeable", "semi-detached", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "minority", "home", "unit", "ownership", "rate", "neighbourhood", "majority", "family", "value", "southeast" ],
+  "text" : "Lakeview is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in low-density, single detached dwellings, with a sizeable minority of semi-detached or apartment-style multiple unit dwellings. As of 2011, the area is home to 7,732 residents. The neighbourhood is considered a high income area, with an average family income of $120,042, an average dwelling value of $277,070 and a home ownership rate of 71.0%. According to MLS data, the average sale price of a home as of 2013 was $322,868.It was the first community in Saskatoon to feature a man-made lake amenity."
+}, {
+  "entityIndex" : "17_entity18135",
+  "entityUrl" : "http://dbpedia.org/resource/Haultain,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 7" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "201,503", "value", "area", "Haultain", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "2,742", "home", "single", "detached", "Canada", "consisting", "47,890", "59.3", "residential", "ownership", "located", "residents", "family" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Haultain is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,742 residents. The neighbourhood is considered a middle-income area, with an average family income of $47,890, an average dwelling value of $201,503 and a home ownership rate of 59.3%.According to MLS data, the average sale price of a home as of 2013 was $316,411."
+}, {
+  "entityIndex" : "18_entity18141",
+  "entityUrl" : "http://dbpedia.org/resource/Holliston,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8", "Grade 6 to Grade 9" ]
+  },
+  "words" : [ "half", "part", "duplex", "minority", "primarily", "2007", "neighbourhood", "houses", "Street", "sizeable", "area", "business", "Saskatoon", "dwellings", "multiple", "Holliston", "includes", "Saskatchewan", ",", "8th", "apartment-style", ".", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast", "3,412" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "unit", "half", "business", "neighbourhood", "part", "district", "Street", "duplex", "minority", "southeast", "home" ],
+  "text" : "Holliston is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. Just over half of its dwellings are single detached houses, with a sizeable minority of duplex or apartment-style multiple unit dwellings. As of 2007, the area is home to 3,412 residents. The neighbourhood is considered a middle-income area, with an average family income of $51,674, and a home ownership rate of 62.8%.According to MLS data, the average sale price of a home as of 2013 was $357,590."
+}, {
+  "entityIndex" : "19_entity11468",
+  "entityUrl" : "http://dbpedia.org/resource/Adelaide/Churchill,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "90.3", "dwelling", "78,438", "south-central", "2009", "subdivision", "suburban", "rate", "neighbourhood", "value", "3,445", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Adelaide/Churchill", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "287,976" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Adelaide/Churchill is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2009, the area is home to 3,445 residents. The neighbourhood is considered a middle-income area, with an average family income of $78,438, an average dwelling value of $287,976 and a home ownership rate of 90.3%.According to MLS data, the average sale price of a home as of 2013 was $350,096."
+}, {
+  "entityIndex" : "20_entity11469",
+  "entityUrl" : "http://dbpedia.org/resource/Avalon,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "Avalon", "dwelling", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "168,444", "value", "area", "$", "middle-income", "%", "65,000", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "77.3", "3,214" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Avalon is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 3,214 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,000, an average dwelling value of $168,444 and a home ownership rate of 77.3%.According to MLS data, the average sale price of a home as of 2013 was $352,359."
+}, {
+  "entityIndex" : "21_entity29615",
+  "entityUrl" : "http://dbpedia.org/resource/Wildwood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "townhouse", "part", "2012", "minority", "primarily", "neighbourhood", "Street", "majority", "sizeable", "live", "area", "7,582", "business", "Saskatoon", "multiple", "dwellings", "includes", "Saskatchewan", "low-density", ",", "8th", "apartment-style", ".", "Wildwood", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "townhouse", "business", "part", "low-density", "minority", "home", "unit", "neighbourhood", "district", "Street", "majority", "southeast" ],
+  "text" : "Wildwood is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. The majority of its residents live in townhouse or apartment-style multiple unit dwellings, with a sizeable minority of low-density, single detached dwellings. As of 2012, the area is home to 7,582 residents. The neighbourhood is considered a middle-income area, with an average family income of $64,196, and a home ownership rate of 64.7%.According to MLS data, the average sale price of a home as of 2013 was $270,309."
+}, {
+  "entityIndex" : "22_entity29621",
+  "entityUrl" : "http://dbpedia.org/resource/Willowgrove,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:grades" : [ "Kindergarten to Grade 8" ]
+  },
+  "words" : [ "income", "average", "Willowgrove", "considered", "fewer", "2011", "dwelling", "primarily", "mainly", "rate", "neighbourhood", "houses", "high-income", "single-family", "multiple-unit", "84.8", "mix", "value", "area", "middle", "$", "%", "Saskatoon", "dwellings", "northeast", "Saskatchewan", ",", "comprises", ".", "home", "detached", "Canada", "96,002", "residential", "ownership", "located", "residents", "family", "218,357", "3,973" ],
+  "adjectives" : [ "average", "residential", "middle", "high-income", "located", "northeast", "single-family", "multiple-unit" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "mix", "value", "home" ],
+  "text" : "Willowgrove is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It comprises a mix of mainly single-family detached houses and fewer multiple-unit dwellings. As of 2011, the area is home to 3,973 residents. The neighbourhood is considered a middle to high-income area, with an average family income of $96,002, an average dwelling value of $218,357 and a home ownership rate of 84.8%.According to MLS data, the average sale price of a home as of 2013 was $456,157."
+} ]

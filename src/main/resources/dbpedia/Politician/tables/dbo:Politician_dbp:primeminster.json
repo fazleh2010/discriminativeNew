@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity7912",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Evans_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminster" : [ "http://dbpedia.org/resource/John_Major" ]
+  },
+  "words" : [ "Cardiff", "2232", "55th", "World", "non-executive", "companies", "UK", "North", "Member", "MP", "dissolution", "Allied", ",", ".", "April", "subsidiary", "Managing", "2", "-RRB-", "FRSA", "Parliament", "June", "became", "Group", "-LRB-", "March", "2010", "2009", "general", "Party", "1950", "Jonathan", "Phoenix", "Syndicate", "30", "election", "Agency", "born", "politician", "manages", "Welsh", "chairman", "also", "Chairman", "2016", "2015", "Evans", "Conservative", "Peter" ],
+  "adjectives" : [ "general", "non-executive", "55th" ],
+  "nouns" : [ "election", "politician", "dissolution", "chairman", "Syndicate", "subsidiary", "Chairman" ],
+  "text" : "Jonathan Peter Evans FRSA (born 2 June 1950) is a Welsh Conservative Party politician and Chairman of the Welsh Conservative Party. He was the Member of Parliament (MP) for Cardiff North from the 2010 general election and the dissolution of the 55th Parliament on 30 March 2015. In April 2015 he became non-executive chairman of Allied World Managing Agency, which manages Allied World Syndicate 2232. He was also non-executive chairman of the UK subsidiary companies of Phoenix Group between 2009 and 2016. After training as a solicitor, he was the Conservative Member of Parliament for Brecon and Radnorshire between 1992 and 1997, and then Member of the European Parliament for Wales between 1999 and 2009.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,24 @@
+id=115  property=dbp:religion  object=Hindu  NumberOfEntitiesFoundForObject=45
+indian-JJ  multiply=0.565993  P(indian|object)=0.911111  P(object|indian)=0.621212    
+sabha-NN  multiply=0.434625  P(sabha|object)=0.644444  P(object|sabha)=0.674419    
+
+id=116  property=dbp:religion  object=Catholic  NumberOfEntitiesFoundForObject=26
+public-JJ  multiply=0.06366  P(public|object)=0.461538  P(object|public)=0.137931    
+district-NN  multiply=0.05808  P(district|object)=0.576923  P(object|district)=0.100671    
+
+id=117  property=dbp:religion  object=Presbyterian  NumberOfEntitiesFoundForObject=22
+electoral-JJ  multiply=0.034091  P(electoral|object)=0.272727  P(object|electoral)=0.125    
+lawyer-NN  multiply=0.020455  P(lawyer|object)=0.136364  P(object|lawyer)=0.15    
+
+id=118  property=dbp:religion  object=Roman Catholic  NumberOfEntitiesFoundForObject=45
+mayor-NN  multiply=0.100347  P(mayor|object)=0.377778  P(object|mayor)=0.265625    
+election-NN  multiply=0.087198  P(election|object)=0.422222  P(object|election)=0.206522    
+
+id=119  property=dbp:religion  object=Baptist  NumberOfEntitiesFoundForObject=20
+state-NN  multiply=0.060504  P(state|object)=0.6  P(object|state)=0.10084    
+town-NN  multiply=0.052083  P(town|object)=0.25  P(object|town)=0.208333    
+
+id=120  property=dbp:religion  object=Christian  NumberOfEntitiesFoundForObject=37
+republican-JJ  multiply=0.14783  P(republican|object)=0.513514  P(object|republican)=0.287879    
+public-JJ  multiply=0.136999  P(public|object)=0.567568  P(object|public)=0.241379    
+

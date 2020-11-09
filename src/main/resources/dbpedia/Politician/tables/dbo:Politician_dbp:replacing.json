@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity11773",
+  "entityUrl" : "http://dbpedia.org/resource/LeAlan_Jones",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:replacing" : [ "http://dbpedia.org/resource/Jesse_Jackson_Jr." ]
+  },
+  "words" : [ "American", "critical", "numerous", "United", "2010", "acclaim", "LeAlan", "Shore", "radio", "States", "Jones", "Party", "documentaries", "nominee", "lives", "Chicago", "South", "received", "Marvin", "'s", ".", "journalist", "Senate", "awards", "Illinois", "Green" ],
+  "adjectives" : [ "American", "critical", "numerous" ],
+  "nouns" : [ "journalist", "nominee", "acclaim", "radio" ],
+  "text" : "LeAlan Marvin Jones is an American journalist who lives in Chicago's South Shore. His radio documentaries have received critical acclaim and numerous awards. Jones was the Green Party's 2010 nominee for United States Senate from Illinois.",
+  "patterns" : { }
+} ]

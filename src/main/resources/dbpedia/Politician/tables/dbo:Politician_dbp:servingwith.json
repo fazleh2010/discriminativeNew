@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity11",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Cavendish,_11th_Duke_of_Devonshire",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:servingwith" : [ "Bernard Braine and John Tilney" ]
+  },
+  "words" : [ "11th", "Buxton", "DL", "Devonshire", "Cavendish", "styled", "Marquess", "later", "Robert", "MC", "Hartington", "January", "Minister", "--", "minister", "Andrew", "Democratic", "House", ",", ".", "Lord", "2", "3", "-RRB-", "1944", "-LRB-", "Prime", "May", "best", "Macmillan", "Party", "government", "1950", "known", "public", "2004", "aunt", "Chatsworth", "KG", "Social", "British", "politician", "Harold", "Duke", "opening", "1920", "PC", "Conservative", "married" ],
+  "adjectives" : [ "British", "11th" ],
+  "nouns" : [ "government", "minister", "public", "Conservative", "politician", "aunt", "DL" ],
+  "text" : "Andrew Robert Buxton Cavendish, 11th Duke of Devonshire, KG, MC, PC, DL (2 January 1920 – 3 May 2004), styled Lord Andrew Cavendish until 1944 and Marquess of Hartington from 1944 to 1950, was a British Conservative and later Social Democratic Party politician. He was a minister in the government of Prime Minister Harold Macmillan (who was married to his aunt), but is best known for opening Chatsworth House to the public.",
+  "patterns" : { }
+} ]

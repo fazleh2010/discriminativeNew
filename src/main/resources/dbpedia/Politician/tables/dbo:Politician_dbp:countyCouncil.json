@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity5094",
+  "entityUrl" : "http://dbpedia.org/resource/Edith_S._Childs",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:countyCouncil" : [ "Greenwood" ]
+  },
+  "words" : [ "``", "American", "Edith", "Fired", "Childs", "county", "President", "Barack", "coining", "''", "!", "Greenwood", "Obama", "politician", "South", "go", "Carolina", ",", ".", "Ready", "council", "served", "campaign", ":", "S.", "slogan", "credited" ],
+  "adjectives" : [ "Ready", "American" ],
+  "nouns" : [ "council", "politician", "county", "campaign", "slogan" ],
+  "text" : "Edith S. Childs is an American politician who served on the Greenwood, South Carolina, county council. President Barack Obama has credited her with coining his campaign slogan: \"Fired up! Ready to go!\"",
+  "patterns" : { }
+} ]

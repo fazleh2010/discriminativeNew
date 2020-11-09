@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity9493",
+  "entityUrl" : "http://dbpedia.org/resource/Jan_ter_Laan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:deceased" : [ "--08-09" ]
+  },
+  "words" : [ "de", "Zuid-Holland", "-LRB-", "politicus", "lid", "hij", "Slochteren", "een", "Rotterdam", "gemeenteraad", "augustus", "1872", "Tweede", "december", "Nederlands", "1956", "ter", "12", "Daarnaast", "van", "Laan", "SDAP", "langdurig", "en", "Kamer", "voor", ",", "Provinciale", "-", ".", "Staten", "Jan", "-RRB-", "9" ],
+  "adjectives" : [ "hij", "een" ],
+  "nouns" : [ "gemeenteraad", "van", "augustus", "politicus", "lid", "langdurig" ],
+  "text" : "Jan ter Laan (Slochteren, 12 december 1872 - Rotterdam, 9 augustus 1956) was een Nederlands politicus en langdurig lid van de Tweede Kamer voor de SDAP. Daarnaast was hij lid van de gemeenteraad van Rotterdam en lid van Provinciale Staten van Zuid-Holland.",
+  "patterns" : { }
+} ]

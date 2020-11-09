@@ -1,0 +1,353 @@
+[ {
+  "entityIndex" : "1_entity25656",
+  "entityUrl" : "http://dbpedia.org/resource/Ridhapata",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "360" ]
+  },
+  "words" : [ "Seti", "Municipality", "Zone", "center", "2,017", "392", ".", "population", "market", "north-western", "Prithvi", "1991", "census", "houses", "Bajhang", "time", "Jaya", "village", "Ridhapata", "District", "Nepal" ],
+  "adjectives" : [ "north-western" ],
+  "nouns" : [ "market", "center", "census", "time", "village", "population" ],
+  "text" : "Ridhapata is a market center in Jaya Prithvi Municipality of Bajhang District in the Seti Zone of north-western Nepal. At the time of the 1991 Nepal census it had a population of 2,017 and had 392 houses in the village."
+}, {
+  "entityIndex" : "2_entity25658",
+  "entityUrl" : "http://dbpedia.org/resource/Rampur_Birta,_Janakpur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "360" ]
+  },
+  "words" : [ "individual", "Village", "Zone", "residing", "households", "Committee", ".", "population", "4,006", "persons", "south-eastern", "Burta", "721", "1991", "census", "Rampur", "Development", "Dhanusa", "time", "District", "Janakpur", "Nepal" ],
+  "adjectives" : [ "south-eastern", "individual" ],
+  "nouns" : [ "census", "time", "population" ],
+  "text" : "Rampur Burta is a Village Development Committee in Dhanusa District in the Janakpur Zone of south-eastern Nepal. At the time of the 1991 Nepal census it had a population of 4,006 persons residing in 721 individual households."
+}, {
+  "entityIndex" : "3_entity25670",
+  "entityUrl" : "http://dbpedia.org/resource/Raba,_Indonesia",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "200" ]
+  },
+  "words" : [ "largest", "capital", "-LRB-", "Sape", "city", "part", "2010", "440,000", "Sumbawa", "Nusa", "Kota", "central", "province", "road", "provincial", "Tenggara", "Though", "Regency", "eastern", "Bima", "island", "West", "Raba", ",", "'s", ".", "population", "connected", "approximately", "-RRB-", ":", "Indonesia" ],
+  "adjectives" : [ "eastern", "central", "provincial" ],
+  "nouns" : [ "capital", "province", "Bima", "city", "road", "island", "part", "population" ],
+  "text" : "Raba (Indonesia: Kota Raba) is a city in the Bima Regency, on the eastern part of the island of Sumbawa, in central Indonesia's province West Nusa Tenggara. Though not the capital (Bima is), it is the largest city on the island of Sumbawa, with a population of approximately 440,000 in 2010. It is connected by provincial road to Bima and Sape."
+}, {
+  "entityIndex" : "4_entity28865",
+  "entityUrl" : "http://dbpedia.org/resource/Villa_Hidalgo,_Durango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "Mexican", "Villa", "Municipality", "town", "serves", "Hidalgo", "2010", ",", ".", "population", "head", "Durango", "614", "state" ],
+  "adjectives" : [ "Mexican" ],
+  "nouns" : [ "head", "town", "state", "population" ],
+  "text" : "Villa Hidalgo is a town in the Mexican state of Durango. It serves as the head town of Hidalgo Municipality. As of 2010, the town had a population of 614."
+}, {
+  "entityIndex" : "5_entity28874",
+  "entityUrl" : "http://dbpedia.org/resource/Villa_Ocampo,_Durango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "Villa", "town", "municipality", "2010", ",", ".", "population", "Ocampo", "seat", "1,076", "Durango", "north-western", "Mexico", "state" ],
+  "adjectives" : [ "north-western" ],
+  "nouns" : [ "seat", "town", "municipality", "state", "population" ],
+  "text" : "Villa Ocampo is a town and seat of the municipality of Ocampo, in the state of Durango, north-western Mexico. As of 2010, the town had a population of 1,076."
+}, {
+  "entityIndex" : "6_entity27240",
+  "entityUrl" : "http://dbpedia.org/resource/Strathcona,_Alberta",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "250" ]
+  },
+  "words" : [ "hunters", "fur", "mostly", "Alberta", "speculators", "Metis", "pioneer", "North", "near", "Québécois", "Orkney", "eastern", "began", "old", "Saskatchewan", "City", "history", ",", "'s", "community", "Strathcona", ".", "Canada", "especially", "Edmonton", "-RRB-", "1880s", "residents", "employees", "-LRB-", "city", "south", "Canadian", "north", "Fort", "mixed", "farmers", "Cree", "across", "self-employed", "River", "land", "offshoot", "side", "British", "hangers-on", "replaced", "recorded", "families", "contractors", "trade", "located", "river", "first", "1870s", "resided" ],
+  "adjectives" : [ "British", "eastern", "south", "self-employed", "Canadian", "old", "north", "located", "mixed", "recorded", "first" ],
+  "nouns" : [ "offshoot", "side", "fur", "trade", "hangers-on", "city", "land", "City", "history", "river", "community", "pioneer" ],
+  "text" : "Strathcona was a city in Alberta, Canada, located on the south side of the North Saskatchewan River across from the City of Edmonton. Strathcona's recorded history began in the 1870s. Its first residents were an offshoot of the hangers-on and self-employed contractors who resided near the old Fort Edmonton on the north side of the river. This mixed community of British (especially Orkney), Québécois, Cree and Metis fur trade employees, pioneer farmers, hunters, and their families, was mostly replaced by eastern Canadian pioneer farmers (and land speculators) in the 1880s. The Calgary and Edmonton Railway arrived in 1891, establishing an urban hamlet centred on what is now Whyte Avenue. The townsite \"Plan I\" was registered September 25, 1891. Businesses, at first located in quickly-built primitive shacks, some made of logs, provided goods and services to a flood of immigrants from eastern Canada, Britain and continental Europe, U.S. and other parts of the world that came by train to the area. It was thought that \"South Edmonton\" would overwhelm \"Old Edmonton\" on the north side but Strathcona's geographic difficulties prevented this. However, Strathcona was in good enough position for businesses near the railway station to prosper. Over the following 20 years the centre's primitive buildings were replaced by more substantial two-storey wood or even brick buildings, many of which exist to this day. On May 29, 1899, Strathcona was incorporated as a town named after Lord Strathcona, Donald A. Smith. Smith was a prominent official in the Hudson's Bay Company and the Canadian Pacific Railway, that operated the Calgary and Edmonton Railway, the community's lifeline. The first mayor of Strathcona was Thomas Bennett. The original boundaries of the town included all the numbered river lots between #9 and #17 south of the river, corresponding to the area from present-day 109 Street in the west to 97 Street in the east and south to University Avenue, a total area of 1,000 acres (400 ha). In 1902, alarmed by fires that swept through many prairie communities at the time, Strathcona's town council passed an ordinance requiring that all buildings be constructed of fire-resistant materials, such as brick. This, along with the limited municipal re-development occurring south of the river after amalgamation, means that Whyte Avenue and the surrounding area has one of the largest stocks of vintage buildings in western Canada. After becoming a city on March 15, 1907, Premier A.C. Rutherford, Strathcona's MLA, established the University of Alberta in the City of Strathcona in 1908, with the purchase of the campus on the west edge of the city. Until the first campus buildings were completed, the University found a home in the Queen Alexandra Public School, still standing on 106 Street, then in the building that is now Old Scona Academic High School. In the 1911 census, Strathcona had a population of 5,579, while Edmonton had a population of 24,900. In anticipation of lower taxes and other benefits of being a larger city, an amalgamation of the two cities was proposed in which Strathcona and Edmonton residents voted 667-96 and 518-178 in favour of the merger respectively. The amalgamation of the two cities went into effect on February 1, 1912, resulting in increased policing and more affordable transit for Strathcona. At the time of the merger, Strathcona's boundaries were the North Saskatchewan River to the west and north, 91 Street to the east, and a combination of 62 Avenue and 68 Avenue to the south, with 111 Street comprising the brief jog between the two avenues. Whitemud Creek comprised the brief portion of the city's west boundary between 68 Avenue and the river. This included land annexed by Strathcona that was not fully developed until after WWII, well after the merger. Today's neighbourhood of Strathcona covers the portion of the former City of Strathcona lying east of 107 Street, north of Whyte Avenue, west of the Mill Creek ravine and south of the North Saskatchewan River valley. Also, the historic commercial core of the former City of Strathcona has been designated as the Old Strathcona Provincial Historic Area."
+}, {
+  "entityIndex" : "7_entity27370",
+  "entityUrl" : "http://dbpedia.org/resource/San_Bernardo,_Durango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "San", "-LRB-", "town", "municipality", "also", "2010", ",", ".", "population", "seat", "Durango", "700", "-RRB-", "Mexico", "state", "Bernardo" ],
+  "adjectives" : [ ],
+  "nouns" : [ "seat", "town", "municipality", "state", "population" ],
+  "text" : "San Bernardo (also, Bernardo) is a town and seat of the municipality of San Bernardo in the state of Durango in Mexico. As of 2010, the town had a population of 700."
+}, {
+  "entityIndex" : "8_entity18471",
+  "entityUrl" : "http://dbpedia.org/resource/Ignacio_Zaragoza,_Chihuahua",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "3,518", "Mexican", "town", "city", "municipality", "2010", ",", "northern", "Chihuahua", "3,190", ".", "population", "seat", "Zaragoza", "2005", "state", "Ignacio" ],
+  "adjectives" : [ "Mexican", "northern" ],
+  "nouns" : [ "seat", "town", "city", "municipality", "state", "population" ],
+  "text" : "Ignacio Zaragoza  is a city and seat of the municipality of Ignacio Zaragoza, in the northern Mexican state of Chihuahua. As of 2010, the town of Ignacio Zaragoza had a population of 3,518, up from 3,190 as of 2005."
+}, {
+  "entityIndex" : "9_entity18478",
+  "entityUrl" : "http://dbpedia.org/resource/Igbere",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "240" ]
+  },
+  "words" : [ "eastern", "commune", "Abia", "State", "village", "Nigeria", "Bende", ".", "Igbere" ],
+  "adjectives" : [ "eastern" ],
+  "nouns" : [ "commune", "village" ],
+  "text" : "Igbere  is a village in the commune of Bende in the Abia State of eastern Nigeria."
+}, {
+  "entityIndex" : "10_entity13212",
+  "entityUrl" : "http://dbpedia.org/resource/Bhotewodar",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "named", "-LRB-", "shelter", "Bhotais", "Bhotewodar", "winter", "goods", "main", "used", "Nepal.It", "Gandaki", "identified", "later", "zone", "lies", "place", "cave", "cities", "one", "sell", ",", "Lamjung", ".", "odhar", "take", "-RRB-", "time", "District", "East", "gateway" ],
+  "adjectives" : [ "main" ],
+  "nouns" : [ "cave", "shelter", "zone", "Bhotewodar", "winter", "place", "time", "Nepal.It", "gateway", "odhar" ],
+  "text" : "Bhotewodar is one of the main cities of Lamjung District. It is identified as the gateway of East Lamjung. It lies in the Gandaki zone, Nepal.It was named as Bhotewodar because there was a cave (odhar) in this place where Bhotais used to take shelter during the winter time and used to sell their goods. So,it was named as Bhotewodar later. It has three government schools and three private boarding schools. Bhakti Namuna Higher Secondary School was established in 2024 B.S. Students can get education up to diploma level herein. It has got all kind of facilities like electricity, transportation, communication, health and so on. The climate is very fine to settle. It lies near the Marsyangdi river. It has Middle Marsyangdi Hydropower House. Newars are the first inhabitants of this place. Later on people from gurung community, Brahmin community chhetri community also have settled here. At the time of the 2001 Nepal census it had a population of 5897."
+}, {
+  "entityIndex" : "11_entity14483",
+  "entityUrl" : "http://dbpedia.org/resource/Codazzi",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "de", "triggered", "Santo", "Espiritu", "municipality", "rapid", "cotton", "del", "Salvador", "Perijá", "mainly", "Department", "later", "agricultural", "proclaimed", "Spanish", "North", "Antioquia", "1859", "1960s", "area", "Colombia", "Arias", "cartographer", "pertaining", ",", "Captain", ".", "population", "Pueblito", "1784", "attracted", "name", "valley", ";", "Italian", "covering", "city", "boom", "El", "searching", "Tolima", "died", "along", "Felix", "Bolivar", "River", "Codazzi", "place", "departments", "1958", "1950s", "Serranía", "Cundinamarca", "Agostino", "Battista", "jobs", "founded", "Giovanni", "Magdalena", "increase", "many", "people", "Agustín", "due", "located", "Huila", "Santander", "Cesar", "renamed" ],
+  "adjectives" : [ "Italian", "agricultural", "due", "rapid", "located", "Spanish", "many" ],
+  "nouns" : [ "area", "city", "cartographer", "boom", "municipality", "name", "cotton", "valley", "place", "increase", "population" ],
+  "text" : "Agustín Codazzi, or Codazzi, is a city and municipality of the Department of Cesar in Colombia. It was founded in 1784 by the Spanish Captain Salvador Felix de Arias with the name of El Pueblito del Espiritu Santo but later renamed after the Italian cartographer, Giovanni Battista Agostino Codazzi, who died in this place in 1859. It is located along the Serranía del Perijá, covering some of the area pertaining to the valley of the Cesar River. In 1958 Codazzi was proclaimed a municipality due to its rapid population increase in the 1950s and 1960s, triggered by an agricultural boom of cotton, that attracted people searching for jobs from many departments of Colombia; mainly from Tolima, Huila, Santander, North Santander, Antioquia, Cundinamarca, Bolivar and Magdalena. When this boom ended, the agroindustry opted for other products like palm, sugar cane, liquors and milk products. In 2005 the municipality of Codazzi had approximately 52,219 inhabitants."
+}, {
+  "entityIndex" : "12_entity14593",
+  "entityUrl" : "http://dbpedia.org/resource/Careysburg,_Liberia",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "200" ]
+  },
+  "words" : [ "Montserrado", "named", "Liberian", "American", "city", "Baptist", "honor", "Lott", "County", "founding", "miles", "act", "key", "1856", "figure", "chartered", "15", "corporation", "founded", "northeast", "Careysburg", ",", "Rev.", ".", "African", "Liberia", "Carey", "Monrovia", "Colony", "located", "missionary", "first", "1923", "legislature" ],
+  "adjectives" : [ "Liberian", "American", "located", "missionary", "first", "key", "African" ],
+  "nouns" : [ "figure", "act", "city", "honor", "corporation", "founding", "legislature" ],
+  "text" : "Careysburg is a city in Montserrado County, Liberia. It was founded in 1856, and is named in honor of Rev. Lott Carey, the first American Baptist missionary to African and a key figure in the founding of the Colony of Liberia. It is located 15 miles northeast of Monrovia. It was chartered as a city corporation in 1923, by an act of the Liberian legislature. Rubber and coffee farming are the major economic activities in the area. It was also the site of a large Voice of America transmitter."
+}, {
+  "entityIndex" : "13_entity14597",
+  "entityUrl" : "http://dbpedia.org/resource/Ciudad_Guadalupe_Victoria",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "Guadalupe", "Municipality", "city", "Victoria", "2010", "Ciudad", ",", ".", "population", "seat", "Durango", "north-western", "Mexico", "state", "16,506" ],
+  "adjectives" : [ "north-western" ],
+  "nouns" : [ "seat", "city", "state", "population" ],
+  "text" : "Ciudad Guadalupe Victoria  is a city and seat of Guadalupe Victoria Municipality, in the state of Durango, north-western Mexico. As of 2010, the city of Guadalupe Victoria had a population of 16,506."
+}, {
+  "entityIndex" : "14_entity14600",
+  "entityUrl" : "http://dbpedia.org/resource/Copala,_Guerrero",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "seat", "city", "Copala", "municipality", "south-western", "Mexico", "Guerrero", "state", ",", "." ],
+  "adjectives" : [ "south-western" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Copala is a city and seat of the municipality of Copala, in the state of Guerrero, south-western Mexico."
+}, {
+  "entityIndex" : "15_entity17284",
+  "entityUrl" : "http://dbpedia.org/resource/Gadai,_Punjab",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "metres", "feet", "numerous", "poli", "boys", "main", "girls", "muhammadia", "sanghi", "high", "province", "khosa", "114", "school", "road", "0E", "colonies", "highway", "different", "jarh", "0N", "town", "hotani", "'", "leghari", "Punjab", ",", ".", "Dera", "charhoye", "°", "1", "muhalla", "council", "Ghazi", "shops", "-RRB-", "District", "machi", "kumhaar", "altitude", "-LRB-", "Gadai", "colony", "muhajir", "Khan", "muhallas", "N", "situated", "377", "national", "70", "Balochistan", "lived", "muhajran.there", "30", "37", "one", "People", "also", "union", "there.famous", "Major", "Pakistan.It", "clans", "located", "school.there", "gateway", "bughlani" ],
+  "adjectives" : [ "high", "Major", "muhalla", "numerous", "national", "located", "main", "different", "there.famous" ],
+  "nouns" : [ "altitude", "town", "colony", "muhajir", "union", "muhammadia", "N", "charhoye", "°", "province", "khosa", "Pakistan.It", "muhalla", "school", "road", "0E", "council", "muhajran.there", "highway", "jarh", "school.there", "gateway", "0N", "kumhaar" ],
+  "text" : "Gadai is a town and union council of Dera Ghazi Khan District in the Punjab province of Pakistan.It is situated on the national highway N 70 which is a gateway between Punjab and Balochistan. People of different clans lived there. Major clans are leghari, bughlani, machi, sanghi, khosa, kumhaar, poli,charhoye, hotani,jarh and muhajir also lived there.famous muhallas and colonies are muhalla bughlani,muhammadia colony,muhalla muhajran.there is one boys high school and one girls high school.there are numerous shops on main road. It is located at 30°1'0N 70°37'0E and has an altitude of 114 metres (377 feet)."
+}, {
+  "entityIndex" : "16_entity16467",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_I._Madero,_Durango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "de", "town", "I.", "city", "4,550", "2010", ",", ".", "population", "seat", "Francisco", "Durango", "north-western", "Madero", "Mexico", "state", "Coronado", "Pánuco" ],
+  "adjectives" : [ "north-western" ],
+  "nouns" : [ "seat", "town", "city", "state", "population" ],
+  "text" : "Francisco I. Madero is a city and seat of the Pánuco de Coronado, in the state of Durango, north-western Mexico. As of 2010, the town of Francisco I. Madero had a population of 4,550."
+}, {
+  "entityIndex" : "17_entity23737",
+  "entityUrl" : "http://dbpedia.org/resource/Ozuluama",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "de", "-LRB-", "September", "city", "Ozuluama", "serves", "municipality", "1910", "Veracruz", "state", "Mascareñas", "surrounding", "given", "Mexican", "Alta", "'s", ".", "Huasteca", "seat", "6", "-RRB-", "located", "municipal", ":", "region", "formally", "status" ],
+  "adjectives" : [ "Mexican", "located", "municipal" ],
+  "nouns" : [ "seat", "city", "Ozuluama", "municipality", "state", "region", "status" ],
+  "text" : "Ozuluama (formally: Ozuluama de Mascareñas)is a city in the Mexican state of Veracruz. It is located in the state's Huasteca Alta region. It serves as the municipal seat for the surrounding municipality of Ozuluama de Mascareñas. It was given city status on 6 September 1910. In the 2005 INEGI Census, the city of Ozuluama reported a total population of 3,439 The name \"Ozuluama\" is Nahuatl in origin. The epithet \"de Mascareñas\" (awarded 20 August 1980) honours Colonel Francisco Esteban Mascareñas, who was born here and fought on the Liberal side in the Reform War."
+}, {
+  "entityIndex" : "18_entity24808",
+  "entityUrl" : "http://dbpedia.org/resource/Progreso,_Coahuila",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "seat", "Mexican", "Coahuila", "city", "Progreso", "north-eastern", "municipality", "state", ",", "." ],
+  "adjectives" : [ "Mexican", "north-eastern" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Progreso is a city and seat of the municipality of Progreso, in the north-eastern Mexican state of Coahuila."
+}, {
+  "entityIndex" : "19_entity24825",
+  "entityUrl" : "http://dbpedia.org/resource/Pothuhera",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "250" ]
+  },
+  "words" : [ "small", "Muslims", "living", "town", "Sinhalese", "also", "Sri", ",", "Kurunegala", "people", ".", "Tamils", "Lanka", "located", "District", "Pothuhera" ],
+  "adjectives" : [ "small", "located" ],
+  "nouns" : [ "town" ],
+  "text" : "Pothuhera is a small town located in Kurunegala District, Sri Lanka. Most of the people are Sinhalese. There are also Muslims and Tamils living there."
+}, {
+  "entityIndex" : "20_entity22422",
+  "entityUrl" : "http://dbpedia.org/resource/Morelos,_Coahuila",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "seat", "Mexican", "Morelos", "Coahuila", "city", "north-eastern", "municipality", "state", ",", "." ],
+  "adjectives" : [ "Mexican", "north-eastern" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Morelos is a city and seat of the municipality of Morelos, in the north-eastern Mexican state of Coahuila."
+}, {
+  "entityIndex" : "21_entity23302",
+  "entityUrl" : "http://dbpedia.org/resource/Nava,_Coahuila",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "seat", "Mexican", "Municipality", "Coahuila", "city", "north-eastern", "Nava", "state", ",", "." ],
+  "adjectives" : [ "Mexican", "north-eastern" ],
+  "nouns" : [ "seat", "city", "state" ],
+  "text" : "Nava is a city and seat of Nava Municipality, in the north-eastern Mexican state of Coahuila."
+}, {
+  "entityIndex" : "22_entity23305",
+  "entityUrl" : "http://dbpedia.org/resource/Naudanda",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "gliding", "away", "beauty", "good", "enjoying", "Gandaki", "world", "northern-central", "para", "Kaski", "arrive", "village", "Nepal", "views", "Thousands", "area", "Naudanda", "km", "natural", "Pokhara", "Zone", "recreation", "5th", "Range", ",", "'s", ".", "way", "Annapurna", "6", "Sarangkot", "spot", "information", "tourists", "District", "annually" ],
+  "adjectives" : [ "northern-central", "natural", "5th", "good" ],
+  "nouns" : [ "area", "km", "world", "para", "beauty", "spot", "recreation", "information", "village", "way" ],
+  "text" : "Naudanda is a village in Kaski District in the Gandaki Zone of northern-central Nepal. There are good views of the Annapurna Range from this area of Pokhara, Nepal. It is on the way to Sarangkot, the world's 5th para gliding spot 6 km away from Pokhara. Thousands of tourists arrive annually here for recreation, information, and enjoying natural beauty."
+}, {
+  "entityIndex" : "23_entity29671",
+  "entityUrl" : "http://dbpedia.org/resource/Xalpatlahuac",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "seat", "city", "municipality", "southwestern", "Xalpatlahuac", "Mexico", "Guerrero", "state", ",", "." ],
+  "adjectives" : [ "southwestern" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Xalpatlahuac  is a city and seat of the municipality of Xalpatlahuac, in the state of Guerrero, southwestern Mexico."
+}, {
+  "entityIndex" : "24_entity20905",
+  "entityUrl" : "http://dbpedia.org/resource/Lamki",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "Kailali", "populated", "Lamki", "place", "District", "Nepal", "." ],
+  "adjectives" : [ "populated" ],
+  "nouns" : [ "place" ],
+  "text" : "Lamki is a populated place in the Kailali District in Nepal."
+}, {
+  "entityIndex" : "25_entity18190",
+  "entityUrl" : "http://dbpedia.org/resource/Hueycantenango",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "de", "Joaquín", "Herrera", "city", "municipality", "south-western", "Guerrero", "Hueycantenango", ",", ".", "seat", "José", "Mexico", "state" ],
+  "adjectives" : [ "south-western" ],
+  "nouns" : [ "seat", "city", "municipality", "state" ],
+  "text" : "Hueycantenango  is a city and seat of the municipality of José Joaquín de Herrera, in the state of Guerrero, south-western Mexico."
+}, {
+  "entityIndex" : "26_entity15446",
+  "entityUrl" : "http://dbpedia.org/resource/Dompu",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "200" ]
+  },
+  "words" : [ "largest", "capital", "-LRB-", "49,854", "Sape", "part", "2010", "Sumbawa", "Nusa", "Kota", "central", "province", "Dompu", "road", "provincial", "Tenggara", "Regency", "eastern", "town", "Bima", "island", "West", ",", "'s", ".", "population", "connected", "Census", "third", "administrative", "-RRB-", "located", ":", "Indonesia" ],
+  "adjectives" : [ "eastern", "central", "third", "administrative", "located", "provincial" ],
+  "nouns" : [ "capital", "town", "province", "Dompu", "road", "island", "part", "population" ],
+  "text" : "Dompu (Indonesia: Kota Dompu) is a town and the administrative capital of the Dompu Regency, located in the eastern part of the island of Sumbawa, in central Indonesia's province of West Nusa Tenggara. It is the third largest town on the island of Sumbawa, with a population of 49,854 at the 2010 Census. It is connected by provincial road to Bima and Sape."
+}, {
+  "entityIndex" : "27_entity28236",
+  "entityUrl" : "http://dbpedia.org/resource/Tandi",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "eastern", "side", "Municipality", "Chitwan", "city", "Ratnanagar", "district", "lies", "Tandi", "District", "Nepal", "." ],
+  "adjectives" : [ "eastern" ],
+  "nouns" : [ "side", "Municipality", "city", "district" ],
+  "text" : "Tandi is a city in the Ratnanagar Municipality of the Chitwan District in Nepal. It lies on the eastern side of Chitwan district."
+}, {
+  "entityIndex" : "28_entity28365",
+  "entityUrl" : "http://dbpedia.org/resource/Taliwang",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "200" ]
+  },
+  "words" : [ "Regency", "largest", "capital", "-LRB-", "cost", "Taliwang", "town", "city", "44,136", "West", "island", "2010", ",", "Sumbawa", ".", "population", "Kota", "Census", "-RRB-", "fifth", ":", "western", "Indonesia" ],
+  "adjectives" : [ "fifth", "western" ],
+  "nouns" : [ "capital", "cost", "Taliwang", "town", "city", "island", "population" ],
+  "text" : "Taliwang (Indonesia: Kota Taliwang) is the capital city of the West Sumbawa Regency, on the western cost of the island of Sumbawa. It is the fifth largest town on the island of Sumbawa, with a population of 44,136 at the 2010 Census."
+}, {
+  "entityIndex" : "29_entity29632",
+  "entityUrl" : "http://dbpedia.org/resource/Wagan_City",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "240" ]
+  },
+  "words" : [ "-LRB-", "city", "28", "nowadays", "renowned", "beautiful", "Pakistan", "Wagan", "Larkana", "km", "Nadeem", "town", "Shahdadkot", "Indus", "Highway", "وڳڻ", "City", "Activist", ".", "home", "Sindhi", "Qamber", "Civil", "Imdad", "district", "-RRB-", "located", ":", "Society", "present", "District", "شھر", "Sindh", "Ali" ],
+  "adjectives" : [ "beautiful", "Civil", "located", "present" ],
+  "nouns" : [ "km", "town", "city", "district", "home" ],
+  "text" : "Wagan City (Sindhi: وڳڻ شھر‎) is a beautiful city of Larkana District in Sindh and home town of Nadeem Imdad Ali Wagan renowned Civil Society Activist of Pakistan. It is located on the Indus Highway 28 km from Larkana nowadays it is present in Qamber Shahdadkot district City."
+}, {
+  "entityIndex" : "30_entity19836",
+  "entityUrl" : "http://dbpedia.org/resource/Kuchlak",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "however", "largest", "-LRB-", "peaches", "Kuchlagh", "Chiltan", "soil", "summer", "Pakistan", "problem", "province", "Number", "known", "fruits", "Town", "halaqas", "Balochistan", "aridity", "near", "town", "one", "union", ",", ".", "home", "council", "-RRB-", "Quetta", "Halaqa", "Kuchlak", "well", "61", ";", "apples", "governed" ],
+  "adjectives" : [ ],
+  "nouns" : [ "problem", "town", "province", "council", "aridity", "soil", "union", "summer", "home" ],
+  "text" : "Kuchlak (or Kuchlagh) is a town near Quetta, in the province of Balochistan, Pakistan. It is governed by a union council in Chiltan Town, Quetta. Kuchlak is home to Halaqa Number 61, one of the largest halaqas in Quetta. Kuchlak is well known for summer fruits such as apples and peaches; however, soil aridity is a problem. Vegetables grown in the valley include tomatoes, potatoes, onions and turnips."
+}, {
+  "entityIndex" : "31_entity19840",
+  "entityUrl" : "http://dbpedia.org/resource/Kusunti",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "336" ]
+  },
+  "words" : [ "small", "reason", "behind", "-LRB-", "city", "snakes", "monument", "dreamt", "local", "getting", "Kusunti", "excavation", "believed", "sub-metropolitan", "Nepal", "flow", "live", "area", "period", "large", "holy", "one", "populated", "heavily", "people", "कुसुन्ती", ".", "Lord", "Lalitpur", "earth", "-RRB-", "located", "short", "residents", "time", "Shiva", "taking", "care" ],
+  "adjectives" : [ "small", "large", "holy", "located", "populated", "short", "sub-metropolitan", "live", "local" ],
+  "nouns" : [ "area", "reason", "period", "city", "excavation", "earth", "time", "monument", "Shiva", "flow", "care" ],
+  "text" : "Kusunti (कुसुन्ती) is located in Lalitpur sub-metropolitan city of Nepal. The area is small and is getting heavily populated in a short period of time. The reason behind this flow of people is the excavation of a large monument of Lord Shiva with live snakes taking care of this holy area. It is believed that one of the local residents dreamt of the monument being under the earth. Moreover, she told the locals about the order of God to unearth the monument the very next day. This was found to be true and afterwards there occurred a flow of Hindus from all over the country to pay their homage to Lord Shiva. Now there is a beautiful temple sheltering the statue of Lord Shiva and is famous as Pancheswor Mahadev (पञ्चेश्वर महादेव) throughout the area and around the country."
+}, {
+  "entityIndex" : "32_entity19860",
+  "entityUrl" : "http://dbpedia.org/resource/Khairpur_Tamiwali",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:pushpinMapsize" : [ "300" ]
+  },
+  "words" : [ "capital", "Khairpur", "Pakistan", "city", "Tehsil", "Tamewali", "Punjab", ",", "Bahawalpur", "District", "." ],
+  "adjectives" : [ ],
+  "nouns" : [ "capital", "city" ],
+  "text" : "Khairpur Tamewali is a city and the capital of Khairpur Tamewali Tehsil, Bahawalpur District, Punjab, Pakistan."
+} ]

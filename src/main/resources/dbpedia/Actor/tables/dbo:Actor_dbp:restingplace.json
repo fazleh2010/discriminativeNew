@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity11135",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Warriss",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:restingplace" : [ "Streatham Park Cemetery, London" ]
+  },
+  "words" : [ "bed", "insurance", "née", "mother", "1930", "son", "Street", "different", "January", "52", "sister", "--", "14", "1909", "comedy", "wife", "Benjamin", ",", "'s", ".", "Joseph", "-RRB-", "Sheffield", "cousins", "Ann", "-LRB-", "brought", "May", "29", "Driver", "two", "comedian", "times", "known", "Andover", "1993", "company", "Jimmy", "Warriss", "Mary", "Jewel", "Holden", "born", "Ben", "inspector", "cousin", "performed", "actor", "English", "stage", "fellow", "household", "Allegedly", "first" ],
+  "adjectives" : [ "English", "fellow", "different", "first" ],
+  "nouns" : [ "bed", "insurance", "comedy", "wife", "Driver", "inspector", "née", "cousin", "comedian", "actor", "mother", "son", "stage", "household", "company", "sister", "Warriss" ],
+  "text" : "Ben Holden Driver Warriss (29 May 1909 – 14 January 1993), known as Ben Warriss, was an English comedian and the first cousin of fellow comedy actor Jimmy Jewel. Allegedly the two cousins were born in the same bed (at different times) and brought up in the same household at 52 Andover Street, Sheffield. He was the son of Benjamin Holden Joseph Warriss, an insurance company inspector, and his wife, Mary Ann, née Driver, Jewel's mother's sister. He first performed on the stage in 1930. Jimmy Jewel and Ben Warriss came together as professionals in 1934 at the Palace Theatre, Newcastle. Their double act achieved seven Royal Variety Performances, 12 Blackpool summer seasons, a successful radio series (Up the Pole) and a film of the series. Around 1966, the two went their separate ways, with Warriss performing on stage and Jewel moving into television. In the 1970s Warriss was the resident compere at the Cala Gran club in Fleetwood, Lancashire. In 1988 he played the Emperor of China in the first of the newly reopened Hackney Empire pantomimes, Aladdin. He was still performing in pantomime in his eighties. The character Parker from the 1960s TV series of Thunderbirds is said to have been based upon Warriss' appearance. His first wife, whom he married on 22 September 1934, was Grace Mary Skinner (b. 1910-11), a dancer and teacher of dancing and daughter of Henry Arthur James Skinner, master mariner. This marriage had ended by about 1940 and two years later Warriss married the entertainer Meggie Easton. His third marriage, which took place about 1960, was to Virginia Vernon. He died in 1993 at Brinsworth House, Staines Road, Twickenham, and is buried in the same section of Streatham Park Cemetery, London, as comedian Will Hay."
+}, {
+  "entityIndex" : "2_entity12756",
+  "entityUrl" : "http://dbpedia.org/resource/John_Cheng",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:restingplace" : [ "Singapore" ]
+  },
+  "words" : [ "22", "-LRB-", "Singaporean", "entertainment", "Yao", "Getai", "Ah", "roles", "John", "screen", "notable", "media", "gangster", "compere", "debut", "Enough", "Money", "known", "Cheng", "criminal", "January", "performances", "Po", "--", "Movie", "figure", "made", "one", "also", ".", "actor", "1961", "various", "2013", "-RRB-", "Nan", ":", "Nam", ";", "circle", "Yeow", "Liang", "credited", "Zhong" ],
+  "adjectives" : [ "Singaporean", "various", "notable", "criminal" ],
+  "nouns" : [ "actor", "debut", "Movie", "figure", "entertainment", "Getai", "Ah", "screen", "Nan", "circle", "gangster", "compere" ],
+  "text" : "John Cheng Yeow Nam (also credited as Zhong Yao Nan; known in entertainment circle as Ah Nan or Ah Nam) (1961 – 22 January 2013) was a Singaporean actor and Getai compere who made his screen debut in Money No Enough and was most notable for his criminal figure roles in various media. Liang Po Po: The Movie was one of his most notable performances of a gangster figure."
+} ]

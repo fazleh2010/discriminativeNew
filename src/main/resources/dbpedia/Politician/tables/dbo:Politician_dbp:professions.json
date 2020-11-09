@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity8786",
+  "entityUrl" : "http://dbpedia.org/resource/Josie_Muscat",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:professions" : [ "Doctor" ]
+  },
+  "words" : [ "qualified", "leader", "09", "Nationalist", "Josie", "Azzjoni", "seats", "contested", "decided", "July", "--", "MP", "months", "failed", ",", "elections", "former", ".", "1943", "seat", "-RRB-", "resign", "party", "co-founder", "Muscat", "-LRB-", "independent", "Leader", "two", "local", "Nazzjonali", "general", "2008", "2007", "2006", "Party", "Maltese", "member", "councillor", "win", "31", "resigned", "born", "politician", "persuaded", "medicine", "stay", "doctor", "Marsascala", "1966", "87" ],
+  "adjectives" : [ "qualified", "general", "independent", "Maltese", "Nationalist", "former", "local" ],
+  "nouns" : [ "doctor", "seat", "leader", "MP", "politician", "member", "medicine", "councillor", "party", "co-founder" ],
+  "text" : "Josie Muscat (born 31 July 1943 ) is a Maltese politician, a former Nationalist MP (1966–87), an independent local councillor in Marsascala (2006–09) and co-founder of Azzjoni Nazzjonali (AN)  (2007). He is a qualified doctor of medicine. After the general elections of 2008, Josie Muscat decided to resign as leader of Azzjoni Nazzjonali after he and his party failed to win any seats. Just two months after he resigned, he was persuaded to stay on as Party Leader because no other party member contested his seat. Muscat was, therefore, confirmed leader. In 2012, he argued that men who beat women generally did so “as a reaction to provocation” He is not to be confused with namesake Prime Minister of Malta and Malta Labour Party Leader Joseph Muscat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity6929",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Vassallo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:professions" : [ "Lawyer and Journalist" ]
+  },
+  "words" : [ "-LRB-", "till", "Law", "political", "Prof.", "Malta", "1998", "2008", "Cassola", "Maltese", "thesis", "Alternative", "laws", "Harry", "Democratic", "studied", "born", "Chaiperson", ",", "Enrico", ".", "Arnold", "doctor", "University", "1982", "Insurance", "graduated", "Vassallo", "-RRB-", "Green", "party", "succeeded" ],
+  "adjectives" : [ "Maltese", "Democratic", "political" ],
+  "nouns" : [ "doctor", "thesis", "Chaiperson", "party" ],
+  "text" : "Harry Vassallo (born Enrico Vassallo) was the Chaiperson of the Maltese Green political party, Democratic Alternative from 1998 till 2008. He was succeeded by Prof. Arnold Cassola. Vassallo studied at the University of Malta from where he graduated as doctor of laws in 1982 with a thesis on Insurance Law.",
+  "patterns" : { }
+} ]

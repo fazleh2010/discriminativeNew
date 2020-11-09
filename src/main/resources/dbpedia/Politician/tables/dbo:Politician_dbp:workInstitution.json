@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity17365",
+  "entityUrl" : "http://dbpedia.org/resource/Salim_Ansari",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:workInstitution" : [ "http://dbpedia.org/resource/Bahujan_Samaj_Party" ]
+  },
+  "words" : [ "leader", "Faiz-e-Aam", "Textile", "सालिम", "Inter", "Ministry", "Darul-Hadees", "Consultative", "parliament", "Manager", "Muslim", "Sabha", "Undertakings", "post", "school", "graduation", "B.A", "Pradesh", "Technology", "Laws", "Urdu/Persian", "Hindi", "state", "Member", "BSP", "ii", "Executive", "Islamia", ",", "Student", "'s", ".", "India", "senior", "1985", "Asaria", "-RRB-", "College", "Bill", "मद", "General", ":", ";", "سالم", "انصاری", "Railways.Mohammad", "Parliament", "since", "Mau", "-LRB-", "Secretary", "Corporate", "Committee", "Information", "D.C.S.K.P.G.", "Union", "Jamia", "1992", "Minority", "member", "अंसारी", "Salim", "Body", "M.A", "hometown", "Uttar", "मोहम्", "comments", "Affairs", "born", "also", "Haj", "Rajya", "2014", "Standing", "Ansari", "schooling", "board" ],
+  "adjectives" : [ "senior", "Muslim" ],
+  "nouns" : [ "leader", "M.A", "hometown", "parliament", "post", "school", "graduation", "B.A", "member", "अंसारी", "state", "schooling", "board" ],
+  "text" : "Salim Ansari ((Urdu/Persian: سالم انصاری))Hindi मोहम्‍मद सालिम अंसारी; born in Mau, India) is a senior BSP leader and member of parliament in Rajya Sabha. He did his schooling from his hometown in state board school and graduation (B.A) and post graduation (M.A) from D.C.S.K.P.G. College, Mau. Salim Ansari was also General Secretary, Student Union, D.C.S.K.P.G. College, Mau (Uttar Pradesh), 1985; Manager, Muslim Inter College, Mau since 1992; Member, (i) Executive Body, Jamia Islamia Faiz-e-Aam and (ii) Jamia Asaria Darul-Hadees. He is also member of Haj Committee of India, Standing Committee of Information Technology, Consultative Committee of the Ministry of Minority Affairs, Corporate Affairs and for the Ministry of Railways.Mohammad Salim Ansari’s comments on The Textile Undertakings Laws Bill, 2014 in the Parliament.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity1544",
+  "entityUrl" : "http://dbpedia.org/resource/Atul_Kumar_Anjan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:workInstitution" : [ "http://dbpedia.org/resource/Communist_Party_of_India" ]
+  },
+  "words" : [ "communist", "leader", "till", "fought", "northern", "1976", "Communist", "Sabha", "post", "1972", "school", "graduation", "lost", "state", "1980s", "still", "remained", "Lok", "AK", "history", ",", ".", "communists", "India", "senior", "candidates", "fielded", "University", "1983", "Atul", "-RRB-", "ground", "L.L.B", "onwards", "since", "Lucknow", "Kumar", "-LRB-", "respectively", "1998", "general", "times", "candidate", "secretary", "Party", "known", "national", "sending", "1990s", "Anjaan", "early", "election", "born", "also", "many", "unsuccessfully", "constituency", "2014", "Runaway", "CPI", "schooling", "Ghosi", "stronghold", "board", "1967" ],
+  "adjectives" : [ "senior", "communist", "general", "national", "many", "northern", "Ghosi", "early" ],
+  "nouns" : [ "leader", "election", "Lok", "history", "Sabha", "candidate", "secretary", "post", "constituency", "school", "graduation", "ground", "state", "L.L.B", "schooling", "Ghosi", "stronghold", "board" ],
+  "text" : "Atul Kumar Anjaan (also known as AK Runaway born in Lucknow, India) is a senior CPI leader and national secretary of the Communist Party of India. He did his schooling from Lucknow in state board school and graduation, post graduation and then L.L.B also from Lucknow University in 1967, 1972, 1976 and 1983 respectively. Ghosi (Lok Sabha constituency) has the history of sending Communist Party of India (CPI) candidates for many times and remained a stronghold of communists in northern India till early 1980s but 1990s onwards communist lost its ground from there but still CPI fielded Atul Kumar as a CPI candidate from Ghosi in the general election, 2014 and he fought unsuccessfully Lok Sabha election since 1998 from Ghosi.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity18236",
+  "entityUrl" : "http://dbpedia.org/resource/Haret_ech_Cheikh",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbo:minimumElevation" : [ "0.0" ]
+  },
+  "words" : [ "-LRB-", "Bouchriyeh", "municipality", "Mount", "Governorate", "also", "Haret-Ech-Cheikh", "Matn", "ech", "Haret", ",", ".", "Lebanon", "-RRB-", "Cheikh", "near", "District" ],
+  "adjectives" : [ "Haret-Ech-Cheikh" ],
+  "nouns" : [ "municipality" ],
+  "text" : "Haret ech Cheikh (also Haret-Ech-Cheikh), is a municipality in the Matn District in the Mount Lebanon Governorate near Bouchriyeh."
+}, {
+  "entityIndex" : "2_entity29798",
+  "entityUrl" : "http://dbpedia.org/resource/Yarze",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbo:minimumElevation" : [ "600.0" ]
+  },
+  "words" : [ "Monument", "-LRB-", "Ministry", "city", "Beirut", "Arabic", "1995", "Lebanese", "Peace", "Baabda", "village", "designed", "Military", "Arman", "famous", "Yarze", "includes", "also", "يرزة", ".", "Defense", "Lebanon", "headquarters", "gifted", "-RRB-", "located", "Museum", ":", "District", "facility", "southeast", "Hope" ],
+  "adjectives" : [ "famous", "Lebanese", "gifted", "located", "Military" ],
+  "nouns" : [ "headquarters", "city", "Museum", "village", "facility", "southeast" ],
+  "text" : "Yarze (Arabic: يرزة‎‎) is a village in Baabda District southeast of Beirut in Lebanon. The headquarters of the Lebanese Ministry of Defense is located in Yarze. This facility includes the Lebanese Military Museum. The city also has the famous The Hope for Peace Monument designed and gifted to Lebanon in 1995 by Arman."
+} ]

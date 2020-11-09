@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity19300",
+  "entityUrl" : "http://dbpedia.org/resource/Wassila_Hachchi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndYear" : [ "2016" ]
+  },
+  "words" : [ "66", "Nederlandse", "de", "Van", "-LRB-", "januari", "D66", "lid", "2010", "Hachchi", "een", "Rotterdam", "Democraten", "Tweede", "tot", "Wassila", "politieke", "met", "van", "ex-politica", "17", "en", "Kamer", "ze", "voor", ",", ".", "2016", "6", "1980", "juni", "-RRB-", "20", "partij" ],
+  "adjectives" : [ "een" ],
+  "nouns" : [ "van", "januari", "D66", "ex-politica", "lid", "tot", "ze" ],
+  "text" : "Wassila Hachchi (Rotterdam, 6 januari 1980) is een Nederlandse ex-politica. Van 17 juni 2010 tot en met 20 januari 2016 was ze voor de politieke partij Democraten 66 (D66) lid van de Tweede Kamer.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity16124",
+  "entityUrl" : "http://dbpedia.org/resource/Raghunath_Singh_Bahadur",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndYear" : [ "1982" ]
+  },
+  "words" : [ "``", "-LRB-", "independent", "28", "Sabha", "candidate", "Raghunath", "Singh", "Member", "1957", "November", "''", "Bahadur", "Jaisalmer", "born", "Lok", "Barmer", ",", "Rajasthan", ".", "Maharawal", "elected", "constituency", "1929", "-RRB-", "Parliament" ],
+  "adjectives" : [ "independent" ],
+  "nouns" : [ "candidate", "constituency", "Maharawal" ],
+  "text" : "Raghunath Singh Bahadur (born November 28, 1929) was a \"Maharawal of Jaisalmer\" and Lok Sabha in Member of Parliament elected independent candidate 1957 for Barmer constituency Rajasthan.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity16577",
+  "entityUrl" : "http://dbpedia.org/resource/S._S._Chandran",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndYear" : [ "2010" ]
+  },
+  "words" : [ "Nadu", "Munnetra", "-LRB-", "upper", "2010", "died", "house", "எஸ்", "October", "Sabha", "Chandran", "Dravida", "Member", "Anna", "comedy", "politician", "representing", "சந்திரன்", ",", "Tamil", ".", "India", "actor", "Rajya", "-RRB-", "9", "producer", "Indian", ":", "S.", ";", "belonged", "Kazhagam", "party", "Parliament" ],
+  "adjectives" : [ "upper" ],
+  "nouns" : [ "actor", "comedy", "politician", "சந்திரன்", "producer", "house", "party", "எஸ்" ],
+  "text" : "S. S. Chandran (Tamil: எஸ். எஸ். சந்திரன்; died October 9, 2010) was a comedy actor, producer and politician from Tamil Nadu, India. He belonged to the All India Anna Dravida Munnetra Kazhagam party and was a Member of the Parliament representing Tamil Nadu in the Rajya Sabha, the upper house of the Indian Parliament.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity13173",
+  "entityUrl" : "http://dbpedia.org/resource/Maulana_Abdur_Rahman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndYear" : [ "1962" ]
+  },
+  "words" : [ "Maulana", "Congress", "Abdur", "-LRB-", "&", "2nd", "Lok", "political", "March", "office", ".", "April", "Sabha", "1962", "Rahman", "constituency", "Kashmir", "member", "-RRB-", "represented", "1957", "Jammu", "party" ],
+  "adjectives" : [ "2nd", "political" ],
+  "nouns" : [ "constituency", "member", "office", "party" ],
+  "text" : "Maulana Abdur Rahman was member of the 2nd Lok Sabha. He represented the Jammu constituency of Jammu & Kashmir and was a member of the Congress (I) political party. He was in office from April 1957 to March 1962.",
+  "patterns" : { }
+} ]

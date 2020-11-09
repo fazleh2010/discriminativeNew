@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity15433",
+  "entityUrl" : "http://dbpedia.org/resource/Rick_Orman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:almaMatter" : [ "http://dbpedia.org/resource/Eastern_Washington_University", "http://dbpedia.org/resource/University_of_Calgary" ]
+  },
+  "words" : [ "``", "June", "-LRB-", "Alberta", "Canadian", "Washington", "1971", "1993", "Richard", "member", "Rick", "honours", "businessman", "Assembly", "''", "generation", "Calgary", "studied", "born", "politician", "D.", ",", "former", ".", "Albertan", "1986", "graduating", "University", "served", "-RRB-", "Orman", "9", "Legislative", "Eastern", "1948", "fourth" ],
+  "adjectives" : [ "Canadian", "Legislative", "fourth", "former" ],
+  "nouns" : [ "generation", "politician", "member", "businessman", "Assembly" ],
+  "text" : "Richard D. \"Rick\" Orman (born June 9, 1948) is a businessman and former Canadian politician. Orman was born in Calgary, Alberta in 1948 as a fourth generation Albertan. He studied at the University of Calgary before graduating with honours from Eastern Washington University in 1971. Orman served as a member of the Legislative Assembly of Alberta from 1986 to 1993. Since 1993, he has been active within the business community, both provincially and internationally. Orman first became a member of the Canadian Association of Petroleum Landmen in 1972 and has provided provincial and federal political commentary on the Canadian Broadcast Corporation (CBC) and the CKUA Radio Network since 1994.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity5813",
+  "entityUrl" : "http://dbpedia.org/resource/Gary_Mar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:almaMatter" : [ "http://dbpedia.org/resource/University_of_Calgary", "http://dbpedia.org/resource/University_of_Alberta" ]
+  },
+  "words" : [ "Hong", "career", "strategic", "held", "payout", "led", "years", "QC", "December", "diplomatic", "province", "Development", "July", "Kong", "Mǎ", "14", "$", "contract", "signed", "Relations", ",", "'s", "former", ".", "Beijing", "traditional", "Taiwan", "served", ":", ";", "20", "Mar", "June", "-LRB-", "26", "Canada.Gary", "Intergovernmental", "Glen", "October", "government", "Seoul", "1993", "came", "postings", "30", "oversaw", "Jiànwēi", "Shanghai", "Cabinet", "born", "amid", "Conservative", "Chinese", "Legislative", "Alberta", "administration", "offices", "several", "official", "Wellness", "post", "Tokyo", "prior", "Education", "provincial", "criticism", "five", "sector", "representative", "Member", "Assembly", "--", "馬健威", "outreach", "Province", "appointed", "Progressive", "efforts", "pinyin", "simplified", "-RRB-", "Environment", "Canadian", "part", "2011", "2007", "expired", "public", "end", "International", "Gary", "马健威", "Health", "politician", "portfolios", "1962", "Asia", "2015", "140,000", "Representative", "Community" ],
+  "adjectives" : [ "traditional", "diplomatic", "strategic", "public", "Canadian", "several", "provincial", "Legislative", "former" ],
+  "nouns" : [ "Mǎ", "Jiànwēi", "career", "outreach", "administration", "politician", "contract", "part", "payout", "official", "pinyin", "government", "province", "post", "Education", "Environment", "end", "criticism", "sector", "representative", "Assembly" ],
+  "text" : "Gary Glen Mar QC, (simplified Chinese: 马健威; traditional Chinese: 馬健威; pinyin: Mǎ Jiànwēi; born July 26, 1962) is a former Canadian politician in Alberta, Canada.Gary Mar was appointed as the Province of Alberta’s Representative in Asia on October 14, 2011. He led the province’s strategic outreach efforts from his post in Hong Kong, from where he oversaw the province’s five other Asia offices in Beijing, Shanghai, Tokyo, Seoul and Taiwan. After more than 20 years as an Alberta politician and government official, Gary Mar’s public sector career came to an end on June 30, 2015, when his contract as Alberta’s representative in Asia expired, amid criticism of the former provincial Progressive Conservative administration’s payout of $140,000 as part of a contract it signed with Mar in December 2011. Mar had served as a Member of the Legislative Assembly of Alberta from 1993 to 2007 and prior to his diplomatic postings held several Cabinet portfolios – Community Development; Health and Wellness; Education; Environment; and International and Intergovernmental Relations. On December 3, 2007, he was appointed the Official Representative for Alberta in Washington, D.C., and worked in the Canadian Embassy with the official title of Minister-Counsellor of the Province of Alberta to the United States. In March 2011, he resigned his post in order to seek the leadership of the Progressive Conservative Association of Alberta in its 2011 leadership election which he ultimately lost.",
+  "patterns" : { }
+} ]

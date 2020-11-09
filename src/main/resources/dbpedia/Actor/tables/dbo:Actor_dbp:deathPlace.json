@@ -1,0 +1,903 @@
+[ {
+  "entityIndex" : "1_entity14403",
+  "entityUrl" : "http://dbpedia.org/resource/Roman_Tam",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ "``", "Tam", "Hong", "-LRB-", "Law", "singer", "renowned", "October", "known", "2002", "nickname", "February", "Kong", "Godfather", "--", "''", "12", "Lo", "18", "蘿記", "Roman", "Kee", ",", "羅文", ".", "Cantopop", "stage", "regarded", "name", "-RRB-", "Man", "1945" ],
+  "adjectives" : [ "renowned" ],
+  "nouns" : [ "Law", "stage", "singer", "name", "nickname", "蘿記", "Kee" ],
+  "text" : "Roman Tam, known by the stage name Lo Man (羅文), nickname Law Kee (蘿記), (12 February 1945 – 18 October 2002) was a renowned Hong Kong Cantopop singer. He is regarded as the \"Godfather of Cantopop\"."
+}, {
+  "entityIndex" : "2_entity14419",
+  "entityUrl" : "http://dbpedia.org/resource/Ricky_Hui",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ "Hong", "-LRB-", "brothers", "several", "2011", "許冠英", "Michael", "Koon-ying", "Hui", "Kong", "1980s", "November", "1970s", "--", "star", "made", "comedy", "film", ",", "Ricky", ".", "August", "3", "8", "-RRB-", "blockbusters", "Chinese", ":", "1946", "Sam" ],
+  "adjectives" : [ "several", "Koon-ying" ],
+  "nouns" : [ "star", "comedy", "film" ],
+  "text" : "Ricky Hui Koon-ying (August 3, 1946 – November 8, 2011) (Chinese: 許冠英) was a Hong Kong film star. He and his brothers, Michael and Sam, made several comedy blockbusters in the 1970s and 1980s."
+}, {
+  "entityIndex" : "3_entity14482",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Cowley",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London" ]
+  },
+  "words" : [ "-LRB-", "minor", "production", "roles", "seven", "Burbage", "died", "Edward", "theatre", "King", "Admiral", "Alleyn", "Deadly", "Strange", "Richard", "1619", "Sins", "included", "--", "Shakespeare", "1593", "also", "c.", "1591", ",", "William", "Chamberlain", "'s", "Seven", "colleague", "performed", ".", "actor", "Renaissance", "English", "Lord", "toured", "acted", "future", "Men", "-RRB-", "personnel", "Cowley" ],
+  "adjectives" : [ "minor", "future", "Deadly" ],
+  "nouns" : [ "actor", "theatre", "production", "Admiral", "Men", "c.", "colleague" ],
+  "text" : "Richard Cowley (died 1619) was an actor in English Renaissance theatre, a colleague of William Shakespeare and Richard Burbage in the Lord Chamberlain's Men and the King's Men. Cowley was in the c. 1591 production of The Seven Deadly Sins, performed by personnel from the Admiral's Men and Lord Strange's Men — a production that included Richard Burbage and other future King's Men. Cowley acted seven minor roles in that production. He also toured with some of the same personnel under Edward Alleyn in 1593. He is thought to have been an original shareholder in the Lord Chamberlain's Men when they re-formed in 1594; but little is known about his career, except for the fact that he played Verges in Much Ado About Nothing, along with William Kempe as Dogberry. For some reason he is not in the cast lists on the three Ben Jonson plays acted by the company in 1598–1603; but he is still one of the sharers when the company is chartered as the King's Men in 1603, and he receives a bequest in the 1605 will of Augustine Phillips. He is known to have married and had four children; two died young. His wife Elizabeth was buried on 28 September 1616 and his own burial followed on 12 March 1619. His will was witnessed by Cuthbert Burbage, John Heminges, Thomas Ravenscroft, and John Shank."
+}, {
+  "entityIndex" : "4_entity14558",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Chiao",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Seattle,_Washington" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "5_entity12487",
+  "entityUrl" : "http://dbpedia.org/resource/Ingrid_Luterkort",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Sweden" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "6_entity14312",
+  "entityUrl" : "http://dbpedia.org/resource/Pauline_Chan_Bo-Lin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Shanghai" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "7_entity14313",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Chung",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "8_entity12048",
+  "entityUrl" : "http://dbpedia.org/resource/George_Relph",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London, England" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "9_entity14700",
+  "entityUrl" : "http://dbpedia.org/resource/Sun_Daolin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Shanghai, China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "10_entity14740",
+  "entityUrl" : "http://dbpedia.org/resource/Sam_Bernard",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Aboard ship on Atlantic Ocean" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "11_entity14911",
+  "entityUrl" : "http://dbpedia.org/resource/Stacia_Napierkowska",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Paris, France" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "12_entity14917",
+  "entityUrl" : "http://dbpedia.org/resource/Soh_Hang-suen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "13_entity14929",
+  "entityUrl" : "http://dbpedia.org/resource/Sun_Ma_Sze_Tsang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "14_entity14940",
+  "entityUrl" : "http://dbpedia.org/resource/Shi_Hui_(actor)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Shanghai", "http://dbpedia.org/resource/People's_Republic_of_China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "15_entity14978",
+  "entityUrl" : "http://dbpedia.org/resource/Sybil_Grove",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Unknown" ]
+  },
+  "words" : [ "trained", "RADA", "debut", "October", "hair", "known", "tall", "Wingrove", "''", "actress", "born", "'", "1891", "Marian", "also", "Teddington", ",", "brown", "Grove", ".", "English", "4", "stage", "Sybil", "5", "Middlesex", "8", "Westmacott", "1927", "reddish" ],
+  "adjectives" : [ "English", "reddish", "tall", "brown" ],
+  "nouns" : [ "debut", "actress", "hair", "stage" ],
+  "text" : "Sybil Grove was an English actress. She was born Sybil Marian Westmacott on 4 October 1891 in Teddington, Middlesex, and was also known as Sybil Wingrove. She had reddish brown hair and was 5' 8\" tall. She trained at RADA and her stage debut was in 1927. She had seven years in the UK in straight plays, revues and musical comedies then seven years directing and playing in her own stock company in the Orient. She also worked in the United States."
+}, {
+  "entityIndex" : "16_entity15031",
+  "entityUrl" : "http://dbpedia.org/resource/Song_Wenfei",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Guangzhou, China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "17_entity15032",
+  "entityUrl" : "http://dbpedia.org/resource/Sita_Chan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "18_entity15041",
+  "entityUrl" : "http://dbpedia.org/resource/Suzanne_Dalbert",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "France" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "19_entity15208",
+  "entityUrl" : "http://dbpedia.org/resource/Tang_Pik-wan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "20_entity15225",
+  "entityUrl" : "http://dbpedia.org/resource/Tien_Feng",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "21_entity15238",
+  "entityUrl" : "http://dbpedia.org/resource/Tina_Leung",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "22_entity15280",
+  "entityUrl" : "http://dbpedia.org/resource/Tiffany_Leong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Kuala Lumpur, Malaysia" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "23_entity13050",
+  "entityUrl" : "http://dbpedia.org/resource/Kwan_Tak-hing",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/British_Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "24_entity13191",
+  "entityUrl" : "http://dbpedia.org/resource/Kwan_Hoi-san",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "25_entity13264",
+  "entityUrl" : "http://dbpedia.org/resource/Kong_Ngai",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "26_entity11055",
+  "entityUrl" : "http://dbpedia.org/resource/Bruce_Lee",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/British_Hong_Kong", "http://dbpedia.org/resource/Kowloon_Tong" ]
+  },
+  "words" : [ "Hong", "opera", "considered", "professionally", "1973", "son", "July", "Kong", "Cantonese", "--", "20th", "widely", ",", ".", "filmmaker", "1940", "martial", "Hoi-Chuen", "name", "-RRB-", ":", ";", "20", "-LRB-", "American", "27", "artist", "influential", "icon", "media", "pop", "known", "artists", "commentators", "November", "art", "Kune", "philosopher", "star", "founder", "one", "Jeet", "Lee", "Bruce", "actor", "critics", "Jun-fan", "century", "culture", "李振藩", "Chinese", "time", "family" ],
+  "adjectives" : [ "known", "martial", "influential", "20th", "Chinese", "Cantonese" ],
+  "nouns" : [ "art", "philosopher", "opera", "star", "artist", "founder", "icon", "filmmaker", "actor", "pop", "Jun-fan", "century", "son", "martial", "culture", "name", "Chinese", "time", "family" ],
+  "text" : "(This is a Chinese name; the family name is Lee.) Lee Jun-fan (Chinese: 李振藩; November 27, 1940 – July 20, 1973), known professionally as Bruce Lee, was a Hong Kong and American actor, martial artist, philosopher, filmmaker, and founder of the martial art Jeet Kune Do. Lee was the son of Cantonese opera star Lee Hoi-Chuen. He is widely considered by commentators, critics, media, and other martial artists to be one of the most influential martial artists of all time, and a pop culture icon of the 20th century. He is often credited with helping to change the way Asians were presented in American films. Lee was born in Chinatown, San Francisco on November 27, 1940 to parents from Hong Kong and was raised in Kowloon, Hong Kong with his family until his late teens. He was introduced to the film industry by his father and appeared in several films as a child actor. Lee moved to the United States at the age of 18 to receive his higher education, at the University of Washington, at Seattle and it was during this time that he began teaching martial arts. His Hong Kong and Hollywood-produced films elevated the traditional Hong Kong martial arts film to a new level of popularity and acclaim, sparking a surge of interest in Chinese martial arts in the West in the 1970s. The direction and tone of his films changed and influenced martial arts and martial arts films in the US, Hong Kong and the rest of the world. He is noted for his roles in five feature-length films: Lo Wei's The Big Boss (1971) and Fist of Fury (1972); Golden Harvest's Way of the Dragon (1972), directed and written by Lee; Golden Harvest and Warner Brothers' Enter the Dragon (1973) and The Game of Death (1978), both directed by Robert Clouse. Lee became an iconic figure known throughout the world, particularly among the Chinese, as he portrayed Chinese nationalism in his films. He trained in the art of Wing Chun and later combined his other influences from various sources, in the spirit of his personal martial arts philosophy, which he dubbed Jeet Kune Do (The Way of the Intercepting Fist). Lee held dual nationality of Hong Kong and the US. He died in Kowloon Tong on July 20, 1973 at the age of 32."
+}, {
+  "entityIndex" : "27_entity11066",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Yung",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ "Hong", "career", "-LRB-", "May", "26", "翁美玲", "died", "result", "1959", "Kong", "early", "1980s", "Yung", "--", "actress", "14", "suicide", "peak", ",", ".", "1985", "Barbara", "7", "-RRB-", "Chinese", ":", "Mei-ling", "age" ],
+  "adjectives" : [ "early" ],
+  "nouns" : [ "result", "actress", "career", "suicide", "Chinese", "Mei-ling", "peak", "age" ],
+  "text" : "Barbara Yung Mei-ling (Chinese: 翁美玲, 7 May 1959 – 14 May 1985) was a Hong Kong actress during the early 1980s. She died as a result of a suicide at the age of 26 while at the peak of her career."
+}, {
+  "entityIndex" : "28_entity11106",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_New",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London, England" ]
+  },
+  "words" : [ "New", "smaller", "Company", "Ronnie", "Plumtree", "character", "appeared", "earlier", "Vera", "scullery", "maid", "Yarns", "--", "actress", "M'Lord", "!", "Ripping", "Army", "including", "programmes", "comedy", "Barker", ",", "'s", "Emu", ".", "Sea", "-RRB-", "David", "parts", "9", "playing", "Mabel", "?", "24", "-LRB-", "role", "May", "roles", "2010", "known", "previously", "sitcom", "Broadcasting", "sitcoms", "Beeching", "British", "silent", "Dad", "television", "Following", "also", "Croft", "Doctor", "many", "played", "Rang", "English", "Barbara", "well", "Oh", "Z-Cars", "Hi-de-Hi", "1923" ],
+  "adjectives" : [ "English", "British", "silent", "many" ],
+  "nouns" : [ "actress", "M'Lord", "character", "role", "television", "comedy", "sitcom", "scullery", "maid", "Sea" ],
+  "text" : "Barbara New (9 May 1923 – 24 May 2010) was an English character actress, well known for playing Mabel the scullery maid in the David Croft sitcom You Rang M'Lord?. Following this role, she appeared as Vera Plumtree in Oh, Doctor Beeching!. She had previously played smaller parts in Croft's earlier sitcoms Dad's Army and Hi-de-Hi!. She also played many other roles in British television programmes including Z-Cars, Emu's Broadcasting Company, Ripping Yarns and the silent Ronnie Barker comedy By the Sea. One of her last screen appearances was as Ali G's Nan in the 2002 film Ali G Indahouse. She was married to actor Michael Barrington."
+}, {
+  "entityIndex" : "29_entity11108",
+  "entityUrl" : "http://dbpedia.org/resource/Beatrice_Hsu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Taichung", "http://dbpedia.org/resource/Republic_of_China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "30_entity11123",
+  "entityUrl" : "http://dbpedia.org/resource/Bai_Guang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Kuala_Lumpur", "http://dbpedia.org/resource/Malaysia" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "31_entity11149",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Wong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "32_entity11160",
+  "entityUrl" : "http://dbpedia.org/resource/Bak_Man-biu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Manhattan", "http://dbpedia.org/resource/New_York_(state)" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "33_entity15388",
+  "entityUrl" : "http://dbpedia.org/resource/Wu_Ma",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ "Hong", "49", "screen", "Tianjin", "Story", "Kong", "--", "period", "director", "made", "Taoist", "history", ",", ".", "240", "plus", "fifty-year", "1942", "4", "Ma", "-RRB-", "name", "producer", "22", "-LRB-", "September", "Fung", "best", "Republic", "debut", "appearances", "ghosthunter", "known", "credits", "China", "Wang-yuen", "directorial", "February", "Cinema", "within", "born", "one", "familiar", "better", "actor", "1963", "stage", "2014", "Ghost", "Chinese", "writer", "faces", "Wu" ],
+  "adjectives" : [ "Chinese", "directorial", "Taoist", "familiar", "fifty-year" ],
+  "nouns" : [ "actor", "debut", "period", "ghosthunter", "stage", "director", "Ghost", "name", "producer", "screen", "writer", "history" ],
+  "text" : "Fung Wang-yuen (22 September 1942 – 4 February 2014), better known by his stage name Wu Ma, was a Hong Kong actor, director, producer and writer born in Tianjin, Republic of China. Wu Ma made his screen debut in 1963, and with over 240 appearances to his name (plus 49 directorial credits within a fifty-year period), he was one of the most familiar faces in the history of Hong Kong Cinema and best known as the Taoist ghosthunter in A Chinese Ghost Story."
+}, {
+  "entityIndex" : "34_entity15408",
+  "entityUrl" : "http://dbpedia.org/resource/Wu_Yingyin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/California", "http://dbpedia.org/resource/Los_Angeles" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "35_entity15418",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_Tin-lam",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "36_entity15320",
+  "entityUrl" : "http://dbpedia.org/resource/Umewaka_Minoru_I",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Tokyo, Japan" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "37_entity15681",
+  "entityUrl" : "http://dbpedia.org/resource/Zhou_Xuan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Shanghai" ]
+  },
+  "words" : [ "22", "``", "1940s", "career", "-LRB-", "September", "singer", "movie", "iconic", "concurrent", "seven", "best", "Chow", "1953", "appeared", "known", "China", "1918", "1957", "Zhou", "Golden", "--", "''", "actress", "films", "Xuan", "singing", "romanized", "one", "nicknamed", "also", "film", "stars", ",", "'s", "recorded", "great", ".", "August", "1", "200", "songs", "-RRB-", "Chinese", "Hsuan", "40", "Voice", "become" ],
+  "adjectives" : [ "iconic", "concurrent", "Chinese", "great" ],
+  "nouns" : [ "actress", "career", "singer", "singing", "movie", "film" ],
+  "text" : "Zhou Xuan (August 1, 1918 – September 22, 1957), also romanized as Chow Hsuan, was an iconic Chinese singer and film actress. By the 1940s, she had become one of China's seven great singing stars. She was the best known of the seven, nicknamed the \"Golden Voice\", and had a concurrent movie career until 1953. She recorded more than 200 songs and appeared in over 40 films in her career."
+}, {
+  "entityIndex" : "38_entity15683",
+  "entityUrl" : "http://dbpedia.org/resource/Zena_Marshall",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London, England" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "39_entity15709",
+  "entityUrl" : "http://dbpedia.org/resource/Zhao_Lirong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Beijing" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "40_entity15714",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Ruifang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Shanghai" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "41_entity15344",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_O'Keefe",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Merseyside, England, UK" ]
+  },
+  "words" : [ "BBC", "-LRB-", "role", "27", "miniseries", "March", "best", "docudrama", "known", "O'Keefe", "Letty", "--", "actress", "Victoria", "television", "18", "1990", "also", "played", "Jane", "April", ".", "Threads", "English", "1984", "1983", "series", "-RRB-", "name", "1969", "first", "Nanny" ],
+  "adjectives" : [ "English", "first" ],
+  "nouns" : [ "actress", "role", "television", "series", "name", "docudrama" ],
+  "text" : "Victoria O'Keefe (27 March 1969 – 18 April 1990) was an English actress. Her first role was in the 1983 television series Nanny. She also played Letty in the 1984 miniseries of the same name. She is best known for her role as Jane in the 1984 BBC docudrama Threads. Her last television appearance was as Tracey in the 15-minute short,Positively Negative, in 1990."
+}, {
+  "entityIndex" : "42_entity13284",
+  "entityUrl" : "http://dbpedia.org/resource/Leslie_Cheung",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Central,_Hong_Kong" ]
+  },
+  "words" : [ "``", "Artist", "Hong", "career", "Kwok-wing", "Popular", "numerous", "considered", "Male", "music", "Best", "Kong", "1980s", "--", "12", "Gold", "including", "film", ",", ".", "April", "1", "Cantopop", "name", "-RRB-", "producer", ";", "Leslie", "Jade", "1989", "1988", "fathers", "-LRB-", "September", "singer", "icon", "Solid", "founding", "pop", "receiving", "Cheung", "2003", "1956", "successful", "''", "hugely", "one", "combining", "teen", "actor", "Awards", "awards", "Music", "heartthrob", "Chinese", "rose", "family", "Ten", "prominence" ],
+  "adjectives" : [ "numerous", "Chinese", "teen", "successful" ],
+  "nouns" : [ "career", "Kwok-wing", "singer", "icon", "film", "founding", "actor", "pop", "music", "name", "heartthrob", "producer", "family", "prominence" ],
+  "text" : "(This is a Chinese name; the family name is Cheung.) Leslie Cheung Kwok-wing (12 September 1956 – 1 April 2003) was a Hong Kong singer, actor and film producer. He is considered \"one of the founding fathers of Cantopop\" by \"combining a hugely successful film and music career.\" He rose to prominence as a teen heartthrob and pop icon of Hong Kong in the 1980s, receiving numerous music awards including both Most Popular Male Artist Awards at the 1988 and 1989 Jade Solid Gold Best Ten Music Awards. In 1989, Cheung announced his retirement from the music industry as a pop singer. Returning to the music scene after a five-year hiatus, Cheung released his chart-topping comeback album Most Beloved (寵愛) which achieved a huge market success. In 1999, he won the Golden Needle Award for his outstanding achievement as a musician at the RTHK Top 10 Gold Songs Awards, and his 1984 hit song Monica was voted as Hong Kong's \"Song of the Century\". He was honoured as \"Asia's Biggest Superstar\" at the 2000 CCTV-MTV Music Honours. Cheung won the 1991 Hong Kong Film Award (Days of Being Wild) and the 1994 Hong Kong Film Critics Society Award (Ashes of Time) for best actor. He had also won the 1994 Japan Film Critics Society Award for best actor for his performance in Farewell My Concubine and ten other best actor nominations, five Golden Horse Awards, three Cannes Film Festival Awards, a Asia Pacific Film Festival Award, and a Venice Film Festival Award. Cheung's music and movies not only captured fans in Hong Kong but also other Asian areas including Taiwan, Singapore, Malaysia, China, Japan and South Korea. He is the first foreign artist to hold 16 concerts in Japan that has yet to be broken and the record holder as the best-selling C-pop artist in Korea. Cheung was ranked as the favourite actor in the 100 years of Chinese cinema. In 2010, he was voted the third \"Most Iconic Musicians of All Time\" (after Michael Jackson and The Beatles). CNN considered Cheung as the \"Most Beautiful Man from Hong Kong Cinema\" and one of \"Asia's 25 Greatest Actors of All Time.\" Cheung committed suicide on April 1, 2003 by jumping off the 24th floor of the Mandarin Oriental hotel in Hong Kong. A suicide note left by Cheung stated that he had been suffering from depression."
+}, {
+  "entityIndex" : "43_entity13296",
+  "entityUrl" : "http://dbpedia.org/resource/Lam_Ching-ying",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "44_entity13302",
+  "entityUrl" : "http://dbpedia.org/resource/Lau_Kar-leung",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "45_entity13304",
+  "entityUrl" : "http://dbpedia.org/resource/Lo_Lieh",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Shenzhen", "http://dbpedia.org/resource/Guangdong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "46_entity13314",
+  "entityUrl" : "http://dbpedia.org/resource/Louise_Plowright",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "UK" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "47_entity13365",
+  "entityUrl" : "http://dbpedia.org/resource/Lung_Fong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Xi'an, Shaanxi, China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "48_entity13401",
+  "entityUrl" : "http://dbpedia.org/resource/Lydia_Shum",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "49_entity13410",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Lili",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Beijing, China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "50_entity13416",
+  "entityUrl" : "http://dbpedia.org/resource/Langhorn_Burton",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London, England" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "51_entity13466",
+  "entityUrl" : "http://dbpedia.org/resource/Leo_Britt",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London, England" ]
+  },
+  "words" : [ "-LRB-", "27", "year", "March", "M", "scene", "Court", "later", "Basil", "1979", "--", "British", "Jester", "alongside", "1908", "storyteller", "Hitchcock", "film", "'s", "Murder", ",", "played", "Britt", ".", "actor", "Dial", "Rathbone", "Leo", "-RRB-", "Alfred", "party" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "actor", "Jester", "year", "storyteller", "film", "Murder", "M", "party", "scene" ],
+  "text" : "Leo Britt (27 March 1908 – 1979) was a British actor. In Alfred Hitchcock's Dial M for Murder, he played the storyteller at a party. A year later he played alongside Basil Rathbone in a scene in the film The Court Jester."
+}, {
+  "entityIndex" : "52_entity13468",
+  "entityUrl" : "http://dbpedia.org/resource/Lesley_Fitz-Simons",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Glasgow" ]
+  },
+  "words" : [ "Take", "Sheila", "Fitz-Simons", "cast", "Lesley", "STV", "school", "Dunbartonshire", "January", "1978", "--", "actress", "Academy", "'s", ",", ".", "-RRB-", "Miss", "cancelled", "playing", "Brodie", "East", "21", "Kilsyth", "23", "-LRB-", "role", "Prime", "September", "26", "best", "local", "Scottish", "known", "2003", "Ramsay", "programme", "early", "teenager", "High", "Road", "television", "joined", "born", "Jean", "played", "educated", "1961", "series", "2013", "comprehensive", "age" ],
+  "adjectives" : [ "High", "Scottish", "comprehensive", "local", "early" ],
+  "nouns" : [ "actress", "cast", "role", "school", "television", "series", "programme", "age", "teenager" ],
+  "text" : "Lesley Fitz-Simons (23 September 1961 – 26 January 2013) was a Scottish actress best known for playing the role of Sheila Ramsay in STV's Take the High Road. She was born in East Dunbartonshire in 1961 and educated at Kilsyth Academy, the local comprehensive school. She had an early role as a teenager in the television series The Prime of Miss Jean Brodie in 1978. At the age of 21 she joined the cast of Take the High Road and played the role of Sheila Ramsay until the programme was cancelled in 2003. She was diagnosed with breast cancer in 2009 and died in hospital in Glasgow on 26 January 2013, aged 51."
+}, {
+  "entityIndex" : "53_entity12294",
+  "entityUrl" : "http://dbpedia.org/resource/Hou_Yaowen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Beijing, China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "54_entity12309",
+  "entityUrl" : "http://dbpedia.org/resource/Huang_Wenyong",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Singapore General Hospital, Singapore" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "55_entity12366",
+  "entityUrl" : "http://dbpedia.org/resource/Hu_Die",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Vancouver, Canada" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "56_entity12420",
+  "entityUrl" : "http://dbpedia.org/resource/Hou_Baolin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Beijing, China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "57_entity12439",
+  "entityUrl" : "http://dbpedia.org/resource/Hung_Sin-nui",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Guangzhou" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "58_entity10642",
+  "entityUrl" : "http://dbpedia.org/resource/Anita_Mui",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong_Sanatorium_&_Hospital", "http://dbpedia.org/resource/Hong_Kong", "http://dbpedia.org/resource/Happy_Valley,_Hong_Kong" ]
+  },
+  "words" : [ "Hong", "career", "-LRB-", "Fong", "singer", "numerous", "idol", "years", "scene", "receiving", "October", "December", "contributions", "music", "major", "2003", "throughout", "honours", "30", "Kong", "10", "diva", "Mui", "--", "prime", "actress", "made", "remained", ",", ".", "Anita", "generally", "Cantopop", "1963", "regarded", "awards", "name", "-RRB-", "Chinese", ";", "family", "Yim" ],
+  "adjectives" : [ "prime", "major", "numerous", "Chinese" ],
+  "nouns" : [ "Mui", "actress", "career", "music", "singer", "name", "idol", "family", "scene", "diva" ],
+  "text" : "(This is a Chinese name; the family name is Mui.) Anita Mui Yim Fong (10 October 1963 – 30 December 2003) was a Hong Kong singer and actress. During her prime years, Mui made major contributions to the Cantopop music scene while receiving numerous awards and honours. She remained an idol throughout most of her career, and was generally regarded as a Cantopop diva. Mui once held a sold-out concert in Hammersmith, London, England, where she was dubbed the \"Madonna of Asia (東方麥當娜)\", which brought her to further international fame. That title stayed with her throughout her career, and has been used as a comparison for both Eastern and Western media. In the 1980s, the gangtai style of music was revolutionised by Mui's wild dancing and on-stage femininity. She was famed for her outrageous costumes and high-power performances in combination with contralto vocals, which are rare in female artists. Her fan base reached far beyond Hong Kong into many parts of Asia, including Taiwan, mainland China, Singapore and Malaysia, and other countries as well. In the Hong Kong entertainment industry, where stars often rise and fall quickly, Mui remained in the spotlight for 21 years (1982–2003). Her career came to a halt abruptly in 2003 when she announced that she had cervical cancer. She died later that year at the age of 40. Mui's continuing commemoration by the Hong Kong entertainment industry was due not only to her music and film legacies, but also her involvement in charity and humanitarian work."
+}, {
+  "entityIndex" : "59_entity10672",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Fu_Sheng",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "60_entity10794",
+  "entityUrl" : "http://dbpedia.org/resource/Alain_Cuny",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Paris, France" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "61_entity10808",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Tang",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong", "http://dbpedia.org/resource/Ho_Man_Tin", "http://dbpedia.org/resource/Kowloon" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "62_entity10942",
+  "entityUrl" : "http://dbpedia.org/resource/Ambrosine_Phillpotts",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London, England, UK" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "63_entity11354",
+  "entityUrl" : "http://dbpedia.org/resource/Chen_Xiaoxu",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Shenzhen", "http://dbpedia.org/resource/Guangdong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "64_entity11376",
+  "entityUrl" : "http://dbpedia.org/resource/Chan_Shen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ "Taiwanese", "prolific", "Hong", "-LRB-", "villains", "26", "year", "roles", "March", "best", "industry", "Already", "Chan", "known", "would", "1971", "action", "cinema", "ten", "Kong", "1970s", "11", "established", "films", "particularly", "gangsters", "born", "often", "film", "entered", ",", "many", "-", "April", ".", "actor", "appear", "1940", "1984", "Taiwan", "-RRB-", "Shen" ],
+  "adjectives" : [ "Taiwanese", "established", "prolific", "many" ],
+  "nouns" : [ "actor", "year", "action", "industry", "film", "cinema" ],
+  "text" : "Chan Shen (11 March 1940 - 26 April 1984) was a Taiwanese born Hong Kong film actor. He is best known for his roles as gangsters or villains in Hong Kong action cinema in the 1970s. Already an established film actor in Taiwan, he entered the Hong Kong film industry in 1971. He was a particularly prolific actor and would often appear in as many as ten films a year. In his fourteen-year film career in Hong Kong, he appeared in 160 action films. Much of his career was spent at Hong Kong's Shaw Studio."
+}, {
+  "entityIndex" : "65_entity11385",
+  "entityUrl" : "http://dbpedia.org/resource/Cheng_Gwan-min",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/British_Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "66_entity11401",
+  "entityUrl" : "http://dbpedia.org/resource/Chan_Hung-lit",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "67_entity11516",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_Casadesus",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "France" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "68_entity11531",
+  "entityUrl" : "http://dbpedia.org/resource/Danny_Chan",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Queen_Mary_Hospital_(Hong_Kong)", "http://dbpedia.org/resource/Pok_Fu_Lam", "http://dbpedia.org/resource/British_Hong_Kong" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "69_entity11607",
+  "entityUrl" : "http://dbpedia.org/resource/Dudley_Foster",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London, England" ]
+  },
+  "words" : [ "TV", "-LRB-", "Dudley", "wealthy", "father", "notable", "autobiography", "Littlewood", "1973", "later", "Book", "Yorkshire", "member", "Brighouse", "Workshop", "1960s", "January", "--", "recalled", "West", "born", ",", "'s", "ground-breaking", ".", "August", "financed", "actor", "English", "Riding", "Joan", "Foster", "troupe", "7", "Theatre", "8", "-RRB-", "productions", "1924" ],
+  "adjectives" : [ "English", "wealthy", "notable", "ground-breaking" ],
+  "nouns" : [ "actor", "TV", "troupe", "father", "member", "autobiography" ],
+  "text" : "Dudley Foster (7 August 1924 – 8 January 1973) was an English actor most notable on TV. Foster was born in Brighouse, West Riding of Yorkshire. In the 1960s he was a member of Joan Littlewood's ground-breaking Theatre Workshop. In her autobiography Joan's Book Littlewood later recalled that Foster had a wealthy father who financed some of the troupe's productions. On television he appeared in such series as Danger Man, The Saint, The Avengers - notably in \"The Hour That Never Was\" (1965), \"Something Nasty in The Nursery\" (1967) and \"Wish You Were Here\" (1969 – playing a perfect mannered yet sinister hotel manager in a parody of the TV series The Prisoner), Randall and Hopkirk (Deceased) - in \"All Work and No Pay\" (1969) as villain \"George Foster\",The Persuaders ! (1971 in the episode \"Anyone Can Play\", in which he played the spy network paymaster Heather), Steptoe and Son (four episodes; playing the oily 'card shark' in \"Full House\", the supercilious Labour Party rep in \"My Old Man's A Tory\", the pained Police Inspector in \"Robbery with Violence\", and uncredited as the car salesman in \"The Colour Problem\") and Doctor Who (The Space Pirates), often in villainous roles. In Z-Cars in the early 1960s he played a police detective, Inspector. (later Superintendent) Dunn. He was also in the BBC serial of Francis Durbridge, 'Bat Out of Hell', playing a formidable Police Inspector, and starred opposite John Bird in the 1970 office comedy series If It Moves File It. Foster also had earlier made educational films for use in schools playing gas engineers, etc. He occasionally appeared in films. He was notable for his sharp facial features, his long pointed nose and curiously piercing eyes. His early death was the result of suicide by hanging. In 1965 he appeared in the films The Little Ones as Superintendent Carter alongside Derek Newark and in A Study in Terror as Home Secretary Henry Matthews. In 1974 he played Jonathan in Mistress Pamela. He also participated in a 30-minute documentary titled Two in a Tiger. This film follows his training as he learns to fly a De Havilland Tiger Moth. In 1970 he provided the voice-over for an edition of the BBC documentary series Chronicle: \"The Great Iron Ship\", about the salvage and return from the Falkland Islands of the Isambard Kingdom Brunel ship SS Great Britain. Dudley Foster died in London. He left a widow, the actress Eileen Kennally; they had married in 1952."
+}, {
+  "entityIndex" : "70_entity13517",
+  "entityUrl" : "http://dbpedia.org/resource/Ma_Sanli",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Tianjin, China" ]
+  },
+  "words" : [ "``", "Sanli", "-LRB-", "马三立", "馬三立", "لِ", "，", "comedian", "2003", "1914", "ﻣَﺎ", "February", "Xiao'erjing", "--", "11", "''", "Mǎ", "Sānlì", ",", ".", "traditional", "pinyin", "Ma", "simplified", "crosstalk", "صً", "-RRB-", "Xiangsheng", "Chinese", ":", "style", ";" ],
+  "adjectives" : [ "traditional", "Chinese" ],
+  "nouns" : [ "comedian", "Mǎ", "pinyin", "crosstalk", "Sānlì", "Xiangsheng", "style", "لِ" ],
+  "text" : "Ma Sanli (Xiao'erjing: ﻣَﺎ صً لِ ， simplified Chinese: 马三立; traditional Chinese: 馬三立; pinyin: Mǎ Sānlì; 1914 – February 11, 2003) was a Chinese comedian in the traditional Xiangsheng or \"crosstalk\" style."
+}, {
+  "entityIndex" : "71_entity13554",
+  "entityUrl" : "http://dbpedia.org/resource/Marie_Ault",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "London, England" ]
+  },
+  "words" : [ "Cleopatra", "Caesar", "England", "bit", "Bunting", "mother", "remembered", "1939", "Story", "Fog", "--", "actress", "Lancashire", "films", "Hitchcock", ",", "'s", ".", "Marie", "2", "-RRB-", "London", "parts", "9", "Daisy", ":", "Alfred", "Jamaica", "1945", "Ault", "-LRB-", "role", "September", "May", "Inn", "died", "1951", "era", "1870", "Wigan", "British", "silent", "directed", "star", "Lodger", "also", "many", "Born", "1927" ],
+  "adjectives" : [ "British", "silent", "remembered", "many" ],
+  "nouns" : [ "actress", "mother", "role", "star", "era", "bit", "Fog" ],
+  "text" : "Marie Ault (2 September 1870 – 9 May 1951) was a British actress. Born at Wigan, Lancashire, she was a star in many British films of the silent era but is most remembered for her role as Daisy Bunting's mother in The Lodger: A Story of the London Fog (1927) directed by Alfred Hitchcock. She also had bit parts in films such as Jamaica Inn (1939) and Caesar and Cleopatra (1945). She died in London, England on 9 May 1951."
+}, {
+  "entityIndex" : "72_entity13591",
+  "entityUrl" : "http://dbpedia.org/resource/Madeleine_Milhaud",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Paris, France" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "73_entity13657",
+  "entityUrl" : "http://dbpedia.org/resource/Michel_Galabru",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Paris, France" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "74_entity12546",
+  "entityUrl" : "http://dbpedia.org/resource/James_Wong_(lyricist)",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Hong Kong" ]
+  },
+  "words" : [ "``", "Hong", "lyricist", "Gu", "Wong", "1960s", "Kong", "--", "based", "Uncle", "16", "Gaa-fai", ",", "collaborating", ".", "Cantopop", "1941", "Beginning", "Joseph", "name", "-RRB-", ":", ";", "黃霑", "become", "24", "-LRB-", "March", "primarily", "known", "2004", "genre", "theme", "songwriter", "popular", "November", "''", "2,000", "James", "classics", "television", "also", "Koo", "many", "Jim", "songs", "aka", "Chinese", "family" ],
+  "adjectives" : [ "Chinese", "many", "popular" ],
+  "nouns" : [ "lyricist", "television", "name", "genre", "theme", "family", "songwriter" ],
+  "text" : "(This is a Chinese name; the family name is Wong.) James Wong (Chinese: 黃霑, Wong Jim; 16 March 1941 – 24 November 2004, also known as \"Uncle Jim\") was a Cantopop lyricist and songwriter based primarily in Hong Kong. Beginning from the 1960s, he was the lyricist for over 2,000 songs, collaborating with songwriter Joseph Koo (aka. Gu Gaa-fai) on many popular television theme songs, many of which have become classics of the genre. His work propelled Cantopop to unprecedented popularity. He was also a well known in Asia as a columnist, actor, film director, screenwriter, and talk show hosts. He took part in creative directing positions within the entertainment industry in Hong Kong. Wong died on 24 November 2004 of lung cancer after a four-year battle at the age of 64."
+}, {
+  "entityIndex" : "75_entity12715",
+  "entityUrl" : "http://dbpedia.org/resource/Jia_Hongsheng",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Beijing" ]
+  },
+  "words" : [ "``", "becoming", "backed", "Morning", "moved", "developed", "retirement", "youth", "years", "movies", "theatre", "late", "Jilin", "賈宏聲", "North", "July", "Woman", "1980s", "Weekend", "--", "image", "praised", "heroin", "like", "made", "wife", "19", "However", ",", ".", "Beijing", "Silver", "traditional", "Generation", "pinyin", "simplified", "5", "among", "-RRB-", ":", "try", ";", "1988", "became", "-LRB-", "Lover", "away", "Hóngshēng", "roles", "directors", "father", "March", "2010", "eventually", "Shaanxi", "two", "Jiǎ", "local", "Case", "head", "rebellious", "1995", "known", "along", "1993", "1991", "1990s", "retired", "performances", "popular", "Hongsheng", "early", "limelight", "''", "贾宏声", "Jia", "addicted", "Snake", "cannabis", "artistic", "actor", "critics", "help", "Sixth", "Chinese", "Good", "1967", "age" ],
+  "adjectives" : [ "rebellious", "traditional", "late", "Chinese", "artistic", "Good", "popular", "early", "local" ],
+  "nouns" : [ "image", "heroin", "Hóngshēng", "wife", "Morning", "father", "cannabis", "retirement", "Jiǎ", "youth", "Case", "actor", "head", "theatre", "Silver", "pinyin", "age", "limelight" ],
+  "text" : "Jia Hongsheng (simplified Chinese: 贾宏声; traditional Chinese: 賈宏聲; pinyin: Jiǎ Hóngshēng; 19 March 1967 – 5 July 2010) was a Chinese actor who became known in the late 1980s and early 1990s for roles in movies like The Case of the Silver Snake (1988), Good Morning, Beijing (1991), A Woman from North Shaanxi (1993) and Weekend Lover (1995). His performances were praised by critics and he developed a rebellious image that made him popular among artistic youth and the \"Sixth Generation\" of Chinese directors. However, he backed away from the limelight in 1995 after becoming addicted to cannabis and eventually heroin. His father, head of the local theatre in Jilin, retired two years before his retirement age, and along with his wife moved to Beijing to try to help Jia. He made a comeback in 2000, starring in the celebrated Suzhou River. The following year he starred in the film he is best known for to Western audiences, the autobiographical Quitting. It depicts his battle with addiction and his family trying to help him sober up, with all of the cast members being real people playing themselves."
+}, {
+  "entityIndex" : "76_entity12739",
+  "entityUrl" : "http://dbpedia.org/resource/Jimmy_Nah",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Singapore" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "77_entity12756",
+  "entityUrl" : "http://dbpedia.org/resource/John_Cheng",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Singapore" ]
+  },
+  "words" : [ "22", "-LRB-", "Singaporean", "entertainment", "Yao", "Getai", "Ah", "roles", "John", "screen", "notable", "media", "gangster", "compere", "debut", "Enough", "Money", "known", "Cheng", "criminal", "January", "performances", "Po", "--", "Movie", "figure", "made", "one", "also", ".", "actor", "1961", "various", "2013", "-RRB-", "Nan", ":", "Nam", ";", "circle", "Yeow", "Liang", "credited", "Zhong" ],
+  "adjectives" : [ "Singaporean", "various", "notable", "criminal" ],
+  "nouns" : [ "actor", "debut", "Movie", "figure", "entertainment", "Getai", "Ah", "screen", "Nan", "circle", "gangster", "compere" ],
+  "text" : "John Cheng Yeow Nam (also credited as Zhong Yao Nan; known in entertainment circle as Ah Nan or Ah Nam) (1961 – 22 January 2013) was a Singaporean actor and Getai compere who made his screen debut in Money No Enough and was most notable for his criminal figure roles in various media. Liang Po Po: The Movie was one of his most notable performances of a gangster figure."
+}, {
+  "entityIndex" : "78_entity12767",
+  "entityUrl" : "http://dbpedia.org/resource/Jean-Baptiste_Nicolet",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Paris" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "79_entity15509",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Muzhi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Beijing" ]
+  },
+  "words" : [ "Mùzhī", "Yuan", "-LRB-", "Yuán", "Muzhi", "March", "袁牧之", "Republic", "later", "China", "January", "30", "1978", "--", "1909", "director", "People", ",", "'s", ".", "actor", "pinyin", "3", "-RRB-", "Chinese", ":", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "actor", "pinyin", "director", "Republic" ],
+  "text" : "Yuan Muzhi (Chinese: 袁牧之; pinyin: Yuán Mùzhī) (March 3, 1909 – January 30, 1978) was an actor and director from the Republic of China and later of the People's Republic of China."
+}, {
+  "entityIndex" : "80_entity15518",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshiko_Yamaguchi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/Japan", "http://dbpedia.org/resource/Tokyo" ]
+  },
+  "words" : [ "career", "Hong", "Film", "allowed", "United", "several", "States", "movies", "appeared", "Shirley", "Li", "Kong", "--", "12", "actress", "went", "made", "Japan", "real", ",", "Japanese", ".", "rendered", "Yamaguchi", "7", "-RRB-", "name", "Early", "-LRB-", "September", "singer", "Kōran", "origin", "Xianglan", "English-language", "Association", "China", "Ri", "Yoshiko", "February", "concealed", "propaganda", "war", "1920", "stage", "2014", "Chinese", "well", "Chinese-born", "Manchukuo", "represent" ],
+  "adjectives" : [ "English-language", "several", "Chinese", "Chinese-born", "real", "Japanese" ],
+  "nouns" : [ "actress", "career", "singer", "stage", "propaganda", "origin", "name", "war" ],
+  "text" : "Yoshiko Yamaguchi (12 February 1920 – 7 September 2014) was a Chinese-born Japanese actress and singer who made a career in China, Japan, Hong Kong, and the United States. Early in her career, the Manchukuo Film Association concealed her Japanese origin and she went by the Chinese name Li Xianglan, rendered in Japanese as Ri Kōran. This allowed her to represent China in Japanese propaganda movies. After the war, she appeared in Japanese movies under her real name, as well as in several English-language movies under the stage name Shirley Yamaguchi. She was elected as a member of the Japanese parliament in the 1970s and served for 18 years. After retiring from politics, she served as vice president of the Asian Women's Fund."
+}, {
+  "entityIndex" : "81_entity15568",
+  "entityUrl" : "http://dbpedia.org/resource/Yam_Kim-fai",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "http://dbpedia.org/resource/British_Hong_Kong" ]
+  },
+  "words" : [ "voice", "play", "Hong", "opera", "held", "allowed", "1976", "December", "either", "usually", "July", "female", "Cantonese", "Kong", "--", "11", "actress", "lower", ",", "Kim", ".", "Lunar", "4", "unique", "Theatre", "-RRB-", "indistinguishable", "Miss", ":", "sing", "1989", "male", "-LRB-", "Yam", "29", "roles", "notable", "renowned", "known", "China", "任劍輝", "ability", "February", "1913", "1912", "November", "25th", "pageant", "though", "one", "Universe", "also", "performed", "Lee", "Fai", "Jianhui", "Chinese", "ones", "Ren", "register" ],
+  "adjectives" : [ "25th", "Lunar", "unique", "indistinguishable", "notable", "female", "renowned", "Cantonese", "male" ],
+  "nouns" : [ "voice", "actress", "pageant", "opera", "one", "ability", "register" ],
+  "text" : "Yam Kim Fai (Chinese: 任劍輝, 4 February 1913 (Lunar 29 December 1912) – 29 November 1989), also known as Ren Jianhui was a renowned Cantonese opera actress in China and Hong Kong. She was most notable for her unique ability to sing in the lower register. That her opera voice was indistinguishable from a male one allowed her to play either male or female roles, though she usually performed male ones. Miss Universe 1976, the 25th Miss Universe pageant, was held on 11 July 1976 at the Lee Theatre in Hong Kong. From five portraits, contestants were asked to pick one that she/they could identify, as the only actress instead of an actor, in Cantonese opera costume. Yam was not the one she/they picked. In 1972, TV viewers looked for the \"man\" they knew from movies/stage performances when Yam performed the last time in public. They did not expect to see her in a 2-piece set of jacket and qipao (cheongsam) with floral print. Since 1972, Yam enjoyed singing in private with a live band and was often accompanied by her protégée Loong who would read the lyrics out for her until her eyesight improved with surgery."
+}, {
+  "entityIndex" : "82_entity15610",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_de_Bray",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:deathPlace" : [ "Paris, France" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

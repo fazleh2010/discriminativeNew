@@ -1,0 +1,28 @@
+id=160  property=dbp:successor  object=Incumbent  NumberOfEntitiesFoundForObject=93
+current-JJ  multiply=0.069892  P(current|object)=0.27957  P(object|current)=0.25    
+part-NN  multiply=0.059602  P(part|object)=0.505376  P(object|part)=0.117936    
+
+id=161  property=dbp:successor  object=riding dissolved  NumberOfEntitiesFoundForObject=110
+canadian-JJ  multiply=0.269767  P(canadian|object)=0.790909  P(object|canadian)=0.341085    
+electoral-JJ  multiply=0.178729  P(electoral|object)=0.409091  P(object|electoral)=0.436893    
+
+id=162  property=dbp:successor  object=incumbent  NumberOfEntitiesFoundForObject=83
+district-NN  multiply=0.114796  P(district|object)=0.578313  P(object|district)=0.198502    
+canadian-JJ  multiply=0.102737  P(canadian|object)=0.53012  P(object|canadian)=0.193798    
+
+id=163  property=dbp:successor  object=Seat abolished  NumberOfEntitiesFoundForObject=28
+australian-JJ  multiply=0.335317  P(australian|object)=0.928571  P(object|australian)=0.361111    
+labor-NN  multiply=0.238757  P(labor|object)=0.678571  P(object|labor)=0.351852    
+
+id=164  property=dbp:successor  object=Riding abolished  NumberOfEntitiesFoundForObject=58
+conservative-JJ  multiply=0.161877  P(conservative|object)=0.672414  P(object|conservative)=0.240741    
+legislative-JJ  multiply=0.124988  P(legislative|object)=0.896552  P(object|legislative)=0.13941    
+
+id=165  property=dbp:successor  object=District abolished  NumberOfEntitiesFoundForObject=28
+caucus-NN  multiply=0.130651  P(caucus|object)=0.607143  P(object|caucus)=0.21519    
+level-NN  multiply=0.0299  P(level|object)=0.214286  P(object|level)=0.139535    
+
+id=166  property=dbp:successor  object=District Abolished  NumberOfEntitiesFoundForObject=56
+provincial-JJ  multiply=0.187791  P(provincial|object)=0.767857  P(object|provincial)=0.244565    
+assembly-NN  multiply=0.120801  P(assembly|object)=0.964286  P(object|assembly)=0.125275    
+

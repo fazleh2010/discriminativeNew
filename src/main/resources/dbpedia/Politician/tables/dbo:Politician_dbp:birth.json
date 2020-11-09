@@ -1,0 +1,85 @@
+[ {
+  "entityIndex" : "1_entity18619",
+  "entityUrl" : "http://dbpedia.org/resource/William_Hamilton_(diplomat)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:birth" : [ "1731" ]
+  },
+  "words" : [ "archaeologist", "becoming", "FRS", "Ambassador", "second", "December", "1730", "Copley", "Member", "--", "Nelson", "13", "period", "wife", "William", ",", "'s", "April", ".", "6", "served", "-RRB-", "Society", "Medal", "Sir", "Parliament", "FRSE", "-LRB-", "Royal", "Scottish", "Hamilton", "KB", "antiquarian", "Naples", "Horatio", "Vesuvius", "vulcanologist", "British", "Etna", "studied", "volcanoes", "1800", "Fellow", "PC", "1764", "mistress", "Kingdom", "recipient", "short", "diplomat", "famed", "1803", "Emma" ],
+  "adjectives" : [ "Scottish", "British", "antiquarian", "recipient", "short", "famed", "second" ],
+  "nouns" : [ "vulcanologist", "period", "PC", "archaeologist", "mistress", "FRS", "wife", "KB", "diplomat", "Medal", "FRSE" ],
+  "text" : "Sir William Hamilton KB, PC, FRS, FRSE (13 December 1730 – 6 April 1803) was a Scottish diplomat, antiquarian, archaeologist and vulcanologist. After a short period as a Member of Parliament, he served as British Ambassador to the Kingdom of Naples from 1764 to 1800. He studied the volcanoes Vesuvius and Etna, becoming a Fellow of the Royal Society and recipient of the Copley Medal. His second wife was Emma Hamilton, famed as Horatio Nelson's mistress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity18685",
+  "entityUrl" : "http://dbpedia.org/resource/William_McCombie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:birth" : [ "1805" ]
+  },
+  "words" : [ "``", "career", "education", "Aberdeen", "England", "agricultural", "school", "Aberdeenshire", "--", "Charles", "king", "Marischal", "cattle", "roots", "Initially", "William", ",", "'s", ".", "1", "-RRB-", "College", ";", "transporting", "-LRB-", "borders", "father", "part", "1880", "breeder", "grazier", "Scotland", "graziers", "local", "receiving", "Scottish", "McCombie", "known", "farming", "February", "Home", "Highland", "''", "attended", "fattening", "business", "within", "also", "sought", "employment", "follow", "despite", "home", "extensive", "reservations", "Born", "Farm", "dealer", "agriculturist", "1805", "family", "Tillyfour" ],
+  "adjectives" : [ "Scottish", "extensive", "agricultural", "local" ],
+  "nouns" : [ "fattening", "career", "education", "business", "king", "father", "part", "breeder", "grazier", "employment", "home", "school", "farming", "dealer", "agriculturist", "family" ],
+  "text" : "William McCombie (1805 – 1 February 1880), was a Scottish cattle breeder and agriculturist; he was also known as \"the grazier king\" or the \"king of graziers\". Born at Home Farm, Tillyfour, Aberdeenshire, the home of his father, Charles McCombie, a farming cattle dealer with Highland roots. After receiving his education at a local school, he attended Marischal College in Aberdeen but despite his father's reservations, he sought to follow him in an agricultural career. Initially, McCombie's employment was within the extensive family farming business, part of which was transporting cattle to the borders of Scotland and into England for fattening. During the 1820s he rented the arable 1,200-acre (4.9 km2) Tillyfour Farm from his father and began the process of building up his own herd of black polled cattle. The herd already on the farm when he leased it were quality animals and influenced by Lord Panmure, McCombie blended two types of polled cattle from the Aberdeen and Angus varieties to form the basis of the black Aberdeen Angus cattle. McCombie referred to the date he founded his herd as 1832, which was the year his cattle gained a first prize in exhibitions. Over five hundred prizes were won by his cattle throughout the UK and at major exhibitions in France. In 1867 his book Cattle and Cattlebreeders was published; three further editions were later printed. A campaigner for the rights of farmers and their workers, he became the first tenant farmer elected to a Scottish constituency in 1868 when he represented the Liberal Party as the western division of Aberdeen Member of Parliament. He was returned with a majority in 1874 but two years later, in 1876, ill health caused him to resign his seat. He never married and died a bachelor at Tillyfour on 1 February 1880. The cattle herd was sold at a disposal sale in August 1880.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity2472",
+  "entityUrl" : "http://dbpedia.org/resource/Cassius_Marcellus_Clay_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:birth" : [ "1810" ]
+  },
+  "words" : [ "22", "Oktober", "Madison", "Politiker", "Abolitionist", "-LRB-", "Juli", "ein", "County", "1810", "US-amerikanischer", "†", "Marcellus", "Clay", "im", "Kentucky", "19", "war", "*", "und", ",", "ebenda", ".", "-RRB-", "Cassius", ";", "1903" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "Abolitionist", "war", "und", "ein", "ebenda", "US-amerikanischer" ],
+  "text" : "Cassius Marcellus Clay (* 19. Oktober 1810 im Madison County, Kentucky; † 22. Juli 1903 ebenda) war ein US-amerikanischer Politiker und Abolitionist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity15525",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Ferguson_(Carlisle_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:birth" : [ "1817" ]
+  },
+  "words" : [ "--", "Ferguson", "-LRB-", "September", "Liberal", "politician", "sat", "House", "Cumberland", ",", "April", ".", "1", "1898", "English", "1886", "1874", "Robert", "mill-owner", "Commons", "-RRB-", "antiquarian", "1817" ],
+  "adjectives" : [ "English", "Liberal", "antiquarian" ],
+  "nouns" : [ "mill-owner", "politician" ],
+  "text" : "Robert Ferguson (1 April 1817 – 1 September 1898) was an English mill-owner from Cumberland, antiquarian and Liberal politician, who sat in the House of Commons from 1874 to 1886.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity16052",
+  "entityUrl" : "http://dbpedia.org/resource/Rakeshwar_Pandey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:birth" : [ "Sasaram, Bihar, India" ]
+  },
+  "words" : [ "Congress", "Politically", "Group", "Company", "-LRB-", "Besides", "Secretary", "Jamshedpur", "dozen", "Union", "Trade", "President", "companies", "Party", "National", "related", "Mazdoor", "January", "Tata", "cable", "14", "includes", "Lafarge", "also", ",", ".", "India", "stays", "INTUC", "Pandey", "1960", "etc.", "various", "-RRB-", "Indian", "Tisco", "Rakeshwar" ],
+  "adjectives" : [ "various" ],
+  "nouns" : [ "Company", "Pandey", "dozen", "cable" ],
+  "text" : "Rakeshwar Pandey (14 January 1960) is National Secretary of Indian National Trade Union Congress, INTUC. and is related to Indian National Congress Party,Politically. Rakeshwar Pandey stays in Jamshedpur, where he is Union President of over a dozen companies which includes various companies of Tata Group, Lafarge India, Indian cable Company, etc. Besides, Pandey is also President of Tisco Mazdoor Union. Additionally, Rakeshwar Pandey is a Member of Governing Board, Open Forum, development organisation and an NGO based out of New Delhi, for promoting ICTs in the communities.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity7102",
+  "entityUrl" : "http://dbpedia.org/resource/Harald_Ulrik_Sverdrup_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:birth" : [ "1813" ]
+  },
+  "words" : [ "de", "-LRB-", "Il", "est", "parti", "Norvège", "du", "Johan", "XIXe", "Balestrand", "un", "frère", "fondé", "devenu", "Ulrik", "été", "1813", "--", "ville", "membre", "politicien", "siècle", "maire", "1891", "Harald", "en", "ministre", "indépendant", ",", ".", "parlement", "Libéral", "et", "Premier", "Son", "1884", "la", "Sverdrup", "luthérien", "-RRB-", "le", "pasteur", "norvégien", "pays" ],
+  "adjectives" : [ "indépendant" ],
+  "nouns" : [ "Il", "siècle", "luthérien", "un", "pasteur", "frère", "fondé", "été", "parlement", "norvégien" ],
+  "text" : "Harald Ulrik Sverdrup (1813 – 1891) est un pasteur luthérien et politicien norvégien du XIXe siècle. Il a été maire de la ville de Balestrand et membre indépendant du parlement norvégien. Son frère, Johan Sverdrup a fondé le parti Libéral de Norvège et est devenu le Premier ministre du pays en 1884.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity6045",
+  "entityUrl" : "http://dbpedia.org/resource/G._Sanjeeva_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:birth" : [ "Hyderabad, Telangana, India" ]
+  },
+  "words" : [ "Congress", "-LRB-", "upper", "Sanjeeva", "house", "1930", "Sabha", "National", "Pradesh", "represented", "February", "జి", "రేడ్డి", "18", "politician", "Andhra", "Ex-Member", ",", ".", "India", "Rajya", "Gongalla", "Reddy", "-RRB-", "Indian", "సంజివ", "party", "Parliament" ],
+  "adjectives" : [ "upper" ],
+  "nouns" : [ "రేడ్డి", "politician", "house", "party" ],
+  "text" : "Gongalla Sanjeeva Reddy (జి సంజివ రేడ్డి) (18 February 1930) a politician from Indian National Congress party is an Ex-Member of the Parliament of India represented Andhra Pradesh in the Rajya Sabha, the upper house of the Indian Parliament.",
+  "patterns" : { }
+} ]

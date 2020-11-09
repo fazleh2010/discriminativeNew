@@ -1,0 +1,100 @@
+[ {
+  "entityIndex" : "1_entity14528",
+  "entityUrl" : "http://dbpedia.org/resource/Rosanna_Carter",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "Tales from the Darkside", "Law & Order", "Good Times", "The Cosby Show" ]
+  },
+  "words" : [ "New", "-LRB-", "September", "American", "fiction", "Carter", "tale", "Harlem", "plot", "Brother", "slavery", "Estelle", "Planet", "sister", "fairy", "Rolle", "Players", "Another", "described", "--", "actress", "television", "Esther", "1908", "one", "2001", "heritage", "film", ",", "Bahamian", ".", "Renaissance", "Theater", "1984", "stage", "acted", "Lafayette", "Evans", "science", "-RRB-", "Rosanna", "well-reviewed", "20" ],
+  "adjectives" : [ "American", "Bahamian", "well-reviewed" ],
+  "nouns" : [ "actress", "fiction", "television", "heritage", "film", "tale", "stage", "plot", "science", "slavery", "Planet", "sister", "fairy" ],
+  "text" : "Rosanna Rolle Carter (September 20, 1908 – 2001) was an American television, stage and film actress, of Bahamian heritage, and the sister of Esther Rolle and Estelle Evans. During the Harlem Renaissance, she acted at New Lafayette Theater as one of the Lafayette Players. She acted in The Brother from Another Planet, a well-reviewed 1984 film described as a science fiction fairy tale with a slavery plot."
+}, {
+  "entityIndex" : "2_entity12056",
+  "entityUrl" : "http://dbpedia.org/resource/Georgie_Glen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "Heartbeat", "Little Britain", "Waterloo Road" ]
+  },
+  "words" : [ "Sgt", "BBC", "Grace", "Jennifer", "John", "Brotherhood", "History", "Waterloo", "mother", "Desperate", "Pre-Raphaelite", "Audrey", "actress", "Head", "work", "recurring", "McFall", "film", ",", "'s", "April", ".", "Heartbeat", "-RRB-", "Amazing", ":", "20", "-LRB-", "role", "Georgie", "One", "show", "best", "notable", "Glen", "drama", "Scottish", "2006", "known", "Noakes", "Romantics", "1956", "plays", "television", "Road", "born", "Hannah", "played", "stage", "Ruskin" ],
+  "adjectives" : [ "Scottish", "Desperate", "Amazing", "notable", "Pre-Raphaelite" ],
+  "nouns" : [ "actress", "mother", "drama", "role", "stage", "Grace", "television", "work", "show", "film", "History" ],
+  "text" : "Georgie Glen (born 20 April 1956) is a Scottish actress, best known for her stage and television work. Her most notable role is as Hannah More in the 2006 film Amazing Grace. She plays John Ruskin's mother in the drama Desperate Romantics about the Pre-Raphaelite Brotherhood and had a recurring role in Heartbeat as Sgt Jennifer Noakes. She played Head of History: Audrey McFall in BBC One show Waterloo Road. Her most recent roles include Little Britain and the 2011 series of the Royal Bodyguard. In 2011 she had a minor role in the film My Week with Marilyn alongside Judi Dench and Michelle Williams. In 2012, she appeared in Les Misérables as Madame Baptistine."
+}, {
+  "entityIndex" : "3_entity14808",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_Churchett",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "EastEnders", "The Brittas Empire", "The House of Elliot" ]
+  },
+  "words" : [ "-LRB-", "role", "Christie", "One", "roles", "EastEnders", "notable", "reprised", "Brief", "appeared", "Pompeii", "George", "2004", "10", "Bromley", "!", "Togerher", "including", "television", "programmes", "born", "1990", "solicitor", "also", ",", "April", ".", "actor", "English", "Marcus", "2015", "Churchett", "2014", "various", "London", "-RRB-", "writer", "Campion", "1947", "Stephen", "Minder" ],
+  "adjectives" : [ "English", "various", "notable" ],
+  "nouns" : [ "actor", "role", "television", "solicitor", "writer", "Brief" ],
+  "text" : "Stephen George Churchett (born 10 April 1947 in Bromley, London) is an English actor and writer. One of his most notable roles is as solicitor Marcus Christie in EastEnders, on and off from 1990 to 2004.  He reprised the role in 2014 and again in 2015. He has also appeared in various television programmes, including The Brief, Togerher, Minder, Campion, Up Pompeii!, Enemy at the Door, Specials, The Professionals, C.A.T.S. Eyes, Lucan, Casualty, Moon and Son, Bugs, The House of Elliot, Peak Practice, Silent Witness, Dangerfield, Pie in the Sky, The Bill, Preston Front, Boon, Monroe, Dalziel and Pascoe and Porkpie. He also appeared in the Doctor Who episode Attack of the Cybermen in 1985. He voiced Wing Commander Belfridge in 'Allo 'Allo! in The Sausages in the Trousers. He appeared in various episodes of The Brittas Empire, as Councillor Jack Druggett. He has written episodes of The Bill, Kavanagh QC, Inspector Morse, Dalziel and Pascoe, Monsignor Renard and Hornblower, as well as writing the screenplay for Lewis, and appeared in four Agatha Christie's Marple television adaptations as the Coroner (The Murder at the Vicarage, The Moving Finger, Murder is Easy, Endless Night). In 1984, he appeared in Miss Marple as Major Reeve in The Body in the Library."
+}, {
+  "entityIndex" : "4_entity13152",
+  "entityUrl" : "http://dbpedia.org/resource/Karen_Ascoe",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "EastEnders", "Doctors", "French Fields" ]
+  },
+  "words" : [ "actress", "EastEnders", "Karen", ",", "Ascoe", ".", "Doctors", "English", "amongst", "appeared", "French", "Fields", "Casualty", "Bill", "others" ],
+  "adjectives" : [ "English", "French" ],
+  "nouns" : [ "actress" ],
+  "text" : "Karen Ascoe is an English actress, who has appeared in French Fields, EastEnders, Doctors, The Bill and Casualty, amongst others."
+}, {
+  "entityIndex" : "5_entity11093",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Beresford",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "Casualty", "Coronation Street (  )" ]
+  },
+  "words" : [ "British", "role", "Beresford", "Brandon", "ITV", "Ben", "Benjamin", "Jackson", "'s", ",", "played", ".", "actor", "Coronation", "Peacock", "Collins", "known", "2004", "Street", "Joshua", "Stephen", "child", "since", "taking" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "actor", "role", "child" ],
+  "text" : "Benjamin Beresford is a British child actor known for his role as Joshua Peacock on ITV's Coronation Street. Ben has played the role since 2004, taking over from Brandon Jackson and Stephen Collins."
+}, {
+  "entityIndex" : "6_entity10953",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Gillen",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "Benidorm", "Fresh Meat", "Prisoners Wives" ]
+  },
+  "words" : [ "Fresh", "BBC", "-LRB-", "role", "September", "Gillen", "Wives", "best", "ITV", "Meat", "hit", "known", "11", "comedy", "born", "Channel", "'", "Benidorm", ",", "'s", "Liam", ".", "Adam", "actor", "English", "Brian", "1985", "4", "series", "Gavin", "Manchester", "-RRB-", "Prisoners" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "actor", "role", "series", "comedy" ],
+  "text" : "Adam Gillen (born 11 September 1985, Manchester) is an English actor, best known for his role as Liam in the ITV hit series Benidorm, Brian in the Channel 4 comedy Fresh Meat and Gavin in BBC's Prisoners’ Wives."
+}, {
+  "entityIndex" : "7_entity12614",
+  "entityUrl" : "http://dbpedia.org/resource/Jeremy_Wilkin",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "UFO", "Thunderbirds" ]
+  },
+  "words" : [ "voice", "Thunderbirds", "mid-1960s", "completing", "second", "1930", "Byfleet", "character", "contributions", "possibly", "Returning", "Academy", "Britain", ",", "'s", ".", "Canada", "6", "following", "-RRB-", "David", "Wilkin", "departure", "Surrey", "Toronto", "June", "Art", "-LRB-", "trained", "Canadian", "provided", "best", "Royal", "known", "previously", "Virgil", "studies", "English-born", "Gerry", "original", "television", "born", "Tracy", "Holliday", "Anderson", "Dramatic", "actor", "doctor", "1965", "Jeremy", "Born", "series", "productions", "emigrated" ],
+  "adjectives" : [ "original", "Canadian", "English-born", "Dramatic", "second" ],
+  "nouns" : [ "actor", "doctor", "voice", "Art", "character", "television", "series", "departure" ],
+  "text" : "Jeremy Wilkin (born 6 June 1930) is an English-born Canadian actor, possibly best known for his contributions to the television productions of Gerry Anderson. Born in Byfleet, Surrey, Wilkin emigrated to Toronto, Canada after completing his studies at the Royal Academy of Dramatic Art. He had previously trained as a doctor. Returning to Britain in the mid-1960s, Wilkin provided the voice of Virgil Tracy for the second series of Thunderbirds following the departure of the character's original voice actor, David Holliday, in 1965. In 1968 he provided the voice of Captain Ochre, the original Captain Black and many supporting characters for Captain Scarlet and the Mysterons. He was also a recurring cast member for the live-action series UFO. Other Gerry Anderson credits include Joe 90 and The Secret Service. Wilkin had a live action lead role in 1965 in the fantasy TV series Undermind as Drew Heriot, a personnel manager inadvertently drawn into a sinister plot to control human minds and sow discord in society. Later, Wilkin made a brief uncredited cameo as Captain Forsyth in the 1977 James Bond film The Spy Who Loved Me. Fans of Doctor Who will remember his performance as Kellman in the 1975 serial Revenge of the Cybermen and also his appearance as the Federation agent Dev Tarrant in the first episode of Blake's 7, \"The Way Back\". Wilkin's other TV credits include Dixon of Dock Green, Man in a Suitcase, New Scotland Yard, Softly, Softly: Taskforce, The New Avengers, and Reilly, Ace of Spies."
+}, {
+  "entityIndex" : "8_entity12747",
+  "entityUrl" : "http://dbpedia.org/resource/Jacqueline_King",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "http://dbpedia.org/resource/Doctors_(2000_TV_series)", "http://dbpedia.org/resource/Coronation_Street", "http://dbpedia.org/resource/Midsomer_Murders" ]
+  },
+  "words" : [ "actress", "British", "role", "Ayckbourn", "Writers", "production", "television", "recurring", "Alan", "2010", "also", "Doctor", "film", "'s", ".", "Jacqueline", "theatre", "character", "2006", "King", "stage", "known", "Retreat", "GamePlan" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "theatre", "actress", "character", "role", "stage", "production", "television", "film" ],
+  "text" : "Jacqueline King is a British stage and television actress known for her role in Alan Ayckbourn's theatre production of GamePlan and as a recurring character in Doctor Who from 2006 to 2010. King is also known for her role in the film Writers Retreat."
+}, {
+  "entityIndex" : "9_entity14051",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Conway",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:television" : [ "http://dbpedia.org/resource/Coronation_Street", "http://dbpedia.org/resource/Doctors_(soap_opera)", "http://dbpedia.org/resource/Juliet_Bravo", "http://dbpedia.org/resource/Bread_(TV_series)", "''" ]
+  },
+  "words" : [ "BBC", "featured", "-LRB-", "25", "Keep", "DJ", "Bread", "Mrs", "Saturday", "Coronation", "theatre", "December", "appeared", "teacher", "school", "Street", "Thank", "popular", "Billy", "Clinkscales", "Boswell", "Nick", "comedy", "born", "Campbell", "Nicholas", "Lane", "Conway", "also", "Comes", "'s", ",", "many", "played", ".", "actor", "English", "1962", "Carla", "currently", "series", "Starting", "-RRB-", "Running", "productions", "Juliet", "Bravo", "runs" ],
+  "adjectives" : [ "English", "many", "popular" ],
+  "nouns" : [ "actor", "theatre", "teacher", "school", "comedy", "series", "Running" ],
+  "text" : "Nick Conway (born Nicholas Campbell on 25 December 1962) is an English actor. He played Billy Boswell in Carla Lane's popular BBC comedy series Bread. He has also appeared in Starting Out, Thank You Mrs Clinkscales, When Saturday Comes, Coronation Street, Keep On Running and Juliet Bravo. He has featured in many theatre productions and currently runs a theatre school, He is also a DJ and teacher. In November 2010 he appeared on Coronation Street."
+} ]

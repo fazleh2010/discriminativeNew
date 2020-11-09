@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity10729",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Rothman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:page" : [ "72" ]
+  },
+  "words" : [ "``", "Oktober", "Politiker", "-LRB-", "Zwischen", "ist", "ein", "St.", "ehemaliger", "Kenneth", "des", "Rothman", "Missouri", "1935", "US-amerikanischer", "11", "J.", "war", "*", "und", ",", "er", ".", "1985", "Ken", "1981", "-RRB-", "Bundesstaates", "Louis", "Vizegouverneur" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "war", "ist", "ein", "ehemaliger", "er", "US-amerikanischer" ],
+  "text" : "Kenneth J. „Ken“ Rothman (* 11. Oktober 1935 in St. Louis, Missouri) ist ein ehemaliger US-amerikanischer Politiker. Zwischen 1981 und 1985 war er Vizegouverneur des Bundesstaates Missouri.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity13898",
+  "entityUrl" : "http://dbpedia.org/resource/Nathan_Sadowsky",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:page" : [ "Nathan Sadowsky" ]
+  },
+  "words" : [ "Nelson", "congressional", "Gaylord", "United", "2nd", "political", "House", "Representatives", ",", "'s", ".", "States", "candidate", "Senate", "Nathan", "1950", "Sadowsky", "State", "lost", "district", "1948", "Wisconsin", "ran" ],
+  "adjectives" : [ "congressional", "2nd", "political" ],
+  "nouns" : [ "candidate", "district" ],
+  "text" : "Nathan Sadowsky was a political candidate in Wisconsin. In 1948, he ran for the Wisconsin State Senate. He lost to Gaylord Nelson. In 1950, Sadowsky was a candidate for the United States House of Representatives from Wisconsin's 2nd congressional district. He lost to incumbent Glenn Robert Davis. Sadowsky was a member of the Socialist Party of America.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity17123",
+  "entityUrl" : "http://dbpedia.org/resource/Seah_Tee_Heng",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:page" : [ "114" ]
+  },
+  "words" : [ "Tan", "Johor", "pepper", "-LRB-", "Hung", "concession", "held", "Kapitan", "two", "Council", "gambier", "firm", "known", "1871", "China", "members", "Cheng", "Hiok", "Ulu", "--", "Bahru", "one", "Sekudai", "also", "Kee", "佘泰兴", ",", ".", "Nee", "appointed", "Heng", "1884", "third", "Tee", "State", "-RRB-", "Chinese", ";", "Soon", "Tai", "Seah", "kangchu", "?" ],
+  "adjectives" : [ "third", "Chinese" ],
+  "nouns" : [ "pepper", "gambier", "firm", "concession" ],
+  "text" : "Seah Tee Heng (佘泰兴; ? – 1884), also known as Seah Tai Heng, was one of two Chinese members to the Council of State with Tan Hiok Nee. In about 1871, he appointed as third Kapitan China of Johor after Kapitan Tan Kee Soon and Kapitan Tan Cheng Hung.  He held the kangchu concession for Sekudai Ulu and had a gambier and pepper firm in Johor Bahru. The road starting from Istana Besar to Johor Bahru General Hospital formerly known as Jalan Tai Heng, named after him. But after the 1970s, this road has been renamed as Jalan Tun Dr Ismail and Jalan Abu Bakar. He is the father of Seah Leng Chye.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,157 @@
+[ {
+  "entityIndex" : "1_entity8052",
+  "entityUrl" : "http://dbpedia.org/resource/John_Walter_Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "61" ]
+  },
+  "words" : [ "-LRB-", "till", "25", "John", "United", "several", "March", "States", "1899", "1st", "Party", "member", "different", "February", "1912", "Congressman", "November", "Walter", "--", "Democratic", "Smith", "1908", "19", "representing", "Senator", "thereafter", "positions", ",", "44th", "April", ".", "junior", "1921", "senior", "Governor", "3", "5", "State", "served", "district", "-RRB-", ";", "1904", "1925", "Maryland", "1845", "1900" ],
+  "adjectives" : [ "senior", "1st", "several", "different", "44th", "junior" ],
+  "nouns" : [ "Governor", "State", "district", "member", "Congressman" ],
+  "text" : "John Walter Smith (February 5, 1845 – April 19, 1925), a member of the United States Democratic Party, served the State of Maryland in the United States in several different positions. From 1899 to 1900, he was a Congressman representing the 1st district of Maryland; from 1900 to 1904, he was the 44th Governor of Maryland; and from 1908 to 1921, he was the junior United States Senator of Maryland till November 25, 1912, and thereafter was the senior Senator till March 3, 1921.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity10235",
+  "entityUrl" : "http://dbpedia.org/resource/John_Delaney_(Maryland_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "113" ]
+  },
+  "words" : [ "New", "Politiker", "K.", "-LRB-", "John", "ist", "ein", "den", "US-Repräsentantenhaus", "Jersey", "Bundesstaat", "US-amerikanischer", "im", "16", "vertritt", "*", "Delaney", ",", "er", ".", "April", "1963", "2013", "-RRB-", "Wood-Ridge", "Seit", "Maryland" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "John K. Delaney (* 16. April 1963 in Wood-Ridge, New Jersey) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat Maryland im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity4443",
+  "entityUrl" : "http://dbpedia.org/resource/Ed_Jones_(U.S._politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "91" ]
+  },
+  "words" : [ "-LRB-", "Tennessee", "2011", "inducted", "Jones", "1953", "December", "Fame", "U.S.", "Agriculture", "state", "1912", "1999", "--", "11", "Agricultural", "Commissioner", "also", ",", "April", ".", "-RRB-", "Representative", "1949", "Hall", "1969", "20", "1989", "Ed" ],
+  "adjectives" : [ ],
+  "nouns" : [ "state" ],
+  "text" : "Ed Jones (April 20, 1912 – December 11, 1999) was a U.S. Representative from the state of Tennessee from 1969 to 1989. He was also the Tennessee Commissioner of Agriculture from 1949 to 1953. He was inducted into the Tennessee Agricultural Hall of Fame in 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity4459",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Furse",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "103" ]
+  },
+  "words" : [ "small", "Oregon", "Congress", "congressional", "-LRB-", "Portland", "American", "United", "Representatives", "naturalized", "faculty", "States", "October", "1st", "Nairobi", "1993", "Democrat", "member", "1936", "win", "1999", "owner", "13", "election", "Furse", "business", "born", "Africa", "representing", "House", ",", "Kenya", "'s", "former", ".", "Elizabeth", "University", "State", "district", "-RRB-", "first" ],
+  "adjectives" : [ "small", "1st", "congressional", "American", "naturalized", "former", "first" ],
+  "nouns" : [ "owner", "election", "business", "district", "member", "faculty" ],
+  "text" : "Elizabeth Furse (born October 13, 1936 in Nairobi, Kenya) is a small business owner and former faculty member of Portland State University. She was a member of the United States House of Representatives from 1993 to 1999, representing Oregon's 1st congressional district. She is a Democrat, and was the first naturalized American born in Africa to win election to the United States Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity2419",
+  "entityUrl" : "http://dbpedia.org/resource/Connie_Morella",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "100" ]
+  },
+  "words" : [ "``", "Albanese", "United", "Commission", "Republican", "Ambassador", "faculty", "States", "1931", "President", "OECD", "Monuments", "Development", "represented", "Barack", "Women", "12", "&", "House", ",", "'s", "8th", ".", "1987", "appointed", "University", "district", "served", "-RRB-", "Maryland", "congressional", "-LRB-", "Organization", "Permanent", "American", "serves", "2010", "Representatives", "Connie", "Co-operation", "2007", "Morella", "Constance", "Institute", "2003", "February", "''", "Obama", "born", "ABMC", "also", "Residence", "Economic", "currently", "Battle", "Representative", "Politics" ],
+  "adjectives" : [ "congressional", "American", "8th" ],
+  "nouns" : [ "Battle", "district", "Development", "Co-operation", "faculty" ],
+  "text" : "Constance Albanese \"Connie\" Morella (born February 12, 1931) is a Republican who represented Maryland's 8th congressional district in the United States House of Representatives from 1987 to 2003. She also served as Permanent Representative to the Organization for Economic Co-operation and Development (OECD) from 2003 to 2007. She currently serves on American University's faculty as an Ambassador in Residence for the Women & Politics Institute. She was appointed to the American Battle Monuments Commission (ABMC) by President Barack Obama in 2010.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity18114",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Rice",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "113" ]
+  },
+  "words" : [ "``", "Politiker", "-LRB-", "Myrtle", "Jr.", "ist", "ein", "den", "Beach", "US-Repräsentantenhaus", "Thompson", "1957", "Bundesstaat", "US-amerikanischer", "Rice", "im", "South", "vertritt", "Carolina", "*", "Hugh", ",", "er", ".", "August", "Tom", "4", "2013", "-RRB-", "Seit" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Hugh Thompson „Tom“ Rice Jr. (* 4. August 1957 in Myrtle Beach, South Carolina) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat South Carolina im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity15767",
+  "entityUrl" : "http://dbpedia.org/resource/Reid_Ribble",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "112" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Reid", "2011", "ist", "ein", "den", "County", "US-Repräsentantenhaus", "Bundesstaat", "1956", "Wisconsin", "US-amerikanischer", "James", "im", "Winnebago", "vertritt", "*", ",", "er", ".", "April", "Ribble", "5", "-RRB-", "Seit", "Neenah" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Reid James Ribble (* 5. April 1956 in Neenah, Winnebago County, Wisconsin) ist ein US-amerikanischer Politiker. Seit 2011 vertritt er den Bundesstaat Wisconsin im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity3579",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_Black",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "112" ]
+  },
+  "words" : [ "-LRB-", "Tennessee", "Lynn", "2011", "Black", "ist", "den", "sie", "Politikerin", "1951", "US-Repräsentantenhaus", "Bundesstaat", "Januar", "im", "16", "vertritt", "*", ",", ".", "Baltimore", "eine", "-RRB-", "Seit", "US-amerikanische", "Diane", "Maryland" ],
+  "adjectives" : [ "Seit", "Januar" ],
+  "nouns" : [ "Politikerin", "eine", "im", "US-Repräsentantenhaus", "vertritt", "ist", "US-amerikanische", "den", "sie" ],
+  "text" : "Diane Lynn Black (* 16. Januar 1951 in Baltimore, Maryland) ist eine US-amerikanische Politikerin. Seit 2011 vertritt sie den Bundesstaat Tennessee im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity3817",
+  "entityUrl" : "http://dbpedia.org/resource/David_Schweikert",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "112" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Angeles", "ist", "ein", "Anschließend", "studierte", "bis", "der", "das", "März", "US-amerikanischer", "besuchte", "Arizona", "Schweikert", "*", "er", ".", "Los", "1985", "3", "1962", "University", "State", "David", "-RRB-", "College", "Scottsdale", "Community" ],
+  "adjectives" : [ "Anschließend" ],
+  "nouns" : [ "Politiker", "ist", "ein", "studierte", "er", "US-amerikanischer", "besuchte" ],
+  "text" : "David Schweikert (* 3. März 1962 in Los Angeles) ist ein US-amerikanischer Politiker. David Schweikert besuchte bis 1985 das Scottsdale Community College in Arizona. Anschließend studierte er an der Arizona State University. In den folgenden Jahren arbeitete er als Immobilienmakler (realtor) und Finanzberater. Politisch schloss er sich der Republikanischen Partei an. Von 1991 bis 1995 war er Abgeordneter im Repräsentantenhaus von Arizona. Daraufhin war er Vorsitzender des Arizona State Board of Equalization. Von 2004 bis 2007 war er als Treasurer für die Finanzen im Maricopa County zuständig. Im Jahr 1994 kandidierte Schweickart erfolglos in den Vorwahlen seiner Partei für das Repräsentantenhaus der Vereinigten Staaten. 2008 unterlag er bei den Kongresswahlen gegen Harry Mitchell. Zwei Jahre später, im Jahr 2010, kam es erneut zu diesem Duell, diesmal konnte sich Schweikert mit 52:43 Prozent der Stimmen durchsetzen. Das Mandat im Repräsentantenhaus trat er am 3. Januar 2011 an. Nachdem er in den Jahren 2012 und 2014 jeweils wiedergewählt wurde kann er sein Mandat voraussichtlich bis zum 3. Januar 2017 ausüben. Dabei hat er eine Option auf eine erneute Kandidatur. Schweikert ist Mitglied im United States Joint Economic Committee und im United States House Committee on Financial Services.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity6776",
+  "entityUrl" : "http://dbpedia.org/resource/Herbert_O'Conor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "80" ]
+  },
+  "words" : [ "Ann", "-LRB-", "United", "March", "A.", "serving", "States", "1953", "1896", "Democrat", "Galvin", "1939", "P.", "November", "Mary", "--", "James", "51st", "17", "born", "representing", "also", ",", ".", "O'Conor", "Governor", "Senate", "Baltimore", "Herbert", "4", "1960", "served", "-RRB-", "Romulus", "1947", "Maryland" ],
+  "adjectives" : [ "51st" ],
+  "nouns" : [ "O'Conor", "Governor" ],
+  "text" : "Herbert Romulus O'Conor (November 17, 1896 – March 4, 1960) was the 51st Governor of Maryland, serving from 1939 to 1947. He also served in the United States Senate, representing Maryland from 1947 to 1953. He was a Democrat. O'Conor was born in Baltimore, Maryland to James P. A. O'Conor and Mary Ann (Galvin) O'Conor. He received his B.A. degree from Loyola College and graduated from the University of Maryland School of Law in 1920. While in school, O'Conor was a reporter for the Baltimore Sun and Baltimore Evening Sun from 1919 to 1920. On November 24, 1920, O'Conor married Mary Eugenia Byrnes (1896–1971) and they had five children, Herbert R. Jr., Eugene F., James Patrick, Robert and Mary Patricia. From 1921 to 1922, O'Conor served as the assistant state's attorney for Baltimore. In 1923, he was elected State's Attorney of Baltimore City, and served there until he was elected as the Attorney General of Maryland in 1934. O'Conor also served in the National Association of Attorneys General in 1937. His secretary, Camilla Conroy, died in the burning of the luxury liner SS Morro Castle in 1934. O'Conor identified her body which was found face under close to the wreck site. O'Conor was elected as Governor of Maryland in 1938, defeating incumbent Republican governor Harry W. Nice. In doing so, he became the first Roman Catholic of Irish descent to serve in that position. As governor, O'Conor created the Maryland Council of Defense during the Second World War. He also worked towards improving the state transportation system, and worked towards the construction of new bridges over the Susquehanna and Potomac Rivers. He also worked with other states to encourage inter-state cooperation, and served in positions including the Chairman of the Governor's Conference in 1941, and the President of the Council of State Government in 1943. Near the end of World War II, O'Conor sought to improve the effects of the War and founded the Commission on Post War Reconstruction and Development. He also sought to improve the Maryland healthcare system. O'Conor was elected to the United States Senate in 1946, but chose not to run for re-election in 1952. In the Senate, Hughes served as chairman of the Special Committee on Organized Crime in Interstate Commerce during the Eighty-first Congress. After his tenure in Senate, he continued the practice of law in Baltimore and Washington, D.C., until his death in Baltimore. He is interred in New Cathedral Cemetery.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity12084",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Neumann",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "104" ]
+  },
+  "words" : [ "congressional", "-LRB-", "27", "Mark", "Republican", "2010", "1954", "1st", "candidate", "retiring", "1995", "U.S.", "lost", "nominee", "represented", "February", "businessman", "Wisconsin", "1999", "born", "politician", "Kohl", "William", ",", "'s", ".", "Herb", "Neumann", "Governor", "Senate", "district", "succeed", "-RRB-", "bid", "become" ],
+  "adjectives" : [ "1st", "congressional", "Republican" ],
+  "nouns" : [ "Governor", "candidate", "politician", "district", "nominee", "bid", "businessman" ],
+  "text" : "Mark William Neumann (born February 27, 1954) is a businessman and politician. He represented Wisconsin's 1st congressional district from 1995 to 1999. In 2010, Neumann lost a bid to become the Republican nominee for Governor of Wisconsin. Neumann was a candidate for U.S. Senate in Wisconsin to succeed Herb Kohl who was retiring. He came in third place during the 2012 Republican primary election on August 14, 2012.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity14157",
+  "entityUrl" : "http://dbpedia.org/resource/Phillips_Lee_Goldsborough",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "71" ]
+  },
+  "words" : [ "22", "-LRB-", "United", "Republican", "Phillips", "Comptroller", "States", "1898", "October", "member", "1916", "1935", "1912", "--", "representing", "Goldsborough", "also", ",", "Treasury", "Lee", ".", "August", "47th", "1865", "Governor", "Senate", "6", "State", "-RRB-", "1929", "1946", "Maryland", "1900" ],
+  "adjectives" : [ "Republican", "47th" ],
+  "nouns" : [ "Governor", "State", "member" ],
+  "text" : "Phillips Lee Goldsborough I (August 6, 1865 – October 22, 1946), was a Republican member of the United States Senate representing State of Maryland from 1929 to 1935. He was also the 47th Governor of Maryland from 1912 to 1916 and Comptroller of the Maryland Treasury from 1898 to 1900.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity460",
+  "entityUrl" : "http://dbpedia.org/resource/A._Walter_Norblad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:congresses" : [ "80" ]
+  },
+  "words" : [ "Oregon", "Politiker", "-LRB-", "September", "geboren", "späteren", "Escanaba", "ein", "des", "von", "wurde", "Albin", "Norblad", "US-amerikanischer", "Walter", "†", "12", "Sohn", "1908", "war", "als", "*", ",", ".", "junior", "Michigan", "1964", "-RRB-", ";", "Gouverneurs", "Bethesda", "Maryland", "20" ],
+  "adjectives" : [ "Norblad" ],
+  "nouns" : [ "Politiker", "geboren", "wurde", "war", "ein", "US-amerikanischer", "junior" ],
+  "text" : "Albin Walter Norblad junior (* 12. September 1908 in Escanaba, Michigan; † 20. September 1964 in Bethesda, Maryland) war ein US-amerikanischer Politiker. Norblad wurde 1908 in Michigan als Sohn des späteren Gouverneurs von Oregon, Albin Walter Norblad, geboren. Im selben Jahr zog seine Familie nach Astoria in Oregon. Er besuchte die New Mexico Military Academy in Roswell und studierte an der University of Oregon in Eugene. 1932 beendete er sein Studium und wurde in die Anwaltschaft aufgenommen. Norblad begann nun in Astoria zu praktizieren. Von 1935 bis 1937 war er Abgeordneter im Repräsentantenhaus von Oregon. Als Mitglied der Republikanischen Partei war Norblad 1940 Delegierter zur Republican National Convention in Philadelphia. Norblad wurde in einer Sonderwahl in den Kongress gewählt, um dort im Repräsentantenhaus den vakanten Sitz des verstorbenen James W. Mott neu zu besetzen. Damit vertrat Norblad den Bundesstaat Oregon vom 18. Januar 1946 bis zu seinem Tod am 20. September 1964. Norblad wurde auf dem Lone Oak Cemetery in Stayton, Oregon beigesetzt. In der durch Norblads Tod nötig gewordenen Sonderwahl wurde der Republikaner Wendell Wyatt in das Repräsentantenhaus der Vereinigten Staaten gewählt.",
+  "patterns" : { }
+} ]

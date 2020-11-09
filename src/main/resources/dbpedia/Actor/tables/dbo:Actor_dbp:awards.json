@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity13114",
+  "entityUrl" : "http://dbpedia.org/resource/Kang_Cheng_Xi",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:awards" : [ "2006", "Nomination for Best Newcomer, Star Awards 07" ]
+  },
+  "words" : [ "-LRB-", "Singaporean", "university", "competition", "Kang", "showbiz", "Xi", "December", "known", "Star", "Chengxi", "Cheng", "studies", "Jiang", "born", "also", "entered", ",", "concentrate", ".", "actor", "MediaCorp", "1984", "5", "left", "-RRB-", "Idol", "first", "since" ],
+  "adjectives" : [ "Singaporean" ],
+  "nouns" : [ "actor", "Xi", "university", "competition", "showbiz" ],
+  "text" : "Kang Cheng Xi (born 5 December 1984), also known as Jiang Chengxi, is a Singaporean actor. He first entered showbiz through the competition Star Idol but has since left MediaCorp to concentrate on university studies."
+}, {
+  "entityIndex" : "2_entity12283",
+  "entityUrl" : "http://dbpedia.org/resource/Helena_Little",
+  "dboClass" : "dbo:Actor",
+  "properties" : {
+    "dbp:awards" : [ "Guildhall School of Music and Drama Gold Medal" ]
+  },
+  "words" : [ "Wilde", "``", "-LRB-", "role", "Practice", "best", "Hazel", "Touch", "Lady", "Boon", "known", "Casualty", "Helena", "Dangerfield", "Peak", "Mary", "Oscar", "''", "actress", "born", "also", "Windermere", "Frost", ",", "'s", "Grove", "played", ".", "lead", "Remake", "English", "1985", "Fan", "1960", "Tomlinson", "Little", "-RRB-", "Bill", "playing", "Juliet", "Bravo", "Lines" ],
+  "adjectives" : [ "English", "lead" ],
+  "nouns" : [ "actress", "Fan", "role", "Touch" ],
+  "text" : "Helena Little (born 1960 in Hazel Grove) is an English actress who is best known for playing Mary Tomlinson in Casualty and she has also been in The Bill, Boon, Juliet Bravo, Between the Lines, A Touch of Frost, Peak Practice and Dangerfield. She played the lead role in the 1985 Remake of Oscar Wilde's \"Lady Windermere's Fan\"."
+} ]

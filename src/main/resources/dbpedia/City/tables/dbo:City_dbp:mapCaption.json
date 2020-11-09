@@ -1,0 +1,716 @@
+[ {
+  "entityIndex" : "1_entity25647",
+  "entityUrl" : "http://dbpedia.org/resource/Rosewood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Rosewood location map" ]
+  },
+  "words" : [ "2011", "primarily", "neighbourhood", "construction", "majority", "73", "residences", "live", "early", "occupied", "area", "Rosewood", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "home", "single", "detached", "Canada", "residential", "approximately", "2015", "residents", "900", "southeast" ],
+  "adjectives" : [ "single", "residential", "occupied" ],
+  "nouns" : [ "area", "neighbourhood", "construction", "majority", "southeast", "home" ],
+  "text" : "Rosewood is a primarily residential neighbourhood under construction in southeast Saskatoon, Saskatchewan, Canada. The majority of its residents live in single detached dwellings. In 2011, the area was home to 73 residents. I early 2015 there were approximately 900 occupied residences. The neighbourhood is considered a high-income area, with an average family income of $104,964, and a home ownership rate of 93.3%. According to MLS data, the average sale price of a home as of 2013 was $442,316."
+}, {
+  "entityIndex" : "2_entity25670",
+  "entityUrl" : "http://dbpedia.org/resource/Raba,_Indonesia",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of Raba in West Nusa Tenggara" ]
+  },
+  "words" : [ "largest", "capital", "-LRB-", "Sape", "city", "part", "2010", "440,000", "Sumbawa", "Nusa", "Kota", "central", "province", "road", "provincial", "Tenggara", "Though", "Regency", "eastern", "Bima", "island", "West", "Raba", ",", "'s", ".", "population", "connected", "approximately", "-RRB-", ":", "Indonesia" ],
+  "adjectives" : [ "eastern", "central", "provincial" ],
+  "nouns" : [ "capital", "province", "Bima", "city", "road", "island", "part", "population" ],
+  "text" : "Raba (Indonesia: Kota Raba) is a city in the Bima Regency, on the eastern part of the island of Sumbawa, in central Indonesia's province West Nusa Tenggara. Though not the capital (Bima is), it is the largest city on the island of Sumbawa, with a population of approximately 440,000 in 2010. It is connected by provincial road to Bima and Sape."
+}, {
+  "entityIndex" : "3_entity25715",
+  "entityUrl" : "http://dbpedia.org/resource/Rompivalasa",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location in Andhra Pradesh" ]
+  },
+  "words" : [ "Srikakulam", "Pathapatnam", "Rompivalasa", "Pradesh", "district", "Andhra", "Indian", "located", "state", "village", ".", "mandal" ],
+  "adjectives" : [ "Indian", "located" ],
+  "nouns" : [ "Pathapatnam", "district", "state", "village", "mandal" ],
+  "text" : "Rompivalasa is a village in Srikakulam district of the Indian state of Andhra Pradesh. It is located in Pathapatnam mandal."
+}, {
+  "entityIndex" : "4_entity28826",
+  "entityUrl" : "http://dbpedia.org/resource/Varsity_View,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Varsity View location map" ]
+  },
+  "words" : [ "duplexes", "mostly", "south", "immediately", "units", "subdivision", "2007", "central", "suburban", "mixture", "neighbourhood", "older", "near", "area", "campus", "Saskatoon", "comprising", "dwellings", "Saskatchewan", "low-density", ",", "View", "apartment-style", ".", "home", "single", "detached", "Canada", "residential", "University", "Varsity", "located", "residents", "3,611" ],
+  "adjectives" : [ "single", "residential", "central", "suburban", "located", "apartment-style" ],
+  "nouns" : [ "area", "subdivision", "mixture", "neighbourhood", "campus", "low-density", "home" ],
+  "text" : "Varsity View is a mostly residential neighbourhood located near central Saskatoon, Saskatchewan, Canada. It is immediately south of the University of Saskatchewan campus. It is an older suburban subdivision, comprising a mixture of low-density, single detached dwellings, detached duplexes and apartment-style units. As of 2007, the area is home to 3,611 residents. The neighbourhood is considered a middle-income area, with an average family income of $50,587, an average dwelling value of $284,710 and a home ownership rate of 38.7%. Its proximity to the university gives this area its relatively high student population, almost 25% in 2005.According to MLS data, the average sale price of a home as of 2013 was $402,332."
+}, {
+  "entityIndex" : "5_entity28869",
+  "entityUrl" : "http://dbpedia.org/resource/Veromies",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location on the map of Vantaa" ]
+  },
+  "words" : [ "``", "-LRB-", "Veromies", "city", "south", "borders", "Pakkala", "taxman", "Swedish", "situated", "Skattmans", "major", "Kehä", "meaning", "Aviapolis", "west", "Finnish", "Helsinki", "highway", "''", "beltway", "III", "separated", ",", ".", "Tuusulanväylä", "Ring", "district", "Finland", "Airport", "-RRB-", "located", ":", "Vantaa", "region", "southeastern" ],
+  "adjectives" : [ "major", "located", "Finnish", "southeastern" ],
+  "nouns" : [ "beltway", "city", "south", "Ring", "district", "west", "region", "highway", "taxman" ],
+  "text" : "Veromies (Swedish: Skattmans) (meaning \"taxman\") is a city district in Vantaa, Finland. It is located in southeastern Vantaa, in the Aviapolis major region. It is situated south of Helsinki Airport and west of the Tuusulanväylä highway. To the south, Veromies borders the Pakkala district, separated by the Ring III (Finnish: Kehä III) beltway. It also borders the Viinikkala district to the west. The population of Veromies is 528 (1.1.2014), putting it among the lesser populated districts in Vantaa. Its total area is 3.5 square kilometres (1.4 sq mi), giving it a population density of 150 inhabitants per square kilometre (390/sq mi). The Veromies district includes small-scale industry, office buildings, and three hotels. The western side of the road Lentoasemantie has recently been named Virkamies (Swedish: Tjänstemans), meaning \"public official\"."
+}, {
+  "entityIndex" : "6_entity26977",
+  "entityUrl" : "http://dbpedia.org/resource/Sutherland,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Sutherland location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "semi-detached", "204,213", "subdivision", "43.8", "suburban", "2006", "composed", "rate", "neighbourhood", "houses", "single-family", "older", "east-central", "multiple-unit", "mix", "value", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "home", "detached", "Canada", "near-even", "51,857", "residential", "ownership", "Sutherland", "located", "residents", "family", "apartment", "5,206" ],
+  "adjectives" : [ "average", "near-even", "residential", "suburban", "middle-income", "located", "single-family", "semi-detached", "east-central", "multiple-unit" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "mix", "value", "apartment" ],
+  "text" : "Sutherland is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is an older suburban subdivision, composed of a near-even mix of single-family detached houses and multiple-unit apartment and semi-detached dwellings. As of 2006, the area is home to 5,206 residents. The neighbourhood is considered a middle-income area, with an average family income of $51,857, an average dwelling value of $204,213 and a home ownership rate of 43.8%. According to MLS data, the average sale price of a home as of 2013 was $288,651.Sutherland was originally a town outside of Saskatoon before being annexed by the city in 1956."
+}, {
+  "entityIndex" : "7_entity27198",
+  "entityUrl" : "http://dbpedia.org/resource/Sheffield_City_Region",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Local government districts" ]
+  },
+  "words" : [ "England", "county", "sites", "northern", "three", "km2", "number", "four", "adding", "promotes", "defined", "area", "development", "metropolitan", "City", ",", ".", "population", "Derbyshire", "district", "Sheffield", "Region", ":", "region", "covering", "regions", "city", "regional", "document", "north", "districts", "Way", "centred", "eight", "1,819,500", "across", "2004", "Moving", "Northern", "Yorkshire", "covers", "3,517.84", "entirety", "Zone", "one", "South", "agencies", "also", "collaboration", "Nottinghamshire", "Enterprise", "Forward" ],
+  "adjectives" : [ "metropolitan", "regional", "northern" ],
+  "nouns" : [ "area", "development", "city", "entirety", "document", "north", "county", "population", "km2", "number", "collaboration", "district", "region" ],
+  "text" : "The Sheffield City Region is an area of England centred on Sheffield, with a population of 1,819,500 and covering an area of 3,517.84 km2 in 2004. It was one of eight city regions defined in the 2004 document Moving Forward: The Northern Way, as a collaboration between the three northern regional development agencies. It covers the entirety of the metropolitan county of South Yorkshire, and also adding four districts from north Derbyshire, and one district from northern Nottinghamshire. The Sheffield City Region Enterprise Zone promotes development in a number of sites across the region."
+}, {
+  "entityIndex" : "8_entity27337",
+  "entityUrl" : "http://dbpedia.org/resource/Stonebridge,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Stonebridge location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "67,642", "dwelling", "semi-detached", "south-central", "321,004", "2009", "subdivision", "suburban", "994", "rate", "neighbourhood", "mix", "value", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "Stonebridge", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "medium-density", "72.4", "located", "residents", "family", "apartment" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "medium-density", "located", "semi-detached", "south-central" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "mix", "value", "apartment" ],
+  "text" : "Stonebridge is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting of low-density, single detached dwellings and a mix of medium-density apartment and semi-detached dwellings. As of 2009, the area is home to 994 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,642, an average dwelling value of $321,004 and a home ownership rate of 72.4%.According to MLS data, the average sale price of a home as of 2013 was $380,777."
+}, {
+  "entityIndex" : "9_entity27341",
+  "entityUrl" : "http://dbpedia.org/resource/Sotunki",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location on the map of Vantaa" ]
+  },
+  "words" : [ "-LRB-", "city", "Sotunki", "rural", "least", "districts", "main", "farmland", "Swedish", "high", "school", "attractions", "area", "densely", "making", "Sottungsby", "one", "populated", ",", "'s", ".", "population", "square", "641", "2014", "district", "Finland", "kilometers", "served", "-RRB-", ":", "Vantaa", "valley", "13.7" ],
+  "adjectives" : [ "square", "high", "rural", "populated", "main" ],
+  "nouns" : [ "area", "city", "school", "district", "valley", "farmland", "population" ],
+  "text" : "Sotunki (Swedish: Sottungsby) is a district of the city of Vantaa, Finland. The district has an area of 13.7 square kilometers and a population of about 641 (as of 2014), making it one of the least densely populated and most rural districts in the city. It is served by its own high school. The valley and farmland in Sotunki are the district's main attractions."
+}, {
+  "entityIndex" : "10_entity27365",
+  "entityUrl" : "http://dbpedia.org/resource/Sutherland_Industrial,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Sutherland Industrial location map" ]
+  },
+  "words" : [ "Nation", "Industrial", "city", "part", "Muskeg", "Lake", "Cree", "subdivision", "reserve", "east-central", "annexed", "1956", "town", "Saskatoon", "originally", "also", "Saskatchewan", ",", ".", "Canada", "industrial", "contains", "urban", "outside", "Sutherland", "located", "first" ],
+  "adjectives" : [ "industrial", "urban", "located", "east-central", "first" ],
+  "nouns" : [ "subdivision", "town", "city", "part", "reserve" ],
+  "text" : "Sutherland Industrial is an industrial subdivision located in east-central Saskatoon, Saskatchewan, Canada. It was originally part of Sutherland, a town outside of Saskatoon before being annexed by the city in 1956. The subdivision also contains the first urban reserve in Saskatchewan, the Muskeg Lake Cree Nation."
+}, {
+  "entityIndex" : "11_entity27622",
+  "entityUrl" : "http://dbpedia.org/resource/Swansea_Bay_City_Region",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "A map showing the location of Swansea Bay City Region in Wales" ]
+  },
+  "words" : [ "city", "south", "Wales", "Port", "Talbot", "local", "organisations", "coterminous", "west", "Carmarthenshire", "businesses", "defined", "area", "partnership", "Neath", "Government", "West", "South", "Welsh", "City", ",", ".", "authorities", "Region", "Bay", "region", "Pembrokeshire", "support", "Swansea" ],
+  "adjectives" : [ "coterminous", "south", "local" ],
+  "nouns" : [ "area", "partnership", "city", "west", "region", "support" ],
+  "text" : "The Swansea Bay City Region is a city region in Wales. It is a partnership between the local authorities of Carmarthenshire, Neath Port Talbot, Pembrokeshire and Swansea, local businesses in south west Wales and other organisations with the support of the Welsh Government. The Swansea Bay City Region is coterminous with the area defined as South West Wales."
+}, {
+  "entityIndex" : "12_entity27623",
+  "entityUrl" : "http://dbpedia.org/resource/St._Mary,_Kentucky",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of St. Mary within Kentucky" ]
+  },
+  "words" : [ "89", "covering", "-LRB-", "city", "United", "2010", "St.", "County", "around", "miles", "States", "km2", "U.S.", "rule-class", "Division", "Mary", "--", "Co.", "Kentucky", "2,765", ",", ".", "home", "population", "34.3", "square", "Census", "-RRB-", "Marion", "Saint" ],
+  "adjectives" : [ "square", "rule-class" ],
+  "nouns" : [ "km2", "city", "home", "population" ],
+  "text" : "St. Mary is a home rule-class city in Marion County, Kentucky, in the United States. During the 2010 U.S. Census, the Saint Mary Division of Marion Co. – covering 34.3 square miles (89 km2) around the city – had a population of 2,765."
+}, {
+  "entityIndex" : "13_entity27629",
+  "entityUrl" : "http://dbpedia.org/resource/Seutula",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location on the map of Vantaa" ]
+  },
+  "words" : [ "considered", "official", "whole", "inside", "stretching", "Swedish", "manor", "Rajakoski", "including", "town", "active", "often", ",", "'s", "community", ".", "Sotilaskorpi", "Kiila", "even", "belongs", "outside", "district", "Finland", "-RRB-", ":", "western", "region", "-LRB-", "covering", "Riipilä", "curve", "south", "north", "part", "Sjöskog", "local", "east", "River", "Seutula", "village", "Helsinki", "Lavanko", "hand", "medieval", "also", "Königstedt", "located", "Vantaa", "river" ],
+  "adjectives" : [ "east", "medieval", "located", "official", "active", "whole", "western", "local", "Swedish" ],
+  "nouns" : [ "town", "curve", "south", "north", "part", "Sjöskog", "community", "manor", "district", "River", "river", "Seutula", "village", "region", "hand" ],
+  "text" : "Seutula (Swedish: Sjöskog) is a district in Vantaa, Finland, located inside the curve of the River Vantaa. Seutula is also a village in the medieval town of Helsinki, stretching to Rajakoski in the north, Lavanko in the east covering the whole district of Kiila, and including Sotilaskorpi in the south. On the other hand, the western part of the river's curve, including the Königstedt manor, belongs to the village of Riipilä. Seutula is often considered a region stretching even outside the official district, and it has an active local community. In terms of government, Seutula, Riipilä, and Kiila belong to the Kivistö major district. In the early 1950s, a new airfield for Helsinki was built along the Seutulantie road, stretching from Tuusulantie in Ruskeasanta to Seutula. This airfield was opened in 1952, and became the Helsinki Airport in 1977. Already during its construction, the airfield was commonly called the Seutula airfield, because Tuusulantie had a sign pointing to Seutula. In reality, the airfield was built about 8 kilometres southeast from Seutula, in the northern parts of Veromiehenkylä and Kirkonkylä. Nowadays, Lentokenttä (Finnish for \"airfield\") is its own district in Vantaa. The name Seutula is often connected to prisons, although there never has been a prison in Seutula. The reason for the connection is that the airfield was mainly built using prisoner labour. Some of the prisoners used to build the airfield were public figures of the 1960s, convicted of driving under influence, bringing the activity to light. An open prison was located in Seutula until 2009. This prison was originally called a labour colony, and one of its inmates in the 1960s was Irwin Goodman, who had made records about the subject called Terveisiä Seutulasta (\"greetings from Seutula\") and Autolla Kanarian saarille (\"to the Canary Islands by car\"), with lyrics by Vexi Salmi."
+}, {
+  "entityIndex" : "14_entity18498",
+  "entityUrl" : "http://dbpedia.org/resource/Ilola",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location on the map of Vantaa, with the district in red and the Koivukylä major region in light brown" ]
+  },
+  "words" : [ "average", "metres", "mostly", "-LRB-", "separate", "city", "south", "housing", "part", "north", "municipality", "bordered", "northern", "ft", "Swedish", "east", "Tuusula", "high", "970", "Koivukylä", "90", "west", "houses", "Asola", "Gladas", "Ruskeasanta", "sq", "particularly", "owner-occupied", "terraced", ",", ".", "1.1.2014", "population", "4,578", "square", "size", "Ilola", "administrative", "district", "Finland", "-RRB-", "located", ":", "Vantaa", "Lentokenttä" ],
+  "adjectives" : [ "average", "square", "east", "high", "separate", "administrative", "owner-occupied", "terraced", "located", "northern", "Swedish" ],
+  "nouns" : [ "city", "south", "housing", "part", "north", "municipality", "ft", "population", "Tuusula", "size", "Ilola", "district", "west", "sq" ],
+  "text" : "Ilola (Swedish: Gladas) is a city district of the municipality of Vantaa, Finland. It is located in the northern part of the administrative district of Koivukylä. It is bordered to the west by the district of Lentokenttä, to the south by Ruskeasanta, to the east by Asola, and to the north by the municipality of Tuusula. Ilola has a population of about 4,578 (as of 1.1.2014), and its housing is mostly owner-occupied separate and terraced houses, with an average size particularly high for Vantaa, at 90 square metres (970 sq ft). The district was primarily developed in the 1980s and 1990s, when it was one of Vantaa's fastest growing districts."
+}, {
+  "entityIndex" : "15_entity13017",
+  "entityUrl" : "http://dbpedia.org/resource/Buena_Vista,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Buena Vista location map" ]
+  },
+  "words" : [ "Vista", "income", "average", "mostly", "considered", "2011", "dwelling", "subdivision", "suburban", "rate", "neighbourhood", "older", "near", "Buena", "value", "67,170", "area", "including", "$", "middle-income", "%", "Saskatoon", "dwellings", "centre", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "3,271", "77.7", "Canada", "residential", "ownership", "located", "residents", "family", "251,560" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "low-density" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "centre", "dwelling", "family", "value", "home" ],
+  "text" : "Buena Vista is a residential neighbourhood located near the centre of Saskatoon, Saskatchewan, Canada. It is an older suburban subdivision, including mostly low-density, single detached dwellings. As of 2011, the area is home to 3,271 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,170, an average dwelling value of $251,560 and a home ownership rate of 77.7%."
+}, {
+  "entityIndex" : "16_entity13024",
+  "entityUrl" : "http://dbpedia.org/resource/Briarwood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Briarwood location map" ]
+  },
+  "words" : [ "income", "average", "117,619", "considered", "part", "dwelling", "Briarwood", "2009", "rate", "neighbourhood", "high-income", "449,158", "majority", "value", "live", "area", "$", "%", "Saskatoon", "dwellings", "4,473", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "residential", "ownership", "located", "residents", "97.0", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value", "southeast" ],
+  "text" : "Briarwood is a residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in low-density, single detached dwellings. As of 2009, the area is home to 4,473 residents. The neighbourhood is considered a very high-income area, with an average family income of $117,619, an average dwelling value of $449,158 and a home ownership rate of 97.0%.According to MLS data, the average sale price of a home as of 2013 was $489,830."
+}, {
+  "entityIndex" : "17_entity13045",
+  "entityUrl" : "http://dbpedia.org/resource/Brevoort_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Brevoort Park location map" ]
+  },
+  "words" : [ "half", "part", "duplex", "minority", "primarily", "2007", "neighbourhood", "houses", "Street", "sizeable", "3,424", "area", "Brevoort", "business", "Saskatoon", "dwellings", "multiple", "includes", "Saskatchewan", ",", "8th", "apartment-style", ".", "Park", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "unit", "half", "business", "neighbourhood", "part", "district", "Street", "duplex", "minority", "southeast", "home" ],
+  "text" : "Brevoort Park is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. Just over half of its dwellings are single detached houses, with a sizeable minority of duplex or apartment-style multiple unit dwellings. As of 2007, the area is home to 3,424 residents. The neighbourhood is considered a middle-income area, with an average family income of $52,098, and a home ownership rate of 54.0%.According to MLS data, the average sale price of a home as of 2013 was $325,447."
+}, {
+  "entityIndex" : "18_entity14483",
+  "entityUrl" : "http://dbpedia.org/resource/Codazzi",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of the municipality and town of Agustin Codazzi in the Department of Cesar." ]
+  },
+  "words" : [ "de", "triggered", "Santo", "Espiritu", "municipality", "rapid", "cotton", "del", "Salvador", "Perijá", "mainly", "Department", "later", "agricultural", "proclaimed", "Spanish", "North", "Antioquia", "1859", "1960s", "area", "Colombia", "Arias", "cartographer", "pertaining", ",", "Captain", ".", "population", "Pueblito", "1784", "attracted", "name", "valley", ";", "Italian", "covering", "city", "boom", "El", "searching", "Tolima", "died", "along", "Felix", "Bolivar", "River", "Codazzi", "place", "departments", "1958", "1950s", "Serranía", "Cundinamarca", "Agostino", "Battista", "jobs", "founded", "Giovanni", "Magdalena", "increase", "many", "people", "Agustín", "due", "located", "Huila", "Santander", "Cesar", "renamed" ],
+  "adjectives" : [ "Italian", "agricultural", "due", "rapid", "located", "Spanish", "many" ],
+  "nouns" : [ "area", "city", "cartographer", "boom", "municipality", "name", "cotton", "valley", "place", "increase", "population" ],
+  "text" : "Agustín Codazzi, or Codazzi, is a city and municipality of the Department of Cesar in Colombia. It was founded in 1784 by the Spanish Captain Salvador Felix de Arias with the name of El Pueblito del Espiritu Santo but later renamed after the Italian cartographer, Giovanni Battista Agostino Codazzi, who died in this place in 1859. It is located along the Serranía del Perijá, covering some of the area pertaining to the valley of the Cesar River. In 1958 Codazzi was proclaimed a municipality due to its rapid population increase in the 1950s and 1960s, triggered by an agricultural boom of cotton, that attracted people searching for jobs from many departments of Colombia; mainly from Tolima, Huila, Santander, North Santander, Antioquia, Cundinamarca, Bolivar and Magdalena. When this boom ended, the agroindustry opted for other products like palm, sugar cane, liquors and milk products. In 2005 the municipality of Codazzi had approximately 52,219 inhabitants."
+}, {
+  "entityIndex" : "19_entity14501",
+  "entityUrl" : "http://dbpedia.org/resource/Confederation_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Riversdale location map" ]
+  },
+  "words" : [ "commercial", "development", "city", "Saskatoon", "Suburban", "Saskatchewan", "Centre", "community", ",", "primarily", ".", "consists", "Confederation" ],
+  "adjectives" : [ "commercial" ],
+  "nouns" : [ "development", "city", "community" ],
+  "text" : "Confederation Suburban Centre is a community in the city of Saskatoon, Saskatchewan, which consists primarily of commercial development."
+}, {
+  "entityIndex" : "20_entity14502",
+  "entityUrl" : "http://dbpedia.org/resource/College_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "College Park location map" ]
+  },
+  "words" : [ "sizable", "income", "average", "65,133", "considered", "part", "2011", "dwelling", "232,228", "minority", "primarily", "high-density", "rate", "neighbourhood", "single-family", "majority", "east-central", "multiple-unit", "value", "live", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "5,470", "Saskatchewan", ",", ".", "Park", "home", "detached", "Canada", "residential", "ownership", "58.9", "College", "located", "residents", "family" ],
+  "adjectives" : [ "sizable", "average", "residential", "middle-income", "located", "single-family", "east-central", "multiple-unit", "high-density" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value" ],
+  "text" : "College Park is a primarily residential neighbourhood located in the east-central part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in single-family detached dwellings, with a sizable minority of high-density, multiple-unit dwellings. As of 2011, the area is home to 5,470 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,133, an average dwelling value of $232,228 and a home ownership rate of 58.9%.According to MLS data, the average sale price of a home as of 2013 was $299,844."
+}, {
+  "entityIndex" : "21_entity14503",
+  "entityUrl" : "http://dbpedia.org/resource/College_Park_East,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "College Park East location map" ]
+  },
+  "words" : [ "income", "average", "considered", "part", "dwelling", "minority", "primarily", "high-density", "67,946", "2006", "rate", "neighbourhood", "single-family", "majority", "sizeable", "east-central", "multiple-unit", "67.2", "value", "live", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", ",", ".", "Park", "home", "detached", "Canada", "residential", "ownership", "314,000", "College", "4,809", "located", "residents", "family", "East" ],
+  "adjectives" : [ "average", "residential", "middle-income", "located", "single-family", "sizeable", "east-central", "multiple-unit", "high-density" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "majority", "family", "value" ],
+  "text" : "College Park East is a primarily residential neighbourhood located in the east-central part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in single-family detached dwellings, with a sizeable minority of high-density, multiple-unit dwellings. As of 2006, the area is home to 4,809 residents. The neighbourhood is considered a middle-income area, with an average family income of $67,946, an average dwelling value of $314,000 and a home ownership rate of 67.2%.According to MLS data, the average sale price of a home as of 2013 was $315,083."
+}, {
+  "entityIndex" : "22_entity14548",
+  "entityUrl" : "http://dbpedia.org/resource/Clear_Lake,_Oregon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location within Marion county" ]
+  },
+  "words" : [ "Oregon", "named", "half", "north", "meander", "United", "Lake", "County", "N", "Clear", "States", "east", "disconnected", "west", "River", "219", "Route", "Wheatland", "unincorporated", "likely", "Willamette", "Keizer", "Road", "mile", "community", ",", ".", "approximately", "Marion" ],
+  "adjectives" : [ "unincorporated", "likely", "east", "west" ],
+  "nouns" : [ "half", "mile", "north", "meander", "west", "community" ],
+  "text" : "Clear Lake is an unincorporated community in Marion County, Oregon, United States, just north of Keizer. It is west and north of Oregon Route 219 and east of Wheatland Road N. It is likely named for Clear Lake which is approximately a half mile west of it, a disconnected meander of the Willamette River."
+}, {
+  "entityIndex" : "23_entity14556",
+  "entityUrl" : "http://dbpedia.org/resource/Carter_Park,_Oklahoma",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of Cater Park, Oklahoma" ]
+  },
+  "words" : [ "S.E.", "city", "south", "Oklahoma", "Road", "United", "Del", "City", "Carter", ",", "County", ".", "Park", "15th", "States", "1954", "Sunnylane", "west", "located", "Street", "annexed" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "city", "west" ],
+  "text" : "Carter Park was a city in Oklahoma County, Oklahoma, United States. It was located south of S.E. 15th Street and west of Sunnylane Road, west of Del City. It was annexed in 1954 by Del City."
+}, {
+  "entityIndex" : "24_entity28538",
+  "entityUrl" : "http://dbpedia.org/resource/University_Heights_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "University Heights SC location map" ]
+  },
+  "words" : [ "``", "income", "average", "commercial", "considered", "dwelling", "areas", "medium", "high-density", "civic", "2009", "subdivision", "suburban", "composed", "rate", "neighbourhood", "multiple-unit", "1,479", "85.7", "value", "Heights", "''", "area", "$", "middle-income", "237,698", "%", "Saskatoon", "dwellings", "Suburban", "northeast", "centre", "classified", "Saskatchewan", "Centre", ",", "69,219", "mixed-development", ".", "home", "Canada", "University", "ownership", "located", "residents", "facilities", "family" ],
+  "adjectives" : [ "average", "commercial", "suburban", "middle-income", "located", "northeast", "multiple-unit", "high-density", "civic" ],
+  "nouns" : [ "area", "income", "%", "centre", "dwelling", "medium", "mixed-development", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value" ],
+  "text" : "University Heights Suburban Centre is a mixed-development neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2009, the area is home to 1,479 residents. The neighbourhood is considered a middle-income area, with an average family income of $69,219, an average dwelling value of $237,698 and a home ownership rate of 85.7%.According to MLS data, the average sale price of a home as of 2013 was $304,903."
+}, {
+  "entityIndex" : "25_entity28548",
+  "entityUrl" : "http://dbpedia.org/resource/Urban_water_management_in_Monterrey,_Mexico",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of Monterrey in northern Mexico" ]
+  },
+  "words" : [ "exception", "income", "increased", "-LRB-", "boom", "ranching", "city", "pattern", "rapid", "remains", "investments", "northern", "Monterrey", "toll", "3.86", "agriculture", "irrigation", "disparity", "Metro", "taken", "metamorphosis", "early", "live", "successful", "addition", "area", "MMA", "Mexican", "large", "20th", "began", "resources", ",", "urbanization", "water", ".", "century", "million", "Beginning", "-RRB-", "Mexico", "residents", "growth", "fueled", "economic" ],
+  "adjectives" : [ "Mexican", "large", "20th", "rapid", "northern", "economic", "successful" ],
+  "nouns" : [ "exception", "income", "area", "MMA", "boom", "ranching", "city", "pattern", "urbanization", "toll", "water", "agriculture", "century", "irrigation", "disparity", "growth", "metamorphosis", "addition" ],
+  "text" : "Beginning early in the 20th century, Monterrey, Mexico began a successful economic metamorphosis and growth pattern that remains an exception in Mexico. This all began with increased investments in irrigation that fueled a boom in agriculture and ranching for this northern Mexican city. The economic growth has fueled income disparity for the 3.86 million residents who live in the Monterrey Metro area (MMA). In addition, the rapid urbanization has taken a large toll on the water resources. In addressing many of this challenges, the city of Monterrey has become a model for sound and effective Integrated urban water management. The challenges that Monterrey has confronted pertain to scarcity of surface water resources, poor water quality due to untreated industrial effluents, political cycles and term-limits which can limit long-term vision, and water disputes between urban and agricultural users. Fortunately, Monterrey has good groundwater \"well-fields\" that supply about 40% of the water demand for the city and generally are not over-exploited because of good connections to high-yield aquifer systems in the central parts of the \"Curvatura de Monterrey\". These wells are managed as storage reserves that can be used in time of drought, which is quite common in this region of Mexico. Also unique to Monterrey is an arrangement made between farmers and the municipality, whereby the farmers grant the use of their water rights from the nearby Cuchillo reservoir and the municipal water utility SADM (Servicios de Agua y Drenaje de Monterrey) returns urban used and treated water to farmers for irrigation. This arrangement has benefited both parties since SADM supplements its water supply with high quality but internmitent supply from the Cuchillo reservoir and farmers receive a consistent and full of nutrients water for irrigation. The longer term outlook for the area is for urbanization to continue and water availability to decrease, therefore, new water management strategies will have to be created."
+}, {
+  "entityIndex" : "26_entity29866",
+  "entityUrl" : "http://dbpedia.org/resource/Zeyawaddy",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "'''" ]
+  },
+  "words" : [ "small", "Fiji", "Zeyawaddy", "Rangoon", "Surinam", "north", "descendants", "around", "Bihari", "sugarcane", "Indians", "215", "came", "migrated", "group", "surrounding", "Durban", "km", "ethnic", "grow", "town", "villages", "Burma", ",", "Mauritius", ".", "population", "etc.", "1904" ],
+  "adjectives" : [ "small", "ethnic" ],
+  "nouns" : [ "km", "town", "north", "Burma", "population", "sugarcane", "group" ],
+  "text" : "Zeyawaddy is a small town, 215 km north of Rangoon, Burma. The population of the town and the surrounding villages are descendants of Bihari Indians who came to Burma around 1904. They had migrated to Burma to grow sugarcane. They were of the same ethnic group as those Indians who migrated to Fiji, Mauritius, Durban and Surinam, etc. to grow sugarcane. With the view of transferring population from densely populated regions of Bihar & Northern Provinces( Uttar Pradesh to waste lands/jungles of Burma, the British Government offered large tracts of land in Burma by way of Grants,to big Indian Zamindars & Princely States to take up the migration work. Invitations were sent to the Maharaja of Dumraon as well as to the Dewan of Dumraon State. While the Maharaja declined the offer, Dewan Jai Prakash Lall C.I.E. accepted the offer and was granted 18340 acres of land in Zayawadi region in Myanmar by the British Empire. Dewan Jai Prakash Lall C.I.E. & his son Rai Bahadur Harihar Prasad Singh took neighboring people from Bihar & Northern Provinces to Myanmar and let them cut and clean the forest in that land and allowed them to grow paddy & sugar cane to earn living. In 1934-35 a sugar mill, bought from Britain was set up by Rai Bahadur Harihar Prasad Singh & his son, Mr. Chandradeva Prakash Sinha. The mill had a capacity of 1000 tons per year initially, which was expanded to 2,500 tons before the second World War. The mill was the largest sugar mill in Burma of the time. New machinery was also bought during the war days to further expand capacity. The sugar factory had been running till 1952-53. In 1954 the mill was nationalized by the Myanmar Government and the factory was run by the Government thereafter."
+}, {
+  "entityIndex" : "27_entity17248",
+  "entityUrl" : "http://dbpedia.org/resource/Grosvenor_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Grosvenor Park location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "units", "67,544", "subdivision", "44.8", "suburban", "2006", "composed", "rate", "neighbourhood", "east-central", "mix", "value", "area", "$", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", "apartment-style", ".", "Park", "home", "329,988", "single", "detached", "Canada", "near-even", "Grosvenor", "residential", "ownership", "located", "residents", "1,645", "upper-income", "family" ],
+  "adjectives" : [ "single", "average", "near-even", "residential", "suburban", "located", "east-central", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "upper-income", "family", "mix", "value" ],
+  "text" : "Grosvenor Park is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, composed of a near-even mix of low-density, single detached dwellings and apartment-style units. As of 2006, the area is home to 1,645 residents. The neighbourhood is considered an upper-income area, with an average family income of $67,544, an average dwelling value of $329,988 and a home ownership rate of 44.8%.According to MLS data, the average sale price of a home as of 2013 was $493,174."
+}, {
+  "entityIndex" : "28_entity17252",
+  "entityUrl" : "http://dbpedia.org/resource/Greystone_Heights,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Greystone Heights location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "minority", "subdivision", "2007", "suburban", "58,811", "rate", "neighbourhood", "sizeable", "east-central", "multiple-unit", "Greystone", "value", "Heights", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "2,525", ",", "241,850", "apartment-style", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "58.1" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "sizeable", "east-central", "multiple-unit", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "minority", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value" ],
+  "text" : "Greystone Heights is a mostly residential neighbourhood located in east-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings and a sizeable minority of apartment-style multiple-unit dwellings. As of 2007, the area is home to 2,525 residents. The neighbourhood is considered a middle-income area, with an average family income of $58,811, an average dwelling value of $241,850 and a home ownership rate of 58.1%.According to MLS data, the average sale price of a home as of 2013 was $338,763."
+}, {
+  "entityIndex" : "29_entity15849",
+  "entityUrl" : "http://dbpedia.org/resource/Elmhurst,_Indiana",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location in the state of Indiana" ]
+  },
+  "words" : [ "Madison", "Indiana", "latitude", "United", "County", "States", "America", "North", "place", "52", "longitude", "''", "Elmhurst", "17", "West", "'", ",", ".", "°", "5", "State", "located", "40", "85", "43" ],
+  "adjectives" : [ "located" ],
+  "nouns" : [ "State", "latitude", "place", "longitude" ],
+  "text" : "Elmhurst is a place in Madison County in the State of Indiana in the United States of America. It is located at latitude 40°5'52\" North, longitude 85°43'17\" West."
+}, {
+  "entityIndex" : "30_entity15928",
+  "entityUrl" : "http://dbpedia.org/resource/Eastview,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Eastview location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "Eastview", "considered", "dwelling", "semi-detached", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "houses", "value", "260,050", "3,566", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", "58,703", ",", ".", "home", "single", "detached", "low-rise", "Canada", "consisting", "residential", "ownership", "buildings", "located", "residents", "family", "51.6", "apartment" ],
+  "adjectives" : [ "single", "low-rise", "average", "residential", "suburban", "middle-income", "located", "semi-detached", "south-central" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "low-density", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value", "apartment" ],
+  "text" : "Eastview is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting of low-density, single detached dwellings, low-rise apartment buildings and semi-detached houses. As of 2007, the area is home to 3,566 residents. The neighbourhood is considered a middle-income area, with an average family income of $58,703, an average dwelling value of $260,050 and a home ownership rate of 51.6%.According to MLS data, the average sale price of a home as of 2013 was $318,449."
+}, {
+  "entityIndex" : "31_entity15929",
+  "entityUrl" : "http://dbpedia.org/resource/Erindale,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Erindale location map" ]
+  },
+  "words" : [ "income", "340,990", "average", "mostly", "considered", "Erindale", "2011", "dwelling", "primarily", "4,338", "rate", "neighbourhood", "high-income", "123,336", "value", "area", "$", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "residential", "ownership", "located", "residents", "95.3", "family" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located", "northeast", "low-density" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "value", "home" ],
+  "text" : "Erindale is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings. As of 2011, the area is home to 4,338 residents. The neighbourhood is considered a high-income area, with an average family income of $123,336, an average dwelling value of $340,990 and a home ownership rate of 95.3%.According to MLS data, the average sale price of a home as of 2013 was $398,768."
+}, {
+  "entityIndex" : "32_entity15999",
+  "entityUrl" : "http://dbpedia.org/resource/East_Carbon-Sunnyside,_Utah",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location in Carbon County and the state of Utah", "Location of Utah in the United States" ]
+  },
+  "words" : [ "temporary", "Carbon-Sunnyside", "city", "Dragerton", "United", "2010", "used", "County", "Utah", "States", "377", "known", "Sunnyside", "incorporated", "1,678", "January", "officially", "cities", "City.Encompassing", "could", "merged", ",", "Carbon", ".", "population", "1", "Columbia", "2016", "2014", "council", "adopt", "permanent", "name.As", "census", "name", "combined", "East", "merger", "1,301", "subdivisions" ],
+  "adjectives" : [ "temporary", "permanent", "merged", "combined" ],
+  "nouns" : [ "city", "council", "name.As", "census", "name", "merger", "population" ],
+  "text" : "East Carbon-Sunnyside was a city in Carbon County, Utah, United States. East Carbon-Sunnyside was incorporated on January 1, 2014, from the merger of the cities of East Carbon and Sunnyside. East Carbon-Sunnyside was a temporary name, to be used until the city council could adopt a permanent name.As of January 1, 2016 the merged cities are officially known as East Carbon City.Encompassing the subdivisions of Columbia, Dragerton and Sunnyside. As of the 2010 census, East Carbon had a population of 1,301, while Sunnyside had a population of 377, for a combined population of 1,678. In 2014 East Carbon-Sunnyside had an estimated population of 1,602."
+}, {
+  "entityIndex" : "33_entity16447",
+  "entityUrl" : "http://dbpedia.org/resource/Forest_Grove,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Forest Grove location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "2011", "dwelling", "minority", "primarily", "rate", "neighbourhood", "sizeable", "62.4", "multiple-unit", "value", "area", "$", "middle-income", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", "Grove", ".", "home", "single", "detached", "Canada", "residential", "70,487", "ownership", "5,907", "246,680", "Forest", "located", "residents", "family", "apartment" ],
+  "adjectives" : [ "single", "average", "residential", "middle-income", "located", "northeast", "sizeable", "low-density", "multiple-unit" ],
+  "nouns" : [ "area", "income", "%", "dwelling", "minority", "home", "ownership", "rate", "neighbourhood", "Forest", "family", "value", "apartment" ],
+  "text" : "Forest Grove is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings, with a sizeable minority of multiple-unit apartment dwellings. As of 2011, the area is home to 5,907 residents. The neighbourhood is considered a middle-income area, with an average family income of $70,487, an average dwelling value of $246,680 and a home ownership rate of 62.4%.According to MLS data, the average sale price of a home as of 2013 was $304,527."
+}, {
+  "entityIndex" : "34_entity16463",
+  "entityUrl" : "http://dbpedia.org/resource/Feeding_Hills,_Agawam,_Massachusetts",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of the Town of Agawam in Hampden County, Massachusetts" ]
+  },
+  "words" : [ "subsection", "code", "-LRB-", "separate", "mid-19th", "ditch", "office", "two", "point", "Provin", "total", "post", "Mountain", "Hills", "pseudo-border", "01030", "moderate-sized", "Street", "early", "zip", "town", "one", "accepted", "Agawam", ",", "many", "-", ".", "sections", "Feeding", "generally", "population", "Line", "century", "contains", "highest", "farms", "dug", "-RRB-", "residents", "well", "quarter" ],
+  "adjectives" : [ "total", "mid-19th", "moderate-sized", "many", "early" ],
+  "nouns" : [ "zip", "subsection", "century", "code", "town", "post", "pseudo-border", "ditch", "office", "point", "quarter", "population" ],
+  "text" : "Feeding Hills is a subsection of the town of Agawam with its own zip code (01030) and post office. Line Street in Agawam is generally accepted by residents as being the pseudo-border. In the early- to mid-19th century, a ditch was dug here to separate the two sections. Feeding Hills contains one quarter of the total population, as well as Provin Mountain, the highest point in the town, and many moderate-sized farms. Today, Feeding Hills is under extensive land development in and around the Provin Mountain communities. Several farms have been split up and sold to developers, resulting in an increased real estate market. Older sections of Feeding Hills, such as those closer to Line Street and Agawam High School, have remained much the same, although in recent years have experienced an exodus of businesses to other parts of town. Feeding Hills contains several churches, shopping centers, and a variety of eateries. It is home to WWLP-TV's transmitting site atop Provin Mountain (their studio has since moved to Chicopee). Agawam's police station can be found on Springfield St., one of the subsection's most populous roads. Of the 4 elementary schools and 3 md/jr/sr highs only the Junior High School and Granger Elementary, are located in \"Feeding Hills\""
+}, {
+  "entityIndex" : "35_entity24934",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Elizabeth,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Queen Elizabeth location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "2,491", "dwelling", "south-central", "280,970", "subdivision", "2007", "66.9", "suburban", "rate", "neighbourhood", "value", "area", "61,904", "$", "middle-income", "%", "Queen", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "Elizabeth", "residential", "ownership", "located", "residents", "family" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Queen Elizabeth is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,491 residents. The neighbourhood is considered a middle-income area, with an average family income of $61,904, an average dwelling value of $280,970 and a home ownership rate of 66.9%.According to MLS data, the average sale price of a home as of 2013 was $343,459."
+}, {
+  "entityIndex" : "36_entity23679",
+  "entityUrl" : "http://dbpedia.org/resource/Opobo",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Ijaw States, including Opobo" ]
+  },
+  "words" : [ "Kalaibiama", "southern", "city", "Ikot", "part", "city-state", "several", "Iwoma", "Okpukpo", "Akwa", "mainly", "Minimah", "Queenstown", "Town", "Opobo", "Epellema", "1870", "Iloma", "Abasi", "state", "Nigeria", "greater", "Islands", "Kalasunju", "still", "made", "Kampa", "founded", "Oloma", "Rivers", ",", "Ekereborokiri", ".", "Ibom", "State", "Ayaminimah", "region", "referred", "communities" ],
+  "adjectives" : [ "southern", "several" ],
+  "nouns" : [ "city", "Opobo", "Epellema", "part", "city-state", "state", "region" ],
+  "text" : "Opobo is a city-state in the southern region of Nigeria. The state was founded in 1870.A greater part of the city state is still referred to as Opobo in Rivers State and is made up of several Islands and communities, mainly Opobo Town, Queenstown, Kalasunju,Oloma,Ayaminimah,Iloma,Minimah,Okpukpo,Iwoma,Ekereborokiri,Kalaibiama, and Epellema while a part of the city state is now in Akwa Ibom State, made up of Ikot Abasi, Kampa."
+}, {
+  "entityIndex" : "37_entity21955",
+  "entityUrl" : "http://dbpedia.org/resource/Manchester,_Richmond,_Virginia",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Manchester as situated in present-day Richmond" ]
+  },
+  "words" : [ "capital", "independent", "city", "south", "line", "part", "north", "United", "county", "County", "States", "receiving", "1876", "bank", "later", "known", "fall", "1870", "Manastoh", "River", "state", "side", "Rocky", "James", "opposite", ",", "former", ".", "seat", "Today", "Prior", "served", "Originally", "Manchester", "located", "river", "Virginia", "status", "Chesterfield", "Richmond", "Ridge" ],
+  "adjectives" : [ "independent", "south", "north", "former" ],
+  "nouns" : [ "capital", "side", "city", "line", "part", "county", "seat", "Today", "bank", "fall", "state", "river", "status" ],
+  "text" : "Manchester, Virginia is a former independent city in Virginia in the United States. Prior to receiving independent status, it served as the county seat of Chesterfield County, between 1870 and 1876. Today, it is a part of the city of Richmond, Virginia. Originally known as Manastoh and later Rocky Ridge, it was located on the south bank of the James River at the fall line opposite the state capital city of Richmond, on the north side of the river. Manchester was an active port city, and was a port of entry for slave ships principally in the 18th century. The port shipped out tobacco and coal which was transported 13 miles overland from the Midlothian-area mines on the Midlothian Turnpike, first paved toll road in Virginia in 1807, and the Chesterfield Railroad, the state's first in 1831. Manchester became an incorporated town in 1769 and an independent city in 1874. In 1910, it merged by mutual agreement with the larger state capital City of Richmond, achieving another \"first\" as the earliest of Virginia's independent cities to lose its identity. In modern times, \"Old Manchester\" is considered a neighborhood of Richmond. Many vestiges of its past are clearly visible, notably the courthouse, the Hull Street business district, a number of historic houses, and several former railroad and street railway buildings. As part of the community's African American heritage, a \"slave trail\" traces the route into the downtown area from where the slave ships are believed to have docked along the river. Interstate 95, and four other major highways, U.S. Routes 1, 60, 301 and 360 all cross the James River and enter downtown Richmond from Manchester."
+}, {
+  "entityIndex" : "38_entity22494",
+  "entityUrl" : "http://dbpedia.org/resource/Marot",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of Marot  in Punjab, Pakistan and  Punjab in Pakistan" ]
+  },
+  "words" : [ "-LRB-", "city", "Marot", "20,000", "notable", "Fort", "مروٹ", "entire", "situated", "Bahawalpur.The", "Pakistan", "Meergarh", "Mojgarh", "forts", "Jaamgarh", "50", "Bahawalnagar", "Fortabbas", "border", "km", "Urdu", "estimated", "Punjab", "160", ",", "Province", ".", "280,000", "India", "population", "100", "contains", "district", "-RRB-", ":", "District" ],
+  "adjectives" : [ "notable", "entire" ],
+  "nouns" : [ "border", "km", "city", "district", "population" ],
+  "text" : "Marot (Urdu: مروٹ‎) is a city district in Bahawalnagar District in the Province of Punjab, Pakistan. This city is situated at the border of India and Pakistan. This city is situated 50 km from Fortabbas, 160 km from Bahawalnagar and 100 km from Bahawalpur.The population of the city is estimated 20,000, with some 280,000 in the entire district. It contains some notable forts such as Marot Fort, Jaamgarh, Mojgarh and Meergarh. Mostly people are farmers in the area and the major crops are wheat, cotton, mustard and sugar cane."
+}, {
+  "entityIndex" : "39_entity22542",
+  "entityUrl" : "http://dbpedia.org/resource/Malinau_City",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location in Kalimantan" ]
+  },
+  "words" : [ "capital", "districts", "Kalimantan", "154.90", "North", "Regency", "area", "km", "town", "density", "within", "one", "also", ",", "people", "Province", ".", "population", "/", "123.09", "²", "highest", "administrative", "Malinau", "Indonesia" ],
+  "adjectives" : [ "administrative" ],
+  "nouns" : [ "area", "capital", "km", "²", "town", "density", "population" ],
+  "text" : "The town of Malinau is one of the districts of Malinau Regency in North Kalimantan Province of Indonesia and is also the administrative capital of the Regency. Malinau town has the highest population density within Malinau Regency, at 154.90 people / km ², in an area of only 123.09 km ²."
+}, {
+  "entityIndex" : "40_entity22550",
+  "entityUrl" : "http://dbpedia.org/resource/Mahindra_World_City,_Jaipur",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of Mahindra World City in Jaipur" ]
+  },
+  "words" : [ "``", "''", "Social", "based", "Industrial", "Zone", "concept", "multi-product", "City", "World", ",", "comprises", "SEZs", ".", "Mahindra", "Retail", "Economic", "Jaipur", "Special", "Infrastructure", "Parks", "Integrated", "Business" ],
+  "adjectives" : [ "Economic", "Special", "multi-product" ],
+  "nouns" : [ "concept" ],
+  "text" : "Mahindra World City, Jaipur is a multi-product Special Economic Zone based on the concept of an “Integrated Business City”. It comprises SEZs, Industrial Parks, Retail and Social Infrastructure."
+}, {
+  "entityIndex" : "41_entity23252",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Nutana location map" ]
+  },
+  "words" : [ "Nutana", "nearly", "Broadway", "primarily", "2009", "mixture", "neighbourhood", "Avenue", "near", "area", "business", "Saskatoon", "dwellings", "multiple", "centre", "includes", "Saskatchewan", "low-density", ",", "comprises", "apartment-style", ".", "home", "single", "detached", "Canada", "unit", "residential", "even", "district", "located", "residents", "6,261" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "apartment-style" ],
+  "nouns" : [ "area", "unit", "business", "mixture", "neighbourhood", "district", "centre", "low-density", "home" ],
+  "text" : "Nutana is a primarily residential neighbourhood located near the centre of Saskatoon, Saskatchewan, Canada. It includes the business district of Broadway Avenue. It comprises a nearly even mixture of low-density, single detached dwellings and apartment-style multiple unit dwellings. As of 2009, the area is home to 6,261 residents. The neighbourhood is considered a middle to upper-income area, with an average family income of $67,657, an average dwelling value of $206,830 and a home ownership rate of 51.3%.According to MLS data, the average sale price of a home as of 2013 was $409,891. First established in 1883, Nutana was the original settlement of what now makes up the city of Saskatoon."
+}, {
+  "entityIndex" : "42_entity23253",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Nutana Suburban Centre location map" ]
+  },
+  "words" : [ "``", "commercial", "-LRB-", "Nutana", "sometimes", "areas", "medium", "south-central", "high-density", "civic", "SC", "2009", "subdivision", "suburban", "composed", "neighbourhood", "houses", "row", "multiple-unit", "''", "area", "Saskatoon", "dwellings", "Suburban", "centre", "classified", "Saskatchewan", "Centre", ",", "Housing", "mixed-development", "apartment-style", ".", "2,962", "home", "Canada", "-RRB-", "located", "residents", "consists", "facilities", "abbreviated" ],
+  "adjectives" : [ "commercial", "suburban", "located", "multiple-unit", "south-central", "apartment-style", "high-density", "civic" ],
+  "nouns" : [ "area", "subdivision", "neighbourhood", "centre", "medium", "row", "Housing", "mixed-development", "home" ],
+  "text" : "Nutana Suburban Centre (sometimes abbreviated as Nutana SC) is a mixed-development neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2009, the area is home to 2,962 residents. Housing in the neighbourhood consists of high-density apartment-style dwellings and row houses. The neighbourhood is considered a lower-income area, with an average family income of $34,474, an average dwelling value of $266,311 and a home ownership rate of 29.3%. The low average income but comparatively high dwelling value is due to the number of senior citizens residing in the neighbourhood. The age distribution of Nutana SC's population is skewed very highly toward residents age 65 and older.According to MLS data, the average sale price of a home as of 2013 was $296,114."
+}, {
+  "entityIndex" : "43_entity23268",
+  "entityUrl" : "http://dbpedia.org/resource/Nutana_Park,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Nutana Park location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "-LRB-", "considered", "Nutana", "sometimes", "dwelling", "south-central", "subdivision", "2007", "suburban", "2,748", "rate", "neighbourhood", "66,555", "85.1", "value", "area", "$", "257,789", "middle-income", "%", "Saskatoon", "South", "dwellings", "Saskatchewan", "low-density", ",", ".", "Park", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "-RRB-", "located", "residents", "family", "referred" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Nutana Park (sometimes referred to as South Nutana Park) is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,748 residents. The neighbourhood is considered a middle-income area, with an average family income of $66,555, an average dwelling value of $257,789 and a home ownership rate of 85.1%.According to MLS data, the average sale price of a home as of 2013 was $356,116."
+}, {
+  "entityIndex" : "44_entity20717",
+  "entityUrl" : "http://dbpedia.org/resource/Liverpool_City_Region",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Local government districts of Liverpool City Region" ]
+  },
+  "words" : [ "incorporates", "St", "wider", "Depending", "Helens", "city", "Authority", "England", "districts", "political", "used", "body", "local", "centred", "Since", "definition", "definitions", "area", "Liverpool", "Halton", "also", "Knowsley", "City", ",", "'s", ".", "April", "Wirral", "population", "exist", "1", "top-tier", "million", "2014", "administrative", "authority", "2.3", "1.5", "Region", "region", "Combined", "economic", "Sefton", "become", "governance" ],
+  "adjectives" : [ "top-tier", "administrative", "political", "economic", "local" ],
+  "nouns" : [ "area", "city", "authority", "definition", "region", "body", "population", "governance" ],
+  "text" : "The Liverpool City Region is an economic and political area of England centred on Liverpool, which also incorporates the local authority districts of Halton, Knowsley, Sefton, St Helens, and Wirral. Other, wider, definitions of the city region also exist. Depending on the definition used, the region's population is between about 1.5 million and 2.3 million. Since 1 April 2014, the Liverpool City Region Combined Authority has become the top-tier administrative body for the local governance of the city region. Through the combined authority, the six districts pool their responsibilities over strategic policy areas such as economic development, transport, employment and skills, tourism, culture, housing, and physical infrastructure. The region's economic development is also supported by the Liverpool City Region Local Enterprise Partnership (LEP), established in 2010 as the private sector-led board comprising political and business leaders from around the city region."
+}, {
+  "entityIndex" : "45_entity20842",
+  "entityUrl" : "http://dbpedia.org/resource/Lakewood_Suburban_Centre,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Lakewood SC location map" ]
+  },
+  "words" : [ "``", "income", "average", "mostly", "commercial", "considered", "2011", "dwelling", "areas", "medium", "high-density", "civic", "subdivision", "suburban", "composed", "rate", "neighbourhood", "multiple-unit", "value", "1,850", "''", "area", "$", "middle-income", "227,522", "%", "Saskatoon", "dwellings", "Suburban", "centre", "classified", "Saskatchewan", "Centre", ",", "mixed-development", ".", "Lakewood", "home", "76.8", "Canada", "65,927", "ownership", "located", "residents", "facilities", "family", "southeast" ],
+  "adjectives" : [ "average", "commercial", "suburban", "middle-income", "located", "multiple-unit", "high-density", "civic" ],
+  "nouns" : [ "area", "income", "%", "centre", "dwelling", "medium", "mixed-development", "home", "subdivision", "ownership", "rate", "neighbourhood", "family", "value", "southeast" ],
+  "text" : "Lakewood Suburban Centre is a mixed-development neighbourhood located in southeast Saskatoon, Saskatchewan, Canada. It is a classified as a \"suburban centre\" subdivision, composed of mostly medium to high-density multiple-unit dwellings, commercial areas and civic facilities. As of 2011, the area is home to 1,850 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,927, an average dwelling value of $227,522 and a home ownership rate of 76.8%.According to MLS data, the average sale price of a home as of 2013 was $252,618."
+}, {
+  "entityIndex" : "46_entity20843",
+  "entityUrl" : "http://dbpedia.org/resource/Lakeridge,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Lakeridge location map" ]
+  },
+  "words" : [ "income", "average", "considered", "part", "dwelling", "2009", "rate", "neighbourhood", "houses", "value", "Almost", "live", "area", "127,698", "$", "4,051", "%", "Saskatoon", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "357,024", "Lakeridge", "residential", "98.8", "ownership", "located", "residents", "upper-income", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "residential", "located" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "home", "ownership", "rate", "neighbourhood", "upper-income", "family", "value", "southeast" ],
+  "text" : "Lakeridge is a residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. Almost all of its residents live in low-density, single detached houses. As of 2009, the area is home to 4,051 residents. The neighbourhood is considered an upper-income area, with an average family income of $127,698, an average dwelling value of $357,024 and a home ownership rate of 98.8%.According to MLS data, the average sale price of a home as of 2013 was $442,999."
+}, {
+  "entityIndex" : "47_entity20847",
+  "entityUrl" : "http://dbpedia.org/resource/Lakeview,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Lakeview location map" ]
+  },
+  "words" : [ "income", "average", "277,070", "71.0", "considered", "part", "2011", "dwelling", "semi-detached", "minority", "primarily", "high", "rate", "neighbourhood", "majority", "sizeable", "value", "live", "area", "$", "%", "Lakeview", "Saskatoon", "dwellings", "multiple", "Saskatchewan", "low-density", ",", "apartment-style", "120,042", ".", "home", "single", "detached", "Canada", "unit", "residential", "ownership", "located", "residents", "7,732", "family", "southeast" ],
+  "adjectives" : [ "single", "average", "high", "residential", "multiple", "located", "sizeable", "semi-detached", "apartment-style" ],
+  "nouns" : [ "area", "income", "%", "part", "dwelling", "low-density", "minority", "home", "unit", "ownership", "rate", "neighbourhood", "majority", "family", "value", "southeast" ],
+  "text" : "Lakeview is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. The majority of its residents live in low-density, single detached dwellings, with a sizeable minority of semi-detached or apartment-style multiple unit dwellings. As of 2011, the area is home to 7,732 residents. The neighbourhood is considered a high income area, with an average family income of $120,042, an average dwelling value of $277,070 and a home ownership rate of 71.0%. According to MLS data, the average sale price of a home as of 2013 was $322,868.It was the first community in Saskatoon to feature a man-made lake amenity."
+}, {
+  "entityIndex" : "48_entity20960",
+  "entityUrl" : "http://dbpedia.org/resource/Long_Apung",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of the city in East Kalimantan province", "Location of Long Ampung in Indonesia" ]
+  },
+  "words" : [ "Regency", "Kalimantan", "villages", "province", "Apung", "one", "Long", "Malinau", ",", "East", ".", "Indonesia" ],
+  "adjectives" : [ "Long" ],
+  "nouns" : [ "province", "Apung" ],
+  "text" : "Long Apung is one of the villages in the Malinau Regency, in the East Kalimantan province of Indonesia."
+}, {
+  "entityIndex" : "49_entity18135",
+  "entityUrl" : "http://dbpedia.org/resource/Haultain,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Haultain location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "201,503", "value", "area", "Haultain", "$", "middle-income", "%", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "2,742", "home", "single", "detached", "Canada", "consisting", "47,890", "59.3", "residential", "ownership", "located", "residents", "family" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Haultain is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 2,742 residents. The neighbourhood is considered a middle-income area, with an average family income of $47,890, an average dwelling value of $201,503 and a home ownership rate of 59.3%.According to MLS data, the average sale price of a home as of 2013 was $316,411."
+}, {
+  "entityIndex" : "50_entity18141",
+  "entityUrl" : "http://dbpedia.org/resource/Holliston,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Holliston location map" ]
+  },
+  "words" : [ "half", "part", "duplex", "minority", "primarily", "2007", "neighbourhood", "houses", "Street", "sizeable", "area", "business", "Saskatoon", "dwellings", "multiple", "Holliston", "includes", "Saskatchewan", ",", "8th", "apartment-style", ".", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast", "3,412" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "unit", "half", "business", "neighbourhood", "part", "district", "Street", "duplex", "minority", "southeast", "home" ],
+  "text" : "Holliston is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. Just over half of its dwellings are single detached houses, with a sizeable minority of duplex or apartment-style multiple unit dwellings. As of 2007, the area is home to 3,412 residents. The neighbourhood is considered a middle-income area, with an average family income of $51,674, and a home ownership rate of 62.8%.According to MLS data, the average sale price of a home as of 2013 was $357,590."
+}, {
+  "entityIndex" : "51_entity18199",
+  "entityUrl" : "http://dbpedia.org/resource/History_of_Hartford_City,_Indiana",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location in the state of Indiana" ]
+  },
+  "words" : [ "small", "``", "became", "Indiana", "beginning", "log", "boom", "north", "portion", "county", "County", "late", "creek", "Boom", "agricultural", "Located", "farming", "gas", "manufacturing", "near", "state", "east-central", "included", "cabins", "experienced", "''", "1830s", "natural", "began", "caused", "clustered", "one", "also", "City", "economy", ",", "community", ".", "transition", "seat", "15-year", "discovery", "1880s", "Gas", "Blackford", "Hartford" ],
+  "adjectives" : [ "small", "15-year", "late", "natural", "agricultural", "east-central" ],
+  "nouns" : [ "log", "boom", "north", "portion", "county", "economy", "community", "transition", "seat", "creek", "discovery", "gas", "manufacturing", "state" ],
+  "text" : "Hartford City, Indiana, began in the late 1830s as a few log cabins clustered near a creek. The community became the county seat of Blackford County. Located in the north east-central portion of the state, the small farming community experienced a 15-year \"boom\" beginning in the late 1880s caused by the discovery of natural gas. The Indiana Gas Boom caused the community to transition from an agricultural economy to one that also included manufacturing. During the 1890s, Hartford City was the home of the nation's largest window glass company (Hartford City Glass Company)and the nation's largest producer of lantern globes (Sneath Glass Company). The phenomenal growth ended after the boom, but the city was able to retain much of its workforce, as some of the glass factories and paper mills continued operations within the city. Jobs relating to the new automobile industry also became available in nearby cities. In the first half of the 20th century, Hartford City was able to attract several new manufacturers that became cornerstones for employment within the town, including Overhead Door and 3M. However, as the fortunes of the auto industry have declined in recent decades, so have the fortunes of Hartford City. As a reminder of the Gas Boom, the National Park Service of the United States Department of the Interior added the Hartford City Courthouse Square Historic District to the National Register of Historic Places on June 21, 2006—meaning the buildings and objects that contribute to the continuity of the district are worthy of preservation because of their historical and architectural significance. Individual buildings in Hartford City also recognized by the National Register of Historic Places include the Blackford County Courthouse and the First Presbyterian Church."
+}, {
+  "entityIndex" : "52_entity18250",
+  "entityUrl" : "http://dbpedia.org/resource/History_of_Faizabad",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Dury Wall Map of Delhi, Agra and Oudh" ]
+  },
+  "words" : [ "settlements", "temporary", "Ghaghra", "Modern", "Subah", "Court", "reference", "Mughal", "Saket", "King", "meaning", "Ayodhya", "Heaven", "given", "hutment", "Saadat", "banks", "barracks", "made", "'", "estate", "dwellings", "However", "history", ",", "accurately", "Dashrath", "ancient", "-", ".", "Faizabad", "Lord", "Ramayana", "fortress", "Fyzabad", "name", "-RRB-", "mud", "private", "-LRB-", "sources", "Awadh", "city", "father", "Khan", "around", "Burhan-ul-Mulk", "found", "along", "known", "Due", "indicate", "said", "Nawab", "`", "means", "charge", "implied", "holy", "Bangla", "mythical", "earliest", "1722", "Sa'adat", "consisting", "Medieval", "cantonment", "first", "referred", "Ram", "Sanskrit", "Ali" ],
+  "adjectives" : [ "temporary", "private", "Medieval", "holy", "Due", "mythical", "ancient", "first" ],
+  "nouns" : [ "hutment", "charge", "city", "father", "estate", "Ghaghra", "history", "Subah", "reference", "fortress", "cantonment", "meaning", "name", "mud" ],
+  "text" : "The earliest reference made to Fyzabad or now Faizabad is said to be in the Ramayana, in which the city is referred to as Saket, the mythical private estate of King Dashrath, father of Lord Ram but the other sources indicate that Saket, which means Heaven in Sanskrit, is the ancient name of holy city of Ayodhya not Faizabad. However, more accurately, the reference is found in Medieval and Modern history, when Nawab Saadat Ali Khan, Burhan-ul-Mulk was given the charge of the Subah of Awadh around 1722 by the Mughal Court. Nawab Sa'adat Khan made the first settlements along the banks of Ghaghra with a cantonment consisting of a fortress and mud barracks. Due to these temporary dwellings, Faizabad was first known as 'Bangla' (implied meaning- hutment)."
+}, {
+  "entityIndex" : "53_entity18256",
+  "entityUrl" : "http://dbpedia.org/resource/Harsidhi",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location in Bihar" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "54_entity15331",
+  "entityUrl" : "http://dbpedia.org/resource/Demographics_of_Staten_Island",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of Staten Island shown in orange." ]
+  },
+  "words" : [ "New", "largest", "-LRB-", "York", "boroughs", "United", "least", "2010", "borough", "County", "468,730", "153", "States", "km2", "known", "730", "mi", "five", "sq", "According", "area", "living", "59", "%", "populated", "2000", "also", "City", ",", "increase", "Island", "people", ".", "Staten", "Census", "third", "468", "-RRB-", "5.6", "Richmond", "since" ],
+  "adjectives" : [ "third", "populated" ],
+  "nouns" : [ "area", "km2", "%", "borough", "mi", "increase", "sq" ],
+  "text" : "Richmond County, also known as Staten Island is a borough of New York City, New York, United States. Staten Island is the least populated of the five boroughs with 468, 730 people but is the third largest in area at 59 sq mi (153 km2). According to the 2010 Census, there were 468,730 people living in Staten Island, which is an increase of 5.6% since the 2000 Census."
+}, {
+  "entityIndex" : "55_entity15446",
+  "entityUrl" : "http://dbpedia.org/resource/Dompu",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of Dompu Regency in West Nusa Tenggara" ]
+  },
+  "words" : [ "largest", "capital", "-LRB-", "49,854", "Sape", "part", "2010", "Sumbawa", "Nusa", "Kota", "central", "province", "Dompu", "road", "provincial", "Tenggara", "Regency", "eastern", "town", "Bima", "island", "West", ",", "'s", ".", "population", "connected", "Census", "third", "administrative", "-RRB-", "located", ":", "Indonesia" ],
+  "adjectives" : [ "eastern", "central", "third", "administrative", "located", "provincial" ],
+  "nouns" : [ "capital", "town", "province", "Dompu", "road", "island", "part", "population" ],
+  "text" : "Dompu (Indonesia: Kota Dompu) is a town and the administrative capital of the Dompu Regency, located in the eastern part of the island of Sumbawa, in central Indonesia's province of West Nusa Tenggara. It is the third largest town on the island of Sumbawa, with a population of 49,854 at the 2010 Census. It is connected by provincial road to Bima and Sape."
+}, {
+  "entityIndex" : "56_entity28236",
+  "entityUrl" : "http://dbpedia.org/resource/Tandi",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Map of the village development committees in Chitwan District" ]
+  },
+  "words" : [ "eastern", "side", "Municipality", "Chitwan", "city", "Ratnanagar", "district", "lies", "Tandi", "District", "Nepal", "." ],
+  "adjectives" : [ "eastern" ],
+  "nouns" : [ "side", "Municipality", "city", "district" ],
+  "text" : "Tandi is a city in the Ratnanagar Municipality of the Chitwan District in Nepal. It lies on the eastern side of Chitwan district."
+}, {
+  "entityIndex" : "57_entity28365",
+  "entityUrl" : "http://dbpedia.org/resource/Taliwang",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location of West Sumbawa Regency in West Nusa Tenggara" ]
+  },
+  "words" : [ "Regency", "largest", "capital", "-LRB-", "cost", "Taliwang", "town", "city", "44,136", "West", "island", "2010", ",", "Sumbawa", ".", "population", "Kota", "Census", "-RRB-", "fifth", ":", "western", "Indonesia" ],
+  "adjectives" : [ "fifth", "western" ],
+  "nouns" : [ "capital", "cost", "Taliwang", "town", "city", "island", "population" ],
+  "text" : "Taliwang (Indonesia: Kota Taliwang) is the capital city of the West Sumbawa Regency, on the western cost of the island of Sumbawa. It is the fifth largest town on the island of Sumbawa, with a population of 44,136 at the 2010 Census."
+}, {
+  "entityIndex" : "58_entity11459",
+  "entityUrl" : "http://dbpedia.org/resource/Arbor_Creek,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Arbor Creek location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "dwelling", "primarily", "2006", "rate", "neighbourhood", "high-income", "Arbor", "value", "area", "$", "%", "made", "Saskatoon", "dwellings", "northeast", "Saskatchewan", "low-density", ",", "4,654", ".", "home", "single", "detached", "Canada", "327,262", "residential", "99,631", "ownership", "Creek", "located", "residents", "92.5", "family" ],
+  "adjectives" : [ "single", "average", "residential", "high-income", "located", "northeast", "low-density" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "value", "home" ],
+  "text" : "Arbor Creek is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It is mostly made up of low-density single detached dwellings. As of 2006, the area is home to 4,654 residents. The neighbourhood is considered a high-income area, with an average family income of $99,631, an average dwelling value of $327,262 and a home ownership rate of 92.5%.According to MLS data, the average sale price of a home as of 2013 was $416,596."
+}, {
+  "entityIndex" : "59_entity11468",
+  "entityUrl" : "http://dbpedia.org/resource/Adelaide/Churchill,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Adelaide/Churchill location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "90.3", "dwelling", "78,438", "south-central", "2009", "subdivision", "suburban", "rate", "neighbourhood", "value", "3,445", "area", "$", "middle-income", "%", "Saskatoon", "dwellings", "Adelaide/Churchill", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "287,976" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Adelaide/Churchill is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2009, the area is home to 3,445 residents. The neighbourhood is considered a middle-income area, with an average family income of $78,438, an average dwelling value of $287,976 and a home ownership rate of 90.3%.According to MLS data, the average sale price of a home as of 2013 was $350,096."
+}, {
+  "entityIndex" : "60_entity11469",
+  "entityUrl" : "http://dbpedia.org/resource/Avalon,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Avalon location map" ]
+  },
+  "words" : [ "income", "average", "mostly", "considered", "Avalon", "dwelling", "south-central", "subdivision", "2007", "suburban", "rate", "neighbourhood", "168,444", "value", "area", "$", "middle-income", "%", "65,000", "Saskatoon", "dwellings", "Saskatchewan", "low-density", ",", ".", "home", "single", "detached", "Canada", "consisting", "residential", "ownership", "located", "residents", "family", "77.3", "3,214" ],
+  "adjectives" : [ "single", "average", "residential", "suburban", "middle-income", "located", "south-central" ],
+  "nouns" : [ "area", "income", "subdivision", "ownership", "rate", "%", "neighbourhood", "dwelling", "low-density", "family", "value", "home" ],
+  "text" : "Avalon is a mostly residential neighbourhood located in south-central Saskatoon, Saskatchewan, Canada. It is a suburban subdivision, consisting mostly of low-density, single detached dwellings. As of 2007, the area is home to 3,214 residents. The neighbourhood is considered a middle-income area, with an average family income of $65,000, an average dwelling value of $168,444 and a home ownership rate of 77.3%.According to MLS data, the average sale price of a home as of 2013 was $352,359."
+}, {
+  "entityIndex" : "61_entity11645",
+  "entityUrl" : "http://dbpedia.org/resource/Aharji",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Location within Madhya Pradesh" ]
+  },
+  "words" : [ "famous", "Aharji", "historical", "Jainism", "pilgrimage", "Madhya", ",", ".", "India", "site", "Tikamgarh", "central", "Temple", "Pradesh", "road", "located", "Indian", "state", "place", "Chhatarpur", "Jain" ],
+  "adjectives" : [ "central", "famous", "historical", "located", "Indian" ],
+  "nouns" : [ "site", "road", "pilgrimage", "state", "place" ],
+  "text" : "Aharji is a historical pilgrimage site for Jainism in India. It is located in the central Indian state of Madhya Pradesh, on the road from Tikamgarh to Chhatarpur. This place is famous for Jain Temple."
+}, {
+  "entityIndex" : "62_entity29567",
+  "entityUrl" : "http://dbpedia.org/resource/Wild_Dunes",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "South Carolina", "Location of Wild Dunes in" ]
+  },
+  "words" : [ "controlled-access", "oceanfront", "Isle", "Wild", "-LRB-", "island", "north", "South", "United", "Carolina", ",", ".", "States", "km2", "gates", "Palms", "6", "-RRB-", "end", "acres", "resort", "1,600", "Dunes" ],
+  "adjectives" : [ "controlled-access", "oceanfront" ],
+  "nouns" : [ "km2", "island", "north", "end", "resort" ],
+  "text" : "Wild Dunes is an oceanfront resort on Isle of Palms, South Carolina, United States. It is 1,600 acres (6 km2) on the north end of the island and has controlled-access gates."
+}, {
+  "entityIndex" : "63_entity29615",
+  "entityUrl" : "http://dbpedia.org/resource/Wildwood,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Wildwood location map" ]
+  },
+  "words" : [ "townhouse", "part", "2012", "minority", "primarily", "neighbourhood", "Street", "majority", "sizeable", "live", "area", "7,582", "business", "Saskatoon", "multiple", "dwellings", "includes", "Saskatchewan", "low-density", ",", "8th", "apartment-style", ".", "Wildwood", "home", "single", "detached", "Canada", "unit", "residential", "district", "located", "residents", "southeast" ],
+  "adjectives" : [ "single", "residential", "multiple", "located", "sizeable", "8th", "apartment-style" ],
+  "nouns" : [ "area", "townhouse", "business", "part", "low-density", "minority", "home", "unit", "neighbourhood", "district", "Street", "majority", "southeast" ],
+  "text" : "Wildwood is a primarily residential neighbourhood located in the southeast part of Saskatoon, Saskatchewan, Canada. It includes part of the 8th Street business district. The majority of its residents live in townhouse or apartment-style multiple unit dwellings, with a sizeable minority of low-density, single detached dwellings. As of 2012, the area is home to 7,582 residents. The neighbourhood is considered a middle-income area, with an average family income of $64,196, and a home ownership rate of 64.7%.According to MLS data, the average sale price of a home as of 2013 was $270,309."
+}, {
+  "entityIndex" : "64_entity29621",
+  "entityUrl" : "http://dbpedia.org/resource/Willowgrove,_Saskatoon",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "Willowgrove location map" ]
+  },
+  "words" : [ "income", "average", "Willowgrove", "considered", "fewer", "2011", "dwelling", "primarily", "mainly", "rate", "neighbourhood", "houses", "high-income", "single-family", "multiple-unit", "84.8", "mix", "value", "area", "middle", "$", "%", "Saskatoon", "dwellings", "northeast", "Saskatchewan", ",", "comprises", ".", "home", "detached", "Canada", "96,002", "residential", "ownership", "located", "residents", "family", "218,357", "3,973" ],
+  "adjectives" : [ "average", "residential", "middle", "high-income", "located", "northeast", "single-family", "multiple-unit" ],
+  "nouns" : [ "area", "income", "ownership", "rate", "%", "neighbourhood", "dwelling", "family", "mix", "value", "home" ],
+  "text" : "Willowgrove is a primarily residential neighbourhood located in northeast Saskatoon, Saskatchewan, Canada. It comprises a mix of mainly single-family detached houses and fewer multiple-unit dwellings. As of 2011, the area is home to 3,973 residents. The neighbourhood is considered a middle to high-income area, with an average family income of $96,002, an average dwelling value of $218,357 and a home ownership rate of 84.8%.According to MLS data, the average sale price of a home as of 2013 was $456,157."
+}, {
+  "entityIndex" : "65_entity19412",
+  "entityUrl" : "http://dbpedia.org/resource/Kamunting",
+  "dboClass" : "dbo:City",
+  "properties" : {
+    "dbp:mapCaption" : [ "The map of Kamunting City" ]
+  },
+  "words" : [ "Larut", "``", "Detention", "held", "Internal", "United", "Malaysia", "run", "Security", "three", "mainly", "without", "trial", "Brigade", "dan", "States", "biggest", "major", "Commonwealth", "Malay", "military", "Guantanamo", "prison", "Malaya", "similar", "period", "pronunciation", "town", "large", "nicknamed", "BMHs", "'s", ",", "28th", ".", "Kamunting", "/", "Kemunting", "camp", "Hospitals", "district", "-RRB-", ":", "1948", "hundred", "-LRB-", "detainees", "indefinite", "Gitmo", "referring", "2006", "satellite", "Selama", "Military", "''", "Center", "British", "Taiping", "famous", "British/Commonwealth", "one", "Matang", "also", "many", "home", "Perak", "Cuba", "Infantry", "industrial", "site", "Independent", "Act", "1960", "garrison", "Malayan", "holds", "Bay", "Emergency", "base" ],
+  "adjectives" : [ "similar", "industrial", "British", "famous", "major", "large", "Malay", "military", "many", "28th", "indefinite" ],
+  "nouns" : [ "period", "pronunciation", "town", "British/Commonwealth", "trial", "Kamunting", "Kemunting", "home", "camp", "Brigade", "site", "garrison", "district", "satellite", "prison", "base" ],
+  "text" : "Kamunting (Malay pronunciation: /Kemunting/) is the biggest satellite town in Taiping's Larut, Matang dan Selama district, Perak, Malaysia. It is also the biggest industrial town in Taiping and is famous mainly for being home to the Kamunting Detention Center a prison camp for detainees under the Internal Security Act, many of whom are held without trial for an indefinite period. The prison has been nicknamed \"Malaysia's Gitmo\" (referring to the Guantanamo Bay or Gitmo prison for similar detainees in Cuba run by the United States), and holds about a hundred detainees as of 2006. During the Malayan Emergency between 1948 and 1960, Kamunting was the site of a major British/Commonwealth military base, there being a large garrison for the 28th Commonwealth Independent Infantry Brigade and also one of the three British Military Hospitals (BMHs) in Malaya. Between Taiping and Kamunting is one of the main Military Cemeteries in Malaya. Over the many years of the conflict against the Communist terrorists, thousands of British, Australian, New Zealand, Fijian and Gurkha troops lived - and died - in and around Kamunting and Taiping. Kamunting houses the main bus station (Kamunting Raya) for Taiping town. Soon the Taiping train station will relocate there too. It has a weekly night market every Saturday night near the bus station that sells all sorts of local fresh produce and food stuffs. There are also fruit sellers along the road leading to the Kamunting bus stops which sell seasonal fruits like durian and mangosteens. It also connects Taiping to the North-South Expressway via the northern exit. Major tourist spot is Bukit Jana, which has a waterfall and streams off the range of Bukit Larut. The Bukit Jana Golf & Country Club is also situated nearby. Plans for Taiping sports centre, which includes a 15000-seater stadium, indoor venues and extreme sports site, are still under consideration."
+} ]

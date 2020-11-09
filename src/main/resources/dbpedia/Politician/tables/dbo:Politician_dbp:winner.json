@@ -1,0 +1,253 @@
+[ {
+  "entityIndex" : "1_entity11095",
+  "entityUrl" : "http://dbpedia.org/resource/Kent_Sorenson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Kent Sorenson" ]
+  },
+  "words" : [ "-LRB-", "29", "March", "operator", "realtor", "School", "1972", "legislator", "Star", "IA", "North", "state", "According", "High", "owner", "Kent", "Indianola", "born", "profile", "1990", "Realty", "Maintenance", ",", "former", ".", "LinkedIn", "Iowa", "Sorenson", "Pro-Kleen", "currently", "Norwalk", "graduated", "-RRB-", "EXIT" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "owner", "realtor", "LinkedIn", "legislator", "profile", "state", "operator" ],
+  "text" : "Kent Sorenson (born March 29, 1972) is a former Iowa state legislator. Sorenson graduated from Indianola High School in 1990. He was the owner and operator of Pro-Kleen Maintenance. According to his LinkedIn profile, Sorenson is currently a realtor with EXIT Realty North Star in Norwalk, IA. Sorenson is not listed as an agent on the EXIT website. A Republican, he served in the Iowa House of Representatives from 2009 to 2011, representing District 74 and then represented District 37 in the Iowa Senate. As of October 2013, Sorenson was a member of the Judiciary,Government Oversight, and State Government committees of the Iowa Senate. He was also the ranking member of both the Senate and Joint Oversight Committees and a member of the Advisory Council for Agricultural Education, the Family Development and Self-Sufficiency Council, and the Human Rights Board. Sorenson resigned from office October 2, 2013 after Iowa’s Senate Ethics committee found “probable cause” that Sorenson violated state ethics rules by taking payments from the Michele Bachmann (R MN) and Ron Paul (R TX) campaigns in the 2012 Republican Presidential primaries and that \"his denials of doing so constituted felonious misconduct in office.\"",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity11161",
+  "entityUrl" : "http://dbpedia.org/resource/Kerry_Bentivolio",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Democratic Party", "Republican Party" ]
+  },
+  "words" : [ "Oktober", "Politiker", "Detroit", "-LRB-", "ist", "ein", "den", "bis", "1951", "US-Repräsentantenhaus", "Bundesstaat", "US-amerikanischer", "vertrat", "im", "*", ",", "er", ".", "Kerry", "Michigan", "Von", "2015", "6", "2013", "-RRB-", "Bentivolio" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "vertrat", "US-Repräsentantenhaus", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Kerry Bentivolio (* 6. Oktober 1951 in Detroit, Michigan) ist ein US-amerikanischer Politiker. Von 2013 bis 2015 vertrat er den Bundesstaat Michigan im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity13658",
+  "entityUrl" : "http://dbpedia.org/resource/N._R._Govindarajar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Indian National Congress" ]
+  },
+  "words" : [ "Munnetra", "Nadu", "-LRB-", "K.", "Elangovan", "upper", "E.", "house", "contested", "N", "Gobichettipalayam", "Elections", "R", "Sabha", "2004", "lost", "member", "V.", "Dravida", "Anna", "previous", "politician", "representing", "Lok", ",", "Tamil", ".", "India", "Rajya", "constituency", "Govindarajar", "-RRB-", "Indian", "General", "S.", "Kazhagam", "Parliament" ],
+  "adjectives" : [ "previous", "upper", "Indian" ],
+  "nouns" : [ "R", "constituency", "politician", "member", "house", "N" ],
+  "text" : "N R Govindarajar an Indian politician from All India Anna Dravida Munnetra Kazhagam and a previous member of the Parliament of India representing Tamil Nadu in the Rajya Sabha, the upper house of the Indian Parliament. He contested the 2004 Indian General Elections from Gobichettipalayam (Lok Sabha constituency) and lost to E. V. K. S. Elangovan.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity8188",
+  "entityUrl" : "http://dbpedia.org/resource/Jesse_White_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Democratic Party" ]
+  },
+  "words" : [ "37th", "June", "23", "-LRB-", "American", "Secretary", "Previously", "Jesse", "Cook", "Representatives", "County", "hold", "Clark", "Party", "1993", "member", "longest-serving", "1979", "1934", "Deeds", "1999", "athlete", "Democratic", "born", "politician", "Recorder", "House", ",", ".", "African", "White", "State", "Illinois", "served", "-RRB-", "position", "first", "since" ],
+  "adjectives" : [ "37th", "American", "longest-serving", "first", "African" ],
+  "nouns" : [ "athlete", "State", "politician", "member", "Recorder", "position" ],
+  "text" : "Jesse Clark White (born June 23, 1934) is an American athlete and politician from the State of Illinois. A member of the Democratic Party, he has served as the 37th Secretary of State of Illinois since 1999. He is the longest-serving and the first African American to hold this position. Previously, he served as the Cook County Recorder of Deeds from 1993 to 1999 and in the Illinois House of Representatives from 1979 to 1993. On August 20, 2015, White announced during the Illinois State Fair, that he wouldn't seek reelection to a sixth term in 2018.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity9432",
+  "entityUrl" : "http://dbpedia.org/resource/John_William_Wilson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Liberal Party" ]
+  },
+  "words" : [ "named", "-LRB-", "architect", "John", "Wilson", ",", "William", "people", ".", "see", "Australian", "-RRB-", "disambiguation" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "architect", "disambiguation" ],
+  "text" : "(For the Australian architect, see John William Wilson (architect).)(For other people named John Wilson, see John Wilson (disambiguation).)",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity9665",
+  "entityUrl" : "http://dbpedia.org/resource/Jarvis_Johnson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "✓" ]
+  },
+  "words" : [ "139th", "Mayor", "B", "-LRB-", "Sylvester", "September", "26", "27", "city", "official", "Honorable", "office", "Representatives", "serve", "stepping", "three", "years", "Council", "holding", "1971", "terms", "Jarvis", "member", "limit", "term", "Member", "Johnson", "Democratic", "born", "representing", "D.", "House", ",", ".", "former", "elected", "currently", "2016", "Texas", "Turner", "served", "-RRB-", "District", "since", "succeeded", "Houston" ],
+  "adjectives" : [ "Democratic", "Honorable", "former" ],
+  "nouns" : [ "139th", "city", "member", "limit", "official", "term", "office" ],
+  "text" : "Jarvis D. Johnson (born September 27, 1971) is an elected official currently holding office as a Democratic member of The Texas House of Representatives, representing the 139th District since 2016. He succeeded The Honorable Sylvester Turner who served for 26 years before stepping down to serve as Mayor of Houston. He is a former District B District Council Member that served the term limit, three terms, in the city of Houston, Texas.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity4697",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Harold_Pickering",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Liberal Party" ]
+  },
+  "words" : [ "--", "Professor", "British", "-LRB-", "Literature", "Liberal", "West", "Harold", "also", "Leicester", ".", "English", "constituency", "University", "Tokyo", "Pickering", "1881", "-RRB-", "Ernest", "January", "1957", "Member", "31", "Parliament" ],
+  "adjectives" : [ "British", "Liberal" ],
+  "nouns" : [ "Literature", "constituency" ],
+  "text" : "Ernest Harold Pickering (1881 – 31 January 1957) was a British Liberal Member of Parliament for the Leicester West constituency. He was also Professor of English Literature at Tokyo University.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity5020",
+  "entityUrl" : "http://dbpedia.org/resource/Ed_Neilson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Democratic Party" ]
+  },
+  "words" : [ "``", "outgoing", "American", "May", "councilmember", "2012", "Representatives", "serve", "Edward", "Council", "174th", "Party", "won", "member", "''", "Neilson", "election", "169th", "Democratic", "politician", "House", "City", "replacing", ",", ".", "April", "Pennsylvania", "at-large", "August", "special", "2015", "2014", "Bill", "District", "Philadelphia", "Green", "Ed", "represent" ],
+  "adjectives" : [ "special", "outgoing", "American", "at-large" ],
+  "nouns" : [ "election", "169th", "politician", "councilmember", "member", "District", "174th" ],
+  "text" : "Edward \"Ed\" Neilson is an American politician and member of the Democratic Party. In April 2012, he won a special election to represent the 169th District in the Pennsylvania House of Representatives. In May 2014 he won a special election to serve as an at-large member of Philadelphia City Council replacing outgoing councilmember Bill Green. In August 2015, he won a special election to represent the 174th District in the Pennsylvania House of Representatives.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity15118",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_William_Hamilton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Liberal Party", "Unionist Party" ]
+  },
+  "words" : [ "†", "Politiker", "-LRB-", "15", "Liberal", "war", "*", "Juli", "ein", "William", ".", "der", "Party", "Robert", "Hamilton", "-RRB-", "schottischer", ";", "1867", "1944" ],
+  "adjectives" : [ ],
+  "nouns" : [ "schottischer", "war", "ein" ],
+  "text" : "Robert William Hamilton (* 1867; † 15. Juli 1944) war ein schottischer Politiker der Liberal Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity15536",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Andrew_Allison",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Liberal Party" ]
+  },
+  "words" : [ "Rugby", "Railway", "-LRB-", "Trinity", "Eden", "March", "Carlisle", "Cambridge", "Morent", "School", "son", "Robert", "Commons", "1838", "January", "--", "15", "Andrew", "Liberal", "wife", "director", "politician", "sat", "Allison", "House", ",", "Jane", ".", "English", "educated", "3", "1885", "Midland", "Joseph", "-RRB-", "College", "1926", "Sir", "1900" ],
+  "adjectives" : [ "English", "Liberal" ],
+  "nouns" : [ "Railway", "son", "wife", "director", "politician" ],
+  "text" : "Sir Robert Andrew Allison (3 March 1838 – 15 January 1926) was an English Liberal politician who sat in the House of Commons from 1885 to 1900. Allison was the son of Joseph Allison of Eden Morent Carlisle and his wife Jane Andrew. He was educated at Rugby School and at Trinity College, Cambridge. He was a director of the Midland Railway. In 1885, he was elected as MP for Eskdale and held the seat until 1900. He was J.P. and Deputy Lieutenant for Cumberland and was High Sheriff of Cumberland in 1908. He was knighted in 1910. Allison was the author of several works including",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity15767",
+  "entityUrl" : "http://dbpedia.org/resource/Reid_Ribble",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Republican Party" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Reid", "2011", "ist", "ein", "den", "County", "US-Repräsentantenhaus", "Bundesstaat", "1956", "Wisconsin", "US-amerikanischer", "James", "im", "Winnebago", "vertritt", "*", ",", "er", ".", "April", "Ribble", "5", "-RRB-", "Seit", "Neenah" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Reid James Ribble (* 5. April 1956 in Neenah, Winnebago County, Wisconsin) ist ein US-amerikanischer Politiker. Seit 2011 vertritt er den Bundesstaat Wisconsin im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity4049",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_La_Botz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Republican Party" ]
+  },
+  "words" : [ "``", "United", "States", "La", "academic", "Teamsters", "written", "worker", "ran", "activist", "author", "Democratic", "Daniel", "Solidarity", "Botz", ",", ".", "August", "labor", "journalist", "seat", "Senate", "revolutionary", "-RRB-", "9", "1945", "co-founder", "-LRB-", "prominent", "American", "comes", "2010", "Socialist", "Union", "Party", "rights", "member", "democratic", "anti-racist", "tradition", "''", "socialist", "TDU", "H.", "born", "union", "Trotskyist", "describes", "extensively", "organization", "Mexico", "feminist" ],
+  "adjectives" : [ "socialist", "prominent", "American", "academic", "revolutionary", "democratic", "anti-racist", "feminist" ],
+  "nouns" : [ "activist", "journalist", "seat", "author", "organization", "member", "union", "tradition", "worker", "labor", "co-founder" ],
+  "text" : "Daniel H. La Botz (born August 9, 1945) is a prominent American labor union activist, academic, journalist, and author. He was a co-founder of Teamsters for a Democratic Union (TDU) and has written extensively on worker rights in the United States and Mexico. He is a member of the socialist organization Solidarity, which describes itself as \"a democratic, revolutionary socialist, feminist, anti-racist organization,\" which comes out of the Trotskyist tradition. La Botz ran in 2010 for a seat in the United States Senate for the Socialist Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity7115",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Chancellor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Coalition Liberal" ]
+  },
+  "words" : [ "--", "Chancellor", "June", "British", "-LRB-", "14", "radical", "Liberal", "politician", "March", ",", ".", "3", "1863", "Party", "George", "-RRB-", "Henry", "1945" ],
+  "adjectives" : [ "British", "radical" ],
+  "nouns" : [ "politician" ],
+  "text" : "Henry George Chancellor (3 June 1863 – 14 March 1945), was a radical British Liberal Party politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity16259",
+  "entityUrl" : "http://dbpedia.org/resource/Sammy_Wilson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Democratic Unionist Party" ]
+  },
+  "words" : [ "Antrim", "June", "Mayor", "-LRB-", "MLA", "office", "parliament", "hold", "1998", "Samuel", "1953", "Belfast", "Party", "Ireland", "2003", "Unionist", "Northern", "member", "Member", "Assembly", "DUP", "--", "British", "MP", "Democratic", "born", "politician", "Wilson", "2001", "2000", "April", ".", "1987", "Lord", "1986", "4", "2015", "person", "served", "-RRB-", "Legislative", "East", "first" ],
+  "adjectives" : [ "British", "Democratic", "Northern", "Legislative", "first" ],
+  "nouns" : [ "MP", "MLA", "person", "politician", "member", "office", "parliament", "Assembly" ],
+  "text" : "Samuel Wilson (born 4 April 1953) is a British politician from Northern Ireland who is a member of parliament (MP) for East Antrim. He served as a Member of the Legislative Assembly (MLA) for Belfast East from 1998 until 2003 and for East Antrim from 2003 until 2015. He served as Lord Mayor of Belfast in 1986 – 1987 and again from June 2000 to June 2001. He was the first person from the Democratic Unionist Party (DUP) to hold the office. He previously served as Minister of Finance and Personnel and Minister of the Environment in the Northern Ireland Executive.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity16335",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Robert_Thomas,_1st_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Liberal Party" ]
+  },
+  "words" : [ "insurance", "23", "-LRB-", "September", "27", "John", "ship", "County", "1st", "1951", "Party", "1873", "Robert", "1918", "Baronet", "businessman", "Thomas", "--", "Garreglwyd", "Liberal", "created", "politician", "Welsh", "Anglesey", ",", "broker", "April", ".", "elected", "twice", "-RRB-", "Sir", "Parliament" ],
+  "adjectives" : [ ],
+  "nouns" : [ "insurance", "politician", "ship", "Baronet", "broker", "businessman" ],
+  "text" : "Sir Robert John Thomas, 1st Baronet (23 April 1873 – 27 September 1951) was a Welsh businessman and Liberal Party politician, who was twice elected to Parliament. Thomas was a ship and insurance broker. In 1918 he was created a Baronet, of Garreglwyd in the County of Anglesey.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity16462",
+  "entityUrl" : "http://dbpedia.org/resource/Sydney_Arnold,_1st_Baron_Arnold",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Liberal Party" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Altrincham", "britischer", "später", "Labour", "ein", "unter", "County", "anderem", "der", "1931", "Party", "Baron", "Januar", "1878", "†", "13", "Liberal", "war", "*", "und", ",", ".", "Arnold", "August", "Hale", "Chester", "1", "zwischen", "Cheshire", "3", "-RRB-", "1929", "Paymaster", "General", ";", "Sydney", "1945", "sowie" ],
+  "adjectives" : [ "und", "Januar" ],
+  "nouns" : [ "der", "zwischen", "britischer", "war", "später", "ein", "sowie" ],
+  "text" : "Sydney Arnold, 1. Baron Arnold, of Hale in the County of Chester (* 13. Januar 1878 in Altrincham, Cheshire; † 3. August 1945) war ein britischer Politiker der Liberal Party sowie später der Labour Party, der unter anderem zwischen 1929 und 1931 Paymaster General war.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity16557",
+  "entityUrl" : "http://dbpedia.org/resource/Scott_Peters_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "California Democratic Party" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Juni", "ist", "ein", "den", "Peters", "US-Repräsentantenhaus", "1958", "Bundesstaat", "US-amerikanischer", "im", "H.", "17", "vertritt", "*", ",", "er", ".", "Kalifornien", "Springfield", "2013", "-RRB-", "Ohio", "Seit", "Scott" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Scott H. Peters (* 17. Juni 1958 in Springfield, Ohio) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat Kalifornien im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity5402",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Walter_Raffety",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Unionist Party" ]
+  },
+  "words" : [ "Buckinghamshire", "politics", "became", "-LRB-", "September", "called", "barrister", "developed", "Royal", "1898", "1875", "School", "bar", "OBE", "Party", "son", "secretary", "interest", "Education", "Northern", "Wycombe", "Walter", "--", "High", "attended", "Social", "Charles", "British", "League", "Liberal", "politician", "Raffety", "Circuit", "honorary", "Grammar", ",", ".", "Middle", "practised", "Temple", "8", "-RRB-", "Political", "Frank", "1946" ],
+  "adjectives" : [ "High", "British", "honorary" ],
+  "nouns" : [ "bar", "son", "secretary", "interest", "politician", "barrister", "Wycombe" ],
+  "text" : "Frank Walter Raffety OBE (1875 – September 8, 1946) was a British barrister and Liberal Party politician. He was the son of Charles Walter Raffety, of High Wycombe, Buckinghamshire and attended the Royal Grammar School, High Wycombe. In 1898 he was called to the bar at the Middle Temple, and practised on the Northern Circuit. He developed an interest in politics, and became honorary secretary of the Social and Political Education League. The organisation was established to provide political education to the general public, and in particular to promote moderation over revolution. He was also an active member of the Eighty Club, an educational group within the Liberal Party. He was selected as Liberal prospective parliamentary candidate for Stamford for a general election expected to take place in 1915. He unsuccessfully contested the Lewisham West by-election in September 1921; In March of the following year he was elected to the London County Council, as a (Liberal-backed) Progressive Party councillor for Islington West; At the general election in November 1922 he failed to win Bristol West; A further general election was held in 1923, and Raffety was elected Liberal Member of Parliament (MP) for Bath; His membership of the Commons was brief, as he was defeated when a further general election was called in 1924; He again stood as a Liberal candidate at Cheltenham in 1929; and East Dorset in 1935, but failed to be elected; Raffety remained active in Liberal party politics, as a speaker. He became the Chairman of the Industrial Co-Partnership Association. In 1943 he was granted the freedom of the borough of High Wycombe, of which he had been honorary recorder since 1905. In 1945 he was made an Officer of the Order of British Empire. He died at his home in Bramley, Surrey in August 1946, aged 71.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity6273",
+  "entityUrl" : "http://dbpedia.org/resource/Gary_Tauchen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "Republican Party" ]
+  },
+  "words" : [ "UW-River", "Renewable", "Ainsworth", "replace", "John", "Workforce", "1976", "retiring", "earned", "1971", "graduate", "Development", "Bonduel", "long-time", "Assembly", "Outagamie", "committees", "6th", "includes", "'s", ",", ".", "elected", "Falls", "State", "Animal", "science", "parts", "-RRB-", "counties", "Shawano", "District", "-LRB-", "serves", "Science", "represents", "School", "2006", "Energy", "Agriculture", "Wisconsin", "Gary", "Rural", "High", "Affairs", "Tauchen", "bachelor", "Oconto", "Representative", "first" ],
+  "adjectives" : [ "6th", "long-time", "first" ],
+  "nouns" : [ "State", "graduate", "bachelor", "science", "District", "Assembly" ],
+  "text" : "Gary Tauchen is a State Representative who represents  Wisconsin's 6th Assembly District which includes parts of Oconto, Shawano, and Outagamie counties. He was first elected in 2006 to replace long-time State Representative John Ainsworth, who was retiring. Tauchen serves on the committees on Agriculture, Renewable Energy and Rural Affairs, and Workforce Development. He is a graduate of Bonduel High School (1971) and earned his bachelor of science in Animal Science from UW-River Falls in 1976.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity14530",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Hoyt_Brown",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "✓" ]
+  },
+  "words" : [ "``", "nine", "Mayor", "held", "office", "poll", "nearest", "locally", "late", "opponent", "1936", "Member", "Hoyt", "11", "eliminated", "16", "conducted", "Public", ",", "'s", ".", "at-large", "/", "Mayoral", "3", "Texas", "-RRB-", "Bill", "position", "Brown", "-LRB-", "independent", "city", "KUHF", "Council", "point", "2009", "holding", "October", "candidate", "News", "term", "limits", "November", "''", "election", "race", "born", "politician", "Radio", "Although", "vacated", "lead", "White", "due", "Known", "succeed", "showed", "Peter", "Houston" ],
+  "adjectives" : [ "Brown", "independent", "late", "due", "at-large" ],
+  "nouns" : [ "candidate", "election", "race", "city", "politician", "opponent", "office", "position", "poll", "lead", "point" ],
+  "text" : "Peter Hoyt Brown (born October 16, 1936) is a politician who held office as an at-large Council Member in the city of Houston, Texas. Known locally as \"Peter Brown,\" he was a candidate for the 2009 Houston Mayoral race, to succeed then Mayor Bill White who vacated the position due to term limits. Although an independent poll conducted by 11 News/ KUHF Houston Public Radio poll in late October 2009, showed Brown holding the lead in the Mayor's race with a nine point lead over his nearest opponent, he was eliminated in the November 3, 2009 election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity971",
+  "entityUrl" : "http://dbpedia.org/resource/Anne_Clutterbuck",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:winner" : [ "✓" ]
+  },
+  "words" : [ "-LRB-", "oversees", "Holocaust", "Stars", "official", "body", "Committee", "County", "System", "known", "public", "member", "Kirby", "Foundation", "Anne", "Hospital", "Upper", "living", "Health", "health", "Harris", "also", ",", "Advisory", "former", ".", "elected", "Clutterbuck", "governing", "system", "attorney", "Texas", "Theatre", "-RRB-", "Museum", "trustee", "trustees", "region", "District", "board", "managers", "Houston" ],
+  "adjectives" : [ "public", "official", "former" ],
+  "nouns" : [ "living", "system", "attorney", "member", "health", "trustee", "body", "region", "board" ],
+  "text" : "Anne Clutterbuck is an attorney and former elected official living in Houston, Texas. She is a member of the board of managers of the Harris County Hospital District (also known as the Harris Health System), the governing body that oversees the public health system in the Harris County, Texas region. Anne is a trustee on the board of trustees of the Holocaust Museum Houston  and the Upper Kirby District Foundation . She is on the Advisory Committee of the board of the Theatre Under the Stars . Anne was elected to three terms on Houston City Council, where she served from January 2006 through 2011, when she was term limited. While on city council, she served as chair of the Budget & Fiscal Affairs Committee and as mayor pro tempore. She also represented the City of Houston as a director of the Houston-Galveston Area Council (H-GAC), where she was the vice chair of the Budget Committee and the Legislative Affairs Committee and chair of the Audit Committee. Anne received her undergraduate degree from Baylor University and her law degree from the University of Houston Law Center. She and her husband, John Clutterbuck, have two children: Caroline and William.",
+  "patterns" : { }
+} ]

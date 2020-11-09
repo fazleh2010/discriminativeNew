@@ -1,0 +1,121 @@
+[ {
+  "entityIndex" : "1_entity8956",
+  "entityUrl" : "http://dbpedia.org/resource/John_Westlake",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Whewell Professor of International Law" ]
+  },
+  "words" : [ "Professor", "Ehrenpräsidenten", "Grafschaft", "englischer", "de", "Cornwall", "-LRB-", "Institut", "John", "ein", "Cambridge", "Er", "internationales", "ernannt", "Recht", "Lostwithiel", "der", "zum", "des", "wurde", "international", "1913", "für", "1911", "Droit", "†", "14", "Sozialreformer", "war", "als", "*", "und", ",", ".", "April", "Jurist", "Westlake", "wirkte", "4", "University", "London", "-RRB-", "1828", ";", "Februar" ],
+  "adjectives" : [ "international", "Februar" ],
+  "nouns" : [ "englischer", "wirkte", "zum", "Sozialreformer", "wurde", "war", "und", "ein", "Er", "für", "ernannt", "Jurist" ],
+  "text" : "John Westlake (* 4. Februar 1828 in Lostwithiel, Grafschaft Cornwall; † 14. April 1913 in London) war ein englischer Jurist und Sozialreformer. Er wirkte als Professor für internationales Recht an der University of Cambridge und wurde 1911 zum Ehrenpräsidenten des Institut de Droit international ernannt. Schwerpunkt seiner rechtswissenschaftlichen Tätigkeit war das internationale Privatrecht.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity4769",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Noel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Member of Parliament forDumfries Burghs" ]
+  },
+  "words" : [ "``", "Company", "named", "-LRB-", "May", "classes", "1880", "1931", "1831", "Scottish", "Labourers", "1874", "Artizans", "member", "construction", "working", "Ernest", "--", "''", "new", "honour", "Wood", "&", "18", "chairman", ",", "Noel", ".", "August", "Park", "seat", "1886", "FGS", "Dumfries", "Burghs", "-RRB-", "General", "suburb", "20", "Parliament", "Dwellings", "Green" ],
+  "adjectives" : [ "new", "Scottish" ],
+  "nouns" : [ "seat", "honour", "member", "construction", "suburb", "chairman" ],
+  "text" : "Ernest Noel, FGS (18 August 1831 – 20 May 1931) was member of Parliament for the Scottish seat of Dumfries Burghs from 1874 to 1886. He was chairman of the Artizans, Labourers & General Dwellings Company from 1880, during the construction of a new suburb for the working classes in Wood Green which was named \"Noel Park\" in his honour.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity19363",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_Ah_Fook",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "S.M.J. (Setia Mahkota Johor)" ]
+  },
+  "words" : [ "、", "。", "在南洋通稱黃福或黃亞福", "號甫田", "1837年", "因曾承包柔佛蘇丹王宮工程", "柔盛餉碼和謙源公司", "Ah", "（", "1918年9月12日", "）", "，", "－", "是馬來西亞柔佛州著名的港主和企业家", "原為一名木匠", "他与苏丹阿布峇卡和皇后花蒂瑪", "Wong", "新山的许多历史建筑物都是他承建的", "的关系很好", "Fook", "于1854年移居至新加坡", "黃亞福", "字彥廷", "黃亞嬌", "而獲蘇丹頒發柔佛王室效忠勛章", "原籍为广东台山县", "包括柔佛大皇宫和新山监狱", "过后发展成橡胶种植园主及建筑商", "在新山創辦柔盛公司", "SMJ", "原名黃福基", "并成为柔佛州政府的主要建筑承包商" ],
+  "adjectives" : [ ],
+  "nouns" : [ "SMJ", "。", "Ah", "（", "）", "，" ],
+  "text" : "黃亞福，SMJ（Wong Ah Fook，1837年－1918年9月12日），是馬來西亞柔佛州著名的港主和企业家，原籍为广东台山县，字彥廷，號甫田。原名黃福基，在南洋通稱黃福或黃亞福。于1854年移居至新加坡，原為一名木匠，过后发展成橡胶种植园主及建筑商，并成为柔佛州政府的主要建筑承包商。他与苏丹阿布峇卡和皇后花蒂瑪（黃亞嬌）的关系很好，新山的许多历史建筑物都是他承建的，包括柔佛大皇宫和新山监狱。因曾承包柔佛蘇丹王宮工程，而獲蘇丹頒發柔佛王室效忠勛章。在新山創辦柔盛公司、柔盛餉碼和謙源公司。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity19527",
+  "entityUrl" : "http://dbpedia.org/resource/Wafula_Oguttu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Bugiri District", "Parliament of Uganda", "MP for Bukooli Central", "former Leader of Opposition" ]
+  },
+  "words" : [ "-LRB-", "Leader", "Nandala", "May", "Opposition", "2011", "Central", "Sub-region", "County", "Bugiri", "Wafula", "December", "1952", "Phillip", "January", "Mafabi", "Member", "31", "MP", "born", "politician", "Bukhooli", "Oguttu", "also", "replacing", ",", "Ugandan", ".", "former", "Busoga", "journalist", "appointed", "constituency", "2014", "served", "-RRB-", "Region", "Uganda", "Eastern", "position", "District", "Parliament", "21" ],
+  "adjectives" : [ "Ugandan", "former" ],
+  "nouns" : [ "journalist", "constituency", "politician", "position", "Sub-region" ],
+  "text" : "Phillip Wafula Oguttu (born 21 December 1952) is a Ugandan journalist and politician. He is a former Leader of Opposition in the Ugandan Parliament. He was appointed to that position on 31 January 2014, replacing Nandala Mafabi, who served in that position from May 2011 until January 2014. Wafula is also the Member of Parliament (MP) for Bukhooli County Central, a constituency in Bugiri District, Busoga Sub-region, Eastern Region of Uganda. He is a member of Uganda's opposition party Forum for Democratic Change (FDC) for which he is the spokesperson. Oguttu is also one of the co-founders of the Daily Monitor, a privately owned English-language daily newspaper in Uganda.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity3116",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_Ernest_of_Stolberg-Wernigerode",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Count of Stolberg-Wernigerode" ]
+  },
+  "words" : [ "Oktober", "die", "Grafschaft", "-LRB-", "25", "Harz", "seit", "unter", "bis", "unmittelbarer", "Graf", "1710", "stehende", "von", "1771", "Gedern", "Brandenburg-Preußens", "1714", "†", "Ernst", "im", "regierte", "über", "*", "1691", ".", "April", "Oberhoheit", "2", "Christian", "Wernigerode", "-RRB-", "zu", ";", "Stolberg-Wernigerode" ],
+  "adjectives" : [ "seit" ],
+  "nouns" : [ "unmittelbarer", "Oberhoheit", "von", "regierte", "über", "zu", "unter" ],
+  "text" : "Graf Christian Ernst zu Stolberg-Wernigerode (* 2. April 1691 in Gedern; † 25. Oktober 1771 in Wernigerode) regierte von 1710 bis 1771 über die seit 1714 unter unmittelbarer Oberhoheit Brandenburg-Preußens stehende Grafschaft Wernigerode im Harz.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity16124",
+  "entityUrl" : "http://dbpedia.org/resource/Raghunath_Singh_Bahadur",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Maharawal of Jaisalmer" ]
+  },
+  "words" : [ "``", "-LRB-", "independent", "28", "Sabha", "candidate", "Raghunath", "Singh", "Member", "1957", "November", "''", "Bahadur", "Jaisalmer", "born", "Lok", "Barmer", ",", "Rajasthan", ".", "Maharawal", "elected", "constituency", "1929", "-RRB-", "Parliament" ],
+  "adjectives" : [ "independent" ],
+  "nouns" : [ "candidate", "constituency", "Maharawal" ],
+  "text" : "Raghunath Singh Bahadur (born November 28, 1929) was a \"Maharawal of Jaisalmer\" and Lok Sabha in Member of Parliament elected independent candidate 1957 for Barmer constituency Rajasthan.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity7508",
+  "entityUrl" : "http://dbpedia.org/resource/House_of_Shennib",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Minister of Defence of Libya,  Chief of Royal Diwans,  Vice President of National Assembly" ]
+  },
+  "words" : [ "intrinsically", "Shennib", "historical", "Derna", "diplomats", "Omar", "relation", "WWII.The", "Arabic", "colonial", "members", "Wanis", "state", "Faiek", "Bayt", "20th", "Muamar", "House", "includes", "significant", "history", "'s", ",", ".", "seat", "State", "-RRB-", "Cyrenaica", ":", "playing", "Gaddafi", "authors", "Fouad", "Italian", "-LRB-", "prominent", "al-Qaddafi", "figures", "part", "Libyan", "roles", "notable", "Libya", "ministers", "defeat", "public", "شنيب", "creation", "بيت", "include", "Ahmed", "tied", "one", "families", "played", "century", "Abdul-Aziz", "unified", "heads", "family" ],
+  "adjectives" : [ "Italian", "prominent", "public", "20th", "Libyan", "historical", "notable", "significant" ],
+  "nouns" : [ "defeat", "seat", "century", "State", "colonial", "part", "history", "state", "family", "creation", "relation" ],
+  "text" : "The House of Shennib (Arabic: بيت شنيب‎‎ Bayt Shennib) is one of Libya's prominent families. The House of Shennib includes notable public figures who have played a significant part in 20th century Libyan history: heads of state, ministers, authors and diplomats. The family's history is intrinsically tied with the creation of the State of Libya with members of Bayt Shennib playing prominent roles in the defeat of colonial Italian Libya, the creation of the unified Libyan state after WWII.The most notable members of the family include Omar Faiek Shennib, Ahmed Fouad Shennib, Wanis al-Qaddafi (no relation to Muamar Gaddafi) and Abdul-Aziz Shennib. The historical seat of Bayt Shennib is Derna, Cyrenaica. On April 3, 2013 the family's significant contributions to the Libyan people were publicly recognized by the current Libyan government and their honors restored, if in name only. The area of Bi'r`Ayt Shinnib west of Derna is named after the family.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity7728",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Welsh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Member of the Leglislative Assembly of New South Wales for Swansea" ]
+  },
+  "words" : [ "becoming", "Intelligence", "officer", "Lake", "Ivan", "military", "Malaya", "--", "including", "15", "mayor", "'", "Lorraine", "City", ",", ".", "army", "elected", "1987", "1940", "1984", "Joseph", "served", "-RRB-", "60", "salesman", "Gay", "66", "became", "Macquarie", "-LRB-", "25", "concluded", "March", "Newcastle", "Council", "caterer", "2007", "School", "1952", "Vietnam", "Linguist", "Boys", "periods", "1958", "February", "1955", "attended", "High", "politician", "Welsh", "Cox", "1965", "restaurateur", "1961", "Australian", "Born", "service", "married", "1967" ],
+  "adjectives" : [ "Australian", "military" ],
+  "nouns" : [ "army", "caterer", "restaurateur", "Linguist", "mayor", "officer", "service", "politician", "salesman", "Cox" ],
+  "text" : "Ivan Joseph Welsh (25 February 1940 – 15 March 2007) was an Australian politician. Born in Newcastle, Welsh attended Newcastle Boys' High School from 1952 to 1955 and served in the army from 1958 to 1967, including periods in Malaya (1958–60) and Vietnam (1965–66) as a Linguist and Intelligence officer. In 1961, he married Lorraine Gay Cox. After his military service concluded, he became a restaurateur, caterer and salesman, and in 1984 was elected to Lake Macquarie City Council, becoming mayor in 1987. In 1988, he was elected to the New South Wales Legislative Assembly as an Independent, representing the seat of Swansea. He held the seat until his defeat by the Labor candidate in 1991, in which year he also lost the mayoralty. He continued to contest both state and federal elections, both as an Independent and (in 1996) as a member of the Liberal Party. Welsh died at Newcastle in 2007, and was cremated.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity12599",
+  "entityUrl" : "http://dbpedia.org/resource/Malik_Altunia",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Governor of Bhatinda" ]
+  },
+  "words" : [ "Delhi", "Altunia", "-LRB-", "Ikhtiyar-ud-din", "lover", "Mamluk", "rule", "husband", "Punjab", "Sultanate", ".", "India", "Malik", "Razia", "Bhatinda", "-RRB-", "governor", "Sultana" ],
+  "adjectives" : [ ],
+  "nouns" : [ "lover", "rule", "husband", "governor" ],
+  "text" : "Malik Ikhtiyar-ud-din Altunia was the lover and husband of Sultana Razia and the governor of Bhatinda (Punjab) in India under the rule of the Delhi Sultanate under the Mamluk Sultanate.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity6304",
+  "entityUrl" : "http://dbpedia.org/resource/George_Adams_(magistrate)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:title" : [ "Magistrateof thePitcairn Islands" ]
+  },
+  "words" : [ "June", "Mutineer", "discovered", "-LRB-", "colony", "29", "father", "part", "John", "died", "elder", "granted", "amnesty", "mutiny", "Teio", "October", "mother-in-law", "son", "George", "1873", "causes", "mutineers", "McCoy", "case", "apart", "--", "Charles", "Young", "original", "natural", "Adams", "wife", "born", ",", "William", "Ned", "Island", "killed", ".", "Pitcairn", "6", "-RRB-", "Christian", "1808", "Bounty", "time", "1804" ],
+  "adjectives" : [ "original", "natural" ],
+  "nouns" : [ "mother-in-law", "son", "colony", "wife", "father", "part", "time", "case", "amnesty", "mutiny" ],
+  "text" : "George Adams (6 June 1804 – 29 October 1873) was the only son of the Bounty Mutineer John Adams. He was born to his wife Teio, who had once been the wife of William McCoy and was the mother-in-law of Charles Christian, on Pitcairn Island. Adams was born at a time when all the original mutineers apart from his own father had been killed, or in the case of Ned Young died of natural causes. In 1808 the Pitcairn colony was discovered and the elder Adams was granted amnesty for his part in the mutiny. Both of Adams' parents died in March 1829, when George was 24 years old. Adams served as Chief Magistrate on Pitcairn in 1848. Adams was an opponent of Joshua Hill, and he opposed the decision to move to Norfolk Island, due to his granddaughter being ill. Adams did eventually move, and died on Norfolk Island in 1873.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,4 @@
+id=76  property=dbo:governor  object=http://dbpedia.org/resource/Frank_Keating  NumberOfEntitiesFoundForObject=21
+governor-NN  multiply=0.230277  P(governor|object)=0.857143  P(object|governor)=0.268657    
+service-NN  multiply=0.198413  P(service|object)=0.47619  P(object|service)=0.416667    
+

@@ -1,0 +1,15 @@
+id=140  property=dbo:occupation  object=http://dbpedia.org/resource/Farmer  NumberOfEntitiesFoundForObject=22
+farmer-NN  multiply=0.178571  P(farmer|object)=0.454545  P(object|farmer)=0.392857    
+
+id=141  property=dbo:occupation  object=http://dbpedia.org/resource/Businessman  NumberOfEntitiesFoundForObject=23
+businessman-NN  multiply=0.250836  P(businessman|object)=0.652174  P(object|businessman)=0.384615    
+business-NN  multiply=0.127253  P(business|object)=0.652174  P(object|business)=0.195122    
+
+id=142  property=dbo:occupation  object=http://dbpedia.org/resource/Lawyer  NumberOfEntitiesFoundForObject=56
+lawyer-NN  multiply=0.383214  P(lawyer|object)=0.517857  P(object|lawyer)=0.74    
+law-NN  multiply=0.323475  P(law|object)=0.660714  P(object|law)=0.489583    
+
+id=143  property=dbo:occupation  object=http://dbpedia.org/resource/Politician  NumberOfEntitiesFoundForObject=117
+member-NN  multiply=0.084485  P(member|object)=0.555556  P(object|member)=0.152074    
+party-NN  multiply=0.071623  P(party|object)=0.393162  P(object|party)=0.182171    
+

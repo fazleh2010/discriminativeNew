@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "1_entity11168",
+  "entityUrl" : "http://dbpedia.org/resource/Kuka_Parray",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:alias" : [ "Kuka Parray" ]
+  },
+  "words" : [ "``", "MLA", "considered", "pioneer", "outfit", "major", "Yusuf", "Parray", "militant", "blow", "Minister", "described", "setback", "League", "&", "Sayeed", ",", "former", ".", "forces", "peace", "folk", "Ikhwan-ul-Muslemoon", "militants", "Kashmiri", "counter-insurgency", "Kuka", "singer", "death", "Chief", "killing", "pro-Pakistani", "security", "known", "top", "Kashmir", "terrorism", "targeted", "Jammu", "Mufti", "''", "process", "founder", "founded", "Awami", "Mohammad", "better", "pro-India", "movement" ],
+  "adjectives" : [ "top", "major", "pro-India", "militant", "pro-Pakistani", "former" ],
+  "nouns" : [ "counter-insurgency", "process", "singer", "death", "founder", "killing", "pioneer", "security", "outfit", "terrorism", "peace", "folk", "Ikhwan-ul-Muslemoon", "blow", "movement", "setback" ],
+  "text" : "Mohammad Yusuf Parray, better known as Kuka Parray, was a former MLA and a pioneer of counter-insurgency movement in Kashmir and the founder of Jammu & Kashmir Awami League. He was a Kashmiri folk singer, before he founded his pro-India militant outfit, Ikhwan-ul-Muslemoon that targeted top pro-Pakistani militants. His death was considered a major blow to the security forces against terrorism in Kashmir. The then Chief Minister, Mufti Mohammad Sayeed, described the killing as \"a setback to the peace process\".",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity13714",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Hentz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:alias" : [ "Charles Arnould" ]
+  },
+  "words" : [ "français", "de", "-LRB-", "Il", "fut", "est", "Nicolas", "Hentz", "1831", "1753", "1830", "député", "1795", "1750", "juillet", "un", "1er", "à", "ou", "1792", ",", "-", ".", "Convention", "la", "révolutionnaire", "-RRB-", "1829", "nationale", "Moselle", "1824", "1768" ],
+  "adjectives" : [ "juillet" ],
+  "nouns" : [ "français", "Il", "fut", "ou", "révolutionnaire", "un" ],
+  "text" : "Nicolas Hentz (1750, 1753 ou 1768 - 1er juillet 1824, 1829, 1830 ou 1831) est un révolutionnaire français. Il fut député de la Moselle à la Convention nationale de 1792 à 1795.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity5012",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_James_Eames",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:alias" : [ "Jim" ]
+  },
+  "words" : [ "Mayor", "Alderman", "year", "Eric", "without", "1975", "1974", "represented", "10", "11", "--", "praised", "Small", "'", "widely", "City", ",", "'s", "April", ".", "former", "aftermath", "Lord", "driver", "1949-1992", "-RRB-", "magistrate", "-LRB-", "city", "2010", "ward", "Council", "MBE", "known", "engine", "leadership", "1917", "steam", "`", "James", "occurred", "Eames", "break", "also", "Birmingham", "bombings", "Jim", "Honorary", "calm", "pub", "Heath" ],
+  "adjectives" : [ "calm", "Small", "former" ],
+  "nouns" : [ "driver", "year", "engine", "city", "break", "leadership", "magistrate", "steam", "ward", "pub", "aftermath" ],
+  "text" : "Eric James Eames, MBE (11 April 1917 – 10 April 2010), known as James, or Jim, was Lord Mayor of Birmingham for the year 1974–1975. He was also an Honorary Alderman and a magistrate. A former steam engine driver, Eames represented the city's Small Heath ward on Birmingham City Council from 1949-1992, without break. The Birmingham pub bombings of 1974 occurred while he was Lord Mayor and his 'calm leadership' in the aftermath was widely praised. He was made MBE for services to the community. He was founder President of the Ackers Trust, a Birmingham charity which runs an outdoor activity centre. He died the day before his 93rd birthday in 2010.  Midland Metro tram number 14 is named after him.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity17771",
+  "entityUrl" : "http://dbpedia.org/resource/Tcheng_Yu-hsiu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:alias" : [ "MadameWei Tao-ming(married name)", "Soumay Tcheng" ]
+  },
+  "words" : [ "毓秀", "弁護士", "、", "中華民国の女性革命家", "の政治家", "。", "台湾", "（", "中華民国", "）", "別名は蘇梅", "鄭", "夫は", "政治家", "は清末", "てい", "外交官である魏道明", "いくしゅう", "・", "裁判官" ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : "鄭 毓秀（てい いくしゅう）は清末、中華民国の女性革命家・政治家・弁護士・裁判官。別名は蘇梅。夫は、中華民国（台湾）の政治家・外交官である魏道明。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity18129",
+  "entityUrl" : "http://dbpedia.org/resource/Timothy_Brown_(radical)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:alias" : [ "\"Equality Brown\"" ]
+  },
+  "words" : [ "``", "Brown", "became", "Timothy", "Cartwright", "Cannon", "Company", "-LRB-", "September", "radicals", "Waithman", "John", "Horne", "association", "political", "Worshipful", "known", "George", "Robert", "nickname", "Equality", "Tooke", "views", "early", "--", "Frend", "''", "1743/1744", "radical", "Cobbett", "one", "merchant", "also", "Whitbread", "banker", ",", "William", ".", "Brewers", "master", "English", "1820", "4", "partners", "-RRB-", "gave", "time", ";" ],
+  "adjectives" : [ "English", "political", "early" ],
+  "nouns" : [ "Company", "radical", "nickname", "merchant", "association", "time", "banker", "master" ],
+  "text" : "Timothy Brown (1743/1744 – 4 September 1820) was an English banker, merchant and radical, known for his association with other radicals of the time, such as John Horne Tooke, Robert Waithman, William Frend, William Cobbett, John Cartwright and George Cannon; his political views gave him the nickname \"Equality Brown\". He was also one of the early partners of Whitbread, and became the master of the Worshipful Company of Brewers.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity212",
+  "entityUrl" : "http://dbpedia.org/resource/Anne_Roberts",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:alias" : [ "Jane Anne Roberts" ]
+  },
+  "words" : [ "``", "parent", "Mayor", "education", "left-wing", "issues", "three", "councillors", "Board", "split", "children", "Charlie", "majority", "five", "--", "advisory", "distinguish", "Smith", "Campbell", "active", "committees", "Roberts", ",", "'s", "former", ".", "journalism", "elected", "Progressive", "dubbed", "instructor", "council", "among", "centrist", "Vision", "Coalition", "-RRB-", "Georgia", "District", "party", "Vancouver", "-LRB-", "city", "Parent", "Representatives", "serving", "School", "2002", "member", "Larry", "retired", "Anne", "councillor", "''", "winning", "chair", "Lite", "Classic", "Electors", "form", "trustee", "COPE", "Straight" ],
+  "adjectives" : [ "advisory", "left-wing", "centrist", "active", "Classic", "former" ],
+  "nouns" : [ "parent", "education", "instructor", "city", "council", "chair", "member", "majority", "trustee", "councillor", "party", "journalism" ],
+  "text" : "Anne Roberts is a former journalism instructor (retired) and former Vancouver city councillor. She was elected as a member of the winning majority of Coalition of Progressive Electors in 2002. Before serving on the city council, Roberts was active in education issues as chair of her children's parent advisory committees and as chair of the District Parent Representatives at the Vancouver School Board, on which she was an elected trustee. In council, Roberts was among the five left-wing councillors dubbed \"COPE Classic\" by Charlie Smith at The Georgia Straight to distinguish them from \"COPE Lite\"—the three COPE councillors and Mayor Larry Campbell who split the party to form the centrist Vision Vancouver party. Chair of the Planning and Environment Committee, Roberts was appointed by council as a delegate to the Greater Vancouver Regional District. On council, she spearheaded expansion of child care spaces, advocated that transit money to be spent on buses rather than mega-projects such as RAV (now called the Canada Line), and convinced a majority of city council to deny Wal-Mart's application to build a new store. Roberts also opposed expanded gambling in the city and the 2010 Olympics. Roberts ran for re-election in 2005 placing 19th among 36 candidates with 41,739 votes, thus losing her seat.",
+  "patterns" : { }
+} ]
