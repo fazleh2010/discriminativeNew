@@ -1,5 +1,0 @@
-# dbo:Politician_dbo:occupation_probability_0.45_0.45.txt #############################
-id=22  property=dbo:occupation  object=http://dbpedia.org/resource/Lawyer  NumberOfEntitiesFoundForObject=56
-lawyer-NN  multiply=0.383214  P(lawyer|object)=0.517857  P(object|lawyer)=0.74    
-law-NN  multiply=0.323475  P(law|object)=0.660714  P(object|law)=0.489583    
-

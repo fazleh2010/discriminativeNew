@@ -1,8 +1,0 @@
-id=123  property=dbo:orderInOffice  object=Ontario MPP  NumberOfEntitiesFoundForObject=133
-legislative-JJ  multiply=0.102889  P(legislative|object)=0.977444  P(object|legislative)=0.105263    
-conservative-JJ  multiply=0.100559  P(conservative|object)=0.646617  P(object|conservative)=0.155515    
-
-id=124  property=dbo:orderInOffice  object=Member of the Legislative Assembly of Alberta  NumberOfEntitiesFoundForObject=289
-caucus-NN  multiply=0.54343  P(caucus|object)=0.788927  P(object|caucus)=0.688822    
-provincial-JJ  multiply=0.324947  P(provincial|object)=0.878893  P(object|provincial)=0.369723    
-

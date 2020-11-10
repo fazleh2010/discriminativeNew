@@ -1,8 +1,0 @@
-id=129  property=dbo:profession  object=http://dbpedia.org/resource/Lawyer  NumberOfEntitiesFoundForObject=30
-lawyer-NN  multiply=0.3125  P(lawyer|object)=0.333333  P(object|lawyer)=0.9375    
-law-NN  multiply=0.244444  P(law|object)=0.566667  P(object|law)=0.431373    
-
-id=130  property=dbo:profession  object=http://dbpedia.org/resource/Politician  NumberOfEntitiesFoundForObject=51
-indian-JJ  multiply=0.113033  P(indian|object)=0.27451  P(object|indian)=0.411765    
-constituency-NN  multiply=0.113033  P(constituency|object)=0.27451  P(object|constituency)=0.411765    
-

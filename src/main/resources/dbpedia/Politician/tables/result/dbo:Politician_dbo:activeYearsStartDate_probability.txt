@@ -1,7 +1,0 @@
-id=29  property=dbo:activeYearsStartDate  object=1921-07-18  NumberOfEntitiesFoundForObject=26
-farmer-NN  multiply=0.221612  P(farmer|object)=0.846154  P(object|farmer)=0.261905    
-caucus-NN  multiply=0.097276  P(caucus|object)=0.961538  P(object|caucus)=0.101167    
-
-id=30  property=dbo:activeYearsStartDate  object=2011-03-26  NumberOfEntitiesFoundForObject=32
-australian-JJ  multiply=0.121771  P(australian|object)=1.0  P(object|australian)=0.121771    
-
