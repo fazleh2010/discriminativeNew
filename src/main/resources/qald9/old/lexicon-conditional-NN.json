@@ -1,0 +1,137 @@
+[ {
+  "word" : "assembly",
+  "rank" : {
+    "1" : [ "pair=dbp:state North Carolina", "multiplyValue=0.505929" ],
+    "2" : [ "pair=dbo:country res:United_States", "multiplyValue=0.352291" ],
+    "3" : [ "pair=dbp:imagesize 150", "multiplyValue=0.327977" ],
+    "4" : [ "pair=dbp:honorificSuffix res:Member_of_the_Legislative_Assembly", "multiplyValue=0.297491" ],
+    "5" : [ "pair=dbp:imagesize 180", "multiplyValue=0.145817" ]
+  }
+}, {
+  "word" : "caucus",
+  "rank" : {
+    "1" : [ "pair=dbo:orderInOffice Member of the Legislative Assembly of Alberta", "multiplyValue=0.54343" ],
+    "2" : [ "pair=dbp:occupation politician", "multiplyValue=0.421739" ],
+    "3" : [ "pair=dbo:party res:Social_Credit_Party_of_Alberta", "multiplyValue=0.199526" ]
+  }
+}, {
+  "word" : "committee",
+  "rank" : {
+    "1" : [ "pair=dbp:successor incumbent", "multiplyValue=0.058387" ]
+  }
+}, {
+  "word" : "constituency",
+  "rank" : {
+    "1" : [ "pair=dbo:nationality res:India", "multiplyValue=0.559616" ],
+    "2" : [ "pair=dbo:religion res:Hindu", "multiplyValue=0.18264" ]
+  }
+}, {
+  "word" : "councillor",
+  "rank" : {
+    "1" : [ "pair=dbo:residence res:Ontario", "multiplyValue=0.068535" ]
+  }
+}, {
+  "word" : "district",
+  "rank" : {
+    "1" : [ "pair=dbp:state North Carolina", "multiplyValue=0.468935" ],
+    "2" : [ "pair=dbp:stateHouse North Carolina", "multiplyValue=0.383562" ],
+    "3" : [ "pair=dbp:party Democratic Party", "multiplyValue=0.266046" ]
+  }
+}, {
+  "word" : "family",
+  "rank" : {
+    "1" : [ "pair=dbp:occupation Politician", "multiplyValue=0.055315" ]
+  }
+}, {
+  "word" : "figure",
+  "rank" : {
+    "1" : [ "pair=dbo:party res:Progressive_Conservative_Party_of_Ontario", "multiplyValue=0.071658" ]
+  }
+}, {
+  "word" : "labor",
+  "rank" : {
+    "1" : [ "pair=dbo:nationality res:Australia", "multiplyValue=0.728893" ],
+    "2" : [ "pair=dbo:party res:Australian_Labor_Party", "multiplyValue=0.697351" ],
+    "3" : [ "pair=dbo:office Queensland Legislative", "multiplyValue=0.326501" ]
+  }
+}, {
+  "word" : "labour",
+  "rank" : {
+    "1" : [ "pair=dbo:party res:Labor_Party_(UK)", "multiplyValue=0.545266" ]
+  }
+}, {
+  "word" : "leader",
+  "rank" : {
+    "1" : [ "pair=dbo:occupation res:Politician", "multiplyValue=0.055315" ]
+  }
+}, {
+  "word" : "level",
+  "rank" : {
+    "1" : [ "pair=dbo:party res:Progressive_Conservative_Association_of_Alberta", "multiplyValue=0.196815" ]
+  }
+}, {
+  "word" : "lok",
+  "rank" : {
+    "1" : [ "pair=dbp:year 2006", "multiplyValue=0.621005" ],
+    "2" : [ "pair=dbo:office MP", "multiplyValue=0.247748" ],
+    "3" : [ "pair=dbp:children 1", "multiplyValue=0.149335" ],
+    "4" : [ "pair=dbp:children 2", "multiplyValue=0.084904" ]
+  }
+}, {
+  "word" : "member",
+  "rank" : {
+    "1" : [ "pair=dbp:nolist true", "multiplyValue=0.883333" ],
+    "2" : [ "pair=dbp:align right", "multiplyValue=0.702977" ],
+    "3" : [ "pair=dbp:year 2006", "multiplyValue=0.621512" ],
+    "4" : [ "pair=dbo:country res:United_Kingdom", "multiplyValue=0.585415" ],
+    "5" : [ "pair=dbp:honorificPrefix res:The_Honourable", "multiplyValue=0.428595" ],
+    "6" : [ "pair=dbp:imagesize 150", "multiplyValue=0.32276" ],
+    "7" : [ "pair=dbp:imagesize 180", "multiplyValue=0.148072" ]
+  }
+}, {
+  "word" : "minister",
+  "rank" : {
+    "1" : [ "pair=dbo:religion res:Islam", "multiplyValue=0.154865" ],
+    "2" : [ "pair=dbp:imagesize 200", "multiplyValue=0.045378" ]
+  }
+}, {
+  "word" : "parliament",
+  "rank" : {
+    "1" : [ "pair=dbp:nolist true", "multiplyValue=0.895833" ],
+    "2" : [ "pair=dbp:align right", "multiplyValue=0.710989" ],
+    "3" : [ "pair=dbp:party Independent", "multiplyValue=0.328131" ]
+  }
+}, {
+  "word" : "party",
+  "rank" : {
+    "1" : [ "pair=dbp:imagesize 200", "multiplyValue=0.10715" ]
+  }
+}, {
+  "word" : "sabha",
+  "rank" : {
+    "1" : [ "pair=dbo:party res:Indian_National_Congress", "multiplyValue=0.303087" ],
+    "2" : [ "pair=dbp:children 1", "multiplyValue=0.138034" ],
+    "3" : [ "pair=dbp:children 2", "multiplyValue=0.09009" ]
+  }
+}, {
+  "word" : "senate",
+  "rank" : {
+    "1" : [ "pair=dbp:party Democratic Party", "multiplyValue=0.208104" ]
+  }
+}, {
+  "word" : "session",
+  "rank" : {
+    "1" : [ "pair=dbo:restingPlace res:Connecticut", "multiplyValue=0.428403" ]
+  }
+}, {
+  "word" : "son",
+  "rank" : {
+    "1" : [ "pair=dbo:restingPlace res:Connecticut", "multiplyValue=0.286738" ]
+  }
+}, {
+  "word" : "state",
+  "rank" : {
+    "1" : [ "pair=dbo:country res:United_States", "multiplyValue=0.565223" ],
+    "2" : [ "pair=dbp:stateHouse North Carolina", "multiplyValue=0.392375" ]
+  }
+} ]
