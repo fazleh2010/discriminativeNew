@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<report>
+    <input>/Users/elahi/NetBeansProjects/question-answering/src/test/resources/linksSuccess.txt</input>
+    <downloadReport>/Users/elahi/NetBeansProjects/question-answering/src/test/resources/linksSuccess_Report.xml</downloadReport>
+    <downloadLocation>/Users/elahi/NetBeansProjects/question-answering/src/test/resources</downloadLocation>
+    <element url="https://www.technicalkeeda.com/img/images/article/spring-file-upload-eclipse-setup.png">
+        <note>The download is failed!! Can't get input stream from URL!</note>
+        <status>FAIL</status>
+    </element>
+</report>
