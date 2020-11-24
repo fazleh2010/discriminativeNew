@@ -28,7 +28,7 @@ import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import citec.correlation.wikipedia.element.PropertyNotation;
-import citec.correlation.wikipedia.element.ResultTriple;
+import citec.correlation.wikipedia.results.ResultTriple;
 import citec.correlation.wikipedia.evalution.Comparision;
 import citec.correlation.wikipedia.evalution.LexiconUnit;
 import citec.correlation.wikipedia.evalution.Qald;

@@ -5,7 +5,6 @@
  */
 package citec.correlation.wikipedia.results;
 
-import citec.correlation.wikipedia.element.ResultTriple;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

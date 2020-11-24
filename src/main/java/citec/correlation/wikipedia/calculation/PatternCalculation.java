@@ -9,7 +9,7 @@ import citec.correlation.wikipedia.element.InterestingPattern;
 import citec.correlation.core.analyzer.Analyzer;
 import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER_TEXT;
 import citec.correlation.wikipedia.element.DBpediaEntityPattern;
-import citec.correlation.wikipedia.element.ResultTriple;
+import citec.correlation.wikipedia.results.ResultTriple;
 import citec.correlation.wikipedia.linking.EntityPatternsOfAbstract;
 import citec.correlation.wikipedia.linking.EntityPatternsOfAbstract.Pattern;
 import citec.correlation.wikipedia.linking.EntityTriple;
