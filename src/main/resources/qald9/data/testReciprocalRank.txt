@@ -1,0 +1,134 @@
+Qald questions found in our lexicon [australian, canadian, current, english, indian, new]
+
+
+qald------------------------------------------------------------- 
+
+{
+  "word" : "australian",
+  "pairs" : [ "dbo:country res:Australia", "dbo:locationCountry res:Australia", "dbo:hometown res:Australia" ],
+  "Sparql" : {
+    "Sparql_71" : "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Nonprofit_organization> { ?uri <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/Australia> } UNION { ?uri <http://dbpedia.org/ontology/location> ?x . ?x <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Australia> } }",
+    "Sparql_101" : "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Band> ; <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Metalcore> { ?uri <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Australia> } UNION { ?uri <http://dbpedia.org/ontology/hometown> ?h . ?h <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Australia> } }"
+  }
+}, 
+{
+  "word" : "indian",
+  "pairs" : [ "dbo:location res:India" ],
+  "Sparql" : {
+    "Sparql_269" : "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Company ; dbo:location res:India ; dbo:numberOfEmployees ?n } ORDER BY DESC(?n) OFFSET 0 LIMIT 1"
+  }
+},
+{
+  "word" : "canadian",
+  "pairs" : [ "dbo:country res:Canada" ],
+  "Sparql" : {
+    "Sparql_394" : "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:RecordLabel ; dbo:genre res:Grunge ; dbo:country res:Canada }"
+  }
+},
+{
+  "word" : "current",
+  "pairs" : [ ],
+  "Sparql" : {
+    "Sparql_202" : "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT ?leader WHERE { <http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)> dbo:leader ?leader }"
+  }
+},
+{
+  "word" : "english",
+  "pairs" : [ ],
+  "Sparql" : {
+    "Sparql_145" : "SELECT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Building> ; <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/English_Gothic_architecture> ; <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kent> }"
+  }
+},
+
+Our lexicon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{
+  "word" : "australian",
+  "rank" : {
+    "1" : [ "pair=dbp:nationality Australian", "multiplyValue=0.926972" ],
+    "2" : [ "pair=dbo:nationality res:Australia", "multiplyValue=0.779686" ],
+    "3" : [ "pair=dbo:party res:Australian_Labor_Party", "multiplyValue=0.612847" ],
+    "4" : [ "pair=dbp:parliament New South Wales", "multiplyValue=0.476562" ],
+    "5" : [ "pair=dbo:office Queensland Legislative", "multiplyValue=0.320991" ]
+  }
+},
+{
+  "word" : "canadian",
+  "rank" : {
+    "1" : [ "pair=dbp:successor riding dissolved", "multiplyValue=0.269767" ]
+  }
+},
+{
+  "word" : "indian",
+  "rank" : {
+    "1" : [ "pair=dbo:nationality res:India", "multiplyValue=0.816426" ],
+    "2" : [ "pair=dbo:party res:Indian_National_Congress", "multiplyValue=0.674782" ],
+    "3" : [ "pair=dbo:religion res:Hindu", "multiplyValue=0.308248" ]
+  }
+},
+{
+  "word" : "current",
+  "pairs" : [ ],
+  "Sparql" : {
+    "Sparql_202" : "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT ?leader WHERE { <http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)> dbo:leader ?leader }"
+  }
+},
+{
+  "word" : "english",
+  "rank" : {
+    "1" : [ "pair=dbo:party res:Liberal_Party_(UK)", "multiplyValue=0.230253" ]
+  }
+},
+{
+  "word" : "new",
+  "rank" : {
+    "1" : [ "pair=dbp:party Independent politician", "multiplyValue=0.344086" ]
+  }
+}
+
+
+
+
+-----------------
+ReciprocalRank
+australian  0.0
+canadian  0.0
+current  0.0
+english 0.0
+indian  0.0
+new  0.0
+
+
+
+
+{
+  "word" : "australian",
+  "rank" : {
+    "1" : [ "pair=dbp:nationality Australian", "multiplyValue=0.926972" ],
+    "2" : [ "pair=dbo:country res:Australia", "multiplyValue=0.779686" ],
+    "3" : [ "pair=dbo:party res:Australian_Labor_Party", "multiplyValue=0.612847" ],
+    "4" : [ "pair=dbp:parliament New South Wales", "multiplyValue=0.476562" ],
+    "5" : [ "pair=dbo:office Queensland Legislative", "multiplyValue=0.320991" ]
+  }
+},
+
+
+ReciprocalRank
+australian  0.5
+canadian  0.0
+current  0.0
+english 0.0
+indian  0.0
+new  0.0
+
+
+{
+  "word" : "australian",
+  "rank" : {
+    "1" : [ "pair=dbp:nationality Australian", "multiplyValue=0.926972" ],
+    "2" : [ "pair=dbo:country res:Australia", "multiplyValue=0.779686" ],
+    "3" : [ "pair=dbo:party res:Australian_Labor_Party", "multiplyValue=0.612847" ],
+    "4" : [ "pair=dbp:parliament New South Wales", "multiplyValue=0.476562" ],
+    "5" : [ "pair=dbo:office Queensland Legislative", "multiplyValue=0.320991" ]
+  }
+},
+

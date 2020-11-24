@@ -1,0 +1,49 @@
+First direction: predict whether a certain word appears in abstract given the object of the property.
+P(word | objectOfPropertyParty)=P(word and objectOfPropertyParty)/P(objectOfPropertyParty)
+Example:
+word=british
+Object of the property party=http://dbpedia.org/resource/Labor_Party_UK (short form res:Labor_Party_UK)
+
+P(british | res:Labor_Party_UK)= 
+P(british & res:Labor_Party_UK) / P(res:Labor_Party_UK)
+
+P(british and res:Labor_Party_UK)=the number of entities where object of the property is res:Labor_Party_UK and abstract contains the word british.
+P(res:Labor_Party_(UK)): all entities with the object of the property is res:Labor_Party_UK
+
+Second direction: predict the object of the property given certain word in abstract 
+P(objectOfPropertyParty | word)=
+P(word and objectOfPropertyParty)/P(word)
+
+P(res:Labor_Party_UK | british)= 
+P(british & res:Labor_Party_UK / P(british)
+P(british): all entities of the property party in which its abstract contain the word british
+
+
+-----Calculating patterns probability--------------------
+
+For all entities of dbo:Politician
+
+P(s_p_o' | s_context_o')=P(s_p_o' & s_context_o')/P(s_context_o')
+
+P(s_p_o' & s_context_o')=number of entities where (s_p_o') triple holds and abstract contains (s_context_o').
+P(s_context_o'): all entities where the abstract contains s_context_o'.  
+Since context is 5 words. It is very unlikely that we have match of s_context_o' in many entities. 
+
+An example:
+s_p_o'
+=s(Ann_Widdecombe) dbo:religion o'<Roman_Catholicism>
+=s dbo:religion o'<Roman_Catholicism>
+
+s_context_o'
+=s(ann widdecombe) [convert from anglicanism ] o'<roman catholicism>
+=s [convert from anglicanism ] o'<roman catholicism>
+
+P(s dbo:religion o'<Roman_Catholicism> | s [convert from anglicanism ] o'<roman catholicism>)=
+P([s dbo:religion o'<Roman_Catholicism> & s [convert from anglicanism ] o'<roman catholicism>)/P(s [convert from anglicanism ] o'<roman catholicism>)
+
+P(s dbo:religion o'<Roman_Catholicism>  & s [convert from anglicanism ] o'<roman catholicism>)=number of entities where (s dbo:religion o'<Roman_Catholicism>) triple holds and abstract contains (s [convert from anglicanism ] o'<roman catholicism>).
+P(s [convert from anglicanism ] o'<roman catholicism>): all entities where the abstract contains s [convert from anglicanism ] o'<roman catholicism>.  
+context is 5 words. It is very unlikely that we will find match. 
+
+Our ultimate goal is 
+convert from anglicanism> dbo:religion
