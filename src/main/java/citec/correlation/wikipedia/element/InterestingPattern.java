@@ -32,6 +32,7 @@ public class InterestingPattern {
     private static String SELECTED_PATTERNS = "selectedPatterns/";
     private final String PREDICATE_CONTEXT_WORD = "predicateContext";
     private final String CONTEXT_WORD_PREDICATE = "contextPredicate";
+    
     private final Analyzer analyzer;
     private final String outputDir;
     private String regEx = null;

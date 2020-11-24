@@ -68,7 +68,14 @@ public class PatternCalculation {
         
         for (String predicate : allEntityTriples.getPredicateTriplesMap().keySet()) {
             //Integer tripleCount=allEntityTriples.getPredicateTriplesMap().get(predicate).size();
+            /*if(predicate.contains("dbo:")||predicate.contains("dbp:")){
+                String []info=predicate.split(":");
+                if(!info[1].startsWith("a"))
+                   continue;
+            }*/
             predicateCount = predicateCount + 1;
+            System.out.println("predicate:"+predicate);
+
            
            // if (predicateCount >= 50) {
            //     break;
@@ -79,30 +86,30 @@ public class PatternCalculation {
             List<Pair<String,String>> patternList=EntityPatternsOfAbstract.parseRankedPattern(predicate,this.interestingPattern.getPredicateSortedContextWords(),1);
             if(patternList.isEmpty())
                 continue;
-            System.out.println(predicate+" "+patternList.size());
+            //System.out.println(predicate+" "+patternList.size());
 
             
             for (Pair<String,String> givenPatternPair : patternList) {
                 patternCount = patternCount + 1;
-                if (patternCount >= 50) {
-                    break;
-                }
+                //if (patternCount >= 50)
+                //    break;
+                System.out.println("pattern:"+givenPatternPair.getValue0());
                 
                 Pair<ResultTriple, ResultTriple> tripleResult = countConditionalProbabilities(allDBpediaPatterns, predicate, givenPatternPair, 0);
                 ResultTriple patternTriple = tripleResult.getValue0();
                 ResultTriple propertyTriple = tripleResult.getValue1();
 
-               if (patternTriple.getProbability_value() >= 0.1 & propertyTriple.getProbability_value() >= 0.1) {
+               if (patternTriple.getProbability_value() >= 0.0 & propertyTriple.getProbability_value() >= 0.0) {
                     WordResult result = new WordResult(patternTriple, propertyTriple, givenPatternPair.getValue0(),givenPatternPair.getValue1());
                     results.add(result);
-                    System.out.println("patternTriple:" + patternTriple);
-                    System.out.println("propertyTriple:" + propertyTriple);
+                    //System.out.println("patternTriple:" + patternTriple);
+                    //System.out.println("propertyTriple:" + propertyTriple);
                 }
 
             }
             if (!results.isEmpty()) {
                 //EntityResults kbResult = new EntityResults(triple.getPredicate(), triple.getObject(), 0, results, 2);
-                EntityResults kbResult = new EntityResults(predicate, "", 0, results, 2);
+                EntityResults kbResult = new EntityResults(predicate, "", 0, results, 10);
                 String str = EntityResults.entityResultToString(kbResult, EntityResults.PATTERN_CALCULATION);
                 String outputFileName = inputDir+"result/"+ dbo_ClassName+"_"+predicate + "_" + "prob.txt";
                 FileFolderUtils.writeToTextFile(str, outputFileName);
@@ -181,8 +188,8 @@ public class PatternCalculation {
             if (entityTriple.getPredicateTriplesMap().containsKey(predicate)) {
                 TRIPLE_FOUND++;
                 trippleFlag = true;
-                System.out.println("predicate:"+predicate);
-                System.out.println("entity predicate:"+entityTriple.getPredicateTriplesMap().keySet());
+                //System.out.println("predicate:"+predicate);
+                //System.out.println("entity predicate:"+entityTriple.getPredicateTriplesMap().keySet());
 
             }
             /*if (isTriplePatternExistInAbstract(predicate, givenPatternPair, dbpediaEntityPattern)) {
@@ -206,9 +213,9 @@ public class PatternCalculation {
         // if (TRIPLE_FOUND > 1 && PATTERN_FOUND > 1 && TRIPPLE_AND_PATTERN_FOUND > 1) {
         //System.out.println("TRIPLE_FOUND:" + TRIPLE_FOUND);
         //System.out.println("PATTERN_FOUND:" + PATTERN_FOUND);
-        if (TRIPPLE_AND_PATTERN_FOUND > 1) {
+        /*if (TRIPPLE_AND_PATTERN_FOUND > 1) {
             System.out.println("TRIPPLE_AND_PATTERN_FOUND:" + TRIPPLE_AND_PATTERN_FOUND);
-        }
+        }*/
 
         //}
         //if(TRIPPLE_AND_PATTERN_FOUND>10)
