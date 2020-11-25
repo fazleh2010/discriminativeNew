@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity7272",
+  "entityUrl" : "http://dbpedia.org/resource/Hristo_Atanassov",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:portrait" : [ "Hristo Atanassov.jpg" ]
+  },
+  "words" : [ "-LRB-", "29", "political", "Atanassov", "Council", "36th", "Republic", "Libertas", "National", "1994", "1991", "Atanasov", "Hristo", "Bulgaria", "Member", "Assembly", "Ivanov", "--", "born", "politician", "Bulgarian", ",", ".", "August", "Chairman", "1965", "LB", "-RRB-", "party", "Parliament" ],
+  "adjectives" : [ "Bulgarian", "political", "36th" ],
+  "nouns" : [ "politician", "party", "Chairman" ],
+  "text" : "Hristo Ivanov Atanassov (born August 29, 1965) is Bulgarian politician Chairman of the National Council of the political party Libertas Bulgaria (LB).Hristo Atanasov is a Member of the Parliament in 36th (1991–1994) National Assembly of Republic of Bulgaria.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,12 @@
+id=46  property=dbp:honorificSuffix  
+appointed-VBN  multiply=0.009841  P(appointed|dbp:honorificSuffix)=0.048156  P(dbp:honorificSuffix|appointed)=0.204348    
+liberal-JJ  multiply=0.007979  P(liberal|dbp:honorificSuffix)=0.029713  P(dbp:honorificSuffix|liberal)=0.268519    
+served-RB_VBN  multiply=0.004865  P(served|dbp:honorificSuffix)=0.085041  P(dbp:honorificSuffix|served)=0.057202    
+became-VBD  multiply=0.004682  P(became|dbp:honorificSuffix)=0.034836  P(dbp:honorificSuffix|became)=0.134387    
+elected-VBN  multiply=0.004023  P(elected|dbp:honorificSuffix)=0.077869  P(dbp:honorificSuffix|elected)=0.051666    
+served_in-VBN_IN  multiply=0.002511  P(served_in|dbp:honorificSuffix)=0.042008  P(dbp:honorificSuffix|served_in)=0.059767    
+elected_to-VBN_TO  multiply=0.002382  P(elected_to|dbp:honorificSuffix)=0.046107  P(dbp:honorificSuffix|elected_to)=0.051665    
+former-RB_JJ  multiply=0.002321  P(former|dbp:honorificSuffix)=0.016393  P(dbp:honorificSuffix|former)=0.141593    
+served_speaker-VBD_NN  multiply=0.002316  P(served_speaker|dbp:honorificSuffix)=0.032787  P(dbp:honorificSuffix|served_speaker)=0.07064    
+made-VBN  multiply=0.002277  P(made|dbp:honorificSuffix)=0.010246  P(dbp:honorificSuffix|made)=0.222222    
+

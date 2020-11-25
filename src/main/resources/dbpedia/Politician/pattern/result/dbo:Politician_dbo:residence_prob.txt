@@ -1,0 +1,12 @@
+id=25  property=dbo:residence  
+served-RB_VBN  multiply=0.029482  P(served|dbo:residence)=0.119493  P(dbo:residence|served)=0.246726    
+member-RB_NN  multiply=0.027972  P(member|dbo:residence)=0.10514  P(dbo:residence|member)=0.266047    
+member_of-NN_IN  multiply=0.024515  P(member_of|dbo:residence)=0.073097  P(dbo:residence|member_of)=0.335375    
+represents-VBZ  multiply=0.01776  P(represents|dbo:residence)=0.028705  P(dbo:residence|represents)=0.618705    
+elected-VBN  multiply=0.016419  P(elected|dbo:residence)=0.089786  P(dbo:residence|elected)=0.182869    
+represented-VBN  multiply=0.016066  P(represented|dbo:residence)=0.065087  P(dbo:residence|represented)=0.246835    
+previously_served-RB_VBN  multiply=0.011419  P(previously_served|dbo:residence)=0.043391  P(dbo:residence|previously_served)=0.263158    
+represented_electoral-VBN_JJ  multiply=0.01067  P(represented_electoral|dbo:residence)=0.041389  P(dbo:residence|represented_electoral)=0.257796    
+served_on-VBN_IN  multiply=0.010517  P(served_on|dbo:residence)=0.041389  P(dbo:residence|served_on)=0.254098    
+served_in-VBN_IN  multiply=0.010514  P(served_in|dbo:residence)=0.049065  P(dbo:residence|served_in)=0.214286    
+

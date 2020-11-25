@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "1_entity9411",
+  "entityUrl" : "http://dbpedia.org/resource/Justin_Nickels",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:born" : [ "Justin Michael Nickels" ]
+  },
+  "words" : [ "full-time", "country", "-LRB-", "American", "youngest", "office", "2009", "Michael", "Justin", "January", "Wisconsin", "took", "mayor", "born", "politician", ",", ".", "April", "27th", "1987", "elected", "Nickels", "2", "re-elected", "7", "2013", "-RRB-", "9", "Manitowoc", "time", "21" ],
+  "adjectives" : [ "full-time", "American", "27th" ],
+  "nouns" : [ "country", "mayor", "politician", "time", "office" ],
+  "text" : "Justin Michael Nickels (born January 9, 1987) is an American politician. On April 7, 2009, he was elected the 27th mayor of Manitowoc, Wisconsin, the youngest full-time mayor in the country at the time. He took office April 21, 2009, and was re-elected on April 2, 2013.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity9493",
+  "entityUrl" : "http://dbpedia.org/resource/Jan_ter_Laan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:born" : [ "--12-12" ]
+  },
+  "words" : [ "de", "Zuid-Holland", "-LRB-", "politicus", "lid", "hij", "Slochteren", "een", "Rotterdam", "gemeenteraad", "augustus", "1872", "Tweede", "december", "Nederlands", "1956", "ter", "12", "Daarnaast", "van", "Laan", "SDAP", "langdurig", "en", "Kamer", "voor", ",", "Provinciale", "-", ".", "Staten", "Jan", "-RRB-", "9" ],
+  "adjectives" : [ "hij", "een" ],
+  "nouns" : [ "gemeenteraad", "van", "augustus", "politicus", "lid", "langdurig" ],
+  "text" : "Jan ter Laan (Slochteren, 12 december 1872 - Rotterdam, 9 augustus 1956) was een Nederlands politicus en langdurig lid van de Tweede Kamer voor de SDAP. Daarnaast was hij lid van de gemeenteraad van Rotterdam en lid van Provinciale Staten van Zuid-Holland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity18713",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Bi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:born" : [ "226" ]
+  },
+  "words" : [ "C'est", "commentées", "atteignant", "Wang", "période", "différente", "devinrent", "des", "premiers", "Zhuang", "Pi", "les", "l'époque", "王弼", "quelque", "lettré", "peu", "textes", "traductions", "courant", "'", ",", "dans", "propose", ".", "fondent", "/", "Yi", "1", "2", "chinois", "3", "au", "mahâyâna", "prajnaparamita", "versions", "l'exprime", "249", "principale", "travers", "furent", "lesquelles", "-LRB-", "vide", "non-être", "Zi", "sur", "se", "bouddhisme", "créateur", "notions", "métaphysique", "`", "ses", "dominant", "théorie", "Bi", "vocabulaire", "tirées", "connu", "philosophie", "Dao", "la", "référence", "deviendra", "pensée", "interprétation", "le", "Jing", "Lao", "de", "politique", "est", "du", "son", "ainsi", "presque", "Le", "sunyata", "faisant", "--", "De", "orientaux", "étrangères", "Fusi", "cultivées", "siècles", "littérature", "en", "système", "choses", "Trois", "et", "également", "-RRB-", "théorique", "introduits", "avec", "que", "suivants", "qui", "classes", "apogée", "concept", "non-avoir", "nom", "toutes", "cohérente", "sous", "langues", "fondateur", "confucéen", "particulier", "Chine", "justification", "qu'une", "wu", "à", "celle", "cette", "l'origine", "social", "ou", "Xuanxue", "pour", "royaumes", "une", "Jin", "toutefois", "226", "partir", "base" ],
+  "adjectives" : [ "dominant", "atteignant", "social", "théorie", "non-avoir", "furent", "une", "non-être", "fondent", "sous" ],
+  "nouns" : [ "vide", "qui", "apogée", "concept", "est", "cohérente", "son", "bouddhisme", "fondateur", "presque", "métaphysique", "justification", "sunyata", "faisant", "wu", "王弼", "lettré", "orientaux", "Fusi", "ou", "système", "connu", "au", "mahâyâna", "référence", "également", "principale", "théorique", "base" ],
+  "text" : "Wang Bi ou Wang Pi 王弼 (226 – 249), nom social Fusi (1), lettré chinois de la période des Trois royaumes, est le créateur de la philosophie Xuanxue (2) qui propose, à partir de notions tirées du Dao De Jing (ou Lao Zi) et du Zhuang Zi, une base théorique cohérente ainsi qu'une justification métaphysique au système social et politique confucéen de l'époque. Le Xuanxue deviendra le courant de pensée dominant dans les classes cultivées, atteignant son apogée sous les Jin orientaux, avec une interprétation toutefois quelque peu différente de celle de son fondateur. C'est à travers cette théorie faisant du 'non-être' / 'non-avoir' (wu) (3) l'origine de toutes choses et le vocabulaire qui l'exprime que furent introduits en Chine les premiers textes du bouddhisme mahâyâna, en particulier la littérature prajnaparamita et le concept de 'vide' (sunyata). Wang Bi est également connu pour ses versions commentées du Dao De Jing et du Yi Jing qui devinrent la référence principale dans les siècles suivants, et sur lesquelles se fondent presque toutes les traductions en langues étrangères. Néanmoins, en toute rigueur Wang Bi n'est pas vraiment un taoïste, et il fait de Confucius, plutôt que de Lao Zi, le modèle du sage qui a \"élargi la Voie\". (1) 輔嗣 (2) 玄學 (3) 無",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity16805",
+  "entityUrl" : "http://dbpedia.org/resource/Sambhajirao_Kakade",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:born" : [ "1931-09-08" ]
+  },
+  "words" : [ "-LRB-", "September", "D", "Supriya", "Kakade", "youngest", "Baramati", "contested", "2009", "1931", "Sabha", "Party", "sons", "Meghraj", "member", "Y", "Sahebrao", "Sule", "Sambhajirao", "law", "election", "Janata", "born", "politician", "Jairaj", "Daughter", "Mrunalini", "Lok", "6th", "8th", ",", "'s", ".", "Prithviraj", "elected", "3", "Patil", "8", "-RRB-", "Indian", "married", "daughter" ],
+  "adjectives" : [ "Indian", "6th", "8th" ],
+  "nouns" : [ "Sabha", "Patil", "law", "election", "D", "politician", "Daughter", "member", "Lok", "Y", "daughter" ],
+  "text" : "Sambhajirao Sahebrao Kakade (born 8 September 1931) is an Indian politician who was elected from Baramati to the 6th and 8th Lok Sabha as a member of the Janata Party. He has 3 sons Prithviraj, Meghraj and Jairaj. Meghraj Kakade is married to D Y Patil's daughter. His youngest Daughter in law Mrunalini Kakade contested the 2009 Baramati Lok Sabha election against Supriya Sule. His Nephew Viraj Babulal Kakade contested the 1998 Baramati Lok Sabha election against Sharad Pawar His other nephew Satish Kakade and ZP member is one of the influential politician fighting for the rights of farmer in Baramati region Sambhajirao Kakade and his family are staunch opponent of Sharad Pawar in Baramati. His father was one of the key founder of the Someshwar Sugar Co-operative factory He is fondly called Lalasaheb and he is known to be very down to earth person and lives his life like a normal person. He has guided and mentored lot of politicians from Pune region",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity16815",
+  "entityUrl" : "http://dbpedia.org/resource/Shibu_Baby_John",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:born" : [ "1963-07-27" ]
+  },
+  "words" : [ "leader", "-LRB-", "Secretary", "Front", "part", "John", "United", "Labour", "Socialist", "Party", "son", "National", "Congress-led", "state", "Minister", "Kerala", "based", "Annamma", "Shibu", "Government", "Democratic", "Baby", "also", ",", "'s", "former", ".", "RSP", "India", "State", "Revolutionary", "-RRB-", "General", "party" ],
+  "adjectives" : [ "Congress-led", "former" ],
+  "nouns" : [ "leader", "son", "Government", "State", "Front", "part", "state", "party" ],
+  "text" : "Shibu Baby John is the former Labour Minister  of the State Government of Kerala, India. He is also the General Secretary of the state's Revolutionary Socialist Party (Baby John) party, which is based in Kerala. He is the son of former National Revolutionary Socialist Party (RSP) leader Baby John and Annamma John. His party is part of the Congress-led United Democratic Front.",
+  "patterns" : { }
+} ]

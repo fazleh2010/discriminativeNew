@@ -1,0 +1,16 @@
+id=125  property=dbp:nationality  object=American  NumberOfEntitiesFoundForObject=59
+american-JJ  multiply=0.559806  P(american|object)=0.576271  P(object|american)=0.971429    
+state-NN  multiply=0.321702  P(state|object)=0.745763  P(object|state)=0.431373    
+
+id=126  property=dbp:nationality  object=British  NumberOfEntitiesFoundForObject=34
+british-JJ  multiply=0.289593  P(british|object)=0.470588  P(object|british)=0.615385    
+labour-NN  multiply=0.209343  P(labour|object)=0.323529  P(object|labour)=0.647059    
+
+id=127  property=dbp:nationality  object=Australian  NumberOfEntitiesFoundForObject=132
+australian-JJ  multiply=0.926972  P(australian|object)=0.977273  P(object|australian)=0.948529    
+legislative-JJ  multiply=0.531651  P(legislative|object)=0.689394  P(object|legislative)=0.771186    
+
+id=128  property=dbp:nationality  object=Indian  NumberOfEntitiesFoundForObject=32
+indian-JJ  multiply=0.512784  P(indian|object)=0.59375  P(object|indian)=0.863636    
+constituency-NN  multiply=0.130208  P(constituency|object)=0.3125  P(object|constituency)=0.416667    
+

@@ -1,0 +1,3 @@
+id=52  property=dbp:opponent  
+lost_election-VBN_NN  multiply=0.055556  P(lost_election|dbp:opponent)=0.333333  P(dbp:opponent|lost_election)=0.166667    
+

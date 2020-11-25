@@ -1,0 +1,1405 @@
+[ {
+  "entityIndex" : "1_entity10662",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Lamoureux",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Winnipeg_North" ]
+  },
+  "words" : [ "22", "44", "-LRB-", "Manitoba", "Canadian", "29", "2011", "2010", "by-election", "Lamoureux", "Winnipeg", "Party", "previously", "Commons", "2003", "leadership", "North", "January", "Assembly", "November", "1999", "MP", "election", "Liberal", "born", "politician", "House", "sought", ",", ".", "elected", "Kevin", "Canada", "twice", "1962", "re-elected", "constituency", "served", "-RRB-", "Legislative", "votes", "1988" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "MP", "election", "constituency", "politician", "leadership", "by-election", "Assembly" ],
+  "text" : "Kevin Lamoureux, MP (born January 22, 1962) is a politician in Manitoba, Canada. On November 29, 2010, he was elected to the Canadian House of Commons for the constituency of Winnipeg North in a by-election. He was re-elected during the 2011 election by 44 votes. Lamoureux had previously served in the Legislative Assembly of Manitoba from 1988 to 1999 and from 2003 to 2010, and he twice sought the leadership of the Manitoba Liberal Party. He serves in the House of Commons as a member of the Liberal Party of Canada.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity10939",
+  "entityUrl" : "http://dbpedia.org/resource/Kerry_Diotte",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Edmonton_Griesbach" ]
+  },
+  "words" : [ "26", "Canadian", "riding", "Council", "Commons", "federal", "member", "Griesbach", "February", "1956", "Thomas", "MP", "election", "born", "House", "City", ",", ".", "former", "Kerry", "elected", "Canada", "2015", "Edmonton", "Diotte", "represent" ],
+  "adjectives" : [ "Canadian", "federal", "former" ],
+  "nouns" : [ "MP", "election", "member" ],
+  "text" : "Kerry Thomas Diotte, MP was born February 26, 1956. He was elected to represent the riding of Edmonton Griesbach in the House of Commons of Canada in the Canadian federal election, 2015. He is a former member of the Edmonton City Council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity11246",
+  "entityUrl" : "http://dbpedia.org/resource/Kathryn_McGarry",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Cambridge_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Wynne", "minister", "Liberal", "serves", "politician", "riding", "McGarry", ",", "Cambridge", ".", "Kathryn", "elected", "represents", "Canada", "government", "2014", "member", "Legislative", "Ontario", "cabinet", "Assembly", "Kathleen" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Kathryn McGarry is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Cambridge and she serves as a cabinet minister in the government of Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity13525",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_Doyle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/St._John's_East", "http://dbpedia.org/resource/St._John's_North" ]
+  },
+  "words" : [ "-LRB-", "Canadian", "2012", "E.", "1997", "2008", "current", "Doyle", "Commons", "member", "businessman", "Member", "November", "11", "Norman", "born", "politician", "Newfoundland", "also", "House", ",", ".", "Labrador", "appointed", "Canada", "Senate", "served", "-RRB-", "1945" ],
+  "adjectives" : [ "current", "Canadian" ],
+  "nouns" : [ "politician", "member", "businessman" ],
+  "text" : "Norman E. Doyle (born November 11, 1945) is a Canadian businessman and politician in Newfoundland and Labrador. He is a current member of the Senate of Canada, having been appointed in 2012. He also served as a Member of the Canadian House of Commons from 1997 to 2008.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity13536",
+  "entityUrl" : "http://dbpedia.org/resource/Norm_Miller",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Parry_Sound—Muskoka_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "father", "Muskoka", "riding", "MPP", "years", "Conservatives", "member", "Parry", "1956", "Assembly", "--", "briefly", "born", "politician", "representing", "Sound", "also", ",", "many", ".", "Progressive", "Canada", "Premier", "1985", "Miller", "Conservative", "served", "-RRB-", "Norm", "Legislative", "region", "Ontario", "Frank" ],
+  "adjectives" : [ "Legislative", "many" ],
+  "nouns" : [ "briefly", "politician", "father", "member", "region", "Assembly" ],
+  "text" : "Norm Miller (born 1956) is a politician in Ontario, Canada. He is a member of the Legislative Assembly of Ontario, representing the riding of Parry Sound—Muskoka for the Progressive Conservatives. His father, Frank Miller, was also a Progressive Conservative MPP from the region for many years, and briefly served as Premier of Ontario in 1985.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity8024",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Bradley_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/St._Catharines_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "Catharines", "Bradley", "riding", "St.", "Peterson", "represents", "Dalton", "member", "provincial", "long-time", "February", "cabinets", "Assembly", "Kathleen", "1977", "Wynne", "McGuinty", "James", "J.", "Liberal", "born", "politician", "19", ",", ".", "Jim", "elected", "Canada", "served", "-RRB-", "David", "Legislative", "Ontario", "1945" ],
+  "adjectives" : [ "Liberal", "Legislative", "provincial", "long-time" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "James J. (Jim) Bradley (born February 19, 1945) is a politician in Ontario, Canada. He is a long-time Liberal member of the Legislative Assembly of Ontario who was elected in 1977. He represents the riding of St. Catharines. He has served in the provincial cabinets of David Peterson, Dalton McGuinty and Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity8053",
+  "entityUrl" : "http://dbpedia.org/resource/John_Yakabuski",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Renfrew—Nipissing—Pembroke_(provincial_electoral_district)" ]
+  },
+  "words" : [ "June", "-LRB-", "Tory", "father", "John", "Nipissing", "riding", "MPP", "Paul", "Pembroke", "2003", "member", "Yakabuski", "1957", "Member", "Assembly", "--", "area", "eastern", "14", "born", "politician", "Provincial", "also", ",", ".", "Renfrew", "Progressive", "elected", "1987", "Canada", "1963", "Conservative", "-RRB-", "Legislative", "Ontario", "Parliament" ],
+  "adjectives" : [ "eastern", "Legislative" ],
+  "nouns" : [ "area", "politician", "father", "member", "Nipissing", "Assembly" ],
+  "text" : "John Yakabuski (born June 14, 1957) is a politician in Ontario, Canada. He is a Progressive Conservative member of the Legislative Assembly of Ontario who was elected in the eastern Ontario riding of Renfrew—Nipissing—Pembroke in 2003. His father, Paul Yakabuski, was also a Tory Member of Provincial Parliament (MPP) for the area from 1963 to 1987.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity8056",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Wilson_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Simcoe—Grey_(provincial_electoral_district)", "(Simcoe West )" ]
+  },
+  "words" : [ "leader", "Opposition", "serve", "by-election", "July", "Assembly", "--", "new", "1990", ",", "April", ".", "chosen", "Progressive", "elected", "Canada", "2", "4", "interim", "following", "-RRB-", "Ontario", "party", "legislature", "Brown", "-LRB-", "Leader", "September", "riding", "resignation", "represents", "member", "Grey", "born", "politician", "Wilson", "continued", "entered", "Hudak", "Jim", "1963", "Patrick", "2015", "2014", "Conservative", "caucus", "Legislative", "Tim", "Simcoe" ],
+  "adjectives" : [ "new", "interim", "Legislative" ],
+  "nouns" : [ "leader", "politician", "caucus", "Opposition", "member", "resignation", "by-election", "Assembly", "party", "legislature" ],
+  "text" : "Jim Wilson (born April 4, 1963) is a politician in Ontario, Canada. He is a Progressive Conservative member of the Legislative Assembly of Ontario who was elected in 1990 and represents the riding of Simcoe—Grey. On July 2, 2014, Wilson was chosen by his caucus to serve as interim leader of the party and Leader of the Opposition following the resignation of Tim Hudak. He continued to serve as Leader of the Opposition until September 2015 when new party leader, Patrick Brown entered the legislature through a by-election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity8062",
+  "entityUrl" : "http://dbpedia.org/resource/Julia_Munro",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/York—Simcoe_(provincial_electoral_district)", "http://dbpedia.org/resource/Durham—York", "(York North )" ]
+  },
+  "words" : [ "--", "-LRB-", "York", "born", "politician", "riding", "c.", ",", ".", "Julia", "Munro", "Progressive", "elected", "represents", "1942", "Canada", "1995", "Conservative", "-RRB-", "member", "Legislative", "Ontario", "Assembly", "Simcoe" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Julia Munro (born c. 1942) is a politician in Ontario, Canada. She is a Progressive Conservative member of the Legislative Assembly of Ontario who was elected in 1995. She represents the riding of York—Simcoe.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity8067",
+  "entityUrl" : "http://dbpedia.org/resource/Jeff_Leal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Peterborough_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "serves", "riding", "1954", "represents", "December", "government", "2003", "member", "Assembly", "Kathleen", "Leal", "Wynne", "13", "Liberal", "born", "politician", ",", ".", "elected", "Canada", "Peterborough", "Jeff", "-RRB-", "Legislative", "Ontario", "cabinet" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "government", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Jeff Leal (born December 13, 1954) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2003. He represents the riding of Peterborough. He serves in the cabinet of the government of Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity8092",
+  "entityUrl" : "http://dbpedia.org/resource/Jenny_Kwan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Vancouver_East" ]
+  },
+  "words" : [ "New", "Hong", "Vancouver", "-LRB-", "MLA", "Canadian", "riding", "years", "serving", "legislative", "Party", "Commons", "member", "assembly", "provincial", "Kwan", "Ching", "Member", "Kong-born", "Assembly", "British", "election", "Democratic", "born", "politician", "representing", "Pleasant", "House", ",", ".", "senior", "elected", "Canada", "Columbia", "Vancouver-Mount", "2015", "caucus", "-RRB-", "Legislative", "Jenny", "East", "Wai", "1967", "20" ],
+  "adjectives" : [ "senior", "Legislative", "provincial", "legislative" ],
+  "nouns" : [ "MLA", "election", "politician", "caucus", "member", "assembly", "Assembly" ],
+  "text" : "Jenny Wai Ching Kwan (born in 1967) is a Hong Kong-born Canadian politician. She was a Member of the Legislative Assembly (MLA) of British Columbia for the riding of Vancouver-Mount Pleasant, and a senior member of the provincial caucus of the New Democratic Party. After serving for 20 years in the provincial legislative assembly, she was elected to the House of Commons of Canada in the 2015 election, representing Vancouver East.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity8103",
+  "entityUrl" : "http://dbpedia.org/resource/John_MacDougall_(Ontario_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Timiskaming_(electoral_district)" ]
+  },
+  "words" : [ "byelection", "Port", "John", "National", "prior", "Commons", "represented", "Hood", "Frances", "landed", "Status", "Women", "new", "MP", "made", "widely", "House", "received", ",", "'s", "April", "former", ".", "Progressive", "1982", "following", "-RRB-", "MacDougall", ":", "Lonsdale", "1947", "20", "Parliament", "status", "23", "became", "Alexander", "Action", "-LRB-", "fact", "death", "Canadian", "riding", "Committee", "head", "Party", "1993", "member", "Thobani", "immigrant", "criticized", "comments", "Scotia", "born", "politician", "Nova", "centre", "entered", "controversy", "attacking", "Sunera", "Bruce", "Conservative", "Timiskaming", "racist", "first" ],
+  "adjectives" : [ "new", "Canadian", "prior", "immigrant", "former" ],
+  "nouns" : [ "byelection", "head", "Status", "MP", "fact", "death", "politician", "member", "centre", "racist", "controversy", "status" ],
+  "text" : "John Alexander Frances MacDougall (born April 20, 1947 in Port Hood, Nova Scotia) is a former Canadian politician. He represented the riding of Timiskaming in the Canadian House of Commons from 1982 to 1993, as a member of the Progressive Conservative Party. He first entered Parliament in 1982, in a byelection following the death of the riding's prior MP, Bruce Lonsdale. On April 23, 1993, MacDougall became the centre of controversy when he made comments in the House of Commons attacking Sunera Thobani, the new head of the National Action Committee on the Status of Women: Thobani, in fact, had just received her landed immigrant status, and MacDougall's comments were widely criticized as racist. MacDougall did not run for reelection in the 1993 election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity8894",
+  "entityUrl" : "http://dbpedia.org/resource/Joe_Dickson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Ajax—Pickering_(provincial_electoral_district)" ]
+  },
+  "words" : [ "homonymes", "de", "Il", "politique", "aux", "est", "libéral", "2011", "deux", "sous", "du", "2007", "voir", "Pickering", "un", "Pour", "suivantes", "les", "circonscription", "Dickson", "élections", "à", "--", "Joe", "Parti", "ontarienne", "réélu", "en", "d'Ajax", ",", "dans", ".", "l'élection", "et", "l'Ontario", "élu", "législative", "homme", "l'Assemblée", "canadien", "bannière", "la", "lors", "2014", "d'affaires", "articles", "électorale" ],
+  "adjectives" : [ "législative", "libéral", "sous" ],
+  "nouns" : [ "homme", "Il", "l'Assemblée", "politique", "canadien", "aux", "est", "réélu", "un", "d'Ajax", "circonscription", "électorale" ],
+  "text" : "Pour les articles homonymes, voir Dickson. Joe Dickson est un homme d'affaires et homme politique canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection ontarienne de 2007 dans la circonscription électorale d'Ajax—Pickering, sous la bannière du Parti libéral de l'Ontario. Il est réélu aux deux élections suivantes, en 2011 et 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity9132",
+  "entityUrl" : "http://dbpedia.org/resource/John_Mullally",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/King's_(Prince_Edward_Island_electoral_district)" ]
+  },
+  "words" : [ "Melvin", "career", "-LRB-", "defeated", "Canadian", "28", "John", "riding", "office", "Edward", "serving", "general", "1930", "Prince", "teacher", "King", "Commons", "member", "McQuaid", "term", "Mullally", "November", "election", "Liberal", "born", "one", "House", ",", "'s", "Island", ".", "26th", "elected", "1965", "Progressive", "1963", "Souris", "Conservative", "-RRB-", "Cooney", "party", "first", "Parliament" ],
+  "adjectives" : [ "general", "Liberal", "first", "26th" ],
+  "nouns" : [ "career", "teacher", "election", "member", "term", "office", "party" ],
+  "text" : "John Cooney Mullally (born 28 November 1930 at Souris, Prince Edward Island) was a Liberal party member of the Canadian House of Commons. He was a teacher by career. He was first elected at the King's riding in the 1963 general election. After serving only one term in office, the 26th Canadian Parliament, Mullally was defeated at King's riding in the 1965 election by Melvin McQuaid of the Progressive Conservative party. Mullally faced McQuaid again in the 1968 federal election, that time at Cardigan because of riding boundary changes in the late 1960s. Mullally once again lost to McQuaid.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity10040",
+  "entityUrl" : "http://dbpedia.org/resource/John_Vanthof",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Timiskaming—Cochrane_(provincial_electoral_district)" ]
+  },
+  "words" : [ "--", "New", "-LRB-", "Democratic", "born", "politician", "John", "2011", "riding", "c.", "Vanthof", ",", ".", "elected", "represents", "Canada", "1963", "Cochrane", "-RRB-", "member", "Timiskaming", "Legislative", "Ontario", "Assembly" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "John Vanthof (born c. 1963) is a politician in Ontario, Canada. He is a New Democratic member of the Legislative Assembly of Ontario who was elected in 2011. He represents the riding of Timiskaming—Cochrane.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity10041",
+  "entityUrl" : "http://dbpedia.org/resource/Jagmeet_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Bramalea—Gore—Malton_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "leader", "ਜਗਮੀਤ", "ਸਿ", "hold", "ਘ", "represented", "Gore", "criminal", "January", "1979", "Member", "Assembly", "--", "deputy", "ਧਾਲੀਵਾਲ", "Deputy", "Democratic", "Dhaliwal", ",", ".", "Canada", "2", "-RRB-", ":", "position", "Ontario", "Parliament", "since", "politics", "-LRB-", "Leader", "Canadian", "defence", "Jagmeet", "2011", "riding", "turban-wearing", "Party", "Singh", "lawyer", "sit", "election", "Bramalea", "born", "politician", "Provincial", "entering", "Sikh", "Malton", "Legislative", "well", "Punjabi", "first" ],
+  "adjectives" : [ "turban-wearing", "Canadian", "Legislative", "criminal", "first" ],
+  "nouns" : [ "leader", "election", "deputy", "Sikh", "defence", "ਧਾਲੀਵਾਲ", "politician", "position", "Assembly", "lawyer" ],
+  "text" : "Jagmeet Singh Dhaliwal (Punjabi: ਜਗਮੀਤ ਸਿੰਘ ਧਾਲੀਵਾਲ) (born January 2, 1979) is a Canadian politician in Ontario, Canada and the Deputy Leader of the Ontario New Democratic Party. He has represented the riding of Bramalea—Gore—Malton in Legislative Assembly of Ontario since his election in 2011. He is the first turban-wearing Sikh to sit as a Member of Provincial Parliament, as well as the first to hold a deputy leader position in Canada. Before entering politics, Singh was a criminal defence lawyer.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity10047",
+  "entityUrl" : "http://dbpedia.org/resource/Jeff_Yurek",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Elgin—Middlesex—London_(provincial_electoral_district)" ]
+  },
+  "words" : [ "à", "Thomas", "Yurek", "politique", "est", ",", "St.", ".", "homme", "canadien", "Jeff", "un", "né" ],
+  "adjectives" : [ "un" ],
+  "nouns" : [ "à", "homme", "politique", "canadien", "né" ],
+  "text" : "Jeff Yurek est un homme politique canadien, né à St. Thomas.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity10049",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_McDonell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Stormont—Dundas—South_Glengarry_(provincial_electoral_district)" ]
+  },
+  "words" : [ "élection", "de", "Il", "McDonell", "politique", "qui", "est", "2011", "du", "député", "son", "un", "jeudi", "circonscription", "été", "à", "--", "représente", "Parti", "il", "maire", "provinciale", "South", "Glengarry", ",", ".", "l'élection", "Jim", "l'Ontario", "élu", "législative", "homme", "l'Assemblée", "canadien", "Stormont", "Dundas", "la", "lors", "6", "caucus", "le", "Avant", "octobre", "électorale", "progressiste-conservateur" ],
+  "adjectives" : [ "législative", "un", "Avant", "octobre", "progressiste-conservateur" ],
+  "nouns" : [ "élection", "à", "Il", "il", "politique", "qui", "est", "provinciale", "législative", "homme", "l'Assemblée", "député", "son", "canadien", "circonscription", "été", "électorale" ],
+  "text" : "Jim McDonell est un homme politique canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection provinciale du jeudi 6 octobre 2011. Il est le député qui représente la circonscription électorale de Stormont—Dundas—South Glengarry du caucus du Parti progressiste-conservateur de l'Ontario. Avant son élection à l'Assemblée législative, il a été le maire de South Glengarry.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity10050",
+  "entityUrl" : "http://dbpedia.org/resource/Jack_MacLaren",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Carleton—Mississippi_Mills_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Canadian", "electoral", "2011", "represents", "Carleton", "Party", "MacLaren", "member", "Mills", "Jack", "Assembly", "--", "election", "politician", ",", ".", "elected", "Progressive", "Mississippi", "district", "Conservative", "caucus", "Legislative", "Ontario", "first" ],
+  "adjectives" : [ "Canadian", "electoral", "Legislative", "first" ],
+  "nouns" : [ "election", "politician", "district", "caucus", "member", "Assembly" ],
+  "text" : "Jack MacLaren is a Canadian politician, who was first elected to the Legislative Assembly of Ontario in the 2011 election. He represents the electoral district of Carleton—Mississippi Mills as a member of the Ontario Progressive Conservative Party caucus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity10324",
+  "entityUrl" : "http://dbpedia.org/resource/Joan_Crockatt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Calgary_Centre" ]
+  },
+  "words" : [ "élection", "de", "politique", "partielle", "est", "battue", "libéral", "née", "novembre", "communes", "parti", "Lloydminster", "du", "des", "canadienne", "élue", "décembre", "circonscription", "été", "par", "Elle", "en", ",", ".", "Canada", "5", "lors", "octobre", "qui", "26", "jusqu'en", "Hehr", "Chambre", "2012", "personnalité", "Calgary-Centre", "elle", "d'une", "1955", "à", "représente", "Kent", "Membre", "une", "Joan", "la", "2015", "conservateur", "le", "Crockatt", "électorale" ],
+  "adjectives" : [ "par", "est", "libéral", "novembre", "octobre", "une" ],
+  "nouns" : [ "élection", "politique", "partielle", "jusqu'en", "battue", "personnalité", "née", "parti", "conservateur", "décembre", "circonscription", "été", "électorale" ],
+  "text" : "Joan Crockatt , née le 5 décembre 1955 à Lloydminster, est une personnalité politique canadienne qui a été élue à la Chambre des communes du Canada lors d'une élection partielle le 26 novembre 2012. Membre du parti conservateur du Canada, elle représente la circonscription électorale de Calgary-Centre jusqu'en novembre 2015. Elle est battue en octobre 2015 par le libéral Kent Hehr.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity10434",
+  "entityUrl" : "http://dbpedia.org/resource/John_Fraser_(Ontario_MPP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Ottawa_South_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "John", "riding", "by-election", "represents", "member", "Ottawa", "1958", "Assembly", "Liberal", "born", "politician", "South", "c.", "Fraser", ",", ".", "August", "elected", "Canada", "1", "2013", "-RRB-", "Legislative", "Ontario" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "by-election", "Assembly" ],
+  "text" : "John Fraser (born c. 1958) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in a by-election on August 1, 2013. He represents the riding of Ottawa South.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity10566",
+  "entityUrl" : "http://dbpedia.org/resource/Jennifer_French_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Oshawa_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "-LRB-", "Jennifer", "Democratic", "born", "politician", "riding", ",", ".", "elected", "represents", "Canada", "French", "Oshawa", "2014", "-RRB-", "member", "Legislative", "Ontario", "1978", "Assembly" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Jennifer French (born 1978) is a politician in Ontario, Canada. She is a New Democratic member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Oshawa.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity4495",
+  "entityUrl" : "http://dbpedia.org/resource/Earl_Desmond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Kent_(Ontario_electoral_district)" ]
+  },
+  "words" : [ "became", "Desmond", "career", "-LRB-", "defeated", "Canadian", "Blake", "March", "riding", "second", "general", "National", "1894", "affiliation", "Earl", "Commons", "member", "term", "July", "--", "14", "Kent", "election", "Government", "Liberal", "born", "House", ",", "Clayton", ".", "Progressive", "elected", "1940", "re-elected", "Conservative", "-RRB-", "Huffman", "9", "farmer", "1949", "1968", "Morpeth", "Ontario", "party", "first", "Parliament", "1945" ],
+  "adjectives" : [ "general", "Liberal", "first", "second" ],
+  "nouns" : [ "career", "election", "affiliation", "member", "farmer", "term", "party" ],
+  "text" : "Clayton Earl Desmond (9 March 1894 – 14 July 1968) was a National Government and Progressive Conservative party member of the Canadian House of Commons. He was born in Morpeth, Ontario and became a farmer by career. He was first elected to Parliament at the Kent riding in the 1940 general election under the National Government affiliation, then re-elected as a Progressive Conservative for a second term in 1945. He was defeated by Blake Huffman of the Liberal party in the 1949 election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity4507",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Winkler",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Grey—Bruce" ]
+  },
+  "words" : [ "-LRB-", "Canadian", "Eric", "March", "riding", "parliament", "Davis", "1975", "1995", "government", "Commons", "member", "provincial", "represented", "February", "1957", "Grey", "--", "Winkler", "13", "minister", "18", "politician", "South", "House", "also", ",", ".", "Progressive", "Bruce", "1920", "Canada", "Conservative", "served", "-RRB-", "Bill", "Alfred", "Ontario", "cabinet", "1967" ],
+  "adjectives" : [ "provincial" ],
+  "nouns" : [ "government", "minister", "politician", "member", "parliament", "cabinet" ],
+  "text" : "Eric Alfred Winkler (February 13, 1920 – March 18, 1995) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Canadian House of Commons from 1957 to 1967 who represented the riding of Grey—Bruce. He was also a member of provincial parliament from 1967 to 1975 who represented the riding of Grey South. He served as a cabinet minister in the government of Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity4834",
+  "entityUrl" : "http://dbpedia.org/resource/Erin_Weir",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Regina—Lewvan" ]
+  },
+  "words" : [ "M.", "New", "TV", "Previously", "United", "Lewvan", "Erin", "critic", "National", "Browne", "Network", "Member", "Business", "--", "MP", "Democratic", "Public", ",", "'s", "Fraser", ".", "Steelworkers", "elected", "Canada", "channels", "-RRB-", "guest", "Weir", "Parliament", "party", "Louis", "Office", "K.", "-LRB-", "Canadian", "Regina", "frequent", "riding", "Party", "News", "federal", "Trent", "member", "NDP", "Procurement", "economist", "election", "Liberal", "union", "Services", "2015", "Conservative", "defeating" ],
+  "adjectives" : [ "Canadian", "Conservative", "federal", "frequent" ],
+  "nouns" : [ "TV", "MP", "economist", "election", "critic", "member", "guest", "union", "NDP", "party" ],
+  "text" : "Erin M. K. Weir, MP is the Canadian Member of Parliament for the riding of Regina—Lewvan. Previously an economist with the United Steelworkers union's Canadian National Office, Weir was elected in the 2015 federal election, defeating Conservative Trent Fraser and Liberal Louis Browne. He is a member of the New Democratic Party (NDP) and the party's critic for Public Services and Procurement Canada. Weir has been a frequent guest on the Business News Network and other TV channels. He has also been a member (and former Chair) of the Progressive Economics Forum, an organization of 125 progressive economists who comment on matters of public policy. In the 2004 federal election, Weir was the NDP candidate in the riding of Wascana challenging the Liberal incumbent, then Finance Minister Ralph Goodale. Weir also ran for the Leadership of the Saskatchewan NDP in 2012-13.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity5035",
+  "entityUrl" : "http://dbpedia.org/resource/Erin_O'Toole",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Durham_(electoral_district)" ]
+  },
+  "words" : [ "de", "Il", "politique", "partielle", "26", "est", "Chambre", "2012", "novembre", "communes", "Élu", "du", "Erin", "des", "O'Toole", "un", "Anciens", "circonscription", "à", "par", "représente", "membre", "il", "Parti", "premier", "janvier", "nommé", "ministre", ",", "Harper", ".", "l'élection", "Canada", "combattants", "homme", "canadien", "la", "5", "2015", "lors", "conservateur", "le", "Durham", "électorale", "Stephen" ],
+  "adjectives" : [ "par", "un", "novembre" ],
+  "nouns" : [ "membre", "il", "Il", "politique", "partielle", "est", "janvier", "nommé", "ministre", "l'élection", "homme", "canadien", "conservateur", "circonscription", "électorale" ],
+  "text" : "Erin O'Toole est un homme politique canadien. Élu à la Chambre des communes du Canada, il représente la circonscription électorale de Durham lors de l'élection partielle du 26 novembre 2012. Il est membre du Parti conservateur. Il est nommé ministre des Anciens combattants par le premier ministre Stephen Harper le 5 janvier 2015. Il est le fils de John O'Toole (en), député de la même circonscription à l'Assemblée législative de l'Ontario.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity5096",
+  "entityUrl" : "http://dbpedia.org/resource/Eleanor_McMahon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Burlington_(provincial_electoral_district)" ]
+  },
+  "words" : [ "June", "-LRB-", "death", "McMahon", "riding", "bicycling", "husband", "cycling", "represents", "2006", "Burlington", "advocacy", "Eleanor", "member", "Assembly", "group", "Cycling", "Liberal", "founder", "Road", "created", "born", "politician", "c.", ",", ".", "elected", "Canada", "collision", "1962", "2014", "Coalition", "following", "-RRB-", "Legislative", "Ontario", "Share" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "collision", "death", "founder", "politician", "advocacy", "member", "bicycling", "husband", "cycling", "Share", "Assembly", "group" ],
+  "text" : "Eleanor McMahon (born c. 1962) is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Burlington. She is the founder of the Share the Road Cycling Coalition, a bicycling advocacy group she created following the death of her husband in a cycling collision in June 2006.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity18689",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_McLean",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Waterloo_(electoral_district)" ]
+  },
+  "words" : [ "Franklin", "Knox", "son", "designated", "1936", "Frances", "--", "coordinator", "minister", "Victoria", "wife", ",", "'s", "April", "former", ".", "Presbyterian", "Columbia", "University", "-RRB-", "College", "1905", ";", "Ontario", "Toronto", "McLean", "-LRB-", "26", "Canadian", "1998", "CUSO", "Nigeria", "presbyterian", "Walter", "British", "Leamington", "James", "studied", "missionaries", "born", "politician", "D.", "grew", "PC", "1962", "Blair", "Barbara", "Born", "Lewis", "first" ],
+  "adjectives" : [ "Presbyterian", "Canadian", "former", "first", "presbyterian" ],
+  "nouns" : [ "son", "coordinator", "minister", "wife", "politician" ],
+  "text" : "Walter Franklin McLean, PC (born April 26, 1936) is a former Canadian politician. Born in Leamington, Ontario, he grew up in Victoria British Columbia, the son of James Walter Lewis McLean (1905–1998), a Presbyterian minister, and Frances D. Blair McLean. He studied at the University of British Columbia, and Toronto's Knox College. Walter and his wife Barbara, were designated as presbyterian missionaries; Walter was the first CUSO coordinator in Nigeria in 1962. Following the Nigerian Civil War in Nigeria, the McLeans returned to Canada, and settled in Winnipeg, Manitoba, where Walter was involved in that province's 1970 Centennial Celebrations. In 1971, the family moved to Waterloo Ontario, and Walter became the Minister of Knox Church, and involved in local affairs. He was elected as a Progressive Conservative Party candidate in the 1979 federal election in the riding of Waterloo. He was re-elected in the 1980, 1984 and 1988 elections. From 1984 to 1985, he was Secretary of State for Canada, and from 1985 to 1986, he was Minister of State (Immigration). He has represented Canada as the Parliamentary Delegate to the United Nations General Assembly, and as Special Representative for African and Commonwealth Affairs. Within the Presbytrerian Church in Canada, he is now a \"Minister in Association\" with Knox Waterloo. He was co-ordinator of the \"Celebrate 125\" festivities in 1999-2000. He was rewarded with a Doctor of Divinity degree from Knox College in 2002. His wife Barbara has also served in the Church as Presbytery Clerk in the Waterloo-Wellington Presbytery, and in the national Church as Deputy Clerk of the Presbyterian Church in Canada's General Assembly from 1992 to 2003.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity19123",
+  "entityUrl" : "http://dbpedia.org/resource/William_Black_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Huron_South" ]
+  },
+  "words" : [ "22", "became", "-LRB-", "May", "Canadian", "electoral", "March", "riding", "Black", "confused", "general", "1930", "Commons", "member", "Member", "--", "election", "Township", "born", "South", "Huron", "House", ",", "William", "McKillop", "Anderson", "Halifax", ".", "Progressive", "elected", "1921", "3", "district", "-RRB-", "farmer", "1869", "Ontario", "Parliament", "party" ],
+  "adjectives" : [ "Progressive", "general", "Canadian", "electoral" ],
+  "nouns" : [ "election", "district", "member", "farmer", "party" ],
+  "text" : "(Not to be confused with the Canadian Member of Parliament for Halifax electoral district, William Anderson Black.) William Black (22 March 1869 – 3 May 1930) was a Progressive party member of the Canadian House of Commons. He was born in McKillop Township, Ontario and became a farmer. He was elected to Parliament at the Huron South riding in the 1921 general election. After completing his only term, the 14th Canadian Parliament, Black left federal politics and did not seek another term in the 1925 election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity19511",
+  "entityUrl" : "http://dbpedia.org/resource/Wayne_Gates",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Niagara_Falls_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "Democratic", "politician", "riding", "by-election", ",", ".", "elected", "represents", "Falls", "Wayne", "Canada", "Niagara", "2014", "member", "Legislative", "Ontario", "February", "Gates", "Assembly" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "by-election", "Assembly" ],
+  "text" : "Wayne Gates is a politician in Ontario, Canada. He is a New Democratic member of the Legislative Assembly of Ontario who was elected in a by-election in February 2014. He represents the riding of Niagara Falls.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity18297",
+  "entityUrl" : "http://dbpedia.org/resource/Vic_Dhillon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Brampton_West_(provincial_electoral_district)", "(Brampton West—Mississauga )" ]
+  },
+  "words" : [ "-LRB-", "Liberal", "West", "born", "politician", "riding", "c.", ",", ".", "elected", "represents", "Vic", "Canada", "Brampton", "2003", "-RRB-", "member", "Legislative", "1969", "Ontario", "Dhillon", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Vic Dhillon (born c. 1969) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2003. He represents the riding of Brampton West.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity18375",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Fedeli",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Nipissing_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "Nipissing", "Algonquin", "2010", "MPP", "serving", "Victor", "2003", "Critic", "North", "1956", "Regiment", "Anthony", "mayor", "Finance", "born", "politician", "Fedeli", ",", ".", "former", "August", "Progressive", "Honorary", "Vic", "Canada", "PC", "Conservative", "Colonel", "-RRB-", "8", "Bay", "Ontario" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "mayor", "politician" ],
+  "text" : "Victor Anthony (Vic) Fedeli (born August 8, 1956) is a politician in Ontario, Canada. He is the Progressive Conservative MPP for Nipissing, PC Finance Critic, an Honorary Colonel for the Algonquin Regiment and former mayor of North Bay, Ontario serving from 2003 to 2010.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity11315",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_Maguire",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Brandon—Souris" ]
+  },
+  "words" : [ "Formerly", "June", "-LRB-", "Manitoba", "MLA", "25", "Disabilities", "by-election", "Committee", "Security", "Maguire", "Party", "National", "Skills", "Commons", "Persons", "Larry", "member", "Development", "Safety", "Assembly", "November", "activist", "sits", "Human", "Social", "Status", "born", "politician", "House", "Public", ",", ".", "Progressive", "elected", "1", "Canada", "Conservative", "2013", "-RRB-", "farmer", "Legislative", "1949", "Standing", "Resources" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "activist", "politician", "member", "farmer", "by-election", "Assembly" ],
+  "text" : "Larry Maguire (born June 1, 1949) is a politician and activist farmer in Manitoba, Canada. Formerly a Progressive Conservative MLA in the Legislative Assembly of Manitoba, he was elected to the House of Commons of Canada in a by-election on November 25, 2013. He is a member of the Conservative Party of Canada and sits on the House Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities and the House Standing Committee on Public Safety and National Security.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity11326",
+  "entityUrl" : "http://dbpedia.org/resource/Laurie_Scott_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Haliburton—Kawartha_Lakes—Brock_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "2011", "riding", "represents", "2009", "2003", "member", "Assembly", "--", "born", "politician", "Kawartha", "c.", ",", ".", "Haliburton", "Laurie", "Progressive", "Brock", "Canada", "1963", "Conservative", "-RRB-", "Lakes", "Legislative", "present", "Ontario", "Scott" ],
+  "adjectives" : [ "Legislative", "present" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Laurie Scott (born c. 1963) is a politician in Ontario, Canada. She is a Progressive Conservative member of the Legislative Assembly of Ontario who represents the riding of Haliburton—Kawartha Lakes—Brock. She was a member from 2003 to 2009 and again from 2011 to the present.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity11327",
+  "entityUrl" : "http://dbpedia.org/resource/Lou_Rinaldi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Northumberland—Quinte_West_(provincial_electoral_district)", "(Northumberland )" ]
+  },
+  "words" : [ "``", "Rinaldi", "Quinte", "-LRB-", "2011", "riding", "Northumberland", "MPP", "2003", "member", "Assembly", "''", "--", "Liberal", "West", "born", "politician", "representing", "c.", ",", ".", "Canada", "Lou", "re-elected", "2014", "-RRB-", "Legislative", "Luigino", "1947", "Ontario" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Luigino \"Lou\" Rinaldi (born c. 1947) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario, representing the riding of Northumberland—Quinte West. He was an MPP between 2003 and 2011 and was re-elected in 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity11490",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Albanese",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/York_South—Weston_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Albanese", "-LRB-", "September", "York", "serves", "riding", "represents", "2007", "government", "Weston", "member", "1957", "Assembly", "Kathleen", "11", "--", "Wynne", "minister", "Liberal", "born", "politician", "South", ",", ".", "elected", "Canada", "Laura", "-RRB-", "Legislative", "Ontario", "cabinet", "Toronto" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Laura Albanese (born September 11, 1957) is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2007. She represents the Toronto riding of York South—Weston. She serves as a cabinet minister in the government of Kathleen Wynne. She worked as a news anchor for Italian language news programming on Omni Television working in Italian language programming.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity11513",
+  "entityUrl" : "http://dbpedia.org/resource/Len_Webber",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Calgary_Confederation" ]
+  },
+  "words" : [ "``", "de", "politique", "est", "novembre", "du", "député", "depuis", "Leonard", "un", "Le", "circonscription", "10", "barrière", "12", "il", "mercredi", "en", "indépendant", ",", "l'élection", ".", "homme", "albertain", "lors", "l'Alberta", "-RRB-", "né", "progressiste-conservateur", "22", "d'Alison", "-LRB-", "qui", "signe", "manifestant", "sous", "l'Association", "Warren", "siéger", "Calgary-Foothills", "2004", "contre", "direction", "''", "à", "représente", "lundi", "Redford", "mars", "provinciale", "pour", "Webber", "législative", "l'Assemblée", "Len", "canadien", "1960", "la", "quitte", "2014", "caucus", "le", "comme" ],
+  "adjectives" : [ "législative", "novembre", "indépendant", "progressiste-conservateur", "sous" ],
+  "nouns" : [ "d'Alison", "il", "politique", "qui", "est", "provinciale", "l'élection", "siéger", "homme", "albertain", "député", "l'Assemblée", "canadien", "quitte", "l'Alberta", "caucus", "depuis", "un", "comme", "direction" ],
+  "text" : "Leonard Warren \"Len\" Webber (né le 10 novembre 1960) est un homme politique (albertain) canadien, il est le député qui représente la circonscription de Calgary-Foothills à l'Assemblée législative depuis l'élection provinciale du lundi 22 novembre 2004 sous la barrière de l'Association progressiste-conservateur de l'Alberta. Le mercredi 12 mars 2014, il quitte le caucus progressiste-conservateur pour siéger comme indépendant lors de la signe en manifestant contre la direction d'Alison Redford.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity11830",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Thompson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Huron—Bruce_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "2011", "riding", "MPP", "Lisa", "represents", "member", "Thompson", "Assembly", "--", "born", "politician", "Huron", "c.", ",", ".", "1965", "Progressive", "Bruce", "Canada", "Conservative", "-RRB-", "Legislative", "Ontario", "since" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Lisa Thompson (born c. 1965) is a politician in Ontario, Canada. She is a Progressive Conservative member of the Legislative Assembly of Ontario who represents the riding of Huron—Bruce. She has been an MPP since 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity11982",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Gretzky",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Windsor_West_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "-LRB-", "Gretzky", "Democratic", "Windsor", "West", "born", "politician", "19", "riding", ",", ".", "Lisa", "elected", "represents", "Canada", "1971", "2014", "-RRB-", "member", "Legislative", "January", "Ontario", "Assembly" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Lisa Gretzky (born January 19, 1971) is a politician in Ontario, Canada. She is a New Democratic member of the Legislative Assembly of Ontario, who was elected in 2014. She represents the riding of Windsor West.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity2612",
+  "entityUrl" : "http://dbpedia.org/resource/Cheri_DiNovo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Parkdale—High_Park_(provincial_electoral_district)" ]
+  },
+  "words" : [ "élection", "de", "culte", "Church", "politique", "partielle", "est", "United", "DiNovo", "née", "du", "député", "son", "Howard", "province", "canadienne", "élue", "circonscription", "été", "--", "Elle", "l'église", "14", "Parti", "l'Église", "en", "déroulée", "ministre", "dans", ",", ".", "l'élection", "et", "l'Ontario", "Park", "démocratique", "Canada", "lors", "-RRB-", "Avant", "Ontario", "Toronto", "-LRB-", "unie", "qui", "était", "Emmanuel", "Kennedy", "elle", "2006", "septembre", "Cheri", "à", "High", "`", "Nouveau", "membre", "femme", "une", "députée", "remplacer", "législative", "démissionnaire", "l'Assemblée", "Gerard", "1960", "la", "Parkdale", "le" ],
+  "adjectives" : [ "High", "législative", "septembre", "Avant" ],
+  "nouns" : [ "à", "démocratique", "élection", "l'Assemblée", "son", "province", "partielle", "qui", "élue", "été", "l'élection", "députée" ],
+  "text" : "Cheri DiNovo (née en 1960 à Toronto en Ontario) elle est une ministre de culte et femme politique canadienne dans la province de l'Ontario. Elle a été élue députée à l'Assemblée législative de l'Ontario dans la circonscription de Parkdale—High Park lors de l'élection partielle qui s'est déroulée le 14 septembre 2006 dans le but de remplacer le député démissionnaire Gerard Kennedy. Elle est membre du Nouveau Parti démocratique de l'Ontario. Avant son élection, elle était ministre de culte de l'Église unie du Canada, à l'église Emmanuel Howard Park United Church. Elle est mariée à Gil Gaspar. Elle est la mère de Francesca et Damien Zielinski.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity2667",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Sousa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Mississauga_South_(provincial_electoral_district)" ]
+  },
+  "words" : [ "de", "politique", "est", "libéral", "du", "voir", "un", "les", "poste", "circonscription", "Charles", "Parti", "McGuinty", "en", "ministre", ",", "dans", ".", "l'élection", "l'Ontario", "Travail", "élu", "homme", "Mississauga-Sud", "bannière", "occupé", "lors", "né", "Ontario", "Toronto", "homonymes", "Sousa", "Il", "27", "sous", "2007", "septembre", "Pour", "1958", "à", "ontarienne", "législative", "l'Assemblée", "canadien", "la", "Gouvernement", "le", "articles", "électorale" ],
+  "adjectives" : [ "législative", "libéral", "sous" ],
+  "nouns" : [ "homme", "Il", "l'Assemblée", "politique", "canadien", "occupé", "septembre", "est", "un", "né", "circonscription", "électorale" ],
+  "text" : "Pour les articles homonymes, voir Sousa. Charles Sousa, né le 27 septembre 1958 à Toronto en Ontario, est un homme politique canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection ontarienne de 2007, sous la bannière du Parti libéral de l'Ontario dans la circonscription électorale de Mississauga-Sud. Il a occupé le poste de ministre du Travail sous le Gouvernement McGuinty. Depuis l'arrivée au pouvoir de Kathleen Wynne en 2013, il occupe le poste de ministre des Finances dans son gouvernement.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity2971",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Wallace_Stewart",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Humboldt_(electoral_district)" ]
+  },
+  "words" : [ "June", "became", "Singer", "-LRB-", "Manitoba", "Canadian", "York", "March", "County", "Stewart", "Winnipeg", "Pleasantdale", "son", "1950", "Sarah", "Commons", "member", "1918", "1911", "Frances", "--", "Charles", "H.", "born", "1908", "Brandon", "House", "Saskatchewan", ",", ".", "Pattenden", "Progressive", "Wallace", "educated", "1885", "4", "reeve", "W.L", "-RRB-", "9", "farmer", "Ontario", "married", "party", "Stephen" ],
+  "adjectives" : [ "Progressive" ],
+  "nouns" : [ "son", "reeve", "member", "farmer", "party" ],
+  "text" : "Charles Wallace Stewart (9 June 1885 – 4 March 1950) was a Progressive party member of the Canadian House of Commons. He was born in York County, Ontario and became a farmer. From 1908 to 1918, he was reeve of Pleasantdale, Saskatchewan, The son of Stephen W.L Stewart and Sarah Pattenden, Stewart was educated in Brandon, Manitoba and Winnipeg. In 1911, he married Frances H. Singer. He was elected to Parliament at the Humboldt riding in the 1921 general election. After serving his only federal term, the 14th Canadian Parliament, Stewart was defeated in the 1925 federal election by Albert Frederick Totzke of the Liberal party. He died of liver and colon cancer in 1950.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity3144",
+  "entityUrl" : "http://dbpedia.org/resource/Cindy_Forster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Welland_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "-LRB-", "Democratic", "born", "politician", "2011", "riding", "c.", ",", "MPP", "Forster", ".", "represents", "1953", "Canada", "Welland", "-RRB-", "member", "Legislative", "Cindy", "Ontario", "Assembly", "since" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Cindy Forster (born c. 1953) is a politician in Ontario, Canada. She is a New Democratic member of the Legislative Assembly of Ontario who represents the riding of Welland. She has been an MPP since 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "44_entity3225",
+  "entityUrl" : "http://dbpedia.org/resource/Catherine_Fife",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Kitchener—Waterloo_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "Fife", "-LRB-", "2012", "riding", "Waterloo", "MPP", "represents", "member", "Assembly", "--", "Kitchener", "Democratic", "born", "politician", "Catherine", "c.", ",", ".", "Canada", "-RRB-", "Legislative", "1969", "Ontario", "since" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Catherine Fife (born c. 1969) is a politician in Ontario, Canada. She is a New Democratic member of the Legislative Assembly of Ontario who represents the riding of Kitchener—Waterloo. She has been an MPP since 2012.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "45_entity3347",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Ballard_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Newmarket—Aurora_(provincial_electoral_district)" ]
+  },
+  "words" : [ "--", "Liberal", "politician", "riding", ",", ".", "elected", "represents", "Ballard", "Canada", "Aurora", "Chris", "2014", "member", "Legislative", "Ontario", "Assembly", "Newmarket" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Chris Ballard is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. He represents the riding of Newmarket—Aurora.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "46_entity3348",
+  "entityUrl" : "http://dbpedia.org/resource/Cristina_Martins",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Davenport_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Liberal", "politician", "riding", ",", "Cristina", ".", "elected", "represents", "Canada", "2014", "Bento", "member", "Legislative", "Davenport", "Martins", "Ontario", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Cristina Bento Martins is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Davenport.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "47_entity1629",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Chiarelli",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Ottawa_West—Nepean_(provincial_electoral_district)", "(Ottawa West )" ]
+  },
+  "words" : [ "``", "24", "-LRB-", "September", "Chair", "2010", "Regional", "subsequently", "1997", "2006", "Bob", "Chiarelli", "Ottawa-Carleton", "Robert", "Dalton", "member", "provincial", "Ottawa", "cabinets", "Assembly", "Kathleen", "''", "Wynne", "McGuinty", "mayor", "Liberal", "born", "politician", "2001", ",", ".", "1987", "Canada", "1941", "re-elected", "served", "-RRB-", "Legislative", "Ontario", "legislature" ],
+  "adjectives" : [ "Liberal", "Legislative", "provincial" ],
+  "nouns" : [ "mayor", "politician", "member", "Assembly", "legislature" ],
+  "text" : "Robert \"Bob\" Chiarelli (born September 24, 1941) is a politician in Ontario, Canada. He is a Liberal member in the Legislative Assembly of Ontario who served from 1987 to 1997, and then was subsequently re-elected to the legislature in 2010. He was the Regional Chair of Ottawa-Carleton from 1997 to 2001 and was mayor of Ottawa from 2001 to 2006. He has served in the provincial cabinets of Dalton McGuinty and Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "48_entity1681",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Mauro",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Thunder_Bay—Atikokan_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "serves", "riding", "represents", "government", "Mauro", "2003", "member", "1956", "Assembly", "Kathleen", "--", "Wynne", "Thunder", "minister", "Liberal", "born", "politician", "c.", ",", ".", "elected", "Canada", "Bill", "-RRB-", "Legislative", "Bay", "Ontario", "Atikokan", "cabinet" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Bill Mauro (born c. 1956) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2003. He represents the riding of Thunder Bay—Atikokan and he serves as a cabinet minister in the government of Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "49_entity1682",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Delaney",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Mississauga—Streetsville_(provincial_electoral_district)", "Mississauga West" ]
+  },
+  "words" : [ "-LRB-", "Mississauga", "riding", "MPP", "1953", "Party", "Bob", "2003", "member", "Assembly", "--", "Liberal", "Streetsville", "born", "politician", "representing", "c.", "Delaney", ",", ".", "Canada", "-RRB-", "Legislative", "Ontario", "since" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Bob Delaney (born c. 1953) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario, representing the riding of Mississauga—Streetsville for the Ontario Liberal Party. He has been an MPP since 2003.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "50_entity1700",
+  "entityUrl" : "http://dbpedia.org/resource/Brenda_Chamberlain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Guelph—Wellington", "http://dbpedia.org/resource/Guelph_(electoral_district)" ]
+  },
+  "words" : [ "operator", "Board", "Education", "Commons", "1979", "Wellington", "--", "Executive", "Guelph", "Director", "House", "Chamberlain", ",", "April", ".", "1987", "1985", "1984", "1983", "served", "-RRB-", "9", "Ontario", "Toronto", "1989", "Kay", "Brenda", "-LRB-", "Canadian", "family-owned", "riding", "resignation", "County", "Literacy", "Council", "2008", "1952", "Party", "1993", "1992", "member", "owner", "daycare", "business", "Guelph-Wellington", "Liberal", "born", "assistant", "representing", "also", "Educational", "home", "PC", "administrative", "time", "Career" ],
+  "adjectives" : [ "administrative", "family-owned" ],
+  "nouns" : [ "owner", "daycare", "business", "assistant", "member", "resignation", "time", "Literacy", "operator", "home" ],
+  "text" : "Brenda Kay Chamberlain, PC (born April 9, 1952 in Toronto, Ontario) was a member of the Canadian House of Commons, representing the riding of Guelph for the Liberal Party from 1993 until her resignation as of April, 2008. Chamberlain was a home daycare owner and operator from 1979 to 1983, and served as the administrative assistant in a family-owned business from 1984 to 1987. She also served as Executive Director of the Wellington County Literacy Council from 1989 to 1993, and of the Guelph-Wellington Career Educational Council from 1992 to 1993. During this time she also served on the Wellington County Board of Education (1985–1993). Chamberlain sought the federal Liberal nomination in Guelph-Wellington in 1992. Chamberlain's main challenger for the nomination was to be former Liberal Member of Parliament Frank Maine, who represented Guelph in the House of Commons from 1974 to 1979. Maine dropped out of the race after the riding's nomination meeting was scheduled for an early date, arguing that this favoured Chamberlain. Chamberlain went on to win the Liberal nomination by acclamation. Maine later decided to run as an independent candidate against Chamberlain in the 1993 federal election. Chamberlain was elected handily as the Liberals took all but one of Ontario's 101 seats—the closest any party has come to sweeping the country's biggest province at the federal level. Chamberlain was re-elected by greater margins in the elections of 1997 and 2000. For many years, she was known as a strong supporter of Paul Martin in his bid to succeed Jean Chrétien as leader of the Liberal Party. Chamberlain won another easy victory in the election of 2004, defeating her Conservative opponent by nearly 10,000 votes in the redistributed riding of Guelph. Chamberlain was elected a fifth time in the election of 2006, in which the Conservative Party won a national minority government. She was one of the more socially conservative members of the Liberal caucus, and was a vocal opponent of her own party's plans to decriminalize the possession of small amounts of marijuana. Chamberlain also voted against her party's same-sex marriage bill in 2005. She was also involved in legislation which forced Bell Canada to revise its 411 billing policy. Chamberlain served as parliamentary secretary to the Minister of Labour from 1997 to 1999, and was parliamentary secretary to the president of the Queen's Privy Council, with special emphasis on public service reform and Métis and Non-Status Indians, from December 2003 to July 2004. Although opposition spread rumours that she was about to retire she stood for re-election in 2006 and won handily. Just over two years later, on March 7, 2008, Chamberlain announced her resignation from the House of Commons effective April 7. She did not provide a reason for her resignation. During that election and thereafter the Guelph Mercury subjected Chamberlain to increasing degrees of criticism. Hansard will show that Chamberlain's last official votes occurred during the finals of weeks of February 2008. Subsequently, in a 2008 by-election Liberal candidate Frank Valeriote was elected in the Guelph riding. Brenda Chamberlain served locally as a school trustee and federally as a Member of the House of Commons. She was elected for twenty-four consecutive years of public service.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "51_entity1884",
+  "entityUrl" : "http://dbpedia.org/resource/Bonnie_Crombie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Mississauga—Streetsville" ]
+  },
+  "words" : [ "Mayor", "-LRB-", "Canadian", "Mississauga", "2011", "riding", "née", "Sawarna", "Council", "2008", "Peel", "February", "Member", "councillor", "--", "Bonnie", "Liberal", "Streetsville", "born", "politician", "Crombie", "City", ",", ".", "5", "1960", "Ward", "2014", "served", "-RRB-", "Region", "Ontario", "Parliament", "since" ],
+  "adjectives" : [ "Canadian", "Liberal", "née" ],
+  "nouns" : [ "politician", "Region", "councillor" ],
+  "text" : "Bonnie Crombie (née Sawarna, born February 5, 1960) is a Canadian politician who has been the Mayor of Mississauga, Ontario since 2014. From 2008 to 2011 she was a Liberal Member of Parliament for the riding of Mississauga—Streetsville and from 2011 to 2014 she served as councillor for Ward 5 on Mississauga City Council and on the Council of the Region of Peel.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "52_entity1920",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Bailey_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Sarnia—Lambton_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "riding", "MPP", "2007", "1951", "Robert", "Conservatives", "member", "Bailey", "Assembly", "--", "Lambton", "born", "politician", "representing", "c.", ",", "Sarnia", ".", "Progressive", "Canada", "-RRB-", "Legislative", "Ontario", "since" ],
+  "adjectives" : [ "Progressive", "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Robert Bailey (born c. 1951) is a politician in Ontario, Canada. He is a Progressive Conservatives member of the Legislative Assembly of Ontario representing the riding of Sarnia—Lambton. He has been an MPP since 2007.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "53_entity1943",
+  "entityUrl" : "http://dbpedia.org/resource/Bobby_Morrissey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Egmont_(electoral_district)" ]
+  },
+  "words" : [ "``", "-LRB-", "Canadian", "electoral", "districts", "Edward", "1954", "represents", "1st", "Prince", "1996", "Party", "previously", "Robert", "Commons", "member", "represented", "Assembly", "November", "''", "Tignish-DeBlois", "Liberal", "born", "18", "politician", "2000", "House", "Island", ".", "Canada", "1982", "Joseph", "district", "Egmont", "-RRB-", "Legislative", "Bobby", "Morrissey" ],
+  "adjectives" : [ "1st", "Canadian", "electoral", "Legislative" ],
+  "nouns" : [ "politician", "district", "member", "Assembly" ],
+  "text" : "Robert Joseph \"Bobby\" Morrissey (born 18 November 1954) is a Canadian politician. He represents the electoral district of Egmont in the House of Commons of Canada. He is a member of the Liberal Party. Morrissey previously represented the electoral districts of 1st Prince from 1982 to 1996 and Tignish-DeBlois from 1996 to 2000 in the Legislative Assembly of Prince Edward Island. He was a member of the Liberal Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "54_entity2204",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Walker_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Bruce—Grey—Owen_Sound_(provincial_electoral_district)" ]
+  },
+  "words" : [ "de", "Il", "politique", "qui", "est", "2011", "du", "député", "Owen", "un", "jeudi", "circonscription", "Grey", "à", "--", "représente", "Parti", "provinciale", "Walker", "Sound", ".", "l'élection", "l'Ontario", "Bruce", "élu", "législative", "homme", "l'Assemblée", "canadien", "la", "lors", "6", "caucus", "Bill", "le", "octobre", "électorale", "progressiste-conservateur" ],
+  "adjectives" : [ "législative", "un", "octobre", "progressiste-conservateur" ],
+  "nouns" : [ "homme", "Il", "l'Assemblée", "député", "politique", "canadien", "qui", "est", "provinciale", "circonscription", "électorale" ],
+  "text" : "Bill Walker est un homme politique canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection provinciale du jeudi 6 octobre 2011. Il est le député qui représente la circonscription électorale de Bruce—Grey—Owen Sound du caucus du Parti progressiste-conservateur de l'Ontario.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "55_entity17403",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Arnott",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Wellington—Halton_Hills_(provincial_electoral_district)", "Wellington", "Waterloo—Wellington" ]
+  },
+  "words" : [ "-LRB-", "riding", "MPP", "Hills", "member", "Assembly", "Wellington", "--", "Halton", "born", "politician", "representing", "1990", ",", "April", ".", "Progressive", "Canada", "1963", "Theodore", "Calvin", "Arnott", "Conservative", "served", "8", "-RRB-", "Legislative", "Ontario", "since" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Theodore Calvin Arnott (born April 8, 1963) is a politician in Ontario, Canada. He is a Progressive Conservative member of the Legislative Assembly of Ontario representing the riding of Wellington—Halton Hills. He has served as an MPP since 1990.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "56_entity17404",
+  "entityUrl" : "http://dbpedia.org/resource/Toby_Barrett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Haldimand—Norfolk_(provincial_electoral_district)", "(Norfolk )" ]
+  },
+  "words" : [ "--", "-LRB-", "born", "representing", ",", ".", "Progressive", "3", "Haldimand", "Party", "1995", "Toby", "Conservative", "district", "-RRB-", "member", "Legislative", "Barrett", "Ontario", "1945", "Assembly", "November", "Norfolk", "since" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "district", "member", "Assembly" ],
+  "text" : "Toby Barrett (born November 3, 1945) is a Progressive Conservative member of the Legislative Assembly of Ontario representing the district of Haldimand—Norfolk for the Progressive Conservative Party. He has been a member since 1995.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "57_entity17412",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_McMeekin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Ancaster—Dundas—Flamborough—Westdale_(provincial_electoral_district)", "Ancaster—Dundas—Flamborough—Aldershot" ]
+  },
+  "words" : [ "-LRB-", "riding", "by-election", "represents", "government", "Dalton", "member", "McMeekin", "Assembly", "Kathleen", "--", "Flamborough", "Wynne", "McGuinty", "minister", "Liberal", "born", "politician", "2000", "c.", ",", ".", "Ancaster", "Westdale", "elected", "Canada", "Ted", "Dundas", "served", "-RRB-", "Legislative", "1948", "Ontario", "cabinet" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "government", "minister", "politician", "member", "by-election", "cabinet", "Assembly" ],
+  "text" : "Ted McMeekin (born c. 1948) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in a by-election in 2000. He represents the riding of Ancaster—Dundas—Flamborough—Westdale. He served as a cabinet minister in the government of Dalton McGuinty and in the government of Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "58_entity17424",
+  "entityUrl" : "http://dbpedia.org/resource/Tim_Hudak",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Niagara_West—Glanbrook_(provincial_electoral_district)", "Erie—Lincoln", "Niagara South" ]
+  },
+  "words" : [ "``", "governments", "Glanbrook", "years", "Ernie", "Assembly", "Eves", "--", "minister", ",", "former", ".", "Progressive", "elected", "1", "Canada", "Mike", "Niagara", "served", "-RRB-", "Ontario", "legislature", "21", "Timothy", "-LRB-", "September", "27", "riding", "resignation", "1995", "member", "November", "''", "recently", "West", "born", "politician", "sat", "representing", "Harris", "Hudak", "Patrick", "2016", "Conservative", "Tim", "Legislative", "cabinet", "1967", "age" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "minister", "politician", "member", "resignation", "cabinet", "Assembly", "age", "legislature" ],
+  "text" : "Timothy Patrick \"Tim\" Hudak (born November 1, 1967) is a former politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario until his resignation in September 2016. He was elected in 1995 at age 27, and sat in the Ontario legislature for 21 years, most recently representing the riding of Niagara West—Glanbrook. He served as a cabinet minister in the governments of Mike Harris and Ernie Eves. From 2009–14 he was leader of the party. Following his party's loss in the 2014 provincial election he resigned as leader, and was succeeded by interim leader Jim Wilson. Hudak announced on August 9, 2016 that he would be resigning his seat in the Ontario legislature, effective September 16, 2016, to become Chief Executive Officer of the Ontario Real Estate Association.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "59_entity18057",
+  "entityUrl" : "http://dbpedia.org/resource/Teresa_Armstrong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/London—Fanshawe_(provincial_electoral_district)" ]
+  },
+  "words" : [ "de", "-LRB-", "politique", "qui", "vers", "est", "Teresa", "2011", "née", "Armstrong", "du", "canadienne", "élue", "jeudi", "circonscription", "à", "--", "Nouveau", "Elle", "représente", "Parti", "J.", "provinciale", "femme", "une", ".", "l'élection", "Fanshawe", "l'Ontario", "députée", "démocratique", "législative", "l'Assemblée", "la", "lors", "6", "caucus", "-RRB-", "London", "octobre", "électorale", "1966" ],
+  "adjectives" : [ "législative", "femme", "octobre", "une" ],
+  "nouns" : [ "démocratique", "l'Assemblée", "politique", "qui", "provinciale", "canadienne", "circonscription", "électorale" ],
+  "text" : "Teresa J. Armstrong (née vers 1966) est une femme politique canadienne. Elle est élue à l'Assemblée législative de l'Ontario lors de l'élection provinciale du jeudi 6 octobre 2011. Elle est la députée qui représente la circonscription électorale de London—Fanshawe du caucus du Nouveau Parti démocratique de l'Ontario.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "60_entity18058",
+  "entityUrl" : "http://dbpedia.org/resource/Taras_Natyshak",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Essex_(provincial_electoral_district)" ]
+  },
+  "words" : [ "12", "New", "-LRB-", "Democratic", "born", "politician", "2011", "riding", ",", ".", "elected", "represents", "Canada", "October", "-RRB-", "member", "Legislative", "Taras", "Essex", "Ontario", "Natyshak", "Assembly", "1977" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Taras Natyshak (born October 12, 1977) is a politician in Ontario, Canada. He is a New Democratic member of the Legislative Assembly of Ontario who was elected in 2011. He represents the riding of Essex.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "61_entity18061",
+  "entityUrl" : "http://dbpedia.org/resource/Teresa_Piruzza",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Windsor_West_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Wynne", "-LRB-", "Liberal", "born", "politician", "Teresa", "2011", "c.", ",", "former", ".", "Canada", "2014", "served", "-RRB-", "member", "Piruzza", "Legislative", "1968", "Ontario", "cabinet", "Assembly", "Kathleen" ],
+  "adjectives" : [ "Liberal", "Legislative", "former" ],
+  "nouns" : [ "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Teresa Piruzza (born c. 1968) is a former politician in Ontario, Canada. She was a Liberal member of the Legislative Assembly of Ontario from on 2011 to 2014. She served in the cabinet of Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "62_entity18062",
+  "entityUrl" : "http://dbpedia.org/resource/Todd_Smith_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Prince_Edward—Hastings_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "2011", "riding", "Edward", "MPP", "represents", "October", "Prince", "1971", "member", "Assembly", "--", "Smith", "born", "politician", "Hastings", ",", ".", "Progressive", "Canada", "7", "Conservative", "-RRB-", "Legislative", "Todd", "Ontario", "since" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Todd Smith (born October 7, 1971) is a politician in Ontario, Canada. He is a Progressive Conservative member of the Legislative Assembly of Ontario who represents the riding of Prince Edward—Hastings. He has been an MPP since 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "63_entity18191",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Falk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Provencher_(electoral_district)" ]
+  },
+  "words" : [ "Provencher", "élection", "de", "politique", "partielle", "est", "novembre", "communes", "du", "député", "des", "son", "un", "circonscription", "été", "il", "Parti", "en", ",", "l'élection", ".", "et", "élu", "Canada", "président", "entreprise", "homme", "lors", "-RRB-", "Avant", "Falk", "né", "23", "-LRB-", "25", "qui", "Chambre", "Union", "gravier", "concassage", "Credit", "mai", "propriétaire", "construction", "d'une", "à", "représente", "lundi", "partie", "Ted", "canadien", "1960", "la", "2013", "conservateur", "le", "Steinbach" ],
+  "adjectives" : [ "Avant", "novembre" ],
+  "nouns" : [ "élection", "il", "politique", "qui", "partielle", "l'élection", "élu", "homme", "député", "son", "canadien", "conservateur", "un", "construction", "été", "d'une" ],
+  "text" : "Ted Falk (né le 23 mai 1960) est un homme politique canadien, il a été élu député qui représente de la circonscription de Provencher à la Chambre des communes du Canada du Parti conservateur lors de l'élection partielle du lundi 25 novembre 2013. Avant son élection, il a été le président de la Steinbach Credit Union (en), et le propriétaire d'une entreprise de la construction et de la concassage de gravier en partie.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "64_entity14964",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Cho_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Scarborough—Rouge_River_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Raymond", "-LRB-", "Scarborough", "Canadian", "Previously", "Cho", "by-election", "Councillor", "MPP", "worked", "Party", "Board", "Education", "won", "1991", "River", "Children", "1936", "worker", "Aid", "--", "based", "Rouge", "Catholic", "social", "recently", "born", "politician", "representing", "c.", "City", ",", "'s", ".", "Progressive", "elected", "2016", "Ward", "Conservative", "-RRB-", "municipal", "Society", "Ontario", "Toronto", "42", "become", "legislature", "since" ],
+  "adjectives" : [ "Canadian", "social", "municipal" ],
+  "nouns" : [ "politician", "by-election", "worker", "legislature" ],
+  "text" : "Raymond Cho (born c. 1936) is a Canadian politician based in Toronto, Ontario. In 2016, he won a by-election to become the Progressive Conservative Party of Ontario MPP for Scarborough—Rouge River in the Ontario legislature. Previously, he had been a municipal politician since 1991, most recently as a City Councillor representing Ward 42 Scarborough—Rouge River. Before being elected, he worked as a social worker for the Catholic Children's Aid Society, the Toronto Board of Education, and the Scarborough Board of Education. Cho holds a master's degree in Social Work and Doctorate in Education from the University of Toronto. He is married to Soon-Ok , and has three adult sons.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "65_entity14988",
+  "entityUrl" : "http://dbpedia.org/resource/Rosario_Marchese",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Trinity—Spadina_(provincial_electoral_district)", "(Fort York )" ]
+  },
+  "words" : [ "New", "-LRB-", "York", "riding", "Fort", "1952", "Marchese", "member", "Trinity-Spadina", "January", "Assembly", "Rosario", "Democratic", "old", "born", "politician", "1990", "representing", "downtown", ",", "former", ".", "1", "Canada", "2014", "-RRB-", "Legislative", "Ontario", "Toronto" ],
+  "adjectives" : [ "Democratic", "old", "Legislative", "former" ],
+  "nouns" : [ "politician", "member", "downtown", "Assembly" ],
+  "text" : "Rosario Marchese (born January 1, 1952) is a former politician in Ontario, Canada. He was a New Democratic member of the Legislative Assembly of Ontario from 1990 to 2014, representing the downtown Toronto riding of Trinity-Spadina and before that the old riding of Fort York.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "66_entity14993",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Bouchard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Chicoutimi—Le_Fjord" ]
+  },
+  "words" : [ "-LRB-", "Canadian", "March", "2011", "Bouchard", "riding", "critic", "National", "Robert", "2004", "Commons", "member", "Le", "represented", "Québécois", "30", "--", "Bloc", "born", "politician", "Quebec", "House", ",", "Chicoutimi", ".", "1943", "Fjord", "Born", "served", "-RRB-", "Saint-Émond", "Revenue" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "critic", "politician", "member" ],
+  "text" : "Robert Bouchard (born March 30, 1943) is a Canadian politician. Born in Saint-Émond, Quebec, Bouchard represented the riding of Chicoutimi—Le Fjord in the Canadian House of Commons from 2004 to 2011 as a member of the Bloc Québécois. Bouchard served as the Bloc Québécois critic for National Revenue.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "67_entity15185",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Liepert",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Calgary_Signal_Hill" ]
+  },
+  "words" : [ "-LRB-", "Hill", "Alberta", "Canadian", "2012", "incumbent", "October", "current", "Signal", "Liepert", "2004", "won", "federal", "Member", "Assembly", "12", "Rob", "Calgary", "born", "politician", "Anders", "representing", ",", "Calgary-West", ".", "April", "nomination", "Progressive", "constituency", "Ronald", "2014", "Conservative", "8", "-RRB-", "Legislative", "1949", "defeating", "Parliament" ],
+  "adjectives" : [ "current", "Canadian", "Conservative", "federal", "Legislative", "incumbent" ],
+  "nouns" : [ "constituency", "politician", "Assembly", "nomination" ],
+  "text" : "Ronald Liepert (born October 8, 1949) is a Canadian politician and the current Member of Parliament for Calgary Signal Hill. He was a Member of the Legislative Assembly of Alberta, representing the constituency of Calgary-West as a Progressive Conservative, from 2004 to 2012. On April 12, 2014, Liepert won the federal Conservative nomination in Calgary Signal Hill, defeating incumbent Rob Anders.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "68_entity15224",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Gravel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Repentigny_(electoral_district)" ]
+  },
+  "words" : [ "Unterhaus", "Raymond", "-LRB-", "ein", "1952", "Abgeordneter", "Priester", "November", "römisch-katholischer", "†", "11", "im", "war", "*", "und", "Saint-Damien-de-Brandon", ",", ".", "Québec", "August", "Joliette", "kanadischen", "4", "kanadischer", "2014", "-RRB-", "Gravel", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "kanadischen", "Unterhaus", "kanadischer", "im", "war", "ein", "römisch-katholischer" ],
+  "text" : "Raymond Gravel (* 4. November 1952 in Saint-Damien-de-Brandon, Québec; † 11. August 2014 in Joliette, Québec) war ein kanadischer römisch-katholischer Priester und Abgeordneter im kanadischen Unterhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "69_entity15383",
+  "entityUrl" : "http://dbpedia.org/resource/Randall_Garrison",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Esquimalt—Saanich—Sooke", "( Esquimalt—Juan de Fuca )" ]
+  },
+  "words" : [ "de", "Il", "politique", "est", "Chambre", "2011", "Esquimalt", "communes", "sous", "comté", "des", "mai", "néo-démocrate", "un", "été", "élections", "à", "--", "dans", "Fuca", ".", "élu", "Garrison", "homme", "canadien", "bannière", "la", "lors", "le", "Juan", "Randall" ],
+  "adjectives" : [ "néo-démocrate", "sous" ],
+  "nouns" : [ "homme", "Il", "politique", "canadien", "bannière", "est", "un", "été" ],
+  "text" : "Randall Garrison est un homme politique canadien. Il a été élu à la Chambre des communes sous la bannière néo-démocrate lors des élections de mai 2011 dans le comté de Esquimalt—Juan de Fuca.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "70_entity15875",
+  "entityUrl" : "http://dbpedia.org/resource/Randy_Pettapiece",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Perth—Wellington_(provincial_electoral_district)" ]
+  },
+  "words" : [ "de", "Il", "politique", "qui", "est", "2011", "du", "député", "un", "jeudi", "circonscription", "Wellington", "à", "--", "représente", "Parti", "Randy", "provinciale", "Perth", "Pettapiece", ".", "l'élection", "l'Ontario", "élu", "législative", "homme", "l'Assemblée", "canadien", "la", "lors", "6", "caucus", "le", "octobre", "électorale", "progressiste-conservateur" ],
+  "adjectives" : [ "législative", "octobre", "progressiste-conservateur" ],
+  "nouns" : [ "homme", "Il", "l'Assemblée", "député", "politique", "canadien", "qui", "est", "provinciale", "un", "circonscription", "électorale" ],
+  "text" : "Randy Pettapiece est un homme politique canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection provinciale du jeudi 6 octobre 2011. Il est le député qui représente la circonscription électorale de Perth—Wellington du caucus du Parti progressiste-conservateur de l'Ontario.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "71_entity3440",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Vandal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Saint_Boniface—Saint_Vital" ]
+  },
+  "words" : [ "``", "Vital", "Mayor", "Manitoba", "Boniface", "Murray", "resignation", "St.", "Council", "Glen", "Winnipeg", "October", "1995", "2006", "2004", "Commons", "represented", "Member", "ran", "''", "--", "briefly", "mayor", "Vandal", "politician", "19", "House", "Daniel", "City", ",", "'s", ".", "unsuccessfully", "Dan", "elected", "Canada", "2015", "2014", "served", "following", "Parliament", "Saint", "acting" ],
+  "adjectives" : [ ],
+  "nouns" : [ "mayor", "politician", "resignation" ],
+  "text" : "Daniel \"Dan\" Vandal is a politician in Winnipeg, Manitoba, Canada. He represented St. Boniface on the Winnipeg City Council from 1995 to 2004 and from 2006 to 2014, and ran unsuccessfully for Mayor of Winnipeg in 2004. He briefly served as acting mayor of Winnipeg following Glen Murray's resignation. On October 19, 2015, he was elected as the Member of Parliament for Saint Boniface—Saint Vital in the House of Commons of Canada. He is a member of the Liberal Party of Canada.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "72_entity3460",
+  "entityUrl" : "http://dbpedia.org/resource/David_Orazietti",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Sault_Ste._Marie_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "riding", "Correctional", "Ste.", "represents", "Orazietti", "2003", "Michael", "member", "Safety", "Assembly", "Minister", "Kathleen", "November", "12", "Wynne", "Liberal", "born", "politician", ",", ".", "elected", "Sault", "Marie", "Canada", "Services", "David", "-RRB-", "Legislative", "1968", "Ontario", "cabinet", "Community" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "cabinet", "Assembly" ],
+  "text" : "David Michael Orazietti (born November 12, 1968) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2003. He represents the riding of Sault Ste. Marie. He is the Minister of Community Safety and Correctional Services in the cabinet of Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "73_entity3865",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_MacInnis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Cape_Breton_South_(federal_electoral_district)", "http://dbpedia.org/resource/Cape_Breton—East_Richmond", "Cape Breton South" ]
+  },
+  "words" : [ "career", "parliament", "Gillis", "incumbent", "confused", "Commonwealth", "Commons", "Federation", "businessman", "Co-operative", "--", "House", "Breton", ",", ".", "former", "August", "Progressive", "elected", "long-serving", "Canada", "-RRB-", "9", "coal", "party", "21", "became", "-LRB-", "May", "Canadian", "Glace", "riding", "miner", "Clarence", "Donald", "general", "2007", "1918", "member", "1957", "election", "Scotia", "politician", "born", "South", "Nova", "also", "Cape", "MacInnes", "Conservative", "MacInnis", "Bay", "defeating", "first" ],
+  "adjectives" : [ "long-serving", "general", "Canadian", "Co-operative", "first", "former", "incumbent" ],
+  "nouns" : [ "career", "election", "politician", "member", "coal", "parliament", "businessman", "party", "miner" ],
+  "text" : "(Not to be confused with the Canadian businessman and politician Donald MacInnes.) Donald MacInnis (21 August 1918 – 9 May 2007) was a Progressive Conservative party member of the House of Commons of Canada. He was born in Glace Bay, Nova Scotia and became a coal miner by career. He was first elected at the Cape Breton South riding in the 1957 general election, defeating the long-serving incumbent Co-operative Commonwealth Federation member of parliament Clarence Gillis, also a former miner. MacInnis defeated Gillis again in a rematch almost a year later in the 1958 general election, known as the \"Diefenbaker Sweep.\" MacInnis remained a Member of Parliament throughout the 1960s and early 1970s except for the 25th Parliament when he was defeated in the riding by Malcolm Vic MacInnis of the New Democratic Party in the 1962 election. Since the 1968 election, MacInnis represented Cape Breton—East Richmond, one of the ridings which replaced the Cape Breton South electoral district in a boundary realignment. After his term in the 29th Parliament ended in 1974, MacInnis left national office and did not campaign for another term. From 1988, MacInnis served as the final Mayor of Glace Bay, a municipality which was dissolved in 1995 and replaced by the Cape Breton Regional Municipality.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "74_entity4361",
+  "entityUrl" : "http://dbpedia.org/resource/Daiene_Vernile",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Kitchener_Centre_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Daiene", "Kitchener", "-LRB-", "Liberal", "born", "politician", "riding", ",", "Centre", ".", "elected", "represents", "1", "Canada", "1960", "2014", "-RRB-", "member", "Legislative", "July", "Vernile", "Ontario", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Daiene Vernile (born July 1, 1960) is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Kitchener Centre.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "75_entity19597",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Jones",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Labrador_(electoral_district)" ]
+  },
+  "words" : [ "Lors", "Yvonne", "de", "politique", "partielle", "est", "libéral", "John", "officielle", "née", "communes", "Terre-Neuve-et-Labrador", "capitale", "du", "défaisant", "des", "province", "Harbour", "canadienne", "élue", "gouvernement", "circonscription", "été", "De", "l'opposition", "13", "Parti", "15", "en", "ministre", "'s", "dans", ",", "cours", ".", "l'élection", "plus", "Labrador", "et", "Canada", "bannière", "au", "-RRB-", "Grimes", "-LRB-", "Clair", "Chambre", "St.", "Cartwright-L'Anse", "d'Assemblée", "sa", "elle", "sous", "Jones", "1996", "mai", "Au", "Penashue", "Mary", "à", "Roger", "lundi", "carrière", "mars", "provinciale", "premier", "chef", "tard", "femme", "une", "députée", "la", "2013", "conservateur", "le", "Peter", "1968", "Pêches" ],
+  "adjectives" : [ "défaisant", "libéral", "femme", "une", "sous" ],
+  "nouns" : [ "l'opposition", "politique", "partielle", "chef", "officielle", "Cartwright-L'Anse", "l'élection", "Labrador", "province", "bannière", "au", "Au", "canadienne", "conservateur", "gouvernement", "circonscription", "été" ],
+  "text" : "Yvonne Jones (née le 15 mars 1968 à Mary's Harbour dans la province de Terre-Neuve-et-Labrador) est une femme politique canadienne. Lors de l'élection partielle du lundi 13 mai 2013, elle est élue députée à la Chambre des communes du Canada de la circonscription Labrador sous la bannière du Parti libéral du Canada, défaisant le conservateur Peter Penashue. De 1996 à 2013, elle a été la députée de la circonscription provinciale de Cartwright-L'Anse au Clair (en) à la Chambre d'Assemblée de Terre-Neuve-et-Labrador. Au cours de sa carrière politique à la capitale de St. John's, elle a été ministre des Pêches sous le gouvernement du premier ministre Roger Grimes, et plus tard elle a été la chef du Parti libéral de Terre-Neuve-et-Labrador et le chef de l'opposition officielle (en).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "76_entity19598",
+  "entityUrl" : "http://dbpedia.org/resource/Yasir_Naqvi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Ottawa_Centre_(provincial_electoral_district)" ]
+  },
+  "words" : [ "de", "juin", "est", "libéral", "du", "gouvernement", "depuis", "un", "d'Ottawa-Centre", "circonscription", "famille", "Yasir", "réélu", "en", "ministre", "dans", ",", "Première", ".", "l'Ontario", "et", "l'Assemblé", "élu", "Canada", "émigré", "au", "1988", "même", "endroit", "Il", "Leader", "Naqvi", "2011", "2007", "provenance", "Pakistan", "général", "puis", "Procureur", "Kathleen", "Wynne", "membre", "politicien", "parlementaire", "Sa", "Abbas", "législative", "canadien", "2016", "la", "2014", "agit", "cabinet", "comme" ],
+  "adjectives" : [ "agit" ],
+  "nouns" : [ "même", "endroit", "membre", "politicien", "Il", "parlementaire", "est", "libéral", "réélu", "émigré", "provenance", "canadien", "au", "un", "d'Ottawa-Centre", "puis", "circonscription", "cabinet", "comme" ],
+  "text" : "Yasir Abbas Naqvi est un politicien canadien élu en 2007 comme membre de l'Assemblé législative de l'Ontario dans la circonscription d'Ottawa-Centre, puis réélu au même endroit en 2011 et en 2014. Il est un membre du cabinet libéral de la Première ministre Kathleen Wynne. Il agit comme Leader parlementaire du gouvernement depuis 2014 et comme Procureur général de l'Ontario depuis juin 2016. Sa famille a émigré au Canada en provenance du Pakistan en 1988.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "77_entity19672",
+  "entityUrl" : "http://dbpedia.org/resource/Yvan_Baker",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Etobicoke_Centre_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Yvan", "-LRB-", "Liberal", "born", "politician", "riding", ",", "Centre", ".", "elected", "represents", "Canada", "December", "Etobicoke", "Baker", "2014", "8", "-RRB-", "member", "Legislative", "Ontario", "Assembly", "1977" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Yvan Baker (born December 8, 1977) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. He represents the riding of Etobicoke Centre.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "78_entity6774",
+  "entityUrl" : "http://dbpedia.org/resource/Harinder_Takhar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Mississauga—Erindale_(provincial_electoral_district)", "( Mississauga Centre )" ]
+  },
+  "words" : [ "-LRB-", "Mississauga", "Erindale", "riding", "represents", "1951", "2003", "Dalton", "member", "Singh", "cabinets", "Assembly", "Kathleen", "--", "Wynne", "McGuinty", "Liberal", "Harinder", "born", "politician", "Jeet", "c.", ",", ".", "elected", "Canada", "served", "-RRB-", "Legislative", "Takhar", "Ontario" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Harinder Jeet Singh Takhar (born c. 1951) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2003. he represents the riding of Mississauga—Erindale. He served in the cabinets of Dalton McGuinty and Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "79_entity6820",
+  "entityUrl" : "http://dbpedia.org/resource/Hunter_Tootoo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Nunavut_(electoral_district)" ]
+  },
+  "words" : [ "ᕼᐊᓐᑕ", "ᑐᑐ", "Tootoo", "electoral", "remains", "program", "A.", "Coast", "Commons", "Guard", "July", "Minister", "alcohol", "Hunter", "MP", "Oceans", "18", "addiction", "Fisheries", "House", ",", ".", "August", "appointed", "Canada", "4", "district", "-RRB-", ":", ";", "position", "Trudeau", "duties", "treatment", "-LRB-", "May", "independent", "Canadian", "headed", "seek", "represents", "federal", "end", "Justin", "31", "November", "resigned", "completion", "Cabinet", "Liberal", "born", "politician", "Inuktitut", "1963", "Nunavut", "PC", "2016", "2015", "caucus", "well", "returned", "sitting" ],
+  "adjectives" : [ "independent", "Liberal", "electoral", "federal" ],
+  "nouns" : [ "alcohol", "treatment", "completion", "ᑐᑐ", "MP", "politician", "district", "caucus", "addiction", "end", "position", "program" ],
+  "text" : "Hunter A. Tootoo, PC MP (Inuktitut: ᕼᐊᓐᑕ ᑐᑐ; born August 18, 1963) is a politician in Nunavut, Canada. He represents the electoral district of Nunavut in the House of Commons of Canada, and was appointed the Minister of Fisheries, Oceans and the Canadian Coast Guard in the federal Cabinet, headed by Justin Trudeau, on November 4, 2015. Tootoo resigned from that position as well as from the Liberal caucus on May 31, 2016 to seek treatment for alcohol addiction. Tootoo returned to his MP duties by the end of July 2016 after the completion of his treatment program but remains sitting as an independent. Before federal politics, Tootoo served as the former speaker of the Legislative Assembly of Nunavut, where he represented the riding of Iqaluit Centre from 1999 to 2013.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "80_entity7577",
+  "entityUrl" : "http://dbpedia.org/resource/Han_Dong_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Trinity—Spadina_(provincial_electoral_district)" ]
+  },
+  "words" : [ "--", "-LRB-", "Dong", "Trinity", "Liberal", "born", "politician", "riding", "c.", ",", ".", "elected", "represents", "Canada", "Han", "Spadina", "2014", "-RRB-", "member", "Legislative", "Ontario", "Assembly", "1977" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Han Dong (born c. 1977) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. He represents the riding of Trinity—Spadina.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "81_entity7578",
+  "entityUrl" : "http://dbpedia.org/resource/Harinder_Malhi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Brampton—Springdale_(provincial_electoral_district)" ]
+  },
+  "words" : [ "--", "Springdale", "K.", "-LRB-", "Liberal", "Harinder", "born", "politician", "riding", "c.", ",", ".", "elected", "represents", "Canada", "Brampton", "Malhi", "2014", "1980", "-RRB-", "member", "Legislative", "Ontario", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Harinder K. Malhi (born c. 1980) is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Brampton—Springdale.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "82_entity7862",
+  "entityUrl" : "http://dbpedia.org/resource/Indira_Naidoo-Harris",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Halton_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Liberal", "Halton", "politician", "riding", "Naidoo-Harris", ",", ".", "elected", "represents", "Canada", "2014", "Indira", "member", "Legislative", "Ontario", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Indira Naidoo-Harris is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Halton.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "83_entity13973",
+  "entityUrl" : "http://dbpedia.org/resource/Osie_Villeneuve",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Glengarry—Prescott" ]
+  },
+  "words" : [ "``", "June", "1940s", "-LRB-", "25", "September", "death", "Osie", "Canadian", "almost", "28", "Commons", "Osias", "representative", "Assembly", "''", "--", "longtime", "politician", "F.", "House", ",", "continuously", ".", "Villeneuve", "elected", "Canada", "1983", "served", "-RRB-", "1906", "Legislative", "Ontario" ],
+  "adjectives" : [ "longtime", "Legislative" ],
+  "nouns" : [ "death", "politician", "representative", "Assembly" ],
+  "text" : "Osias F. \"Osie\" Villeneuve (June 28, 1906 – September 25, 1983) was a longtime politician in Ontario, Canada. He served in the Legislative Assembly of Ontario and the Canadian House of Commons, and was an elected representative almost continuously from the 1940s until his death.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "84_entity16249",
+  "entityUrl" : "http://dbpedia.org/resource/Stewart_McInnes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Halifax_(electoral_district)" ]
+  },
+  "words" : [ "--", "24", "-LRB-", "Canadian", "McInnes", "politician", ",", "Stewart", ".", "Donald", "October", "3", "2015", "-RRB-", "federal", "arbitrator", "July", "1937", "lawyer" ],
+  "adjectives" : [ "Canadian", "federal" ],
+  "nouns" : [ "politician", "arbitrator", "lawyer" ],
+  "text" : "Stewart Donald McInnes (July 24, 1937 – October 3, 2015) was a Canadian lawyer, arbitrator and federal politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "85_entity16567",
+  "entityUrl" : "http://dbpedia.org/resource/Sid_Parker",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Kootenay_East—Revelstoke" ]
+  },
+  "words" : [ "New", "career", "Graham", "-LRB-", "September", "Canadian", "unsuccessful", "political", "Stan", "riding", "Kootenay", "1930", "Party", "known", "Commons", "member", "federal", "represented", "1979", "train", "--", "British", "Revelstoke", "election", "James", "15", "Democratic", "Parker", "born", "House", "Sidney", ",", "conductor", "elections", ".", "Progressive", "Columbia", "Conservative", "-RRB-", "campaign", "East", "first", "party" ],
+  "adjectives" : [ "federal", "unsuccessful", "political", "first" ],
+  "nouns" : [ "career", "election", "member", "campaign", "conductor", "party", "train" ],
+  "text" : "Sidney James Parker (born 15 September 1930) was a New Democratic Party member of the Canadian House of Commons. Before his political career, he was a train conductor. He represented the British Columbia riding of Kootenay East, which in some elections was known as Kootenay East—Revelstoke. His first campaign against Stan Graham of the Progressive Conservative party in the 1979 federal election was unsuccessful. Parker won alternate terms in Parliament against Graham, first gaining the seat in 1980 election, losing in 1984, then returning to Parliament in the 1988 election. Parker was defeated in the 1993 election by Jim Abbott of the Reform party. Stan Graham was not a competing candidate on this occasion. Parker left national politics after serving in the 32nd and 34th Canadian Parliaments",
+  "patterns" : { }
+}, {
+  "entityIndex" : "86_entity16890",
+  "entityUrl" : "http://dbpedia.org/resource/Scott_Armstrong_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Cumberland—Colchester—Musquodoboit_Valley" ]
+  },
+  "words" : [ "full-time", "electoral", "official", "parliament", "issues", "posts", "critic", "would", "July", "--", "15", "Colchester", "Cumberland", ",", ".", "elected", "appointed", "announced", "Valley", "district", "served", "David", "-RRB-", "9", "Atlantic", "-LRB-", "September", "Canadian", "teaching", "Musquodoboit", "2009", "defeat", "Armstrong", "opposition", "Party", "member", "federal", "relinquish", "by-elections", "November", "election", "born", "politician", "ACOA", "2016", "2015", "returning", "Conservative", "Scott", "1966", "represent" ],
+  "adjectives" : [ "full-time", "Canadian", "Conservative", "electoral", "federal", "official" ],
+  "nouns" : [ "defeat", "opposition", "election", "critic", "politician", "district", "member", "official", "ACOA", "teaching", "parliament" ],
+  "text" : "David Scott Armstrong (born July 9, 1966) is a Canadian politician, who was elected as a Conservative member to represent the electoral district of Cumberland—Colchester—Musquodoboit Valley in the federal by-elections on November 9, 2009. He served until his defeat in the 2015 election. After his defeat in the 2015 election, Armstrong was appointed as the official opposition critic on Atlantic Canadian issues and ACOA and is the only official opposition critic who is not a member of parliament. On September 15, 2016, it was announced that Armstrong would be returning to full-time teaching and would relinquish his posts with the Conservative Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "87_entity17105",
+  "entityUrl" : "http://dbpedia.org/resource/Sarah_Campbell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Kenora—Rainy_River_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "-LRB-", "2011", "riding", "MPP", "represents", "Sarah", "Kenora", "member", "River", "July", "Assembly", "--", "Democratic", "Campbell", "born", "politician", "19", ",", ".", "Canada", "Rainy", "1982", "-RRB-", "Legislative", "Ontario", "since" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Sarah Campbell (born July 19, 1982) is a politician in Ontario, Canada. She is a New Democratic member of the Legislative Assembly of Ontario who represents the riding of Kenora—Rainy River. She has been an MPP since 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "88_entity17188",
+  "entityUrl" : "http://dbpedia.org/resource/Steven_Del_Duca",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Vaughan_(provincial_electoral_district)" ]
+  },
+  "words" : [ "élection", "de", "politique", "partielle", "aide", "est", "libéral", "officielle", "du", "circonscriptions", "député", "son", "des", "affaires", "Dalton", "un", "jeudi", "circonscription", "été", "l'opposition", "Parti", "il", "McGuinty", "Junior", "charpentiers", "directeur", "Vaughan", "en", ",", ".", "l'élection", "Steven", "l'Ontario", "et", "élu", "homme", "lors", "6", "Conseil", "-RRB-", "Avant", "Il", "-LRB-", "qui", "2012", "publiques", "septembre", "quand", "à", "représente", "celui-ci", "pour", "chef", "Del", "une", "Duca", "législative", "l'Assemblée", "canadien", "la", "caucus", "le", "électorale" ],
+  "adjectives" : [ "législative", "septembre", "libéral", "Avant" ],
+  "nouns" : [ "élection", "à", "l'opposition", "Il", "il", "politique", "partielle", "qui", "aide", "est", "chef", "officielle", "l'élection", "législative", "homme", "l'Assemblée", "député", "son", "canadien", "un", "circonscription", "été", "électorale" ],
+  "text" : "Steven Del Duca est un homme politique canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection partielle du jeudi 6 septembre 2012. Il est le député qui représente la circonscription électorale de Vaughan du caucus du Parti libéral de l'Ontario. Avant son élection à l'Assemblée législative, il a été le directeur des affaires publiques pour le Conseil des circonscriptions charpentiers de l'Ontario (en) et une aide de Dalton McGuinty Junior quand celui-ci a été le chef de l'opposition officielle.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "89_entity17326",
+  "entityUrl" : "http://dbpedia.org/resource/Sophie_Kiwala",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Kingston_and_the_Islands_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Sophie", "-LRB-", "Liberal", "Kiwala", "born", "politician", "riding", "Kingston", ",", ".", "elected", "represents", "Canada", "1962", "2014", "-RRB-", "member", "Legislative", "Ontario", "Islands", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Sophie Kiwala (born 1962) is a politician in Ontario, Canada. She is an Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Kingston and the Islands.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "90_entity12096",
+  "entityUrl" : "http://dbpedia.org/resource/Monte_Kwinter",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Wilson_Heights_(electoral_district)", "http://dbpedia.org/resource/York_Centre_(provincial_electoral_district)" ]
+  },
+  "words" : [ "22", "-LRB-", "York", "March", "riding", "Peterson", "represents", "1931", "2007", "government", "2003", "Dalton", "member", "Assembly", "McGuinty", "minister", "Liberal", "born", "politician", "1990", "also", "Monte", ",", "Centre", "'s", ".", "Kwinter", "elected", "Canada", "1985", "-RRB-", "David", "Legislative", "Ontario", "cabinet" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Monte Kwinter (born March 22, 1931) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 1985. He represents the riding of York Centre. Kwinter was a cabinet minister in the government of David Peterson from 1985 to 1990 and also in Dalton McGuinty's government from 2003 to 2007. Kwinter is the oldest person ever to be an MPP in Ontario.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "91_entity12365",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Clancy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Halifax_(electoral_district)" ]
+  },
+  "words" : [ "New", "leader", "career", "-LRB-", "defeated", "Canadian", "electoral", "McDonough", "34th", "35th", "serving", "1997", "Party", "1993", "Commons", "won", "Clancy", "member", "federal", "January", "97", "lawyer", "Mary", "--", "13", "election", "Scotia", "Alexa", "Liberal", "Democratic", "born", "Nova", "House", "Catherine", ",", "elections", "Halifax", ".", "Canada", "district", "-RRB-", "Parliaments", "1948", "party", "1988" ],
+  "adjectives" : [ "Canadian", "Liberal", "electoral", "federal", "34th", "35th" ],
+  "nouns" : [ "leader", "career", "election", "district", "member", "lawyer", "party" ],
+  "text" : "Mary Catherine Clancy (born 13 January 1948 in Halifax, Nova Scotia), was a member of the House of Commons of Canada (1988–97). By career, she was a lawyer. Clancy won the Halifax electoral district for the Liberal party in the 1988 and 1993 federal elections. After serving in the 34th and 35th Canadian Parliaments, Clancy was defeated in the 1997 federal election by New Democratic Party leader Alexa McDonough. Subsequently, in 1997, she was appointed Canadian Consul General to Boston. From 2002 to 2003, Clancy was president of Burlington College in Burlington, Vermont. Her resignation after less than a year was attributed to her not having raised sufficient money for the college. The 1997 federal election competition between Clancy and McDonough is the subject of the 1999 National Film Board documentary Why Women Run.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "92_entity12439",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Chan_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Markham—Unionville_(provincial_electoral_district)", "(Markham )" ]
+  },
+  "words" : [ "-LRB-", "Chén", "riding", "governments", "represents", "Chan", "2007", "1951", "Markham-Unionville", "Michael", "Dalton", "member", "陈国治", "Assembly", "Kathleen", "Wynne", "McGuinty", "minister", "Liberal", "born", "politician", "c.", ",", ".", "Guózhì", "elected", "Canada", "traditional", "pinyin", "simplified", "served", "-RRB-", "Chinese", "Legislative", ":", ";", "陳國治", "Ontario", "cabinet" ],
+  "adjectives" : [ "traditional", "Liberal", "Legislative" ],
+  "nouns" : [ "pinyin", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Michael Chan (traditional Chinese: 陳國治; simplified Chinese: 陈国治; pinyin: Chén Guózhì) (born c. 1951) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2007. He represents the riding of Markham-Unionville. He has served as a cabinet minister in the governments of Dalton McGuinty and Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "93_entity13026",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Gerretsen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Kingston_and_the_Islands" ]
+  },
+  "words" : [ "first-term", "June", "-LRB-", "Canadian", "Mark", "Kingston", "2010", "run", "seek", "second", "1975", "current", "previously", "federal", "chose", "term", "Islands", "ran", "re-election", "MP", "election", "mayor", "Liberal", "born", "politician", "Gerretsen", "replacing", "Hsu", ",", "instead", ".", "elected", "Ted", "5", "2015", "2014", "-RRB-", "municipal", "Ontario", "first" ],
+  "adjectives" : [ "first-term", "current", "Canadian", "Liberal", "federal", "municipal", "first", "second" ],
+  "nouns" : [ "re-election", "MP", "election", "mayor", "politician", "term" ],
+  "text" : "Mark Gerretsen, MP, (born June 5, 1975) is a Canadian politician and the current MP for Kingston and the Islands, he was previously mayor of Kingston, Ontario from 2010 to 2014. He was first elected in the 2010 municipal election. He did not run for re-election to a second term in the 2014 election. He instead ran in the 2015 federal election and was elected as the Liberal MP for Kingston and the Islands, replacing first-term Liberal MP Ted Hsu, who chose not to seek re-election. Born in Kingston, Ontario, Gerretsen is a graduate of Queen's University and St. Lawrence College. First elected to Kingston City Council in 2006, for a four-year term, he is the son of Kingston's former mayor and former MPP, John Gerretsen.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "94_entity13150",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Mantha",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Algoma—Manitoulin_(provincial_electoral_district)" ]
+  },
+  "words" : [ "élection", "de", "Hughes", "Kapuskasing", "politique", "est", "du", "député", "son", "Michael", "un", "jeudi", "bureau", "Mantha", "circonscription", "--", "Parti", "il", "Franco-ontarien", "en", ",", ".", "l'élection", "l'Ontario", "démocratique", "élu", "homme", "rédacteur", "lors", "6", "-RRB-", "Avant", "octobre", "-LRB-", "Il", "qui", "était", "2011", "Carol", "fédéral", "d'Algoma", "Manitoulin", "à", "Nouveau", "représente", "provinciale", "législative", "l'Assemblée", "canadien", "la", "caucus", "le", "électorale" ],
+  "adjectives" : [ "législative", "Franco-ontarien", "un", "Avant", "octobre" ],
+  "nouns" : [ "élection", "Il", "il", "politique", "qui", "est", "provinciale", "était", "démocratique", "homme", "l'Assemblée", "député", "son", "canadien", "rédacteur", "fédéral", "un", "bureau", "circonscription", "électorale", "d'Algoma" ],
+  "text" : "Michael Mantha est un homme politique (Franco-ontarien) canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection provinciale du jeudi 6 octobre 2011. Il est le député qui représente la circonscription électorale d'Algoma—Manitoulin du caucus du Nouveau Parti démocratique de l'Ontario. Avant son élection, il était un rédacteur du bureau du député fédéral d'Algoma—Manitoulin—Kapuskasing Carol Hughes (en).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "95_entity13151",
+  "entityUrl" : "http://dbpedia.org/resource/Monique_Taylor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Hamilton_Mountain_(provincial_electoral_district)" ]
+  },
+  "words" : [ "de", "-LRB-", "politique", "est", "2011", "née", "Monique", "elle", "du", "1972", "Mountain", "Hamilton", "canadienne", "élue", "jeudi", "circonscription", "Nouveau", "à", "Parti", "Taylor", "en", "femme", ",", "une", "l'élection", ".", "députée", "l'Ontario", "démocratique", "législative", "l'Assemblée", "la", "lors", "6", "caucus", "-RRB-", "octobre", "électorale" ],
+  "adjectives" : [ "législative", "octobre" ],
+  "nouns" : [ "l'Assemblée", "circonscription", "électorale" ],
+  "text" : "Monique Taylor (née en 1972) est une femme politique canadienne, elle est élue députée de la circonscription électorale de Hamilton Mountain du caucus du Nouveau Parti démocratique de l'Ontario à l'Assemblée législative lors de l'élection du jeudi 6 octobre 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "96_entity13153",
+  "entityUrl" : "http://dbpedia.org/resource/Monte_McNaughton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Lambton—Kent—Middlesex_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "March", "2011", "riding", "represents", "member", "Assembly", "1977", "11", "--", "Kent", "Lambton", "born", "politician", "Monte", ",", "Election", ".", "McNaughton", "Progressive", "Canada", "Conservative", "Middlesex", "-RRB-", "Legislative", "Ontario", "since" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Monte McNaughton (born March 11, 1977) is a politician in Ontario, Canada. He is a Progressive Conservative member of the Legislative Assembly of Ontario who represents the riding Lambton—Kent—Middlesex. He has been a member since the 2011 Election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "97_entity13156",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Harris_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Kitchener—Conestoga_(provincial_electoral_district)" ]
+  },
+  "words" : [ "--", "Kitchener", "politician", "2011", "Harris", "riding", ",", ".", "Progressive", "Canada", "Michael", "Conservative", "member", "Conestoga", "Legislative", "represented", "Ontario", "Assembly", "since" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Michael Harris is a politician in Ontario, Canada. He is the Progressive Conservative member of the Legislative Assembly of Ontario who has represented the riding of Kitchener—Conestoga since 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "98_entity13218",
+  "entityUrl" : "http://dbpedia.org/resource/Matt_Jeneroux",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Edmonton_Riverbend" ]
+  },
+  "words" : [ "Alberta", "Arthur", "Canadian", "electoral", "2012", "represents", "Jubilee", "Riverbend", "Party", "Jeneroux", "Edmonton-South", "Commons", "federal", "member", "Assembly", "II", "MP", "election", "James", "West", "Queen", "politician", "representing", "House", "also", "Diamond", ",", ".", "elected", "Canada", "Elizabeth", "2015", "Edmonton", "Prior", "district", "Conservative", "caucus", "served", "Matthew", "recipient", "Legislative", "Medal" ],
+  "adjectives" : [ "Canadian", "electoral", "federal", "recipient", "Legislative" ],
+  "nouns" : [ "MP", "election", "politician", "district", "caucus", "member", "Medal", "Assembly" ],
+  "text" : "Matthew James Arthur Jeneroux, MP is a Canadian politician, who was elected to the Canadian House of Commons in the 2015 federal election. He represents the electoral district of Edmonton Riverbend as a member of the Conservative Party of Canada caucus. Prior to his election to the House of Commons, he served in the Legislative Assembly of Alberta representing the electoral district of Edmonton-South West. Jeneroux was also a recipient of the Queen Elizabeth II Diamond Jubilee Medal in 2012.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "99_entity13252",
+  "entityUrl" : "http://dbpedia.org/resource/Murray_Rankin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Victoria_(electoral_district)" ]
+  },
+  "words" : [ "de", "expert", "connue", "d'intérêt", "Rankin", "est", "41e", "officielle", "communes", "du", "QC", "député", "des", "un", "circonscription", "internationalement", "l'opposition", "Parti", "Victoria", "revenu", "janvier", "en", ",", "dans", ".", "plus", "et", "Colombie-Britannique", "démocratique", "Canada", "actuellement", "-RRB-", "droit", "né", "porte-parole", "-LRB-", "Il", "26", "l'environnement", "Chambre", "Murray", "Une", "matière", "1950", "fédéral", "public", "national", "à", "Nouveau", "législature", "membre", "politicien", "reconnu", "la", "le", "Canadien" ],
+  "adjectives" : [ "connue", "fédéral", "d'intérêt", "national", "dans" ],
+  "nouns" : [ "internationalement", "législature", "expert", "membre", "politicien", "Il", "est", "janvier", "démocratique", "reconnu", "député", "public", "un", "né" ],
+  "text" : "Murray Rankin  QC, député (né le 26 janvier 1950) est un politicien fédéral Canadien et un expert reconnu internationalement en droit de l'environnement et du public. Une de la Colombie-Britannique la plus connue d'intérêt public, Rankin est actuellement le député à la Chambre des communes du Canada dans la circonscription de  Victoria. Il est membre du Nouveau Parti démocratique et de le porte-parole de l'opposition officielle en matière de revenu national, dans la 41e législature.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "100_entity13353",
+  "entityUrl" : "http://dbpedia.org/resource/Mitzie_Hunter",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Scarborough—Guildwood_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "Scarborough", "serves", "riding", "by-election", "represents", "government", "1971", "Guildwood", "member", "Assembly", "Kathleen", "--", "Hunter", "Wynne", "Liberal", "born", "politician", "c.", ",", ".", "August", "elected", "Canada", "1", "2013", "-RRB-", "Legislative", "Mitzie", "Ontario", "cabinet", "Toronto" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "government", "politician", "member", "by-election", "cabinet", "Assembly" ],
+  "text" : "Mitzie Hunter (born c. 1971) is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in a by-election on August 1, 2013. She represents the Toronto riding of Scarborough—Guildwood. She serves as a member of cabinet in the government of Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "101_entity13424",
+  "entityUrl" : "http://dbpedia.org/resource/Mario_Beaulieu_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/La_Pointe-de-l'Île" ]
+  },
+  "words" : [ "juin", "de", "politique", "québécois", "est", "notamment", "Mario", "du", "député", "La", "depuis", "un", "Le", "militant", "Québécois", "circonscription", "été", "indépendantiste", "10", "Bloc", "14", "il", "19", "en", ",", "dans", ".", "et", "Québec", "élu", "président", "homme", "au", "né", "octobre", "français", "Sherbrooke", "Il", "Beaulieu", "Société", "2011", "Mouvement", "2008", "montréalaise", "1959", "à", "Saint-Jean-Baptiste", "chef", "Pointe-De-LÎle", "2015", "la", "2014", "Montréal", "le", "toujours" ],
+  "adjectives" : [ "juin", "militant", "octobre" ],
+  "nouns" : [ "à", "juin", "Il", "il", "politique", "est", "chef", "notamment", "élu", "montréalaise", "homme", "député", "au", "un", "né", "circonscription", "été", "indépendantiste" ],
+  "text" : "Mario Beaulieu, né en 1959 à Sherbrooke, est un militant indépendantiste et un homme politique québécois. Il a été le chef du Bloc québécois du 14 juin 2014 au 10 juin 2015. Il a notamment été le président de la Société Saint-Jean-Baptiste de Montréal de 2008 à 2014 et est toujours président du Mouvement Québec français depuis 2011. Le 19 octobre 2015, il est élu député du Bloc Québécois dans la circonscription montréalaise de La Pointe-De-LÎle.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "102_entity13445",
+  "entityUrl" : "http://dbpedia.org/resource/Marie-France_Lalonde",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Ottawa—Orléans_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "serves", "riding", "represents", "Lalonde", "government", "Consumer", "Orléans", "1971", "member", "Ottawa", "Marie-France", "Responsible", "Minister", "Assembly", "Kathleen", "--", "Affairs.the", "Wynne", "minister", "Government", "Liberal", "born", "c.", ",", ".", "elected", "Services", "Canada", "Francophone", "2014", "-RRB-", "Legislative", "Ontario", "cabinet" ],
+  "adjectives" : [ "Francophone", "Liberal", "Legislative", "Responsible" ],
+  "nouns" : [ "Affairs.the", "government", "minister", "member", "cabinet", "Assembly" ],
+  "text" : "Marie-France Lalonde (born c. 1971) is Minister of Government and Consumer Services and Minister Responsible for Francophone Affairs.the in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Ottawa—Orléans. She serves as a cabinet minister in the government of Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "103_entity5226",
+  "entityUrl" : "http://dbpedia.org/resource/Fin_Donnelly",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Port_Moody—Coquitlam", "(New Westminster—Coquitlam )" ]
+  },
+  "words" : [ "New", "Westminster", "electoral", "Port", "Donnelly", "by-election", "Coquitlam", "Coast", "critic", "terms", "Commons", "Guard", "--", "activist", "new", "MP", "environmental", "Oceans", "Democratic", "Fisheries", "House", ",", ".", "elected", "seat", "Canada", "Moody", "Prior", "council", "district", "served", "-RRB-", "9", "-LRB-", "May", "27", "Canadian", "city", "serves", "riding", "two", "2009", "represents", "Party", "member", "federal", "NDP", "November", "hometown", "election", "winning", "born", "politician", "representing", "Fin", "currently", "2015", "1966" ],
+  "adjectives" : [ "new", "environmental", "Canadian", "electoral", "federal" ],
+  "nouns" : [ "activist", "hometown", "election", "MP", "city", "politician", "by-election", "seat", "critic", "council", "district", "member", "NDP" ],
+  "text" : "Fin Donnelly (born May 27, 1966) is a Canadian politician, who was elected to the House of Commons of Canada in a by-election on November 9, 2009, representing the electoral district of New Westminster—Coquitlam as a member of the New Democratic Party. Prior to his election as a federal MP, he served two terms on city council in his hometown of Coquitlam and was an environmental activist. He currently represents the riding of Port Moody—Coquitlam after winning his new seat in the 2015 federal election and serves as the NDP critic for Fisheries, Oceans, and the Canadian Coast Guard.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "104_entity5439",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Townley-Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/North_Battleford_(electoral_district)" ]
+  },
+  "words" : [ "became", "career", "-LRB-", "Canadian", "moved", "England", "United", "Commonwealth", "Federation", "Commons", "member", "Loughborough", "July", "Co-operative", "--", "Frederick", "born", "House", "William", ",", "April", ".", "1887", "Canada", "2", "educated", "1961", "5", "Kingdom", "-RRB-", "farmer", "Townley-Smith", "1903", "Leicestershire" ],
+  "adjectives" : [ "Co-operative" ],
+  "nouns" : [ "career", "member", "farmer" ],
+  "text" : "Frederick William Townley-Smith (2 April 1887 – 5 July 1961) was a Co-operative Commonwealth Federation member of the Canadian House of Commons. He was born in Leicestershire, England and became a farmer by career. Townley-Smith moved to Canada in 1903. He was educated at Loughborough in the United Kingdom. He was elected to Parliament at the North Battleford riding in the 1945 general election and served one term, the 20th Canadian Parliament, then did not seek re-election in the 1949 election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "105_entity5530",
+  "entityUrl" : "http://dbpedia.org/resource/Francine_Raynault",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Joliette_(electoral_district)" ]
+  },
+  "words" : [ "de", "politique", "québécoise", "est", "Chambre", "2011", "communes", "sous", "du", "des", "mai", "l'étiquette", "depuis", "circonscription", "à", "Nouveau", "Elle", "représente", "Parti", "femme", "Francine", "une", ".", "Joliette", "démocratique", "Canada", "2", "Raynault", "la", "le" ],
+  "adjectives" : [ "femme", "une", "sous" ],
+  "nouns" : [ "démocratique", "politique", "québécoise", "l'étiquette" ],
+  "text" : "Francine Raynault est une femme politique québécoise. Elle représente la circonscription de Joliette à la Chambre des communes du Canada sous l'étiquette du Nouveau Parti démocratique depuis le 2 mai 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "106_entity6493",
+  "entityUrl" : "http://dbpedia.org/resource/Grant_Crack",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Glengarry—Prescott—Russell_(provincial_electoral_district)" ]
+  },
+  "words" : [ "élection", "que", "de", "Il", "politique", "qui", "est", "libéral", "2011", "du", "d'Alexandria", "député", "son", "ainsi", "un", "circonscription", "village", "avant", "amalgamation", "été", "à", "Grant", "représente", "Parti", "maire", "ontarienne", "Glengarry-Prescott-Russell", "Glengarry-Nord", ",", ".", "l'élection", "l'Ontario", "élu", "législative", "homme", "l'Assemblée", "canadien", "la", "lors", "caucus", "le", "Avant", "municipal", "électorale", "Crack" ],
+  "adjectives" : [ "législative", "libéral", "Avant", "municipal", "avant" ],
+  "nouns" : [ "élection", "à", "Il", "politique", "qui", "est", "législative", "d'Alexandria", "homme", "l'Assemblée", "député", "son", "canadien", "un", "circonscription", "village", "amalgamation", "été", "électorale" ],
+  "text" : "Grant Crack est un homme politique canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection ontarienne de 2011. Il est le député qui représente la circonscription électorale de Glengarry-Prescott-Russell du caucus du Parti libéral de l'Ontario. Avant son élection à l'Assemblée législative, Grant a été maire de Glengarry-Nord, ainsi que maire du village d'Alexandria avant amalgamation municipal de Glengarry-Nord. Il a aussi travaillé à plein temps comme gérant au concessionnaire Husqvarna à Alexandria.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "107_entity6673",
+  "entityUrl" : "http://dbpedia.org/resource/Gila_Martow",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Thornhill_(provincial_electoral_district)" ]
+  },
+  "words" : [ "June", "-LRB-", "electoral", "née", "represents", "Thornhill", "Party", "Gila", "Gladstone", "member", "born", "politician", ",", ".", "Martow", "Progressive", "Deborah", "Canada", "1961", "5", "district", "Conservative", "-RRB-", ";", "Ontario" ],
+  "adjectives" : [ "electoral", "née" ],
+  "nouns" : [ "politician", "district", "Gladstone", "member" ],
+  "text" : "Gila Deborah Martow (née Gladstone; born June 5, 1961) is a politician in Ontario, Canada. She represents the electoral district of Thornhill as a member of the Ontario Progressive Conservative Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "108_entity6689",
+  "entityUrl" : "http://dbpedia.org/resource/Granville_Anderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Durham_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "Liberal", "born", "politician", "riding", "c.", ",", "Anderson", ".", "elected", "represents", "Canada", "1960", "2014", "Granville", "-RRB-", "member", "Legislative", "Durham", "Ontario", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Granville Anderson (born c. 1960) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. He represents the riding of Durham.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "109_entity14176",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Milczyn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Etobicoke—Lakeshore_(provincial_electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "city", "riding", "represents", "member", "councillor", "Assembly", "--", "Lakeshore", "Liberal", "born", "politician", "2000", "c.", ",", ".", "1965", "elected", "Milczyn", "Canada", "Etobicoke", "2014", "-RRB-", "Legislative", "Peter", "Ontario", "Toronto" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "city", "politician", "member", "councillor", "Assembly" ],
+  "text" : "Peter Milczyn (born c. 1965) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. He represents the riding of Etobicoke—Lakeshore. He was a city councillor in Toronto, Ontario from 2000 to 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "110_entity14835",
+  "entityUrl" : "http://dbpedia.org/resource/Percy_Hatfield",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Windsor—Tecumseh_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "-LRB-", "Windsor", "Tecumseh", "riding", "by-election", "Hatfield", "represents", "member", "Assembly", "--", "Percy", "Democratic", "born", "politician", "c.", ",", ".", "elected", "Canada", "2013", "-RRB-", "Legislative", "1948", "Ontario" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "by-election", "Assembly" ],
+  "text" : "Percy Hatfield (born c. 1948) is a politician in Ontario, Canada. He is a New Democratic member of the Legislative Assembly of Ontario who was elected in a 2013 by-election. He represents the riding of Windsor—Tecumseh.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "111_entity14836",
+  "entityUrl" : "http://dbpedia.org/resource/Peggy_Sattler",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/London_West_(provincial_electoral_district)" ]
+  },
+  "words" : [ "New", "-LRB-", "Democratic", "West", "born", "politician", "riding", "c.", ",", "MPP", ".", "Sattler", "represents", "Canada", "Peggy", "1962", "2013", "-RRB-", "member", "London", "Legislative", "Ontario", "Assembly", "since" ],
+  "adjectives" : [ "Democratic", "Legislative" ],
+  "nouns" : [ "politician", "member", "MPP", "Assembly" ],
+  "text" : "Peggy Sattler (born c. 1962) is a politician in Ontario, Canada. She is a New Democratic member of the Legislative Assembly of Ontario who represents the riding of London West. She has been an MPP since 2013.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "112_entity12",
+  "entityUrl" : "http://dbpedia.org/resource/Adams_George_Archibald",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Colchester_(electoral_district)" ]
+  },
+  "words" : [ "career", "Scotian", "pleas", "Samuel", "QC", "December", "son", "George", "1892", "judge", "Confederation", "1814", "--", "based", "14", ",", "court", ".", "Governor", "3", "Archibald", "served", "-RRB-", "Sir", "Truro", "politics", "-LRB-", "Manitoba", "prominent", "May", "Canadian", "KCMG", "Lieutenant", "common", "1872", "1870", "lawyer", "Scotia", "though", "grandson", "James", "Adams", "politician", "born", "Nova", "also", "PC", "Father", "family", "first" ],
+  "adjectives" : [ "prominent", "common", "Canadian", "first" ],
+  "nouns" : [ "career", "son", "grandson", "politician", "judge", "Father", "family", "court", "lawyer" ],
+  "text" : "Sir Adams George Archibald KCMG PC QC (May 3, 1814 – December 14, 1892) was a Canadian lawyer and politician, and a Father of Confederation. He was based in Nova Scotia for most of his career, though he also served as first Lieutenant Governor of Manitoba from 1870 to 1872. Archibald was born in Truro to a prominent family in Nova Scotian politics. He was the son of Samuel Archibald, and grandson of James Archibald, judge of the court of common pleas, Nova Scotia. He was also related to Samuel G. W. Archibald, who had served as the province's Attorney General from 1830 to 1841. Sir Adams Archibald studied science and medicine for a few years, subsequently articled in law, and was called to the Nova Scotia bar in January 1839. He held a number of local offices over the next decade, and was appointed a probate judge in 1848.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "113_entity61",
+  "entityUrl" : "http://dbpedia.org/resource/Aileen_Carroll",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "Barrie(Barrie—Simcoe—Bradford )" ]
+  },
+  "words" : [ "June", "-LRB-", "Prime", "Bradford", "2011", "Paul", "Aileen", "Margaret", "1997", "2007", "2006", "Commons", "Cooperation", "Barrie", "member", "represented", "Minister", "Assembly", "International", "--", "Liberal", "born", "politician", "House", "Martin", ",", "former", ".", "1", "Canada", "Carroll", "PC", "served", "-RRB-", "Legislative", "ridings", "Ontario", "cabinet", "Simcoe", "1944" ],
+  "adjectives" : [ "Liberal", "Legislative", "former" ],
+  "nouns" : [ "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Margaret Aileen Carroll, PC, (born June 1, 1944) is a former politician in Ontario, Canada. She was a member of the House of Commons from 1997 to 2006 who represented the ridings of Barrie—Simcoe—Bradford and Barrie. She served in the cabinet of Prime Minister Paul Martin as Minister for International Cooperation. From 2007 to 2011 she was a Liberal member of the Legislative Assembly of Ontario. She served in the cabinet of Premier Dalton McGuinty as Minister of Culture.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "114_entity218",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Vaughan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Spadina-Fort_York", "(Trinity—Spadina )" ]
+  },
+  "words" : [ "June", "-LRB-", "Prime", "Trinity", "York", "Secretary", "city", "Fort", "by-election", "Intergovernmental", "government", "2006", "Commons", "member", "federal", "Parliamentary", "represented", "July", "30", "councillor", "Minister", "--", "MP", "Affairs", "Liberal", "Vaughan", "born", "politician", "House", ",", ".", "Adam", "elected", "Canada", "3", "1961", "currently", "Spadina", "Ward", "2014", "-RRB-", "Ontario", "Toronto", "20" ],
+  "adjectives" : [ "Liberal", "federal" ],
+  "nouns" : [ "government", "MP", "city", "politician", "member", "by-election", "councillor" ],
+  "text" : "Adam Vaughan (born July 3, 1961) is a politician in Ontario, Canada. He is a Liberal member of the House of Commons in the federal government who was elected in a by-election on June 30, 2014. He is currently the MP for Spadina—Fort York, and the Parliamentary Secretary to the Prime Minister for Intergovernmental Affairs. From 2006 to 2014 he was a Toronto city councillor who represented Ward 20 Trinity—Spadina. Prior to his career in politics he was a radio and TV journalist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "115_entity919",
+  "entityUrl" : "http://dbpedia.org/resource/Archibald_John_Macdonald",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Glengarry_(electoral_district)" ]
+  },
+  "words" : [ "Macdonald", "became", "-LRB-", "Canadian", "John", "treasurer", "1876", "school", "Commons", "member", "1938", "January", "--", "11", "level", "Township", "Liberal", "born", "Lancaster", "merchant", "House", ",", ".", "secondary", "clerk", "educated", "Archibald", "-RRB-", "9", "1903", "Ontario", "party" ],
+  "adjectives" : [ "secondary", "Liberal" ],
+  "nouns" : [ "clerk", "school", "level", "member", "merchant", "treasurer", "party" ],
+  "text" : "Archibald John Macdonald (9 January 1876 – 11 January 1938) was a Liberal party member of the Canadian House of Commons. He was born in Lancaster, Ontario and became a merchant. Macdonald was educated to secondary school level. In 1903, he became clerk and treasurer for Lancaster Township. Macdonald unsuccessfully campaigned for a seat in the Legislative Assembly of Ontario during the 1919 provincial election. He was first elected to Parliament at the Glengarry riding in the 1925 general election and re-elected there in the 1926 election. After completing his second term, the 16th Canadian Parliament, Macdonald left federal politics and did not seek re-election in the 1930 vote.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "116_entity1554",
+  "entityUrl" : "http://dbpedia.org/resource/Ann_Hoggarth",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Barrie_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Ann", "June", "12", "-LRB-", "Liberal", "born", "politician", "Hoggarth", "riding", "c.", ",", ".", "elected", "represents", "Canada", "1950", "2014", "Barrie", "-RRB-", "member", "Legislative", "Ontario", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Ann Hoggarth (born c. 1950) is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected on June 12, 2014. She represents the riding of Barrie.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "117_entity1555",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Potts_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:riding" : [ "http://dbpedia.org/resource/Beaches—East_York_(provincial_electoral_district)" ]
+  },
+  "words" : [ "June", "-LRB-", "Arthur", "York", "riding", "Beaches", "member", "1957", "Assembly", "--", "12", "Liberal", "born", "politician", "representing", "c.", ",", ".", "Potts", "elected", "Canada", "2014", "-RRB-", "Legislative", "Ontario", "East" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Arthur Potts (born c. 1957) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario representing the riding of Beaches—East York. He was elected on June 12, 2014.",
+  "patterns" : { }
+} ]

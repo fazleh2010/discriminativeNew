@@ -1,0 +1,15 @@
+id=19  property=dbo:country  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=475
+state-NN  multiply=0.565223  P(state|object)=0.682105  P(object|state)=0.828645    
+assembly-NN  multiply=0.352291  P(assembly|object)=0.458947  P(object|assembly)=0.767606    
+
+id=20  property=dbo:country  object=http://dbpedia.org/resource/Canada  NumberOfEntitiesFoundForObject=22
+legislative-JJ  multiply=0.308392  P(legislative|object)=0.954545  P(object|legislative)=0.323077    
+soldier-NN  multiply=0.071146  P(soldier|object)=0.272727  P(object|soldier)=0.26087    
+
+id=21  property=dbo:country  object=http://dbpedia.org/resource/France  NumberOfEntitiesFoundForObject=48
+french-JJ  multiply=0.390625  P(french|object)=0.5  P(object|french)=0.78125    
+
+id=22  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=699
+member-NN  multiply=0.585415  P(member|object)=0.864092  P(object|member)=0.677492    
+british-JJ  multiply=0.546785  P(british|object)=0.559371  P(object|british)=0.9775    
+

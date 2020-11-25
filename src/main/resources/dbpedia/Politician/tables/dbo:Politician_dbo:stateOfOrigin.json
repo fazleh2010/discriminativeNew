@@ -1,0 +1,757 @@
+[ {
+  "entityIndex" : "1_entity10661",
+  "entityUrl" : "http://dbpedia.org/resource/Karel_Dillen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Belgium" ]
+  },
+  "words" : [ "--", "-LRB-", "16", "27", "politician", "Karel", "Dillen", "April", ".", "Cornelia", "Belgian", "nationalist", "October", "2007", "Flemish", "Constantijn", "-RRB-", "far-right", "1925" ],
+  "adjectives" : [ "nationalist", "Flemish", "far-right", "Belgian" ],
+  "nouns" : [ "politician" ],
+  "text" : "Karel Cornelia Constantijn Dillen (16 October 1925 – 27 April 2007) was a far-right Belgian politician and Flemish nationalist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity10691",
+  "entityUrl" : "http://dbpedia.org/resource/Koenraad_Dillen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Politics_of_Belgium" ]
+  },
+  "words" : [ "``", "Sovereignty", "Koen", "Liberties", "son", "Development", "Parliamentary", "Identity", "Member", "Assembly", "group", "European", ",", "Joint", "Karel", "former", ".", "Belgian", "ACP-EU", "Belang", "Civil", "6", "-RRB-", "MEP", "Parliament", "Justice", "-LRB-", "Tradition", "Committee", "Dillen", "substitute", "Gaston", "Koenraad", "member", "Blok", "Home", "November", "''", "Flanders", "Affairs", "founder", "born", "politician", "sat", "Francine", "Delegation", "1964", "Vlaams", "sitting" ],
+  "adjectives" : [ "Civil", "former", "Belgian" ],
+  "nouns" : [ "Sovereignty", "son", "Tradition", "founder", "politician", "member", "MEP", "Identity", "substitute", "Delegation", "group" ],
+  "text" : "Koenraad Francine Gaston \"Koen\" Dillen (born 6 November 1964) is a Belgian politician and a former Member of the European Parliament (MEP) for Flanders with the Vlaams Belang, sitting in the Identity, Tradition, Sovereignty group in the European Parliament. He is the son of Karel Dillen, founder of the Vlaams Blok. He sat on its Committee on Development, and was a substitute for the Committee on Civil Liberties, Justice and Home Affairs and a member of the Delegation to the ACP-EU Joint Parliamentary Assembly.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity11229",
+  "entityUrl" : "http://dbpedia.org/resource/Klara_Barth",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/German_people" ]
+  },
+  "words" : [ "†", "Rhein", "23", "13", "-LRB-", "Juni", "deutsche", "Barth", "1880", "Ommersheim", "war", "*", ".", "Politikerin", "1940", "eine", "Dezember", "-RRB-", "Ludwigshafen", ";", "Klara", "BVP" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politikerin", "eine", "deutsche", "war", "BVP" ],
+  "text" : "Klara Barth (* 23. Dezember 1880 in Ommersheim; † 13. Juni 1940 in Ludwigshafen am Rhein) war eine deutsche Politikerin (BVP).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity13714",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Hentz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/French_people" ]
+  },
+  "words" : [ "français", "de", "-LRB-", "Il", "fut", "est", "Nicolas", "Hentz", "1831", "1753", "1830", "député", "1795", "1750", "juillet", "un", "1er", "à", "ou", "1792", ",", "-", ".", "Convention", "la", "révolutionnaire", "-RRB-", "1829", "nationale", "Moselle", "1824", "1768" ],
+  "adjectives" : [ "juillet" ],
+  "nouns" : [ "français", "Il", "fut", "ou", "révolutionnaire", "un" ],
+  "text" : "Nicolas Hentz (1750, 1753 ou 1768 - 1er juillet 1824, 1829, 1830 ou 1831) est un révolutionnaire français. Il fut député de la Moselle à la Convention nationale de 1792 à 1795.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity8627",
+  "entityUrl" : "http://dbpedia.org/resource/Julia_Bonk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/German_people" ]
+  },
+  "words" : [ "-LRB-", "Juni", "29", "2012", "Sächsischen", "ist", "bis", "der", "Politikerin", "Parteivorstands", "des", "von", "2004", "Die", "Landtags", "deutsche", "Partei", "war", "*", "und", "Linke", ".", "April", "Sie", "Julia", "1986", "Mitglied", "Anastasia", "eine", "Bonk", "2014", "Burg", "-RRB-" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politikerin", "eine", "von", "Burg", "deutsche", "war", "und", "ist" ],
+  "text" : "Julia Anastasia Bonk (* 29. April 1986 in Burg) ist eine deutsche Politikerin (Die Linke). Sie war von 2004 bis 2014 Mitglied des Sächsischen Landtags und von Juni 2012 bis 2014 Mitglied des Parteivorstands der Partei Die Linke.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity9406",
+  "entityUrl" : "http://dbpedia.org/resource/James_Ashley_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/United_Kingdom" ]
+  },
+  "words" : [ "Mayor", "-LRB-", "May", "England", "ward", "Gorton", "2006", "Democrat", "councillor", "--", "12", "James", "Liberal", "politician", "South", "City", ",", ".", "August", "Lord", "1940", "-RRB-", "Manchester", "Ashley", "21" ],
+  "adjectives" : [ "Liberal" ],
+  "nouns" : [ "politician", "City", "councillor" ],
+  "text" : "James Ashley (21 May 1940 – 12 August 2006) was a Liberal Democrat politician in the City of Manchester, England. He was the Lord Mayor of Manchester, and a councillor in the Gorton South ward.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity9750",
+  "entityUrl" : "http://dbpedia.org/resource/Johann_Viktor_Bredt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Germany" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Reichspartei", "ein", "Johann", "der", "Bredt", "des", "Mittelstandes", "Dezember", "März", "1879", "†", "12", "deutschen", "Staatsrechtler", "Viktor", "deutscher", "war", "*", "und", ".", "Barmen", "2", "1940", "-RRB-", ";", "Marburg" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Staatsrechtler", "deutscher", "war", "und", "ein" ],
+  "text" : "Johann Viktor Bredt (* 2. März 1879 in Barmen; † 12. Dezember 1940 in Marburg) war ein deutscher Staatsrechtler und Politiker der Reichspartei des deutschen Mittelstandes.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity9913",
+  "entityUrl" : "http://dbpedia.org/resource/James_Kershaw",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/United_Kingdom" ]
+  },
+  "words" : [ "1842-3", "franchise", "Mayor", "Law", "Anti-Corn", "buried", "cotton", "owners", "borough", "History", "later", "Town", "poor", "Cemetery", "--", "II", "League", "MP", "Lees", "ornate", "&", "Streatham", "Grade", ",", ".", "obtaining", "mill", "Heritage", "1864", "condition", "instrumental", "-RRB-", "London", "municipal", "Museum", "Alfred", "Waterhouse", "became", "-LRB-", "death", "architect", "cotton-spinning", "Kershaw", "died", "Natural", "head", "Norwood", "1795", "Millington", "company", "Sidebottom", "1838", "owner", "British", "Stockport", "James", "Liberal", "West", "tomb", "Gothic", "home", "clerk", "English", "partner", "listed", "associated", "Cullender", "Manchester", "rose", "risk", "Hall", "1847", "register" ],
+  "adjectives" : [ "British", "ornate", "Liberal", "instrumental", "poor", "cotton-spinning", "municipal", "Gothic", "Natural" ],
+  "nouns" : [ "owner", "franchise", "MP", "death", "tomb", "architect", "cotton", "borough", "History", "mill", "home", "clerk", "head", "condition", "partner", "Museum", "company", "risk", "register" ],
+  "text" : "James Kershaw (1795–1864) was a British cotton mill owner and Liberal MP, associated with the Anti-Corn Law League. He rose from being a clerk for the cotton-spinning company of Lees, Millington & Cullender, of Manchester, to a partner and then head of Kershaw, Lees & Sidebottom, mill owners of Manchester. He was instrumental in obtaining the municipal franchise of Manchester as a borough in 1838, and was its Mayor between 1842-3, and later became the MP for Stockport from 1847 until his death. He died at his home in Streatham, and was buried in West Norwood Cemetery where his ornate Gothic tomb by Alfred Waterhouse (architect of the Natural History Museum, London and Manchester Town Hall) is listed Grade II, and in such poor condition as to be on the English Heritage at risk register. There is currently no plan from Lambeth council to improve the situation.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity9957",
+  "entityUrl" : "http://dbpedia.org/resource/Jayant_Prabhakar_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Co-Op", "-LRB-", "Secretary", "Peasants", "Council", "bank", "Party", "today", "Maharashtra", "Member", "Raigad", "Prabhakar", "politician", "chairman", ",", ".", "India", "Jayant", "Patil", "Workers", "शेकाप", "-RRB-", "Indian", "General", "Legislative", "District" ],
+  "adjectives" : [ "Indian", "Legislative" ],
+  "nouns" : [ "bank", "politician", "today", "chairman", "Council" ],
+  "text" : "Jayant Prabhakar Patil is an Indian politician. As of today, he is the General Secretary of Peasants and Workers Party of India (शेकाप) and a Member of the Legislative Council of Maharashtra. He is chairman of Raigad District Co-Op bank.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity4769",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Noel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/British_people" ]
+  },
+  "words" : [ "``", "Company", "named", "-LRB-", "May", "classes", "1880", "1931", "1831", "Scottish", "Labourers", "1874", "Artizans", "member", "construction", "working", "Ernest", "--", "''", "new", "honour", "Wood", "&", "18", "chairman", ",", "Noel", ".", "August", "Park", "seat", "1886", "FGS", "Dumfries", "Burghs", "-RRB-", "General", "suburb", "20", "Parliament", "Dwellings", "Green" ],
+  "adjectives" : [ "new", "Scottish" ],
+  "nouns" : [ "seat", "honour", "member", "construction", "suburb", "chairman" ],
+  "text" : "Ernest Noel, FGS (18 August 1831 – 20 May 1931) was member of Parliament for the Scottish seat of Dumfries Burghs from 1874 to 1886. He was chairman of the Artizans, Labourers & General Dwellings Company from 1880, during the construction of a new suburb for the working classes in Wood Green which was named \"Noel Park\" in his honour.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity4811",
+  "entityUrl" : "http://dbpedia.org/resource/Erwin_Nypels",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Netherlands" ]
+  },
+  "words" : [ "de", "bij", "-LRB-", "kortstondig", "pleitte", "gebied", "pensioenbreuk", "ook", "wettelijke", "een", "via", "deelnemersraden", "Nypels", "initiatiefwetsvoorstel", "bracht", "D66-Tweede", "augustus", "het", "volkshuisvesting", "tot", "Kamerlid", "stand", "daartoe", "met", "1933", "op", "initiatiefwet", "van", "minister", "regeling", "Hij", "en", "deskundig", "bestrijding", "kwam", "voor", "Bloemendaal", ",", "Erwin", ".", "1", "pensioenen", "pensioenfondsen", "-RRB-", "jarenlang" ],
+  "adjectives" : [ "deskundig", "een" ],
+  "nouns" : [ "bij", "kortstondig", "pleitte", "pensioenbreuk", "ook", "wettelijke", "een", "deelnemersraden", "initiatiefwetsvoorstel", "D66-Tweede", "augustus", "het", "tot", "Kamerlid", "stand", "daartoe", "op", "initiatiefwet", "van", "minister", "Hij", "kwam", "voor", "pensioenfondsen", "jarenlang" ],
+  "text" : "Erwin Nypels (Bloemendaal, 1 augustus 1933) was een D66-Tweede Kamerlid en kortstondig minister. Hij was deskundig op het gebied van de volkshuisvesting en de pensioenen. Hij pleitte jarenlang voor wettelijke bestrijding van pensioenbreuk, en kwam daartoe met een initiatiefwetsvoorstel. Nypels bracht ook via een initiatiefwet een regeling voor deelnemersraden bij pensioenfondsen tot stand. Hij was voor hij in 1967 D66-Tweede Kamerlid werd bedrijfseconoom bij de PTT en twee jaar voorzitter van de JOVD. Na zijn politieke loopbaan werd hij voorzitter van de vakbond voor hoger personeel.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity18864",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Ayles",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/United_Kingdom" ]
+  },
+  "words" : [ "resulted", "Repeal", "objector", "Labour", "Councillor", "World", "imprisoned", "Ayles", "years", "No-Conscription", "1932", "number", "1931", "Bristol", "members", "July", "First", "Member", "conscientious", "group", "--", "11", "MP", "including", "months", "City", ",", ".", "prosecuted", "elected", "6", "served", "-RRB-", "signatory", "Parliament", "24", "-LRB-", "One", "1919", "March", "War", "ward", "two", "Council", "founding", "1953", "Party", "secretary", "member", "national", "1916", "1914", "Realm", "Henry", "1879", "early", "November", "Military", "Walter", "British", "Fellowship", "committee", "Movement", "politician", "Service", "also", "Act", "Easton", "leaflet", "1923", "Defence", "first" ],
+  "adjectives" : [ "British", "national", "conscientious", "first", "founding" ],
+  "nouns" : [ "Repeal", "committee", "objector", "politician", "Councillor", "ward", "number", "secretary", "member", "signatory", "leaflet", "Defence", "group" ],
+  "text" : "Walter Henry Ayles (24 March 1879 – 6 July 1953) was a British Labour Party politician who served as a Member of Parliament (MP) for 11 years between 1923 and 1953. One of the founding group of the No-Conscription Fellowship in November 1914, early in the First World War, he was a member of its national committee and a signatory of the Repeal the Act (Military Service Act 1916) leaflet, which resulted in the committee members being prosecuted under the Defence of the Realm Act, a number of them, including Ayles, being imprisoned for two months. He was also imprisoned as a conscientious objector, and served as secretary of the No More War Movement, 1931–1932. He was a Councillor on Bristol City Council, first elected for the Easton ward in November 1919. He had been selected by Bristol East ILP to be their candidate for the 1918 General Election. but was replaced prior to the campaign. He was Member of Parliament for Bristol North from 1923 to 1924 and from 1929 to 1931; for Southall from 1945 to 1950; and for Hayes and Harlington from 1950 until he resigned his seat, on account of failing health, on 31 January 1953, by accepting the post of Steward of the Manor of Northstead. He died that July, aged 74. Ayles Road, a street in Yeading, which formed part of his constituency, is named after him. Several nearby roads are also named after important people in the history of the Labour Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity18908",
+  "entityUrl" : "http://dbpedia.org/resource/William_Herries",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/New_Zealand" ]
+  },
+  "words" : [ "--", "22", "New", "-LRB-", "politician", "19", "William", "Herries", "April", ".", "KCMG", "Zealand", "Herbert", "-RRB-", "1859", "English-born", "Sir", "February", "1923" ],
+  "adjectives" : [ "English-born" ],
+  "nouns" : [ "politician" ],
+  "text" : "Sir William Herbert Herries KCMG (19 April 1859 – 22 February 1923) was an English-born New Zealand politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity19192",
+  "entityUrl" : "http://dbpedia.org/resource/Willem_van_der_Kaay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Netherlands" ]
+  },
+  "words" : [ "de", "politicus", "Kaay", "der", "Kerk", "Alkmaar", "Stephanus", "augustus", "Nederlands", "1857", "Gravenhage", "12", "van", "Dorreman", "Hervormde", "en", "waren", ",", "'s", "-", ".", "5", "sjouwerman", "-RRB-", "Biskanter", "juli", "Maria", "Nederlandse", "Kaaij", "-LRB-", "29", "Jannetje", "rechter", "behoorden", "een", "mei", "1831", "1918", "tot", "met", "ouders", "op", "huisvrouw", "Hij", "Magdalena", "Willem", "Zijn", "Zij", "huwde" ],
+  "adjectives" : [ "een" ],
+  "nouns" : [ "Gravenhage", "op", "politicus", "sjouwerman", "huisvrouw", "tot", "Hij", "Zijn", "Zij", "huwde", "behoorden" ],
+  "text" : "Willem van der Kaay (Alkmaar, 5 mei 1831 - 's-Gravenhage, 29 juli 1918) was een Nederlands rechter en politicus. Zijn ouders waren Stephanus van der Kaaij, sjouwerman, en Jannetje Dorreman, huisvrouw. Zij behoorden tot de Nederlandse Hervormde Kerk. Hij huwde op 12 augustus 1857 met Maria Magdalena Biskanter. Dit huwelijk bleef kinderloos. Van der Kaay begon na zijn niet-afgeronde theologie- en zijn rechtenstudie als bediende in een boekhandel en werd in 1863 arrondissementsrechter in Alkmaar en in 1897 kantonrechter te Leiden. Zijn politieke loopbaan begon met het gemeenteraadslidmaatschap te Alkmaar en hij werd later, voor het kiesdistrict Schagen, lid van de Provinciale Staten van Noord-Holland. Als Tweede Kamerlid voor het kiesdistrict Alkmaar, van 1875 tot 1894, was hij een trouw volgeling van Kappeyne van de Coppello. Hij behoorde later tot de anti-Takkiaanse tegenstanders van te grote kiesrechtuitbreiding en nam als minister van Justitie zitting in het kabinet-Röell. Hij regelde in 1896 het faillisementsrecht en in 1897, samen met minister Van der Sleyden de Wet op de Kamers van Arbeid. Tijdens zijn ministerschap speelde de zogenaamde Hogerhuis-zaak, welke tot op heden wordt gezien als een voorbeeld van klassenjustitie in de toenmalige strijd tegen het socialisme. Van 1891 tot 1893 was hij voorzitter van de Liberale Kamerclub der Staten-Generaal.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity19300",
+  "entityUrl" : "http://dbpedia.org/resource/Wassila_Hachchi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Netherlands" ]
+  },
+  "words" : [ "66", "Nederlandse", "de", "Van", "-LRB-", "januari", "D66", "lid", "2010", "Hachchi", "een", "Rotterdam", "Democraten", "Tweede", "tot", "Wassila", "politieke", "met", "van", "ex-politica", "17", "en", "Kamer", "ze", "voor", ",", ".", "2016", "6", "1980", "juni", "-RRB-", "20", "partij" ],
+  "adjectives" : [ "een" ],
+  "nouns" : [ "van", "januari", "D66", "ex-politica", "lid", "tot", "ze" ],
+  "text" : "Wassila Hachchi (Rotterdam, 6 januari 1980) is een Nederlandse ex-politica. Van 17 juni 2010 tot en met 20 januari 2016 was ze voor de politieke partij Democraten 66 (D66) lid van de Tweede Kamer.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity19316",
+  "entityUrl" : "http://dbpedia.org/resource/Wilmer_Cleveland_Wells",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Canada" ]
+  },
+  "words" : [ "named", "agent", "held", "Nielson", "dropped", "political", "by-election", "soon", "Wilmer", "1899", "George", "Lands", "provincial", "represented", "North", "Works", "Assembly", "1933", "--", "lumberman", "afterwards", "19", ",", "William", ".", "elected", "Columbia", "4", "following", "-RRB-", "rancher", "1907", "Wells", "1903", "East", "1902", "Railway", "-LRB-", "death", "Canadian", "alleged", "Cleveland", "Kootenay", "opposition", "October", "assembly", "1839", "November", "figure", "British", "Liberal", "Commissioner", "Pacific", "Legislative", "cabinet", "first" ],
+  "adjectives" : [ "Liberal", "political", "Legislative", "provincial", "first" ],
+  "nouns" : [ "lumberman", "opposition", "figure", "agent", "death", "rancher", "assembly", "by-election", "cabinet", "Assembly" ],
+  "text" : "Wilmer Cleveland Wells (4 November, 1839 – October 19, 1933) was a rancher, lumberman and political figure in British Columbia. He represented East Kootenay North from 1899 to 1903 and Columbia from 1903 to 1907 as a Liberal in the Legislative Assembly of British Columbia. Wells was first elected to the assembly in an 1899 by-election held following the death of William George Nielson. He was named to the provincial cabinet in 1902 as Commissioner of Lands and Works but was dropped from cabinet soon afterwards because it was alleged by the opposition that he was an agent of the Canadian Pacific Railway. Wells was defeated when he ran for reelection in 1907. In 1907, he bought the Hume Hotel in Nelson from John Frederick Hume. Wells died in Vancouver at the age of 93. The settlement of Wilmer was named after him.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity19527",
+  "entityUrl" : "http://dbpedia.org/resource/Wafula_Oguttu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Uganda" ]
+  },
+  "words" : [ "-LRB-", "Leader", "Nandala", "May", "Opposition", "2011", "Central", "Sub-region", "County", "Bugiri", "Wafula", "December", "1952", "Phillip", "January", "Mafabi", "Member", "31", "MP", "born", "politician", "Bukhooli", "Oguttu", "also", "replacing", ",", "Ugandan", ".", "former", "Busoga", "journalist", "appointed", "constituency", "2014", "served", "-RRB-", "Region", "Uganda", "Eastern", "position", "District", "Parliament", "21" ],
+  "adjectives" : [ "Ugandan", "former" ],
+  "nouns" : [ "journalist", "constituency", "politician", "position", "Sub-region" ],
+  "text" : "Phillip Wafula Oguttu (born 21 December 1952) is a Ugandan journalist and politician. He is a former Leader of Opposition in the Ugandan Parliament. He was appointed to that position on 31 January 2014, replacing Nandala Mafabi, who served in that position from May 2011 until January 2014. Wafula is also the Member of Parliament (MP) for Bukhooli County Central, a constituency in Bugiri District, Busoga Sub-region, Eastern Region of Uganda. He is a member of Uganda's opposition party Forum for Democratic Change (FDC) for which he is the spokesperson. Oguttu is also one of the co-founders of the Daily Monitor, a privately owned English-language daily newspaper in Uganda.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity18369",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Abens",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Luxembourg" ]
+  },
+  "words" : [ "``", "Oktober", "Politiker", "Vianden", "Lëtzebuerger", "-LRB-", "Abens", "ein", "unter", "Sozialistesch", "anderem", "Victor", "der", "des", "1993", "LSAP", "Widerstandskämpfer", "1979", "1912", "Januar", "Aarbechterpartei", "†", "Parlaments", "14", "16", "Lüttich", "war", "*", "und", ",", ".", "luxemburgischer", "Vic", "zwischen", "Europäischen", "Mitglied", "-RRB-", ";", "1989" ],
+  "adjectives" : [ "und", "Januar" ],
+  "nouns" : [ "luxemburgischer", "Widerstandskämpfer", "war", "und", "ein" ],
+  "text" : "Victor „Vic“ Abens (* 16. Oktober 1912 in Vianden; † 14. Januar 1993 in Lüttich) war ein luxemburgischer Widerstandskämpfer und Politiker der Lëtzebuerger Sozialistesch Aarbechterpartei (LSAP), der unter anderem zwischen 1979 und 1989 Mitglied des Europäischen Parlaments war.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity11373",
+  "entityUrl" : "http://dbpedia.org/resource/Ludwig_Landmann",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Germany" ]
+  },
+  "words" : [ "-LRB-", "Weimarer", "Ludwig", "ein", "den", "zunächst", "Fortschrittlichen", "der", "gehörte", "Voorburg", "Niederlande", "des", "Kaiserreichs", "dann", "1918", "März", "Nationalsozialen", "Landmann", "†", "liberaler", "während", "deutscher", "18", "Partei", "war", "*", "und", "nach", ",", ".", "Kommunalpolitiker", "Volkspartei", "Deutschen", "Mai", "5", "Republik", "-RRB-", ";", "Demokratischen", "1868", "1945", "schließlich", "Mannheim" ],
+  "adjectives" : [ "dann", "schließlich" ],
+  "nouns" : [ "liberaler", "der", "gehörte", "während", "deutscher", "war", "und", "ein", "den", "zunächst" ],
+  "text" : "Ludwig Landmann (* 18. Mai 1868 in Mannheim; † 5. März 1945 in Voorburg, Niederlande) war ein liberaler deutscher Kommunalpolitiker der Weimarer Republik. Landmann gehörte während des Kaiserreichs zunächst den Nationalsozialen, dann der Fortschrittlichen Volkspartei und nach 1918 schließlich der Deutschen Demokratischen Partei an.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity2566",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Cowan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Scotland" ]
+  },
+  "words" : [ "--", "Charles", "June", "-LRB-", "paper-maker", "politician", ".", "Scottish", "7", "-RRB-", "Cowan", "FRSE", "1801", "1889" ],
+  "adjectives" : [ "Scottish" ],
+  "nouns" : [ "paper-maker", "politician" ],
+  "text" : "Charles Cowan FRSE (7 June 1801 – 1889) was a Scottish politician and paper-maker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity3309",
+  "entityUrl" : "http://dbpedia.org/resource/Chen_Haosu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/China" ]
+  },
+  "words" : [ "。", "祖籍四川乐至", "（", "）", "出生于江苏阜宁", "陈毅元帅长子", "陈昊苏", "，", "1942年5月", "－", "原中国人民对外友好协会会长" ],
+  "adjectives" : [ ],
+  "nouns" : [ "。", "，", "－" ],
+  "text" : "陈昊苏（1942年5月－），祖籍四川乐至，出生于江苏阜宁，原中国人民对外友好协会会长。陈毅元帅长子。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity3354",
+  "entityUrl" : "http://dbpedia.org/resource/Charu_Chandra_Biswas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Congress", "Justice", "leader", "Chancellor", "-LRB-", "Law", "09", "1888-December", "Union", "Court", "1954", "1953", "Sabha", "1952", "National", "Minority", "1957", "Vice", "Minister", "Charu", "Biswas", "Upper", "High", "Calcutta", "Chandra", "Affairs", "Bengal", "West", "politician", "House", "also", ",", "April", ".", "elected", "Rajya", "University", "1960", "State", "Prior", "-RRB-", "Indian", "latter", "Parliament", "21" ],
+  "adjectives" : [ "Indian", "latter" ],
+  "nouns" : [ "Justice", "leader", "politician" ],
+  "text" : "Charu Chandra Biswas (April 21, 1888-December 09, 1960) was an Indian National Congress politician who was elected to the Upper House of Indian Parliament the Rajya Sabha from 1952 to 1960 from West Bengal. He was the leader of the House in the Rajya Sabha from 1953 to 1954. He was also a Minister of State and then Union Minister of Law and Minority Affairs, the latter from 1952 to 1957. Prior to that he was a Justice in the Calcutta High Court and a Vice Chancellor of the University of Calcutta.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity1862",
+  "entityUrl" : "http://dbpedia.org/resource/Beatrice_Trew",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Saskatchewan" ]
+  },
+  "words" : [ "June", "New", "-LRB-", "year", "Fredericton", "moved", "Lemsford", "training", "1976", "December", "1897", "teacher", "school", "Mills", "1917", "Albert", "met", "`", "Brunswick", "J.", "Janet", "born", "'", "received", "Saskatchewan", ",", "-", "Beatrice", ".", "elected", "1920", "secretary-treasurer", "Coates", "4", "taught", "Club", "Trew", "Manor", "following", "district", "-RRB-", "farmer", "Homemakers", "formed", "married", "first" ],
+  "adjectives" : [ "following" ],
+  "nouns" : [ "secretary-treasurer", "teacher", "school", "year", "district", "farmer", "training" ],
+  "text" : "Beatrice Janet Trew (December 4, 1897 - June 4, 1976) was born on December 4, 1897, in Coates Mills, New Brunswick. She received teacher training in Fredericton and moved to a school at Manor, Saskatchewan in 1917. The following year she taught at Lemsford, where she met and married J. Albert Trew, a district farmer. When the 'Lemsford Homemakers Club' was formed in 1920, she was elected first secretary-treasurer. She later became president of the Swift Current district Homemakers. In 1944 she was elected MLA for Maple Creek. Defeated in 1948, she returned to her active role in Homemakers and in the local church; she received a life membership in the Lemsford Homemakers Club. Trew was a member of the national council of the CCF for eleven years, and vice-president of the Saskatchewan section of the party for eight years. When the Saskatchewan Farmers Union was organized in 1950, she and her husband joined; she became women’s district director in 1953, and was elected women’s president of the provincial farm union in 1958, a post she held for five years. She represented farm union women at three meetings of the Associated Country Women. Trew was a member of the Thompson Advisory Planning Committee on Medical Care, which in 1961 laid the groundwork for Canada’s first universal medical care plan. The committee study took her to England, the Netherlands, Norway, Sweden, and Denmark. She died in a traffic accident on June 4, 1976. She is the grandmother of long-time Regina NDP MLA Kim Trew",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity2015",
+  "entityUrl" : "http://dbpedia.org/resource/Bruno_Gilles",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/France" ]
+  },
+  "words" : [ "à", "français", "-LRB-", "26", "politique", "Marseille", "est", "Bouches-du-Rhône", ",", ".", "Bruno", "Gilles", "homme", "1960", "-RRB-", "le", "un", "né", "décembre" ],
+  "adjectives" : [ ],
+  "nouns" : [ "homme", "politique", "est", "un", "né", "décembre" ],
+  "text" : "Bruno Gilles, né le 26 décembre 1960 à Marseille (Bouches-du-Rhône), est un homme politique français.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity2213",
+  "entityUrl" : "http://dbpedia.org/resource/Bakshi_Abdur_Rashid",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Rashid", "political", "Srinagar", "President", "Sabha", "candidate", "Kashmir", "member", "1923-August", "represented", "January", "Jammu", "1977", "Bakshi", "Abdur", "3rd", "&", "politician", "2nd", "Lok", ",", ".", "India", "1", "constituency", "-RRB-", "Indian", "nominated", "party" ],
+  "adjectives" : [ "3rd", "2nd", "1923-August", "Indian", "political" ],
+  "nouns" : [ "candidate", "constituency", "politician", "member", "Lok", "party" ],
+  "text" : "Bakshi Abdur Rashid (1 January 1923-August 1977) was an Indian politician who was a member of the 2nd Lok Sabha & 3rd Lok Sabha of India. He represented the Srinagar constituency of Jammu & Kashmir and was a member of the Congress (I) political party. In the 3rd Lok Sabha, he was a Lok Sabha candidate, nominated by the President of India.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity2299",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Marie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/France" ]
+  },
+  "words" : [ "juin", "de", "français", "-LRB-", "politique", "est", "Neuilly-sur-Seine", "mort", "1918", "un", "96", "10", "à", "Raoul", "17", "rugby", "ans", "Toulouse", ",", ".", "et", "américain", "Marie", "l'hôpital", "homme", "arbitre", "2015", "Lucien", "-RRB-", "le", "Bernard", "né", "février" ],
+  "adjectives" : [ "l'hôpital", "rugby" ],
+  "nouns" : [ "à", "juin", "politique", "né", "février", "américain" ],
+  "text" : "Raoul Bernard Lucien Marie, né le 17 juin 1918 à Toulouse et mort le 10 février 2015 (à 96 ans) à l'hôpital américain de Neuilly-sur-Seine, est un arbitre de rugby et homme politique français.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity18280",
+  "entityUrl" : "http://dbpedia.org/resource/Uma_Nehru",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "†", "-LRB-", "28", "Uma", "war", "*", "Agra", "und", "Nehru", ".", "August", "Politikerin", "1963", "1884", "eine", "8", "-RRB-", "März", "Publizistin", ";", "indische" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politikerin", "eine", "war", "und", "Publizistin", "indische" ],
+  "text" : "Uma Nehru (* 8. März 1884 in Agra; † 28. August 1963) war eine indische Politikerin und Publizistin.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity18129",
+  "entityUrl" : "http://dbpedia.org/resource/Timothy_Brown_(radical)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/United_Kingdom" ]
+  },
+  "words" : [ "``", "Brown", "became", "Timothy", "Cartwright", "Cannon", "Company", "-LRB-", "September", "radicals", "Waithman", "John", "Horne", "association", "political", "Worshipful", "known", "George", "Robert", "nickname", "Equality", "Tooke", "views", "early", "--", "Frend", "''", "1743/1744", "radical", "Cobbett", "one", "merchant", "also", "Whitbread", "banker", ",", "William", ".", "Brewers", "master", "English", "1820", "4", "partners", "-RRB-", "gave", "time", ";" ],
+  "adjectives" : [ "English", "political", "early" ],
+  "nouns" : [ "Company", "radical", "nickname", "merchant", "association", "time", "banker", "master" ],
+  "text" : "Timothy Brown (1743/1744 – 4 September 1820) was an English banker, merchant and radical, known for his association with other radicals of the time, such as John Horne Tooke, Robert Waithman, William Frend, William Cobbett, John Cartwright and George Cannon; his political views gave him the nickname \"Equality Brown\". He was also one of the early partners of Whitbread, and became the master of the Worshipful Company of Brewers.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity18224",
+  "entityUrl" : "http://dbpedia.org/resource/Theodor_Hillenhinrichs",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/German_people" ]
+  },
+  "words" : [ "†", "Landtagsabgeordneter", "Politiker", "-LRB-", "Damme", "27", "deutscher", "1990", "war", "*", "und", "ein", ".", "Theodor", "Mai", "5", "CDU", "Hillenhinrichs", "-RRB-", "März", ";", "1901" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Landtagsabgeordneter", "Politiker", "deutscher", "war", "und", "ein" ],
+  "text" : "Theodor Hillenhinrichs (* 5. März 1901 in Damme; † 27. Mai 1990) war ein deutscher Politiker und Landtagsabgeordneter (CDU).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity15016",
+  "entityUrl" : "http://dbpedia.org/resource/Rita_Fan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Nationality_Law_of_the_People's_Republic_of_China" ]
+  },
+  "words" : [ "Congress", "Hong", "-LRB-", "woman", "11th", "September", "JP", "CBE", "United", "Council", "hold", "Republic", "President", "1997", "GBM", "National", "China", "member", "GBS", "sovereignty", "Kong", "Rita", "LegCo", "Shanghai", "born", "People", "Hsu", ",", "'s", ".", "Fan", "transfer", "Kingdom", "name", "-RRB-", "Chinese", "Legislative", ";", "position", "family", "delegation", "Lai-tai", "20", "1945", "first" ],
+  "adjectives" : [ "11th", "Chinese", "Legislative", "first" ],
+  "nouns" : [ "Fan", "transfer", "woman", "name", "member", "sovereignty", "position", "family", "delegation", "Council", "Republic" ],
+  "text" : "(This is a Chinese name; the family name is Fan.) Rita Fan Hsu Lai-tai, GBM, GBS, CBE, JP (born 20 September 1945 in Shanghai, China) was the President of the Legislative Council of Hong Kong (LegCo) after the transfer of sovereignty from the United Kingdom in 1997. She was the first woman to hold that position. She is a member of the Hong Kong delegation to the 11th National People's Congress of the People's Republic of China.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity15873",
+  "entityUrl" : "http://dbpedia.org/resource/Ramkishun",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Chandauli", "Uttar", "-LRB-", "born", "Lok", "political", "Samajwadi", ".", "August", "15th", "India", "Ramkishun", "Sabha", "3", "Party", "constituency", "Pradesh", "-RRB-", "member", "represented", "SP", "1956", "party" ],
+  "adjectives" : [ "political", "15th" ],
+  "nouns" : [ "Ramkishun", "Sabha", "constituency", "member", "Lok", "SP", "party" ],
+  "text" : "Ramkishun (born 3 August 1956) is a member of the 15th Lok Sabha of India. He represented the Chandauli constituency of Uttar Pradesh and is a member of the Samajwadi Party (SP) political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity16141",
+  "entityUrl" : "http://dbpedia.org/resource/Roopesh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "de", "leader", "-LRB-", "commonly", "Roopesh", ",", "Police", "nom", "guerre", ".", "India", "Communist", "Party", "known", "wanted", "-RRB-", "state", "Praveen", "Kerala", "Maoist" ],
+  "adjectives" : [ "wanted", "Maoist" ],
+  "nouns" : [ "leader", "state" ],
+  "text" : "Praveen, commonly known by his nom de guerre, Roopesh, is a Communist Party of India (Maoist) leader in Kerala, India. He is the most wanted Maoist leader in Kerala state by Kerala Police.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity3525",
+  "entityUrl" : "http://dbpedia.org/resource/Dipankar_Bhattacharya",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "leader", "Guwahati", "Bhattacharya", "-LRB-", "Assam", "stood", "general", "railw", "Communist", "December", "secretary", "Party", "Narendrapur", "Mission", "near", "1979", "Liberation", "Examination", "Mishra", "Secondary", "Dipankar", "studied", "politician", "born", "19", "Kolkata", ",", "Ramakrishna", ".", "India", "Marxist-Leninist", "1960", "-RRB-", "Indian", "Higher", "Vinod", "Vidyalaya", "party", "first", "succeeded" ],
+  "adjectives" : [ "general", "Secondary", "Indian" ],
+  "nouns" : [ "leader", "railw", "secretary", "politician", "party", "Examination" ],
+  "text" : "Dipankar Bhattacharya is an Indian politician. He is the general secretary of the Communist Party of India (Marxist-Leninist) Liberation. Bhattacharya succeeded Vinod Mishra as the leader of the party in 19 a railw Bhattacharya was born in Guwahati, Assam in December 1960. He studied in Ramakrishna Mission Vidyalaya, Narendrapur near Kolkata and stood first in Higher Secondary Examination in 1979. He then joined the B.Stat program at Indian Statistical Institute, Kolkata and became active in CPI(ML) politics. Within years he became a professional revolutionary, though he completed his M. Stat degree in due course. He later worked as the General Secretary of the Indian Peoples Front and then as the General Secretary of the party's Trade Union wing All India Central Council of Trade Unions (AICCTU). He was elected a member of the Central Committee and Political Bureau of CPI(ML) in December 1987. After the sudden demise of Vinod Mishra - the general secretary of the party since 1975 - in 1998, Dipankar was unanimously elected to the post.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity3893",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Laurent",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/France" ]
+  },
+  "words" : [ "français", "membre", "politique", "est", "Daniel", ",", ".", "du", "homme", "4", "au", "Sénat", "le", "un", "UMP", "1949", "né", "groupe", "Laurent", "février" ],
+  "adjectives" : [ ],
+  "nouns" : [ "homme", "politique", "est", "un", "né", "février" ],
+  "text" : "Daniel Laurent, né le 4 février 1949, est un homme politique français, membre du groupe UMP au Sénat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity3995",
+  "entityUrl" : "http://dbpedia.org/resource/Devendra_Nath_Dwivedi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Gujarat", "March", "died", "2009", "Sabha", "1974", "post", "member", "30", "1935", "74", "designate", "--", "Nath", "could", "politician", "aged", ",", "'s", ".", "August", "1", "Governor", "take", "Rajya", "Devendra", "1980", "-RRB-", "Indian", "Dwivedi", "formally" ],
+  "adjectives" : [ "aged", "Indian" ],
+  "nouns" : [ "Governor", "post", "politician", "member" ],
+  "text" : "Devendra Nath Dwivedi (March 30, 1935 – August 1, 2009) was an Indian politician and the Governor designate of Gujarat. He was a Congress member of the Rajya Sabha from 1974 to 1980. He died on August 1, 2009 aged 74, before he could formally take up the post of Gujarat's Governor.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity6873",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_de_Lesquen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/France" ]
+  },
+  "words" : [ "de", "-LSB-", "politique", "est", "radio", "du", "1974", "réclamant", "poursuit", "club", "depuis", "un", "1er", "national-libéralisme", "il", "janvier", "2001", ",", ".", "et", "1985", "homme", "l'extrême", "-RRB-", "municipal", "1949", "carrefour", "né", "fonctionnaire", "Courtoisie", "français", "-LRB-", "ɑ̃ʁi", "Il", "droite", "leskɛ̃", "Président", "prononcé", "d̪ə", "2007", "conseiller", "civil", "d'administrateur", "puis", "Henry", "à", "Port-Lyautey", "l'Horloge", "carrière", "haut", "dirigeant", "Radio", "une", "Se", "2014", "2013", "Maroc", "Versailles", "-RSB-", "le", "Lesquen", "classé" ],
+  "adjectives" : [ "prononcé", "réclamant", "ɑ̃ʁi", "civil", "un", "municipal", "une", "1er" ],
+  "nouns" : [ "français", "Il", "politique", "droite", "est", "leskɛ̃", "radio", "d̪ə", "poursuit", "conseiller", "club", "d'administrateur", "national-libéralisme", "à", "Port-Lyautey", "carrière", "il", "haut", "janvier", "Radio", "Se", "homme", "Maroc", "né", "fonctionnaire", "classé" ],
+  "text" : "Henry de Lesquen (prononcé [ɑ̃ʁi d̪ə leskɛ̃] ) est un haut fonctionnaire, homme politique et dirigeant de radio français né le 1er janvier 1949 à Port-Lyautey (Maroc). Il poursuit une carrière d'administrateur civil de 1974 à 2013. Président du club, puis carrefour de l'Horloge depuis 1985 et de Radio Courtoisie depuis 2007, il est conseiller municipal de Versailles de 2001 à 2014. Se réclamant du national-libéralisme, il est classé à l'extrême droite.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity7237",
+  "entityUrl" : "http://dbpedia.org/resource/Hari_Singh_Mahua",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Congress", "Committee", "years", "legislative", "1998", "National", "Pradesh", "member", "Singh", "five", "Assembly", "vice", "period", "minister", "Government", "Mahuwa", "representing", "Mahua", "also", ",", "Rajasthan", ".", "elected", "Hari", "constituency", "served", "Indian", "Legislative", "president" ],
+  "adjectives" : [ "Legislative", "legislative" ],
+  "nouns" : [ "vice", "period", "minister", "constituency", "Government", "member", "Assembly", "president" ],
+  "text" : "Hari Singh Mahua is a member of the Indian National Congress and vice president of the Rajasthan Pradesh Congress Committee. He also served as minister in the Government of Rajasthan. He was elected to the Rajasthan Legislative Assembly, representing the Mahuwa legislative constituency for a period of five years from 1998.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity7572",
+  "entityUrl" : "http://dbpedia.org/resource/Hans_Amler",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/German_people" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "CSU", "deutscher", "war", "Amler", "*", "Ingolstadt", "ist", "ein", "Er", "Bürgermeister", ".", "der", "von", "5", "-RRB-", "Hans", "November", "1933" ],
+  "adjectives" : [ ],
+  "nouns" : [ "deutscher", "war", "ist", "ein" ],
+  "text" : "Hans Amler (* 5. November 1933) ist ein deutscher Politiker der CSU. Er war Bürgermeister von Ingolstadt.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity7590",
+  "entityUrl" : "http://dbpedia.org/resource/Helene_Berg",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Germany" ]
+  },
+  "words" : [ "den", "bis", "Widerstandskämpferin", "Nationalsozialismus", "der", "Helene", "des", "Deutschlands", "Direktorin", "Hochschullehrerin", "10", "†", "dort", "Instituts", "Berlin", "deutsche", "*", "Funktionärin", ",", ".", "April", "Sie", "geborene", "ZK", "SED", "Gesellschaftswissenschaften", "Republik", "-RRB-", "1906", ";", "1989", "Mannheim", "21", "-LRB-", "Berg", "2006", "DDR", "von", "Sozialistischen", "Einheitspartei", "Veser", "1958", "für", "Zentralkomitees", "gegen", "war", "und", "Mitglied", "Deutschen", "eine", "Demokratischen", "Februar" ],
+  "adjectives" : [ "Februar" ],
+  "nouns" : [ "dort", "deutsche", "gegen", "war", "und", "den", "geborene", "SED", "DDR", "eine", "von", "Gesellschaftswissenschaften", "Republik", "für" ],
+  "text" : "Helene Berg geborene Helene Veser (* 10. April 1906 in Mannheim; † 21. Februar 2006 in Berlin) war eine deutsche Widerstandskämpferin gegen den Nationalsozialismus, Hochschullehrerin und Funktionärin der Sozialistischen Einheitspartei Deutschlands (SED) in der Deutschen Demokratischen Republik (DDR). Sie war von 1958 bis 1989 Mitglied des Zentralkomitees (ZK) der SED und dort Direktorin des Instituts für Gesellschaftswissenschaften.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity14062",
+  "entityUrl" : "http://dbpedia.org/resource/O._S._Manian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Nadu", "Munnetra", "Vedaranyam", "-LRB-", "Previously", "political", "Handlooms", "15th", "incumbent", "Textiles", "Sabha", "member", "represented", "Constituency", "Dravida", "O.S.", "Assembly", "Minister", "Anna", "Government", "India.He", "Lok", "Tamil", ".", "India", "Manian", "constituency", "State", "-RRB-", "Legislative", "Kazhagam", "Mayiladuturai", "party" ],
+  "adjectives" : [ "Legislative", "political", "15th", "incumbent" ],
+  "nouns" : [ "constituency", "member", "Assembly", "party" ],
+  "text" : "O.S. Manian is a member of the 15th Lok Sabha of India.He is incumbent member of the Tamil Nadu Legislative Assembly from Vedaranyam (State Assembly Constituency).He is incumbent Minister for Handlooms and Textiles in Government of Tamil Nadu. He Previously represented the Mayiladuturai (Lok Sabha constituency) of Tamil Nadu and is a member of the All India Anna Dravida Munnetra Kazhagam political party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity16577",
+  "entityUrl" : "http://dbpedia.org/resource/S._S._Chandran",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Nadu", "Munnetra", "-LRB-", "upper", "2010", "died", "house", "எஸ்", "October", "Sabha", "Chandran", "Dravida", "Member", "Anna", "comedy", "politician", "representing", "சந்திரன்", ",", "Tamil", ".", "India", "actor", "Rajya", "-RRB-", "9", "producer", "Indian", ":", "S.", ";", "belonged", "Kazhagam", "party", "Parliament" ],
+  "adjectives" : [ "upper" ],
+  "nouns" : [ "actor", "comedy", "politician", "சந்திரன்", "producer", "house", "party", "எஸ்" ],
+  "text" : "S. S. Chandran (Tamil: எஸ். எஸ். சந்திரன்; died October 9, 2010) was a comedy actor, producer and politician from Tamil Nadu, India. He belonged to the All India Anna Dravida Munnetra Kazhagam party and was a Member of the Parliament representing Tamil Nadu in the Rajya Sabha, the upper house of the Indian Parliament.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity16869",
+  "entityUrl" : "http://dbpedia.org/resource/Savitri_Jindal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Jindal", "-LRB-", "Assam", "*", "und", "ist", ",", ".", "Savitri", "Politikerin", "1950", "eine", "-RRB-", "März", "Tinsukia", "indische", "20", "Unternehmerin" ],
+  "adjectives" : [ ],
+  "nouns" : [ "eine", "ist", "indische" ],
+  "text" : "Savitri Jindal (* 20. März 1950 in Tinsukia, Assam) ist eine indische Unternehmerin und Politikerin.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity17168",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Moss",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Wales" ]
+  },
+  "words" : [ "--", "13", "-LRB-", "14", "May", "Moss", "Liberal", "politician", "Welsh", "Dec.", ",", ".", "Samuel", "1918", "-RRB-", "1858", "Judge" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician" ],
+  "text" : "Samuel Moss (13 Dec. 1858 – 14 May 1918), was a Welsh Liberal politician and Judge.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "44_entity17290",
+  "entityUrl" : "http://dbpedia.org/resource/Satish_Jain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Indian_people" ]
+  },
+  "words" : [ "Aadmi", "Elections", "Sabha", "worked", "portfolio", "gained", "lost", "HDFC", "North", "Jain", "Executive", "18", "Director", "Lok", "Parasmal", "Aam", ",", ".", "August", "AAP", "exposing", "Prior", "trying", "-RRB-", "32,364", "Mutual", "crore", "22", "politics", "-LRB-", "Fund", "contesting", "scam", "media", "INR", "Mumbai", "getting", "candidate", "Morgan", "Party", "Stanley", "billion", "Satish", "Maharashtra", "Rs", "22,000", "manager", "electricity", "constituency", "2014", "attention", "votes", "1968" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Rs", "candidate", "constituency", "manager", "portfolio", "attention", "scam", "electricity", "crore", "INR" ],
+  "text" : "Satish Parasmal Jain (18 August 1968) was a candidate from Aam Aadmi Party (AAP) and was contesting from the North Mumbai (Mumbai North) constituency in the 2014 Lok Sabha Elections, which he lost getting 32,364 votes. Prior to trying himself in politics he worked as a portfolio manager for HDFC Mutual Fund and as an Executive Director for Morgan Stanley. Satish Jain gained media attention after exposing the Rs 22,000 crore (INR 22 billion) electricity scam in Maharashtra.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "45_entity12104",
+  "entityUrl" : "http://dbpedia.org/resource/Maninderjeet_Singh_Bitta",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Congress", "Rao", "-LRB-", "Maninderjeet", "Front", "Bitta", "All-India", "M", "govt", "V.", "Singh", "P.", "Minister", "minister", "chief", "made", "Govt", "Youth", "also", "chairman", "Punjab", ",", "former", ".", "Narasimha", "Beant", "Anti-Terrorist", "-RRB-", "Indian", "AIATF", "president" ],
+  "adjectives" : [ "chief", "Indian", "former" ],
+  "nouns" : [ "minister", "Front", "chief", "govt", "Bitta", "chairman", "M", "AIATF", "president" ],
+  "text" : "Maninderjeet Singh Bitta (also M S Bitta) is the chairman of the All-India Anti-Terrorist Front (AIATF), and former chief of the Indian Youth Congress. He was made the president of Indian Youth Congress by P. V. Narasimha Rao. Maninderjeet Singh Bitta was a Minister in Punjab Govt in the govt of Beant Singh (chief minister).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "46_entity12160",
+  "entityUrl" : "http://dbpedia.org/resource/Marc_Tarabella",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Belgium" ]
+  },
+  "words" : [ "Marc", "Group", "-LRB-", "part", "March", "Socialist", "Committee", "Southeast", "Asian", "substitute", "vice-chair", "Socialiste", "French", "Association", "andMember", "Employment", "Development", "Agriculture", "11", "sits", "Rural", "Social", "Parti", "Affairs", "Tarabella", "born", "politician", "countries", "European", ",", "'s", "Nations", ".", "Delegation", "Belgian", "1963", "Belgium", "Asia", "-RRB-", "ASEAN", "relations", "onthe", "Parliament", "Community" ],
+  "adjectives" : [ "Southeast", "onthe", "Asian", "Belgian" ],
+  "nouns" : [ "Association", "andMember", "politician", "part", "substitute", "vice-chair", "Delegation" ],
+  "text" : "Marc Tarabella (born 11 March 1963) is a Belgian politician andMember of the European Parliament for the French Community of Belgium with the Parti Socialiste, part of the Socialist Group and sits onthe European Parliament's Committee on Agriculture and Rural Development. He is a substitute for the Committee on Employment and Social Affairs and a vice-chair of the Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "47_entity12164",
+  "entityUrl" : "http://dbpedia.org/resource/Mia_De_Vits",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Belgium" ]
+  },
+  "words" : [ "``", "career", "Partij-Anders", "Internal", "Louise", "2002-2004", "1989-2002", "1973", "elective", "Consumer", "Member", "Protection", "De", "went", "Mia", ",", "European", "'s", "Market", ".", "Belgian", "Marie", "elected", "ranks", "-RRB-", "Vits", "Secretary-General", "Parliament", "ABVV", "become", "politics", "Group", "-LRB-", "rising", "part", "March", "Socialist", "Committee", "1950", "2004", "Socialistische", "31", "''", "socialist", "born", "politician", "sat", "started", "chairman", "union", "trade", "2004-2009" ],
+  "adjectives" : [ "socialist", "elective", "Belgian" ],
+  "nouns" : [ "career", "trade", "politician", "part", "chairman", "union", "ABVV" ],
+  "text" : "Marie Louise \"Mia\" De Vits (born 31 March 1950) is a Belgian politician. De Vits started her career with the socialist trade union ABVV in 1973, rising through the ranks to become Secretary-General (1989-2002) and its chairman (2002-2004). In 2004 De Vits went in to elective politics and was elected a Member of the European Parliament (2004-2009) with the Socialistische Partij-Anders, part of the Socialist Group. She sat on the European Parliament's Committee on the Internal Market and Consumer Protection. She was a substitute for the Committee on Economic and Monetary Affairs. In 2009 she was elected to the Flemish Parliament and served from 2009-2014. She will retire from politics after the 2014 regional elections.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "48_entity12792",
+  "entityUrl" : "http://dbpedia.org/resource/Margaret_Ashton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/United_Kingdom" ]
+  },
+  "words" : [ "--", "-LRB-", "woman", "15", "politician", "19", "City", "Councillor", ",", "Ashton", "local", ".", "Margaret", "English", "October", "suffragist", "philanthropist", "-RRB-", "Manchester", "1937", "pacifist", "January", "first", "1856" ],
+  "adjectives" : [ "English", "local", "first" ],
+  "nouns" : [ "suffragist", "philanthropist", "woman", "politician", "pacifist" ],
+  "text" : "Margaret Ashton (19 January 1856 – 15 October 1937) was an English suffragist, local politician, pacifist and philanthropist, and the first woman City Councillor for Manchester.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "49_entity12844",
+  "entityUrl" : "http://dbpedia.org/resource/M._I._Shanavas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Congress", "M.", "Shanavas", "-LRB-", "Wayanad", "I.", "Advocate", "Ibrabim", "Committee", "16th", "represents", "2009", "Politician", "s/o", "1952", "Sabha", "National", "Pradesh", "won", "member", "Member", "Kerala", "election", "born", "Lok", "Sahib", ",", ".", "India", "constituency", "1983", "-RRB-", "Indian", "Parliament", "since" ],
+  "adjectives" : [ "Indian", "16th" ],
+  "nouns" : [ "Politician", "Sabha", "election", "constituency", "member", "Lok" ],
+  "text" : "M. I. Shanavas (s/o Advocate Ibrabim Sahib, born 1952) is an Indian Politician and is a Member of Parliament of the 16th Lok Sabha of India. He represents the Wayanad constituency and is a member of the Indian National Congress. He has been a member of the Kerala Pradesh Congress Committee since 1983. He won the 2009 Lok Sabha election from Wayanad. He entered politics through the Kerala Students Union, worked in the Youth Congress and Seva Dal. He was one of three leaders who rebelled against senior Congress leader K. Karunakaran and formed a third group. He has also been re-elected in the 2014 Lok Sabha elections. APM Mohd Haneesh IAS is his son in law.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "50_entity13173",
+  "entityUrl" : "http://dbpedia.org/resource/Maulana_Abdur_Rahman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ]
+  },
+  "words" : [ "Maulana", "Congress", "Abdur", "-LRB-", "&", "2nd", "Lok", "political", "March", "office", ".", "April", "Sabha", "1962", "Rahman", "constituency", "Kashmir", "member", "-RRB-", "represented", "1957", "Jammu", "party" ],
+  "adjectives" : [ "2nd", "political" ],
+  "nouns" : [ "constituency", "member", "office", "party" ],
+  "text" : "Maulana Abdur Rahman was member of the 2nd Lok Sabha. He represented the Jammu constituency of Jammu & Kashmir and was a member of the Congress (I) political party. He was in office from April 1957 to March 1962.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "51_entity13344",
+  "entityUrl" : "http://dbpedia.org/resource/Mayer_Carl_von_Rothschild",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/German_Empire" ]
+  },
+  "words" : [ "Oktober", "Politiker", "Frankfurt", "-LRB-", "ein", "der", "von", "Mayer", "Bankier", "†", "16", "deutscher", "Carl", "Freiherr", "war", "*", "und", "ebenda", ".", "August", "1820", "1886", "5", "-RRB-", ";", "Rothschildfamilie", "Main", "Rothschild", "aus" ],
+  "adjectives" : [ ],
+  "nouns" : [ "deutscher", "war", "ein", "ebenda", "aus" ],
+  "text" : "Mayer Carl Freiherr von Rothschild (* 5. August 1820 in Frankfurt am Main; † 16. Oktober 1886 ebenda) war ein deutscher Bankier und Politiker aus der Rothschildfamilie.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "52_entity13423",
+  "entityUrl" : "http://dbpedia.org/resource/Mustafa_Hijri",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/List_of_Kurdish_people" ]
+  },
+  "words" : [ "Mustafa", "-LRB-", "Secretary", "Kurdistan", "Democratic", "Hijri", "2010", "Kurdish", "KDPI", "current", "Party", "-RRB-", "General", "Iranian", ":" ],
+  "adjectives" : [ "current" ],
+  "nouns" : [ ],
+  "text" : "Mustafa Hijri (Kurdish: Mustafa Hijri) is the current (as of 2010) General Secretary of the Democratic Party of Iranian Kurdistan (KDPI)",
+  "patterns" : { }
+}, {
+  "entityIndex" : "53_entity13489",
+  "entityUrl" : "http://dbpedia.org/resource/Manfred_Bochmann",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Germany" ]
+  },
+  "words" : [ "-LRB-", "2011", "ein", "der", "DDR", "zum", "Ausbildung", "wurde", "Zschorlau", "Geologie", "März", "Bochmann", "Nach", "für", "Minister", "Werkzeugmacher", "November", "hauptamtlicher", "†", "Manfred", "Wirtschaftsstudium", "15", "18", "war", "*", "und", "SED-Funktionär", ".", "-RRB-", "1928", "absolvierte", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Wirtschaftsstudium", "zum", "wurde", "war", "absolvierte", "und", "ein", "SED-Funktionär", "für", "Werkzeugmacher", "hauptamtlicher" ],
+  "text" : "Manfred Bochmann (* 15. März 1928 in Zschorlau; † 18. November 2011) war Minister für Geologie der DDR. Nach Ausbildung zum Werkzeugmacher absolvierte Bochmann ein Wirtschaftsstudium und wurde hauptamtlicher SED-Funktionär. 1967 erfolgte seine Promotion zum Dr.-Ing. mit der gemeinsam mit Günther Lingott angefertigten Arbeit „Wege zur Vervollkommnung der Leitung von Arbeitskollektiven bei der komplexen Rationalisierung der Arbeitsprozesse durch die Entwicklung von Besttechnologien und deren Einführung als Typentechnologien. Untersucht am Beispiel der SDAG Wismut“. 1962 bis 1967 war er Sekretär für Wirtschaft der Gebietsleitung Wismut, danach bis 1974 Staatssekretär und bis 1989 Minister für Geologie. 1974 erhielt er den Vaterländischen Verdienstorden in Silber, 1984 in Gold, 1978 den Orden Banner der Arbeit und 1988 den Stern der Völkerfreundschaft.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "54_entity5241",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Koehn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "United", "office", "Lake", "years", "second", "States", "Amendment", "Francis", "Board", "Crandon", "US", "Constitution", "activist", "--", "12", "environmental", "including", "active", "'s", ",", "Dave", ".", "elected", "1986", "mines", "proposed", "Pine", "Supervisors", "among", "-RRB-", "support", "supervisor", "22", "K.", "-LRB-", "prominent", "longest", "notable", "County", "Superior", "1998", "opposition", "candidate", "Party", "Bayfield", "Seventh-Generation", "Northern", "rights", "causes", "member", "tenures", "Conley", "human", "Wisconsin", "ticket", "politician", "one", "also", "Greens", "Koehn", "White", "treaty", "Ojibwe", "Frank", "first", "Green" ],
+  "adjectives" : [ "prominent", "environmental", "Northern", "Ojibwe", "active", "notable", "human", "first", "second" ],
+  "nouns" : [ "activist", "opposition", "candidate", "ticket", "politician", "treaty", "member", "office", "support", "supervisor" ],
+  "text" : "Francis K. (Frank) Koehn is a prominent activist and politician in Northern Wisconsin. He is most notable for being the first Green Party candidate to be elected to office in the United States when he was elected Bayfield County supervisor on the Lake Superior Greens ticket in 1986. Koehn's 12 years on the Board of Supervisors (1986–1998) is one of the longest tenures in elected office for any Green Party member, and after Dave Conley (22 years) is the second longest among Wisconsin Greens. Koehn has also been active in environmental, treaty rights and human rights causes including opposition to the Crandon and White Pine mines, support of Ojibwe treaty rights, and support for the proposed Seventh-Generation Amendment to the US Constitution. Koehn has paid particular efforts to preserving Lake Superior. In many of these causes, Koehn worked closely with Walter Bresette. He is considered a founding member of the Wisconsin Green Party and remains active in it. Koehn was also a schoolteacher in the South Shore Schools in Port Wing, Wisconsin until recently. He currently lives in Herbster, Wisconsin.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "55_entity5437",
+  "entityUrl" : "http://dbpedia.org/resource/Frederic_Eggleston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Australia" ]
+  },
+  "words" : [ "Brunswick", "Eggleston", "17", "politician", "born", "controversialist", "William", ",", "Melbourne", ".", "Frederic", "October", "1875", "diplomat", "writer", "Australia", "Sir", "lawyer" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "diplomat", "controversialist", "writer", "lawyer" ],
+  "text" : "Sir Frederic William Eggleston was a lawyer, politician, diplomat, writer and controversialist, born in Brunswick, Melbourne, Australia on 17 October 1875.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "56_entity5683",
+  "entityUrl" : "http://dbpedia.org/resource/Ferdinand_Auth",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/German_people" ]
+  },
+  "words" : [ "hessischer", "Politiker", "-LRB-", "26", "27", "SPD", "ein", "ehemaliger", "Ferdinand", "1995", "des", "Abgeordneter", "Auth", "Dezember", "1914", "Hessischen", "†", "Landtags", "Niederkalbach", "war", "*", "und", "ebenda", ".", "August", "-RRB-", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "hessischer", "Politiker", "SPD", "war", "und", "ein", "ehemaliger", "ebenda" ],
+  "text" : "Ferdinand Auth (* 26. August 1914 in Niederkalbach; † 27. Dezember 1995 ebenda) war ein hessischer Politiker (SPD) und ehemaliger Abgeordneter des Hessischen Landtags.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "57_entity6622",
+  "entityUrl" : "http://dbpedia.org/resource/Guillaume_Peltier",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/France" ]
+  },
+  "words" : [ "à", "français", "politique", "27", "est", "chef", "août", ",", "Peltier", ".", "et", "1976", "homme", "le", "un", "Guillaume", "né", "d'entreprise", "Paris" ],
+  "adjectives" : [ ],
+  "nouns" : [ "français", "homme", "politique", "est", "chef", "un", "août", "né", "d'entreprise" ],
+  "text" : "Guillaume Peltier, né le 27 août 1976 à Paris, est un homme politique et chef d'entreprise français.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "58_entity14186",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Claeys",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Politics_of_Belgium" ]
+  },
+  "words" : [ "New", "-LSB-", "political", "Freedom", "ˈfilɪp", "late", "Education", "right-wing", "Member", "Culture", "eurosceptic", "pan-European", "European", ",", ".", "Belgian", "Belang", "Zealand", "Claeys", "-RRB-", "integration", "MEP", ":", ";", "ˈklaːi̯s", "Parliament", "party", "24", "condemns", "-LRB-", "May", "2010", "Philip", "Committee", "substitute", "Belgium.He", "federal", "member", "construction", "Since", "Alliance", "sits", "Foreign", "immigration", "opposed", "Flanders", "Affairs", "social", "born", "politician", "Delegation", "1965", "-RSB-", "Vlaams", "relations", "Australia", "Dutch", "board" ],
+  "adjectives" : [ "eurosceptic", "late", "social", "pan-European", "right-wing", "federal", "political", "European", "ˈfilɪp", "Belgian" ],
+  "nouns" : [ "immigration", "politician", "integration", "member", "MEP", "construction", "party", "substitute", "Delegation", "board" ],
+  "text" : "Philip Claeys (Dutch: [ˈfilɪp ˈklaːi̯s]; born 24 May 1965) is a Belgian politician and Member of the European Parliament (MEP) for Flanders with the Vlaams Belang, a right-wing political party which condemns immigration, social integration, and is opposed the federal construction of Belgium.He sits on its Committee on Foreign Affairs, and is a substitute for the Committee on Culture and Education and a member of the Delegation for relations with Australia and New Zealand. Since late 2010, he has been a board member of the pan-European eurosceptic party European Alliance for Freedom.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "59_entity121",
+  "entityUrl" : "http://dbpedia.org/resource/Anders_Wijkman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Sweden" ]
+  },
+  "words" : [ "United", "issues", "Swedish", "States", "Development", "Parliamentary", "Ivar", "Member", "Assembly", "cooperation", "group", "development", "Public", "European", ",", "'s", "Joint", "-", "Stockholm", ".", "ACP-EU", "Democrats", "Wijkman", "-RRB-", "focused", "Environment", "Parliament", "1944", "-LRB-", "September", "part", "Sven", "Committee", "substitute", "2009", "Party", "related", "member", "Safety", "30", "1999", "Food", "sits", "Health", "Anders", "born", "politician", "change", "People", "also", "climate", "environment", "affairs.He", "Christian", "delegation", "relations", "humanitarian" ],
+  "adjectives" : [ "European", "Swedish", "humanitarian" ],
+  "nouns" : [ "development", "politician", "change", "part", "climate", "substitute", "environment", "affairs.He", "member", "Environment", "delegation", "cooperation", "group" ],
+  "text" : "Anders Ivar Sven Wijkman (born 30 September 1944 in Stockholm) is a Swedish politician who was Member of the European Parliament from 1999 to 2009. As member of the European Parliament, he focused on issues related to climate change, environment, development cooperation and humanitarian affairs.He is a member of the Christian Democrats, part of the European People's Party - European Democrats group. He sits on the European Parliament's Committee on the Environment, Public Health and Food Safety. He is also a substitute for the Committee on Development, a member of the delegation to the ACP-EU Joint Parliamentary Assembly, and a substitute for the delegation for relations with the United States. Anders has been a member of the Swedish parliament, secretary general of the Swedish Red Cross, and president of the International Red Cross Disaster Relief Commission. Anders Wijkman is vice President of Club of Rome and the Tällberg Foundation. He is a member of the Royal Swedish Academy of Sciences.He is also a councillor for the World Future Council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "60_entity151",
+  "entityUrl" : "http://dbpedia.org/resource/Alain_Hutchinson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Belgium" ]
+  },
+  "words" : [ "Group", "-LRB-", "part", "Subcommittee", "Socialist", "Committee", "Libya", "substitute", "vice-chair", "Union", "Socialiste", "December", "Rights", "French", "Development", "Alain", "Member", "10", "group", "sits", "Human", "Parti", "including", "born", "politician", "countries", "European", ",", "'s", "Coordinator", "Arab", ".", "Delegation", "Belgian", "Hutchinson", "Belgium", "-RRB-", "Maghreb", "1949", "relations", "Parliament", "Community" ],
+  "adjectives" : [ "Maghreb", "Belgian" ],
+  "nouns" : [ "politician", "part", "substitute", "vice-chair", "Delegation", "group" ],
+  "text" : "Alain Hutchinson (born 10 December 1949) is a Belgian politician and Member of the European Parliament for the French Community of Belgium with the Parti Socialiste, part of the Socialist Group and sits on the European Parliament's Committee on Development where he is Coordinator for the Socialist group. He is a substitute for the Subcommittee on Human Rights and a vice-chair of the Delegation for relations with the Maghreb countries and the Arab Maghreb Union (including Libya).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "61_entity208",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Pennington",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/British_nationality_law" ]
+  },
+  "words" : [ "--", "British", "-LRB-", "James", "Andrew", "GM", "28", "politician", "2001", "2000", "Pennington", ",", "posthumous", ".", "1", "George", "1960", "-RRB-", "recipient", "Medal", "February", "January" ],
+  "adjectives" : [ "British", "recipient", "posthumous" ],
+  "nouns" : [ "politician", "Medal" ],
+  "text" : "Andrew James Pennington GM (1 February 1960 – 28 January 2000) was a British politician, and a posthumous recipient of the George Medal in 2001.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "62_entity212",
+  "entityUrl" : "http://dbpedia.org/resource/Anne_Roberts",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Canadian" ]
+  },
+  "words" : [ "``", "parent", "Mayor", "education", "left-wing", "issues", "three", "councillors", "Board", "split", "children", "Charlie", "majority", "five", "--", "advisory", "distinguish", "Smith", "Campbell", "active", "committees", "Roberts", ",", "'s", "former", ".", "journalism", "elected", "Progressive", "dubbed", "instructor", "council", "among", "centrist", "Vision", "Coalition", "-RRB-", "Georgia", "District", "party", "Vancouver", "-LRB-", "city", "Parent", "Representatives", "serving", "School", "2002", "member", "Larry", "retired", "Anne", "councillor", "''", "winning", "chair", "Lite", "Classic", "Electors", "form", "trustee", "COPE", "Straight" ],
+  "adjectives" : [ "advisory", "left-wing", "centrist", "active", "Classic", "former" ],
+  "nouns" : [ "parent", "education", "instructor", "city", "council", "chair", "member", "majority", "trustee", "councillor", "party", "journalism" ],
+  "text" : "Anne Roberts is a former journalism instructor (retired) and former Vancouver city councillor. She was elected as a member of the winning majority of Coalition of Progressive Electors in 2002. Before serving on the city council, Roberts was active in education issues as chair of her children's parent advisory committees and as chair of the District Parent Representatives at the Vancouver School Board, on which she was an elected trustee. In council, Roberts was among the five left-wing councillors dubbed \"COPE Classic\" by Charlie Smith at The Georgia Straight to distinguish them from \"COPE Lite\"—the three COPE councillors and Mayor Larry Campbell who split the party to form the centrist Vision Vancouver party. Chair of the Planning and Environment Committee, Roberts was appointed by council as a delegate to the Greater Vancouver Regional District. On council, she spearheaded expansion of child care spaces, advocated that transit money to be spent on buses rather than mega-projects such as RAV (now called the Canada Line), and convinced a majority of city council to deny Wal-Mart's application to build a new store. Roberts also opposed expanded gambling in the city and the 2010 Olympics. Roberts ran for re-election in 2005 placing 19th among 36 candidates with 41,739 votes, thus losing her seat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "63_entity869",
+  "entityUrl" : "http://dbpedia.org/resource/Anja_Meulenbelt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/Netherlands" ]
+  },
+  "words" : [ "die", "internationalen", "ist", "den", "bis", "der", "Niederlande", "wurde", "Essayistin", "Sozialistische", "durch", "vorbei", "*", ",", "Ersten", ".", "Von", "6", "-RRB-", "Generalstaaten", "1945", "Henriëtte", "-LRB-", "Juni", "Kammer", "2011", "sie", "Politikerin", "2003", "Anja", "Socialistische", "für", "Bekannt", "Januar", "niederländische", "Die", "Utrecht", "Partij", "Scham", "feministischen", "Partei", "war", "und", "Bestseller", "Mitglied", "eine", "Meulenbelt", "feministische", "Schriftstellerin" ],
+  "adjectives" : [ "Mitglied", "Bekannt", "Januar" ],
+  "nouns" : [ "vorbei", "feministischen", "internationalen", "war", "ist", "den", "sie", "der", "eine", "feministische", "wurde", "für", "niederländische" ],
+  "text" : "Anja Henriëtte Meulenbelt (* 6. Januar 1945 in Utrecht) ist eine niederländische feministische Schriftstellerin, Essayistin und Politikerin. Von Juni 2003 bis 2011 war sie Mitglied der Ersten Kammer der Generalstaaten für die Socialistische Partij (Sozialistische Partei Niederlande). Bekannt wurde sie durch den internationalen feministischen Bestseller Die Scham ist vorbei.",
+  "patterns" : { }
+} ]

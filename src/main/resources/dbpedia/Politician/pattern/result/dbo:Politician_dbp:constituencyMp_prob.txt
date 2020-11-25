@@ -1,0 +1,6 @@
+id=39  property=dbp:constituencyMp  
+represented-VBN  multiply=0.001838  P(represented|dbp:constituencyMp)=0.103704  P(dbp:constituencyMp|represented)=0.017722    
+first_elected-RB_VBN  multiply=0.001067  P(first_elected|dbp:constituencyMp)=0.044444  P(dbp:constituencyMp|first_elected)=0.024    
+elected_to-VBN_TO  multiply=6.89E-4  P(elected_to|dbp:constituencyMp)=0.066667  P(dbp:constituencyMp|elected_to)=0.010333    
+elected_in-VBN_IN  multiply=3.57E-4  P(elected_in|dbp:constituencyMp)=0.022222  P(dbp:constituencyMp|elected_in)=0.016043    
+

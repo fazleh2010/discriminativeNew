@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity5928",
+  "entityUrl" : "http://dbpedia.org/resource/George_Harry_Webster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:pary" : [ "http://dbpedia.org/resource/Alberta_Liberal_Party" ]
+  },
+  "words" : [ "``", "expert", "Mayor", "-LRB-", "September", "Alberta", "death", "city", "George", "known", "member", "Assembly", "November", "10", "1933", "--", "''", "22nd", "Harry", "Calgary", "politician", "Cowboy", ",", ".", "transportation", "Webster", "Canada", "2", "popularly", "served", "-RRB-", "Legislative", "1926", "1868", "1922" ],
+  "adjectives" : [ "22nd", "Legislative" ],
+  "nouns" : [ "expert", "death", "city", "politician", "member", "Assembly", "transportation" ],
+  "text" : "George Harry Webster (September 2, 1868 – November 10, 1933) was a politician and transportation expert in Alberta, Canada. He served as the 22nd Mayor of the city of Calgary, Alberta from 1922 to 1926 then served as a member of the Legislative Assembly of Alberta from 1926 to his death in 1933. Webster was popularly known as the \"Cowboy Mayor\".",
+  "patterns" : { }
+} ]

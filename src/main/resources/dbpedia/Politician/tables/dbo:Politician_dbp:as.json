@@ -1,0 +1,1285 @@
+[ {
+  "entityIndex" : "1_entity10677",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Mehlman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "General Chairperson of the Republican National Committee", "National Chairperson of the Republican National Committee" ]
+  },
+  "words" : [ "``", "year", "helping", "leading", "political", "Hauer", "Global", "Kenneth", "firm", "companies", "Gump", "leveraging", "Mehlman", "businessman", "Member", "trends", "Head", "Environmental", "Kohlberg", "law", "&", "investment", "Public", ",", "Roberts", "'s", ".", "Strauss", "August", "Brian", "efforts", "Ken", "attorney", "improve", "Prior", "Feld", "-RRB-", "programs", "21", "joining", "-LRB-", "oversees", "American", "serves", "Kravis", "global", "stakeholders", "geopolitical", "invests", "engaging", "public", "responsible", "policy", "''", "Social", "figure", "Affairs", "born", "spent", "also", "Governance", "Akin", "KKR", "assess", "partner", "1966" ],
+  "adjectives" : [ "American", "public", "responsible", "political", "global", "geopolitical" ],
+  "nouns" : [ "firm", "figure", "law", "partner", "year", "attorney", "investment", "businessman", "policy" ],
+  "text" : "Kenneth Brian \"Ken\" Mehlman (born August 21, 1966) is an American businessman, attorney, and political figure. He serves as a Member and Global Head of Public Affairs at global investment firm Kohlberg Kravis Roberts, helping assess and improve the companies in which KKR invests by engaging stakeholders & leveraging geopolitical & public policy trends. Mehlman also oversees the firm’s responsible investment efforts, leading the firm’s Environmental Social Governance programs. Prior to joining KKR, Mehlman spent a year as an attorney and partner at law firm Akin Gump Strauss Hauer & Feld. Mehlman held several national posts in the Republican Party and the George W. Bush Administration. In 2000 he was appointed Director of the White House Office of Political Affairs. Mehlman managed Bush's 2004 re-election campaign, and was 62nd Chairman of the Republican National Committee from 2005–07. In 2007, Bush appointed Mehlman to a five-year term on the U.S. Holocaust Memorial Council. In 2010, Mehlman came out as gay in an interview with journalist Marc Ambinder, making him one of the few prominent openly gay figures in the Republican Party. After coming out, Mehlman advocated for the recognition of same-sex marriage.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity10706",
+  "entityUrl" : "http://dbpedia.org/resource/Kerry_Chikarovski",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Further Education, Training and Employment", "Minister for Employment and Training", "Minister for Industrial Relations", "Minister for Industrial Relations and Employment", "Minister for Women" ]
+  },
+  "words" : [ "leader", "New", "-LRB-", "Leader", "Wales", "Opposition", "Chikarovski", "née", "1998", "Party", "2002", "Anne", "1956", "Assembly", "Liberal", "South", "April", ".", "Kerry", "4", "Bartels", "served", "-RRB-", "Legislative", ";" ],
+  "adjectives" : [ "Legislative", "née" ],
+  "nouns" : [ "leader", "Opposition", "Assembly" ],
+  "text" : "Kerry Anne Chikarovski (née Bartels; 4 April 1956) was the leader of the New South Wales Liberal Party in the New South Wales Legislative Assembly. She served as Leader of the Opposition between 1998 and 2002.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity10811",
+  "entityUrl" : "http://dbpedia.org/resource/Katrina_Hodgkinson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Regional Tourism" ]
+  },
+  "words" : [ "Ann", "New", "-LRB-", "28", "Wales", "March", "Hodgkinson", "Cootamundra", "member", "Nationals", "Assembly", "10", "1999", "Yass", "MP", "Burrinjuck", "born", "politician", "South", "representing", ",", ".", "2015", "Australian", "-RRB-", "Katrina", "Legislative", "1966", "since" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "MP", "Burrinjuck", "politician", "member", "Assembly" ],
+  "text" : "Katrina Ann Hodgkinson MP (born 10 March 1966 in Yass, New South Wales) is an Australian politician. She is a member of the New South Wales Legislative Assembly, representing Cootamundra for The Nationals since 28 March 2015, and Burrinjuck from 1999 to 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity10914",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Humphries",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Resources and Energy", "Minister Assisting the Minister for Health", "Minister for Mental Health and Assistant Minister for Health" ]
+  },
+  "words" : [ "Humphries", "Water", "New", "Mental", "24", "Wales", "John", "March", "2011", "Natural", "Western", "O'Farrell", "2007", "government", "Baird", "Lands", "member", "Nationals", "Assembly", "Minister", "Healthy", "Health", "Cabinet", "politician", "South", "representing", ",", ".", "April", "Barwon", "appointed", "Kevin", "Premier", "Mike", "reshuffle", "Australian", "2014", "Legislative", "Lifestyles", ";", "Resources", "since" ],
+  "adjectives" : [ "Australian", "Legislative", "Healthy" ],
+  "nouns" : [ "government", "reshuffle", "politician", "member", "Assembly" ],
+  "text" : "Kevin John Humphries, an Australian politician, is a member of the New South Wales Legislative Assembly representing Barwon for the Nationals since 24 March 2007. He was the Minister for Healthy Lifestyles and Mental Health between 2011 and 2014; and the Minister for Western New South Wales in the O'Farrell government since April 2011. In April 2014, he was appointed as Minister for Natural Resources, Lands and Water during the Cabinet reshuffle under Premier Mike Baird.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity10935",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Booth_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Culture, Sport and Recreation", "and Minister for Tourism" ]
+  },
+  "words" : [ "Booth", "23", "New", "Wran", "-LRB-", "death", "28", "Wales", "Wallsend", "Kurri", "March", "Labor", "seats", "years", "Kenneth", "Party", "George", "Barrie", "member", "Unsworth", "1959", "February", "cabinets", "Minister", "Assembly", "November", "--", "Treasurer", "politician", "South", "representing", ",", ".", "1", "Crown", "Neville", "Ken", "1981", "Australian", "-RRB-", "Legislative", "1926", "1988", "21" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "death", "politician", "member", "Assembly" ],
+  "text" : "Kenneth George (Ken) Booth (23 February 1926 – 1 November 1988) was a New South Wales politician, Treasurer, and Minister of the Crown in the cabinets of Neville Wran and Barrie Unsworth. From 1981 to 1988 he was the Treasurer of New South Wales. He was a member of the New South Wales Legislative Assembly for 28 years from 21 March 1959 until his death on 1 November 1988 for the Australian Labor Party, representing the seats of Kurri Kurri and Wallsend.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity11230",
+  "entityUrl" : "http://dbpedia.org/resource/Kym_Mayes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Housing, Urban Development", "and Local Government Relations", "Minister for Environment and Land Management", "Minister for Environment and Natural Resources" ]
+  },
+  "words" : [ "23", "-LRB-", "Labor", "Party", "1993", "Mayes", "represented", "Kym", "Assembly", "minister", "Unley", "born", "politician", "South", "portfolios", "House", "April", ".", "seat", "1985", "1982", "Australian", "various", "-RRB-", "Milton", "1947" ],
+  "adjectives" : [ "Australian", "various" ],
+  "nouns" : [ "seat", "minister", "politician" ],
+  "text" : "Milton Kym Mayes (born 23 April 1947) was an Australian politician who represented the South Australian House of Assembly seat of Unley from 1982 to 1993 for the Australian Labor Party. He was a minister for various portfolios from 1985 to 1993.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity13521",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_Kinnock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "European Commissioner for Parliamentary Relations, Transport and Energy", "European Commissioner for Transport, Credit, Investment, and Consumer Protection", "European Commissioner for Budget, Personnel and Administration", "European Commissioner for Administrative Affairs, Audit and Anti-Fraud" ]
+  },
+  "words" : [ "leader", "Opposition", "political", "Labour", "led", "1970", "Commons", "Member", "Neil", "surprise", "making", "House", "history", ",", ".", "1942", "Islwyn", "1983", "served", "-RRB-", "Parliament", "party", "-LRB-", "Leader", "28", "ahead", "March", "Bedwellty", "polls", "defeat", "general", "Party", "1995", "1992", "Baron", "longest-serving", "resigned", "Gordon", "British", "election", "born", "politician", "despite", "consecutive", "opinion", "PC", "Kinnock", "fourth", "first" ],
+  "adjectives" : [ "general", "British", "political", "fourth", "longest-serving", "consecutive" ],
+  "nouns" : [ "defeat", "surprise", "leader", "election", "politician", "Opposition", "history", "party", "opinion" ],
+  "text" : "Neil Gordon Kinnock, Baron Kinnock PC (born 28 March 1942) is a British Labour Party politician. He served as a Member of Parliament from 1970 until 1995, first for Bedwellty and then for Islwyn. He was the Leader of the Labour Party and Leader of the Opposition from 1983 until 1992, making him the longest-serving Leader of the Opposition in British political history. Kinnock led the Labour Party to a surprise fourth consecutive defeat in the 1992 general election, despite the party being ahead in most opinion polls, after which he resigned as leader and from the House of Commons. Three years later he became a European Commissioner. He went on to become the Vice-President of the European Commission under Romano Prodi from 1999 to 2004. Until the summer of 2009, he was also the Chairman of the British Council and the President of Cardiff University.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity13539",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Minchin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Industry, Science and Technology", "Minister for Industry, Tourism and Resources", "Minister for Resources and Energy", "Minister for Science" ]
+  },
+  "words" : [ "``", "Consul-General", "New", "June", "-LRB-", "York", "serves", "2011", "1953", "Howard", "previously", "Minchin", "1993", "member", "July", "''", "15", "minister", "Government", "Nick", "Liberal", "born", "politician", "Nicholas", "representing", "South", "Hugh", ",", "April", "former", ".", "Senate", "currently", "Australian", "served", "-RRB-", "Australia", "cabinet" ],
+  "adjectives" : [ "Australian", "Liberal", "former" ],
+  "nouns" : [ "Consul-General", "minister", "politician", "member", "cabinet" ],
+  "text" : "Nicholas Hugh \"Nick\" Minchin (born 15 April 1953) is a former Australian politician and currently serves as the Australian Consul-General in New York. He previously served as a Liberal member of the Australian Senate representing South Australia from July 1993 to June 2011, and a former cabinet minister in the Howard Government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity13767",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_Pickard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Energy", "Minister for Natural Resources", "Minister for Minerals and Energy" ]
+  },
+  "words" : [ "New", "Eric", "Wales", "retirement", "upon", "years", "soon", "1973", "cabinets", "Neil", "Minister", "Assembly", "--", "13", "Nick", "17", "William", ",", "April", ".", "seat", "appointed", "3", "NSW", "Pickard", "-RRB-", "London", "Sir", "expenses", "politics", "abolition", "-LRB-", "abuse", "26", "May", "Edward", "2007", "Party", "1991", "member", "February", "November", "election", "recalled", "Liberal", "politician", "South", "Greiner", "Agent-General", "Crown", "Willis", "due", "1929", "Legislative", "Australia" ],
+  "adjectives" : [ "due", "Legislative" ],
+  "nouns" : [ "seat", "abolition", "election", "abuse", "politician", "member", "retirement", "Assembly" ],
+  "text" : "Neil Edward William Pickard (13 February 1929 – 13 April 2007) was a New South Wales politician and Minister of the Crown in the cabinets of Sir Eric Willis and Nick Greiner. He was a member of the New South Wales Legislative Assembly for 26 years from 17 November 1973 to 3 May 1991 for the Liberal Party of Australia until his retirement from politics upon the abolition of his seat at the election. He was appointed NSW Agent-General in London, but was recalled soon after due to expenses abuse.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity7877",
+  "entityUrl" : "http://dbpedia.org/resource/Julius_Caesar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Dictator_perpetuo", "http://dbpedia.org/resource/List_of_Roman_dictators" ]
+  },
+  "words" : [ "44", "-LSB-", "ˈɡaː.i.ʊs", "ˈjuː.li.ʊs", "alliance", "ˈkae̯.sar", "Caesar", "demise", "several", "political", "led", "years", "Gaius", "July", "events", "attempts", "--", "13", "Populares", "15", "author", "Julius", ",", ".", "Senate", "dominated", "among", "Latin", "-RRB-", ":", "60", ";", "formed", "Younger", "support", "BC", "politics", "-LRB-", "role", "critical", "Empire", "frequent", "March", "notable", "Republic", "general", "known", "Optimates", "power", "amass", "prose", "opposed", "Pompey", "within", "Crassus", "Cato", "politician", "Roman", "played", "Cicero", "100", "-RSB-", "Classical", "rise" ],
+  "adjectives" : [ "general", "critical", "ˈkae̯.sar", "several", "frequent", "political", "Classical", "Roman", "notable" ],
+  "nouns" : [ "prose", "BC", "role", "alliance", "author", "politician", "Latin", "demise", "power", "rise", "support" ],
+  "text" : "Gaius Julius Caesar (Classical Latin: [ˈɡaː.i.ʊs ˈjuː.li.ʊs ˈkae̯.sar]; 13 July 100 BC – 15 March 44 BC), known as Julius Caesar, was a Roman politician, general, and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. In 60 BC, Caesar, Crassus, and Pompey formed a political alliance that dominated Roman politics for several years. Their attempts to amass power as Populares were opposed by the Optimates within the Roman Senate, among them Cato the Younger with the frequent support of Cicero. Caesar's victories in the Gallic Wars, completed by 51 BC, extended Rome's territory to the English Channel and the Rhine. Caesar became the first Roman general to cross both when he built a bridge across the Rhine and conducted the first invasion of Britain. These achievements granted him unmatched military power and threatened to eclipse the standing of Pompey, who had realigned himself with the Senate after the death of Crassus in 53 BC. With the Gallic Wars concluded, the Senate ordered Caesar to step down from his military command and return to Rome. Caesar refused the order, and instead marked his defiance in 49 BC by crossing the Rubicon with the 13th Legion, leaving his province and illegally entering Roman Italy under arms. Civil war resulted, and Caesar's victory in the war put him in an unrivalled position of power and influence. After assuming control of government, Caesar began a programme of social and governmental reforms, including the creation of the Julian calendar. He centralised the bureaucracy of the Republic and was eventually proclaimed \"dictator in perpetuity\", giving him additional authority. But the underlying political conflicts had not been resolved, and on the Ides of March (15 March) 44 BC, Caesar was assassinated by a group of rebellious senators led by Marcus Junius Brutus. A new series of civil wars broke out, and the constitutional government of the Republic was never fully restored. Caesar's adopted heir Octavian, later known as Augustus, rose to sole power after defeating his opponents in the civil war. Octavian set about solidifying his power, and the era of the Roman Empire began. Much of Caesar's life is known from his own accounts of his military campaigns, and from other contemporary sources, mainly the letters and speeches of Cicero and the historical writings of Sallust. The later biographies of Caesar by Suetonius and Plutarch are also major sources. Caesar is considered by many historians to be one of the greatest military commanders in history.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity7996",
+  "entityUrl" : "http://dbpedia.org/resource/John_Redcliffe-Maud,_Baron_Redcliffe-Maud",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Permanent Secretary of the", "Board of Education" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "bishop", "CBE", "John", "Eton", "see", "servant", "Bristol", "civil", "Baron", "February", "Oxford", "November", "''", "--", "British", "Maud", "GCB", ",", ".", "Primatt", "Redcliffe-Maud", "educated", "3", "redirects", "1982", "Born", "-RRB-", "College", "1906", "diplomat", "20" ],
+  "adjectives" : [ "British", "civil" ],
+  "nouns" : [ "servant", "bishop", "diplomat" ],
+  "text" : "(\"John Maud\" redirects here. For the bishop, see John Maud (bishop).) John Primatt Redcliffe-Maud, Baron Redcliffe-Maud GCB CBE (3 February 1906 – 20 November 1982) was a British civil servant and diplomat. Born in Bristol, Maud was educated at Eton College and New College, Oxford. He gained a Second in Classical Moderations in 1928 and a First in Literae Humaniores ('Greats') in 1928.At Oxford he was a member of the Oxford University Dramatic Society (OUDS). In 1928, he gained the one-year Henry P. Davison scholarship to Harvard University where he was awarded an A.B. in 1929. From 1929 to 1932 he was a Junior Research Fellow University College, Oxford and from 1932-39 Fellow (Praelector in Politics) and Dean of the college. He was awarded a Rhodes Travelling Scholarship to Africa in 1932 and held a University Lectureship in Politics at Oxford University, 1938-9. During World War II, he was Master of Birkbeck College and was also based at Reading Gaol, working for the Ministry of Food. He became a Commander of the Order of the British Empire in 1942, and after the war, he worked at the Ministry of Education (1945–1952), rising to Permanent Secretary and then the Ministry of Fuel and Power until 1958. He became a Knight Commander of the Order of the Bath in 1946, and was raised to a Knight Grand Cross in 1955. Inter alia, Maud appeared on the BBC programme The Brains Trust in 1958. He was High Commissioner to the Union of South Africa from 1959 to 1961, and Ambassador from 1961, when the country became a republic and left the Commonwealth. In 1963, he became Master of University College, Oxford, where he had been a Fellow before the Second World War. In March 1964, Maud was appointed by Sir Keith Joseph, at the request of local council associations, to head a departmental committee looking into the management of local government. The Maud Committee reported three years later. During the course of the inquiry, Maud was chosen to head a Royal Commission on the reform of all local government in England. He was awarded a life peerage, hyphenating his surname to become Baron Redcliffe-Maud, of the City and County of Bristol in 1967. The Report of the Royal Commission on Local Government in England, popularly known as the Redcliffe-Maud Report, was published in 1969. It advocated the wholesale reform of local council boundaries and the institution of large unitary councils based on the principle of mixing rural and urban areas. Accepted by the Labour government of Harold Wilson with minor changes, the opposition from rural areas convinced the Conservative opposition to oppose it and no further action was taken after the Conservatives won the 1970 general election. He retired as Master of University College in 1976, to be succeeded by the leading lawyer Lord Goodman. His 1973 portrait by Ruskin Spear can be seen in the National Portrait Gallery, London. Another portrait hangs in the Hall at University College in Oxford. Redcliffe-Maud was married to Jean Hamilton, who was educated at Somerville College, Oxford. His son, Humphrey Maud, was one of Benjamin Britten's favourite boys while he was at Eton. Sir John intervened to curtail Humphrey's frequent visits to stay with Britten on his own. The incident is described in John Bridcut's Britten's Children. John Redcliffe-Maud is buried in Holywell Cemetery, Oxford. His archive is held by the London School of Economics Library. Redcliffe-Maud House at the University College Annex known as \"Stavertonia\" in North Oxford is named in honour of him.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity8077",
+  "entityUrl" : "http://dbpedia.org/resource/John_Moore-Brabazon,_1st_Baron_Brabazon_of_Tara",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister of War Transport" ]
+  },
+  "words" : [ "-LRB-", "May", "Brabazon", "John", "England", "War", "Cuthbert", "aviation", "GBE", "pioneer", "World", "1st", "Englishman", "MC", "Production", "Tara", "power", "Baron", "February", "Minister", "--", "II", "pilot", "17", "Moore-Brabazon", "politician", "heavier-than-air", ",", ".", "1964", "English", "Theodore", "PC", "1884", "machine", "Conservative", "served", "8", "-RRB-", "Transport", "Aircraft", "first" ],
+  "adjectives" : [ "English", "Conservative", "heavier-than-air", "first" ],
+  "nouns" : [ "pilot", "machine", "politician", "aviation", "power", "pioneer" ],
+  "text" : "John Theodore Cuthbert Moore-Brabazon, 1st Baron Brabazon of Tara, GBE, MC, PC (8 February 1884 – 17 May 1964) was an English aviation pioneer and Conservative politician. He was the first Englishman to pilot a heavier-than-air machine under power in England, and he served as Minister of Transport and Minister of Aircraft Production during World War II.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity8275",
+  "entityUrl" : "http://dbpedia.org/resource/John-Paul_Langbroek",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Employment", "Minister for Employment and Skills" ]
+  },
+  "words" : [ "leader", "Opposition", "John-Paul", "LNP", "hold", "National", "post", "state", "January", "Assembly", "--", "minister", ",", ".", "seat", "Surfers", "person", "-RRB-", "Newman", "Paradise", "since", "-LRB-", "successor", "Leader", "2011", "2009", "defeat", "Party", "government", "2004", "member", "Langbroek", "parliamentary", "31", "side", "election", "Liberal", "born", "politician", "representing", "centre-right", "Honoré", "1961", "2015", "Australian", "Legislative", "first", "merger", "Queensland" ],
+  "adjectives" : [ "centre-right", "Australian", "Liberal", "Legislative", "parliamentary", "first" ],
+  "nouns" : [ "leader", "side", "successor", "election", "minister", "politician", "Opposition", "LNP", "seat", "defeat", "government", "post", "person", "member", "state", "Assembly", "merger" ],
+  "text" : "John-Paul Honoré Langbroek (born 31 January 1961) is an Australian politician who has been a member of the Legislative Assembly of Queensland representing the centre-right Liberal Party and its successor, the centre-right Liberal National Party, in the seat of Surfers Paradise since 2004. He was Leader of the Opposition and parliamentary leader of the LNP from 2009 to 2011—the first person from the Liberal side of the merger to hold the post. He was a minister in the Newman government before its defeat at the 2015 state election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity8276",
+  "entityUrl" : "http://dbpedia.org/resource/James_To",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Representative for Kowloon South-west", "Representative for Kowloon West" ]
+  },
+  "words" : [ "11", "Hong", "-LRB-", "James", "Tsim", "West", "born", "representing", "March", "Kowloon", "also", ",", "Yau", "Council", ".", "1963", "constituency", "-RRB-", "member", "Legislative", "Kun-sun", "District", "Kong", "Mong" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "constituency", "member", "Kun-sun", "Council" ],
+  "text" : "James To Kun-sun (born 11 March 1963, Hong Kong) is a member of the Legislative Council of Hong Kong representing the Kowloon West constituency. James To was also a member of the Yau Tsim Mong District Council .",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity8360",
+  "entityUrl" : "http://dbpedia.org/resource/Josh_Frydenberg",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for the Environment", "Minister for Resources and Energy", "Minister for Northern Australia", "Minister for Resources and Northern Australia", "Minister Assisting the Prime Minister for Northern Australia" ]
+  },
+  "words" : [ "``", "-LRB-", "September", "roles", "Kooyong", "2010", "Representatives", "promoted", "serving", "Turnbull", "Party", "Energy", "1971", "Northern", "member", "Josh", "Frydenberg", "July", "Joshua", "Minister", "''", "Anthony", "Government", "17", "Liberal", "born", "politician", "representing", "ministerial", "House", ",", ".", "August", "junior", "seat", "Abbott", "currently", "2015", "Australian", "various", "served", "2013", "-RRB-", "Environment", "Resources", "Australia", "since" ],
+  "adjectives" : [ "Australian", "various", "ministerial" ],
+  "nouns" : [ "seat", "Energy", "politician", "member", "Frydenberg", "Environment", "junior" ],
+  "text" : "Joshua Anthony \"Josh\" Frydenberg (born 17 July 1971) is an Australian politician. He has been a member of the Australian House of Representatives for the seat of Kooyong representing the Liberal Party since August 2010. Frydenberg served in various junior ministerial roles in the Abbott Government from 2013 before being promoted as the Minister for Resources, Energy and Northern Australia in the Turnbull Government in September 2015. He is currently serving as the Minister for the Environment and Energy.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity8705",
+  "entityUrl" : "http://dbpedia.org/resource/Jillian_Skinner",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Science and Medical Research" ]
+  },
+  "words" : [ "New", "-LRB-", "Leader", "Wales", "Jillian", "2011", "Research", "Melbourne", "Shore", "2007", "Baird", "government", "Party", "1994", "member", "North", "Minister", "Assembly", "Gell", "MP", "Health", "Liberal", "Deputy", "born", "politician", "South", "representing", "Skinner", "also", ",", ".", "August", "5", "2015", "Australian", "2014", "served", "-RRB-", "Legislative", "Medical", "1944", "since" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "MP", "government", "politician", "member", "Assembly" ],
+  "text" : "Jillian Gell Skinner MP (born 5 August 1944 in Melbourne), an Australian politician, is the New South Wales Minister for Health in the Baird government. Skinner is a member of the New South Wales Legislative Assembly representing North Shore for the Liberal Party since 1994 and was the Deputy Leader of the New South Wales Liberal Party from 2007 to 2014. Between 2011 and 2015 Skinner also served as the Minister for Medical Research.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity8716",
+  "entityUrl" : "http://dbpedia.org/resource/Jann_Stuckey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Events and Games", "Minister for Tourism, Manufacturing and Small Business" ]
+  },
+  "words" : [ "``", "-LRB-", "Stuckey", "2012", "Shadow", "newly", "Tourism", "2008", "Party", "National", "2004", "Currumbin", "member", "Nationals", "Anne", "electorate", "Manufacturing", "January", "February", "Assembly", "Minister", "1955", "Business", "''", "election", "Small", "Janet", "Liberal", "joined", "born", "politician", "representing", "merged", ",", ".", "elected", "Jann", "Australian", "7", "-RRB-", "Legislative", "formed", "first", "21", "Queensland" ],
+  "adjectives" : [ "Australian", "Legislative", "first" ],
+  "nouns" : [ "election", "politician", "member", "electorate", "Assembly" ],
+  "text" : "Janet Anne \"Jann\" Stuckey (born 21 January 1955) is an Australian politician representing the electorate of Currumbin in the Legislative Assembly of Queensland. She was first elected on 7 February 2004 as a member of the Liberal Party. She joined the newly formed Liberal National Party of Queensland in 2008 when the Liberal Party and the Nationals merged in Queensland. Before the 2012 election, she was the Shadow Minister for Tourism, Small Business and Manufacturing. She was the Shadow Minister for Small Business, Job Creation, Fair Trading and Industrial Relations and the Shadow Minister for Women. She has previously been the Shadow Minister for Public Works and Information and Communication Technology between 2010 and 2011. Before defeating government minister Merri Rose at the 2004 state election, Stuckey ran a successful business.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity8726",
+  "entityUrl" : "http://dbpedia.org/resource/Jodi_McKay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Major Events, Hospitality and Racing", "Minister for Medical Research", "Minister for Tourism," ]
+  },
+  "words" : [ "New", "held", "Wales", "Jodi", "Commerce", "governments", "Tourism", "number", "Assisting", "responsibilities", "Keneally", "represented", "Assembly", "Minister", "Business", "Women", "Hunter", "including", "Small", "16", "McKay", ",", "Leyanne", ".", "August", "junior", "-RRB-", "Medical", "since", "-LRB-", "Strathfield", "Science", "2011", "Newcastle", "Research", "Labor", "serving", "defeat", "2008", "2007", "Party", "previously", "member", "election", "Health", "born", "politician", "Rees", "South", "ministerial", "2015", "Australian", "Legislative", "1969", "Cancer" ],
+  "adjectives" : [ "Australian", "Legislative", "ministerial" ],
+  "nouns" : [ "defeat", "number", "election", "politician", "member", "Assembly", "junior" ],
+  "text" : "Jodi Leyanne McKay (born 16 August 1969) is an Australian politician. She is a member of the New South Wales Legislative Assembly, having represented Strathfield for the Australian Labor Party since 2015. She previously represented Newcastle from 2007 until her defeat at the 2011 election. Between 2008 and 2011, McKay held a number of junior ministerial responsibilities in the Rees and Keneally governments, including serving as the Minister for the Hunter, Tourism, Small Business, Science and Medical Research, Commerce, and Women, and Minister Assisting the Minister for Health (Cancer).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity8787",
+  "entityUrl" : "http://dbpedia.org/resource/John_Ajaka",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Citizenship and Communities" ]
+  },
+  "words" : [ "New", "-LRB-", "Wales", "John", "Ajaka", "parliament", "Council", "second", "Disability", "O'Farrell", "2007", "Baird", "government", "Party", "George", "previously", "Lebanese", "member", "January", "1956", "Minister", "Multiculturalism", "13", "Ageing", "Liberal", "born", "politician", "South", "representing", ",", "April", ".", "August", "Services", "2015", "Australian", "2014", "2013", "served", "-RRB-", "Legislative", "Illawarra", "Australia", "first", "since" ],
+  "adjectives" : [ "Australian", "Legislative", "first", "second" ],
+  "nouns" : [ "government", "politician", "member", "parliament" ],
+  "text" : "John George Ajaka (born 13 January 1956), an Australian politician, is the New South Wales Minister for Ageing since April 2014, the Minister for Disability Services since August 2013, and the Minister for Multiculturalism since April 2015 in the second Baird government. Ajaka is a member of the New South Wales Legislative Council since 2007, representing the Liberal Party of Australia and he is the first Liberal Party Lebanese Australian member of an Australian parliament. Ajaka has previously served as the Minister for the Illawarra during 2013 and 2015 in the O'Farrell and first Baird government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity9135",
+  "entityUrl" : "http://dbpedia.org/resource/Jamie_Briggs",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Regional Development and Minister for Road Safety", "Minister for Cities and the Built Environment" ]
+  },
+  "words" : [ "。", "他曾經擔任澳洲城市及建築環境部部長", "自2008年開始", "1977年6月9日", "傑米", "（", "）", "他的黨籍是澳洲自由黨", "，", "是一位澳洲政治人物", "Briggs", "－", "他是梅約選區選出的澳大利亞眾議院的議員", "布瑞格斯", "Jamie", "·" ],
+  "adjectives" : [ ],
+  "nouns" : [ "。", "傑米", "，", "－" ],
+  "text" : "傑米·布瑞格斯（Jamie Briggs，1977年6月9日－）是一位澳洲政治人物，他的黨籍是澳洲自由黨。自2008年開始，他是梅約選區選出的澳大利亞眾議院的議員。他曾經擔任澳洲城市及建築環境部部長。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity9549",
+  "entityUrl" : "http://dbpedia.org/resource/Julie_Sutton_(mayor)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Administrator", "Deputy Mayor" ]
+  },
+  "words" : [ "New", "Warringah", "Mayor", "-LRB-", "JP", "Wales", "Councillor", "2002-2003", "Council", "1996", "1995", "previously", "1937", "Marriage", "--", "born", "politician", "Sutton", "South", "Celebrant", ",", ".", "former", "elected", "Julie", "-RRB-" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "politician", "Councillor" ],
+  "text" : "Julie Sutton JP (born. 1937) is a former New South Wales politician and Marriage Celebrant, elected as a Councillor of Warringah Council and was previously Mayor of Warringah from 1995–1996 and 2002-2003.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity9551",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lloyd_Waddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Youth and Community Services", "Minister for Child Welfare and Social Welfare" ]
+  },
+  "words" : [ "DFC", "``", "New", "becoming", "officer", "Wales", "John", "World", "December", "later", "Morotai", "Assembly", "Minister", "US", "10", "--", "11", "II", "took", "pilots", "went", "aviator", "Air", ",", "'s", ".", "April", "1987", "senior", "RAAF", "Flying", "served", "Waddy", "-RRB-", "Squadron", "Medal", "1945", "-LRB-", "September", "Mutiny", "Force", "Cross", "part", "War", "enemy", "shot", "eight", "Royal", "OBE", "member", "1916", "earning", "''", "fifteen", "pilot", "Distinguished", "awarded", "West", "aircraft", "one", "South", "also", "No.", "command", "Crown", "Pacific", "Australian", "80", "Legislative", "fighter", "Lloyd", "Desert", "top-scoring", "Australia", "aces" ],
+  "adjectives" : [ "senior", "Legislative", "top-scoring" ],
+  "nouns" : [ "pilot", "officer", "aviator", "aircraft", "part", "member", "fighter", "Squadron", "enemy", "Medal", "No.", "Assembly" ],
+  "text" : "John Lloyd Waddy, OBE, DFC (10 December 1916 – 11 September 1987) was a senior officer and aviator in the Royal Australian Air Force (RAAF), and later served as a member of the New South Wales Legislative Assembly and Minister of the Crown. As a fighter pilot during World War II, he shot down fifteen enemy aircraft in the Desert War, becoming one of Australia's top-scoring aces and earning the Distinguished Flying Cross. He went on to command No. 80 Squadron in the South West Pacific, where he was awarded the US Air Medal. He was also one of eight senior pilots who took part in the \"Morotai Mutiny\" of April 1945. Discharged from the Permanent Air Force at the end of the war, Waddy took a commission in the RAAF Reserve, leading the organisation as a group captain in the early 1950s. He was active in business and in veterans' groups, and was appointed an Officer of the Order of the British Empire in 1955. As the Liberal Member for Kirribilli from 1962 to 1976, he held cabinet posts in the New South Wales Parliament, including Minister for Child Welfare and Social Welfare (later Youth and Community Services), Minister for Health, and Minister for Police and Services. He retired from politics in 1976, and died in 1987 at the age of seventy.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity9905",
+  "entityUrl" : "http://dbpedia.org/resource/John_Barilaro",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Education and Training", "Minister for Regional Infrastructure and Services", "Minister for Trade, Tourism and Major Events" ]
+  },
+  "words" : [ "``", "New", "Barilaro", "Monaro", "Wales", "electoral", "John", "2011", "Regional", "second", "Tourism", "October", "Baird", "government", "previously", "Skills", "Development", "member", "Nationals", "Minister", "Assembly", "Business", "''", "Small", "Domenic", "politician", "South", "representing", "Giovanni", ",", "April", ".", "2015", "Australian", "2014", "district", "served", "Legislative", "first", "since" ],
+  "adjectives" : [ "Australian", "electoral", "Legislative", "first", "second" ],
+  "nouns" : [ "government", "politician", "district", "member", "Assembly" ],
+  "text" : "Giovanni Domenic \"John\" Barilaro, an Australian politician, is the New South Wales Minister for Regional Development and Minister for Skills since April 2015, and the Minister for Small Business since October 2014 in the second Baird government. Barilaro is a member of the New South Wales Legislative Assembly representing the electoral district of Monaro for the Nationals since 2011. He has previously served as the Minister for Regional Tourism in the first Baird government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity9911",
+  "entityUrl" : "http://dbpedia.org/resource/Jai_Rowell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Healthy Lifestyles and Mental Health" ]
+  },
+  "words" : [ "New", "Mental", "-LRB-", "Wales", "2011", "ca.", "Travers", "Party", "Baird", "Assistant", "member", "Assembly", "Minister", "1977", "Health", "Cabinet", "Liberal", "born", "politician", "South", "representing", "Rowell", ",", ".", "April", "appointed", "Premier", "Mike", "Jai", "reshuffle", "Wollondilly", "Australian", "2014", "-RRB-", "Legislative", "since" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "reshuffle", "politician", "member", "Assembly" ],
+  "text" : "Jai Travers Rowell (born ca. 1977), an Australian politician, is a member of the New South Wales Legislative Assembly representing Wollondilly for the Liberal Party since 2011. In April 2014 Rowell was appointed as Minister for Mental Health and Assistant Minister for Health during the Cabinet reshuffle under Premier Mike Baird.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity10520",
+  "entityUrl" : "http://dbpedia.org/resource/John_Klunder",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Infrastructure", "Minister for Mineral Resources" ]
+  },
+  "words" : [ "22", "-LRB-", "John", "Labor", "seats", "Cornelis", "Party", "Klunder", "Newland", "1993", "represented", "1979", "Heinz", "Assembly", "November", "1977", "born", "politician", "South", "House", ".", "1985", "1940", "1982", "Australian", "-RRB-", "Todd" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "politician" ],
+  "text" : "John Heinz Cornelis Klunder (born 22 November 1940) was an Australian politician who represented the South Australian House of Assembly seats of Newland from 1977 to 1979 and 1982 to 1985 and Todd from 1985 to 1993 for the Australian Labor Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity4500",
+  "entityUrl" : "http://dbpedia.org/resource/Estanislao_Figueras",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "King of Spain", "Prime Minister of Spain" ]
+  },
+  "words" : [ "de", "-LRB-", "político", "Poder", "del", "Figueras", "Moragas", "durante", "un", "presidente", "11", "noviembre", "13", "español", "Barcelona", ",", "1819-Madrid", ".", "República", "la", "1882", "fue", "-RRB-", "y", "Ejecutivo", "Primera", "Estanislao" ],
+  "adjectives" : [ ],
+  "nouns" : [ "español", "político", "fue", "un", "1819-Madrid" ],
+  "text" : "Estanislao Figueras y Moragas (Barcelona, 13 de noviembre de 1819-Madrid, 11 de noviembre de 1882) fue un político español, presidente del Poder Ejecutivo durante la Primera República.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity4620",
+  "entityUrl" : "http://dbpedia.org/resource/Eddie_Obeid",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Minister_for_Primary_Industries_(New_South_Wales)" ]
+  },
+  "words" : [ "``", "Laborista", "perteneciente", "de", "representación", "casa", "legislatura", "con", "fuerte", "político", "cabo", "Nueva", "Terrigals", "retirarse", "del", "anunció", "Consejo", "derecha", "un", "concluyese", "mayo", "Eddie", "antiguo", "entre", "10", "como", "minerales", "persona", "pesca", "el", "en", "ideas", ",", "miembro", "Moses", ".", "muchos", "1943", "Sur", "Los", "anticipadamente", "familiares", "Partido", "ministro", "Australiano", "política", "-RRB-", "OAM", "refiriendo", "marzo", "activo", "que", "influencia", "-LRB-", "25", "2011", "Edward", "referidas", "por", "primera", "2003", "1991", "Fue", "1999", "''", "decisión", "su", "Terrigal", "parlamentaria", "motivos", "gran", "una", "menudo", "Obeid", "australiano", "playa", "Antes", "Legislativo", "la", "2015", "sección", "Gales", "llamado", "fue", "y", "así", "recursos", "octubre", "carrera", "considerado", "reunión", "Durante", "porque", "llevada" ],
+  "adjectives" : [ "y", "menudo" ],
+  "nouns" : [ "como", "representación", "Terrigal", "persona", "con", "político", "Obeid", "miembro", "australiano", "referidas", "anunció", "por", "derecha", "llamado", "fue", "Fue", "un", "antiguo", "así", "refiriendo", "considerado", "porque" ],
+  "text" : "Edward (\"Eddie\") Moses Obeid OAM (25 de octubre de 1943), fue un antiguo político australiano, miembro activo del Consejo Legislativo de Nueva Gales del Sur entre 1991 y 2011, en representación del Partido Laborista Australiano. Fue ministro de pesca y ministro de recursos minerales entre 1999 y 2003. Antes de que concluyese la legislatura del Consejo Legislativo en marzo de 2015, Obeid anunció su decisión de retirarse anticipadamente el 10 de mayo de 2011, refiriendo motivos familiares. Durante su carrera parlamentaria, Obeid fue considerado por muchos como una persona con una gran influencia política en el Partido Laborista de Nueva Gales del Sur, perteneciente a la fuerte sección de ideas de derecha, a menudo referidas como Los Terrigals, llamado así porque su primera reunión fue llevada a cabo en la casa de la playa de Obeid en Terrigal. Se afirmó que Obeid debía haberse retirado en las elecciones estatales de 2011, antes de que su mandato hubiese concluido, sin embargo optó por esperar hasta que las elecciones ya habían pasado. Obeid, que entró en el partido laborista en 1972, terminando su militancia con el partido en 2013 después de ser acusado de desacreditar al partido.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity18698",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Coutts",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/President_of_Uganda" ]
+  },
+  "words" : [ "die", "Oktober", "23", "-LRB-", "britischer", "britischen", "ein", "Coutts", "bis", "zunächst", "der", "MBE", "Kolonialbeamter", "zum", "letzter", "von", "Fleming", "GCMG", "1912", "1955", "Walter", "†", "Vincent", "14", "war", "*", "und", ",", "er", "erster", ".", "Kronkolonie", "Grenadinen", "Von", "Vom", "Verwalter", "-RRB-", "Generalgouverneur", "Uganda", ";", "1948", "Sir", "Saint", "1988" ],
+  "adjectives" : [ ],
+  "nouns" : [ "britischer", "zum", "letzter", "war", "und", "ein", "er", "erster", "zunächst" ],
+  "text" : "Sir Walter Fleming Coutts GCMG, MBE (* 1912; † 1988) war ein britischer Kolonialbeamter und erster und letzter Generalgouverneur von Uganda. Von 1948 bis 1955 war er zunächst Verwalter der britischen Kronkolonie Saint Vincent und die Grenadinen. Vom 14. Oktober bis zum 23. Oktober 1959 war er amtierender Gouverneur von Kenia. Am 18. November 1961 wurde er zunächst Gouverneur von Uganda. Als Uganda am 9. Oktober 1962 die Unabhängigkeit erhielt, wurde Coutts Generalgouverneur und repräsentierte damit Königin Elisabeth II. als Staatsoberhaupt. Als Uganda ein Jahr später am 9. Oktober 1963 Republik wurde, übergab Coutts das Amt des Staatsoberhaupts an den zuvor gewählten Präsidenten Edward Mutesa. Normdaten (Person): LCCN: no2007154080 | VIAF: 61339594 |",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity18728",
+  "entityUrl" : "http://dbpedia.org/resource/Willy_De_Clercq",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "European Commissioner for External Relations, Nuclear Affairs and Trade" ]
+  },
+  "words" : [ "que", "de", "ibíd", "-LRB-", "político", "28", "2011", "Elvire", "parte", "Unión", "abogado", "Clercq", "un", "Comisión", "entre", "De", "ejecutivo", "Hector", "julio", ",", "poder", "-", ".", "Europea", "1985", "Gante", "la", "fue", "belga", "8", "-RRB-", "y", "1927", "Clarisse", "Willy", "octubre", "formó", "1989" ],
+  "adjectives" : [ "y", "octubre" ],
+  "nouns" : [ "ibíd", "fue", "un" ],
+  "text" : "Willy Clarisse Elvire Hector De Clercq (Gante, 8 de julio de 1927 - ibíd. 28 de octubre 2011) fue un abogado y político belga que formó parte de la Comisión Europea, poder ejecutivo de la Unión Europea, entre 1985 y 1989.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity18299",
+  "entityUrl" : "http://dbpedia.org/resource/Vitold_Fokin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Chairman of Council of Ministers of the Ukrainian SSR", "Head of government of the Ukrainian People's Republic" ]
+  },
+  "words" : [ "Oktober", "-LRB-", "25", "geboren", "Nowomykolajiwka", "Fokin", "bis", "1932", "der", "Pawlowytsch", "zum", "Lehrerfamilie", "von", "Witold", "1992", "wurde", "1991", "November", "Ukraine", "war", "*", "Siedlung", ".", "Oblast", "Ministerpräsident", "einer", "-RRB-", "8", "Saporischschja" ],
+  "adjectives" : [ ],
+  "nouns" : [ "zum", "von", "einer", "war", "bis" ],
+  "text" : "Witold Pawlowytsch Fokin (* 25. Oktober 1932 in Nowomykolajiwka) war von November 1991 bis zum 8. Oktober 1992 Ministerpräsident in der Ukraine. Witold Fokin wurde 1932 in einer Lehrerfamilie in der Siedlung Nowomykolajiwka in der Oblast Saporischschja geboren. 1954 schloss er sein Studium am Bergbauinstitut in Dnipropetrowsk ab. Von 1954 bis 1963 arbeitete er im Bergwerk Zentralna-Bokiwska in verschiedenen Positionen. Danach war er als stellvertretender Direktor im Kombinat Donbassantrazyt in Krasnyj Lutsch, als Manager im Betrieb Perwomajskwugillja in Perwomajsk (Oblast Mykolajiw), als Chefingenieur im Kombinat Woroschylowgradwugillja in Kadijiwka und als Direktor im Kombinat Swerdlowantrazyt in Swerdlowsk (Oblast Luhansk). 1971 wurde er in die staatliche Plankommission der Ukrainischen Sowjetrepublik entsandt, in der er 1972 zum stellvertretenden Vorsitzenden und 1987 zum Vorsitzenden aufstieg. Bis 14. November 1990 war er Mitglied der Kommunistischen Partei der Ukraine und blieb danach parteilos. Am 23. Oktober 1990 übernahm Fokin kommissarisch die Geschäfte des Vorsitzenden des Ministerrats der Ukraine und wurde am 14. November 1990 in diesem Amt bestätigt. Am 2. Oktober 1992 trat er vom Amt des Regierungschefs zurück.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity18388",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Dominello",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Regulatory Reform", "Minister Assisting the Premier on Veterans Affairs", "Minister for Citizenship", "Minister for Fair Trading", "Minister for Multiculturalism" ]
+  },
+  "words" : [ "New", "career", "triggered", "Communities", "Veterans", "Wales", "John", "governments", "by-election", "Ryde", "second", "Assistant", "Education", "Michael", "Aboriginal", "July", "Minister", "Assembly", "MP", "Citizenship", "solicitor", ",", "April", ".", "elected", "Watkins", "served", "following", "-RRB-", "Parliament", "since", "-LRB-", "2011", "resignation", "predecessor", "local", "Victor", "O'Farrell", "2008", "Innovation", "Baird", "government", "Party", "previously", "member", "electorate", "30", "councillor", "Affairs", "Liberal", "born", "politician", "South", "representing", "Dominello", "Better", "2015", "Australian", "2014", "Legislative", "Regulation", "Australia", "1967", "first" ],
+  "adjectives" : [ "Australian", "Legislative", "first", "local", "second" ],
+  "nouns" : [ "career", "MP", "government", "politician", "member", "solicitor", "electorate", "by-election", "resignation", "predecessor", "councillor", "Assembly" ],
+  "text" : "Victor Michael Dominello MP (born 30 July 1967 in Ryde, New South Wales), an Australian politician, is the New South Wales Minister for Innovation and Better Regulation since April 2015 in the second Baird government. Dominello is a member of the New South Wales Legislative Assembly, representing the electorate of Ryde for the Liberal Party of Australia since 2008. He has previously served as the Minister for Citizenship, Communities and the Minister for Aboriginal Affairs between 2011 and 2015, and the Minister for Veterans Affairs and Assistant Minister for Education between 2014 and 2015, in the O'Farrell and first Baird governments. After a career as a solicitor and local councillor, Dominello was elected to the Parliament of New South Wales following a Ryde by-election triggered by the resignation of his predecessor John Watkins. The by-election saw Dominello receive a two-party swing of 23.1 points. Dominello increased his margin at the 2011 election; however the margin was reduced to 11.5 points at the 2015 state election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity18445",
+  "entityUrl" : "http://dbpedia.org/resource/Vernon_Treatt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Lord Mayor of Sydney" ]
+  },
+  "words" : [ "New", "Wales", "World", "Shore", "Serving", "QC", "1897", "scholarship", "outbreak", "Haddon", "First", "MM", "--", "15", "interrupted", ",", ".", "1984", "University", "Singleton", "served", "-RRB-", "College", "Medal", "Sir", "20", "Sydney", "-LRB-", "Rhodes", "May", "September", "Scholar", "War", "KBE", "Royal", "School", "studies", "France", "enlist", "Oxford", "lawyer", "Military", "awarded", "politician", "South", "Artillery", "Vernon", "educated", "Upon", "soldier", "Treatt", "Australian", "Born", "returning", "Australia" ],
+  "adjectives" : [ "Australian", "Military" ],
+  "nouns" : [ "MM", "QC", "soldier", "politician", "scholarship", "outbreak", "Medal", "lawyer" ],
+  "text" : "Sir Vernon Haddon Treatt KBE, MM, QC (15 May 1897 – 20 September 1984) was an Australian lawyer, soldier, Rhodes Scholar and politician. Born in Singleton, New South Wales and educated at Shore School, Treatt interrupted his studies at the University of Sydney to enlist at the outbreak of the First World War. Serving in the Royal Australian Artillery, Treatt served in France and was awarded the Military Medal. Upon returning to Australia he was awarded a Rhodes scholarship and further educated at New College, Oxford. After briefly practising law in 1923 in Britain, Treatt returned to Australia and was admitted to the New South Wales bar that same year, serving as a Crown Prosecutor at the supreme court. Treatt also was the Challis law lecturer at the University of Sydney. Treatt entered the New South Wales Legislative Assembly on 26 March 1938, representing the Electoral district of Woollahra for the United Australia Party (UAP). When UAP Premier Bertram Stevens was ousted from the leadership in August 1939 and Alexander Mair became Premier, Mair appointed Treatt, after serving only a few months in Parliament, as the Minister for Justice. He served in this office until the UAP lost power in 1941. During this time Treatt witnessed the break-up of the UAP into the various parties including the Democratic Party, which he joined, and then the establishment of the Liberal Party of Australia as the major conservative political force in Australia in 1945. When the second leader of the party, Alexander Mair, resigned in March 1946, Treatt was elected to succeed him. As the third leader of the new party, Treatt became the first leader to contest an election. After serving eight years and almost winning government at the 1950 election, Treatt resigned as Leader in August 1954 following a July attempt to depose him. He continued as a member of parliament until he was defeated in 1962 and thereafter served in various organisations and posts, including as a Chief Commissioner of the City of Sydney in 1969, until his death in 1984.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity11333",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Wing-tat",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Representative for New Territories South", "Representative for New Territories South-west" ]
+  },
+  "words" : [ "New", "Hong", "conservative", "-LRB-", "25", "direct", "DP", "inside", "Council", "seen", "December", "Party", "Member", "representative", "Kong", "1955", "election", "LegCo", "West", "Democratic", "born", ",", "Lee", "Territories", ".", "Wing-tat", "Chairman", "constituency", "third", "name", "-RRB-", "Chinese", "Legislative", ";", "family", "returned", "party" ],
+  "adjectives" : [ "conservative", "third", "direct", "Chinese", "Legislative" ],
+  "nouns" : [ "election", "constituency", "name", "family", "DP", "representative", "Council", "party", "Chairman" ],
+  "text" : "(This is a Chinese name; the family name is Lee.) Lee Wing-tat (born 25 December 1955 in Hong Kong) is a Member of the Legislative Council of Hong Kong (LegCo), returned by direct election as representative of the New Territories West constituency. He was the third Chairman of the Democratic Party (DP). He is seen as a conservative inside the party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity11384",
+  "entityUrl" : "http://dbpedia.org/resource/Lynda_Chalker,_Baroness_Chalker_of_Wallasey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Secretary of State for International Development" ]
+  },
+  "words" : [ "Overseas", "Central", "née", "Conference", "Baroness", "1974", "worked", "Tokyo", "Development", "succeeding", "Member", "Ernest", "Minister", "researcher", "including", "MP", "minister", "Queen", "Africa", "Marples", "Chalker", "Polytechnic", ",", "Bates", "girl", "April", ".", "former", "market", "1942", "University", "State", "served", "-RRB-", "London", ";", "Heidelberg", "Parliament", "1989", "Office", "ORC", "-LRB-", "Opinion", "Merseyside", "participated", "29", "headed", "Research", "BP", "head", "1997", "Shell-Mex", "October", "government", "1993", "1992", "spells", "International", "Mary", "Foreign", "British", "Cabinet", "born", "politician", "Centre", "African", "Roedean", "entering", "educated", "statistician", "PC", "Conservative", "Lynda", "delegation", "Wallasey", "first" ],
+  "adjectives" : [ "British", "Conservative", "first", "former" ],
+  "nouns" : [ "head", "market", "Shell-Mex", "statistician", "government", "researcher", "MP", "minister", "politician", "delegation", "girl", "BP" ],
+  "text" : "Lynda Chalker, Baroness Chalker of Wallasey PC (née Bates; born 29 April 1942) is a British Conservative politician who was Member of Parliament for Wallasey from 1974 to 1992. She served as Minister of State for Overseas Development and Africa at the Foreign Office, in the Conservative government from 1989 to 1997. Baroness Chalker headed the British delegation which participated in the first Tokyo International Conference on African Development in October 1993. She was educated at Roedean (where she was head girl), Heidelberg University, Queen Mary, University of London and the Polytechnic of Central London, and worked as a statistician and market researcher, including spells with Shell-Mex and BP and Opinion Research Centre (ORC), before entering Parliament as MP for Wallasey, Merseyside, succeeding the former Cabinet minister Ernest Marples. She held a number of government posts, including spells as Parliamentary Under-Secretary of State at the Department of Health and Social Security from 1979–82 and at the Department of Transport from 1982–83. In 1983 she became Minister of State at Transport, being appointed Minister for Europe in 1986. Chalker was granted a life peerage as Baroness Chalker of Wallasey, of Leigh-on-Sea in the County of Essex in 1992, after losing her seat at the General Election of that year. She jointly holds the 20th century record for continuous government service, along with Kenneth Clarke, Malcolm Rifkind, Tony Newton and Patrick Mayhew, as she held office for the entire duration of the Conservatives' eighteen years in power.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity11427",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Burney",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Family and Community Services" ]
+  },
+  "words" : [ "New", "Wales", "Opposition", "serve", "Education", "Aboriginal", "Assembly", "Minister", "contest", "Burney", "Deputy", "House", ",", "Barton", "April", ".", "seat", "elected", "person", "-RRB-", "Parliament", "became", "Canterbury", "-LRB-", "25", "woman", "Leader", "Shadow", "Representatives", "Labor", "Linda", "Party", "2003", "member", "federal", "1957", "resigned", "election", "winning", "Affairs", "born", "politician", "South", "representing", "also", "Jean", "Upon", "2016", "Australian", "Legislative", "first" ],
+  "adjectives" : [ "Australian", "federal", "Aboriginal", "Legislative", "first" ],
+  "nouns" : [ "seat", "election", "woman", "person", "politician", "Opposition", "member", "Assembly" ],
+  "text" : "Linda Jean Burney (born 25 April 1957) is an Australian politician, who was a member of the New South Wales Legislative Assembly representing Canterbury for the Australian Labor Party from 2003 to 2016, when she resigned to contest the federal seat of Barton. Upon her election, she became the first Aboriginal person to serve in the New South Wales Parliament. Linda Burney is also the first Aboriginal woman to be elected to the Australian House of Representatives, winning the federal seat of Barton in the 2016 federal election. Burney was the New South Wales Deputy Leader of the Opposition and was also Shadow Minister for Education and Shadow Minister for Aboriginal Affairs. In the Keneally ministry, she was the Minister for the State Plan and Minister for Community Services. During 2008 and 2009, Burney was National President of the Australian Labor Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity11505",
+  "entityUrl" : "http://dbpedia.org/resource/Lulama_Xingwana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Minister_of_Rural_Development_and_Land_Reform_(South_Africa)", "http://dbpedia.org/resource/Minister_of_Agriculture,_Forestry_and_Fisheries_(South_Africa)" ]
+  },
+  "words" : [ "23", "Marytheresa", "-LRB-", "politique", "est", "personnalité", "congrès", "née", "du", "africain", "septembre", "Lulu", "dite", "national", "sud-africaine", "1955", "Lulama", "membre", "Xingwana", ",", "une", ".", "ANC", "-RRB-", "le" ],
+  "adjectives" : [ "membre", "national", "une", "sud-africaine" ],
+  "nouns" : [ "africain", "politique", "septembre", "dite", "personnalité", "née" ],
+  "text" : "Lulama Marytheresa Xingwana dite Lulu Xingwana, née le 23 septembre 1955, est une personnalité politique sud-africaine, membre du congrès national africain (ANC).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity2376",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Grayling",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister of State for Employment and Welfare Reform" ]
+  },
+  "words" : [ "years", "Kenneth", "UK", "July", "Minister", "Clarke", "Grayling", "MP", "author", "made", "replacing", ",", "April", "former", ".", "appointed", "440", "1", "Lord", "reshuffle", "State", "Coalition", "served", "London", "-RRB-", "Transport", "since", "Justice", "became", "Chancellor", "-LRB-", "Prime", "May", "September", "Secretary", "2012", "least", "2010", "non-lawyer", "formation", "general", "Party", "Employment", "Theresa", "Christopher", "British", "election", "Government", "Cabinet", "born", "politician", "Following", "PC", "1962", "2016", "2015", "Conservative", "Stephen", "first" ],
+  "adjectives" : [ "general", "British", "former", "first" ],
+  "nouns" : [ "election", "reshuffle", "author", "politician", "non-lawyer", "formation" ],
+  "text" : "Christopher Stephen Grayling MP PC (born 1 April 1962 in London) is a British Conservative Party politician and former author who has been the Secretary of State for Transport since July 2016, when Theresa May became Prime Minister. Following the 2010 general election and the formation of the Coalition Government, Grayling was made the Minister of State for Employment. In September 2012, he was appointed to the UK Cabinet in a reshuffle, replacing Kenneth Clarke as the Lord Chancellor and Secretary of State for Justice from 2012 to 2015. He was the first non-lawyer to have served as Lord Chancellor for at least 440 years. He was the Leader of the House of Commons and the Lord President of the Council between 2015 and 2016. Grayling studied at Cambridge University and published a number of books as well as working for the BBC and Channel 4 before going into politics. First elected to Parliament in the 2001 general election for Epsom and Ewell, he was appointed to the Shadow Cabinet of David Cameron in 2005 as Shadow Secretary of State for Transport. From 2007 he became the Shadow Secretary of State for Work and Pensions, and in 2009 he was appointed Shadow Home Secretary.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity2389",
+  "entityUrl" : "http://dbpedia.org/resource/Christy_Clark",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Chief_Justice_of_British_Columbia", "http://dbpedia.org/resource/Lieutenant_Governor_of_British_Columbia" ]
+  },
+  "words" : [ "``", "MLA", "Legislature", "sworn", "serve", "Christy", "Johnston", "second", "far", "won", "female", "Member", "Rita", "14", "deputy", "Campbell", "2001", ",", "'s", ".", "Canada", "Columbia", "served", "-RRB-", "carry", "however", "BC", "-LRB-", "woman", "26", "Canadian", "serves", "29", "March", "2011", "35th", "serving", "October", "1996", "Clark", "Party", "government", "2005", "leadership", "1991", "term", "February", "''", "Gordon", "British", "election", "Liberal", "born", "politician", "premier", "right", "1965", "Joan", "currently", "Christina", "first" ],
+  "adjectives" : [ "Canadian", "35th", "first", "second" ],
+  "nouns" : [ "election", "woman", "deputy", "government", "politician", "leadership", "premier", "term", "right", "female" ],
+  "text" : "Christina Joan \"Christy\" Clark, MLA (born October 29, 1965) is a Canadian politician who currently serves as the 35th premier of British Columbia, Canada. Clark was sworn in as premier on March 14, 2011, after she won the leadership of the British Columbia Liberal Party in the 2011 leadership election on February 26, 2011. She is the second woman to serve as premier of British Columbia, after Rita Johnston in 1991, however Clark is so far the only female premier of BC to carry an election in her own right. Clark served as a Member of the Legislature from 1996 to 2005, serving as deputy premier from 2001 to 2005 during the first term of Gordon Campbell's government. She left politics in 2005, and became the host of an afternoon radio talk show. At the time of her leadership victory, Clark was not a member of the Legislative Assembly of British Columbia. She re-entered the legislature after winning a by-election on May 11, 2011, in Vancouver-Point Grey, the seat left vacant by Campbell. Her government was re-elected in the 2013 provincial election, but Clark was defeated by David Eby in her own riding of Vancouver-Point Grey. She was subsequently reelected to the legislature in a by-election in Westside-Kelowna on July 10, 2013.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity2393",
+  "entityUrl" : "http://dbpedia.org/resource/Catherine_King_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Regional Development and Local Government", "Minister for Regional Development" ]
+  },
+  "words" : [ "June", "-LRB-", "Federal", "September", "Shadow", "Regional", "Representatives", "Labor", "Party", "Fiona", "King", "member", "Division", "July", "Minister", "November", "Medicare", "Health", "Government", "Victoria", "born", "politician", "2001", "representing", "Local", "House", "Catherine", ",", "Territories", ".", "2", "Australian", "Ballarat", "2013", "-RRB-", "Australia", "Parliament", "1966", "since" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "politician", "member", "Division" ],
+  "text" : "Catherine Fiona King (born 2 June 1966), is an Australian politician, and Shadow Minister for Health and Medicare in the Federal Parliament. She was the Minister for Regional Australia, Local Government and Territories from July to September 2013. She has been a member of the Australian House of Representatives since November 2001 representing the Division of Ballarat, Victoria for the Australian Labor Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity2512",
+  "entityUrl" : "http://dbpedia.org/resource/Cheung_Man-kwong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Representative for Education", "Representative for Teaching" ]
+  },
+  "words" : [ "Hong", "-LRB-", "15", "September", "張文光", "born", "politician", "part", ",", "Council", ".", "Yuen", "1954", "Cheung", "Man-kwong", "-RRB-", "Long", "Chinese", ":", "District", "Kong" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "part" ],
+  "text" : "Cheung Man-kwong (Chinese: 張文光, born 15 September 1954 ) is a Hong Kong politician, who is part of the Yuen Long District Council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity2676",
+  "entityUrl" : "http://dbpedia.org/resource/Christopher_Pyne",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Assistant Minister for Health", "Minister for Defence Materiel", "Minister for Industry and Science" ]
+  },
+  "words" : [ "Politiker", "die", "Pyne", "ist", "den", "dem", "der", "australischer", "des", "abschloss", "gewählt", "Laws", "wurde", "das", "Sturt", "besuchte", "13", "im", "*", ",", "er", ".", "August", "Alter", "University", "-RRB-", "College", "-LRB-", "25", "Adelaide", "ein", "Er", "welche", "Party", "von", "Australischen", "1993", "mit", "Wahlkreis", "für", "Ignatius", "Christopher", "Liberal", "South", "und", "Bachelor", "ins", "Mitglied", "Australia", "1967", "Repräsentantenhauses", "Saint" ],
+  "adjectives" : [ "welche", "Repräsentantenhauses" ],
+  "nouns" : [ "im", "und", "ist", "ein", "den", "Bachelor", "er", "Er", "australischer", "abschloss", "von", "gewählt", "Laws", "wurde", "mit", "für", "besuchte" ],
+  "text" : "Christopher Pyne (* 13. August 1967 in Adelaide) ist ein australischer Politiker der Liberal Party of Australia und Mitglied des Australischen Repräsentantenhauses. 1993 wurde er im Alter von 25 für den Wahlkreis Sturt, South Australia, ins Repräsentantenhauses gewählt. Er besuchte das Saint Ignatius College und die University of Adelaide, welche er mit dem Bachelor of Laws abschloss.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity1653",
+  "entityUrl" : "http://dbpedia.org/resource/Bronwyn_Bishop",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Defence Science and Personnel" ]
+  },
+  "words" : [ "New", "held", "Wales", "née", "office", "Industry", "Howard", "terms", "represented", "Minister", "12", "19", "outer", "2001", "House", ",", "Earlier", "Bronwyn", "former", ".", "Care", "August", "1987", "1942", "2", "Mackellar", "Senate", "served", "-RRB-", ";", "ministry", "Bishop", "-LRB-", "Science", "Representatives", "Personnel", "two", "serving", "1998", "holding", "October", "1996", "Party", "1994", "member", "Setright", "Division", "Kathleen", "Speaker", "November", "Government", "Liberal", "born", "politician", "representing", "South", "portfolios", "29th", "2016", "2015", "Australian", "2013", "Aged", "first", "Defence" ],
+  "adjectives" : [ "Australian", "outer", "née", "29th", "former", "first" ],
+  "nouns" : [ "politician", "member", "Setright", "Division", "office", "ministry" ],
+  "text" : "Bronwyn Kathleen Bishop (née Setright; born 19 October 1942) is a former Australian politician who was the 29th Speaker of the House of Representatives, holding the office between 12 November 2013 and 2 August 2015. Bishop served as a member of the Australian House of Representatives for the Liberal Party, representing the Division of Mackellar in New South Wales from 1994 to 2016. Earlier, between 1987 and 1994, she represented New South Wales in the Senate. Bishop held portfolios in the outer ministry during the first two terms of the Howard Government, serving as Minister for Defence Industry, Science and Personnel from 1996 to 1998 and as Minister for Aged Care from 1998 to 2001. In October 2014, she surpassed Kathy Sullivan's record for the longest period of parliamentary service by a woman. From July 2015, Bishop was subject to sustained intense media and public scrutiny regarding her use of parliamentary entitlements, including a helicopter charter to a party fundraiser during her time as speaker. Although Prime Minister Tony Abbott had originally been one of her strongest allies, she eventually lost his support, resigning from the speakership and moving to the backbench on 2 August to be replaced as speaker by Tony Smith. On 16 April 2016, Bishop was defeated by Jason Falinski in a Liberal Party preselection ballot (51 votes to 39) for the Division of Mackellar at the 2016 federal election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity1730",
+  "entityUrl" : "http://dbpedia.org/resource/Brendan_Smyth_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Police, Emergency Services and Corrections", "Minister for Economic Development, Business and Tourism", "Minister Assisting the Attorney-General" ]
+  },
+  "words" : [ "held", "Opposition", "Arts", "Tourism", "Michael", "July", "Member", "Assembly", "Minister", "Business", "Territory", "briefly", "Deputy", "2001", "2000", "House", "Brindabella", ",", "former", ".", "Prior", "Smyth", "served", "-RRB-", "Canberra", "-LRB-", "Leader", "Chief", "27", "Representatives", "1998", "Urban", "Liberals", "Party", "2006", "2002", "member", "1959", "electorate", "election", "Liberal", "born", "politician", "representing", "portfolios", "also", "Capital", "Police", "Services", "ACT", "2016", "Australian", "Legislative", "Emergency", "Brendan" ],
+  "adjectives" : [ "Australian", "Legislative", "former" ],
+  "nouns" : [ "election", "briefly", "politician", "Opposition", "member", "electorate", "Assembly" ],
+  "text" : "Brendan Michael Smyth (born 27 July 1959) is a former Australian politician, who was a member of the Australian Capital Territory Legislative Assembly representing the electorate of Brindabella for the Liberal Party from 1998 until 2016. From 2002 to 2006 Smyth was the ACT Leader of the Opposition and served briefly as the Deputy Chief Minister during 2000 and 2001. He has held the ACT portfolios Urban Services, Business, Tourism and the Arts, and Police and Emergency Services. Prior to his election to the ACT Legislative Assembly served briefly as the Member for Canberra in the Australian House of Representatives, also representing the Liberals.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "44_entity1733",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Debus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Climate Change, Environment and Water", "Minister for Cooperatives", "Minister for Courts Administration and Corrective Services" ]
+  },
+  "words" : [ "``", "New", "Attorney-General", "held", "Wales", "John", "governments", "retirement", "Arts", "Bob", "Robert", "represented", "state", "Assembly", "Minister", "minister", "16", "House", ",", "former", ".", "1943", "NSW", "1981", "served", "-RRB-", "Environment", ";", "Parliament", "1988", "-LRB-", "September", "2010", "Representatives", "Labor", "Mountains", "Debus", "2007", "Party", "1995", "member", "electorate", "''", "election", "Blue", "born", "politician", "South", "representing", "portfolios", "Australian", "Legislative" ],
+  "adjectives" : [ "New", "Blue", "Australian", "Legislative", "former" ],
+  "nouns" : [ "election", "minister", "politician", "member", "Environment", "state", "electorate", "retirement", "Assembly" ],
+  "text" : "Robert John \"Bob\" Debus AM (born 16 September 1943), a former Australian politician, has been a member of the Australian House of Representatives and the New South Wales Legislative Assembly, representing the Australian Labor Party. Debus has been a minister in both the Australian and New South Wales governments. He served in the NSW Parliament from 1981 to 1988 and again from 1995 to 2007; and in the Australian Parliament from 2007 to 2010. Before his retirement from the NSW Parliament, at the 2007 state election, he held the portfolios of Attorney-General, Minister for the Environment, and Minister for the Arts; and represented the Blue Mountains electorate. Prior to his retirement from the Australian Parliament, at the 2010 federal election, he was Minister for Home Affairs in the Rudd Ministry; and served as Member for Macquarie. Debus is a prominent member of Labor's Socialist Left faction. On 6 June 2009, Bob Debus announced his resignation from the ministry and his retirement. He did not contest the 2010 federal election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "45_entity1868",
+  "entityUrl" : "http://dbpedia.org/resource/Brad_Hazzard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Planning", "Minister for Corrections", "Minister for Justice and Police" ]
+  },
+  "words" : [ "``", "New", "Wales", "Brad", "second", "Assisting", "Minister", "Assembly", "MP", "Hazzard", ",", "April", ".", "August", "NSW", "served", "-RRB-", "General", "Planning", ";", "Attorney", "ministry", "since", "Justice", "-LRB-", "Bradley", "2011", "O'Farrell", "1951", "Baird", "government", "Party", "previously", "1991", "member", "Infrastructure", "30", "''", "Social", "Liberal", "born", "politician", "South", "representing", "Housing", "Services", "Premier", "Ronald", "2015", "Australian", "2014", "Family", "Legislative", "Wakehurst", "Community", "first" ],
+  "adjectives" : [ "Australian", "Legislative", "first", "second" ],
+  "nouns" : [ "MP", "government", "politician", "member", "Assembly", "ministry" ],
+  "text" : "Bradley \"Brad\" Ronald Hazzard MP (born 30 August 1951), an Australian politician, is the New South Wales Minister for Family and Community Services and the Minister for Social Housing since April 2015 in the second Baird government. Hazzard is a member of the New South Wales Legislative Assembly representing Wakehurst for the Liberal Party since 1991. Hazzard previously served as the Minister for Planning and Infrastructure and the Minister Assisting the Premier on Infrastructure NSW in the O'Farrell government between 2011 and 2014; and as the Attorney General of New South Wales and the New South Wales Minister for Justice between 2014 and 2015 in the first Baird ministry.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "46_entity17396",
+  "entityUrl" : "http://dbpedia.org/resource/Tony_Leon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Leader of the Democratic Party", "Leader of the Democratic Alliance" ]
+  },
+  "words" : [ "``", "Tony", "leader", "-LRB-", "longest", "inception", "official", "led", "retirement", "parliament", "serving", "opposition", "December", "2007", "Party", "1994", "leadership", "Alliance", "Leon", "1956", "''", "Anthony", "James", "15", "Democratic", "advent", "born", "politician", "South", "2000", ",", ".", "democracy", "African", "served", "-RRB-", "DA", "1999-2007", "since" ],
+  "adjectives" : [ "Democratic", "South", "official", "African" ],
+  "nouns" : [ "leader", "opposition", "advent", "politician", "leadership", "inception", "retirement", "parliament", "democracy" ],
+  "text" : "Anthony James \"Tony\" Leon (born 15 December 1956) is a South African politician who served as leader of the opposition from 1999-2007 as leader of the Democratic Alliance (DA). He led the DA from its inception in 2000, until his retirement from leadership in 2007. Before that, he led the Democratic Party from 1994. He is the longest serving leader of the official opposition in parliament since the advent of democracy in 1994. Although still a member of the DA, he served as the South African Ambassador to Argentina under the ANC government from 2009 to 2012. Since 2012, Leon has been serving as Executive Chairman of Resolve Communications (Pty) Ltd - a South African-based advocacy for reputation management and strategic communications consultancy, and a Senior Advisor to K2 Intelligence, a London-NY based international investigative and risk analytics consultancy founded by Jules and Jeremy Kroll in 2009. Leon is also a contracted columnist to Times Media Group Ltd, his columns appearing weekly or monthly in Business Day, Sunday Times, and the Times respectively.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "47_entity17750",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_McHugh_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/List_of_Secretaries_of_State_of_Wisconsin" ]
+  },
+  "words" : [ "Thomas", "June", "Nelson", "election", "politician", "Dewey", "'s", ",", "Delavan", ".", "secretary", "1850", "served", "7", "state", "governor", "time", "1848", "January", "McHugh", "Wisconsin", "first", "resided" ],
+  "adjectives" : [ "first" ],
+  "nouns" : [ "secretary", "election", "politician", "state", "governor", "time" ],
+  "text" : "Thomas McHugh was a Wisconsin politician who served as that state's first secretary of state from June 7, 1848 until January 7, 1850. He served under governor Nelson Dewey. McHugh resided in Delavan, Wisconsin at the time of his election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "48_entity17755",
+  "entityUrl" : "http://dbpedia.org/resource/Terry_Metherell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Education", "Minister for Youth and Community Services" ]
+  },
+  "words" : [ "New", "held", "Wales", "led", "downfall", "by-election", "offer", "Education", "portfolio", "won", "corruptly", "represented", "January", "Assembly", "Minister", "Nick", "Alan", "1990", "remained", "Youth", ",", "'s", "former", ".", "appointed", "take", "1981", "district", "-RRB-", "9", "force", "position", "1947", "job", "party", "Parliament", "1988", "-LRB-", "Terry", "resignation", "October", "Party", "found", "public", "offered", "1992", "Metherell", "1991", "resigned", "Davidson", "election", "Affairs", "Liberal", "born", "politician", "South", "Greiner", "Electoral", "Premier", "Australian", "service", "Legislative" ],
+  "adjectives" : [ "public", "Australian", "Liberal", "Legislative", "former" ],
+  "nouns" : [ "election", "politician", "downfall", "resignation", "by-election", "offer", "portfolio", "service", "district", "position", "job", "Assembly", "party" ],
+  "text" : "Terry Alan Metherell (born 9 January 1947) is a former Australian politician who represented the Electoral district of Davidson in the New South Wales Legislative Assembly from 1981 to 1992. When the Liberal Party won the 1988 election, Premier Nick Greiner appointed him Minister for Education and Youth Affairs, a portfolio he held until 1990. In October 1991, he resigned from the Liberal party and remained until his resignation from Parliament to take up the offer of a public service job. This offer led to the downfall of Greiner, who was found to have corruptly offered the position to force a by-election in Metherell's district.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "49_entity14962",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Crossman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Secretary_of_State_for_Health", "http://dbpedia.org/resource/Secretary_of_State_for_Work_and_Pensions" ]
+  },
+  "words" : [ "leader", "New", "-LRB-", "Stafford", "sometimes", "Labour", "life", "December", "1974", "remembered", "Howard", "Crossman", "OBE", "Party", "known", "Statesman", "Zionists", "today", "Richard", "Minister", "highly", "--", "editor", "Diaries", "British", "Late", "15", "Cabinet", "anti-communists", "revealing", ",", "'s", "Dick", "April", ".", "5", "1907", "-RRB-", "three-volume", "Parliament", "party" ],
+  "adjectives" : [ "British", "remembered", "three-volume" ],
+  "nouns" : [ "leader", "editor", "today", "party", "life" ],
+  "text" : "Richard Howard Stafford Crossman OBE (15 December 1907 – 5 April 1974), sometimes known as Dick Crossman, was a British Labour Party leader in Parliament, He was a leader of the party's Zionists and anti-communists. Late in his life, Crossman was editor of the New Statesman. He is remembered today for his highly revealing three-volume Diaries of a Cabinet Minister.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "50_entity14978",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Hill_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for the Arts", "Minister for the Environment", "Minister for the Environment, Sport and Territories" ]
+  },
+  "words" : [ "Professor", "Hill", "-LRB-", "25", "September", "United", "Commission", "project", "Murray", "Global", "States", "Robert", "Sustainability", "Alliance", "Ocean", "retired", "AC", "born", "politician", "Commissioner", "also", "Centre", ".", "Studies", "Co-Director", "University", "Australian", "Adjunct", "-RRB-", "1946", "Sydney", "21" ],
+  "adjectives" : [ "Australian", "retired" ],
+  "nouns" : [ "AC", "Co-Director", "Sustainability", "politician", "project" ],
+  "text" : "Robert Murray Hill AC (born 25 September 1946) is a retired Australian politician. He is an Adjunct Professor in Sustainability and Co-Director of the Alliance 21 project at the United States Studies Centre at the University of Sydney. He is also a Commissioner of the Global Ocean Commission.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "51_entity15016",
+  "entityUrl" : "http://dbpedia.org/resource/Rita_Fan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Provisional_Legislative_Council", "http://dbpedia.org/resource/President_of_the_Legislative_Council_of_Hong_Kong" ]
+  },
+  "words" : [ "Congress", "Hong", "-LRB-", "woman", "11th", "September", "JP", "CBE", "United", "Council", "hold", "Republic", "President", "1997", "GBM", "National", "China", "member", "GBS", "sovereignty", "Kong", "Rita", "LegCo", "Shanghai", "born", "People", "Hsu", ",", "'s", ".", "Fan", "transfer", "Kingdom", "name", "-RRB-", "Chinese", "Legislative", ";", "position", "family", "delegation", "Lai-tai", "20", "1945", "first" ],
+  "adjectives" : [ "11th", "Chinese", "Legislative", "first" ],
+  "nouns" : [ "Fan", "transfer", "woman", "name", "member", "sovereignty", "position", "family", "delegation", "Council", "Republic" ],
+  "text" : "(This is a Chinese name; the family name is Fan.) Rita Fan Hsu Lai-tai, GBM, GBS, CBE, JP (born 20 September 1945 in Shanghai, China) was the President of the Legislative Council of Hong Kong (LegCo) after the transfer of sovereignty from the United Kingdom in 1997. She was the first woman to hold that position. She is a member of the Hong Kong delegation to the 11th National People's Congress of the People's Republic of China.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "52_entity15110",
+  "entityUrl" : "http://dbpedia.org/resource/Reuben_H._Walworth",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Chief_Judge_of_the_New_York_Court_of_Appeals" ]
+  },
+  "words" : [ "Oktober", "New", "Politiker", "Walworth", "-LRB-", "26", "27", "York", "Zwischen", "ein", "den", "County", "Hyde", "US-Repräsentantenhaus", "Springs", "Bundesstaat", "US-amerikanischer", "November", "†", "Saratoga", "vertrat", "im", "war", "*", "und", ",", "er", ".", "Jurist", "1788", "1821", "Connecticut", "London", "-RRB-", "Bozrah", "Reuben", ";", "1867", "1823" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "und", "ein", "den", "er", "US-amerikanischer", "Jurist" ],
+  "text" : "Reuben Hyde Walworth  (* 26. Oktober 1788 in Bozrah, New London County, Connecticut; † 27. November 1867 in Saratoga Springs, New York) war ein US-amerikanischer Jurist und Politiker. Zwischen 1821 und 1823 vertrat er den Bundesstaat New York im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "53_entity15505",
+  "entityUrl" : "http://dbpedia.org/resource/Rosanna_Wong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Convenor of the Executive Council" ]
+  },
+  "words" : [ "Tam", "。", "王䓪鳴女爵士", "DBE", "王䓪鳴在商界也有一定發展", "（", "）", "1988年至1991年任行政局非官守議員", "成為繼鄧蓮如女男爵後", "，", "－", "在主權移交前夕的殖民地政府具舉足輕重的影響力", "最終在2000年6月立法會表決通過對她和房屋署署長苗學禮的不信任動議前", "經營房地產", "Wong", "Yick-ming", "即首席非官守議員", "1995年更接替鄧蓮如女男爵成為行政局召集人", "留任非官守成員", "改組後成為長江實業地產有限公司", "自1980年起出任香港青年協會總幹事至今", "王䓪鳴過渡到特區政府行政長官董建華的行政會議", "王䓪鳴在行政局任內深得港督彭定康信用", "自從發生短樁醜聞後", "Dr", "此後曾一度退出政壇", "出任獨立非執行董事", "身兼房委會主席的王䓪鳴被輿論質疑要為事件負責", "是香港社會工作者及政治家", "王䓪鳴在2002年未獲行政會議續任而卸任", "辭去房委會主席一職", "JP", "1952年8月15日", "1997年在主權移交後", "Mrs", "當中再對王䓪鳴等人作出譴責", "Dame", "但旋於1992年重返行政局", "2003年起更獲中華人民共和國政府委為全國港區政協委員", "在香港主權移交以前", "並於1993年起兼任房屋委員會主席", "立法會後在2003年1月發表短樁醜聞調查報告", "隨後在1997年獲英廷獎授DBE勳銜", "歷來第二位華人女爵士", "但在2001年至2007年獲港府聘任為教育統籌委員會主席", "她除自1996年起成為香港上海滙豐銀行非執行董事外", "1979年至1992年期間曾冠夫姓為譚王䓪鳴", "自2001年起也在李嘉誠爵士擁有的長江實業", "惟房委會後來在1999年爆出一連串居屋短樁醜聞", "王䓪鳴曾在1985年至1991年出任立法局非官守委任議員", "另一方面", "Rosanna" ],
+  "adjectives" : [ "Yick-ming" ],
+  "nouns" : [ "。", "王䓪鳴女爵士", "DBE", "（", "）", "隨後在1997年獲英廷獎授DBE勳銜", "，" ],
+  "text" : "王䓪鳴女爵士，DBE，JP（Dr Dame Rosanna Wong Yick-ming，1952年8月15日－），1979年至1992年期間曾冠夫姓為譚王䓪鳴（Mrs Rosanna Tam Wong Yick-ming），是香港社會工作者及政治家，自1980年起出任香港青年協會總幹事至今。在香港主權移交以前，王䓪鳴曾在1985年至1991年出任立法局非官守委任議員，1988年至1991年任行政局非官守議員，此後曾一度退出政壇，但旋於1992年重返行政局，並於1993年起兼任房屋委員會主席。王䓪鳴在行政局任內深得港督彭定康信用，1995年更接替鄧蓮如女男爵成為行政局召集人（即首席非官守議員），隨後在1997年獲英廷獎授DBE勳銜，成為繼鄧蓮如女男爵後，歷來第二位華人女爵士，在主權移交前夕的殖民地政府具舉足輕重的影響力。 1997年在主權移交後，王䓪鳴過渡到特區政府行政長官董建華的行政會議，留任非官守成員。惟房委會後來在1999年爆出一連串居屋短樁醜聞，身兼房委會主席的王䓪鳴被輿論質疑要為事件負責，最終在2000年6月立法會表決通過對她和房屋署署長苗學禮的不信任動議前，辭去房委會主席一職。立法會後在2003年1月發表短樁醜聞調查報告，當中再對王䓪鳴等人作出譴責。自從發生短樁醜聞後，王䓪鳴在2002年未獲行政會議續任而卸任，但在2001年至2007年獲港府聘任為教育統籌委員會主席，2003年起更獲中華人民共和國政府委為全國港區政協委員。 另一方面，王䓪鳴在商界也有一定發展，她除自1996年起成為香港上海滙豐銀行非執行董事外，自2001年起也在李嘉誠爵士擁有的長江實業（改組後成為長江實業地產有限公司（經營房地產））出任獨立非執行董事。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "54_entity3402",
+  "entityUrl" : "http://dbpedia.org/resource/David_Davis_(British_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Shadow Secretary of State for Local and Devolved Government Affairs", "Shadow Secretary of State for Local Government", "Shadow Secretary of State for the Regions", "Shadow Secretary of State for Local Government and the Regions" ]
+  },
+  "words" : [ "New", "career", "sworn", "Davis", "December", "Privy", "Michael", "Tate", "July", "Member", "Minister", "13", "Honours", "MP", "went", "Estate", "&", "estate", "degree", "European", ",", "'s", ".", "April", "Exiting", "State", "council", "David", "-RRB-", "London", "1948", "Parliament", "since", "Office", "23", "Lyle", "-LRB-", "25", "Secretary", "Union", "Council", "gain", "1997", "School", "Party", "previously", "1994", "attending", "Foreign", "Bec", "British", "Haltemprice", "business", "Tooting", "Aboyne", "West", "born", "politician", "raised", "South", "Grammar", "Howden", "master", "2016", "Year", "Conservative", "age" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "career", "business", "council", "politician", "estate", "degree", "age", "master" ],
+  "text" : "David Michael Davis (born 23 December 1948) is a British Conservative Party politician who has been the Secretary of State for Exiting the European Union since 13 July 2016. The Member of Parliament (MP) for Haltemprice and Howden, Davis was sworn of the Privy Council in the 1997 New Year Honours, having previously been Minister of State at the Foreign Office from July 1994 to April 1997. Davis was raised on Aboyne Estate, a council estate in Tooting, South West London. After attending Bec Grammar School in Tooting, London, he went on to gain a master's degree in business at the age of 25, and went into a career with Tate & Lyle. Entering Parliament in 1987 at the age of 38 for the Boothferry constituency, in his subsequent political career he held the positions of Conservative party chairman and Shadow Deputy Prime Minister. Between 2003 and 2008, he was the Shadow Home Secretary in the shadow cabinet, under both Michael Howard and David Cameron. Davis had previously been a candidate for the leadership of the Conservative Party in 2001 and 2005, coming fourth and then second. On 12 June 2008, Davis unexpectedly announced his intention to resign as an MP, and was immediately replaced as Shadow Home Secretary. This was in order to force a by-election in his seat, for which he intended to seek re-election by mounting a specific campaign designed to provoke wider public debate about the erosion of civil liberties in the United Kingdom. Following his formal resignation as an MP in June 2008, he officially became the Conservative candidate in the resulting by-election and won it in July 2008. In 2010, Davis was invited by Prime Minister David Cameron to join the cabinet of his coalition government, but he declined and stayed on the backbenches. In July 2016, following the UK voting to leave the European Union, Davis was appointed by Theresa May as Secretary of State for Exiting the European Union.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "55_entity3620",
+  "entityUrl" : "http://dbpedia.org/resource/Dragan_Primorac",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister of Science and Technology", "Minister of Education and Sports" ]
+  },
+  "words" : [ "الموسوعة", "ساعد", "-LRB-", "بريموراتش", "م", "25بك", "هذه", "فضلًا", "النص", "و", "سياسي", "ترابط", "Primorac", "تحسين", "الحالي", "المتعلقة", "مقالات", "للمساعدة", "بإضافة", "--", "من", "هو", "بالإنجليزية", "للمزيد", "في", "الأخرى", ".", "المقالة", "تحتاج", "للمقالات", "1965", "المقالات", "مايو", "وصلات", "الموجودة", "2016", "-RRB-", ":", "Dragan", "إلى", "الوصلات", "بها", "دراغان" ],
+  "adjectives" : [ ],
+  "nouns" : [ "الموسوعة", "من", "فضلًا", "في", "الحالي" ],
+  "text" : "25بك هذه المقالة تحتاج للمزيد من الوصلات للمقالات الأخرى للمساعدة في ترابط مقالات الموسوعة. فضلًا ساعد في تحسين هذه المقالة بإضافة وصلات إلى المقالات المتعلقة بها الموجودة في النص الحالي. (مايو 2016) دراغان بريموراتش (بالإنجليزية: Dragan Primorac) (و. 1965 – م) هو سياسي من .وهو عضو في 'قيمة مجهولة' .",
+  "patterns" : { }
+}, {
+  "entityIndex" : "56_entity3638",
+  "entityUrl" : "http://dbpedia.org/resource/Duncan_Gay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Roads", "Minister for Roads and Ports", "Minister for Ports and Waterways", "Minister for Roads and Freight", "Minister for Roads, Maritime and Freight" ]
+  },
+  "words" : [ "New", "Roads", "Wales", "John", "Vice-President", "Coast", "Nationals", "North", "state", "nanny", "Minister", "Freight", "Executive", ",", "April", ".", "2", "NSW", "served", "-RRB-", ";", "Gay", "ministry", "since", "1988", "-LRB-", "role", "May", "Leader", "Maritime", "2011", "Council", "O'Farrell", "Baird", "government", "1950", "member", "key", "Government", "born", "politician", "implementation", "South", "Ports", "played", "2015", "Australian", "2014", "Legislative", "Duncan", "first", "represent" ],
+  "adjectives" : [ "Australian", "Legislative", "key", "first" ],
+  "nouns" : [ "role", "government", "Government", "politician", "implementation", "member", "state", "nanny", "Freight", "ministry" ],
+  "text" : "Duncan John Gay (born 2 May 1950), an Australian politician, has been the Vice-President of the Executive Council of New South Wales and the Leader of the Government in the Legislative Council since May 2014; and the Minister for Roads, Maritime and Freight since April 2015. Gay is the Leader of the Nationals in the Legislative Council and has been a member of the Council since 1988, represent The Nationals. He served as the Minister for Roads and Freight, has played a key role in the implementation of the NSW nanny state and as the Minister for the North Coast between 2014 and 2015 in the first Baird government; and the Minister for Roads and Ports in the O'Farrell ministry between 2011 and 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "57_entity3934",
+  "entityUrl" : "http://dbpedia.org/resource/David_Gibson_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Police, Corrective Services and Emergency Services" ]
+  },
+  "words" : [ "Nation", "politics", "-LRB-", "independent", "September", "Mr", "One", "2008", "October", "current", "Francis", "Board", "2006", "Party", "National", "Gympie", "member", "retired", "January", "Assembly", "13", "MP", "Deaf", "joined", "Liberal", "born", "politician", "Gibson", ",", "Roberts", "former", ".", "Chairman", "Elisa", "elected", "Services", "2015", "Australian", "State", "David", "-RRB-", "Legislative", "defeating", "formed", "1967", "sitting", "Queensland" ],
+  "adjectives" : [ "current", "independent", "Australian", "Legislative", "former" ],
+  "nouns" : [ "Nation", "MP", "politician", "member", "Assembly", "Chairman" ],
+  "text" : "David Francis Gibson (born 13 October 1967) is a former Australian politician and the current Chairman of the Board of Deaf Services Queensland. In 2006, he was elected to the Legislative Assembly of Queensland as the National Party member for Gympie, defeating sitting independent Elisa Roberts, a former One Nation MP. He joined the Liberal National Party when it formed in September 2008. In January 2015 Mr Gibson retired from State politics.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "58_entity4017",
+  "entityUrl" : "http://dbpedia.org/resource/David_Arblaster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for the Arts", "Minister for Sport and Recreation and Minister for Tourism" ]
+  },
+  "words" : [ "New", "-LRB-", "Eric", "Wales", "retirement", "Tourism", "1976", "Sport", "2006", "1972", "Arblaster", "lost", "Minister", "Culture", "Assembly", "November", "10", "--", "election", "16", "Liberal", "politician", "South", ",", ".", "Amos", "August", "elected", "Electoral", "Willis", "1984", "Recreation", "district", "served", "David", "1929", "-RRB-", "Legislative", "cabinet", "Sir", "party", "Mosman" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "election", "politician", "district", "retirement", "cabinet", "party", "Assembly" ],
+  "text" : "David Amos Arblaster, (16 November 1929 – 10 August 2006) was a New South Wales politician, Minister for Culture, Sport and Recreation and Minister for Tourism in the cabinet of Sir Eric Willis until the Liberal party lost the 1976 election. Arblaster was elected to the New South Wales Legislative Assembly for the Electoral district of Mosman in 1972 and served until his retirement in 1984.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "59_entity4076",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Day",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Decentralisation", "Minister for Industry and Decentralisation" ]
+  },
+  "words" : [ "``", "New", "Wran", "-LRB-", "May", "held", "Wales", "range", "2010", "Labor", "Clarence", "Donald", "Party", "responsibilities", "government", "1971", "member", "February", "Assembly", "''", "--", "Ministerial", "18", "politician", "19", "South", "representing", "electorates", ".", "1984", "Casino", "Neville", "Australian", "1981", "-RRB-", "Legislative", "Day", "1924" ],
+  "adjectives" : [ "Ministerial", "Australian", "Legislative" ],
+  "nouns" : [ "government", "Casino", "politician", "member", "range", "Day", "Assembly" ],
+  "text" : "Donald \"Don\" Day (19 February 1924 – 18 May 2010) was an Australian politician and member of the New South Wales Legislative Assembly representing the electorates of Casino (1971–1981) and Clarence (1981–1984) for the Australian Labor Party. Day held a range of Ministerial responsibilities in the government of Neville Wran.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "60_entity4143",
+  "entityUrl" : "http://dbpedia.org/resource/Dominic_Perrottet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Finance and Services", "Minister for Finance, Services and Property" ]
+  },
+  "words" : [ "New", "Hill", "Wales", "2011", "Francis", "Party", "Baird", "member", "First", "Property", "Assembly", "Minister", "Dominic", "MP", "Liberal", "Finance", "politician", "South", "representing", ",", "Hawkesbury", ".", "April", "seat", "appointed", "Services", "Perrottet", "Second", "2015", "Australian", "served", "Legislative", "Castle", ";", "Australia", "ministry", "since" ],
+  "adjectives" : [ "Second", "Australian", "Legislative" ],
+  "nouns" : [ "seat", "politician", "member", "Assembly", "ministry" ],
+  "text" : "Dominic Francis Perrottet MP, an Australian politician, is a member of the New South Wales Legislative Assembly representing for the Liberal Party of Australia the seat of Hawkesbury since 2015 and before that, the seat of Castle Hill between 2011 and 2015. In April 2015, Perrottet was appointed as Minister for Finance, Services and Property in the Second Baird ministry; having served as the Minister for Finance and Services in the First Baird ministry.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "61_entity4144",
+  "entityUrl" : "http://dbpedia.org/resource/David_Elliott_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Justice", "Minister for Police and Emergency Services" ]
+  },
+  "words" : [ "June", "New", "-LRB-", "Veterans", "Wales", "2011", "second", "Party", "Baird", "government", "Hills", "1970", "Elliott", "member", "Assembly", "Minister", "11", "MP", "Affairs", "Andrew", "Liberal", "born", "politician", "South", "representing", "Baulkham", ",", ".", "April", "Services", "2", "2015", "Australian", "served", "David", "-RRB-", "Legislative", "Emergency", "Australia", "Corrections", "since" ],
+  "adjectives" : [ "Australian", "Legislative", "second" ],
+  "nouns" : [ "MP", "government", "politician", "member", "Assembly" ],
+  "text" : "David Andrew Elliott MP (born 11 June 1970), an Australian politician, is a member of the New South Wales Legislative Assembly representing Baulkham Hills for the Liberal Party of Australia since 2011. Elliott has served as the New South Wales Minister for Emergency Services, the Minister for Corrections, and the Minister for Veterans Affairs since 2 April 2015 in the second Baird government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "62_entity6749",
+  "entityUrl" : "http://dbpedia.org/resource/Helene_Hayman,_Baroness_Hayman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Lord Chancellor" ]
+  },
+  "words" : [ "medical", "charities", "Wolverhampton", "United", "Labour", "née", "ethics", "issues", "newly", "Baroness", "1974", "Helene", "National", "won", "Lords", "Member", "1979", "created", "Peer", "committees", "House", ",", ".", "Lord", "involved", "Hayman", "Middleweek", "-RRB-", "Life", "1949", ";", "position", "Parliament", "became", "politics", "-LRB-", "26", "bodies", "March", "GBE", "Outside", "serving", "1996", "Party", "2006", "member", "Speaker", "election", "Health", "born", "health", "Service", "inaugural", "governing", "PC", "Valerie", "Kingdom" ],
+  "adjectives" : [ "medical", "Outside", "inaugural" ],
+  "nouns" : [ "PC", "election", "Middleweek", "member", "health", "née", "position" ],
+  "text" : "Helene Valerie Hayman, Baroness Hayman GBE PC (née Middleweek; born 26 March 1949, Wolverhampton) was Lord Speaker of the House of Lords in the Parliament of the United Kingdom. As a member of the Labour Party she was a Member of Parliament from 1974 to 1979, and became a Life Peer in 1996. Outside politics, she has been involved in health issues, serving on medical ethics committees and the governing bodies of bodies in the National Health Service and health charities. In 2006, she won the inaugural election for the newly created position of Lord Speaker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "63_entity6833",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Watkins_Allen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Reconstruction Governor" ]
+  },
+  "words" : [ "22", "Sezessionskrieg", "-LRB-", "Farmville", "29", "ein", "Edward", "Gouverneur", "County", "Prince", "Brigadegeneral", "des", "US-Bundesstaates", "Henry", "†", "Mexiko", "Heeres", "im", "war", "*", "und", "konföderierten", "Allen", ",", ".", "April", "1866", "1820", "Watkins", "-RRB-", "Louisiana", ";", "Mexiko-Stadt", "Virginia" ],
+  "adjectives" : [ ],
+  "nouns" : [ "war", "und", "ein" ],
+  "text" : "Henry Watkins Allen, (* 29. April 1820 in Farmville, Prince Edward County, Virginia; † 22. April 1866 in Mexiko-Stadt, Mexiko) war Gouverneur des US-Bundesstaates Louisiana und ein Brigadegeneral des konföderierten Heeres im Sezessionskrieg.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "64_entity6925",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Jensen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Highways", "Minister for Planning and Environment" ]
+  },
+  "words" : [ "Jensen", "New", "Mayor", "ALP", "Wales", "Gardiners", "July", "Assembly", "--", "12", "Frederick", "Public", ",", "'s", "AO", ".", "August", "Lord", "1981", "served", "Joseph", "-RRB-", "College", "Sydney", "Brothers", "-LRB-", "Hill", "27", "St.", "Labor", "1998", "Newtown", "School", "Party", "member", "1913", "1957", "Henry", "High", "Road", "joined", "politician", "South", "also", "1965", "educated", "Australian", "Born", "1929", "Legislative", "Darlinghurst", "Marist", "Hunters" ],
+  "adjectives" : [ "Australian", "Legislative", "AO" ],
+  "nouns" : [ "ALP", "politician", "member", "Assembly" ],
+  "text" : "Henry Frederick Jensen AO, (12 July 1913 – 27 August 1998) was an Australian ALP politician, who served as a member of the New South Wales Legislative Assembly from 1965 until 1981. He was also Lord Mayor of Sydney from 1957 until 1965. Born in Newtown, New South Wales, Jensen was educated at Gardiners Road Public School, Marist Brothers High School in Darlinghurst, and St. Joseph's College, Hunters Hill. He joined the Australian Labor Party in 1929. He worked as an electrician and became an organiser within the Australian Electrical Trades Union and a delegate to the Australian Trades and Labor Council. He subsequently established his own electrical contracting business and later worked in footwear distribution. He served as an alderman on Randwick Municipal Council from 1950 until 1956, including Mayor of Randwick from 1954. He was an alderman on Sydney City Council from 1956 until 1965, and Lord Mayor of Sydney from 1957 until 1965. He entered the New South Wales Legislative Assembly at the 1965 state election, as member for Wyong, which he represented until October 1973. He was re-elected in November 1973 as the representative for Munmorah, a seat he occupied until 28 August 1981. From 1976 until 1981, Jensen held various ministerial positions in the cabinet of Premier Neville Wran. He died in Randwick, New South Wales.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "65_entity6992",
+  "entityUrl" : "http://dbpedia.org/resource/Henri_Rochereau",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "European Commissioner for External Relations and Development Aid" ]
+  },
+  "words" : [ "†", "Politiker", "Chantonnay", "-LRB-", "25", "1908", "EG-Kommissar", "war", "*", "ein", "Er", "Henri", ".", "-RRB-", "Rochereau", "März", ";", "französischer", "Januar", "Paris", "1999" ],
+  "adjectives" : [ "Januar" ],
+  "nouns" : [ "Politiker", "EG-Kommissar", "war", "ein", "französischer" ],
+  "text" : "Henri Rochereau (* 25. März 1908 in Chantonnay; † 25. Januar 1999 in Paris) war ein französischer Politiker. Er war EG-Kommissar. Von 1949 bis 1959 war er Mitglied im französischen Senat für das Département Vendée und Generalrat für den Kanton Les Essarts. Er war vom 28. Mai 1959 bis zum 24. August 1961 Landwirtschaftsminister in der Regierung unter Michel Debré. Von 1962 bis 1970 war er Kommissar für Entwicklung und humanitäre Hilfe der Europäischen Wirtschaftsgemeinschaft (bis 1967) und dann der Europäischen Gemeinschaften. Von 1970 bis 1986 war er Präsident der Assoziation der großen französischen Häfen. Mitglieder der Europäischen Kommission Hallstein II (1962–1967) Mitglieder der Europäischen Kommission Rey (1967–1970) Europäische Kommissare für Entwicklung und humanitäre Hilfe Normdaten (Person): GND: 129409286  | VIAF: 40454610 |",
+  "patterns" : { }
+}, {
+  "entityIndex" : "66_entity7612",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Macfarlane_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Industry, Innovation and Science", "Minister for Resources, Energy and Tourism", "Minister for Innovation, Industry, Science and Research" ]
+  },
+  "words" : [ "defecting", "-LRB-", "Representatives", "1998", "2008", "October", "December", "Party", "National", "would", "member", "reported", "Division", "Elgin", "1955", "Macfarlane", "Liberal", "born", "politician", "sat", "representing", "House", ",", "April", "former", ".", "room", "elected", "5", "2015", "Australian", "Prior", "Ian", "-RRB-", "parties", "Canberra", "Groom", "merger", "party", "Queensland" ],
+  "adjectives" : [ "Australian", "Liberal", "former" ],
+  "nouns" : [ "politician", "member", "Division", "merger", "party", "room" ],
+  "text" : "Ian Elgin Macfarlane (born 5 April 1955) is a former Australian politician. He was elected as a member of the Australian House of Representatives in October 1998, representing the Division of Groom, Queensland, for the Liberal National Party. Prior to the merger of the Liberal and National parties in Queensland in 2008, Macfarlane was a member of the Liberal Party, and sat in the Liberal party room in Canberra. In December 2015, it was reported that he would be defecting to the National Party. Macfarlane was the Minister for Industry and Science in the Abbott Government from 18 September 2013 until 20 September 2015, when he was dropped from Cabinet in the ministry of Prime Minister Malcolm Turnbull.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "67_entity7653",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Macdonald_(New_South_Wales_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for State Development", "Minister for Agriculture", "Minister for Mineral Resources and", "Minister for Primary Industries", "Minister for State and Regional Development", "as Minister for Natural Resources" ]
+  },
+  "words" : [ "New", "Macdonald", "-LRB-", "Wales", "March", "spelled", "2010", "Labor", "Council", "McDonald", "see", "Party", "similarly", "Michael", "federal", "disambiguation", "member", "politician", "born", "South", "representing", ",", "people", "article", ".", "former", "names", "Australian", "Ian", "7", "-RRB-", "Legislative", "1949", "1988" ],
+  "adjectives" : [ "Australian", "federal", "Legislative", "former" ],
+  "nouns" : [ "politician", "disambiguation", "member", "article" ],
+  "text" : "(This article is about the New South Wales politician. For the Australian federal politician, see Ian Macdonald (Australian politician). For other people with similarly spelled names, see Ian McDonald (disambiguation).) Ian Michael Macdonald (born 7 March 1949), a former Australian politician, was a member of the New South Wales Legislative Council from 1988 to 2010 representing the Australian Labor Party. Between 2003 and 2010, Macdonald held a range of ministerial responsibilities in the Carr, Iemma, Rees, and Keneally ministries. Macdonald, who joined the Labor Party in 1972, had his membership of the party terminated in 2013 for bringing the party into disrepute. After the Independent Commission Against Corruption found that Macdonald acted in a corrupt manner, in November 2014 it was announced that following advice from the Director of Public Prosecutions, Macdonald will be prosecuted for the offence of misconduct in public office for corruptly issuing of lucrative mining licences at Doyles Creek in the Hunter Valley.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "68_entity16184",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Robert_Eden,_1st_Baronet,_of_Maryland",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/List_of_Governors_of_Maryland" ]
+  },
+  "words" : [ "year", "Eden", "England", "official", "1776", "Robert", "colonial", "leave", "Baronet", "events", "--", "23rd", "last", "made", "invited", "c.", ",", "'s", ".", "Governor", "2", "1741", "1784", "authority", "-RRB-", "governor", "Sir", "Maryland", "overthrown", "June", "baronet", "-LRB-", "September", "American", "eventually", "Proprietary", "died", "Royal", "1st", "administrator", "well-regarded", "popular", "British", "Although", "home", "Convention", "able", "returned", "age", "Revolution", "43" ],
+  "adjectives" : [ "British", "23rd", "last", "American", "able", "well-regarded", "Proprietary", "popular" ],
+  "nouns" : [ "Governor", "administrator", "baronet", "year", "colonial", "authority", "official", "Baronet", "governor", "age", "Revolution", "home" ],
+  "text" : "Sir Robert Eden, 1st Baronet, of Maryland, 23rd Proprietary Governor of Maryland (c. 1741 – 2 September 1784) was a British colonial official and the last Royal Governor of Maryland. Although a popular governor and an able administrator, Eden's authority was overthrown by the events of the American Revolution, and in June 1776 he was invited by the Maryland Convention to leave for England. Eden was well-regarded at home and in the same year, 1776, he was made a baronet. He eventually returned to Maryland where he died in 1784 at the age of 43. He was buried in Annapolis and was succeeded in the baronetcy by his eldest son, Frederick, a noted author.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "69_entity16269",
+  "entityUrl" : "http://dbpedia.org/resource/Selina_Chow",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Chairman of the Hong Kong Tourism Board", "Acting Chairman", "Chairman of the Hong Kong Tourist Association" ]
+  },
+  "words" : [ "Hong", "career", "-LRB-", "25", "Selina", "JP", "Chow", "Council", "Party", "known", "member", "GBS", "January", "Kong", "chairperson", "Executive", "Liberal", "born", "also", ",", ".", "broadcasting", "-RRB-", "Chinese", "Legislative", "well", ":", "fourth", "Liang", "Shuk-yee", "周梁淑怡", "1945" ],
+  "adjectives" : [ "Legislative", "fourth" ],
+  "nouns" : [ "chairperson", "career", "member", "Council", "broadcasting" ],
+  "text" : "Selina Chow Liang Shuk-yee, GBS, JP (Chinese: 周梁淑怡) (born 25 January 1945) was a member of the Executive Council of Hong Kong and the Legislative Council of Hong Kong. She is the fourth chairperson of the Liberal Party. She is also well known in Hong Kong for her career in broadcasting.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "70_entity16526",
+  "entityUrl" : "http://dbpedia.org/resource/Simon_Birmingham",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Assistant Minister for Education" ]
+  },
+  "words" : [ "June", "-LRB-", "September", "Ministry", "Secretary", "John", "promoted", "Training", "Turnbull", "1974", "2007", "December", "Party", "Simon", "Assistant", "Education", "member", "Parliamentary", "Minister", "14", "Government", "Liberal", "born", "politician", "18", "representing", "South", ",", "Birmingham", ".", "Abbott", "Senate", "2015", "Australian", "2014", "served", "2013", "-RRB-", "Environment", "Australia", "since" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "politician", "member", "Environment" ],
+  "text" : "Simon John Birmingham (born 14 June 1974), an Australian politician, is a member of the Australian Senate representing South Australia as a member of the Liberal Party since 2007. Birmingham served as Parliamentary Secretary to the Minister for the Environment from 18 September 2013 then Assistant Minister for Education and Training in the Abbott Ministry from December 2014, before being promoted to Minister for Education and Training in the Turnbull Government from September 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "71_entity16943",
+  "entityUrl" : "http://dbpedia.org/resource/Selma_Aliye_Kavaf",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Ministry_of_Family_and_Social_Policy_(Turkey)" ]
+  },
+  "words" : [ "موثقة", "-LRB-", "25بك", "أي", "شؤون", "التركية", "دينيزلي", "بمصادر", "Aliye", "،", "التشكيك", "Selma", "وزيرة", "المحتوى", "مارس", "معلومات", "؛", "كاواف", "الاستشهاد", "بالتركية", "عليا", "ولدت", "في", "ينقصه", "يمكن", "البرلمان", "Kavaf", "وإزالتها", "نائبة", ".", "موثوق", "عام", "هنا", "المرأة", "1962", "2016", "الحكومة", "يرجى", "-RRB-", "غير", "مصادر", ":", "التركي", "سلمى", "إيراد", "بها", "والأسرة" ],
+  "adjectives" : [ ],
+  "nouns" : [ "يرجى", "أي", "بمصادر", "في", "،", "وإزالتها", "كاواف" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) سلمى عليا كاواف (بالتركية: Selma Aliye Kavaf)؛ وزيرة شؤون المرأة والأسرة في الحكومة التركية، نائبة في البرلمان التركي، ولدت كاواف عام 1962 في دينيزلي.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "72_entity17181",
+  "entityUrl" : "http://dbpedia.org/resource/Svante_Lindqvist",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Mistress of the Robes", "prime minister" ]
+  },
+  "words" : [ "-LRB-", "26", "chief", "born", "historian", "2010", "April", ".", "Svante", "Swedish", "Court", "Royal", "1", "Lars", "Sweden", "-RRB-", "Albert", "1948", "Lindqvist", "Marshal", "Realm", "January", "since" ],
+  "adjectives" : [ "Swedish" ],
+  "nouns" : [ "chief", "historian", "Realm" ],
+  "text" : "Lars Svante Albert Lindqvist (born 26 April 1948) is a Swedish historian who has been the Marshal of the Realm of Sweden and chief of the Royal Court of Sweden since 1 January 2010.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "73_entity12161",
+  "entityUrl" : "http://dbpedia.org/resource/Marianne_Thyssen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "European Commissioner for Employment, Social Affairs and Inclusion" ]
+  },
+  "words" : [ "became", "-LSB-", "24", "-LRB-", "Mobility", "Labour", "Thyssen", "tɛi̯sə", "mɑrˈjɑnə", "CD&V", "Party", "Employment", "Skills", "July", "1956", "`", "Social", "pronunciation", "Affairs", "Democratic", "Leonie", "born", "politician", "Commissioner", "European", ",", "n", ".", "Belgian", "Flemish", "2014", "Petrus", "-RRB-", "Christian", "-RSB-", ":", "Marianne", ";", "Dutch" ],
+  "adjectives" : [ "European", "mɑrˈjɑnə", "Belgian" ],
+  "nouns" : [ "pronunciation", "politician", "Mobility", "Labour", "tɛi̯sə", "n", "CD&V" ],
+  "text" : "Marianne Leonie Petrus Thyssen (Dutch pronunciation: [mɑrˈjɑnə 'tɛi̯sə(n)]; born 24 July 1956 ) is a Belgian politician for the Christian Democratic and Flemish Party (CD&V). In 2014 she became the European Commissioner for Employment, Social Affairs, Skills and Labour Mobility.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "74_entity12280",
+  "entityUrl" : "http://dbpedia.org/resource/Makis_Voridis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister of Health and Social Security" ]
+  },
+  "words" : [ "``", "Politiker", "die", "Μάκης", "Parlament", "Voridis", "ehemalige", "ist", "Gesundheitsminister", "dem", "Gründungsmitglied", "der", "Fraktionsvorsitz", "Athen", "Μαυρουδής", "übernahm", "zur", "Mavroudis", "Verkehrsminister", "hat", "Βορίδης", "Wechsel", "mehrerer", "Rechtsanwalt", "LA.O.S", "Anführer", "seinem", "im", "*", ",", "er", ".", "Titel", "-RRB-", "London", "zuletzt", "Samaras", "Rechte", "-LRB-", "Universität", "Studium", "2012", "deren", "Makis", "ein", "Papadimos", "Magister", "griechischer", "Parteien", "griechischen", "mit", "abgeschlossen", "Übergangsregierung", "Nach", "rechtsextremer", "für", "Kabinett", "''", "rechtspopulistische", "konservativen", "war", "griechisch", "und", "Nea", "Dimokratia", "Vorsitzende", "Der", "1964", "Gruppen" ],
+  "adjectives" : [ "griechisch" ],
+  "nouns" : [ "Parlament", "Studium", "ehemalige", "deren", "ist", "ein", "Gesundheitsminister", "der", "griechischer", "übernahm", "zur", "griechischen", "mit", "abgeschlossen", "hat", "rechtsextremer", "für", "mehrerer", "rechtspopulistische", "LA.O.S", "im", "konservativen", "war", "er", "Der", "zuletzt" ],
+  "text" : "Mavroudis „Makis“ Voridis (griechisch Μαυρουδής “Μάκης” Βορίδης, * 1964 in Athen) ist ein griechischer Rechtsanwalt und Politiker. Der ehemalige Anführer, Vorsitzende und Gründungsmitglied mehrerer rechtsextremer Gruppen und Parteien war Verkehrsminister der Übergangsregierung Papadimos für die rechtspopulistische LA.O.S. Nach seinem Wechsel zur konservativen Nea Dimokratia 2012 übernahm Voridis deren Fraktionsvorsitz im griechischen Parlament, zuletzt war er Gesundheitsminister im Kabinett Samaras. Makis Voridis hat ein Studium an der Universität London mit dem Titel Magister der Rechte abgeschlossen. Als Jugendlicher war er in der faschistischen Studentengruppe Eleftheri Mathites (Ελεύθεροι Μαθητές ‚Freie Schüler‘) am Athens College aktiv. Voridis übernahm 1985 von Nikolaos Michaloliakos die Jugendführung der nationalistischen EPEN, die sich für die Freilassung der Junta-Offiziere und die Rückkehr des Königs einsetzte. Nach Voridis’ Ansicht standen diese Parteiziele einer Modernisierung entgegen, deshalb gründete er 1994 die rechtsgerichtete Elliniko Metopo nach dem Vorbild seines Freundes Jean-Marie Le Pen und war deren Vorsitzender. Zwei Mal - 1998 und 2002 - war Voridis Kandidat für das Amt des Athener Oberbürgermeisters. Die Elliniko Metopo verfügte über enge Verbindungen zur französischen Front National. Voridis, unterhielt persönliche Kontakte zu Le Pen und Carl Lang. Die gesamte Parteiführung wechselte im Herbst 2005 zur LA.O.S-Partei. Nach der Parlamentswahl 2007 war Voridis bis 2009 Abgeordneter für die erstmals im griechischen Parlament vertretene LA.O.S-Partei. In der Übergangsregierung Papadimos war er vom 11. November 2011 bis 17. Mai 2012 Minister für Infrastruktur, Verkehr und Netzwerke. Nach dem Ausscheiden der LA.O.S aus der Regierung im Februar 2012 trat er zur Nea Dimokratia über. Seit der Parlamentswahl im Mai 2012 war Voridis Abgeordneter der Nea Dimokratia und übernahm nach der Parlamentswahl im Juni 2012 den Fraktionsvorsitz. Vom 10. Juni 2014 bis 26. Januar 2015 war Voridis Gesundheitsminister im Kabinett Samaras.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "75_entity12458",
+  "entityUrl" : "http://dbpedia.org/resource/Matt_Brown_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Tourism, Sport and Recreation" ]
+  },
+  "words" : [ "``", "New", "Wales", "three", "Matt", "Wollongong", "worked", "later", "1972", "Laws", "inappropriate", "Assembly", "Minister", "10", "Kiama", "House", "solicitor", ",", ".", "elected", "appointed", "University", "Prior", "Matthew", "-RRB-", "8", "party", "Parliament", "Brown", "June", "-LRB-", "September", "university", "March", "2011", "Mathematics", "2008", "member", "1999", "resigned", "''", "election", "James", "Government", "born", "politician", "South", "lecturer", "Police", "Bachelor", "occurring", "conduct", "allegations", "Australian", "Legislative", "days", "holds", "Illawarra" ],
+  "adjectives" : [ "Brown", "Australian", "inappropriate", "Legislative" ],
+  "nouns" : [ "election", "conduct", "university", "politician", "member", "lecturer", "solicitor", "Bachelor", "Assembly", "party" ],
+  "text" : "Matthew James \"Matt\" Brown (born 10 March 1972) is an Australian politician, elected as a member of the New South Wales Legislative Assembly for Kiama between 1999 and 2011. He was appointed Minister for Police and Minister for the Illawarra in the New South Wales Government on 8 September 2008 but resigned three days later after allegations of inappropriate conduct at a party in Parliament House occurring in June 2008. Brown holds a Bachelor of Mathematics and a Bachelor of Laws from the University of Wollongong. Prior to his election he worked as solicitor and as a lecturer at the university.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "76_entity12469",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_Baird",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Planning and Infrastructure" ]
+  },
+  "words" : [ "de", "23", "politique", "est", "australien", "Melbourne", "avril", "du", "Baird", "depuis", "un", "1er", "à", "Sud", "ministre", ",", "Nouvelle-Galles", ".", "Premier", "Mike", "homme", "la", "2014", "le", "né", "1968" ],
+  "adjectives" : [ "1er" ],
+  "nouns" : [ "à", "homme", "politique", "est", "un", "né", "australien", "avril" ],
+  "text" : "Mike Baird, né à Melbourne le 1er avril 1968, est un homme politique australien, Premier ministre de la Nouvelle-Galles du Sud depuis le 23 avril 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "77_entity12471",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Bruxner",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Leader of the Country Party", "Leader of the Progressive Party" ]
+  },
+  "words" : [ "New", "predecessors", "agent", "distinction", "lieutenant", "Wales", "dropped", "upon", "World", "promoted", "years", "Serving", "later", "1970", "Light", "Michael", "Horse", "outbreak", "First", "--", "Order", "DSO", "Frederick", "Bruxner", "enlisted", ",", ".", "take", "University", "-RRB-", "Country", "Sir", "Sydney", "-LRB-", "25", "Leader", "JP", "28", "Egypt", "grazier", "March", "Tabulum", "War", "Armidale", "Citizen", "Forces", "KBE", "serving", "School", "Party", "Lieutenant", "Tenterfield", "Northern", "station", "studies", "1914", "Gallipoli", "colonel", "Military", "1911", "Distinguished", "awarded", "politician", "South", "Service", "started", "employment", "many", "Palestine", "educated", "soldier", "1882", "Australian", "Born", "Colonel" ],
+  "adjectives" : [ "Australian", "Light", "many" ],
+  "nouns" : [ "agent", "Lieutenant", "distinction", "soldier", "lieutenant", "politician", "Horse", "grazier", "station", "outbreak", "employment", "colonel" ],
+  "text" : "Lieutenant Colonel Sir Michael Frederick Bruxner KBE, DSO, JP (25 March 1882 – 28 March 1970) was an Australian politician and soldier, serving for many years as Leader of the Country Party and its predecessors. Born in Tabulum in Northern New South Wales, Bruxner was educated at The Armidale School and started studies at University of Sydney but later dropped out to take up employment as a grazier and station agent in Tenterfield. After serving in the Citizen Military Forces from 1911, Bruxner enlisted into the Australian Light Horse upon the outbreak of the First World War in 1914. Serving with distinction in Gallipoli, Egypt and Palestine, he was promoted to lieutenant colonel and awarded the Distinguished Service Order. Returning to Australia in 1919, Bruxner sold his business and joined the Progressive Party, being elected to the Parliament of New South Wales for Northern Tablelands at the 1920 election. Bruxner came to political prominence when he led the rural \"True Blues\" faction of the Progressive Party that went against their Leader's decision to form a coalition in Sir George Fuller's short-lived government in 1921. Bruxner emerged as the leader of the reduced Progressive Party, which consisted of the members of his faction, but they nevertheless joined with Fuller's Nationalists to form government in 1922. Bruxner also became involved in the New England New State Movement. Bruxner resigned the party leadership, now for the renamed Country Party, at the end of 1925. At the 1927 election, with the abandonment of proportional representation, he won the new seat of Tenterfield unopposed. Bruxner was included in new Premier Thomas Bavin's cabinet as Minister for Local Government, which included the responsibility for transport. He served until Labor won the 1930 election. In April 1932 Bruxner was elected again as the new party Country Party Leader, which he would hold continuously until 1958. When Sir Philip Game dismissed Jack Lang and called upon the Leader of the Opposition Bertram Stevens to form a caretaker government in 1932, Stevens formed a coalition with Bruxner's Country Party and Bruxner was named as the first Deputy Premier of New South Wales. Bruxner was also sworn in as Minister for Transport and briefly resumed his former Local Government portfolio. Bruxner also worked with his long-time friend and Minister for Education David Drummond, to establish the New England University College in 1938, which was later to become the University of New England. Bruxner was central in ensuring Alexander Mair became Premier after Stevens was defeated in the house in August 1939. The Coalition lost government at the 10 May 1941 election and Bruxner would never again serve in government. The rest of Bruxner's parliamentary career was to be on the opposition benches, leading the Country Party through five more elections and through the instability of the larger opposition parties that eventually united as the Liberal Party of Australia. On 6 May 1958, Bruxner formally resigned as Leader of the Country Party, having served continuously in that role since 1932. He continued to serve in his capacity as Member for Tenterfield for one more term before retiring from politics before the 1962 election. Bruxner was Knighted as a KBE in 1962 and thereafter served in various capacities on boards and continued his passion for horses before his death aged 88 on 28 March 1970.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "78_entity12578",
+  "entityUrl" : "http://dbpedia.org/resource/Michaelia_Cash",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Minister_for_Immigration_and_Border_Protection", "http://dbpedia.org/resource/Minister_for_Home_Affairs_(Australia)", "http://dbpedia.org/resource/Minister_for_Women_(Australia)", "Minister Assisting the Prime Minister for Women", "Minister For The Status of Women" ]
+  },
+  "words" : [ "września", "-LRB-", "Turnbulla", "Subiaco", "Zachodnia", "Clare", "Cash", "polityk", "Liberalnej", "ds", "2008", "lipca", "gabinetu", "od", "1970", "ur", "Partii", "członkini", "minister", "zatrudnienia", "Michaelia", "19", "oraz", "jako", "ze", ",", "-", "stanu", ".", "senator", "Australii", "Od", "2015", "Malcolma", "w", "-RRB-", "australijska", "LPA", "Australia" ],
+  "adjectives" : [ "Od", "ds" ],
+  "nouns" : [ "września", "Turnbulla", "minister", "zatrudnienia", "oraz", "jako", "ze", "stanu", "senator", "lipca", "gabinetu", "od", "Malcolma", "ur" ],
+  "text" : "Michaelia Clare Cash (ur. 19 lipca 1970 w Subiaco) - australijska polityk, członkini Liberalnej Partii Australii (LPA). Od 2008 senator ze stanu Australia Zachodnia, od września 2015 członkini gabinetu Malcolma Turnbulla jako minister ds. zatrudnienia oraz minister ds. kobiet.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "79_entity12586",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_Gallacher",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Police", "Minister for Emergency Services" ]
+  },
+  "words" : [ "``", "New", "named", "MLC", "Wales", "Commission", "political", "Central", "Vice-President", "Coast", "December", "Michael", "Minister", "Hunter", "Executive", "Relations", ",", "illegal", "April", ".", "Mike", "Paisley", "Joseph", "-RRB-", ";", "since", "-LRB-", "Corruption", "September", "May", "scheme", "donations", "27", "Industrial", "Gallacher", "Scotland", "2011", "alleged", "Council", "O'Farrell", "1996", "government", "Baird", "involvement", "member", "resigned", "''", "receive", "corrupt", "born", "politician", "South", "Police", "Services", "Independent", "1961", "Australian", "2014", "2013", "Legislative", "Emergency" ],
+  "adjectives" : [ "corrupt", "Australian", "Legislative", "political", "alleged", "illegal" ],
+  "nouns" : [ "government", "involvement", "scheme", "politician", "member" ],
+  "text" : "Michael Joseph \"Mike\" Gallacher MLC, (born 27 September 1961 in Paisley, Scotland) an Australian politician, was the Minister for Police and Emergency Services and Vice-President of the Executive Council in the O'Farrell government and Baird government from 2011 to 2014; the Minister for the Central Coast from December 2013 to May 2014; and the Minister for Industrial Relations in the Baird government from April to May 2014. Gallacher has been a member of the New South Wales Legislative Council since 1996. He was the Minister for the Hunter between 2011 and 2014. In May 2014 Gallacher resigned as Minister after being named in the Independent Commission Against Corruption for alleged involvement in a corrupt scheme to receive illegal political donations.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "80_entity13501",
+  "entityUrl" : "http://dbpedia.org/resource/Murray_Hill_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for the Arts", "Minister of Ethnic Affairs", "Minister of Roads and Transport" ]
+  },
+  "words" : [ "--", "Charles", "24", "agent", "Hill", "-LRB-", "politician", "estate", "South", "March", "Murray", "real", ",", ".", "generally", "2", "known", "2003", "State", "-RRB-", "July", "Australia", "1923" ],
+  "adjectives" : [ "real" ],
+  "nouns" : [ "agent", "State", "politician", "estate" ],
+  "text" : "Charles Murray Hill AM (2 July 1923 – 24 March 2003), generally known as Murray Hill, was a real estate agent and politician in the State of South Australia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "81_entity5194",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_Serrano,_1st_Duke_of_la_Torre",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "King of Spain", "Queen of Spain" ]
+  },
+  "words" : [ "que", "San", "de", "-LRB-", "25", "político", "1810-Madrid", "Poder", "Serrano", "del", "último", "Antonio", "Española", "los", "Francisco", "regente", "Consejo", "un", "presidente", "consorte", "noviembre", "español", "puestos", "Domínguez", "conde", "17", "duque", "Ministros", ",", "diciembre", "ocupó", ".", "República", "1885", "la", "fue", "Fernando", "-RRB-", "y", "Torre", "Ejecutivo", "militar", "Primera" ],
+  "adjectives" : [ ],
+  "nouns" : [ "que", "español", "político", "fue", "1810-Madrid", "un", "y", "militar", "ocupó" ],
+  "text" : "Francisco Serrano y Domínguez (San Fernando, 17 de diciembre de 1810-Madrid, 25 de noviembre de 1885), duque de la Torre y conde consorte de San Antonio, fue un militar y político español que ocupó los puestos de regente, presidente del Consejo de Ministros y último presidente del Poder Ejecutivo de la Primera República Española.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "82_entity5196",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Nash",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Infrastructure and Regional Development", "Minister for Territories, Local Government and Major Projects", "Assistant Minister for Health and Ageing", "Assistant Minister for Rural Health", "Minister for Indigenous Health" ]
+  },
+  "words" : [ "New", "leader", "Wales", "née", "Regional", "Fiona", "National", "Assistant", "Development", "represented", "Nationals", "state", "July", "Minister", "11", "deputy", "Deputy", "18", "19", "Communications", "Local", ",", "'s", ".", "Abbott", "1", "Senate", "Joy", "6", "served", "-RRB-", "Parliament", "party", "since", "21", "-LRB-", "May", "Leader", "September", "Nash", "Turnbull", "2008", "Party", "2005", "previously", "Morton", "February", "Rural", "Government", "Health", "born", "politician", "South", "Territories", "1965", "2016", "2015", "Australian", "2013", "Australia" ],
+  "adjectives" : [ "Australian", "Local" ],
+  "nouns" : [ "leader", "deputy", "Government", "politician", "state", "party" ],
+  "text" : "Fiona Joy Nash (née Morton) (born 6 May 1965) is an Australian politician. She has represented the National Party of Australia in the Australian Senate for the state of New South Wales since 1 July 2005 and has served as the Deputy Leader of the Nationals in the Parliament of Australia since 11 February 2016, having previously served as the party's deputy Senate leader since 2008. In the Turnbull Government, Nash has served as the Minister for Local Government and Territories since 19 July 2016, and the Minister for Regional Development, and the Minister for Regional Communications since 18 February 2016. Nash had previously served as the Minister for Rural Health between 21 September 2015 and 19 July 2016, and as the Assistant Minister for Health in the Abbott Government between 18 September 2013 and 21 September 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "83_entity5208",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Li",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Representative for Kowloon East", "Representative for Kowloon South-east" ]
+  },
+  "words" : [ "Hong", "-LRB-", "25", "JP", "Kwun", "Kowloon", "Council", "Party", "Tsui", "legislator", "member", "李華明", "worker", "Li", "Kong", "1955", "Wah-ming", "SBS", "social", "Democratic", "born", "representing", "Fred", ",", "April", ".", "Tong", "constituency", "Ping", "-RRB-", "Chinese", "Legislative", ":", ";", "East", "District" ],
+  "adjectives" : [ "Wah-ming", "social", "Legislative" ],
+  "nouns" : [ "constituency", "legislator", "member", "worker", "Council" ],
+  "text" : "Fred Li Wah-ming SBS JP (Chinese: 李華明; born 25 April 1955, Hong Kong) is a member of the Legislative Council of Hong Kong representing the constituency of Kowloon East. He was a member of the Kwun Tong District Council for Tsui Ping. He was a social worker before being a legislator. He is a member of the Hong Kong Democratic Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "84_entity5321",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Beswick,_Baron_Beswick",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Under-Secretary_of_State_for_Commonwealth_Affairs" ]
+  },
+  "words" : [ "Nottingham", "vierzehn", "Politiker", "Party-Co-operative", "Journalist", "übertragenen", "Labour", "Luftfahrt", "der", "Vorstandsvorsitzender", "Wirtschaftsmanager", "des", "Aerospace", "Abgeordneter", "Commons", "wurde", "Lords", "1977", "†", "ersten", "Jahre", "im", "17", "Peer", "als", "*", "House", ",", "-", ".", "erster", "August", "1987", "1985", "1980", "-RRB-", "Life", ";", "21", "-LRB-", "britischer", "Fernsehen", "ein", "County", "Debatte", "Party", "aufgrund", "Peerages", "Eröffnungsredner", "Hucknall", "lang", "1958", "Baron", "1911", "British", "war", "Beswick", "und", "1964", "zwischen", "Rüstungskonzerns", "Mitglied", "PC", "Act", "Nottinghamshire", "Frank", "sowie" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "der", "britischer", "wurde", "war", "und", "ein", "erster", "sowie" ],
+  "text" : "Frank Beswick, Baron Beswick, of Hucknall in the County of Nottinghamshire PC (* 21. August 1911 in Nottingham, Nottinghamshire; † 17. August 1987) war ein britischer Journalist, Wirtschaftsmanager und Politiker der Labour Party-Co-operative Party, der vierzehn Jahre lang Abgeordneter des House of Commons war sowie 1964 als Life Peer aufgrund des Life Peerages Act 1958 Mitglied des House of Lords wurde. Beswick, der zwischen 1977 und 1980 erster Vorstandsvorsitzender des Luftfahrt- und Rüstungskonzerns British Aerospace war, war in der ersten im Fernsehen übertragenen Debatte des House of Lords 1985 der Eröffnungsredner.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "85_entity5437",
+  "entityUrl" : "http://dbpedia.org/resource/Frederic_Eggleston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Chargé d'affaires", "Minister for Agriculture and Railways", "Minister of Agriculture and Railways" ]
+  },
+  "words" : [ "Brunswick", "Eggleston", "17", "politician", "born", "controversialist", "William", ",", "Melbourne", ".", "Frederic", "October", "1875", "diplomat", "writer", "Australia", "Sir", "lawyer" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "diplomat", "controversialist", "writer", "lawyer" ],
+  "text" : "Sir Frederic William Eggleston was a lawyer, politician, diplomat, writer and controversialist, born in Brunswick, Melbourne, Australia on 17 October 1875.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "86_entity5699",
+  "entityUrl" : "http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Chairman of the Joint War Air Committee" ]
+  },
+  "words" : [ "Assam", "Marquess", "1898", "GCSI", "George", "1859", "January", "Minister", "11", "--", "statesman", "eastern", ",", ".", "India", "Line", "Lord", "proposed", "State", "-RRB-", "Eastern", "20", "Kedleston", "Curzon", "-LRB-", "Prime", "Secretary", "March", "favour", "1st", "Stanley", "known", "Earl", "Poland", "GCIE", "passed", "KG", "Nathaniel", "creation", "1911", "Viceroy", "Foreign", "frontier", "British", "Affairs", "Bengal", "Baldwin", "drew", "1921", "noted", "PC", "Conservative", "1925", "1923" ],
+  "adjectives" : [ "British", "eastern", "Conservative" ],
+  "nouns" : [ "Viceroy", "frontier", "statesman", "favour", "creation" ],
+  "text" : "George Nathaniel Curzon, 1st Marquess Curzon of Kedleston KG, GCSI, GCIE, PC (11 January 1859 – 20 March 1925), known as The Lord Curzon of Kedleston between 1898 and 1911 and as The Earl Curzon of Kedleston between 1911 and 1921, was a British Conservative statesman. As Viceroy of India, he is noted for the creation of Eastern Bengal and Assam. As Secretary of State for Foreign Affairs, he drew the Curzon Line as the proposed eastern frontier of Poland. He was passed over as Prime Minister in 1923 in favour of Stanley Baldwin. His character polarised opinion amongst his contemporaries, \"sow[ing] gratitude and resentment along his path with equally lavish hands\". He quarrelled endlessly and his arrogance and inflexibility made even more enemies. Critics have been negative in contrasting his enormous talents and energy on behalf of British imperialism with his mixed results and unrealized ambitions.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "87_entity5941",
+  "entityUrl" : "http://dbpedia.org/resource/Gladys_Berejiklian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Transport and Infrastructure" ]
+  },
+  "words" : [ "22", "New", "-LRB-", "September", "Leader", "Gladys", "Industrial", "Wales", "second", "Baird", "government", "Party", "previously", "1970", "2003", "member", "Minister", "Assembly", "Willoughby", "Hunter", "Treasurer", "MP", "Deputy", "Liberal", "born", "South", "representing", "Relations", "also", ".", "Berejiklian", "served", "-RRB-", "Legislative", "Australia", "Transport", "first", "since" ],
+  "adjectives" : [ "Legislative", "first", "second" ],
+  "nouns" : [ "MP", "government", "member", "Assembly" ],
+  "text" : "Gladys Berejiklian MP (born 22 September 1970) is the Treasurer of New South Wales and Minister for Industrial Relations in the second Baird government. She is also the Deputy Leader of the New South Wales Liberal Party. Berejiklian is a member of the New South Wales Legislative Assembly representing Willoughby for the Liberal Party of Australia since 2003. Berejiklian has previously served as the Minister for Transport and the Minister for the Hunter in the first Baird government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "88_entity6001",
+  "entityUrl" : "http://dbpedia.org/resource/George_Souris",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Tourism", "Minister for Tourism and Major Events", "Minister for Conservation and Land Management", "Minister for Gaming and Racing", "Minister for Hospitality, Gaming and Racing", "and Minister for Major Events" ]
+  },
+  "words" : [ "New", "leader", "-LRB-", "Wales", "Party", "George", "National", "member", "Nationals", "July", "Assembly", "Upper", "12", "Hunter", "born", "politician", "South", "representing", ",", "former", ".", "NSW", "2015", "Souris", "Australian", "-RRB-", "Legislative", "1949", "1988" ],
+  "adjectives" : [ "Australian", "Legislative", "former" ],
+  "nouns" : [ "leader", "politician", "member", "Assembly" ],
+  "text" : "George Souris AM (born 12 July 1949) is an Australian politician and former member of the New South Wales Legislative Assembly, representing Upper Hunter for the Nationals from 1988 to 2015. Souris is a former leader of the National Party in NSW.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "89_entity6017",
+  "entityUrl" : "http://dbpedia.org/resource/Gloria_De_Piero",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Shadow Minister for Voter Engagement and Youth Affairs" ]
+  },
+  "words" : [ "-LRB-", "shadow", "GMTV", "Shadow", "Labour", "2010", "promoted", "Gloria", "serving", "December", "October", "Party", "1972", "previously", "known", "Registration", "Equalities", "Voter", "Member", "Minister", "Women", "De", "British", "Young", "MP", "minister", "work", "born", "politician", "People", ",", ".", "journalist", "appointed", "Piero", "2015", "2013", "-RRB-", "Ashfield", "cabinet", "Parliament", "21", "since" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "journalist", "shadow", "minister", "work", "politician", "cabinet" ],
+  "text" : "Gloria De Piero (born 21 December 1972) is a British Labour Party politician and journalist who has been the Member of Parliament (MP) for Ashfield since 2010. She was previously known for her work on GMTV. After serving as a shadow minister from October 2010, De Piero was promoted to the shadow cabinet in 2013 as Shadow Minister for Women and Equalities. In 2015 she was appointed Shadow Minister for Young People and Voter Registration. She resigned that position on 26 June 2016.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "90_entity6112",
+  "entityUrl" : "http://dbpedia.org/resource/Greg_Smith_(New_South_Wales_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Corrective Services", "Minister for Juvenile Justice" ]
+  },
+  "words" : [ "Justice", "New", "-LRB-", "26", "Wales", "2011", "Gregory", "SC", "O'Farrell", "2007", "Party", "government", "member", "Assembly", "Minister", "November", "Epping", "Liberal", "Smith", "born", "politician", "South", "representing", ",", ".", "2015", "Australian", "2014", "served", "-RRB-", "Legislative", "General", "Eugene", "1947", "Attorney" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "government", "politician", "member", "Assembly" ],
+  "text" : "Gregory Eugene Smith SC (born 26 November 1947), an Australian politician, was a member of the New South Wales Legislative Assembly representing Epping for the Liberal Party from 2007 to 2015. Smith served as the Attorney General of New South Wales and as the Minister for Justice in the O'Farrell government between 2011 and 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "91_entity6245",
+  "entityUrl" : "http://dbpedia.org/resource/Gerry_McCarthy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Housing" ]
+  },
+  "words" : [ "``", "Ministry", "held", "several", "Gerald", "Correctional", "Essential", "Francis", "Development", "Assembly", "Minister", "Territory", "McCarthy", "Public", ",", "'s", ".", "seat", "Gunner", "-RRB-", "9", ":", "Transport", "since", "June", "-LRB-", "September", "ministries", "Barkly", "Labor", "Paul", "2009", "2008", "general", "Employment", "Northern", "member", "1958", "30", "February", "''", "Gerry", "election", "joined", "born", "politician", "also", "Housing", "Services", "2016", "Australian", "Legislative", "cabinet", "Community", "Henderson" ],
+  "adjectives" : [ "general", "Australian", "several", "Legislative", "Essential" ],
+  "nouns" : [ "seat", "election", "politician", "member", "Labor", "cabinet", "Assembly" ],
+  "text" : "Gerald Francis \"Gerry\" McCarthy (born 30 June 1958) is an Australian politician. He is a Labor member of the Northern Territory Legislative Assembly, having held his seat of Barkly since the 2008 general election. He has been Minister for Housing and Community Development, Minister for Essential Services and Minister for Public Employment in the Gunner Ministry since September 2016. McCarthy also held several ministries in Paul Henderson's cabinet: on 9 February 2009 he joined the cabinet as Minister for Transport and Minister for Correctional Services. On 6 August, he gained the additional portfolios of Arts and Museums, Senior Territorians, Young Territorians, and Minister Assisting the Chief Minister on Multicultural Affairs and Education. From 4 December 2009 to the defeat of the Henderson government at the 2012 Northern Territory election, he was Minister for Lands and Planning, Transport, Construction, Correctional Services, and Arts and Museums.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "92_entity6703",
+  "entityUrl" : "http://dbpedia.org/resource/Glen_Broomhill",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for the Environment", "Minister for Planning", "Minister for Conservation", "Minister for Environment and Conservation" ]
+  },
+  "words" : [ "Raymond", "-LRB-", "26", "Broomhill", "Labor", "seats", "Glen", "Henley", "December", "2007", "Beach", "Party", "1970", "represented", "January", "1979", "Assembly", "Torrens", "1933", "--", "West", "politician", "South", "House", ".", "1965", "Australian", "-RRB-", "20" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "politician" ],
+  "text" : "Glen Raymond Broomhill (20 January 1933 – 26 December 2007) was an Australian politician who represented the South Australian House of Assembly seats of West Torrens from 1965 to 1970 and Henley Beach from 1970 to 1979 for the Australian Labor Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "93_entity14112",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Garrett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Education", "Minister for Early Childhood, Childcare and Youth", "Minister for the Arts", "Minister for the Environment and Water Resources", "Minister for Early Childhood Education, Child Care and Youth", "Minister for Sustainability, Environment, Water, Population and Communities" ]
+  },
+  "words" : [ "New", "Wales", "years", "President", "contribution", "music", "Robert", "Foundation", "band", "ten", "Member", "activist", "Order", "16", "Smith", "House", ",", "April", "former", ".", "August", "appointed", "seat", "Oil", "served", "-RRB-", "-LRB-", "singer", "Conservation", "industry", "Kingsford", "Representatives", "Labor", "environmentalist", "rock", "1953", "October", "Party", "2004", "2003", "member", "musician", "born", "politician", "South", "lead", "environment", "Australian", "Garrett", "2013", "Peter", "Midnight", "Australia" ],
+  "adjectives" : [ "Australian", "former", "lead" ],
+  "nouns" : [ "activist", "Order", "singer", "politician", "industry", "environmentalist", "rock", "seat", "environment", "contribution", "music", "member", "band", "musician" ],
+  "text" : "Peter Robert Garrett AM (born 16 April 1953) is an Australian musician, environmentalist, activist and former politician. Garrett is the lead singer of the Australian rock band Midnight Oil. He served as President of the Australian Conservation Foundation for ten years and, in 2003, was appointed a Member of the Order of Australia for his contribution to the environment and music industry. He was the Australian Labor Party member of the House of Representatives for the seat of Kingsford Smith, New South Wales, from October 2004 to August 2013. After the Labor Party won in the November 2007 election, Garrett was appointed Minister for the Environment, Heritage and the Arts by Prime Minister Kevin Rudd. On 8 March 2010, his portfolio title was changed to Environment Protection, Heritage and the Arts. He continued in this role in Julia Gillard's first Ministry. He was re-elected at the 2010 election and was appointed Minister for School Education, Early Childhood and Youth by Prime Minister Julia Gillard. He was sworn into this portfolio on 14 September 2010 as a member of the Second Gillard Ministry, and following a leadership spill in the Australian Labor Party, Garrett resigned his position as Minister for School Education, Early Childhood and Youth and moved to the backbench. He later announced that he would not be contesting his seat at the next federal election. Garrett became a Member of the Order of Australia in 2003 \"For service to the community as a prominent advocate for environmental conservation and protection, and to the music industry.\" In 2009, the French Government appointed Garrett an Officer of the Order of Arts and Letters. In 2010, the World Wide Fund for Nature presented him with their Leaders for a Living Planet award.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "94_entity14153",
+  "entityUrl" : "http://dbpedia.org/resource/Penny_Wong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Sustainability, Environment, Water, Population and Communities", "Minister for Climate Change and Energy Efficiency" ]
+  },
+  "words" : [ "``", "Federal", "Rudd", "Opposition", "political", "governments", "Malaysia", "parliament", "degrees", "second", "Arts", "mother", "Penny", "worked", "Laws", "Wong", "represented", "Malaysian", ",", ".", "Senate", "Scotch", "graduating", "University", "5", "Prior", "-RRB-", "College", "Gillard", "since", "-LRB-", "Leader", "father", "Adelaide", "Labor", "advisor", "current", "Party", "2002", "member", "lawyer", "November", "''", "attended", "Cabinet", "Government", "born", "politician", "South", "Bachelor", "Penelope", "entering", "educated", "Ying-Yen", "Australian", "Born", "Australia", "1968", "first" ],
+  "adjectives" : [ "current", "Australian", "political", "first", "Malaysian", "second" ],
+  "nouns" : [ "mother", "advisor", "Rudd", "politician", "father", "member", "Bachelor", "parliament", "lawyer" ],
+  "text" : "Penelope Ying-Yen \"Penny\" Wong (born 5 November 1968) is an Australian politician who has represented South Australia in the Senate since 2002, and is the current Leader of the Opposition in the Senate. Wong is a member of the Labor Party and was a member of the Federal Cabinet in both the Gillard Government and the first and second Rudd governments. Born in Malaysia to an Australian mother and Malaysian father, Wong was educated at Scotch College in Adelaide, and then attended the University of Adelaide, graduating with Bachelor of Arts and Bachelor of Laws degrees. Prior to entering Federal parliament, Wong worked as a lawyer and political advisor. Wong is the first Asian-born member of an Australian cabinet. She is the first female openly-LGBTI Australian federal parliamentarian as well as federal government cabinet minister and supports marriage equality in Australia. First elected to the Senate at the 2001 federal election (and sitting from July 2002), Wong was named Minister for Climate Change and Water following Labor's victory under Kevin Rudd at the 2007 election. Her appointment was amended on 26 February 2010 to Minister for Climate Change, Energy Efficiency and Water. On 13 September 2010, she was sworn in as Minister for Finance and Deregulation in the Gillard Government. Wong retained the position after Kevin Rudd's successful leadership spill in June 2013, and also gained the position of Leader of the Government in the Senate, holding these roles until Labor's defeat at the 2013 federal election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "95_entity14192",
+  "entityUrl" : "http://dbpedia.org/resource/Philippe_Busquin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "European Commissioner for Research, Science and Technology" ]
+  },
+  "words" : [ "Philippe", "Politiker", "Busquin", "-LSB-", "-LRB-", "*", "ist", "ein", ".", "bysˈkɛ̃", "1941", "fiˈlip", "6", "belgischer", "Feluy", "-RRB-", "-RSB-", "Januar" ],
+  "adjectives" : [ "fiˈlip", "Januar" ],
+  "nouns" : [ "bysˈkɛ̃", "Politiker", "belgischer", "ist", "ein" ],
+  "text" : "Philippe Busquin [fiˈlip bysˈkɛ̃] (* 6. Januar 1941 in Feluy) ist ein belgischer Politiker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "96_entity14231",
+  "entityUrl" : "http://dbpedia.org/resource/Per_Westerberg",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "former Prime Minister", "former Speaker" ]
+  },
+  "words" : [ "Politiker", "Oktober", "-LRB-", "September", "29", "Westerberg", "Nyköping", "ist", "ein", "bis", "Erik", "der", "1951", "2006", "des", "von", "samlingspartiet", "schwedischer", "Moderata", "war", "*", "und", ".", "August", "2", "Gunnar", "Schwedischen", "2014", "Präsident", "-RRB-", "Per", "Reichstags" ],
+  "adjectives" : [ ],
+  "nouns" : [ "schwedischer", "von", "war", "Nyköping", "ist", "ein", "bis" ],
+  "text" : "Per Erik Gunnar Westerberg (* 2. August 1951 in Nyköping) ist ein schwedischer Politiker der Moderata samlingspartiet und war von 2. Oktober 2006 bis 29. September 2014 Präsident des Schwedischen Reichstags. Der Ökonom Westerberg ist seit 1979 Reichstagsabgeordneter. In der Regierung Bildt von 1991 bis 1994 war er Wirtschaftsminister. Von 2003 bis 2006 war er Vizepräsident des Reichstages und dessen Alterspräsident, bevor er in der Folge der Wahl 2006 mit 177 zu 169 Stimmen zum Präsidenten gewählt wurde. Gegenkandidat war der bis dahin amtierende Reichstagspräsident Björn von Sydow.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "97_entity14303",
+  "entityUrl" : "http://dbpedia.org/resource/Phil_Koperberg",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for the Environment", "Minister for Water", "Minister for Environment and Climate Change" ]
+  },
+  "words" : [ "Water", "``", "New", "Climate", "career", "expert", "Wales", "emergency", "political", "Minister", "Assembly", "RFS", "Phil", "intense", "--", "AFSM", "crisis", "2001", "firefighting", ",", "AO", "April", ".", "former", "1943", "fires", "Prior", "-RRB-", "Environment", "overall", "campaign", ";", "advising", "since", "-LRB-", "longest", "28", "bush", "2011", "Philip", "Committee", "Labor", "Mountains", "2008", "1997", "2007", "government", "Party", "responsible", "member", "electorate", "Rural", "controller", "strategies", "Blue", "Koperberg", "born", "politician", "South", "representing", "Commissioner", "Service", "BEM", "Management", "Change", "faced", "Chairman", "Year", "management", "response", "Australian", "Fire", "Christian", "Christmas/New", "Legislative", "risk", "Emergency", "Australia" ],
+  "adjectives" : [ "Blue", "Australian", "bush", "responsible", "Legislative", "political", "overall", "AO", "former", "intense" ],
+  "nouns" : [ "AFSM", "Climate", "career", "expert", "controller", "crisis", "politician", "emergency", "firefighting", "BEM", "government", "Year", "management", "response", "member", "campaign", "risk", "electorate", "Assembly" ],
+  "text" : "Philip Christian Koperberg AO AFSM BEM (born 28 April 1943), is the Chairman of the New South Wales Emergency Management Committee, responsible for advising the New South Wales government on emergency response strategies, since 2011. Koperberg is a former Australian politician, was the New South Wales Minister for Climate Change, Environment and Water between 2007 and 2008; and was a member of the New South Wales Legislative Assembly, representing the electorate of the Blue Mountains for the Australian Labor Party between 2007–2011. Prior to his political career, Koperberg was the Commissioner of the New South Wales Rural Fire Service (RFS) in Australia between 1997–2007. \"An expert in risk and crisis management, Phil Koperberg was the overall emergency controller during the 2001 Christmas/New Year fires, when Australia faced its longest and most intense bush firefighting campaign. In 1994 Phil Koperberg was also the overall emergency controller, as firefighters battled to control over 800 New South Wales fires covering in excess of 800,000 hectares. In 1999, his expertise was again called upon during the severe hail storms which damaged more than 30,000 properties.\" In September 1997, Koperberg was appointed the RFS Commissioner when the Service was formed under the Rural Fires Act. Before this he had been Director-General of the New South Wales Bush Fire Service from May 1990. In March 2007 he was elected to State parliament and appointed to the Ministry. However, in December he was forced to stand aside due to a police investigation regarding domestic violence allegations from 1987. The NSW Director of Public Prosecutions declined to press charges and Koperberg was reinstated to the Ministry. He resigned from the Ministry on 22 February 2008. Koperberg did not recontest the 2011 state election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "98_entity34",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Beith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/List_of_Deputy_Leaders_of_the_Liberal_Democrats", "Deputy Leader of the Liberals" ]
+  },
+  "words" : [ "Opposition", "Beith", "experience", "1973", "Democrat", "Commons", "represented", "List", "Member", "Lords", "took", "Honours", "MP", "last", "Deputy", "Democratic", "Alan", "Peer", "House", ",", "April", ".", "/", "1943", "seat", "-RRB-", "Life", "20", "Parliament", "party", "23", "-LRB-", "Leader", "title", "Berwick-upon-Tweed", "Party", "1992", "2003", "elevated", "member", "Baron", "longest-serving", "1970s", "November", "British", "James", "Liberal", "benches", "born", "politician", "Dissolution", "PC", "constituency", "2015", "sitting" ],
+  "adjectives" : [ "British", "last", "Liberal", "elevated", "longest-serving" ],
+  "nouns" : [ "seat", "MP", "constituency", "politician", "member", "List", "experience", "title", "party" ],
+  "text" : "Alan James Beith, Baron Beith, PC (born 20 April 1943) is a British politician who represented the constituency of Berwick-upon-Tweed as its Member of Parliament (MP) from 1973 to 2015. From 1992 to 2003 he was Deputy Liberal Democratic Party Leader and, by 2015, Beith was the longest-serving member of his party sitting in the House of Commons and the last Liberal Democrat//Liberal MP to have experience of Parliament from the 1970s. Beith was elevated as a Life Peer in the 2015 Dissolution Honours List and took his title and a seat on the House of Lords Opposition benches on 23 November 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "99_entity62",
+  "entityUrl" : "http://dbpedia.org/resource/Allen_Lee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Representative for New Territories North" ]
+  },
+  "words" : [ "Hong", "Unofficial", "political", "industrialist", "lost", "Member", "Kong", "1978", "Executive", "李鵬飛", "Allen", ",", "April", "former", ".", "1986", "1940", "veteran", "Senior", "-RRB-", ":", ";", "party", "legislature", "1988", "24", "-LRB-", "JP", "CBE", "Council", "serving", "founding", "1998", "1997", "commentator", "Party", "1993", "1992", "1991", "member", "retired", "unofficial", "Peng-fei", "election", "Liberal", "born", "politician", "also", "chairman", "Lee", "currently", "pro-business", "Chinese", "Legislative" ],
+  "adjectives" : [ "pro-business", "Senior", "political", "Legislative", "former", "unofficial" ],
+  "nouns" : [ "commentator", "election", "veteran", "politician", "member", "chairman", "industrialist", "Council", "party", "legislature", "founding" ],
+  "text" : "Allen Lee Peng-fei, CBE, JP (Chinese: 李鵬飛; born 24 April 1940) is a former Hong Kong industrialist and veteran politician and currently a political commentator. He is the former member of the Legislative Council of Hong Kong, serving from 1978 to 1997 and was the Senior Unofficial Member of the legislature from 1988 to 1991. He was also the unofficial member of the Executive Council of Hong Kong from 1986 to 1992. He was the founding chairman of the Liberal Party, a pro-business party in 1993 until he retired after his lost the 1998 election. Since his retirement, he has become a political commentator.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "100_entity100",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Lee,_1st_Viscount_Lee_of_Fareham",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "President of the Board of Agriculture and Fisheries" ]
+  },
+  "words" : [ "country", "Arthur", "nation", "World", "GCSI", "philanthropist", "Embassy", "later", "military", "July", "First", "Minister", "--", "Fisheries", ",", ".", "elected", "retreat", "Lord", "co-founded", "served", "following", "8", "-RRB-", "1947", "1868", "21", "1900", "donated", "politics", "Art", "-LRB-", "Prime", "War", "Courtauld", "GBE", "house", "Washington", "1st", "Institute", "Hamilton", "postings", "retired", "Agriculture", "arts", "Admiralty", "November", "patron", "British", "assignment", "GCB", "politician", "entered", "Lee", "English", "PC", "soldier", "Fareham", "Viscount", "diplomat", "Chequers", "first" ],
+  "adjectives" : [ "English", "military", "first" ],
+  "nouns" : [ "retreat", "country", "patron", "philanthropist", "soldier", "nation", "assignment", "politician", "diplomat", "house" ],
+  "text" : "Arthur Hamilton Lee, 1st Viscount Lee of Fareham GCB GCSI GBE PC (8 November 1868 – 21 July 1947) was an English soldier, diplomat, politician, philanthropist and patron of the arts. After military postings and an assignment to the British Embassy in Washington, he retired from the military in 1900. He entered politics, was first elected in 1900, and later served as Minister of Agriculture and Fisheries and First Lord of the Admiralty following the First World War. He donated his country house, Chequers, to the nation as a retreat for the Prime Minister, and co-founded the Courtauld Institute of Art.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "101_entity160",
+  "entityUrl" : "http://dbpedia.org/resource/Ana_de_Palacio_y_del_Valle-Lersundi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister of Foreign Affairs and Cooperation" ]
+  },
+  "words" : [ "22", "Isabel", "de", "Frau", "Diplomatie", "-LRB-", "del", "Juli", "bis", "der", "zum", "erste", "vom", "2004", "damit", "2002", "Außenministerin", "José", "Regierung", "Palacio", "spanische", "spanischen", "16", "war", "*", "und", "Aznar", ",", "Spitze", ".", "April", "Valle-Lersundi", "Ana", "Madrid", "-RRB-", "María", "9", "1948" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Diplomatie", "zum", "erste", "vom", "damit", "war", "bis" ],
+  "text" : "Ana Isabel de Palacio del Valle-Lersundi (* 22. Juli 1948 in Madrid), war vom 9. Juli 2002 bis zum 16. April 2004 spanische Außenministerin in der Regierung José María Aznar, und damit erste Frau an der Spitze der spanischen Diplomatie. Sie schloss ihre Hochschulausbildung ab in den Fächern Jura, Politik und Soziologie, arbeitete mehrere Jahre als Rechtsanwältin, bevor sie 1994 für den Partido Popular (PP) ins Europäisches Parlament gewählt wurde. Hier leitete sie später den Innenausschuss und vertrat Spanien im Präsidium des Verfassungskonvents. Sie ist Mitglied im European Leadership Network. Ana Palacios Schwester ist die inzwischen verstorbene, ehemalige EU-Kommissarin Loyola de Palacio del Valle-Lersundi.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "102_entity238",
+  "entityUrl" : "http://dbpedia.org/resource/Andries_de_Witt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Land's_Advocate_of_Holland" ]
+  },
+  "words" : [ "†", "de", "-LRB-", "26", "16", "Juni", "war", "*", ".", "är", "Dordrecht", "amtierender", "Landesadvokat/Ratspension", "von", "1573", "-RRB-", "Witt", ";", "Andries", "1637", "November", "?", "Holland" ],
+  "adjectives" : [ ],
+  "nouns" : [ "amtierender", "Landesadvokat/Ratspension", "von", "war", "är" ],
+  "text" : "Andries de Witt (* 16. Juni 1573 in Dordrecht; † 26. November 1637 (?)) war amtierender Landesadvokat/Ratspensionär von Holland. Er gehörte zum alten Dordrechter Patriziergeschlecht De Witt.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "103_entity283",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Stoner",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for State and Regional Development" ]
+  },
+  "words" : [ "New", "Wales", "John", "Regional", "Tourism", "Trade", "Coast", "National", "North", "state", "January", "Assembly", "Minister", "Business", "14", "Small", "Andrew", "Deputy", ",", "former", ".", "April", "-RRB-", ";", "Investment", "-LRB-", "Leader", "2011", "October", "Party", "Baird", "government", "Events", "2003", "member", "Infrastructure", "1999", "election", "Oxley", "born", "politician", "South", "representing", "Premier", "Services", "Major", "Stoner", "1960", "2015", "Australian", "2014", "Legislative" ],
+  "adjectives" : [ "Australian", "Legislative", "former" ],
+  "nouns" : [ "election", "government", "politician", "member", "state", "Assembly" ],
+  "text" : "Andrew John Stoner (born 14 January 1960), a former Australian politician, was a member of the New South Wales Legislative Assembly representing Oxley from 1999 state election to 2015. Stoner was the Leader of the New South Wales National Party from 2003 to 2014, and Deputy Premier of New South Wales from 2011 to 2014. He was the Minister for Trade and Investment, and Minister for Regional Infrastructure and Services, between 2011 and 2014; and the Minister for Tourism and Major Events, the Minister for Small Business, and the Minister for the North Coast, between April and October 2014 in the Baird government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "104_entity495",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Constance",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Transport" ]
+  },
+  "words" : [ "New", "Wales", "second", "1973", "Minister", "Assembly", "Treasurer", "MP", "Andrew", "Relations", ",", "April", ".", "2", "served", "-RRB-", ";", "Transport", "since", "-LRB-", "Industrial", "2011", "Disability", "O'Farrell", "October", "Baird", "government", "Party", "Constance", "previously", "2003", "Infrastructure", "member", "31", "Bega", "James", "Liberal", "Ageing", "Finance", "born", "politician", "South", "representing", "Services", "2015", "Australian", "2014", "2013", "Legislative", "Australia", "first" ],
+  "adjectives" : [ "Australian", "Legislative", "first", "second" ],
+  "nouns" : [ "MP", "government", "politician", "member", "Assembly" ],
+  "text" : "Andrew James Constance MP (born 31 October 1973), is an Australian politician, and is the Minister for Transport and Infrastructure since 2 April 2015 in the second Baird government. He is the member of the New South Wales Legislative Assembly representing Bega for the Liberal Party of Australia since 2003. Constance previously served as the Treasurer of New South Wales and the Minister for Industrial Relations between 2014 and 2015 in the first Baird government; the Minister for Ageing and Disability Services between 2011 and 2013; and the Minister for Finance and Services, between 2013 and 2014, in the O'Farrell government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "105_entity496",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_Roberts",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "Minister for Resources and Energy", "Minister for Industry, Resources and Energy" ]
+  },
+  "words" : [ "New", "named", "-LRB-", "Wales", "John", "second", "Industry", "O'Farrell", "see", "Baird", "government", "Party", "Energy", "1970", "2003", "disambiguation", "member", "Trading", "Special", "Cove", "Minister", "Assembly", "MP", "Anthony", "Fair", "Liberal", "born", "politician", "19", "South", "representing", "Lane", "Roberts", ",", "people", ".", "April", "former", "2", "2015", "Australian", "State", "2013", "-RRB-", "Legislative", "Resources", "first", "since" ],
+  "adjectives" : [ "Australian", "Special", "Legislative", "former", "first", "second" ],
+  "nouns" : [ "MP", "government", "politician", "disambiguation", "member", "Assembly" ],
+  "text" : "(For other people named Anthony Roberts, see Anthony Roberts (disambiguation).) Anthony John Roberts MP (born 19 April 1970), an Australian politician, is the New South Wales Minister for Industry, Resources and Energy, since 2 April 2015 in the second Baird government. Roberts is a member of the New South Wales Legislative Assembly representing Lane Cove for the Liberal Party since 2003. He is the former Minister for Fair Trading in the O'Farrell government and the former Minister for Resources and Energy and the Special Minister of State, between 2013 and 2015 in the first Baird government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "106_entity650",
+  "entityUrl" : "http://dbpedia.org/resource/Anton_Geiss",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "http://dbpedia.org/resource/Grand_Duchy_of_Baden" ]
+  },
+  "words" : [ "badische", "Politiker", "Baden", "-LRB-", "SPD", "ein", "der", "Schriesheim", "erste", "Rettenbach", "März", "1858", "11", "†", "Anton", "deutscher", "war", "*", "und", ".", "August", "Staatspräsident", "3", "Geiß", "-RRB-", ";", "1944" ],
+  "adjectives" : [ "erste", "und" ],
+  "nouns" : [ "der", "badische", "deutscher", "SPD", "war", "ein" ],
+  "text" : "Anton Geiß (* 11. August 1858 in Rettenbach; † 3. März 1944 in Schriesheim) war ein deutscher Politiker der SPD in Baden und der erste badische Staatspräsident.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "107_entity1346",
+  "entityUrl" : "http://dbpedia.org/resource/Alice_Trolle-Wachtmeister",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:as" : [ "former speaker", "marshal" ]
+  },
+  "words" : [ "-LRB-", "May", "née", "Mistress", "Swedish", "Court", "Royal", "Sweden", "1994", "Tornérhielm", "Countess", "1970s", "noblewoman", "Robes", "Alice", "Victoria", "born", ",", ".", "2015", "served", "-RRB-", "Trolle-Wachtmeister", "9", ";", "1926" ],
+  "adjectives" : [ "née", "Swedish" ],
+  "nouns" : [ "noblewoman", "Tornérhielm", "Mistress" ],
+  "text" : "Countess Alice Victoria Trolle-Wachtmeister (née Tornérhielm; born 9 May 1926) is a Swedish noblewoman who served the Royal Court of Sweden from the 1970s to 2015, having served as Mistress of the Robes from 1994 to 2015.",
+  "patterns" : { }
+} ]

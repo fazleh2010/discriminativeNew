@@ -1,0 +1,12 @@
+id=67  property=dbp:state  
+served-RB_VBN  multiply=0.002847  P(served|dbp:state)=0.098361  P(dbp:state|served)=0.028946    
+was_at-VBD_IN  multiply=0.002342  P(was_at|dbp:state)=0.002342  P(dbp:state|was_at)=1.0    
+used_savings-VBN_NNS  multiply=0.002342  P(used_savings|dbp:state)=0.002342  P(dbp:state|used_savings)=1.0    
+launched_several-VBN_JJ  multiply=0.002342  P(launched_several|dbp:state)=0.002342  P(dbp:state|launched_several)=1.0    
+fought_with-VBN_IN  multiply=0.002342  P(fought_with|dbp:state)=0.002342  P(dbp:state|fought_with)=1.0    
+besuchte_bis-NN_NN  multiply=0.002342  P(besuchte_bis|dbp:state)=0.002342  P(dbp:state|besuchte_bis)=1.0    
+outspoken-RB_JJ  multiply=0.002342  P(outspoken|dbp:state)=0.002342  P(dbp:state|outspoken)=1.0    
+evolved_into-VBD_IN  multiply=0.002342  P(evolved_into|dbp:state)=0.002342  P(dbp:state|evolved_into)=1.0    
+served_in-VBN_IN  multiply=0.001232  P(served_in|dbp:state)=0.044496  P(dbp:state|served_in)=0.027697    
+enacted-RB_VBN  multiply=0.001171  P(enacted|dbp:state)=0.002342  P(dbp:state|enacted)=0.5    
+

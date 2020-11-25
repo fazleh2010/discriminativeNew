@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "1_entity11248",
+  "entityUrl" : "http://dbpedia.org/resource/Khagendra_Nath_Dasgupta",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:college" : [ "Rajshahi College" ]
+  },
+  "words" : [ "activist", "Nath", "minister", "Leader", "Bengal", "West", "Opposition", "Lok", "independence", ",", "Khagendra", ".", "Sabha", "government", "Vidhan", "Dasgupta", "Member" ],
+  "adjectives" : [ ],
+  "nouns" : [ "activist", "government", "minister", "independence" ],
+  "text" : "Khagendra Nath Dasgupta was an independence activist, minister in the West Bengal government, Leader of the Opposition in West Bengal Vidhan Sabha and Member of the Lok Sabha.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8808",
+  "entityUrl" : "http://dbpedia.org/resource/Jay_Walker_(legislator)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:college" : [ "http://dbpedia.org/resource/Howard_University", "http://dbpedia.org/resource/Long_Beach_State" ]
+  },
+  "words" : [ "24", "Jay", "-LRB-", "American", "26", "born", "politician", "Walker", "House", ",", ".", "represents", "1972", "district", "-RRB-", "Delegates", "January", "Maryland" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "politician", "district" ],
+  "text" : "Jay Walker (born January 24, 1972) is an American politician who represents district 26 in the Maryland House of Delegates.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity15837",
+  "entityUrl" : "http://dbpedia.org/resource/Rabiranjan_Chattopadhyay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:college" : [ "Former Professor of Bengali, Burdwan University" ]
+  },
+  "words" : [ "Biotechnology", "MLA", "Rabiranjan", "Science", "2011", "Training", "Education", "Technology", "Bardhaman", "assembly", "departments", "state", "Minister", "election", "Government", "Bengal", "West", "politician", "also", ",", ".", "Dakshin", "elected", "Chattopadhyay", "constituency", "Technical", "Indian", "present" ],
+  "adjectives" : [ "Indian", "present" ],
+  "nouns" : [ "MLA", "election", "constituency", "Government", "politician", "assembly", "state" ],
+  "text" : "Rabiranjan Chattopadhyay is an Indian politician and the present Minister for the departments of Technical Education and Training,Science and Technology and Biotechnology in the Government of West Bengal. He is also an MLA, elected from the Bardhaman Dakshin constituency in the West Bengal state assembly election, 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity17076",
+  "entityUrl" : "http://dbpedia.org/resource/Sabina_Yasmin_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:college" : [ "Gour Mahavidyalaya" ]
+  },
+  "words" : [ "MLA", "woman", "independent", "2011", "Khan", "Labour", "Yasmin", "A.", "contested", "Muslim", "Sabina", "Shehnaz", "candidate", "niece", "assembly", "state", "Minister", "Quadery", "Ghani", "election", "particularly", "minister", "Government", "Bengal", "West", "Mothabari", "politician", "victory", ",", "'s", "B.", "former", ".", "elected", "creditable", "seat", "constituency", "State", "Indian", "Choudhury", "first" ],
+  "adjectives" : [ "creditable", "independent", "Indian", "former", "first", "Muslim" ],
+  "nouns" : [ "MLA", "election", "woman", "minister", "Government", "politician", "victory", "A.", "seat", "candidate", "niece", "constituency", "assembly", "state" ],
+  "text" : "Sabina Yasmin is an Indian politician and a former Minister of State for Labour in the Government of West Bengal. She is an MLA, elected from the Mothabari constituency in the West Bengal state assembly election, 2011. Sabina Yasmin's victory from Mothabari constituency was particularly creditable because Shehnaz Quadery, a niece of A. B. A. Ghani Khan Choudhury contested the seat as an independent candidate. Sabina Yasmin was the first Muslim woman to be a minister in West Bengal. She was one of the seven Muslim woman MLAs in the West Bengal Vidhan Sabha. She resigned as a minister when the Congress party decided to pull out of the Mamata Banerjee government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity6042",
+  "entityUrl" : "http://dbpedia.org/resource/Greg_Skrepenak",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:college" : [ "http://dbpedia.org/resource/University_of_Michigan" ]
+  },
+  "words" : [ "career", "year", "two-time", "Oakland", "experience", "three", "years", "professional", "All-American", "National", "starred", "NFL", "1970", "spanned", "January", "commissioner", "League", "seasons", "Andrew", "Carolina", "California", ",", "'s", "1992-1994", "former", ".", "Pennsylvania", "Los", "University", "Prior", "-RRB-", "final", "Skrepenak", "-LRB-", "conference", "American", "Raiders", "Angeles", "Gregory", "captain", "County", "miss", "1997", "1996", "1995", "Wolverines", "retired", "31", "four-year", "offensive", "Big", "starter", "born", "Angeles/Oakland", "start", "continued", "football", "team", "lineman", "Football", "played", "consecutive", "Michigan", "Luzerne", "Panthers", "returned", "Ten", "1988-1991", "first" ],
+  "adjectives" : [ "offensive", "American", "starter", "two-time", "final", "former", "first", "consecutive", "four-year", "professional" ],
+  "nouns" : [ "career", "conference", "year", "start", "football", "team", "captain", "experience", "commissioner", "lineman" ],
+  "text" : "Gregory Andrew Skrepenak (born January 31, 1970) is a former Luzerne County, Pennsylvania commissioner, and retired professional American football offensive lineman in the National Football League (NFL) for the Los Angeles/Oakland Raiders and the Carolina Panthers. Skrepenak's professional football career spanned the final three years the Raiders played in Los Angeles, California from 1992-1994 and the first year they returned to Oakland, California in 1995. Then, it continued with consecutive seasons (1996 and 1997) with the Carolina Panthers in which he did not miss a start. Prior to his NFL experience Skrepenak had starred in the Big Ten football conference for the University of Michigan Wolverines as a two-time All-American, team captain, and four-year starter from 1988-1991. Skrepenak played for four consecutive Big Ten Conference Champions, appeared in three Rose Bowls and won a Gator Bowl MVP. Previously he had been a scholar athlete at G. A. R. Memorial Junior Senior High School where he earned 12 varsity letters in football, basketball and baseball. Skrepenak, who was born and raised in Wilkes-Barre in Luzerne County, Pennsylvania, United States, was elected in 2003 to serve as the Luzerne County Commissioner, a position he held from January 2004. until December, 2009. On December 17, 2009, Skrepenak signed a plea agreement to a charge of corruption. He would resign later that day. On August 6, 2010, Greg Skrepenak was sentenced to 24 months in federal prison.",
+  "patterns" : { }
+} ]

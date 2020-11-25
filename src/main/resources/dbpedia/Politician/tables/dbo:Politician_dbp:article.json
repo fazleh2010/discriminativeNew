@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity10778",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Rudolf_Friedenthal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:article" : [ "Friedenthal Karl Rudolf" ]
+  },
+  "words" : [ "-LRB-", "September", "bei", "ein", "Karl", "Königreich", "Friedenthal", "März", "†", "Neiße", "Unternehmer", "15", "im", "Rudolf", "deutscher", "1890", "Giesmannsdorf", "war", "*", "Breslau", "und", ",", ".", "Jurist", "Parlamentarier", "Preußen", "7", "-RRB-", "1827", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Parlamentarier", "im", "deutscher", "war", "ein", "Jurist" ],
+  "text" : "Karl Rudolf Friedenthal (* 15. September 1827 in Breslau; † 7. März 1890 in Giesmannsdorf bei Neiße) war ein deutscher Jurist, Unternehmer und Parlamentarier im Königreich Preußen.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity9395",
+  "entityUrl" : "http://dbpedia.org/resource/Jonas_Ennery",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:article" : [ "Ennery, Jonas" ]
+  },
+  "words" : [ "de", "politique", "Ennery", "est", "moderne", "compila", "vol.", "Hirth", "travailla", "Dictionnaire", "député", "commerciale", "Simon", "un", "éd", "juive", "Charles", "il", "directeur", "janvier", "19", ",", ".", "et", "2", "1863", "4", "-RRB-", "né", "l'École", "dont", "avec", "français", "Il", "-LRB-", "Nancy", "En", "Bruxelles", "Baquol", "pendant", "vingt-six", "Cuvier", "géographie", "devint", "universelle", "mai", "général", "ancienne", "mort", "Jonas", "à", "ans", "Strasbourg", "collaboration", "1839-41", "le", "historique", "1801" ],
+  "adjectives" : [ "dont" ],
+  "nouns" : [ "français", "Il", "est", "compila", "pendant", "vol.", "vingt-six", "travailla", "géographie", "devint", "Dictionnaire", "universelle", "député", "général", "ancienne", "un", "éd", "à", "il", "directeur", "janvier", "collaboration", "né", "l'École", "historique" ],
+  "text" : "Jonas Ennery est un député français, né à Nancy le 2 janvier 1801 et mort à Bruxelles le 19 mai 1863. Il travailla pendant vingt-six ans à l'École juive de Strasbourg, dont il devint le directeur. En collaboration avec Hirth et Charles Cuvier, il compila un Dictionnaire général de géographie universelle ancienne et moderne, historique, politique et commerciale (4 vol., éd. Baquol et Simon, Strasbourg, 1839-41). Peu après il publia Le Sentier d'Israël, ou Bible des jeunes Israélites (Paris, Metz et Strasbourg, 1843). À la demande de la Société des bons livres, il prit part à la publication de Prières d'un cœur israélite, qui parut en 1848. En 1849, en dépit d'émeutes antijuives en Alsace, Ennery fut élu représentant pour le département du Bas-Rhin et siégea parmi les membres de la Montagne. Il consacra surtout son attention aux questions scolaires. Après le coup d'État il résista au nouvel ordre qui s'était établi et fut exilé à vie en 1852. Il se retira à Bruxelles, où il vécut jusqu'à sa mort en tant qu'enseignant. Son frère aîné, Marchand Ennery, fut élu grand rabbin de Paris en 1830 puis grand rabbin de France en 1846.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity6892",
+  "entityUrl" : "http://dbpedia.org/resource/Heinrich_von_Friedberg",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:article" : [ "Friedberg Heinrich von" ]
+  },
+  "words" : [ "†", "Politiker", "-LRB-", "Heinrich", "27", "Juni", "deutscher", "Berlin", "Friedberg", "war", "*", "und", "ein", ".", "Jurist", "Friedland", "2", "von", "1895", "-RRB-", "Märkisch", ";", "Januar", "1813" ],
+  "adjectives" : [ "Januar" ],
+  "nouns" : [ "†", "Politiker", "deutscher", "war", "und", "ein", "Jurist" ],
+  "text" : "Heinrich von Friedberg (* 27. Januar 1813 in Märkisch Friedland; † 2. Juni 1895 in Berlin) war ein deutscher Jurist und Politiker.",
+  "patterns" : { }
+} ]

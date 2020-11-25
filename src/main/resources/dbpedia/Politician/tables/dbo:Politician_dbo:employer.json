@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity8956",
+  "entityUrl" : "http://dbpedia.org/resource/John_Westlake",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:employer" : [ "http://dbpedia.org/resource/University_of_Cambridge" ]
+  },
+  "words" : [ "Professor", "Ehrenpräsidenten", "Grafschaft", "englischer", "de", "Cornwall", "-LRB-", "Institut", "John", "ein", "Cambridge", "Er", "internationales", "ernannt", "Recht", "Lostwithiel", "der", "zum", "des", "wurde", "international", "1913", "für", "1911", "Droit", "†", "14", "Sozialreformer", "war", "als", "*", "und", ",", ".", "April", "Jurist", "Westlake", "wirkte", "4", "University", "London", "-RRB-", "1828", ";", "Februar" ],
+  "adjectives" : [ "international", "Februar" ],
+  "nouns" : [ "englischer", "wirkte", "zum", "Sozialreformer", "wurde", "war", "und", "ein", "Er", "für", "ernannt", "Jurist" ],
+  "text" : "John Westlake (* 4. Februar 1828 in Lostwithiel, Grafschaft Cornwall; † 14. April 1913 in London) war ein englischer Jurist und Sozialreformer. Er wirkte als Professor für internationales Recht an der University of Cambridge und wurde 1911 zum Ehrenpräsidenten des Institut de Droit international ernannt. Schwerpunkt seiner rechtswissenschaftlichen Tätigkeit war das internationale Privatrecht.",
+  "patterns" : { }
+} ]

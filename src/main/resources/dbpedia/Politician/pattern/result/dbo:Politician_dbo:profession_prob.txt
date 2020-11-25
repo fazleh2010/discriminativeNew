@@ -1,0 +1,6 @@
+id=21  property=dbo:profession  
+served-RB_VBN  multiply=0.002991  P(served|dbo:profession)=0.092338  P(dbo:profession|served)=0.032391    
+elected-VBN  multiply=0.001544  P(elected|dbo:profession)=0.066798  P(dbo:profession|elected)=0.023114    
+employed_associate-VBN_NN  multiply=6.55E-4  P(employed_associate|dbo:profession)=0.001965  P(dbo:profession|employed_associate)=0.333333    
+returned_to-VBN_TO  multiply=1.48E-4  P(returned_to|dbo:profession)=0.003929  P(dbo:profession|returned_to)=0.037736    
+

@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity12858",
+  "entityUrl" : "http://dbpedia.org/resource/Mahmood_Fahmi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mandateperiod" : [ "2008" ]
+  },
+  "words" : [ "Fahmi", "Party", "Moderate", "politician", "member", "Mahmood", "parliamentary", ".", "Swedish" ],
+  "adjectives" : [ "Moderate", "parliamentary", "Swedish" ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Mahmood Fahmi is a Swedish parliamentary politician and member of the Moderate Party.",
+  "patterns" : { }
+} ]

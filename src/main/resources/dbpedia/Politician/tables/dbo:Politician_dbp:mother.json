@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "1_entity11420",
+  "entityUrl" : "http://dbpedia.org/resource/Luis_A._Eguiguren",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Josefina Escudero Menacho" ]
+  },
+  "words" : [ "Nacional", "de", "entonces", "con", "Eguiguren", "presidenciales", "político", "Alcalde", "Obtuvo", "Óscar", "Poder", "del", "Nación", "Archivo", "aduciendo", "1930", "Escudero", "ganado", "Presidió", "un", "1936", "R.", "tal", "Suprema", "las", "†", "victoria", "15", "director", "el", "en", "*", "Judicial", ",", "-", ".", "líder", "Socialdemócrata", "1914-1920", "Piura", "Corte", "Partido", "elección", "Luis", "-RRB-", "General", "había", "educador", "21", "que", "-LRB-", "pero", "Regidor", "Presidente", "Antonio", "Congreso", "votos", "1954", "1953", "por", "Lima", "historiador", "Fue", "desconocida", "elecciones", "1914", "1930-1932", "magistrado", "fundador", "agosto", "Constituyente", "julio", "apristas", "1887", "la", "fue", "Benavides", "y", "peruano", "1967" ],
+  "adjectives" : [ "y", "tal", "aduciendo" ],
+  "nouns" : [ "que", "con", "elección", "ganado", "director", "pero", "fue", "Fue", "un", "había", "educador", "magistrado" ],
+  "text" : "Luis Antonio Eguiguren Escudero, (* Piura, 21 de julio de 1887 - † Lima, 15 de agosto de 1967) fue un educador, magistrado, historiador y político peruano. Fue director del Archivo General de la Nación (1914), Regidor de Lima (1914-1920), Alcalde de Lima (1930), Presidente del Congreso Constituyente (1930-1932), fundador y líder del Partido Socialdemócrata. Obtuvo la victoria en las elecciones presidenciales de 1936, pero tal elección fue desconocida por el Congreso Nacional y el entonces Presidente Óscar R. Benavides, aduciendo que había ganado con votos apristas. Presidió la Corte Suprema y el Poder Judicial en 1953 y 1954. La Ley Nº 24899 promulgada el 19 de octubre de 1988, establece cada 21 de julio como Día del Humanista Peruano, en homenaje al magistrado, historiador, periodista y político peruano, Don Luis Antonio Eguiguren, en el centenario de su nacimiento.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity2482",
+  "entityUrl" : "http://dbpedia.org/resource/Claire_Moore",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Mary Moore" ]
+  },
+  "words" : [ "Claire", "confused", "Moore", "see", "-LRB-", "singer", "-RRB-", "Clare", ",", "." ],
+  "adjectives" : [ ],
+  "nouns" : [ "singer" ],
+  "text" : "(For the singer, see Claire Moore (singer).)(Not to be confused with Clare Moore.)",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity2143",
+  "entityUrl" : "http://dbpedia.org/resource/Balram_Naik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Lakshmi" ]
+  },
+  "words" : [ "Congress", "June", "Lower", "-LRB-", "political", "15th", "Naik", "Sabha", "known", "National", "member", "born", "politician", "Lok", "House", ",", ".", "India", "1964", "6", "Balram", "-RRB-", "Porika", "Indian", "party", "Parliament" ],
+  "adjectives" : [ "Indian", "political", "15th" ],
+  "nouns" : [ "politician", "member", "party" ],
+  "text" : "Porika Naik Balram known as Balram Naik (born 6 June 1964) is an Indian politician and a member of the Indian National Congress political party. He was a member of the 15th Lok Sabha, Lower House of the Parliament of India.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity17589",
+  "entityUrl" : "http://dbpedia.org/resource/Teja_Singh_Akarpuri",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Partap Kaur" ]
+  },
+  "words" : [ "-LRB-", "called", "ਤੇਜਾ", "ਸਿ", "politician", "Punjab", ",", "people", ".", "Teja", "see", "freedom", "-RRB-", "ਘ", "Indian", "fighter", "Singh", ":", "Punjabi", "Akarpuri" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "freedom", "politician", "ਘ", "fighter" ],
+  "text" : "(For other people called Teja Singh, see Teja Singh.) Teja Singh Akarpuri (Punjabi: ਤੇਜਾ ਸਿੰਘ) was an Indian politician and freedom fighter from Punjab.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity15055",
+  "entityUrl" : "http://dbpedia.org/resource/Romulus_Mitchell_Saunders",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Hannah Mitchell Saunders" ]
+  },
+  "words" : [ "-LRB-", "الديمقراطي", "م", "و", "سياسي", "،", "عضو", "Mitchell", "المتحدة", "الولايات", "--", "هو", "من", "الحزب", "بالإنجليزية", "رومولوس", "1791", "في", "الأمريكي", "Saunders", "الأمريكية", ".", "سوندرز", "وهو", "ودبلوماسي", "ميتشل", "-RRB-", ":", "Romulus", "ومحام", "1867" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "وهو", "م", "الأمريكي", "،", "سوندرز" ],
+  "text" : "رومولوس ميتشل سوندرز (بالإنجليزية: Romulus Mitchell Saunders) (و. 1791 – 1867 م) هو سياسي، ومحام، ودبلوماسي من الولايات المتحدة الأمريكية .وهو عضو في الحزب الديمقراطي الأمريكي .",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity15289",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_L._Floyd",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Margaret Scott" ]
+  },
+  "words" : [ "、", "1966年", "。", "特別捜査官として働き始めた", "マイアミ市の執行委員長を務めた", "（", "）", "アメリカン大学でロースクール在学中にワシントンD.C.で連邦捜査局", "マイアミ市長に立候補し", "オハイオ州シンシナティで生まれ", "FBI", "1941年に法律の学位を取得し", "マリー", "レスター", "Lester", "ロバート2世", "ローズマリーの4人の子供をもうけ", "個人事務所へ戻る前の1ヶ月間", "Robert", "1918年1月4日", "フロリダ大学で学位を取得した", "マイアミにて89歳で死去した", "Floyd", "マイアミの最年少市長", "1943年にFBIを辞職し", "ジェームズ", "死去するまでに7人の孫がいた", "ノークロスと結婚し", "1947年", "最年少の29歳で当選した", "1946年9月4日にローズ", "エドワード", "マイアミ高校を卒業し", "1939年", "フロイド", "-", "は", "1951年および1953年にフロリダ州下院議員に選出された", "ロバート", "個人事業の開業のためマイアミに戻った", "暫定でデイド郡保安官を務めた", "2007年5月14日", "・", "幼少時に母親とマイアミに引っ越した", "1954年と1960年にはデイド郡裁判所の裁判官に選出された" ],
+  "adjectives" : [ ],
+  "nouns" : [ "1943年にFBIを辞職し", "、", "。", "（", "アメリカン大学でロースクール在学中にワシントンD.C.で連邦捜査局", "・", "は" ],
+  "text" : "ロバート・レスター・フロイド（Robert Lester Floyd、1918年1月4日 - 2007年5月14日）は、マイアミの最年少市長。 オハイオ州シンシナティで生まれ、幼少時に母親とマイアミに引っ越した。マイアミ高校を卒業し、フロリダ大学で学位を取得した。1939年、アメリカン大学でロースクール在学中にワシントンD.C.で連邦捜査局（FBI）特別捜査官として働き始めた。1941年に法律の学位を取得し、1943年にFBIを辞職し、個人事業の開業のためマイアミに戻った。1946年9月4日にローズ・マリー・ノークロスと結婚し、ジェームズ、ロバート2世、エドワード、ローズマリーの4人の子供をもうけ、死去するまでに7人の孫がいた。 1947年、マイアミ市長に立候補し、最年少の29歳で当選した。マイアミ市の執行委員長を務めた。1951年および1953年にフロリダ州下院議員に選出された。1954年と1960年にはデイド郡裁判所の裁判官に選出された。1966年、個人事務所へ戻る前の1ヶ月間、暫定でデイド郡保安官を務めた。 マイアミにて89歳で死去した。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity16828",
+  "entityUrl" : "http://dbpedia.org/resource/S._R._Subramania_Adityan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "R. Babu Sundaram Ammal" ]
+  },
+  "words" : [ "Subramania", "Nadu", "Munnetra", "Chair", "Kabodi", "Tiruchendur", "Sri", "1982-1987", "legislative", "President", "candidate", "Association", "post", "Presently", "assembly", "Nadar", "R.", "Dravida", "Anna", "Thoothukudi", "Amateur", "election", "politician", "Devasthanam", ",", "former", "Tamil", ".", "Thakshina", "Adityan", "elected", "Swami", "twice", "1984", "constituency", "Maara", "Indian", "S.", "Kazhagam", "Person", "Takkar", "Sangam" ],
+  "adjectives" : [ "Amateur", "Indian", "former", "legislative" ],
+  "nouns" : [ "candidate", "election", "constituency", "post", "politician", "assembly", "Person" ],
+  "text" : "S. R. Subramania Adityan is a former Indian politician, elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Tiruchendur constituency in 1984 election, was then twice Takkar of Tiruchendur Sri Subramania Swami Devasthanam during 1982-1987. Presently he is the President of Thakshina Maara Nadar Sangam and post of Chair Person of Thoothukudi Amateur Kabodi Association.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity5939",
+  "entityUrl" : "http://dbpedia.org/resource/Ganesh_Prasad_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Rampati Devi" ]
+  },
+  "words" : [ "Prasad", "14th", "Jahanabad", "Bihar", "-LRB-", "refugees", "political", "best", "RJD", "durable", "Sabha", "view", "solution", "member", "voluntary", "Singh", "represented", "specifically", "July", "case", "repatriation", "Janata", "born", "Lok", "Afghan", ",", ".", "Dal", "India", "1", "Ganesh", "constituency", "Rashtriya", "-RRB-", "1947", "party", "supported" ],
+  "adjectives" : [ "14th", "durable", "political", "voluntary" ],
+  "nouns" : [ "repatriation", "Sabha", "view", "constituency", "solution", "member", "Lok", "party", "case" ],
+  "text" : "Ganesh Prasad Singh (born 1 July 1947) was a member of the 14th Lok Sabha of India. He represented the Jahanabad constituency of Bihar and is a member of the Rashtriya Janata Dal (RJD) political party. He has supported the view that voluntary repatriation of refugees is the best and most durable solution, specifically in the case of Afghan refugees.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity7956",
+  "entityUrl" : "http://dbpedia.org/resource/J._R._Clynes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:3blankname" : [ "Chief Whip" ]
+  },
+  "words" : [ "23", "leader", "-LRB-", "Leader", "27", "breakthrough", "John", "unionist", "March", "Labour", "led", "serve", "years", "general", "October", "Party", "Robert", "Englishman", "Member", "February", "November", "--", "British", "35", "MP", "14", "election", "politician", ",", ".", "1921", "Clynes", "PC", "trade", "-RRB-", "1949", "1869", "Parliament", "party", "first", "21", "1922" ],
+  "adjectives" : [ "general", "British", "unionist", "first" ],
+  "nouns" : [ "leader", "trade", "election", "breakthrough", "politician", "party" ],
+  "text" : "John Robert Clynes PC (27 March 1869 – 23 October 1949) was a British trade unionist and Labour Party politician. He was a Member of Parliament (MP) for 35 years, and as Leader of the Labour Party (from 14 February 1921 to 21 November 1922), led the party in its breakthrough at the 1922 general election. He was the first Englishman to serve as leader of the Labour Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity20",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Henderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:3blankname" : [ "Chief Whip" ]
+  },
+  "words" : [ "``", "acknowledgement", "separate", "called", "Arthur", "Labour", "three", "integrity", "terms", "won", "emphasis", "different", "1935", "1934", "--", "13", "Uncle", "goal", "minister", "conciliation", "moulder", ",", "whose", "arbitration", ".", "thwarted", "1863", "among", "served", "colleagues", "-RRB-", "20", "-LRB-", "September", "Leader", "rejected", "policies", "cause", "October", "Party", "transitional", "Peace", "popular", "close", "''", "British", "figure", "unions", "imperturbability", "Liberal", "unifying", "politician", "trades", "uniquely", "Prize", "PC", "Nobel", "devotion", "iron", "decades", "cabinet", "Henderson", "first" ],
+  "adjectives" : [ "British", "separate", "transitional", "unifying", "different", "popular", "close", "first" ],
+  "nouns" : [ "acknowledgement", "figure", "goal", "minister", "imperturbability", "politician", "conciliation", "cause", "Labour", "moulder", "arbitration", "integrity", "devotion", "emphasis", "iron", "cabinet" ],
+  "text" : "Arthur Henderson PC (13 September 1863 – 20 October 1935) was a British iron moulder and Labour politician. He was the first Labour cabinet minister, won the Nobel Peace Prize in 1934 and, uniquely, served three separate terms as Leader of the Labour Party in three different decades. He was popular among his colleagues, who called him \"Uncle Arthur\" in acknowledgement of his integrity, his devotion to the cause and his imperturbability. He was a transitional figure whose policies were, at first, close to those of the Liberal Party, and the trades unions rejected his emphasis on arbitration and conciliation, and thwarted his goal of unifying the Labour Party and the trades unions.",
+  "patterns" : { }
+} ]

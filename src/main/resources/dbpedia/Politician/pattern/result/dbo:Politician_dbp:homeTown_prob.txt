@@ -1,0 +1,7 @@
+id=44  property=dbp:homeTown  
+originally_belongs-RB_VBZ  multiply=0.026316  P(originally_belongs|dbp:homeTown)=0.052632  P(dbp:homeTown|originally_belongs)=0.5    
+important_leader-JJ_NN  multiply=0.017544  P(important_leader|dbp:homeTown)=0.052632  P(dbp:homeTown|important_leader)=0.333333    
+president_of-NN_IN  multiply=0.002567  P(president_of|dbp:homeTown)=0.105263  P(dbp:homeTown|president_of)=0.02439    
+contested-VBN  multiply=0.001032  P(contested|dbp:homeTown)=0.052632  P(dbp:homeTown|contested)=0.019608    
+served-RB_VBN  multiply=3.26E-4  P(served|dbp:homeTown)=0.157895  P(dbp:homeTown|served)=0.002068    
+

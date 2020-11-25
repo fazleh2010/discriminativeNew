@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity13298",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_Jackson_(Oklahoma_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:birthplace" : [ "http://dbpedia.org/resource/Kiowa,_Kansas" ]
+  },
+  "words" : [ "-LRB-", "Enid", "Oklahoma", "serves", "United", "March", "Jackson", "Representatives", "Pro", "States", "U.S.", "file", "2004", "chose", "Elected", "state", "1978", "Speaker", "re-election", "hometown", "born", "politician", "House", ",", ".", "Mike", "currently", "6", "2014", "Tempore", "-RRB-" ],
+  "adjectives" : [ ],
+  "nouns" : [ "re-election", "hometown", "politician", "state" ],
+  "text" : "Mike Jackson (born March 6, 1978) is a United States politician from the U.S. state of Oklahoma. Jackson currently serves in the Oklahoma House of Representatives as the Speaker Pro Tempore. Elected to the Oklahoma House of Representatives from his hometown of Enid, Oklahoma in 2004, Jackson chose not to file for re-election in 2014.",
+  "patterns" : { }
+} ]

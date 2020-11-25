@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity16442",
+  "entityUrl" : "http://dbpedia.org/resource/Shibdas_Ghosh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:influences" : [ "http://dbpedia.org/resource/Vladimir_Lenin", "http://dbpedia.org/resource/Joseph_Stalin", "http://dbpedia.org/resource/Karl_Marx", "http://dbpedia.org/resource/Mao_Zedong", "http://dbpedia.org/resource/Sarat_Chandra_Chaterjee" ]
+  },
+  "words" : [ "de", "nació", "entonces", "capital", "independentista", "Socialista", "con", "político", "del", "Manabendranath", "1976", "Unificado", "Centro", "un", "Shibdas", "Daca", "vio", "las", "actual", "13", "seno", "el", "Comunista", "media-baja", "en", "ideas", "al", ",", "-", "edad", ".", "India", "unirse", "movimiento", "5", "curso", "-RRB-", "Estudió", "años", "Roy", "indio", "británico", "-LRB-", "primer", "secretario", "escuela", "pues", "clase", "muy", "general", "se", "por", "para", "corta", "Fue", "fundador", "agosto", "hasta", "Bangladés", "una", "solo", "atraído", "la", "comunista", "fue", "y", "Ghosh", "Raj", "10º", "1923", "familia" ],
+  "adjectives" : [ "general", "actual", "unirse" ],
+  "nouns" : [ "nació", "británico", "capital", "con", "político", "primer", "secretario", "el", "media-baja", "solo", "edad", "muy", "para", "corta", "curso", "fue", "un", "Raj" ],
+  "text" : "Shibdas Ghosh (5 de agosto de 1923 - 5 de agosto de 1976) fue un político comunista de la India. Fue el fundador y primer secretario general del Centro Socialista Unificado de la India (Comunista). Ghosh nació el 5 de agosto de 1923 en Daca, en el entonces Raj británico (actual capital de Bangladés), en el seno de una familia de clase media-baja. Estudió en la escuela hasta 10º curso, para unirse con solo 13 años al movimiento independentista indio, pues se vio atraído por las ideas de Manabendranath Roy a muy corta edad. En 1942 se unió al movimiento Quit India, por lo que fue detenido y encarcelado, pasando tres años en prisión. Durante su estancia en la cárcel comenzó a estudiar a los clásicos del marxismo. En 1948, junto a otros colegas como Nihar Mukherjee (que le sucedería en el puesto tras su muerte), decide fundar el SUCI(C). Murió en Bengala el día que cumplía 53 años, en 1976",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity14199",
+  "entityUrl" : "http://dbpedia.org/resource/Pavlo_Tychyna",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:influences" : [ "http://dbpedia.org/resource/Mykhailo_Kotsiubynsky", "http://dbpedia.org/resource/Oleksandr_Oles", "http://dbpedia.org/resource/Mykola_Voronyi" ]
+  },
+  "words" : [ "23", "-LSB-", "-LRB-", "September", "Anthem", "Tychyna", "Socialist", "Павло", "Republic", "Ukrainian", "academician", "major", "public", "poet", "Pavlo", "January", "lyrics", "O.S.", "11", "--", "activist", "statesman", "16", "Тичина", "created", "1891", "interpreter", "Soviet", ",", "Григорович", ".", "-RRB-", "-RSB-", ":", ";", "1967", "publicist" ],
+  "adjectives" : [ "Ukrainian", "major", "public", "Soviet", "Socialist" ],
+  "nouns" : [ "activist", "academician", "statesman", "poet", "interpreter", "publicist", "Republic" ],
+  "text" : "Pavlo Tychyna (Ukrainian: Павло Григорович Тичина; 23 January [O.S. 11 January] 1891 – September 16, 1967) was a major Ukrainian poet, interpreter, publicist, public activist, academician, and statesman. He created lyrics to the Anthem of the Ukrainian Soviet Socialist Republic.",
+  "patterns" : { }
+} ]

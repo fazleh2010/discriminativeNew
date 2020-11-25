@@ -1,0 +1,6 @@
+id=27  property=dbp:title  object=Offices and distinctions  NumberOfEntitiesFoundForObject=38
+american-JJ  multiply=0.095375  P(american|object)=0.921053  P(object|american)=0.10355    
+
+id=28  property=dbp:title  object=http://dbpedia.org/resource/List_of_mayors_of_Portland,_Oregon  NumberOfEntitiesFoundForObject=30
+businessman-NN  multiply=0.051682  P(businessman|object)=0.433333  P(object|businessman)=0.119266    
+

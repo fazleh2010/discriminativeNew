@@ -1,0 +1,12 @@
+id=26  property=dbo:restingPlace  
+listed_on-VBN_IN  multiply=0.020332  P(listed_on|dbo:restingPlace)=0.029046  P(dbo:restingPlace|listed_on)=0.7    
+born_on-VBN_IN  multiply=0.007469  P(born_on|dbo:restingPlace)=0.024896  P(dbo:restingPlace|born_on)=0.3    
+served-RB_VBN  multiply=0.006866  P(served|dbo:restingPlace)=0.20332  P(dbo:restingPlace|served)=0.03377    
+came_to-VBD_TO  multiply=0.006224  P(came_to|dbo:restingPlace)=0.024896  P(dbo:restingPlace|came_to)=0.25    
+judge_of-NN_IN  multiply=0.005533  P(judge_of|dbo:restingPlace)=0.008299  P(dbo:restingPlace|judge_of)=0.666667    
+served_in-VBN_IN  multiply=0.005444  P(served_in|dbo:restingPlace)=0.124481  P(dbo:restingPlace|served_in)=0.043732    
+moved_to-VBN_TO  multiply=0.00523  P(moved_to|dbo:restingPlace)=0.045643  P(dbo:restingPlace|moved_to)=0.114583    
+born_in-VBN_IN  multiply=0.005162  P(born_in|dbo:restingPlace)=0.099585  P(dbo:restingPlace|born_in)=0.051836    
+served_on-VBN_IN  multiply=0.004898  P(served_on|dbo:restingPlace)=0.099585  P(dbo:restingPlace|served_on)=0.04918    
+served_one-VBD_CD  multiply=0.004858  P(served_one|dbo:restingPlace)=0.099585  P(dbo:restingPlace|served_one)=0.04878    
+

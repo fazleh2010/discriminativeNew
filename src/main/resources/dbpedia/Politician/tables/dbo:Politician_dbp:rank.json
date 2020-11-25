@@ -1,0 +1,1333 @@
+[ {
+  "entityIndex" : "1_entity13649",
+  "entityUrl" : "http://dbpedia.org/resource/Nathaniel_Appleton_Haven",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Ship's Surgeon" ]
+  },
+  "words" : [ "New", "Politiker", "Haven", "-LRB-", "Zwischen", "Juli", "ein", "den", "1811", "1831", "US-Repräsentantenhaus", "Hampshire", "März", "Nathaniel", "Bundesstaat", "US-amerikanischer", "†", "vertrat", "13", "im", "1809", "19", "war", "*", "und", ",", "ebenda", "er", ".", "1762", "-RRB-", ";", "Portsmouth", "Appleton" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "ebenda", "er", "US-amerikanischer" ],
+  "text" : "Nathaniel Appleton Haven (* 19. Juli 1762 in Portsmouth, New Hampshire; † 13. März 1831 ebenda) war ein US-amerikanischer Politiker. Zwischen 1809 und 1811 vertrat er den Bundesstaat New Hampshire im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity13886",
+  "entityUrl" : "http://dbpedia.org/resource/Nelson_Taylor,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "Ann", "13th", "-LRB-", "Jr.", "1854", "bar", "son", "1894", "member", "1912", "Mary", "1878", "--", "Nelson", "admitted", "Taylor", "mayor", "1908", "South", "one-term", ",", ".", "1888", "1821", "Senate", "1885", "Norwalk", "Connecticut", "district", "-RRB-", "1823" ],
+  "adjectives" : [ "13th", "one-term" ],
+  "nouns" : [ "bar", "son", "mayor", "district", "member" ],
+  "text" : "Nelson Taylor, Jr. (1854–1912) was a one-term mayor of South Norwalk, Connecticut in 1885. He was a member of the Connecticut Senate from the 13th district until 1888. He was the son of Nelson Taylor (1821–1894) and Mary Ann Taylor (1823–1908). He was admitted to the bar in 1878. In 1879, he was a State Attorney. He was mayor of South Norwalk in 1885.In 1888, he vacated the Connecticut Senate seat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity8077",
+  "entityUrl" : "http://dbpedia.org/resource/John_Moore-Brabazon,_1st_Baron_Brabazon_of_Tara",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "http://dbpedia.org/resource/Lieutenant_colonel_(United_Kingdom)" ]
+  },
+  "words" : [ "-LRB-", "May", "Brabazon", "John", "England", "War", "Cuthbert", "aviation", "GBE", "pioneer", "World", "1st", "Englishman", "MC", "Production", "Tara", "power", "Baron", "February", "Minister", "--", "II", "pilot", "17", "Moore-Brabazon", "politician", "heavier-than-air", ",", ".", "1964", "English", "Theodore", "PC", "1884", "machine", "Conservative", "served", "8", "-RRB-", "Transport", "Aircraft", "first" ],
+  "adjectives" : [ "English", "Conservative", "heavier-than-air", "first" ],
+  "nouns" : [ "pilot", "machine", "politician", "aviation", "power", "pioneer" ],
+  "text" : "John Theodore Cuthbert Moore-Brabazon, 1st Baron Brabazon of Tara, GBE, MC, PC (8 February 1884 – 17 May 1964) was an English aviation pioneer and Conservative politician. He was the first Englishman to pilot a heavier-than-air machine under power in England, and he served as Minister of Transport and Minister of Aircraft Production during World War II.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity8301",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Dickson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Brigadier general" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Tennessee", "Zwischen", "ein", "den", "County", "1799", "Rutherford", "US-Repräsentantenhaus", "North", "Bundesstaat", "US-amerikanischer", "Dickson", "†", "vertrat", "14", "im", "war", "Carolina", "*", "und", ",", "er", "April", ".", "Pennsylvania", "1745", "Chester", "Joseph", "-RRB-", ";", "1825", "1801" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Joseph Dickson (* April 1745 im Chester County, Pennsylvania; † 14. April 1825 im Rutherford County, Tennessee) war ein US-amerikanischer Politiker. Zwischen 1799 und 1801 vertrat er den Bundesstaat North Carolina im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity8319",
+  "entityUrl" : "http://dbpedia.org/resource/James_Harper_Prowse",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "-LRB-", "September", "Alberta", "death", "27", "Jr.", "barrister", "led", "provincially", "1976", "opposition", "later", "province", "federal", "member", "provincial", "1959", "1958", "1913", "Assembly", "November", "--", "Prowse", "James", "Liberal", "politician", "solicitor", ",", "Harper", ".", "senator", "Canada", "Independent", "3", "serviceman", "served", "-RRB-", "Legislative", "1948", "1945", "sitting", "party", "1966" ],
+  "adjectives" : [ "Liberal", "federal", "provincial", "Legislative" ],
+  "nouns" : [ "senator", "opposition", "province", "death", "serviceman", "politician", "member", "barrister", "solicitor", "Assembly", "party" ],
+  "text" : "James Harper Prowse Jr.  (November 3, 1913 – September 27, 1976), was a serviceman, provincial and federal politician, barrister and solicitor from Canada. Prowse served as a member of the Legislative Assembly of Alberta from 1945 to 1959 sitting as an Independent and a Liberal in opposition. He led the Liberal provincially party from 1948 to 1958 and later served as a senator for the province of Alberta from 1966 until his death in 1976.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity8596",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Paton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "Reserve", "June", "southern", "-LRB-", "officer", "Republican", "Representatives", "Operation", "Freedom", "second", "2008", "candidate", "2007", "U.S.", "Jonathan", "1971", "2004", "won", "member", "term", "30", "February", "Arizona", "10", "Army", "reelection", "began", "born", "representing", "House", "Iraqi", ",", "'s", "8th", "former", ".", "intelligence", "elected", "Senate", "Paton", "served", "-RRB-", "Legislative", "District", "first" ],
+  "adjectives" : [ "southern", "Legislative", "Iraqi", "8th", "former", "first", "second" ],
+  "nouns" : [ "candidate", "reelection", "officer", "Paton", "member", "term", "Freedom", "intelligence" ],
+  "text" : "Jonathan Paton (born June 10, 1971) is a former Arizona Republican candidate for the U.S. House of Representatives in Arizona's 8th District and an intelligence officer in the U.S. Army Reserve who served in Operation Iraqi Freedom. Paton was first elected to southern Arizona's Legislative District 30 as a member of the Arizona House of Representatives in 2004. He won reelection and began his second term in February 2007. In 2008, he was elected to the Arizona Senate, again representing Legislative District 30. On January 17, 2010, Paton announced he would be challenging Democratic U.S. Representative Gabrielle Giffords. He subsequently resigned from the state Senate to focus his efforts on campaigning for Congress. Paton lost in the 2010 Republican primary and endorsed his former opponent, Jesse Kelly. He ran for Congress again in 2012, this time in Arizona's newly formed 1st Congressional District, ending in close defeat against Democratic opponent Ann Kirkpatrick.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity8842",
+  "entityUrl" : "http://dbpedia.org/resource/James_Gray_Turgeon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant" ]
+  },
+  "words" : [ "career", "Alberta", "I.", "Turgeon", "World", "Commons", "houses", "provincial", "Member", "1935", "Assembly", "--", "Gray", "14", "level", "Senator", "House", ",", ".", "Canada", "7", "served", "-RRB-", "1947", "politics", "-LRB-", "death", "Canadian", "War", "long", "October", "government", "federal", "member", "February", "1913", "1879", "James", "Liberal", "politician", "also", "broker", "1921", "1964", "soldier", "caucus", "Legislative", "time", "sitting" ],
+  "adjectives" : [ "Canadian", "Liberal", "federal", "provincial", "Legislative", "long" ],
+  "nouns" : [ "career", "government", "death", "soldier", "level", "politician", "caucus", "member", "time", "broker", "Assembly" ],
+  "text" : "James Gray Turgeon (October 7, 1879 – February 14, 1964) was a broker, soldier, and provincial and federal level politician from Canada. He served as a member of the Legislative Assembly of Alberta from 1913 to 1921 sitting with the Alberta Liberal caucus in government. During that time he also served in World War I. Turgeon had a long career in federal politics. He served as a Member of the Canadian House of Commons from 1935 to 1947 and he also served as a Canadian Senator from 1947 to his death in 1964 sitting with the federal Liberal caucus in both houses.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity9960",
+  "entityUrl" : "http://dbpedia.org/resource/John_George_(Virginia_colonist)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "-LRB-", "John", "colonist", "county", "least", "two", "County", "legislative", "1679", "George", "terms", "Burgesses", "justice", "representative", "early", "--", "Isle", "politician", "representing", "House", ",", "court", ".", "soldier", "served", "-RRB-", "1650s", "1640s", "Wight", "Virginia", "burgess", "landowner", "1603" ],
+  "adjectives" : [ "early", "legislative" ],
+  "nouns" : [ "soldier", "politician", "colonist", "county", "justice", "court", "representative", "burgess", "landowner" ],
+  "text" : "John George (1603–1679) was an early Virginia colonist, landowner, soldier, county court justice and legislative representative (politician). He served at least two terms as a burgess in the Virginia House of Burgesses in the 1640s and 1650s representing Isle of Wight County, Virginia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity10054",
+  "entityUrl" : "http://dbpedia.org/resource/Jules_Jammal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "First lieutenant" ]
+  },
+  "words" : [ "الملازم", "مساهمة", "الهبوب", "عندما", "طالبا", "شارك", "،", "السويس", "البكالوريوس", "فوجئ", "غربية", "يوليو", "عبد", "والدولة", "إنجلترا", "كله", "يشب", "تحقق", "في", "بتأميم", "الدفعة", "قد", ".", "بان", "بمدن", "مسيحية", "بقرار", "وهي", "يكن", "البحرية", "سوريا", "ارسل", "وفرنسا", "لتتحول", "الساحلية", "قلب", "جول", "للالتحاق", "م", "و", "اللاذقية", "ضمن", "فقي", "المقاومة", "العالم", "تركها", "كطبيب", "كشركة", "طلاب", "على", "وفي", "ضابط", "شركة", "وقد", "وهكذا", "عشر", "العربي", "للملاحة", "العروبة", "العام", "السورية", "إلى", "حلمه", "القناة", "الثلاثى", "يصبح", "أن", "سيناء", "الاحتلال", "الاداب", "1932", "شهادة", "غريبا", "والده", "كان", "بوادر", "حب", "سياسية", "وبدأت", "الثلاثة", "من", "ترتيبه", "عسكرية", "وعادل", "الناصر", "ولد", "الجامعة", "سوريين", "الرئيس", "جمال", "كلية", "مايو", "سبتمبر", "العدوان", "ضد", "مصر", "عاصفة", "الوطن", "الدراسات", "نفس", "مصرية", "ثاني", "قبل", "ضاربة", "وكان", "بعثة", "دبلوماسية", "حربية", "الفرنسي", "ودعد", "ولم", "1953", "ارثودكسية", "قناة", "يوسف", "الوالد", "نال", "بالكلية", "1956", "تعصف", "لأسرة", "الأول", "مدينة", "شهر", "ليصير", "الحديثة", "عام", "أبناءه", "إسرائيل", "أبريل", "بيطرى", "يعمل", "المزورعة", "سلاح", "ان" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "أن", "إسرائيل", "و", "في", "كان", "ولد", "حب", "،", "ان", "العربي" ],
+  "text" : "ولد جول يوسف جمال في مدينة اللاذقية الساحلية في سوريا لأسرة مسيحية ارثودكسية في الأول من أبريل عام 1932 م وكان والده يعمل كطبيب بيطرى وقد شارك الوالد في المقاومة ضد الاحتلال الفرنسي في سوريا ولم يكن غريبا ان يشب أبناءه الثلاثة جول ودعد وعادل على حب العروبة. كان جول طالبا في كلية الاداب في الجامعة السورية عندما تركها في سبتمبر من عام 1953 عندما ارسل ضمن عشر طلاب سوريين في بعثة عسكرية للالتحاق بالكلية البحرية في مصر وهكذا تحقق حلمه بان يصبح ضابط في سلاح البحرية. و قد نال جول في مايو 1956 شهادة البكالوريوس في الدراسات البحرية وكان ترتيبه الأول على الدفعة ليصير الملازم ثاني جول جمال، وفي شهر يوليو من نفس العام فوجئ العالم كله بقرار الرئيس جمال عبد الناصر بتأميم شركة قناة السويس للملاحة كشركة مساهمة مصرية وبدأت بوادر عاصفة سياسية دبلوماسية غربية فقي الهبوب لتتحول إلى عاصفة حربية ضاربة سيناء قبل أن تعصف بمدن القناة وهي عاصفة العدوان الثلاثى إنجلترا وفرنسا والدولة الحديثة المزورعة في قلب الوطن العربي.. إسرائيل. لم يرحل جول وبقية افراد البعثة السورية من مصر بعد التخرج في تلك الفترة لان مصر استوردت زوارق طوربيد حديثة وقد رات الحكومة السورية في ذلك الوقت انه من الأفضل ان يتم تدريب ضباطها على تلك الزوارق الحديثة. وربما كان القدر يلعب لعبته ليكتب أسطورة جديدة بدأت في ليلة الرابع من نوفمبر.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity10308",
+  "entityUrl" : "http://dbpedia.org/resource/John_Palmer_MacBeth",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Petty Officer" ]
+  },
+  "words" : [ "-LRB-", "York", "John", "March", "Davis", "1975", "government", "1991", "member", "west", "represented", "end", "MacBeth", "Assembly", "November", "--", "minister", "West", "politician", "19", ",", ".", "Humber", "1921", "Progressive", "Canada", "Palmer", "1981", "Conservative", "served", "-RRB-", "Bill", "Legislative", "ridings", "Ontario", "cabinet", "20", "Toronto" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "government", "minister", "politician", "member", "west", "end", "cabinet", "Assembly" ],
+  "text" : "John Palmer MacBeth (November 19, 1921 – March 20, 1991) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1975 to 1981. He represented the ridings of York West and Humber in the west end of Toronto. He served as a cabinet minister in the government of Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity10356",
+  "entityUrl" : "http://dbpedia.org/resource/James_Richards_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "-LRB-", "becoming", "May", "American", "29", "Latham", "afterward", "War", "Representatives", "captain", "life", "1810", "Samuel", "sailor", "October", "son", "member", "Richards", "1779", "--", "sessions", "Militia", "James", "began", "17", "House", ",", ".", "1723", "clerk", "Elizabeth", "Norwalk", "soldier", "Connecticut", "1782", "served", "Revolutionary", "-RRB-" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "clerk", "sailor", "son", "soldier", "member", "captain", "life" ],
+  "text" : "James Richards (October 29, 1723 – May 17, 1810) was a member of the Connecticut House of Representatives from Norwalk in the sessions of October 1779, and October 1782. He served as a captain in the Connecticut Militia during the American Revolutionary War. He was the son of Samuel Richards and Elizabeth Latham. He began life as a clerk, becoming afterward a soldier and sailor. He was present, in arms, at the Battle of Norwalk, and the Invasion of Danbury. Richards' wife Ruth Hanford, was a daughter of Samuel Hanford, a granddaughter of Eleazer Hanford, and a great-granddaughter of Rev. Thomas Hanford, of Norwalk. Ruth Hanford's mother was a daughter of Moses Comstock.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity10357",
+  "entityUrl" : "http://dbpedia.org/resource/Job_Bartram",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "Bartram", "-LRB-", "May", "American", "28", "March", "War", "Representatives", "captain", "October", "member", "1817", "Job", "1735", "--", "sessions", "Militia", "House", "1790", ",", ".", "Norwalk", "Connecticut", "served", "Revolutionary", "-RRB-", "20" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "member", "captain" ],
+  "text" : "Job Bartram (March 20, 1735 – October 28, 1817) was a member of the Connecticut House of Representatives from Norwalk in the sessions of May and October 1790. He served as a captain of the Connecticut Militia in the American Revolutionary War.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity10359",
+  "entityUrl" : "http://dbpedia.org/resource/John_Caroll_Houston,_IV",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "22", "-LRB-", "John", "three", "settlers", "1910", "1897", "terms", "1918", "Caroll", "February", "--", "mayor", "one", "Gallie", ",", "Florida", "IV", "April", ".", "1842", "3", "permanent", "served", "-RRB-", "Eau", "1902", "first", "Houston" ],
+  "adjectives" : [ "permanent", "first" ],
+  "nouns" : [ "mayor" ],
+  "text" : "John Caroll Houston, IV (April 3, 1842 – February 22, 1918) was one of the first permanent settlers of Eau Gallie, Florida and served as its mayor for three terms in 1897, 1902, and 1910.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity10367",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_F._Mullins,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "June", "three-term", "Mayor", "-LRB-", "26", "Jr.", "Melbourne", "Council", "December", "1996", "Francis", "previously", "2003", "Vice", "1978", "1977", "--", "including", "mayor", "3rd", "City", ",", "Florida", "Mullins", ".", "1986", "4", "Joseph", "served", "-RRB-", "1927", "District" ],
+  "adjectives" : [ "three-term", "3rd" ],
+  "nouns" : [ "mayor" ],
+  "text" : "Joseph Francis Mullins, Jr. (June 4, 1927 – December 26, 2003) was a three-term mayor of Melbourne, Florida from 1986 to 1996. He previously served on the Melbourne City Council from the 3rd District from 1977 to 1986, including as Vice Mayor in 1978.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity10369",
+  "entityUrl" : "http://dbpedia.org/resource/Jack_Harris_(Ontario_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "June", "-LRB-", "September", "John", "riding", "Beaches", "1997", "Robert", "member", "1917", "represented", "Jack", "Assembly", "--", "12", "16", "politician", "Harris", "downtown", ",", ".", "Progressive", "Canada", "1962", "Conservative", "-RRB-", "Legislative", "Ontario", "1967", "Toronto" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "downtown", "Assembly" ],
+  "text" : "Robert John (Jack) Harris (September 16, 1917 – June 12, 1997) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1962 to 1967 who represented the downtown Toronto riding of Beaches.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity10414",
+  "entityUrl" : "http://dbpedia.org/resource/John_Platt_(settler)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "sergeant" ]
+  },
+  "words" : [ "named", "-LRB-", "John", "several", "Court", "1678", "see", "1632", "son", "1694", "settler", "member", "Richard", "Platt", "January", "early", "November", "Mary", "11", "--", "sessions", "Wood", ",", "people", ".", "Norwalk", "6", "Connecticut", "-RRB-", "General", "Colony", "1705" ],
+  "adjectives" : [ "several", "early" ],
+  "nouns" : [ "son", "settler", "member" ],
+  "text" : "For other people named John Platt, see John Platt. John Platt (January 11, 1632 – November 6, 1705) was an early settler of Norwalk, Connecticut. He was a member of the General Court of the Colony of Connecticut from Norwalk in several sessions between 1678 and 1694. He was the son of Richard Platt and Mary Wood. He moved from Milford to Norwalk, and received grants of land there in 1660, 1663 and 1672. He was a deacon of the church at Norwalk. He was sergeant of the Norwalk Train Band. In 1680 he was one of the three commissioners appointed to lay out the plantation north of Stamford. In 1687, he was appointed one of the three commissioners chosen to lay out Danbury.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity10491",
+  "entityUrl" : "http://dbpedia.org/resource/John_Sharpe_James",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "New", "-LRB-", "James", "American", "born", "politician", "John", "19", "representing", "South", ",", "Council", ".", "Municipal", "Sharpe", "Ward", "-RRB-", "Newark", "July", "Jersey", "1968", "Member" ],
+  "adjectives" : [ "American", "Municipal" ],
+  "nouns" : [ "politician", "Council" ],
+  "text" : "John Sharpe James (born July 19, 1968) is an American politician who is Member of the Municipal Council of Newark, New Jersey, representing the South Ward.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity10523",
+  "entityUrl" : "http://dbpedia.org/resource/James_Davison_(California_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "First Lieutenant, Commander of the Post" ]
+  },
+  "words" : [ "--", "Trustees", "-LRB-", "James", "California", ",", "body", ".", "1888", "President", "Chico", "December", "1897", "governing", "1886", "Board", "seventh", "-RRB-", "1827", "Davison", "21" ],
+  "adjectives" : [ "seventh" ],
+  "nouns" : [ "President", "body" ],
+  "text" : "James Davison (1827 – December 21, 1897) was the seventh President of the Chico Board of Trustees, the governing body of Chico, California from 1886 to 1888.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity10538",
+  "entityUrl" : "http://dbpedia.org/resource/John_Belding",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant" ]
+  },
+  "words" : [ "-LRB-", "26", "May", "father", "John", "least", "October", "son", "shows", "Massachusetts", "1650", "record", "settler", "member", "Beldon", "Deerfield", "January", "early", "Assembly", "November", "1713", "--", "likely", "Wethersfield", "sessions", "Belden", "one", "also", "1691", "Daniel", "recorded", ",", "William", ".", "Sherwood", "Belding", "Thomasine", "Norwalk", "although", "Connecticut", "-RRB-", "9", "General", "Colony", "1705", "brother" ],
+  "adjectives" : [ "likely", "early" ],
+  "nouns" : [ "son", "record", "father", "settler", "member", "brother" ],
+  "text" : "John Belding (also recorded as John Beldon or John Belden) (January 9, 1650 – November 26, 1713) was an early settler of Norwalk, Connecticut. He was a member of the General Assembly of the Colony of Connecticut from Norwalk in the sessions of October 1691 and May 1705. He was most likely the son of William Belding and Thomasine Sherwood, although at least one record shows his father as John Belding of Wethersfield. He was the brother of Daniel Belden, the early settler of Deerfield, Massachusetts. He is recorded as living in Norwalk as early as 1673. On April 30, 1690, he was appointed to a committee to fortify the meeting house. On January 16, 1694, he was appointed to a committee to replace the deceased Reverend Thomas Hanford as minister for the town. In 1708, he was one of the purchasers of Ridgefield, along with Matthew Seymour, Matthias St. John, and Samuel Keeler. He died in 1713, and his widow, Ruth married John Copp, the town clerk.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity10539",
+  "entityUrl" : "http://dbpedia.org/resource/James_Olmsted",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "-LRB-", "May", "28", "29", "years", "founding", "1678", "October", "1699", "1731", "son", "settler", "Richard", "Olmsted", "early", "Assembly", "--", "sessions", "deputy", "James", "town", "17", "1693", "1692", "1691", ",", "April", ".", "clerk", "1645", "1721", "Elizabeth", "Norwalk", "Connecticut", "served", "-RRB-", "General", "Colony", "Haugh", "1707" ],
+  "adjectives" : [ "early" ],
+  "nouns" : [ "clerk", "deputy", "son", "town", "settler" ],
+  "text" : "James Olmsted (April 17, 1645 – April 28, 1731) was an early settler of Norwalk, Connecticut. He was a deputy of the General Assembly of the Colony of Connecticut from Norwalk in the sessions of October 1691, October 1692, October 1693, and May 1699. He was the son of founding settler of Norwalk, Richard Olmsted and Elizabeth Haugh Olmsted. He served as town clerk of Norwalk for 29 years, from 1678 to 1707 and again in 1721. He was town judge. In 1671, and from 1682 to 1685, he was chosen as a selectman.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity10542",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Platt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "John", "1734", "1733", "1732", "1731", "son", "1730", "1739", "Platt", "1738", "1737", "representative", "--", "12", "sessions", "17", "House", ",", ".", "1745", "Joseph", "Connecticut", "served", "-RRB-", "1709", "Colony", "1708", "1707", "1706", "1705", "1748", "1746", "June", "-LRB-", "longest", "May", "youngest", "Representatives", "serving", "1712", "1711", "October", "1710", "Clark", "1672", "member", "1719", "1718", "1716", "February", "1714", "1713", "38", "born", "Hannah", "representing", "1722", "1721", "1720", "Norwalk", "1729", "1728", "1727", "1726", "1725", "1724" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "member", "representative" ],
+  "text" : "Joseph Platt (February 17, 1672 – June 12, 1748) was a member of the House of Representatives of the Colony of Connecticut from Norwalk in the sessions of May 1705, October 1706, October 1707, October 1708, October 1709, May 1710, October 1711, October 1712, October 1713, October 1714, October 1716, October 1718, May and October 1719, October 1720, May 1721, October 1722, October 1724, October 1725, October 1726, October 1727, May and October 1728, October 1729, October 1730, May and October 1731, May and October 1732, May and October 1733, October 1734, October 1737, October 1738, May 1739, May and October 1745, and October 1746. He was the longest serving representative from Norwalk. He served as a member of the Connecticut House of Representatives between 1705 and 1748 representing Norwalk in 38 sessions. He was born on February 17, 1672 in Norwalk, the youngest son of John Platt, and Hannah Clark. He received a grant of 10 acres of land from the town of Norwalk for his services in the \"swamp fight\", on February 21, 1698. Joseph was a town selectman for nine years. On June 3, 1723 he was appointed by a town meeting to be chairman of committee to seat the new meeting-house. On February 18, 1725-6, he was appointed at town meeting to a committee to obtain, and set stones for the entrance to the meeting house. At the same meeting, he was appointed to a committee to regulate the difficulties arising from minister Buckingham. He was a justice of the peace for 30 years. He also served as a commissioner to draw the boundary line between Connecticut and New York in 1720. Joseph was Captain of the North Company, of the Norwalk Trainband.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity10548",
+  "entityUrl" : "http://dbpedia.org/resource/John_Read_(Connecticut_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "-LRB-", "May", "officer", "John", "England", "throne", "Representatives", "Read", "1633", "October", "son", "Reed", "1730", "sixteen", "America", "member", "1717", "1715", "--", "II", "Charles", "sessions", "James", "Oliver", "also", "House", ",", "'s", "Cromwell", ".", "army", "Norwalk", "soldier", "left", "Connecticut", "-RRB-", "Colony", "restored", "age" ],
+  "adjectives" : [ ],
+  "nouns" : [ "army", "son", "soldier", "officer", "member", "throne", "age" ],
+  "text" : "John Read (also John Reed) (1633 – 1730) was a member of the Connecticut House of Representatives from Norwalk, Connecticut Colony in the May 1715 and October 1717 sessions. He was the son of James Read. He was an officer in Oliver Cromwell's army, and a soldier from the age of sixteen. When Charles II of England was restored to the throne, Read left for America. He settled first in Providence, Colony of Rhode Island and Providence Plantations. In Providence, he married Anne Samson Derby. He later moved to Rye, Province of New York, in 1684, where he lived for three or four years. He then established himself in the western part of Norwalk, at a house he built on the eastern side of the Five Mile River, north of the Old Post Road and nearly two miles from the Long Island Sound at a place called Reed's Farms. His name is found among the records of the town of Norwalk in 1687. John Read was admitted to the bar in 1708 in Norwalk, Connecticut. His house was used for a meeting place for some years. His wife died and he married again to the Widow Scofield from Stamford. He died in Norwalk, in the ninety-eighth year of his age, in 1730, and was interred in a tomb on his own farm.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity10549",
+  "entityUrl" : "http://dbpedia.org/resource/John_Raymond,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "Raymond", "-LRB-", "September", "session", "Jr.", "John", "Representatives", "Stewart", "October", "December", "son", "road", "member", "Ridgefield", "majority", "1716", "Platt", "1737", "vote", "meeting", "Mary", "1713", "--", "12", "Betts", "committee", "including", "town", "James", "16", "House", ",", "April", ".", "establish", "appointed", "1665", "Norwalk", "Connecticut", "Joseph", "-RRB-", "9", "Colony" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "committee", "town", "road", "session", "member", "majority", "vote", "meeting" ],
+  "text" : "John Raymond, Jr. (September 9, 1665 – April 12, 1737) was a member of the Connecticut House of Representatives from Norwalk, Connecticut Colony in the October 1716 session. He was the son of John Raymond and Mary Betts. On December 16, 1713, Raymond was appointed by a majority vote of a town meeting to a committee including Joseph Platt, and James Stewart to establish a road to Ridgefield.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity10552",
+  "entityUrl" : "http://dbpedia.org/resource/James_Lockwood_(Connecticut_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "John", "Ephraim", "1733", "1732", "son", "justice", "1739", "1738", "Assembly", "1735", "--", "sessions", "House", ",", "April", ".", "appointed", "1744", "1742", "5", "1740", "Connecticut", "peace", "-RRB-", "Colony", "General", "1749", "1748", "brother", "21", "1746", "Lockwood", "-LRB-", "May", "youngest", "Representatives", "St.", "October", "1751", "member", "Mercy", "James", "to1756", "1723", "1722", "Eliphalet", "1721", "Norwalk", "1683", "1729", "1727", "1726", "1769", "1724" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "peace", "to1756", "member", "justice", "brother" ],
+  "text" : "James Lockwood  (April 21, 1683 – May 5, 1769) was a member of the Connecticut House of Representatives from Norwalk, Connecticut Colony in the sessions of May 1721, May 1722, October 1723, October 1724, May 1726, May 1727, May 1729, May and October 1732, May 1733, May and October 1735, May 1738, October 1739, May and October 1740, October 1742, May 1746, October 1748, October 1749, and October 1751. He was the youngest son of Ephraim Lockwood and Mercy St. John and the brother of Eliphalet Lockwood. He was appointed a justice of the peace by the General Assembly from 1744 to1756.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity10559",
+  "entityUrl" : "http://dbpedia.org/resource/John_Marvin_(Connecticut_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "sergeant" ]
+  },
+  "words" : [ "-LRB-", "September", "May", "Jr.", "John", "Representatives", "Brush", "collector", "1734", "1678", "1711", "1776", "December", "son", "member", "highways", "1738", "February", "Mary", "--", "sessions", "14", "town", "House", "surveyor", "Marvin", ",", ".", "chosen", "appointed", "2", "Norwalk", "Connecticut", "-RRB-", "Matthew", "Colony", "1708" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "town", "member", "surveyor", "collector" ],
+  "text" : "John Marvin (September 2, 1678–February 2, 1776) was a member of the House of Representatives of the Colony of Connecticut from Norwalk in the sessions of May 1734, and May 1738. He was the son of Matthew Marvin, Jr. and Mary Brush. In 1708, he was appointed town collector of the town of Norwalk. On December 14, 1711, he was chosen surveyor of highways. On December 18, 1712, he was on a committee to obtain a teacher for the school. He was chosen as a selectman in 1706, 1713 and 1719. He served as a constable in 1717. He served as fence viewer in 1721 and 1729. He served as a \"lyster,\" in 1724. In 1734 and 1738 he represented Norwalk in the General Assembly. In 1718, he, along with others was chosen to lay before \"a wise and judicious committee\" the \"surcomstances of ye town in their present differences respecting the meeting-house.\" In 1734, along with Joseph Platt, he was appointed to lay out the land granted by the town \"in ye plain before Lt. Lee's door,\" for St. Paul's Church. On November 18, 1737, he gave a lot of land eight rods square to the \"Presbiterian or Congregational church of Wilton, on which to erect a meetinghouse.\" He confirmed this by deed on May 6, 1738, in which he said \"among the congregation are some of my children,\" naming his son John as one. On January 21, 1752, he bought for £2400 the farm previously owned by his son John in Sharon, and settled there not long afterward.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity4432",
+  "entityUrl" : "http://dbpedia.org/resource/Eliphalet_Dyer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "Congress", "Dyer", "-LRB-", "September", "May", "Windham", "Yale", "delegate", "bar", "lawyer", "--", "attended", "admitted", "13", "statesman", "sessions", "14", "read", "law", "jurist", "born", ",", "many", ".", "Eliphalet", "1721", "1740", "Continental", "Connecticut", "graduated", "-RRB-", "1807", "1746" ],
+  "adjectives" : [ "many" ],
+  "nouns" : [ "delegate", "statesman", "bar", "law", "jurist", "lawyer" ],
+  "text" : "Eliphalet Dyer (September 14, 1721 – May 13, 1807) was a lawyer, jurist, and statesman from Windham, Connecticut. He was a delegate for Connecticut to many sessions of the Continental Congress. Eliphalet was born in Windham and attended Yale where he graduated in 1740. He read for the law and was admitted to the bar in 1746. He became a member of the militia, then in 1747 was elected justice of the peace and a member of the colonial assembly. He was also involved in several of the land development schemes for the Susquehanna and Wyoming Valley areas. In the French and Indian War Dyer was a Lt. Colonel in the militia. He was a part of the expedition that captured Crown Point from the French in 1755. In 1758, as a Colonel, he led his regiment to Canada in support of Amherst’s and Wolfe’s operations. In 1763 he visited London as an agent for the Susquehanna Land Company in a failed attempt to gain title for a colonial venture to the Wyoming region. Connecticut sent Dyer to New York for the Stamp Act Congress. This congress of protest was an important precursor to the American Revolution. In 1766 he was elected a justice of Connecticut’s superior court. He would hold that post until 1793, serving as Chief Justice after 1789. As the revolution began, Dyer was named to the state’s Committee of Safety, and named a delegate to the Continental Congress in 1774. He would serve in the Congress during 1774–1775, 1777–1779, and 1782–1783. John Adams, in his diary, characterized Dyer as \"...longwinded and roundabout, obscure and cloudy, very talkative and very tedious, yet an honest, worthy man; means and judges well.\" Eliphalet retired from public life in 1793. He died at home in Windham on May 13, 1807, and is buried in the Windham Cemetery. His daughter Amelia was married to Joseph Trumbull, who served with Dyer in the Continental Congress.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity4476",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_L._Jackson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "``", "Indiana", "bribe", "several", "political", "Ku", "Jackson", "office", "branch", "December", "tried", "judge", "state", "January", "investigated", "12", "14", "18", ",", "'s", "-", ".", "elected", "Governor", "scandals", "charges", "involved", "attorney", "State", "-RRB-", "governor", "Ed", "became", "32nd", "-LRB-", "bribery", "27", "Secretary", "favoring", "Klux", "Edward", "Klan", "1954", "U.S.", "1873", "related", "member", "convicted", "November", "''", "L.", "previous", "politician", "accused", "also", "agenda", "1929", "1927", "1925" ],
+  "adjectives" : [ "32nd", "previous", "several", "political" ],
+  "nouns" : [ "Governor", "bribery", "attorney", "politician", "member", "judge", "state", "office", "governor", "branch", "agenda" ],
+  "text" : "Edward L. \"Ed\" Jackson (December 27, 1873 - November 18, 1954) was an attorney, judge and politician, elected the 32nd Governor of the U.S. state of Indiana from January 12, 1925, to January 14, 1929. He had also been elected as Secretary of State of Indiana. A member of the Indiana branch of the Ku Klux Klan, Jackson became involved in several political scandals, and was accused of favoring the Klan's agenda while in office. In 1927 he was investigated and tried on bribery charges related to having tried to bribe the previous governor, but was not convicted. The statute of limitations had expired. After finishing his term in office, he left in disgrace and never ran again for public office.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity4507",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Winkler",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Flying officer" ]
+  },
+  "words" : [ "-LRB-", "Canadian", "Eric", "March", "riding", "parliament", "Davis", "1975", "1995", "government", "Commons", "member", "provincial", "represented", "February", "1957", "Grey", "--", "Winkler", "13", "minister", "18", "politician", "South", "House", "also", ",", ".", "Progressive", "Bruce", "1920", "Canada", "Conservative", "served", "-RRB-", "Bill", "Alfred", "Ontario", "cabinet", "1967" ],
+  "adjectives" : [ "provincial" ],
+  "nouns" : [ "government", "minister", "politician", "member", "parliament", "cabinet" ],
+  "text" : "Eric Alfred Winkler (February 13, 1920 – March 18, 1995) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Canadian House of Commons from 1957 to 1967 who represented the riding of Grey—Bruce. He was also a member of provincial parliament from 1967 to 1975 who represented the riding of Grey South. He served as a cabinet minister in the government of Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity4954",
+  "entityUrl" : "http://dbpedia.org/resource/Ensign_Washer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Ensign" ]
+  },
+  "words" : [ "``", "burgesses", "Ensign", "militia", "officer", "would", "colonial", "Burgesses", "rank", "represented", "1619", "military", "Plantation", "Assembly", "area", "settled", "lower", "House", ",", "'s", "Washer", ".", "grade", "-RRB-", "name", "General", "Virginia", "became", "-LRB-", "arrival", "colonist", "County", "house", "local", "arrived", "assembly", "member", "early", "Thos", "Thomas", "''", "Isle", "Christopher", "Lawne", "suggestion", "also", "Wight", "ranking", "first" ],
+  "adjectives" : [ "military", "ranking", "early", "first", "local" ],
+  "nouns" : [ "area", "militia", "arrival", "officer", "suggestion", "colonist", "house", "colonial", "grade", "assembly", "name", "member", "rank" ],
+  "text" : "Ensign Washer or Ensign Thos (Thomas) Washer was an early Virginia colonist who settled in the area that became Isle of Wight County, Virginia. Washer and Christopher Lawne represented Lawne's Plantation as burgesses in the first assembly of the Virginia House of Burgesses, the lower house of the colonial Virginia General Assembly, in 1619. \"Ensign\" is a military grade or rank, not the colonist's first name, and there is some suggestion that he was a lower ranking military officer before he arrived in Virginia. He also would have been a member of the local militia after his arrival in Virginia. Sources seem to be uniform in their identification of Washer as \"Ensign\" and only one source has been found which states that his name was \"Thos\" (Thomas). Even if this is true and can be verified, the colonist is shown as Ensign Washer here because that is how he is shown in sources which identify him as a member of the first session of the House of Burgesses. Before 1619, Ensign Washer, Captain Nathaniel Basse and Giles Jones received patents for land along the Pagan River. Captain Christopher Lawne then settled near the mouth of Lawne's Creek in the same vicinity. Although the area was known as Lawne's Plantation and its representatives were listed as representatives from the plantation, the colonists also had named the area \"Warresqueak County\" after the Native American tribe who lived there. Washer and Christopher Lawne represented Lawne's Plantation in the first assembly of the Virginia House of Burgesses in 1619. In 1620, a movement began to change the name of \"Warresqueak County\" to \"Isle of Wight County\" but this was not done until 1637. The Daughters of the American Revolution state that Ensign Washer had a daughter named Margaret (Polly). Little if anything more is known about Ensign Washer or what may have become of him. Records do not show him as among the dead of the Indian massacre of 1622 nor do they list him in the muster of 1624. Yet his name survives as a member of the first representative assembly in the areas that would become both the State of Virginia and the United States of America.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity5044",
+  "entityUrl" : "http://dbpedia.org/resource/Eliphalet_Lockwood",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "Company", "Webb", "Seventh", "December", "son", "1775", "discharged", "July", "First", "1814", "nine-term", "--", "Gold", "12", "Charles", "sessions", "Militia", "1791", "House", "1790", "enlisted", ",", "'s", ".", "1741", "Connecticut", "served", "Revolutionary", "-RRB-", "Lockwood", "24", "-LRB-", "May", "American", "beginning", "War", "Representatives", "captain", "October", "1796", "1795", "1794", "member", "Mary", "Regiment", "Deacon", "war", "Eliphalet", "Norwalk", "Colonel" ],
+  "adjectives" : [ "American", "nine-term" ],
+  "nouns" : [ "son", "beginning", "member", "war", "captain" ],
+  "text" : "Eliphalet Lockwood (1741 – 1814) was a nine-term member of the Connecticut House of Representatives from Norwalk in the sessions of May and October 1790, May and October 1791, October 1794, May and October 1795, May and October 1796. He served as a captain in the Connecticut Militia during the American Revolutionary War. He was the son of Deacon Eliphalet Lockwood and Mary Gold. At the beginning of the war, on July 12, 1775, Lockwood enlisted in the First Company of Colonel Charles Webb's Seventh Connecticut Regiment, and was discharged December 24, 1775. In 1778, he was assistant commissary of issues of the Fifth Regiment. On July 21, 1778, he gave his bond for $5000 as security to Henry Laurens, Esq., President of the Continental Congress or his successor in office, for faithfully executing the office and trust of an Assistant Commissary of Issues in the American Army. Lockwood organized the first voluntary fire department in Norwalk. His home was one of those lost when the British burned Norwalk. In 1780 captain of the coast guards.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity19252",
+  "entityUrl" : "http://dbpedia.org/resource/William_Morrison_(Alberta_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Sergeant" ]
+  },
+  "words" : [ "24", "-LRB-", "Alberta", "Morrison", "church", "Credit", "government", "1970", "member", "January", "1935", "Assembly", "--", "Social", "minister", "politician", "1891", "William", ",", "Rev.", "April", ".", "1", "Canada", "soldier", "served", "caucus", "-RRB-", "farmer", "Legislative", "short", "time", "sitting" ],
+  "adjectives" : [ "Legislative", "short" ],
+  "nouns" : [ "government", "minister", "soldier", "church", "politician", "caucus", "member", "farmer", "time", "Assembly" ],
+  "text" : "Rev. William Morrison (April 24, 1891 – January 1, 1970) was a farmer, church minister, soldier and politician from Alberta, Canada. He served as a member of the Legislative Assembly of Alberta for a short time in 1935 sitting with the Social Credit caucus in government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity19306",
+  "entityUrl" : "http://dbpedia.org/resource/William_Powell_(Virginia_colonist)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "-LRB-", "militia", "officer", "colonist", "two", "County", "Burgesses", "member", "1619", "January", "early", "--", "James", "one", "House", "City", "William", ",", ".", "1623", "1586", "-RRB-", "Powell", "representatives", "Virginia", "landowner", "first" ],
+  "adjectives" : [ "early", "first" ],
+  "nouns" : [ "militia", "officer", "colonist", "member", "landowner" ],
+  "text" : "William Powell (before 1586 – January 1623), was an early Virginia colonist, landowner, militia officer and member of the first Virginia House of Burgesses in 1619. He was one of the two representatives of James City County, Virginia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity19387",
+  "entityUrl" : "http://dbpedia.org/resource/William_Meldrum_(general)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "http://dbpedia.org/resource/Brigadier_General" ]
+  },
+  "words" : [ "New", "leader", "Mayor", "-LRB-", "28", "unsuccessful", "by-election", "local", "candidate", "Whangarei", "came", "military", "1938", "July", "CMG", "February", "1935", "lawyer", "CB", "Meldrum", "--", "ballot", "DSO", "Rangitikei", "13", "1909", "Brigadier", "politician", "born", "William", ",", "Greymouth", "VD", ".", "Northland", "1865", "1964", "Zealand", "third", "served", "-RRB-", "magistrate", "General", "farmer", "first" ],
+  "adjectives" : [ "third", "unsuccessful", "military", "local", "first" ],
+  "nouns" : [ "ballot", "leader", "candidate", "politician", "magistrate", "farmer", "by-election", "VD", "lawyer" ],
+  "text" : "Brigadier General William Meldrum CB, CMG, DSO, VD (28 July 1865 – 13 February 1964) was a New Zealand lawyer, farmer, military leader, magistrate and local politician. He was born in Whangarei, Northland, New Zealand. He was an unsuccessful candidate in the 1909 Rangitikei by-election, where he came third in the first ballot. He served as Mayor of Greymouth from 1935 to 1938. He also played four first-class cricket matches for Auckland between 1884 and 1887.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity19459",
+  "entityUrl" : "http://dbpedia.org/resource/William_J._Street",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "June", "-LRB-", "Warden", "Silvia", "I.", "father", "John", "Representatives", "C.", "December", "Bessey", "Borough", "son", "Jarvis", "member", "Street", "1818", "1817", "hardware", "--", "took", "business", "16", "18", "also", "House", "William", ",", "recorded", "'s", ".", "1842", "Norwalk", "1784", "Connecticut", "served", "-RRB-", "1847", "1845" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "Warden", "business", "father", "member", "hardware" ],
+  "text" : "William Jarvis Street (June 16, 1784 – December 18, 1847) (also recorded as William I. Street) was a member of the Connecticut House of Representatives from Norwalk from 1817 to 1818. and a Warden of the Borough of Norwalk from 1842 to 1845. He was the son of John Street, and Silvia Bessey. He was the father of William C. Street, who took over his father's hardware business, and also served as Warden of the Borough of Norwalk.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity19461",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Hoyt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "sergeant" ]
+  },
+  "words" : [ "-LRB-", "September", "Haite", "1681", "seen", "founding", "Court", "1698", "son", "Hayte", "Simon", "1672", "settler", "1618", "Assembly", "1658", "Walter", "Hoyt", "--", "deputy", "Haight", "selectman", "also", ",", ".", "Hoit", "Deborah", "Norwalk", "6", "1662", "Stowers", "Connecticut", "served", "-RRB-", "General", "Colony", "renamed" ],
+  "adjectives" : [ "founding" ],
+  "nouns" : [ "deputy", "son", "selectman", "settler" ],
+  "text" : "Walter Hoyt (also seen as Haite, Hayte, Hoit, Haight) (September 6, 1618 – 1698) was a founding settler of Norwalk, Connecticut. He served as a deputy of the General Court of the Connecticut Colony from Norwalk between 1658 and 1662, and, when it was renamed, as a deputy of the Connecticut General Assembly between 1662 and 1681. He was a Norwalk selectman in 1672. He was the son of Simon Haite and Deborah Stowers. He came to America in 1628, with his father and brother, Nicholas Hoyt, at the age of ten. In 1640, he was known to own about 64 acres of land in Windsor, Connecticut Colony. In 1653, Walter came to Norwalk, among the first settlers. He served in the General Court of the Connecticut Colony in the sessions of October 1658, May and October 1661, May and October 1667, October 1668, May 1670, May 1671, May 1672, October 1673, October 1674, May 1676, May 1678, and October of 1681. In May 1672 Walter Hoyte was among those whose names were given to the General Court \"for the beginning of a plantation neare the backside of Norwalke.\" He, along with Ralph Keeler, was contracted by the settlement to cut the timber and build a house for Reverend Thomas Hanford. He voted in the town meetings in Norwalk, and was confirmed by the General Court as one of the proprietors of Norwalk in 1685. Hoyt's Hill, named after Walter Hoyt, is the historical name of the hill in the Green at the northeast corner of East Avenue and Willow Street. The place name dates back at least as early as 1679. He is listed on the Founders Stone bearing the names of the founding settlers of Norwalk in the East Norwalk Historical Cemetery.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity11312",
+  "entityUrl" : "http://dbpedia.org/resource/Lino_Oviedo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "General" ]
+  },
+  "words" : [ "23", "leader", "-LRB-", "September", "César", "Union", "Oviedo", "general", "split", "Party", "National", "Ethical", "Paraguayan", "Colorado", "2002", "February", "--", "Silva", "Citizens", "politician", ",", ".", "1943", "army", "2", "2013", "-RRB-", "Lino" ],
+  "adjectives" : [ "Paraguayan" ],
+  "nouns" : [ "army", "general", "leader", "politician" ],
+  "text" : "Lino César Oviedo Silva (September 23, 1943 – February 2, 2013) was a Paraguayan politician and army general. He was the leader of the National Union of Ethical Citizens, which split from the Colorado Party in 2002.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity11372",
+  "entityUrl" : "http://dbpedia.org/resource/Leonidas_L._Polk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant" ]
+  },
+  "words" : [ "--", "11", "June", "24", "figure", "-LRB-", "American", "L.L.", "political", ",", "April", ".", "journalist", "Leonidas", "Lafayette", "1892", "Polk", "-RRB-", "farmer", "1837" ],
+  "adjectives" : [ "American", "political" ],
+  "nouns" : [ "journalist", "figure", "farmer" ],
+  "text" : "Leonidas Lafayette Polk (April 24, 1837 – June 11, 1892), or L.L. Polk, was an American farmer, journalist and political figure.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity11524",
+  "entityUrl" : "http://dbpedia.org/resource/Le_Roy_D._Downs",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "corporal" ]
+  },
+  "words" : [ "Politiker", "Downs", "-LRB-", "Donnelly", "Zwischen", "ein", "den", "US-Repräsentantenhaus", "1970", "Le", "Bundesstaat", "Januar", "US-amerikanischer", "11", "†", "Danbury", "vertrat", "im", "18", "war", "*", "und", ",", "er", ".", "April", "1943", "1941", "Norwalk", "Connecticut", "-RRB-", ";", "Roy", "1900" ],
+  "adjectives" : [ "und", "Januar" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Le Roy Donnelly Downs (* 11. April 1900 in Danbury, Connecticut; † 18. Januar 1970 in Norwalk, Connecticut) war ein US-amerikanischer Politiker. Zwischen 1941 und 1943 vertrat er den Bundesstaat Connecticut im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity11553",
+  "entityUrl" : "http://dbpedia.org/resource/Leslie_Rowntree",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant-Commander" ]
+  },
+  "words" : [ "June", "-LRB-", "May", "York", "John", "riding", "governments", "1975", "1971", "member", "represented", "Rowntree", "1914", "Henry", "Assembly", "1956", "--", "minister", "17", "West", "politician", "Frost", ",", ".", "Robarts", "Progressive", "Canada", "2", "Conservative", "served", "-RRB-", "Legislative", "Leslie", "Ontario", "cabinet" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Henry Leslie Rowntree (June 2, 1914 – May 17, 1975) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1956 to 1971. He represented the riding of York West. He served as a cabinet minister in the governments of Leslie Frost and John Robarts.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity11749",
+  "entityUrl" : "http://dbpedia.org/resource/Lawrence_Taliaferro_Dade",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "``", "-LRB-", "25", "May", "March", "Henrico", "War", "Orange", "County", "serving", "member", "1819", "Anne", "1815", "Taliaferro", "Assembly", "1812", "''", "--", "Regiment", "Lawrence", "Kentucky", "2nd", "entered", ",", "William", "Captain", "Artillery", "Mayo", ".", "1842", "Elizabeth", "1785", "4", "-RRB-", "1808", "General", "Forest", "Bland", "Poythress", "Owensboro", "time", "Bell", "Virginia", "married", "daughter", "Dade" ],
+  "adjectives" : [ "2nd" ],
+  "nouns" : [ "Regiment", "member", "War", "time", "daughter", "Assembly" ],
+  "text" : "General Lawrence Taliaferro Dade of “Bell Forest,” (1785 in Orange County, Virginia – March 25, 1842 in Owensboro, Kentucky), who married Anne Mayo on May 4, 1815 in Henrico Virginia. Anne was the daughter of William and Elizabeth Bland (Poythress) Mayo. Lawrence entered the War of 1812 as Captain of the 2nd Regiment of the Virginia Artillery. At the time he was serving as a member of the Virginia Assembly (1808–1819). He also served as a member of the Virginia State Senate from 1819 to 1832. During session of the senate in 1828 he spoke regarding Joseph Cabell of Nelson County Virginia who was nearly regarded as a co-founder of the University of Virginia this the words \"If aught of good proceeds from the University, the pride and glory of Virginia, the member from Nelson cannot be forgotten; for he, in promoting that monument of wisdom and taste, was second only to the immortal Jefferson.\" Before his death in 1842 General Lawrence Taliaferro Dade moved his family to Owensboro, Kentucky.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity11918",
+  "entityUrl" : "http://dbpedia.org/resource/Lex_MacKenzie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "``", "Alexander", "-LRB-", "A.A.", "May", "Canadian", "York", "Addison", "MC", "1970", "member", "represented", "North", "Assembly", "November", "''", "--", "13", "politician", ",", ".", "Progressive", "1", "1885", "Conservative", "-RRB-", "Legislative", "Ontario", "1945", "1967", "MacKenzie" ],
+  "adjectives" : [ "Canadian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Addison Alexander \"A.A.\" MacKenzie, MC (November 1, 1885 – May 13, 1970) was a Canadian politician, who represented York North in the Legislative Assembly of Ontario from 1945 to 1967 as a Progressive Conservative member.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity2396",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_de_Bonchamps",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "http://dbpedia.org/resource/General" ]
+  },
+  "words" : [ "de", "leader", "Vendéan", "country", "Arthus", "feared", "Shortly", "insurrection", "Juvardeil", "experience", "revolution", "gained", "Royalists", "outbreak", "military", "10", "--", "monarchy", "broke", "Anjou", "château", "king", "made", "18", ",", ".", "army", "staunch", "Saint-Florent-le-Vieil", "requested", "-RRB-", "reinstated", "-LRB-", "May", "American", "War", "captain", "Marquis", "Republic", "October", "French", "grenadiers", "1793", "retired", "France", "resigned", "politician", "Independence", "command", "Born", "1760", "royal", "Bonchamps", "first", "return", "Charles-Melchior", "Revolution", "defender" ],
+  "adjectives" : [ "staunch", "French", "military", "first" ],
+  "nouns" : [ "leader", "country", "monarchy", "château", "king", "politician", "captain", "insurrection", "experience", "revolution", "command", "army", "outbreak", "royal", "return", "Revolution", "defender" ],
+  "text" : "Charles-Melchior Arthus, Marquis de Bonchamps (10 May 1760 – 18 October 1793) was a French politician and leader of the Vendéan insurrection of Royalists against the Republic during the French Revolution. Born at Juvardeil, Anjou, he gained his first military experience in the American War of Independence, and on his return to France was made a captain of grenadiers in the French royal army. He was a staunch defender of the French monarchy, and at the outbreak of the Revolution, resigned his command and retired to his château at Saint-Florent-le-Vieil. Shortly before the revolution broke out, Bonchamps feared for his king and country and requested to be reinstated. In the spring of 1793 he was chosen leader by the insurgents of the Vendée, and his directives were able to secure a large amount of supplies and weapons that would greatly aid the counterrevolution. He was present at the taking of Bressuire, Thouars, and of Fontenay-le-Comte - where he was wounded but recovered. Dissensions among their leaders weakened the insurgents, and at the bloody battle of Cholet (October 1793) the Vendéans sustained a severe defeat and Bonchamps was mortally wounded. He died the next day. His last act was the pardoning of five thousand Republican prisoners, whom his troops had sworn to kill in revenge for his death. Bonchamps was one of the best tactical leaders of the Vendéans and his death was an important victory for the republican forces. He was admired by the Christian monarchists and revolutionaries alike. A statue of him by Pierre Jean David stands in the church of Saint-Florent-le-Vieil.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity2508",
+  "entityUrl" : "http://dbpedia.org/resource/Curtius_Rufus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Only as consular commander" ]
+  },
+  "words" : [ "Alexander", "sources", "author", "'", "Plutarch", "isolated", "Much", "collection", "history", "none", "type", "incidental", "Knowledge", "life", ".", "exist", "Curtius", "continuous", "biographers", "inferred", "exists", "Rufus", "written" ],
+  "adjectives" : [ "continuous", "incidental" ],
+  "nouns" : [ "author", "collection", "history", "none", "type", "Knowledge", "life" ],
+  "text" : "Knowledge of Curtius Rufus’ life is a collection of isolated sources. No continuous history of the type written by Plutarch and other biographers exists. The author of a continuous history of Alexander has none of his own. Much can be inferred from the incidental sources that do exist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "44_entity2828",
+  "entityUrl" : "http://dbpedia.org/resource/Charlie_Lynn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "New", "-LRB-", "Wales", "John", "Lynn", "Council", "Party", "1995", "Charlie", "member", "January", "14", "Victoria", "Liberal", "born", "politician", "South", ",", "former", ".", "Orbost", "Stuart", "2015", "Australian", "served", "-RRB-", "Legislative", "Australia", "1945" ],
+  "adjectives" : [ "Australian", "Legislative", "former" ],
+  "nouns" : [ "politician", "member", "Council" ],
+  "text" : "Charlie John Stuart Lynn (born 14 January 1945, in Orbost, Victoria) is a former Australian politician who served as a Liberal Party of Australia member of the New South Wales Legislative Council between 1995 and 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "45_entity3055",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Yardley_Weaver",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "Yardley", "June", "Alderman", "-LRB-", "Alberta", "death", "held", "barrister", "office", "Council", "opposition", "October", "1930", "government", "later", "member", "justice", "provincial", "Assembly", "--", "Charles", "Weaver", "politician", "City", ",", ".", "1921", "1", "Canada", "1884", "soldier", "Edmonton", "peace", "served", "Conservative", "caucus", "-RRB-", "9", "municipal", "Legislative", "1926", "levels", "1923", "sitting" ],
+  "adjectives" : [ "Conservative", "municipal", "provincial", "Legislative" ],
+  "nouns" : [ "opposition", "government", "death", "soldier", "politician", "peace", "caucus", "member", "barrister", "justice", "office", "Assembly" ],
+  "text" : "Charles Yardley Weaver (June 9, 1884 – October 1, 1930) was a politician, barrister, justice of the peace and soldier from Alberta, Canada. He held office on both municipal and provincial levels of government. He served as an Alderman on Edmonton City Council from 1921 to 1923 and later as a member of the Legislative Assembly of Alberta from 1926 until his death in 1930 sitting with the Conservative caucus in opposition.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "46_entity3250",
+  "entityUrl" : "http://dbpedia.org/resource/Clapp_Raymond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "June", "Raymond", "-LRB-", "May", "Rebecca", "Representatives", "1778", "1732", "October", "1775", "1795", "member", "Clapp", "February", "1779", "1757", "inspection", "--", "Betts", "sessions", "committee", "born", "fire-arms", "House", ",", ".", "August", "appointed", "Norwalk", "4", "1783", "Connecticut", "-RRB-", "married", "20" ],
+  "adjectives" : [ ],
+  "nouns" : [ "committee", "member", "inspection" ],
+  "text" : "Clapp Raymond (June 20, 1732 – 1795) was a member of the Connecticut House of Representatives from Norwalk in the sessions of May and October 1778, October 1779, and October 1783. He was born June 20, 1732. He married Rebecca Betts on August 4, 1757. In February 1775, he was appointed to a committee for the inspection of fire-arms. In 1780 was on a committee constituted by the Legislature to run a line for the boundary of a religious society. Clapp Raymond died in 1795, and was buried in Ballston Spa, New York.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "47_entity3257",
+  "entityUrl" : "http://dbpedia.org/resource/Clyde_G._Trammell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "Trammell", "22", "Roberta", "-LRB-", "Representatives", "County", "Sr.", "Melbourne", "1932", "1953", "son", "1892", "member", "July", "1933", "--", "mayor", "Eramus", "House", ",", "Florida", "cousin", ".", "Ripley", "Park", "Governor", "Clyde", "served", "-RRB-", "Brevard", "1929", "Sara", "Germany", "first" ],
+  "adjectives" : [ "first" ],
+  "nouns" : [ "son", "mayor", "member", "cousin" ],
+  "text" : "Clyde Germany Trammell, Sr. (July 22, 1892 – 1953) was a member of the Florida House of Representatives from Brevard County, Florida from 1929 to 1933. He served as mayor of Melbourne, Florida from 1932 to 1933. He was the son of Eramus Ripley Trammell and Sara Roberta Germany. He was the first cousin of Park Trammell, Governor of Florida. From November 1939 to May 1941, he was County Attorney for Levy County, Florida.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "48_entity3270",
+  "entityUrl" : "http://dbpedia.org/resource/Christopher_Comstock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Sergeant" ]
+  },
+  "words" : [ "-LRB-", "May", "England", "1635", "October", "December", "son", "1654", "Comstock", "settler", "early", "Assembly", "--", "Christopher", "sessions", "Frederick", "deputy", "settled", "originally", "1690", ",", ".", "1689", "Norwalk", "1686", "7", "Connecticut", "8", "-RRB-", "General", "Colony", "emigrated", "Fairfield", "Frankfort", "Germany", "1702", "Komstohk" ],
+  "adjectives" : [ "early" ],
+  "nouns" : [ "deputy", "son", "settler" ],
+  "text" : "Christopher Comstock (October 7, 1635 – December 8, 1702) was an early settler of Norwalk, Connecticut. He was a deputy of the General Assembly of the Colony of Connecticut from Norwalk in the sessions of October 1686, May 1689, and May 1690. He was the son of Frederick Komstohk of Frankfort Germany. Comstock emigrated from England and originally settled in Fairfield in 1654. On May 29, 1654, Comstock wrote an affidavit about his visiting with a woman named Knapp who was charged with witchcraft who was later executed. On January 27, 1661, Comstock, bought land from Thomas Betts. On September 19, 1692, he was part of the grand jury investigating witchcraft. Comstock was nominated to be named a Freeman on Oct. 10, 1667. On October 14, 1686, he was a deputy to the General Court of the Colony of Connecticut. On January 16, 1694, he was appointed to a committee to obtain minister for Norwalk.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "49_entity3272",
+  "entityUrl" : "http://dbpedia.org/resource/Cem_Ersever",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "november", "die", "de", "door", "bij", "JİTEM", "zijn", "militaire", "ook", "Arbeiders", "Turkse", "later", "verwarren", "het", "ontkend", "kreeg", "niet", "probeerde", "veel", "van", "indirect", "betrokken", "inlichtingen", "Libanon", "als", "Cem", "ging", ",", "-", "tegen", ".", "informatie", "werk", "PKK", "4", "krijgen", "zo", "werd", "-RRB-", "jarenlang", "heeft", "hoe", "-LRB-", "loopbaan", "vuurgevechten", "Erzurum", "mogelijk", "een", "waarvan", "1950", "1993", "staat", "tijd", "opgericht", "infiltreren", "zelf", "met", "uit", "afgerond", "Kurdî", "Hij", "Hezbollah", "bestaan", "Koerdische", "Hizbullahî", "Ahmet", "te", "gepensioneerde", "majoor", "tegenhanger", "Ankara", "Ersever", "partij" ],
+  "adjectives" : [ "indirect", "niet", "zelf", "een" ],
+  "nouns" : [ "door", "die", "bij", "loopbaan", "vuurgevechten", "mogelijk", "zijn", "militaire", "ook", "waarvan", "Turkse", "het", "ontkend", "staat", "kreeg", "tijd", "probeerde", "opgericht", "infiltreren", "veel", "van", "betrokken", "inlichtingen", "Hij", "Libanon", "ging", "bestaan", "tegen", "informatie", "werk", "te", "PKK", "gepensioneerde", "krijgen", "majoor", "zo", "werd", "tegenhanger", "jarenlang", "heeft", "hoe", "partij" ],
+  "text" : "Ahmet Cem Ersever (Erzurum, 1950 - Ankara, 4 november 1993) was een gepensioneerde Turkse majoor, die later de JİTEM heeft opgericht, waarvan het bestaan jarenlang door de Turkse staat werd ontkend. Ersever, die zijn militaire loopbaan had afgerond, probeerde zo veel mogelijk informatie te krijgen over hoe de Koerdische Arbeiders partij (PKK) te werk ging door te infiltreren. Hij was zelf betrokken bij vuurgevechten tegen de PKK. Ersever kreeg in die tijd ook veel inlichtingen van de Hizbullahî Kurdî (niet te verwarren met de Hezbollah uit Libanon), die door de staat indirect werd opgericht als tegenhanger van de PKK. Nadat de Turkse Generaal Eşref Bitlis in maart 1993 om het leven kwam door een vliegtuigongeluk, heeft Ersever opmerkelijke uitspraken gedaan over de toestand in het oosten van Turkije. Een paar maanden daarna werd zijn levenloze lichaam teruggevonden rond een depot in Elmadağ.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "50_entity1676",
+  "entityUrl" : "http://dbpedia.org/resource/Bert_Lawrence",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "``", "-LRB-", "Rutter", "28", "John", "March", "governments", "Davis", "2007", "1974", "Carleton", "MC", "member", "represented", "Albert", "31", "Assembly", "''", "--", "minister", "Lawrence", "politician", "Benjamin", ",", ".", "Robarts", "Progressive", "Canada", "1963", "Russell", "Conservative", "served", "-RRB-", "Bill", "Legislative", "Bert", "ridings", "Ontario", "East", "cabinet", "1923" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Albert Benjamin Rutter \"Bert\" Lawrence MC (March 31, 1923 – March 28, 2007) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1963 to 1974 who represented the ridings of Russell and Carleton East. He served as a cabinet minister in the governments of John Robarts and Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "51_entity1883",
+  "entityUrl" : "http://dbpedia.org/resource/Bassam_Abdel_Majeed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major General" ]
+  },
+  "words" : [ "هو", "-LRB-", "سياسي", "في", "ضابط", "،", "بسام", ".", "ودبلوماسي", "المجيد", "1950", "عبد", "-RRB-", "الجيش", "السوري", "مواليد" ],
+  "adjectives" : [ ],
+  "nouns" : [ "المجيد", "في", "،" ],
+  "text" : "بسام عبد المجيد (مواليد 1950) هو ضابط في الجيش السوري، سياسي ودبلوماسي.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "52_entity2250",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Kalk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "-LRB-", "born", "Service", "Commissioner", "c.", "Public", ".", "Brian", "U.S.", "Kalk", "-RRB-", "North", "state", "Dakota", "1966" ],
+  "adjectives" : [ ],
+  "nouns" : [ "state" ],
+  "text" : "Brian Kalk (born c. 1966) is a Public Service Commissioner in the U.S. state of North Dakota.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "53_entity17583",
+  "entityUrl" : "http://dbpedia.org/resource/Thacher_Longstreth",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant Commander" ]
+  },
+  "words" : [ "Company", "Republican", "née", "b.", "years", "President", "graduate", "Thacher", "Street", "eighth-generation", "Woman", "January", "tenure", "--", "11", "image", "Princeton", "Motor", "Haverford", "wisecracking", "City", "William", ",", "'s", "April", ".", "Pennsylvania", "Quakers", "1", "Collins", "University", "Herbert", "Car", "unique", "-RRB-", "maternal", "-LRB-", "Wall", "affluent", "best", "bow", "C.", "Council", "long", "Union", "Nella", "perhaps", "known", "Longstreth", "2003", "Hoover", "member", "1917", "lived", "Ella", "tied", "Crash", "grandmother", "born", "many", "blood", "cousin", "Temperance", "1920", "blue", "1882", "owned", "1929", "Christian", "Philadelphian", "family", "married", "Philadelphia", "president" ],
+  "adjectives" : [ "blue", "affluent", "unique", "Republican", "née", "eighth-generation", "many", "long", "maternal" ],
+  "nouns" : [ "image", "graduate", "grandmother", "member", "wisecracking", "bow", "family", "blood", "cousin", "tenure", "president" ],
+  "text" : "William Thacher Longstreth (January 1, 1920 – April 11, 2003) was a Republican member of the Philadelphia City Council who was perhaps best known for his long tenure and unique image as a wisecracking, bow tied blue blood. Longstreth, a graduate of Princeton University, was an eighth-generation Philadelphian born to Quakers William Collins (b. 1882) and Nella (née Thacher) Longstreth, who married in 1917. William C. Longstreth owned the Longstreth Motor Car Company and his family lived in Haverford, Pennsylvania, and was affluent until the Wall Street Crash of 1929. Thacher was a cousin of President Herbert Hoover and his maternal grandmother, Ella Hoover Thacher was the president of the Woman's Christian Temperance Union for many years. In 1970, he led the Philadelphia Chamber of Commerce and spearheaded the drive to hold the annual Earth Day commemoration in Philadelphia. That event became one of the biggest Earth Day events in the nation. He was also instrumental in the creation of the Greater Delaware Valley Chapter of the National Multiple Sclerosis Society. He was predeceased by his half sister, Nella Cameron Downward (1913-1997). His younger brother, Frank Hoover Longstreth (b. 1922) died in 2008. He was a two-time Republican nominee for Mayor of Philadelphia, first in 1955, losing to Richardson Dilworth, and again in 1971, losing to Frank Rizzo. He was initially elected to Philadelphia's City Council in 1967, resigning his seat to run for Mayor in 1971. While a member of City Council, he served as a sideline reporter on Philadelphia Eagles radio broadcasts on WIP in 1969 and 1970. Longstreth was again elected to Council in 1983, defeating incumbent councilwoman Beatrice Chernock for the at-large seat he had vacated twelve years earlier to run for Mayor. He would remain in office until his death. During his tenure on Council, Longstreth helped support the efforts of Edmund Bacon to bring an urban renaissance to Philadelphia. He was also well known for wearing bow ties and argyle socks. He suffered from Parkinson's disease, and died of a pulmonary embolism while on vacation in Naples, Florida.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "54_entity17596",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Currigan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "Mayor", "-LRB-", "27", "Force", "Guida", "United", "War", "World", "Auditor", "States", "December", "Party", "Dame", "Colorado", "Notre", "rank", "Denver", "July", "1955", "Thomas", "--", "II", "grandson", "Democratic", "Martin", "D.", "Air", ",", "Captain", ".", "1920", "1963", "1941", "University", "Currigan", "2014", "graduated", "8", "-RRB-", "attained", "1968" ],
+  "adjectives" : [ ],
+  "nouns" : [ "grandson", "rank" ],
+  "text" : "Thomas Guida Currigan (July 8, 1920 – December 27, 2014) was Auditor of Denver, Colorado, from 1955 to 1963 and Denver Democratic Party Mayor from 1963 to 1968. Currigan was the grandson of Martin D. Currigan. He graduated from Notre Dame University in 1941. He attained rank of Captain in the United States Air Force during World War II. He worked for Remington Rand Company. His first political job was Chief of Police in Denver. He died on December 27, 2014 at a nursing home in Chicago, Illinois, aged 94.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "55_entity17821",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Godwin_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "June", "-LRB-", "patent", "York", "session", "died", "Bacon", "County", "years", "Rebellion", "1654", "1676", "Burgesses", "1650", "Richard", "land", "preceded", "1677/8", "1659", "early", "Speaker", "partnered", "Thomas", "--", "55", "politician", "birth", "House", "Axom", ",", "'s", ".", "undocumented", "Godwin", "served", "-RRB-", "Virginia", "landowner" ],
+  "adjectives" : [ "undocumented", "early" ],
+  "nouns" : [ "Rebellion", "session", "politician", "birth", "land", "landowner" ],
+  "text" : "Thomas Godwin (died 1677/8) was a Virginia politician and landowner. He served in the House of Burgesses 1654–55 and 1659, and was its Speaker in the June 1676 session that preceded Bacon's Rebellion. Godwin's birth and early years are undocumented. He partnered with Richard Axom to patent land in York County, Virginia in 1650. By April 1654 he was a member of the Nansemond County Court, and he represented the county in the House of Burgesses that year and next. He was also elected to the session of 1659. Among his other land purchases, he patented a tract in Chuckatuck parish in 1668. This farm was expressly included in Nansemond County when the Assembly drew its boundary with Isle of Wight County in 1674. In March 1676 he was identified as colonel of the Nansemond militia when he was authorized to raise a force to fight Indians. Godwin was not a member of the General Assembly of 1661–76. When it was dissolved and a new Assembly met in June 1676, he was elected Speaker of the House. This Assembly, which met just before the outbreak of Bacon's Rebellion, had all its acts annulled by the Assembly that met the following year, although a number of them were reenacted by that same session. Godwin's will was dated March 24, 1677 (old style). He named three children as heirs.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "56_entity18136",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Fitch,_V",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Senior Colonel" ]
+  },
+  "words" : [ "New", "officer", "troops", "years", "1776", "1775", "son", "earlier", "1773", "1772", "1771", "near", "Fitch", "January", "--", "song", "sessions", "16", "widely", "House", ",", "Yankee", "IV", ".", "Governor", "upstate", "contemporary", "Connecticut", "served", "twelve", "-RRB-", "scholars", "-LRB-", "May", "York", "least", "War", "Fort", "Representatives", "inspiration", "believe", "primarily", "October", "French", "1795", "V", "member", "origins", "believed", "Thomas", "Doodle", "Hannah", "1770", "Although", "1767", "1766", "1765", "Crailo", "1764", "Norwalk", "1763", "1761", "Indian", "Hall", "1725", "1769", "1768" ],
+  "adjectives" : [ "French", "upstate", "contemporary", "Indian" ],
+  "nouns" : [ "song", "Governor", "son", "officer", "member", "War", "inspiration", "Yankee" ],
+  "text" : "Thomas Fitch, V (1725 – January 16, 1795) was a member of the Connecticut House of Representatives from Norwalk in the sessions of October 1761, May and October 1763, May and October 1764, May and October 1765, May and October 1766, May 1767, October 1768, May and October 1769, October 1770, October 1771, October 1772, October 1773, October 1775, and May 1776. He was the son of Governor Thomas Fitch, IV and Hannah Hall Fitch. He served as an officer in the French and Indian War, primarily in upstate New York, near Fort Crailo. Although he and his troops are widely believed to be the inspiration for the song Yankee Doodle, contemporary scholars now believe that its origins are at least twelve years earlier.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "57_entity18220",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Benedict_(II)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Sergeant , Ensign , Lieutenant , Captain" ]
+  },
+  "words" : [ "Phoebe", "named", "-LRB-", "May", "held", "Benedict", "moderator", "1682", "least", "John", "seven", "Representatives", "Gregory", "captain", "life", "October", "times", "son", "member", "military", "July", "ten", "1737", "Thomas", "--", "sessions", "town", "selectman", "House", "less", ",", ".", "chosen", "1744", "1763", "Norwalk", "5", "1740", "Connecticut", "-RRB-", "Colony", "meetings", "position", "1746" ],
+  "adjectives" : [ "military" ],
+  "nouns" : [ "son", "town", "selectman", "moderator", "member", "position", "captain", "life" ],
+  "text" : "Thomas Benedict (1682–July 5, 1763) was a member of the House of Representatives of the Colony of Connecticut from Norwalk in the sessions of May 1737, October 1740, and October 1744. He was chosen as selectman at least seven times, and was moderator of the town meetings not less than ten times. He was the son of John Benedict and Phoebe Gregory. He held a military position for most of his life, and was named a captain in 1746. It is recorded that his voice could be heard and understood at the distance of more than a mile.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "58_entity14968",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_B._Ogilvie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Tank Commander" ]
+  },
+  "words" : [ "22", "became", "-LRB-", "becoming", "May", "Cook", "War", "Buell", "combat", "mafia-fighting", "World", "County", "35th", "sheriff", "1973", "known", "Richard", "1960s", "February", "Ogilvie", "10", "--", "II", "wounded", ",", ".", "veteran", "Illinois", "served", "-RRB-", "governor", "1969", "1923", "1988" ],
+  "adjectives" : [ "mafia-fighting", "35th" ],
+  "nouns" : [ "veteran", "combat", "governor", "sheriff" ],
+  "text" : "Richard Buell Ogilvie (February 22, 1923 – May 10, 1988) was the 35th governor of Illinois and served from 1969 to 1973. A wounded combat veteran of World War II, he became known as the mafia-fighting sheriff of Cook County, Illinois, in the 1960s before becoming governor.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "59_entity15379",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Mercer_Johnston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "-LRB-", "Catharines", "September", "29", "political", "St.", "Johnston", "Robert", "member", "represented", "Assembly", "November", "1977", "--", "figure", "1908", "19", ",", ".", "Progressive", "1984", "Conservative", "-RRB-", "Legislative", "Ontario", "1967", "Mercer" ],
+  "adjectives" : [ "political", "Legislative" ],
+  "nouns" : [ "figure", "member", "Assembly" ],
+  "text" : "Robert Mercer Johnston (November 19, 1908 – September 29, 1984) was an Ontario political figure. He represented St. Catharines in the Legislative Assembly of Ontario from 1967 to 1977 as a Progressive Conservative member.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "60_entity15718",
+  "entityUrl" : "http://dbpedia.org/resource/Romeo_Lamothe",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Flight Lieutenant" ]
+  },
+  "words" : [ "23", "-LRB-", "Alberta", "Canadian", "Force", "Lamothe", "War", "World", "Royal", "opposition", "October", "teacher", "seeing", "Credit", "1971", "1991", "member", "provincial", "action", "military", "man", "1914", "Assembly", "November", "II", "Social", "politician", "Air", "B.", ",", "Romeo", "-", ".", "Canada", "1942", "2", "1961", "served", "caucus", "-RRB-", "Legislative", "1945", "sitting" ],
+  "adjectives" : [ "provincial", "Legislative", "military" ],
+  "nouns" : [ "opposition", "teacher", "politician", "caucus", "member", "action", "man", "Assembly" ],
+  "text" : "Romeo B. Lamothe (October 2, 1914 - November 23, 1991) was a teacher, military man, and provincial politician from Alberta, Canada. He served in the Royal Canadian Air Force from 1942 to 1945 seeing action in World War II. Lamothe served as a member of the Legislative Assembly of Alberta from 1961 to 1971 sitting with the Social Credit caucus in opposition.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "61_entity15869",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Hyatt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Private" ]
+  },
+  "words" : [ "John", "World", "December", "children", "1893", "four", "Dalton", "July", "timber", "worker", "--", "Returning", "Stratton", "'", ",", "'s", ".", "Elizabeth", "involved", "Workers", "State", "served", "-RRB-", ";", "postal", "Postal", "contractor", "14th", "22", "became", "Raymond", "-LRB-", "Blakeville", "Force", "28", "29", "Egypt", "March", "War", "Union", "School", "1918", "1917", "France", "Henry", "attended", "sawmiller", "politician", "Allison", "war", "Australian", "Born", "Imperial", "Battalion", "1969", "married", "Hyatt" ],
+  "adjectives" : [ "14th", "Australian", "postal" ],
+  "nouns" : [ "contractor", "sawmiller", "politician", "war", "timber", "Battalion", "worker" ],
+  "text" : "John Allison Raymond Hyatt (28 July 1893 – 29 March 1969) was an Australian politician. Born in Blakeville to sawmiller Henry Hyatt and Elizabeth Dalton, he attended Blakeville State School and became a sawmiller and timber contractor. He served in the Australian Imperial Force's 14th Battalion in Egypt and France during World War I; on 22 December 1917 he married Elizabeth Stratton, with whom he had four children. Returning from the war in 1918 he became a postal worker, and became involved in the Postal Workers' Union. In 1943 he was elected to the Victorian Legislative Assembly as the Labor member for Warrenheip and Grenville, transferring to Hampden in 1945. He was defeated in 1947. Hyatt died at Ballarat in 1969.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "62_entity15922",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Logan_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "http://dbpedia.org/resource/Colonel" ]
+  },
+  "words" : [ "New", "militia", "officer", "commanding", "World", "professional", "Administrator", "commander", "Robert", "outbreak", "First", "migrated", "1935", "--", "took", "Expeditionary", "dispatched", "island", ",", "April", ".", "appointed", "2", "Zealand", "Logan", "1863", "4", "involved", "served", "-RRB-", "District", "Germany", "became", "-LRB-", "occupy", "Force", "War", "Scotland", "Forces", "Auckland", "farming", "February", "1912", "CB", "Military", "joined", "Samoa", "soldier", "Born", "1881", "Also", "time", "Imperial", "territory" ],
+  "adjectives" : [ "professional" ],
+  "nouns" : [ "commander", "militia", "soldier", "officer", "island", "farming", "outbreak", "time", "territory" ],
+  "text" : "Robert Logan CB (2 April 1863 – 4 February 1935) was an officer in the New Zealand Military Forces who served in the First World War as the Military Administrator of Samoa. Born in 1863 in Scotland, Logan migrated to New Zealand in 1881 and took up farming. Also involved in the militia, he became a professional soldier in 1912 when he joined the New Zealand Military Forces. He was commanding the Auckland Military District at the time of the outbreak of the First World War and was appointed the commander of the Samoa Expeditionary Force, dispatched from New Zealand to occupy the island of Samoa, a territory of Imperial Germany at the time. Samoa was easily occupied on 29 August 1914 and Logan became its Military Administrator; he remained in this capacity for the duration of the war. Although he was decorated for his services, his administration of Samoa was later criticised, particularly in relation to the handling of the influenza outbreak of November 1918, which led to 7,500 deaths. Logan retired from military service in 1919 and settled in Devon, England, where he died in 1935.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "63_entity15984",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Potter_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant Colonel" ]
+  },
+  "words" : [ "Quinte", "-LRB-", "riding", "Davis", "2009", "1975", "government", "Richard", "member", "Potter", "represented", "1915", "January", "February", "Assembly", "Thomas", "--", "eastern", "minister", "16", "politician", ",", ".", "Progressive", "Canada", "Conservative", "served", "-RRB-", "Bill", "Legislative", "Ontario", "cabinet", "20", "1967" ],
+  "adjectives" : [ "eastern", "Legislative" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Richard Thomas Potter (January 20, 1915 – February 16, 2009) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1967 to 1975 who represented the eastern Ontario riding of Quinte. He served as a cabinet minister in the government of Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "64_entity16022",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Olmsted_(settler)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "-LRB-", "May", "1660", "founding", "Court", "1679", "1612", "October", "1654", "1653", "Richard", "settler", "Olmsted", "February", "1658", "--", "sessions", "1671", ",", "April", ".", "1668", "1667", "1666", "1687", "1665", "Norwalk", "1664", "1663", "1662", "Connecticut", "served", "-RRB-", "General", "Colony", "Hartford", "20", "1669" ],
+  "adjectives" : [ "founding" ],
+  "nouns" : [ "settler" ],
+  "text" : "Richard Olmsted (February 20, 1612 – April 20, 1687) was a founding settler of both Hartford and Norwalk, Connecticut. He served in the General Court of the Connecticut Colony in the sessions of May 1653, October 1654, May 1658, October 1660, May 1662, May and October 1663, May and October 1664, October 1665, May and October 1666, May 1667, May and October 1668, May 1669, May 1671, and May 1679.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "65_entity16096",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_A._Hardee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "New", "Hardee", "Haven", "-LRB-", "May", "27", "Grace", "moved", "E.", "Representatives", "County", "Augustus", "1833", "Jones", "1897", "1874", "Board", "son", "1873", "Robert", "member", "November", "--", "Thomas", "sessions", "Commissioners", "original", "1909", "House", "also", ",", "Florida", ".", "-RRB-", "Brevard", "name", "Gardner", "S.", "brother", "Buddy", "Sebastian", "1889" ],
+  "adjectives" : [ "original" ],
+  "nouns" : [ "son", "member", "name", "brother" ],
+  "text" : "Robert Augustus Hardee (May 27, 1833 – November 27, 1909) was a member of the Florida House of Representatives in the sessions of 1873, 1874, and 1897. He was also a member of the Brevard County Board of Commissioners. He was the son of Thomas E. Hardee and Grace Jones, and the brother of Gardner S. Hardee, and Buddy Hardee. He moved to New Haven, Florida (the original name of Sebastian) in 1889.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "66_entity3535",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Kennedy_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "June", "-LRB-", "May", "27", "Kennedy", "Party", "Robert", "2003", "member", "1916", "Assembly", "--", "15", "politician", ",", ".", "Progressive", "Canada", "1985", "Douglas", "served", "Conservative", "-RRB-", "Legislative", "Ontario", "1967" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Robert Douglas Kennedy (June 15, 1916—May 27, 2003) was a politician in Ontario, Canada. He served in the Legislative Assembly of Ontario from 1967 to 1985, as a member of the Progressive Conservative Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "67_entity4128",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Streich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Military Instructor" ]
+  },
+  "words" : [ "كمدرس", "موثقة", "-LRB-", "الشعب", "25بك", "أي", "سابق", "بمصادر", "سياسي", "العسكرية", "التشكيك", "المحتوى", "معلومات", "Streich", "الاستشهاد", "شترايش", "مايو_2011", "في", "ينقصه", "يمكن", "Daniel", "ولد", "السويسري", "وإزالتها", ".", "موثوق", "هنا", "وعضو", "وهو", "بال", "حزب", "دانيال", "يرجى", "-RRB-", "غير", "مصادر", "يعمل", "للعلوم", "إيراد", "بها" ],
+  "adjectives" : [ ],
+  "nouns" : [ "يرجى", "أي", "بمصادر", "في", "السويسري", "وإزالتها" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مايو_2011) دانيال شترايش Daniel Streich دانيال شترايش ولد في بال وهو سياسي يعمل كمدرس للعلوم العسكرية وعضو سابق في حزب الشعب السويسري.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "68_entity19581",
+  "entityUrl" : "http://dbpedia.org/resource/Yan_Gamarnik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Army Commissar of 1st rank" ]
+  },
+  "words" : [ "de", "judía", "-LRB-", "Yan", "1894greg", "Borísovich", "del", "también", "ucraniano", "nombre", "Zhytómir", "Гамарнік", "Ucrania", "juniojul", "como", "actual", "Nació", "Yánkev", "14", "Gamárnik", "Yákov", "junio", "el", "en", "una", "ruso", ",", "Ян", ".", "es", "o", "/", "Aparte", "2", "Гамарник", "-RRB-", "y", "conocido", "Tzúdikovich", ":", "bielorruso", "Борисович", "familia" ],
+  "adjectives" : [ "actual" ],
+  "nouns" : [ "como", "Гамарник", "Гамарнік", "bielorruso", "Ян", "Борисович", "juniojul", "o" ],
+  "text" : "Yan Borísovich Gamárnik (ruso y ucraniano: Ян Борисович Гамарник, bielorruso: Ян Гамарнік). Aparte del nombre de Yan, también es conocido como Yánkev o Yákov. Nació en Zhytómir (actual Ucrania) en una familia judía, como Yákov Tzúdikovich Gamárnik, el 2 de juniojul./ 14 de junio de 1894greg.. Estudió en el Instituto de Psicología y Neurología de San Petersburgo y en la Universidad de Kiev. En 1917 se convierte en miembro y secretario del Comité del Partido Comunista de Kiev. Escaló posiciones en el Partido Comunista, tanto en el ámbito civil como militar, llegando a ser Primer Secretario del Partido Comunista de Bielorrusia de diciembre de 1928 a octubre de 1929. Interviene en la elaboración del plan de desarrollo de 10 años para las regiones del Lejano oriente de la URSS. De profundas convicciones, sobrio y comunista puro, que sus creencias eran con frecuencia eran implacables contra la oposición tanto dentro como fuera del partido, fue el apoyo incondicional del Mariscal Mijaíl Tujachevsky en el objetivo de convertir a la URSS en una superpotencia. Fue implicado en el Caso de la Organización Militar Totskista Anti-Soviética en 1937. Antes del juicio, fue sondeado para ser uno de los jueces del mismo, pero debido a su obstinación en la inocencia de Tujachevsky, es añadido a la lista de conspiradores. Se suicida el 31 de mayo de 1937. Es rehabilitado póstumamente en 1955.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "69_entity6848",
+  "entityUrl" : "http://dbpedia.org/resource/Harold_W._Handley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant Colonel" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Indiana", "27", "Wyoming", "ein", "Gouverneur", "County", "Rawlins", "der", "des", "LaPorte", "1972", "La", "30", "1957", "US-amerikanischer", "November", "†", "1909", "Harold", "war", "*", "und", ",", ".", "August", "zwischen", "Handley", "Willis", "1961", "-RRB-", ";", "40", "Bundesstaates", "Porte" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "zwischen", "war", "und", "ein", "US-amerikanischer" ],
+  "text" : "Harold Willis Handley  (* 27. November 1909 in La Porte, LaPorte County, Indiana; † 30. August 1972 in Rawlins, Wyoming) war ein US-amerikanischer Politiker und zwischen 1957 und 1961 der 40. Gouverneur des Bundesstaates Indiana.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "70_entity6858",
+  "entityUrl" : "http://dbpedia.org/resource/Haydar_al-Kuzbari",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "de", "l'indépendance", "est", "Kouzbari", "militaire", "fin", "célèbre", "du", "voir", "un", "Le", "les", "syrien", "famille", "père", "Kouzbari.Kouzbari", "arabe", "d'État", "l'armée", "coup", ",", "-", ".", "mettant", "-RRB-", "issu", "cheikh", "homonymes", "al-Kouzbari", "-LRB-", "unie", "Yassine", "syrienne", "Damas", "vis-à-vis", "1996", "Pour", "France", "d'une", "rejoint", "à", "responsable", "après", "d'Haydar", "1920", "République", "la", "Haydar", "le", "articles", "pays" ],
+  "adjectives" : [ "responsable", "mettant", "syrien", "père" ],
+  "nouns" : [ "syrienne", "d'État", "est", "l'armée", "un", "coup", "militaire", "fin", "d'Haydar", "cheikh", "rejoint" ],
+  "text" : "Pour les articles homonymes, voir Haydar. Haydar al-Kouzbari (Damas, 1920 - Damas, 1996) est un militaire syrien responsable du coup d'État mettant fin à la République arabe unie. Kouzbari est issu d'une célèbre famille de Damas. Le père d'Haydar est le cheikh Yassine Kouzbari.Kouzbari rejoint l'armée syrienne, après l'indépendance du pays vis-à-vis de la France. Il combat avec l'armée de libération arabe pendant la guerre israélo-arabe de 1948. Pendant son service dans l'armée, il est promu commandant.Après l'union de la Syrie et de l'Égypte en 1958, qui crée la République arabe unie, il s'oppose à l'influence de l'Égypte sur la politique syrienne.Le 28 septembre 1961, Kouzbari procède à un coup d'État, entraînant la rupture de l'union entre la Syrie et l'Égypte.C'est ainsi que son cousin, Maamoun al-Kouzbari devint le président de la république syrienne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "71_entity7503",
+  "entityUrl" : "http://dbpedia.org/resource/Hezekiah_Rogers",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "Office", "-LRB-", "September", "May", "Rogers", "United", "War", "Representatives", "C.", "Washington", "1811", "delegate", "States", "October", "1753", "later", "Hezekiah", "member", "Constitution", "--", "convention", "sessions", "ratify", "chief", "House", "D.", ",", ".", "clerk", "1788", "1787", "1786", "4", "Norwalk", "Connecticut", "served", "-RRB-" ],
+  "adjectives" : [ "chief" ],
+  "nouns" : [ "delegate", "convention", "clerk", "member" ],
+  "text" : "Hezekiah Rogers (1753 – September 4, 1811) was a member of the Connecticut House of Representatives from Norwalk in the sessions of May 1786, and October 1787. He was a delegate to the convention in Connecticut to ratify the United States Constitution in 1788. He later served as chief clerk in the War Office in Washington, D. C.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "72_entity7524",
+  "entityUrl" : "http://dbpedia.org/resource/Heusted_W._R._Hoyt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "12th", "-LRB-", "Representatives", "Warner", "1874", "1873", "1894", "1870", "member", "November", "Speaker", "Hoyt", "--", "Reynolds", "representing", "House", ",", "April", ".", "1", "1887", "1842", "Senate", "1886", "Connecticut", "served", "Heusted", "8", "-RRB-", "District", "1869", "1889" ],
+  "adjectives" : [ "12th" ],
+  "nouns" : [ "member" ],
+  "text" : "Heusted Warner Reynolds Hoyt (November 1, 1842 – April 8, 1894) was a member of the Connecticut Senate representing the 12th District from 1869 to 1870 and from 1873 to 1874. He was a member of the Connecticut House of Representatives from 1886 to 1889, and he served as Speaker of the Connecticut House of Representatives from 1887 to 1889.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "73_entity7566",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_T._Titus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "New", "nine", "-LRB-", "Howell", "Titus", "Titusville", "Catharine", "children", "Jersey", "February", "Henry", "--", "13", "founder", "Flick", "born", "raised", "Barre", ",", "Florida", ".", "August", "Pennsylvania", "Wilkes", "Theodore", "7", "1881", "-RRB-", "Trenton", "first", "1823" ],
+  "adjectives" : [ "first" ],
+  "nouns" : [ "founder", "Flick" ],
+  "text" : "Henry Theodore Titus (February 13, 1823 – August 7, 1881) was the founder of Titusville, Florida. He was born in Trenton, New Jersey on February 13, 1823. He was the first of nine children of Theodore Titus, and Catharine Flick Howell. He was raised in Wilkes Barre, Pennsylvania. He was enrolled for some time at the United States Military Academy at West Point, but did not graduate. In 1845, he was a postal inspector in Philadelphia. Titus was a leader of the Narciso López filibuster expeditions that invaded Cuba in 1850-1851. He was a grocer and sawmill operator in Jacksonville, until migrating with his family to \"Bleeding Kansas\" in April 1856 to join pro-slavery forces. He resided at \"Fort Titus,\" a double-log cabin one mile south of Lecompton, that came under artillery attack from John Brown's raiders on Aug. 16, 1856. He was wounded, captured, and exchanged for Free-State prisoners, before joining filibuster William Walker in Nicaragua in Feb. 1857. After his force was defeated at Castillo Viejo a few weeks later, Titus went to New York. He and his brother Elliot moved to the Sonoita Valley, Arizona, where they operated various ore mines during 1858-1860. Titus returned to Jacksonville during the American Civil War and served as assistant quartermaster in the Florida Militia. He was also working for the Florida Provision Company, a business owned by his father-in-law, Edward S. Hopkins. The firm sold supplies to the Confederate Army. While transporting a load of Confederate draft dodgers to Nassau in 1863, Titus lost his steamer to the Northern blockade and was captured on the Indian River. He eluded imprisonment and later returned to Florida with his family, preceding a post-war wave of newcomers. He moved to New York with his family in 1865, but returned to Florida in November 1867, settling at Sand Point which at that time had a population of 250. Titus built a sawmill, general store and hotel at that location. Titus was appointed postmaster, and soon thereafter renamed the settlement \"Titusville.\" The name of Titusville was determined by a dominoes game with Captain Clark Rice on October 16, 1873. He lobbied tirelessly to have Titusville named as county seat. His efforts were realized on October 7, 1879 when a vote was taken and the result supported relocation of the county seat to Titusville. He was also the Justice of the Peace, a notary public for Volusia County, and a marine insurance underwriter's agent. Rheumatic gout kept him confined to a wheelchair during the last years of his life.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "74_entity7567",
+  "entityUrl" : "http://dbpedia.org/resource/Hiram_Batchelder",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant Colonel, Assistant Adjutant General" ]
+  },
+  "words" : [ "Trustees", "-LRB-", "May", "city", "Butte", "body", "County", "second", "President", "Chico", "1876", "December", "School", "Board", "1873", "Clerk", "Batchelder", "1838", "1911", "--", "14", "15", "California", ",", "Normal", ".", "Treat", "governing", "Hiram", "served", "-RRB-", "trustee" ],
+  "adjectives" : [ "Normal", "second" ],
+  "nouns" : [ "President", "city", "trustee", "body" ],
+  "text" : "Hiram Treat Batchelder (December 14, 1838 – May 15, 1911) was the second President of the Chico Board of Trustees, the governing body of the city of Chico, California from 1873 to 1876. He served as a trustee of the Chico Normal School, and as County Clerk of Butte County, California.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "75_entity16246",
+  "entityUrl" : "http://dbpedia.org/resource/Song_Renqiong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "10" ]
+  },
+  "words" : [ "宋韵琴", "PRC", "-LRB-", "宋任穷", "Republic", "Sòng", "general", "Song", "Eight", "Communist", "Party", "2005", "China", "Elders", "Rènqióng", "July", "January", "Liberation", "11", "--", "Renqiong", "Army", "Yùnqín", "1909", "one", "People", ",", "'s", ".", "pinyin", "8", "-RRB-", "Chinese", ":", ";" ],
+  "adjectives" : [ "general" ],
+  "nouns" : [ "Song", "pinyin", "Republic" ],
+  "text" : "Song Renqiong (Chinese: 宋任穷 or 宋韵琴; pinyin: Sòng Rènqióng or Sòng Yùnqín; July 11, 1909 – January 8, 2005) was a general in the People's Liberation Army of the People's Republic of China (PRC) and one of the Eight Elders of the Communist Party of China.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "76_entity16290",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_Edward_Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "First lieutenant" ]
+  },
+  "words" : [ "-LRB-", "م", "و", "Edward", "مانهاتن", "المتحدة", "الولايات", "نيويورك", "--", "هو", "من", "مدينة", "توفي", "بالإنجليزية", "Smith", "1990", "في", "إدوارد", "ولد", "الأمريكية", ".", "-RRB-", "ستيفن", "محلل", "مالي", "سميث", ":", "1927", "Stephen" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "توفي", "م", "ستيفن", "سميث" ],
+  "text" : "ستيفن إدوارد سميث (بالإنجليزية: Stephen Edward Smith) (و. 1927 – 1990 م) هو محلل مالي من الولايات المتحدة الأمريكية . ولد في مدينة نيويورك . توفي في مانهاتن .بسبب سرطان الرئة .",
+  "patterns" : { }
+}, {
+  "entityIndex" : "77_entity16971",
+  "entityUrl" : "http://dbpedia.org/resource/Shekhar_Dutt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ ": Short Service Commissioned Officer" ]
+  },
+  "words" : [ "Shekhar", "Politiker", "-LRB-", "*", "indischer", "ist", "ein", ".", "Dutt", "Dezember", "-RRB-", "20", "1945" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "indischer", "ist", "ein" ],
+  "text" : "Shekhar Dutt (* 20. Dezember 1945) ist ein indischer Politiker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "78_entity17215",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_St._John",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant Colonel" ]
+  },
+  "words" : [ "-LRB-", "May", "John", "1781", "1780", "Representatives", "St.", "1778", "October", "son", "member", "1735", "--", "sessions", "House", ",", ".", "1785", "Norwalk", "1784", "Susannah", "1783", "Connecticut", "1782", "Joseph", "-RRB-", "Selleck", "9", "Stephen" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "member" ],
+  "text" : "Stephen St. John (1735 – May 9, 1785) was a member of the Connecticut House of Representatives from Norwalk in the sessions of May and October 1778, May and October 1780, May 1781, May and October 1782, May 1783, May and October 1784, and May 1785. He was the son of Joseph St. John, and Susannah Selleck.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "79_entity17306",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Hanford",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "22", "-LRB-", "May", "death", "seven", "Representatives", "years", "Samuel", "1711", "1733", "October", "1674", "1751", "member", "1719", "justice", "1717", "February", "1737", "1714", "1736", "1735", "--", "sessions", "town", "selectman", "House", "also", ",", "April", ".", "clerk", "1723", "1722", "2", "1720", "Hanford", "Norwalk", "Connecticut", "served", "peace", "-RRB-", "1708", "1707", "1705", "1724" ],
+  "adjectives" : [ ],
+  "nouns" : [ "clerk", "town", "death", "selectman", "peace", "member", "justice" ],
+  "text" : "Samuel Hanford (April 22, 1674 – February 2, 1751) was a member of the Connecticut House of Representatives from Norwalk in the sessions of October 1705, May 1707, May 1708, May 1711, May 1714, October 1717, October 1719, May 1720, October 1722, October 1733, May and October 1735, May and October 1736, and May and October 1737. He also served as Norwalk town clerk from 1707 to 1708.He served as a justice of the peace for Norwalk in 1711, 1723, 1724, and from 1735 until his death in 1751. He served as a selectman for seven years. He was the son of Reverend Thomas Hanford and Mary Miles.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "80_entity17308",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Comstock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "-LRB-", "26", "May", "1680", "Representatives", "Samuel", "1711", "October", "son", "1752", "1730", "Comstock", "member", "Platt", "February", "1714", "--", "sessions", "Christopher", "Hannah", "House", ",", ".", "1723", "1720", "Norwalk", "6", "Connecticut", "-RRB-", "1729", "1728", "1727", "1726", "1725" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "member" ],
+  "text" : "Samuel Comstock (February 6, 1680 – October 26, 1752) was a member of the Connecticut House of Representatives from Norwalk in the sessions of October 1711, October 1714, May 1720, October 1723, October 1725, October 1726, October 1727, October 1728, October 1729, and October 1730. He was the son of Christopher Comstock and Hannah Platt.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "81_entity17317",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Marvin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant" ]
+  },
+  "words" : [ "meeting-house", "Samuel", "son", "Platt", "meeting", "--", "new", "town", "townsman", "House", ",", ".", "appointed", "seat", "3", "1664", "Connecticut", "served", "Joseph", "-RRB-", "Matthew", "Colony", "1707", "1702", "June", "-LRB-", "May", "session", "Jr.", "Representatives", "Brush", "founding", "settlers", "1712", "1754", "1710", "member", "1718", "1717", "1714", "Mary", "committee", "one", "chairman", "brother-in-law", "Marvin", "1723", "Norwalk", "1727", "1724" ],
+  "adjectives" : [ "new" ],
+  "nouns" : [ "seat", "meeting-house", "son", "committee", "town", "session", "member", "townsman", "chairman", "brother-in-law", "meeting", "founding" ],
+  "text" : "Samuel Marvin (1664–1754) was a member of the Connecticut House of Representatives from Norwalk, Connecticut Colony in the May 1718 session. He served as a townsman in 1702, 1707, 1710, 1712, 1714, 1717, 1724, and 1727. He was the son of Matthew Marvin, Jr., one of the founding settlers of Norwalk and Mary Brush Marvin. On June 3, 1723 he was appointed by a town meeting to a committee to seat the new meeting-house, of which his brother-in-law, Joseph Platt, was chairman. From February 1732, until his death, he lived in Wilton parish, which, at the time was part of Norwalk. His house in Norwalk was still standing in 1902.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "82_entity17324",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Cluckston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "several", "treasurer", "years", "Samuel", "son", "would", "1696", "Michael", "manufacturing", "hat", "1739", "--", "sessions", "town", "17", "House", ",", "'s", ".", "1740", "Connecticut", "-RRB-", "1709", "Colony", "become", "Wakeman", "largest", "-LRB-", "May", "industry", "Representatives", "Cluxton", "October", "known", "1751", "member", "Cluckstone", "Cluckston", "early", "November", "Mary", "established", "business", "maker", "also", "Klugston", "Norwalk", "Fairfield", "first", "1845" ],
+  "adjectives" : [ "known", "several", "early", "first" ],
+  "nouns" : [ "son", "town", "business", "member", "manufacturing", "maker", "hat", "industry", "treasurer" ],
+  "text" : "Samuel Cluckston (also Samuel Cluxton, Samuel Cluckstone and Samuel Klugston) (November 17, 1696 –1751) was a member of the House of Representatives of the Colony of Connecticut from Norwalk in the sessions of October 1739 and May 1740. He was Norwalk town treasurer for several years. He was the son of Michael Cluckston, and Mary Wakeman of Fairfield He established a hat manufacturing business in Norwalk as early as 1709. He was the first known hat maker in Norwalk, which would become Norwalk's, largest industry by 1845. One of the founding members of St. Paul's on the Green.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "83_entity12097",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Dymond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "24", "-LRB-", "September", "John", "riding", "governments", "1975", "1996", "member", "represented", "February", "Assembly", "1911", "1955", "--", "minister", "Bulloch", "politician", "Dymond", "CM", "Frost", ",", ".", "Robarts", "Progressive", "Canada", "Conservative", "served", "Matthew", "-RRB-", "Legislative", "Leslie", "Ontario", "cabinet", "21" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "CM", "cabinet", "Assembly" ],
+  "text" : "Matthew Bulloch Dymond,  CM (September 24, 1911 – February 21, 1996) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1955 to 1975 who represented the riding of Ontario. He served as a cabinet minister in the governments of Leslie Frost and John Robarts.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "84_entity12630",
+  "entityUrl" : "http://dbpedia.org/resource/Muhammad_Suleiman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "General" ]
+  },
+  "words" : [ "الأسد", "له", "وبعد", "مهندس", "الاسد", "منصب", "المستشار", "بتاريخ", "الدكتوراه", "ونال", "،", "تخرجه", "الأمني", "اغتيل", "بشار", "بلدة", "العميد", "آنذاك", "كان", "أغسطس", "الاتحاد", "عودته", "مما", "بجامعة", "من", "الدريكيش", "السوفياتي", "وحصل", "تقلد", "نقيب", "في", "برتبة", "الأولاد", "يرأسها", "عين", "قيادياً", "ابتعث", "مكتب", "للرئيس", ".", "كلية", "مهندساً", "سليمان", "وهو", "2", "الذي", "بالحرس", "طرطوس", "المدفعية", "قيادي", "للشؤون", "التقرب", "السوري", "مواليد", "مدير", "خريج", "الحربية", "سهل", "الدبابات", "غامضة", "ومستشاره", "تطوير", "أوائل", "العسكرية", "وتخرج", "2008", "بدورة", "الحرس", "الهندسة", "الماجستير", "باسل", "ضابطاً", "ظروف", "لتطوير", "المتفوقين", "الخاص", "يوم", "التحق", "الكلية", "محمد", "دمشق", "على", "الجمهوري", "بمدينة", "الكتيبة", "ثلاثة", "التي", "الميكانيكية", "ثم", "السبت", "السورية", "شرق", "إلى", "سلاح" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "له", "وبعد", "الاسد", "المدفعية", "العميد", "بتاريخ", "ثلاثة", "في", "،", "ابتعث", "العسكرية" ],
+  "text" : "العميد محمد سليمان المستشار الأمني للرئيس السوري بشار الأسد، الذي اغتيل بمدينة طرطوس السورية، يوم السبت بتاريخ 2 أغسطس 2008 في ظروف غامضة وهو من مواليد بلدة الدريكيش شرق طرطوس، خريج كلية الهندسة الميكانيكية بجامعة دمشق وبعد تخرجه التحق بدورة مهندس قيادي في الكلية الحربية وتخرج برتبة نقيب مهندس، له من الأولاد ثلاثة. كان من أوائل المتفوقين في الكلية الحربية مما سهل له التقرب من باسل الأسد آنذاك، ثم عين ضابطاً مهندساً قيادياً في الحرس الجمهوري في الكتيبة التي كان يرأسها باسل الاسد. ابتعث إلى الاتحاد السوفياتي لتطوير سلاح الدبابات بالحرس الجمهوري وحصل على الماجستير، ونال الدكتوراه في تطوير سلاح المدفعية. وبعد عودته تقلد منصب مدير مكتب باسل الاسد ومستشاره الخاص للشؤون العسكرية. وكان عضوا في اللجنة العسكرية الخاصة لإدارة التسليح المختصة بشراء الأسلحة وتطويرها. تسلم بشار الأسد لواء الـ 41 للحرس الجمهوري بعد وفاة باسل الأسد في حادث سير \"يرى كثيرون في الاستخبارات الإسرائيلية انها كانت عملية اغتيال\"، تسلم العميد سليمان منصب مدير مكتب بشار الاسد الخاص، وأصبح يدير غرفة العمليات الخاصة لبشار الاسد والتي تتعلق بنقل الضباط وتسريحهم ومتابعة شؤون الجيش والشؤون الأمنية. أسس مكتباً خاصاً بالتنسيق مع مكتب المعلومات التابع للقصر الجمهوري لمتابعة الوضع الداخلي، وكل ما يتعلق بالوزارات والمؤسسات الحزبية. خلال وفاة الرئيس السوري الراحل حافظ الاسد كان سليمان رئيس غرفة العمليات التي تدير الأجهزة الأمنية، وكان المسؤول الأول عن تعيين اللجنة المركزية واعضاء القيادة القطرية في المؤتمر القطري لحزب البعث عام 2000 ولاحقاً في المؤتمر القطري عام 2005. بعد ترقية سليمان إلى رتبة عميد، أسندت اليه كافة الملفات المتعلقة بالجيش، وألحقت له رئاسة الاركان ووزارة الدفاع التي أصبحت تحت إمرته مباشرة. وكان العميد سليمان يدير من خلف الستار تعيينات الوزراء والمحافظين.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "85_entity13083",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammad_al-Shaar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major General" ]
+  },
+  "words" : [ "من", "محمد", "وزير", "14", "2011", "في", "إبراهيم", "،", "الداخلية", "حكومة", "عادل", "اللاذقية", "عام", "1950", "منطقة", "منذ", "أبريل", "الشعار", "سفر", "الحفة", "السوري", "مواليد" ],
+  "adjectives" : [ ],
+  "nouns" : [ "محمد", "في", "،" ],
+  "text" : "محمد إبراهيم الشعار وزير الداخلية السوري منذ 14 أبريل 2011 في حكومة عادل سفر، من مواليد منطقة الحفة في اللاذقية عام 1950",
+  "patterns" : { }
+}, {
+  "entityIndex" : "86_entity13296",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Mead_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant Colonel" ]
+  },
+  "words" : [ "-LRB-", "26", "American", "May", "1781", "War", "1780", "Representatives", "Washington", "October", "Lieutenant", "George", "member", "1816", "February", "1736", "1779", "--", "sessions", "staff", "House", ",", "'s", ".", "August", "Norwalk", "Colonel", "served", "Revolutionary", "Connecticut", "Matthew", "-RRB-", "20", "Mead" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "member", "staff" ],
+  "text" : "Matthew Mead (August 20, 1736 – February 26, 1816) was a Lieutenant Colonel who served on George Washington's staff in the American Revolutionary War. He was a member of the Connecticut House of Representatives from Norwalk in the sessions of May 1779, May and October 1780, May and October 1781.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "87_entity13363",
+  "entityUrl" : "http://dbpedia.org/resource/Maia_Sandu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Extraordinary and Plenipotentiary Ambassador" ]
+  },
+  "words" : [ "24", "-LRB-", "2012", "Fălești", "ist", "bis", "Politikerin", "Bildungsministerin", "1972", "von", "Risipeni", "Ökonomin", "Moldawiens", "Maia", "war", "*", "und", "Rajon", ",", "Sandu", ".", "Sie", "moldawische", "Mai", "eine", "2015", "-RRB-" ],
+  "adjectives" : [ ],
+  "nouns" : [ "moldawische", "Politikerin", "eine", "von", "Ökonomin", "war", "und", "ist" ],
+  "text" : "Maia Sandu (* 24. Mai 1972 in Risipeni, Rajon Fălești) ist eine moldawische Ökonomin und Politikerin. Sie war von 2012 bis 2015 Bildungsministerin Moldawiens.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "88_entity13429",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Seymour",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "-LRB-", "May", "Representatives", "Seamore", "founding", "settlers", "1712", "October", "son", "Seamer", "member", "Ridgefield", "settler", "Seymour", "1735", "1713", "--", "Thomas", "sessions", "selectman", "one", "Hannah", "also", "House", ",", "Marvin", ".", "Norwalk", "Connecticut", "served", "Matthew", "-RRB-", "1669" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "selectman", "member", "settler", "founding" ],
+  "text" : "Matthew Seymour (also Matthew Seamer, and Matthew Seamore) (May 1669 – 1735) was a member of the Connecticut House of Representatives from Norwalk in the sessions of October 1712, and October 1713. He was one of the founding settlers of Ridgefield, Connecticut. He was the son of Thomas Seamer, the Norwalk settler and Hannah Marvin. He served as a selectman of Norwalk. On September 30, 1708, he, along with John Belding, Matthias St. John, and Samuel Keeler entered into an agreement with the native leader Catoonah to purchase the land today known as Ridgefield. At a Norwalk town meeting in 1718, Matthew, is picked as part of a 6-man committee to represent the town in a major political dispute. He was named as a lieutenant in 1710, and was named a captain of the North Company of Norwalk on May 26, 1729.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "89_entity13436",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Gregory_(deacon)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant" ]
+  },
+  "words" : [ "-LRB-", "Hill", "May", "session", "1680", "Gregory", "Representatives", "1777", "December", "son", "member", "1737", "--", "Belden", "17", "settled", "Wilton", "House", ",", "Jachin", ".", "Norwalk", "Connecticut", "Matthew", "-RRB-", "Colony", "1724" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son", "session", "member" ],
+  "text" : "Matthew Gregory (December 17, 1680 – May 1777) was a member of the Connecticut House of Representatives from Norwalk, Connecticut Colony in the session of May 1724. He was the son of Jachin Gregory. He settled on Belden Hill in Wilton by 1737.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "90_entity5127",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Nile",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "September", "MLC", "Wales", "John", "March", "parliament", "Council", "President", "2007", "2004", "Assistant", "member", "federal", "state", "longest-serving", "1934", "ED", "resigned", "''", "Frederick", "period", "contest", "election", "15", "minister", "born", "politician", "South", "Fred", ",", ".", "unsuccessfully", "Nile", "ordained", "Senate", "re-elected", "currently", "Australian", "1981", "-RRB-", "Christian", "Legislative", "except", "since" ],
+  "adjectives" : [ "Australian", "federal", "Legislative", "longest-serving" ],
+  "nouns" : [ "period", "election", "minister", "politician", "member", "state", "parliament" ],
+  "text" : "Frederick John \"Fred\" Nile ED MLC (born 15 September 1934) is an Australian politician and ordained Christian minister. Nile has been a member of the New South Wales Legislative Council since 1981, except for a period in 2004 when he resigned to unsuccessfully contest the Australian Senate at the 2004 federal election. Nile was re-elected at the March 2007 state election and is currently Assistant President of the Legislative Council. He is the longest-serving member of the New South Wales parliament. In November 2009 he stated his decision to retire in 2015, but later announced his decision to accept the Christian Democratic Party (CDP) nomination for the NSW Legislative Council at the New South Wales State Election on 28 March 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "91_entity5342",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Pierpoint_Appleby",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Sergeant" ]
+  },
+  "words" : [ "23", "-LRB-", "May", "Alberta", "Force", "officer", "Royal", "December", "1971", "member", "1913", "Assembly", "--", "Appleby", "18", "politician", "Air", ",", ".", "Pierpoint", "Progressive", "Canada", "1986", "2015", "served", "Conservative", "caucus", "-RRB-", "Legislative", "Frank" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "officer", "politician", "caucus", "member", "Assembly" ],
+  "text" : "Frank Pierpoint Appleby (December 23, 1913 – May 18, 2015) was a politician and Royal Air Force officer from Alberta, Canada. He served in the Legislative Assembly of Alberta from 1971 to 1986 as a member of the Progressive Conservative caucus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "92_entity5445",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Dade_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "notoriously", "``", "-LRB-", "May", "death", "John", "Francis", "involvement", "known", "plot", "possibly", "--", "''", "Charles", "Oliver", "Smith", "politician", "also", ",", "Cromwell", ".", "1", "English", "Stuarts", "1621", "1662", "-RRB-", "attached", "name", "Royalist", "emigrated", "time", "Virginia", "burgess", "Dade", "landowner", "adopted" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "involvement", "death", "plot", "politician", "name", "Royalist", "time", "burgess", "landowner" ],
+  "text" : "Francis Dade (1621 – May 1, 1662), also known as John Smith (John Smith (Virginia burgess)), was a Virginia politician and landowner. He was an English Royalist who emigrated to Virginia some time after the death of Charles I, possibly after involvement in some plot against Oliver Cromwell. He was notoriously attached to the Stuarts. In Virginia he adopted the name \"John Smith\". He served as Speaker of the Virginia House of Burgesses in 1658. He died at sea in 1662.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "93_entity5628",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Esposito_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Sgt. 1st class" ]
+  },
+  "words" : [ "New", "24", "-LRB-", "longest", "Leader", "York", "city", "March", "seven", "died", "Representatives", "serving", "Esposito", "terms", "Assistant", "four", "Minority", "January", "Bronx", "Majority", "--", "including", "J.", "mayor", "born", "2001", "also", "House", "history", ",", "'s", ".", "1987", "Norwalk", "1981", "2013", "Connecticut", "served", "-RRB-", "1928", "9", "Frank" ],
+  "adjectives" : [ ],
+  "nouns" : [ "mayor", "city", "history" ],
+  "text" : "Frank J. Esposito (born March 24, 1928, Bronx, New York — died Norwalk, January 9, 2013) was the mayor of Norwalk, Connecticut for seven terms, from 1987 to 2001, the longest serving mayor in the city's history. He also served four terms from 1981 to 1987 in the Connecticut House of Representatives, including as Assistant Majority Leader and Minority Leader.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "94_entity5636",
+  "entityUrl" : "http://dbpedia.org/resource/Ferdinand_B._Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "1" ]
+  },
+  "words" : [ "--", "Charles", "-LRB-", "defeated", "mayor", "Democratic", "Smith", "one", "B.", ",", "A.", ".", "Ferdinand", "Norwalk", "Connecticut", "-RRB-", "1907", "Scofield", "term", "1904", "1903", "ran" ],
+  "adjectives" : [ "Democratic" ],
+  "nouns" : [ "mayor", "term" ],
+  "text" : "Ferdinand B. Smith (–) was a one term Democratic mayor of Norwalk, Connecticut from 1903 to 1904. He ran again in 1907, but was defeated by Charles A. Scofield.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "95_entity5676",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Smith_(Florida_settler)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "north", "operated", "Fort", "Representatives", "office", "County", "Court", "settlement", "miles", "1877", "Pierce", "post", "1870", "Clerk", "member", "settler", "sessions", "37", "Smith", "House", "also", "store", "Florida", ",", ".", "Jupiter", "served", "Brevard", "time", "Frank", "1869", "Micco", "first" ],
+  "adjectives" : [ "first" ],
+  "nouns" : [ "post", "Clerk", "member", "settler", "store", "office", "time", "settlement" ],
+  "text" : "Frank Smith was a member of the Florida House of Representatives in the sessions of 1869, and 1870. He also served as Clerk of the Court for Brevard County. He operated a store and post office at Fort Pierce which, at the time, was the only settlement for 37 miles north of Jupiter. He was the first settler of Micco, Florida in 1877. His residence near the old Indian River Inlet supports the conclusion that the area of the original Indian River Colony, Susannah, near Fort Pierce, was Brevard's early county seat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "96_entity5830",
+  "entityUrl" : "http://dbpedia.org/resource/Greg_Hall_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Trooper" ]
+  },
+  "words" : [ "``", "became", "Mayor", "Raymond", "-LRB-", "independent", "electoral", "Gregory", "Greg", "Council", "division", "Western", "1997", "Liberals", "2002", "Launceston", "member", "Rowallan", "''", "Tiers", "born", "19", "2001", "also", ",", "elections", "Anderson", "April", ".", "Meander", "Valley", "-RRB-", "Legislative", "Hall", "1948", "defeating", ";", "Russel", "Tasmanian", "supported" ],
+  "adjectives" : [ "Western", "independent", "electoral", "Legislative", "Tasmanian" ],
+  "nouns" : [ "division", "member", "Hall", "Council" ],
+  "text" : "Gregory Raymond \"Greg\" Hall (born 19 April 1948) is an independent member of the Tasmanian Legislative Council in the electoral division of Western Tiers. He was also Mayor of the Meander Valley Council from 1997 to 2002. Hall was born in Launceston. He became a member of the Legislative Council at the 2001 Rowallan elections, defeating Russel Anderson (independent; supported by the Liberals). Hall has supported some of state Labor's initiatives in the upper house, such as the Meander dam project and the Betfair proposal. He was one of only two independent members of the Council to support the 2003 Relationships Act which gave same-sex unions and other relationships recognition in Tasmania.  Hall voted against the governments Sex regulation Act and supported later legislation to ban brothels in Tasmania. He stood for re-election again for the 6 May 2006 Rowallan division election, winning with a primary vote of 81.95% against a sole Tasmanian Greens opponent. Greg Hall is a Vietnam war veteran. He served as a Trooper with BSquadron, 3 Cav from 28 August 1969 to 4 June 1970.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "97_entity6580",
+  "entityUrl" : "http://dbpedia.org/resource/George_Fawdon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Major" ]
+  },
+  "words" : [ "-LRB-", "sources", "militia", "Fawdon", "Faudown", "officer", "colonist", "county", "least", "Faudon", "spelled", "two", "County", "legislative", "Fawden", "Fawdoune", "Fawdowne", "George", "Fawder", "terms", "Burgesses", "Fowden", "justice", "1654/1655", "representative", "ca", "early", "--", "Isle", "politician", "representing", "also", "House", ",", "court", ".", "clerk", "1600", "Fadoin", "various", "served", "-RRB-", "1650s", "1640s", "Wight", "Virginia", "burgess", "landowner" ],
+  "adjectives" : [ "various", "early", "legislative" ],
+  "nouns" : [ "clerk", "militia", "officer", "politician", "colonist", "county", "justice", "court", "representative", "burgess", "landowner" ],
+  "text" : "George Fawdon (ca 1600 – ca 1654/1655), also spelled in various sources as George Fawden, George Fawder, George Fadoin, George Faudon, George Fawdoune, George Faudown, George Fawdowne, and George Fowden, was an early Virginia colonist, landowner, militia officer, county court clerk, county clerk justice and legislative representative (politician). He served at least two terms as a burgess in the Virginia House of Burgesses in the 1640s and 1650s representing Isle of Wight County, Virginia.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "98_entity6678",
+  "entityUrl" : "http://dbpedia.org/resource/George_Snook",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain, Major" ]
+  },
+  "words" : [ "Trustees", "-LRB-", "September", "body", "sixth", "President", "Chico", "Board", "George", "1894", "twelfth", "1892", "July", "31", "--", "Sutton", "California", ",", ".", "1", "1842", "governing", "1886", "1885", "Snook", "-RRB-" ],
+  "adjectives" : [ "sixth", "twelfth" ],
+  "nouns" : [ "President", "body" ],
+  "text" : "George Sutton Snook (September 1, 1842 – July 31, 1894) was the sixth and twelfth President of the Chico Board of Trustees, the governing body of Chico, California from 1885 to 1886 and from 1892 to 1894.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "99_entity14233",
+  "entityUrl" : "http://dbpedia.org/resource/Percy_Sutton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Captain" ]
+  },
+  "words" : [ "de", "avocat", "est", "qu'il", "novembre", "œuvré", "notamment", "borough", "du", "des", "ainsi", "l'homme", "un", "militant", "les", "poste", "décembre", "1977", "Percy", "l'un", "Sutton", "en", ",", ".", "défendu", "plus", "et", "l'occasion", "président", "également", "Manhattan", "né", "occupa", "célèbres", "San", "24", "Il", "Malcolm", "26", "qui", "était", "États-Unis", "Antonio", "2009", "avocats", "mort", "X", "faveur", "devenu", "plusieurs", "à", "alors", "entrepreneur", "américain", "1920", "afro-américains", "droits", "procès", "le", "1966" ],
+  "adjectives" : [ "novembre", "militant", "décembre" ],
+  "nouns" : [ "à", "Il", "qui", "avocat", "est", "était", "œuvré", "notamment", "borough", "entrepreneur", "défendu", "américain", "ainsi", "également", "un", "né", "occupa" ],
+  "text" : "Percy Sutton, né le 24 novembre 1920 à San Antonio et mort le 26 décembre 2009, est un militant américain qui a œuvré en faveur des droits de l'homme, notamment en faveur des droits des afro-américains. Il était également avocat et entrepreneur. Il a ainsi défendu Malcolm X à l'occasion de plusieurs procès, alors qu'il était devenu l'un des avocats les plus célèbres des États-Unis. Il occupa le poste de président du borough de Manhattan de 1966 à 1977. Sutton a été à l'origine de la Inner City Broadcasting Corporation (société de diffusion des quartiers défavorisés) qu'il fonda en 1971 avec cinquante autres actionnaires afro-américains, parmi lesquels l'ancien maire de New York, David Dinkins.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "100_entity14801",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Couvret",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Pilot Officer" ]
+  },
+  "words" : [ "June", "New", "schoolteacher", "Warringah", "-LRB-", "Shire", "JP", "Couvret", "Wales", "Councillor", "Paul", "local", "Council", "President", "1973", "1995", "previously", "military", "July", "councillor", "1979", "--", "born", "South", ",", ".", "veteran", "1983", "5", "Australian", "2013", "-RRB-", "OAM", "Dutch", "1922" ],
+  "adjectives" : [ "Australian", "military", "Dutch", "local" ],
+  "nouns" : [ "schoolteacher", "veteran", "councillor" ],
+  "text" : "Paul Couvret OAM, JP (5 June 1922 – 5 July 2013) was a Dutch–born Australian military veteran, New South Wales schoolteacher and local Councillor. He was a councillor on Warringah Council from 1973 to 1995 and was previously Shire President from 1979–1983.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "101_entity14814",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_L._Cunningham",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant Colonel" ]
+  },
+  "words" : [ "22", "New", "Company", "C.S.S.", "-LRB-", "York", "Old", "Well", "Corps", "Brigade", "1899", "spring", "known", "came", "First", "Ninth", "Rifle", "Cunningham", "1814", "1834", "--", "Regiment", "L.", "14", "mayor", "born", "South", "one-term", "City", ",", "April", ".", "August", "Norwalk", "1840", "1883", "Connecticut", "-RRB-", "organized", "Mohican", "Peter", "Fourth" ],
+  "adjectives" : [ "one-term", "Fourth" ],
+  "nouns" : [ "spring", "mayor", "Brigade" ],
+  "text" : "Peter L. Cunningham (August 14, 1814 – April 22, 1899) was a one-term mayor of South Norwalk, Connecticut in 1883. He was born in New York City on August 14, 1814. He came to Old Well (now South Norwalk), Connecticut in the spring of 1834. In 1840, he organized the First Rifle Company (known as the Mohican Rifle Corps) of the Ninth Regiment, Fourth Brigade, C.S.S. He was its commander for several years. In 1858, he was appointed colonel on the staff of Governor William A.Buckingham. In 1861, he was appointed Lieutenant Colonel of the Eighth Connecticut Volunteers, but resigned the commission after four months with an honorable discharge. In that same year, he waselected to the Connecticut House of Representatives from Norwalk. He was a member of the Military Committee of the Legislature of Connecticut. In that committee, he proposed that $3 million should be appropriated for the defense of the Union. That proposal was passed by both chambers of the legislature. Another $3 million would subsequently be approved. From 1877 to 1879, Cunningham served on the South Norwalk City Council as its senior member. He served as mayor from 1883 to 1884. He served as a director on the boards of the Central Nation Bank, the First National Bank, and the Norwalk Gas Company.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "102_entity8",
+  "entityUrl" : "http://dbpedia.org/resource/Arvid_Horn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lieutenant General" ]
+  },
+  "words" : [ "Horn", "-LRB-", "Ekebyholm", "figures", "leading", "Count", "Liberty", "Council", "Swedish", "President", "1710", "Privy", "Finnish", "1719", "1738", "Age", "Bernhard", "--", "af", "17", "politician", "one", "Arvid", ",", "April", ".", "twice", "1742", "1720", "1664", "soldier", "6", "served", "-RRB-", "diplomat", "Chancellery" ],
+  "adjectives" : [ "Finnish", "Swedish" ],
+  "nouns" : [ "Ekebyholm", "af", "soldier", "politician", "diplomat", "Age" ],
+  "text" : "Count Arvid Bernhard Horn af Ekebyholm (6 April 1664 – 17 April 1742) was a Swedish (Finnish) soldier, diplomat and politician. He served twice as President of the Privy Council Chancellery (1710–1719 and 1720–1738) and was one of the leading figures of the Swedish Age of Liberty.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "103_entity531",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_N._Phillips",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "First Lieutenant" ]
+  },
+  "words" : [ "23", "Politiker", "-LRB-", "Zwischen", "ein", "Phillips", "den", "1894", "US-Repräsentantenhaus", "1970", "1939", "1937", "Bundesstaat", "Januar", "US-amerikanischer", "†", "vertrat", "Stamford", "im", "18", "Darien", "war", "*", "und", ",", "er", ".", "April", "Connecticut", "-RRB-", "Alfred", ";", "Noroton" ],
+  "adjectives" : [ "und", "Januar" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Alfred Noroton Phillips (* 23. April 1894 in Darien, Connecticut; † 18. Januar 1970 in Stamford, Connecticut) war ein US-amerikanischer Politiker. Zwischen 1937 und 1939 vertrat er den Bundesstaat Connecticut im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "104_entity817",
+  "entityUrl" : "http://dbpedia.org/resource/Augustine_Warner,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "Augustine", "1642/43", "June", "-LRB-", "separate", "death", "Jr.", "1681", "Bacon", "two", "Council", "Washington", "Warner", "Rebellion", "1677", "October", "1676", "common", "George", "Burgesses", "Speaker", "--", "77", "II", "sessions", "last", "Queen", "politician", "ancestor", "19", "House", ",", "'s", ".", "Governor", "1666", "Elizabeth", "served", "-RRB-", "Virginia", "landowner" ],
+  "adjectives" : [ "separate", "last", "common" ],
+  "nouns" : [ "Rebellion", "death", "politician", "ancestor", "landowner" ],
+  "text" : "Augustine Warner, Jr. (1642/43 – June 19, 1681) was a Virginia politician and landowner. He served in the House of Burgesses 1666–77 and was its Speaker in two separate sessions in 1676 and 1677, before and after Bacon's Rebellion. He then served on the Governor's Council from about October 1677 until his death. Warner is the last common ancestor of George Washington and Queen Elizabeth II.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "105_entity878",
+  "entityUrl" : "http://dbpedia.org/resource/Abdel_Hamid_al-Sarraj",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel" ]
+  },
+  "words" : [ "22", "دراسته", "-LRB-", "الحرب", "الحربية", "سوري", "الحميد", "سياسي", "،", "ملازما", "أوائل", "وتخرج", "منها", "السراج", "عبد", "كان", "تطوع", "باريس", "وواصل", "من", "الكلية", "وضابط", "أديب", "الشيشكلي", "سبتمبر2013", "في", "حمص", "-", ".", "عام", "كلية", "فلسطين", "الخمسينات", "أركان", "-RRB-", "تخرج", "وقريبا", "1948", "1925", "1947", "للقتال" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "السراج", "في", "تخرج", "كان", "تطوع" ],
+  "text" : "عبد الحميد السراج (1925 - 22 سبتمبر2013)، سياسي وضابط سوري. تخرج من الكلية الحربية في حمص وواصل دراسته في كلية أركان الحرب في باريس وتخرج منها عام 1947. تطوع للقتال في فلسطين عام 1948. كان ملازما وقريبا من أديب الشيشكلي في أوائل الخمسينات. عين عام 1955 رئيساً للمخابرات وترأس التحقيقات ضد الحزب القومي السوري. أثناء الوحدة شغل منصب وزير الداخلية ورئيس المكتب التنفيذي للإقليم الشمالي. نظم جهاز الشرطة والأمن في سوريا وفرض عليها حكمًا بوليسيًا. وكانت هذه أحد الأمور التي أدت إلى انهيار الوحدة لاحقًا. كما عرف بعدائه المتبادل لعبد الحكيم عامر. عينه جمال عبد الناصر نائبًا له بهدف تقليص نفوذه، فاستقال من هذا المنصب في 26 سبتمبر 1961. عند الانفصال ألقي القبض عليه وأودع سجن المزة في دمشق، إلا أن جهاز المخابرات العامة المصرية تمكن من تهريبه من السجن من دمشق إلى بيروت ثم إلى القاهرة. لجأ إلى مصر بعد الانفصال، وعين هناك في عدد من المناصب الإدارية. وبقيت علاقته بالرئيس الراحل جمال عبد الناصر متميزة حتى وفاته. توفي يوم 23 سبتمبر 2013 في القاهرة.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "106_entity1130",
+  "entityUrl" : "http://dbpedia.org/resource/Ali_Aslan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lt. General" ]
+  },
+  "words" : [ "C'est", "de", "-LRB-", "syrienne", "Hafez", "est", "proche", "Aslan", "Commandement", "Baas", "du", "central", "général", "el-Assad", "un", "syrien", "arabe", "1933", "membre", "l'ancien", "Parti", "علي", "l'armée", "chef", "en", ",", ".", "et", "président", "أصلان", "-RRB-", ":", "né", "cabinet", "Ali" ],
+  "adjectives" : [ "président", "central", "général", "l'armée" ],
+  "nouns" : [ "membre", "syrienne", "chef", "un", "né", "syrien", "cabinet", "arabe" ],
+  "text" : "Ali Aslan (en arabe : علي أصلان) est un général syrien né en 1933. C'est l'ancien chef de cabinet de l'armée syrienne, membre du Commandement central du Parti Baas et un proche de l'ancien président syrien Hafez el-Assad.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "107_entity1358",
+  "entityUrl" : "http://dbpedia.org/resource/Allmand_A._McKoy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Colonel, Lieutenant Colonel" ]
+  },
+  "words" : [ "11", "11,1885", "Alexander", "-LRB-", "officer", "Democratic", "politician", "Carolina", ",", "Allmand", ".", "Superior", "Court", "1825-November", "October", "Senate", "McKoy", "served", "-RRB-", "North", "military", "lawyer", "party", "Judge" ],
+  "adjectives" : [ "Democratic", "military" ],
+  "nouns" : [ "officer", "politician", "lawyer", "party" ],
+  "text" : "Allmand Alexander McKoy (October 11, 1825-November 11,1885) was a North Carolina lawyer, military officer and Democratic party politician who served in the North Carolina Senate and as a Judge of the Superior Court of North Carolina.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "108_entity1377",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_J._Tata",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "http://dbpedia.org/resource/Brigadier_general" ]
+  },
+  "words" : [ "Tony", "Pat", "-LRB-", "McCrory", "American", "Secretary", "Transportation", "subject", "United", "focuses", "matter", "years", "life", "teɪˈtə", "States", "2009", "Department", "retiring", "known", "North", "military", "Tata", "Army", "Anthony", "J.", "Brigadier", "twenty-eight", "Carolina", "fictional", "also", ",", "whose", ".", "A.J.", "/", "Governor", "Series", "2015", "served", "2013", "-RRB-", "General", "novelist", "Threat" ],
+  "adjectives" : [ "teɪˈtə", "American", "subject", "fictional", "military" ],
+  "nouns" : [ "novelist", "matter", "life" ],
+  "text" : "Brigadier General Anthony J. Tata, also known as Tony Tata and A.J. Tata (/teɪˈtə/), served as Secretary of the North Carolina Department of Transportation from 2013 to 2015 under Governor Pat McCrory. General Tata served in the United States Army for twenty-eight years before retiring in 2009. He is also an American novelist whose subject matter focuses on military life. Tata is most known for the fictional Threat Series.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "109_entity1395",
+  "entityUrl" : "http://dbpedia.org/resource/Allister_Johnston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Lt. Colonel" ]
+  },
+  "words" : [ "Allister", "``", "-LRB-", "March", "riding", "Johnston", "2005", "1971", "member", "represented", "Allie", "Parry", "Assembly", "''", "1908", "politician", "19", "Sound", ",", "-", ".", "August", "Progressive", "Canada", "Conservative", "-RRB-", "Legislative", "1948", "Ontario", "21" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Allister \"Allie\" Johnston (March 19, 1908 - August 21, 2005) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1948 to 1971 who represented the riding of Parry Sound.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "110_entity1524",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Canova",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "Private" ]
+  },
+  "words" : [ "-LRB-", "palm", "hut", "moved", "War", "Adventures", "County", "October", "December", "thatch", "Third", "settler", "River", "Seminole", "lived", "near", "30", "1858", "P.", "1835", "--", "Andrew", "17", "1909", "author", "settled", "South", ",", "Florida", ".", "mouth", "veteran", "Canova", "-RRB-", "Life", "Brevard", "Fall", "Bay", "river", "Tampa", "Sebastian" ],
+  "adjectives" : [ ],
+  "nouns" : [ "mouth", "veteran", "thatch", "author", "palm", "hut", "settler", "Fall", "river" ],
+  "text" : "Andrew P. Canova (October 30, 1835 – December 17, 1909) was a Florida settler and author of Life and Adventures in South Florida. He was a veteran of the Third Seminole War. In Fall of 1858, he moved from Tampa Bay to Brevard County where he settled on the Sebastian River. He lived in a palm thatch hut near the mouth of the river. He, along with Ed Marr, hunted, fished and raised onions in a small garden. He started to cultivate citrus, but was impatient and abandoned that project. Canova went to St. Augustine to enlist in the Confederate Army in 1861. In 1885 he wrote Life and Adventures in South Florida, in which he lamented the demise of wildlife in the Indian River area.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "111_entity1539",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Messenger",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rank" : [ "sergeant" ]
+  },
+  "words" : [ "serve", "December", "son", "1730", "1696", "1650", "1694", "Assembly", "--", "Hoyt", "sessions", "deputy", "town", "minister", "Andrew", "townsman", "pay", "House", "tax", "Messenger", ",", "'s", ".", "1701", "elected", "1700", "5", "Connecticut", "-RRB-", "General", "Colony", "1702", "June", "-LRB-", "May", "proportion", "28", "Representatives", "collector", "October", "member", "land", "Walter", "bought", "Rachel", "Manning", "1691", "services", "Norwalk", "1686" ],
+  "adjectives" : [ ],
+  "nouns" : [ "deputy", "son", "town", "proportion", "minister", "member", "land", "townsman", "tax", "collector" ],
+  "text" : "Andrew Messenger (1650 – October 1730) was a deputy of the General Assembly of the Colony of Connecticut from Norwalk in the sessions of May 1691, and October 1696, and a member of the Connecticut House of Representatives in the sessions of October 1700, October 1701, and May 1702. He was the son of Andrew Messenger and Rachel Manning. On June 28, 1686, he bought the land of Walter Hoyt. On December 5, 1694, Messenger was elected by the town of Norwalk, to serve as collector of each townsman's proportion (tax) to pay the minister for his services. In 1698, it was the special duty of Messenger and John Keeler, as deputies to bring the enforcement of the Game Law to the attention of the native people of the Norwalk area, who had been assigned to the portion of Chestnut Hill called Indian Field.",
+  "patterns" : { }
+} ]

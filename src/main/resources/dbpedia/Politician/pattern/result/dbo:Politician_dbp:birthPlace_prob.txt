@@ -1,0 +1,9 @@
+id=35  property=dbp:birthPlace  
+four_sons-CD_NNS  multiply=0.003205  P(four_sons|dbp:birthPlace)=0.003205  P(dbp:birthPlace|four_sons)=1.0    
+served_deputy-VBD_NN  multiply=0.002467  P(served_deputy|dbp:birthPlace)=0.060897  P(dbp:birthPlace|served_deputy)=0.040512    
+served_president-VBD_NN  multiply=0.002209  P(served_president|dbp:birthPlace)=0.057692  P(dbp:birthPlace|served_president)=0.038298    
+west-RB_NN  multiply=0.001603  P(west|dbp:birthPlace)=0.003205  P(dbp:birthPlace|west)=0.5    
+won_ward-VBD_NN  multiply=6.11E-4  P(won_ward|dbp:birthPlace)=0.00641  P(dbp:birthPlace|won_ward)=0.095238    
+imprisoned_for-VBN_IN  multiply=5.34E-4  P(imprisoned_for|dbp:birthPlace)=0.003205  P(dbp:birthPlace|imprisoned_for)=0.166667    
+teacher-NN  multiply=3.56E-4  P(teacher|dbp:birthPlace)=0.003205  P(dbp:birthPlace|teacher)=0.111111    
+

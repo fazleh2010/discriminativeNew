@@ -1,0 +1,3 @@
+id=19  property=dbo:president  
+nominated_by-VBN_IN  multiply=0.001111  P(nominated_by|dbo:president)=0.005556  P(dbo:president|nominated_by)=0.2    
+

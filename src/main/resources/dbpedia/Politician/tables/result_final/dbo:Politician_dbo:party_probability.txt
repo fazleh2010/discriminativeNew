@@ -1,0 +1,37 @@
+# dbo:Politician_dbo:party_probability_0.45_0.45.txt #############################################
+id=1  property=dbo:party  object=http://dbpedia.org/resource/Australian_Labor_Party  NumberOfEntitiesFoundForObject=625
+labor-NN  multiply=0.697351  P(labor|object)=0.8256  P(object|labor)=0.84466    
+australian-JJ  multiply=0.612847  P(australian|object)=0.872  P(object|australian)=0.702806    
+
+id=2  property=dbo:party  object=http://dbpedia.org/resource/Republican_Party_(United_States)  NumberOfEntitiesFoundForObject=489
+republican-JJ  multiply=0.459086  P(republican|object)=0.709611  P(object|republican)=0.646953    
+
+id=3  property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_(UK)  NumberOfEntitiesFoundForObject=304
+labour-NN  multiply=0.545266  P(labour|object)=0.986842  P(object|labour)=0.552536    
+
+id=4  property=dbo:party  object=http://dbpedia.org/resource/Democratic_Party_(United_States)  NumberOfEntitiesFoundForObject=760
+american-JJ  multiply=0.309157  P(american|object)=0.546053  P(object|american)=0.566166    
+democratic-JJ  multiply=0.25355  P(democratic|object)=0.530263  P(object|democratic)=0.478158    
+
+id=5  property=dbo:party  object=http://dbpedia.org/resource/Indian_National_Congress  NumberOfEntitiesFoundForObject=693
+indian-JJ  multiply=0.674782  P(indian|object)=0.897547  P(object|indian)=0.751807    
+constituency-NN  multiply=0.296816  P(constituency|object)=0.620491  P(object|constituency)=0.478357    
+
+# dbo:Politician_dbo:party_probability_0.6_0.6.txt #############################################
+id=1  property=dbo:party  object=http://dbpedia.org/resource/Australian_Labor_Party  NumberOfEntitiesFoundForObject=625
+labor-NN  multiply=0.697351  P(labor|object)=0.8256  P(object|labor)=0.84466    
+australian-JJ  multiply=0.612847  P(australian|object)=0.872  P(object|australian)=0.702806    
+
+id=2  property=dbo:party  object=http://dbpedia.org/resource/Republican_Party_(United_States)  NumberOfEntitiesFoundForObject=489
+republican-JJ  multiply=0.459086  P(republican|object)=0.709611  P(object|republican)=0.646953    
+
+id=3  property=dbo:party  object=http://dbpedia.org/resource/Indian_National_Congress  NumberOfEntitiesFoundForObject=693
+indian-JJ  multiply=0.674782  P(indian|object)=0.897547  P(object|indian)=0.751807    
+
+# dbo:Politician_dbo:party_probability_0.8_0.8.txt #############################################
+id=1  property=dbo:party  object=http://dbpedia.org/resource/Australian_Labor_Party  NumberOfEntitiesFoundForObject=625
+labor-NN  multiply=0.697351  P(labor|object)=0.8256  P(object|labor)=0.84466    
+
+
+
+

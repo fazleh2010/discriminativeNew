@@ -1,0 +1,3 @@
+id=6  property=dbo:citizenship  
+member_of-NN_IN  multiply=1.7E-4  P(member_of|dbo:citizenship)=0.111111  P(dbo:citizenship|member_of)=0.001531    
+

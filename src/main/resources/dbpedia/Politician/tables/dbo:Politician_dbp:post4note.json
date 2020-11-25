@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity10713",
+  "entityUrl" : "http://dbpedia.org/resource/Kelly_Lamrock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post4note" : [ "Acting" ]
+  },
+  "words" : [ "Fredericton-Fort", "New", "-LRB-", "Canadian", "Lamrock", "province", "1970", "member", "Development", "Nashwaak", "February", "lawyer", "Assembly", "Minister", "Social", "Brunswick", "Liberal", "born", "politician", ",", ".", "Kelly", "Canada", "5", "-RRB-", "Legislative", "cabinet" ],
+  "adjectives" : [ "Canadian", "Liberal", "Legislative" ],
+  "nouns" : [ "province", "politician", "member", "cabinet", "lawyer", "Assembly" ],
+  "text" : "Kelly Lamrock (born February 5, 1970) is a Canadian lawyer and politician in the province of New Brunswick, Canada. He was a Liberal member of the Legislative Assembly of New Brunswick for Fredericton-Fort Nashwaak, and Minister of Social Development in the New Brunswick cabinet.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity1675",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Welch_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post4note" : [ "Also Provincial Secretary for Justice" ]
+  },
+  "words" : [ "``", "-LRB-", "Canadian", "29", "John", "governments", "Davis", "Stanley", "Party", "Bob", "OC", "Robert", "member", "Welch", "July", "Assembly", "''", "--", "13", "minister", "politician", "2000", ",", ".", "Robarts", "Progressive", "1963", "1985", "Miller", "served", "Conservative", "-RRB-", "Bill", "1928", "Legislative", "Ontario", "cabinet", "Frank", "Kemp" ],
+  "adjectives" : [ "Canadian", "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Robert Stanley Kemp \"Bob\" Welch, OC (July 13, 1928 – July 29, 2000) was a Canadian politician. He served in the Legislative Assembly of Ontario from 1963 to 1985 as a member of the Progressive Conservative Party, and was a cabinet minister in the governments of John Robarts, Bill Davis and Frank Miller.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity3454",
+  "entityUrl" : "http://dbpedia.org/resource/Darcy_McKeough",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post4note" : [ "Also Minister of Economics and Intergovernmental Affairs" ]
+  },
+  "words" : [ "Davis", "represented", "January", "Assembly", "1978", "Minister", "1933", "--", "Economics", "Treasurer", "minister", "'", "often", "William", ",", "'s", "former", ".", "Progressive", "senior", "Canada", "-RRB-", "Bill", "ridings", "position", "Ontario", "-LRB-", "Darcy", "Intergovernmental", "government", "OC", "Due", "member", "Chatham", "31", "`", "Kent", "Affairs", "West", "born", "politician", "Duke", "Municipal", "1963", "McKeough", "Conservative", "Legislative", "cabinet", "referred" ],
+  "adjectives" : [ "senior", "Due", "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "politician", "member", "position", "cabinet", "Assembly" ],
+  "text" : "William Darcy McKeough, OC (born January 31, 1933) is a former politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1963 to 1978 who represented the ridings of Kent West and Chatham—Kent. He was a cabinet minister in the government of Bill Davis. Due to McKeough's senior position in cabinet as Treasurer, Minister of Economics and Intergovernmental Affairs and Minister of Municipal Affairs, he was often referred to as the 'Duke of Kent'. After he retired from politics in 1978, he spent a further career in business administering to his companies McKeough Investments and McKeough Supply. He also spent time as a member of the board of Hydro One and was a former CEO of Union Gas.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity12439",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Chan_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post4note" : [ "Also Responsible for the 2015 Pan and Parapan American Games" ]
+  },
+  "words" : [ "-LRB-", "Chén", "riding", "governments", "represents", "Chan", "2007", "1951", "Markham-Unionville", "Michael", "Dalton", "member", "陈国治", "Assembly", "Kathleen", "Wynne", "McGuinty", "minister", "Liberal", "born", "politician", "c.", ",", ".", "Guózhì", "elected", "Canada", "traditional", "pinyin", "simplified", "served", "-RRB-", "Chinese", "Legislative", ":", ";", "陳國治", "Ontario", "cabinet" ],
+  "adjectives" : [ "traditional", "Liberal", "Legislative" ],
+  "nouns" : [ "pinyin", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Michael Chan (traditional Chinese: 陳國治; simplified Chinese: 陈国治; pinyin: Chén Guózhì) (born c. 1951) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2007. He represents the riding of Markham-Unionville. He has served as a cabinet minister in the governments of Dalton McGuinty and Kathleen Wynne.",
+  "patterns" : { }
+} ]

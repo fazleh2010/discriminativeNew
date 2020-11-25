@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity3116",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_Ernest_of_Stolberg-Wernigerode",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nobleFamily" : [ "http://dbpedia.org/resource/House_of_Stolberg" ]
+  },
+  "words" : [ "Oktober", "die", "Grafschaft", "-LRB-", "25", "Harz", "seit", "unter", "bis", "unmittelbarer", "Graf", "1710", "stehende", "von", "1771", "Gedern", "Brandenburg-Preußens", "1714", "†", "Ernst", "im", "regierte", "über", "*", "1691", ".", "April", "Oberhoheit", "2", "Christian", "Wernigerode", "-RRB-", "zu", ";", "Stolberg-Wernigerode" ],
+  "adjectives" : [ "seit" ],
+  "nouns" : [ "unmittelbarer", "Oberhoheit", "von", "regierte", "über", "zu", "unter" ],
+  "text" : "Graf Christian Ernst zu Stolberg-Wernigerode (* 2. April 1691 in Gedern; † 25. Oktober 1771 in Wernigerode) regierte von 1710 bis 1771 über die seit 1714 unter unmittelbarer Oberhoheit Brandenburg-Preußens stehende Grafschaft Wernigerode im Harz.",
+  "patterns" : { }
+} ]

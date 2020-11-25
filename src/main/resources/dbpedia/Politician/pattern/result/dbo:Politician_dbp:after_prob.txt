@@ -1,0 +1,12 @@
+id=31  property=dbp:after  
+reelected_at-VBN_IN  multiply=0.013293  P(reelected_at|dbp:after)=0.027308  P(dbp:after|reelected_at)=0.486772    
+elected_at-VBN_IN  multiply=0.013286  P(elected_at|dbp:after)=0.027011  P(dbp:after|elected_at)=0.491892    
+reelected_in-VBN_IN  multiply=0.008273  P(reelected_in|dbp:after)=0.021371  P(dbp:after|reelected_in)=0.387097    
+first_elected-RB_VBN  multiply=0.007983  P(first_elected|dbp:after)=0.02434  P(dbp:after|first_elected)=0.328    
+member_of-NN_IN  multiply=0.00792  P(member_of|dbp:after)=0.039181  P(dbp:after|member_of)=0.202144    
+son_of-NN_IN  multiply=0.004405  P(son_of|dbp:after)=0.009498  P(dbp:after|son_of)=0.463768    
+defeated_at-VBN_IN  multiply=0.002565  P(defeated_at|dbp:after)=0.003265  P(dbp:after|defeated_at)=0.785714    
+stood_for-VBD_IN  multiply=0.002087  P(stood_for|dbp:after)=0.004452  P(dbp:after|stood_for)=0.46875    
+appointed_by-VBN_IN  multiply=0.002082  P(appointed_by|dbp:after)=0.00653  P(dbp:after|appointed_by)=0.318841    
+lost_his-VBD_PRP$  multiply=0.002006  P(lost_his|dbp:after)=0.004156  P(dbp:after|lost_his)=0.482759    
+

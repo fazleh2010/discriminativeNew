@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity11157",
+  "entityUrl" : "http://dbpedia.org/resource/Kiritsinh_Rana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:village" : [ "Bhalgamada,Limbdi" ]
+  },
+  "words" : [ "Kiritsinhji", "12th", "Rana", "constituency", "Gujarat", "assembly", "Legislative", "Member", "Limbdi", "legislative" ],
+  "adjectives" : [ "12th", "Legislative", "legislative" ],
+  "nouns" : [ "constituency", "assembly" ],
+  "text" : "Kiritsinhji Rana is a Member of Legislative assembly from Limbdi constituency in Gujarat for its 12th legislative assembly",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity9442",
+  "entityUrl" : "http://dbpedia.org/resource/Jitendra_Awhad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:village" : [ "A/p-Paste,Tal-Sinnar,Dist-Nashik" ]
+  },
+  "words" : [ "Congress", "Sharad", "mentor", "-LRB-", "MLA", "Horticulture", "Marathi", "political", "Nationalist", "house", "Jitendra", "President", "Sabha", "Party", "previously", "Education", "member", "जितेंद्र", "state", "Maharashtra", "Minister", "considers", "Pawar", "Cabinet", "lower", "founded", "आव्हाड", "also", ",", ".", "Working", "unit", "Vidhan", "served", "-RRB-", ":", "Medical", "cabinet", "Awhad", "party" ],
+  "adjectives" : [ "political", "Nationalist" ],
+  "nouns" : [ "unit", "mentor", "MLA", "member", "state", "house", "cabinet", "party" ],
+  "text" : "Jitendra Awhad (Marathi: जितेंद्र आव्हाड) is an MLA of Maharashtra, being a member of the Vidhan Sabha (lower house). He has previously served as Cabinet Minister of Medical Education and Horticulture in the Maharashtra state cabinet. He has also been Working President of the Maharashtra unit of the Nationalist Congress Party, the political party founded by Sharad Pawar, who Awhad considers as his mentor.",
+  "patterns" : { }
+} ]

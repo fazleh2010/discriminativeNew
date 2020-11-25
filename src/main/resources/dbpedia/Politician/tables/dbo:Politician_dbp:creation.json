@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "1_entity18808",
+  "entityUrl" : "http://dbpedia.org/resource/William_Courtenay,_11th_Earl_of_Devon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:creation" : [ "Fifth creation" ]
+  },
+  "words" : [ "Chancellor", "11th", "-LRB-", "Law", "styled", "President", "Courtenay", "Board", "Reginald", "Earl", "Duchy", "1859", "1835", "November", "--", "British", "14", "Poor", "18", "politician", "Lancaster", "William", ",", "April", ".", "1888", "1866", "Lord", "PC", "served", "-RRB-", "Devon", "1807", "1868", "1867" ],
+  "adjectives" : [ "British", "11th" ],
+  "nouns" : [ "politician" ],
+  "text" : "William Reginald Courtenay, 11th Earl of Devon PC (14 April 1807 – 18 November 1888), styled Lord Courtenay between 1835 and 1859, was a British politician who served as Chancellor of the Duchy of Lancaster from 1866 to 1867 and as President of the Poor Law Board from 1867 to 1868.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity2370",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Spencer,_3rd_Earl_of_Sunderland",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:creation" : [ "Second creation" ]
+  },
+  "words" : [ "23", "-LRB-", "Sunderland", "Council", "President", "1675", "known", "Lieutenant", "Earl", "Ireland", "Privy", "1719", "1718", "1717", "First", "KG", "1716", "1715", "1714", "--", "Charles", "statesman", "3rd", "19", "Spencer", ",", "Treasury", "April", ".", "1722", "Lord", "English", "1688", "1721", "PC", "served", "-RRB-", "Seal", "family", "1702" ],
+  "adjectives" : [ "English", "3rd", "First" ],
+  "nouns" : [ "statesman", "family" ],
+  "text" : "Charles Spencer, 3rd Earl of Sunderland KG PC (23 April 1675 – 19 April 1722), known as Lord Spencer from 1688 to 1702, was an English statesman from the Spencer family. He served as Lord Lieutenant of Ireland (1714–1717), Lord Privy Seal (1715–1716), Lord President of the Council (1717–1719) and First Lord of the Treasury (1718–1721).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity2386",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Wood,_2nd_Viscount_Halifax",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:creation" : [ "Second creation" ]
+  },
+  "words" : [ "June", "Church", "-LRB-", "1919", "Union", "1839", "ecumenist", "January", "1934", "--", "Charles", "British", "Wood", "2nd", "19", ",", "Lindley", "Halifax", ".", "English", "Viscount", "7", "served", "-RRB-", "1927", "1868", "president" ],
+  "adjectives" : [ "British", "2nd" ],
+  "nouns" : [ "ecumenist", "president" ],
+  "text" : "Charles Lindley Wood, 2nd Viscount Halifax (7 June 1839 – 19 January 1934) was a British ecumenist who served as president of the English Church Union from 1868 to 1919, and from 1927 to 1934.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity14925",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Spencer,_2nd_Earl_of_Sunderland",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:creation" : [ "2" ]
+  },
+  "words" : [ "numerous", "year", "forced", "England", "office", "rôle", "later", "Robert", "adviser", "--", "new", "took", "statesman", "monarchy", "made", "caustic", "Spencer", ",", "disinterested", ".", "5", "temper", "-RRB-", "Subsequently", "1702", "nevertheless", "-LRB-", "September", "28", "Sunderland", "flee", "favour", "nobleman", "Earl", "KG", "belief", "established", "regime", "2nd", "enemies", "seeking", "English", "1688", "Crown", "PC", "1641", "gifted", "absolute", "able", "neither", "family", "Revolution" ],
+  "adjectives" : [ "English", "new", "gifted", "numerous", "absolute", "able", "caustic", "2nd", "disinterested" ],
+  "nouns" : [ "statesman", "monarchy", "regime", "year", "office", "rôle", "favour", "nobleman", "temper", "adviser", "family", "belief", "Revolution" ],
+  "text" : "Robert Spencer, 2nd Earl of Sunderland KG PC (5 September 1641 – 28 September 1702) was an English nobleman of the Spencer family. An able and gifted statesman, his caustic temper and belief in absolute monarchy nevertheless made him numerous enemies. He was forced to flee England in 1688, but later established himself with the new regime after the Revolution of that year. Subsequently, he took on a more disinterested rôle as an adviser to the Crown, seeking neither office nor favour. He evinced no party loyalty, but was devoted to his country's interests, as he saw them. By the notoriously lax standards of the Restoration Court, his private life was remarkably free from scandal, which won him favour in the more sober post-Revolution state.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity2",
+  "entityUrl" : "http://dbpedia.org/resource/Axel_Oxenstierna",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:creation" : [ "1" ]
+  },
+  "words" : [ "Oxenstierna", "became", "Chancellor", "-LSB-", "-LRB-", "confidant", "death", "influential", "considered", "1583", "Count", "Council", "Swedish", "1612", "Sweden", "1654", "Privy", "member", "Adolphus", "Södermöre", "--", "High", "Axel", "statesman", "af", "Queen", "widely", "one", "Gustafsson", "history", ",", "people", ".", "ˈʊksɛnˌɧæːɳa", "Lord", "served", "-RRB-", "Gustavus", "-RSB-", "1609", ":", ";", "first", "Christina" ],
+  "adjectives" : [ "influential", "first", "Swedish" ],
+  "nouns" : [ "statesman", "confidant", "death", "af", "member", "Count", "history", "Södermöre", "ˈʊksɛnˌɧæːɳa" ],
+  "text" : "Axel Gustafsson Oxenstierna af Södermöre (Swedish: [ˈʊksɛnˌɧæːɳa] ; 1583 – 1654), Count of Södermöre, was a Swedish statesman. He became a member of the Swedish Privy Council in 1609 and served as Lord High Chancellor of Sweden from 1612 until his death. He was a confidant of first Gustavus Adolphus and then Queen Christina. Oxenstierna is widely considered one of the most influential people in Swedish history. He played an important role during the Thirty Years' War and was appointed Governor-General of occupied Prussia; he is also credited for having laid the foundations of the modern central administrative structure of the State, including the creation of counties (Swedish: län).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity179",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Ure,_1st_Baron_Strathclyde",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:creation" : [ "1" ]
+  },
+  "words" : [ "22", "became", "Alexander", "-LRB-", "Ure", "Glasgow", "GBE", "georgist", "membership", "1st", "QC", "1853", "October", "Scottish", "1897", "1895", "land", "Counsel", "judge", "Baron", "February", "value", "Member", "1913", "1878", "--", "activist", "Faculty", "admitted", "Strathclyde", "Linlithgowshire", "Liberal", "Queen", "politician", "tax", ",", "'s", ".", "2", "PC", "University", "Educated", "Advocates", "-RRB-", "1928", "Parliament" ],
+  "adjectives" : [ "Scottish", "Liberal" ],
+  "nouns" : [ "activist", "politician", "land", "tax", "judge", "georgist", "membership", "value" ],
+  "text" : "Alexander Ure, 1st Baron Strathclyde GBE PC QC (22 February 1853 – 2 October 1928) was a Scottish politician, judge, and georgist land value tax activist. Educated at the University of Glasgow he was admitted to membership of the Faculty of Advocates in 1878. He was Liberal Member of Parliament for Linlithgowshire from 1895 to 1913. He became a Queen's Counsel in 1897. He served as Solicitor General for Scotland from December 1905to 1909, and as Lord Advocate from February 1909 to 1913. He was an enthusiastic supporter of Lloyd George's 1909–10 budget. He was sworn of the Privy Council in 1909. In 1909, he conducted the prosecution of Oscar Slater for murder; the conviction was later quashed on appeal. He lived in a huge Georgian townhouse, 31 Heriot Row, in Edinburgh's Second New Town. On leaving Parliament he was raised to the bench as Lord Strathclyde and appointed Lord Justice General, a post he held until 1920. He was raised to the Peerage as Baron Strathclyde, of Sandyford in the County of Lanark, in 1914. In 1917, he was appointed to the Order of the British Empire as a Knight Grand Cross. He is said to have been skilled in cross-examination, and was more suited to life as an advocate than as a judge. The peerage became extinct on his death.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity12599",
+  "entityUrl" : "http://dbpedia.org/resource/Malik_Altunia",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:fatherInLaw" : [ "http://dbpedia.org/resource/Iltutmish" ]
+  },
+  "words" : [ "Delhi", "Altunia", "-LRB-", "Ikhtiyar-ud-din", "lover", "Mamluk", "rule", "husband", "Punjab", "Sultanate", ".", "India", "Malik", "Razia", "Bhatinda", "-RRB-", "governor", "Sultana" ],
+  "adjectives" : [ ],
+  "nouns" : [ "lover", "rule", "husband", "governor" ],
+  "text" : "Malik Ikhtiyar-ud-din Altunia was the lover and husband of Sultana Razia and the governor of Bhatinda (Punjab) in India under the rule of the Delhi Sultanate under the Mamluk Sultanate.",
+  "patterns" : { }
+} ]

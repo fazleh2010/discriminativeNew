@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity18405",
+  "entityUrl" : "http://dbpedia.org/resource/V._R._Karuppasamy_Pandian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:alternativeNames" : [ "Kana" ]
+  },
+  "words" : [ "Nadu", "Munnetra", "Alangulam", "Palayamkottai", "Tenkasi", "legislative", "candidate", "secretary", "2006", "Tirunelveli", "V.", "assembly", "Pandian", "Member", "Dravida", "Karuppasamy", "Assembly", "Anna", "1977", "DMK", "election", "politician", "'s", "former", "Tamil", ".", "elected", "currently", "constituency", "district", "1980", "Indian", "Legislative", "Kazhagam" ],
+  "adjectives" : [ "Indian", "Legislative", "Tenkasi", "former", "legislative" ],
+  "nouns" : [ "candidate", "secretary", "election", "constituency", "politician", "district", "assembly", "Assembly" ],
+  "text" : "V. Karuppasamy Pandian is an Indian politician and a former Member of the Legislative Assembly in Tamil Nadu. He is currently DMK's Tirunelveli district secretary. He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Alangulam constituency in 1977 election He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Palayamkottai constituency in 1980 election He was elected to the Tamil Nadu legislative assembly as an Dravida Munnetra Kazhagam candidate from Tenkasi constituency in 2006 election",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity7232",
+  "entityUrl" : "http://dbpedia.org/resource/Heera_Saraniya",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:alternativeNames" : [ "Heera Saraniya, Diamond" ]
+  },
+  "words" : [ "709", "Kumar", "-LRB-", "Assam", "independent", "নৱ", "polls", "parliament", "battalion", "কুমাৰ", "Sabha", "candidate", "commander", "শৰণীয়া", "won", "alias", "Member", "Candidate", "margin", "হীৰা", "politician", "representing", "Lok", "Assamese", "history", ",", "recorded", "elections", "Earlier", ".", "Saraniya", "Heera", "ever", "Independent", "currently", "constituency", "highest", "ULFA", "Naba", "2014", "-RRB-", "Indian", ":", "Kokrajhar" ],
+  "adjectives" : [ "Independent", "independent", "Indian" ],
+  "nouns" : [ "Candidate", "margin", "candidate", "commander", "constituency", "শৰণীয়া", "politician", "history", "parliament", "battalion" ],
+  "text" : "Naba Kumar Saraniya (Assamese: নৱ কুমাৰ শৰণীয়া) alias Heera Saraniya (Assamese: হীৰা শৰণীয়া) is an Indian politician who is currently a Member of parliament, Lok Sabha. He is representing the Kokrajhar constituency in Assam from 2014 and won as an Independent Candidate in Lok Sabha elections 2014. He won by the highest margin ever recorded in polls in Assam and as an independent candidate in the history of Lok Sabha elections. Earlier Saraniya was the commander of the 709 battalion of ULFA. He was said to be one of the most dreaded militants in Assam. He hails from Dighalipaar village under Tamulpur police station in Baksa district of Assam. He joined the outfit in 1990.",
+  "patterns" : { }
+} ]

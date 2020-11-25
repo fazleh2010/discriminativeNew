@@ -1,0 +1,169 @@
+[ {
+  "entityIndex" : "1_entity10954",
+  "entityUrl" : "http://dbpedia.org/resource/K._Rajaram",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "http://dbpedia.org/resource/Indira_Gandhi", "http://dbpedia.org/resource/Jawaharlal_Nehru", "http://dbpedia.org/resource/Lal_Bahadur_Shastri" ]
+  },
+  "words" : [ "Nadu", "defeated", "1980,84", "Krishnagiri", "later", "son", "1971", "91", "Panamarathupatti", "R.", "Member", "Assembly", "ADMK", "--", "II", "Narasimhan", ",", ".", "August", "India", "elected", "1985", "Rajagopalachari", "served", "1980", "8", "-RRB-", "Kazhagam", "Munnetra", "K.", "-LRB-", "contesting", "29", "C.", "Rajaram", "2008", "candidate", "Salem", "February", "Dravida", "Anna", "Speaker", "DMK", "politician", "Tamil", "1962", "constituency", "Indian", "Legislative", "rose", "1926", "prominence" ],
+  "adjectives" : [ "Indian", "Legislative" ],
+  "nouns" : [ "candidate", "son", "DMK", "constituency", "politician", "Assembly", "prominence", "ADMK" ],
+  "text" : "K. Rajaram (29 August 1926 – 8 February 2008) was an Indian politician of the Dravida Munnetra Kazhagam (DMK) and later, All India Anna Dravida Munnetra Kazhagam (ADMK) and Member of the Legislative Assembly of Tamil Nadu. He served as the Speaker of the Tamil Nadu Legislative Assembly from 1980 to 1985. Rajaram rose to prominence in 1962 when he defeated C. R. Narasimhan, son of C. Rajagopalachari while contesting from Krishnagiri as a candidate of the Dravida Munnetra Kazhagam. He was elected to the Tamil Nadu Legislative Assembly from Salem II constituency in 1971 as a DMK candidate and from the Panamarathupatti constituency in 1980,84 and 91 as an ADMK candidate. He served as the Minister for Housing and Backward Classes during 1971–73 and as the Minister for Labour during 1973–76 in the M. Karunanidhi cabinet. He was the Minister for Industries during 1985–89 in the M. G. Ramachandran cabinet and the Minister for Food during 1991–92 in the J. Jayalalitha cabinet. He also served as a Member of Lok Sabha from Krishnagiri during 1962–67 and from Salem during 1967–71.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity4401",
+  "entityUrl" : "http://dbpedia.org/resource/Edmund_Barton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "Himself" ]
+  },
+  "words" : [ "New", "Wales", "Court", "Protectionist", "justice", "judge", "January", "Minister", "contributed", "--", "MP", "18", "Barton", ",", ".", "7", "served", "-RRB-", "1903", "Hopetoun", "Sir", "confusion", "1901", "Parliament", "became", "-LRB-", "Prime", "contesting", "eventually", "founding", "head", "Party", "government", "GCMG", "KC", "federal", "1879", "High", "federation", "election", "caretaker", "Blunder", "initial", "politician", "South", "inaugural", "Edmund", "1920", "Australian", "1890s", "1849", "Australia", "movement", "first" ],
+  "adjectives" : [ "initial", "Australian", "federal", "first", "inaugural", "founding" ],
+  "nouns" : [ "federation", "head", "MP", "election", "caretaker", "government", "Blunder", "politician", "justice", "judge", "movement", "confusion" ],
+  "text" : "Sir Edmund Barton, GCMG, KC (18 January 1849 – 7 January 1920) was an Australian politician and judge. He served as the first Prime Minister of Australia from 1901 to 1903 and became a founding justice of the High Court of Australia. Barton first became an MP in 1879, in the Parliament of New South Wales. He contributed to the federation movement through the 1890s, eventually contesting the inaugural 1901 federal election as head of a caretaker Protectionist Party federal government, after the initial confusion of the Hopetoun Blunder. No party won a majority; however, he was able to form government with support from the Australian Labor Party, against the opposition Free Trade Party. Barton resigned as Prime Minister in 1903 to become a judge of the High Court of Australia, serving until his death in 1920.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity2572",
+  "entityUrl" : "http://dbpedia.org/resource/Carlos_Bruce",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "Roberto Dañino" ]
+  },
+  "words" : [ "de", "24", "Montes", "-LRB-", "político", "reelegido", "período", "por", "para", "Lima", "Fue", "un", "febrero", "1957", "congresista", "república", "partido", "Ricardo", "Posible", "2011-2016", "el", "economista", "Oca", ",", "es", ".", "Bruce", "la", "-RRB-", "Perú", "y", "peruano", "Carlos" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Fue", "reelegido", "un" ],
+  "text" : "Carlos Ricardo Bruce Montes de Oca (Lima, 24 de febrero de 1957) es un economista y político peruano. Fue reelegido congresista de la república por el partido Perú Posible para el período 2011-2016.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity15184",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Parning",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "Henry, 3rd Earl of Lancaster" ]
+  },
+  "words" : [ "-LRB-", "26", "Parning", "died", ".", "August", "English", "administrator", "Robert", "1343", "-RRB-", "Parving", "Sir", "lawyer" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "administrator", "Parving", "lawyer" ],
+  "text" : "Sir Robert Parning (or Parving) (died 26 August 1343) was an English lawyer and administrator.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity15759",
+  "entityUrl" : "http://dbpedia.org/resource/Rana_Sanaullah_Khan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "Nawaz Shareef" ]
+  },
+  "words" : [ "Politiker", "Provinz", "Sanaullah", "-LRB-", "Rana", "Faisalabad", "2011", "*", "Punjab", "ist", "ein", "Justizminister", "Er", ".", "derzeit", "der", "1", "pakistanischer", "-RRB-", "März", "Januar", "1955" ],
+  "adjectives" : [ "März", "Januar" ],
+  "nouns" : [ "Politiker", "pakistanischer", "ist", "ein", "derzeit" ],
+  "text" : "Rana Sanaullah (* 1. Januar 1955 in Faisalabad) ist ein pakistanischer Politiker. Er ist derzeit (März 2011) Justizminister der Provinz Punjab.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity3512",
+  "entityUrl" : "http://dbpedia.org/resource/Deniz_Baykal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "http://dbpedia.org/resource/Bülent_Ecevit" ]
+  },
+  "words" : [ "-LRB-", "لفضيحة", "الشعب", "عندما", "سياسي", "بايكال", "2010", "تركي", "،", "ترأس", "جنسية", "يوليو", "1938", "إثر", "30", "10", "من", "بالتركية", "استقال", "الحزب", "2000", "رئاسة", "الجمهوري", "-", ".", "مايو", "Deniz", "Baykal", "حزب", "دنيز", "-RRB-", "سبتمبر", ":", "تعرضة", "إلى", "20" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "ترأس", "جنسية", "دنيز", "بايكال" ],
+  "text" : "دنيز بايكال ((بالتركية: Deniz Baykal)) ‏(20 يوليو 1938 -)، سياسي تركي. ترأس حزب الشعب الجمهوري من 30 سبتمبر 2000 إلى 10 مايو 2010 عندما استقال من رئاسة الحزب إثر تعرضة لفضيحة جنسية.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity6737",
+  "entityUrl" : "http://dbpedia.org/resource/Hercules_Robinson,_1st_Baron_Rosmead",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "http://dbpedia.org/resource/Cecil_Rhodes", "http://dbpedia.org/resource/Gordon_Sprigg" ]
+  },
+  "words" : [ "14th", "Rosmead", "became", "New", "June", "Hong", "-LRB-", "Fiji", "羅士敏勳爵", "28", "Wales", "subsequently", "Hercules", "1st", "December", "October", "1897", "administrator", "1896", "George", "known", "Robert", "colonial", "GCMG", "1859", "Baron", "Kong", "--", "羅便臣", "Robinson", "British", "19", "South", "5th", ",", "8th", ".", "August", "Governor", "Zealand", "PC", "name", "-RRB-", "Chinese", ":", "Sir", "1824", "first" ],
+  "adjectives" : [ "14th", "British", "Chinese", "5th", "8th", "first" ],
+  "nouns" : [ "Governor", "administrator", "PC", "colonial", "name" ],
+  "text" : "Hercules George Robert Robinson, 1st Baron Rosmead GCMG PC (Chinese name: 羅士敏勳爵 or 羅便臣) (19 December 1824 – 28 October 1897), was a British colonial administrator who became the 5th Governor of Hong Kong and subsequently, the 14th Governor of New South Wales, the first Governor of Fiji, and the 8th Governor of New Zealand. From June 1859 until August 1896, he was known as Sir Hercules Robinson.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity14075",
+  "entityUrl" : "http://dbpedia.org/resource/Oleksander_Shulhyn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "Himself" ]
+  },
+  "words" : [ "guberni", "Paryżu", "działacz", "-LRB-", "emigracji", "wsi", "kulturalno-oświatowy", "Якович", "polityk", "rządu", "ukr.Софине", "marca", "lipca", "Ukraińskiej", "Ołeksandr", "Шульгин", "ukraiński", "społeczny", "ukr", "ur", "30", "Ludowej", "Republiki", "Szulhyn", "Sofyne", "premier", "historyk", ",", "-", ".", "Олександр", "zm", "na", "4", "1960", "w", "-RRB-", "połtawskiej", "1889" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Paryżu", "działacz", "Sofyne", "premier", "historyk", "polityk", "rządu", "ukr.Софине", "lipca", "zm", "w", "połtawskiej", "ukraiński", "społeczny", "ukr", "ur" ],
+  "text" : "Ołeksandr Szulhyn, ukr. Олександр Якович Шульгин (ur. 30 lipca 1889 we wsi Sofyne (ukr.Софине) w guberni połtawskiej) - zm. 4 marca 1960 w Paryżu) - ukraiński polityk, działacz społeczny i kulturalno-oświatowy, historyk, premier rządu Ukraińskiej Republiki Ludowej na emigracji. W 1917 członek Ukraińskiej Centralnej Rady, był sekretarzem spraw międzynarodowych. W 1918 był ambasadorem URL w Bułgarii. W latach 1923-1927 na emigracji w Pradze, był profesorem Wolnego Uniwersytetu Ukraińskiego i Wyższego Instytutu Pedagogicznego im. M. Drahomanowa. Od 1927 mieszkał w Paryżu, w latach 1940-1941 więziony przez Gestapo.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity12248",
+  "entityUrl" : "http://dbpedia.org/resource/Muhyiddin_Yassin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "http://dbpedia.org/resource/Mahathir_Mohamad" ]
+  },
+  "words" : [ "Tan", "Johor", "till", "bin", "United", "Malaysia", "main", "ruling", "Barisan", "National", "Malay", "state", "Member", "Malaysian", "Minister", "given", "Muhyiddin", "Nasional", "deputy", "15", "Deputy", "'", ",", ".", "patronymic", "graduating", "person", "name", "-RRB-", "Haji", ";", "1947", "Parliament", "party", "Yassin", "-LRB-", "Prime", "May", "university", "Sri", "2009", "public", "coalition", "Pagoh", "Organisation", "joined", "born", "politician", "Malays", "grew", "component", "2016", "2015", "service", "Dato", "family", "UMNO", "referred", "president" ],
+  "adjectives" : [ "patronymic", "public", "Malay", "main", "Malaysian" ],
+  "nouns" : [ "deputy", "university", "politician", "component", "ruling", "person", "service", "name", "coalition", "state", "family", "party", "president" ],
+  "text" : "(This is a Malay name; the name Yassin is a patronymic, not a family name, and the person should be referred to by the given name, Muhyiddin.) Tan Sri Dato' Haji Muhyiddin bin Yassin (born 15 May 1947) is a Malaysian politician and Member of Parliament for Pagoh. He was Deputy Prime Minister of Malaysia from 2009 till 2015 and deputy president of the United Malays National Organisation (UMNO), the main component party of the ruling Barisan Nasional coalition from 2009 till 2016. Muhyiddin grew up in the state of Johor and joined the state public service after graduating from university. He later took up management positions at various state-owned companies. He joined politics in the 1970s and was elected as Member of Parliament for Pagoh in 1978. During his term as MP, he was appointed Deputy Minister of Federal Territories and later Deputy Minister of Trade and Industry. As Johor UMNO chief, he was Menteri Besar of Johor from 1986 to 1995. He returned to federal politics in 1995 and was appointed to the Cabinet as Minister of Youth and Sports. He was appointed Minister of Domestic Trade and Consumer Affairs after the 1999 general election and became a vice-president of UMNO in 2000. Under the premiership of Abdullah Ahmad Badawi, Muhyiddin served as Minister of Agriculture (2004–2008) and then Minister of International Trade and Industry (2008–2009). In 2008, he contested and won the UMNO deputy presidency and was appointed Deputy Prime Minister and Minister of Education by Prime Minister Najib Razak in 2009. As Education Minister, Muhyiddin ended the use of English as the medium of instruction for science and mathematics in public schools. He also attracted controversy after describing himself as \"Malay first\" when challenged by the opposition to pronounce himself as \"Malaysian first.\" During Najib's mid-term Cabinet reshuffle in July 2015, he was dropped from his position, marking the first incumbent to be left out; in June 2016 he was further sacked from UMNO.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity13472",
+  "entityUrl" : "http://dbpedia.org/resource/Mahad_Mohamed_Salad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "Abdiweli Sheikh Ahmed" ]
+  },
+  "words" : [ "Maxamed", "-LRB-", "Prime", "year", "Somalia", "Omar", "Maxad", "Sharmarke", "Arabic", "Party", "member", "Peace", "Development", "state", "February", "Salad", "Minister", "affairs", "Mohamed", "Foreign", "محمد", "Affairs", "Deputy", "politician", ",", "Salaad", ".", "appointed", "Abdirashid", "2014", "served", "-RRB-", ":", "مهاد", "presidential", "Somali", "Mahad", "صلاد", "Ali" ],
+  "adjectives" : [ "presidential", "Somali" ],
+  "nouns" : [ "year", "politician", "member", "Peace", "state", "صلاد" ],
+  "text" : "Mahad Mohamed Salad (Somali: Maxad Maxamed Salaad, Arabic: مهاد محمد صلاد‎‎) is a Somali politician. A member of the Peace and Development Party, he served as the Deputy Minister of Foreign Affairs of Somalia in 2014. In February of the year, Salad was appointed state Minister of presidential affairs by Prime Minister Omar Abdirashid Ali Sharmarke.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity14765",
+  "entityUrl" : "http://dbpedia.org/resource/Pramarn_Adireksarn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "http://dbpedia.org/resource/Kukrit_Pramoj" ]
+  },
+  "words" : [ "esecutivi", "di", "anni", "dei", "studentesco", "del", "governi", "massacro", "Università", "1976", "piano", "un", "Thai", "diversi", "ed", "che", "democraticamente", "tra", "il", "gli", "tre", "ottobre", "novanta", ",", ".", "thailandese", "ministro", "principali", "6", "venne", "Partito", "dittatura", "sconfitta", "Thammasat", "ritorno", "alla", "settanta", "primo", "responsabili", "segnò", "movimento", "Ebbe", "`", "e", "dopo", "eletto", "vice-primo", "politica", "Fu", "dell", "Nazione", "eletti", "ruolo", "fondatori", "la", "nella", "uno" ],
+  "adjectives" : [ "ottobre" ],
+  "nouns" : [ "che", "tra", "gli", "vice-primo", "politica", "Fu", "dell", "ruolo", "piano", "settanta", "thailandese", "ministro", "nella", "uno", "un", "diversi" ],
+  "text" : "Ebbe un ruolo di primo piano nella politica thailandese tra gli anni settanta e gli anni novanta. Fu tra i fondatori del Partito Nazione Thai e venne eletto vice-primo ministro e ministro in diversi esecutivi. Fu uno dei principali responsabili del massacro dell'Università Thammasat del 6 ottobre 1976, che segnò la sconfitta del movimento studentesco ed il ritorno alla dittatura dopo tre anni di governi democraticamente eletti.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity4",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_Deakin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "Alfred Deakin", "Andrew Fisher" ]
+  },
+  "words" : [ "devote", "leader", "-LRB-", "Prime", "colony", "pro-worker", "1919", "part", "establishing", "19th", "second", "October", "later", "contributor", "irrigation", "major", "chose", "Minister", "1856", "energy", "--", "federation", "likely", "including", "last", "Victoria", "could", "establishment", "also", ",", "reforms", "played", ".", "August", "Premier", "century", "industrial", "3", "Deakin", "Australian", "7", "-RRB-", "Alfred", "Australia", "movement", "quarter", "liberal" ],
+  "adjectives" : [ "likely", "industrial", "last", "major", "Australian", "pro-worker", "19th", "second", "liberal" ],
+  "nouns" : [ "federation", "leader", "century", "contributor", "irrigation", "colony", "part", "establishment", "movement", "quarter", "energy" ],
+  "text" : "Alfred Deakin (3 August 1856 – 7 October 1919) was a leader of the movement for Australian federation and later the second Prime Minister of Australia. In the last quarter of the 19th century, Deakin was a major contributor to the establishment of liberal reforms in the colony of Victoria, including pro-worker industrial reforms. He also played a major part in establishing irrigation in Australia. It is likely that he could have been Premier of Victoria, but he chose to devote his energy to federation. Throughout the 1890s Deakin was a participant in conferences of representatives of the Australian colonies that were established to draft a constitution for the proposed federation. He played an important role in ensuring that the draft was liberal and democratic and in achieving compromises to enable its eventual success. Between conferences, he worked to popularise the concept of federation and campaigned for its acceptance in colonial referenda. He then fought hard to ensure acceptance of the proposed constitution by the Government of the United Kingdom. As Prime Minister, Deakin completed a significant legislative program that makes him, with Labor's Andrew Fisher, the founder of an effective Commonwealth government. He expanded the High Court, provided major funding for the purchase of ships, leading to the establishment of the Royal Australian Navy as a significant force under the Fisher government, and established Australian control of Papua. Confronted by the rising Australian Labor Party in 1909, he merged his Protectionist Party with Joseph Cook's Anti-Socialist Party to create the Commonwealth Liberal Party (known commonly as the Fusion), the main ancestor of the modern Liberal Party of Australia. The Deakin-led Liberal Party government lost to Fisher Labor at the 1910 election, which saw the first time a federal political party had been elected with a majority in either house in Federal Parliament. Deakin resigned from Parliament prior to the 1913 election, with Joseph Cook winning the Liberal Party leadership ballot.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity19",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Peacock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "http://dbpedia.org/resource/John_Gorton", "http://dbpedia.org/resource/William_McMahon" ]
+  },
+  "words" : [ "leader", "-LRB-", "Leader", "leading", "McMahon", "Opposition", "Sharp", "governments", "Gorton", "defeat", "Peacock", "opposition", "Party", "federal", "1939", "February", "--", "AC", "13", "election", "minister", "Andrew", "Liberal", "born", "politician", "1990", ",", "Fraser", "former", ".", "GCL", "1985", "1984", "1983", "Australian", "Coalition", "-RRB-", "Australia", "1989" ],
+  "adjectives" : [ "Australian", "Liberal", "federal", "former" ],
+  "nouns" : [ "GCL", "leader", "opposition", "AC", "election", "minister", "politician", "Opposition" ],
+  "text" : "Andrew Sharp Peacock AC GCL (born 13 February 1939) is a former Australian Liberal politician. He was a minister in the Gorton, McMahon and Fraser governments and federal leader of the Liberal Party of Australia and Leader of the Opposition (1983–1985 and 1989–1990), leading the Coalition opposition to defeat at the 1984 election and the 1990 election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity20",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Henderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:primeminister" : [ "http://dbpedia.org/resource/David_Lloyd_George", "http://dbpedia.org/resource/H._H._Asquith" ]
+  },
+  "words" : [ "``", "acknowledgement", "separate", "called", "Arthur", "Labour", "three", "integrity", "terms", "won", "emphasis", "different", "1935", "1934", "--", "13", "Uncle", "goal", "minister", "conciliation", "moulder", ",", "whose", "arbitration", ".", "thwarted", "1863", "among", "served", "colleagues", "-RRB-", "20", "-LRB-", "September", "Leader", "rejected", "policies", "cause", "October", "Party", "transitional", "Peace", "popular", "close", "''", "British", "figure", "unions", "imperturbability", "Liberal", "unifying", "politician", "trades", "uniquely", "Prize", "PC", "Nobel", "devotion", "iron", "decades", "cabinet", "Henderson", "first" ],
+  "adjectives" : [ "British", "separate", "transitional", "unifying", "different", "popular", "close", "first" ],
+  "nouns" : [ "acknowledgement", "figure", "goal", "minister", "imperturbability", "politician", "conciliation", "cause", "Labour", "moulder", "arbitration", "integrity", "devotion", "emphasis", "iron", "cabinet" ],
+  "text" : "Arthur Henderson PC (13 September 1863 – 20 October 1935) was a British iron moulder and Labour politician. He was the first Labour cabinet minister, won the Nobel Peace Prize in 1934 and, uniquely, served three separate terms as Leader of the Labour Party in three different decades. He was popular among his colleagues, who called him \"Uncle Arthur\" in acknowledgement of his integrity, his devotion to the cause and his imperturbability. He was a transitional figure whose policies were, at first, close to those of the Liberal Party, and the trades unions rejected his emphasis on arbitration and conciliation, and thwarted his goal of unifying the Labour Party and the trades unions.",
+  "patterns" : { }
+} ]

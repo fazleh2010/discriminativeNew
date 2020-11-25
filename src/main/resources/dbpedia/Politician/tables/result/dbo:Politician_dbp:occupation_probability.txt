@@ -1,0 +1,34 @@
+id=43  property=dbp:occupation  object=Politician  NumberOfEntitiesFoundForObject=117
+malaysian-JJ  multiply=0.189255  P(malaysian|object)=0.25641  P(object|malaysian)=0.738095    
+constituency-NN  multiply=0.063681  P(constituency|object)=0.196581  P(object|constituency)=0.323944    
+
+id=44  property=dbp:occupation  object=Businessman  NumberOfEntitiesFoundForObject=50
+businessman-NN  multiply=0.054328  P(businessman|object)=0.26  P(object|businessman)=0.208955    
+business-NN  multiply=0.03825  P(business|object)=0.34  P(object|business)=0.1125    
+
+id=45  property=dbp:occupation  object=lawyer  NumberOfEntitiesFoundForObject=49
+law-NN  multiply=0.085503  P(law|object)=0.55102  P(object|law)=0.155172    
+lawyer-NN  multiply=0.054665  P(lawyer|object)=0.306122  P(object|lawyer)=0.178571    
+
+id=46  property=dbp:occupation  object=businessman  NumberOfEntitiesFoundForObject=25
+businessman-NN  multiply=0.065672  P(businessman|object)=0.4  P(object|businessman)=0.164179    
+business-NN  multiply=0.06  P(business|object)=0.6  P(object|business)=0.1    
+
+id=47  property=dbp:occupation  object=Lawyer  NumberOfEntitiesFoundForObject=52
+lawyer-NN  multiply=0.074176  P(lawyer|object)=0.346154  P(object|lawyer)=0.214286    
+law-NN  multiply=0.053492  P(law|object)=0.423077  P(object|law)=0.126437    
+
+id=48  property=dbp:occupation  object=Attorney  NumberOfEntitiesFoundForObject=40
+american-JJ  multiply=0.09899  P(american|object)=0.7  P(object|american)=0.141414    
+republican-JJ  multiply=0.03  P(republican|object)=0.3  P(object|republican)=0.1    
+
+id=49  property=dbp:occupation  object=Teacher  NumberOfEntitiesFoundForObject=45
+teacher-NN  multiply=0.055229  P(teacher|object)=0.288889  P(object|teacher)=0.191176    
+
+id=50  property=dbp:occupation  object=politician  NumberOfEntitiesFoundForObject=137
+caucus-NN  multiply=0.421739  P(caucus|object)=0.824818  P(object|caucus)=0.511312    
+provincial-JJ  multiply=0.296919  P(provincial|object)=0.875912  P(object|provincial)=0.338983    
+
+id=51  property=dbp:occupation  object=Farmer  NumberOfEntitiesFoundForObject=42
+farmer-NN  multiply=0.060193  P(farmer|object)=0.357143  P(object|farmer)=0.168539    
+

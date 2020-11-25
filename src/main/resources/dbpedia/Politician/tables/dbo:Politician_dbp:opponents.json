@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity7043",
+  "entityUrl" : "http://dbpedia.org/resource/Hasan_Mushaima",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:opponents" : [ "Government of Bahrain" ]
+  },
+  "words" : [ "-LRB-", "المطالب", "الأمن", "أحيل", "فتحول", "لمجلس", "بحريني", "سراحه", "رفعوا", "الدولية", "السياسي", "أحداث", "وكان", "لنشاطه", "،", "إطلاق", "بمنتصف", "قادة", "البحرين", "تحت", "أحد", "الشيعية", "مدرس", "الوصاية", "التسعينات", "لاحقا", "هو", "المعارضة", "أبرز", "بلادهم", "التقاعد", "بعد", "في", "لغة", "مشيمع", "-", ".", "لوضع", "حسن", "-RRB-", "إنجليزية", "1948", "اعتقاله", "إلى", "ممن" ],
+  "adjectives" : [ ],
+  "nouns" : [ "الأمن", "في", "،" ],
+  "text" : "حسن مشيمع (1948 - ) هو مدرس لغة إنجليزية بحريني أحيل إلى التقاعد بعد اعتقاله لنشاطه السياسي في أحداث البحرين بمنتصف التسعينات، فتحول لاحقا - بعد إطلاق سراحه - إلى أحد أبرز قادة المعارضة الشيعية في البحرين وكان ممن رفعوا المطالب لوضع بلادهم تحت الوصاية الدولية لمجلس الأمن.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity7133",
+  "entityUrl" : "http://dbpedia.org/resource/H.H._Kemper",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:opponents" : [ "http://dbpedia.org/resource/Saskatchewan_Liberal_Party" ]
+  },
+  "words" : [ "Haulker", "-LRB-", "Alberta", "Louisa", "political", "Lake", "Nebraska", "crew", "son", "found", "Hebron", "west", "farm", "working", "represented", "1938", "railway", "Henry", "Assembly", "1934", "American-born", "figure", "Herman", "H.", "work", "born", "Saskatchewan", "Gull", ",", ".", "Edmonton", "Kemper", "-RRB-", "farmer", "Legislative", "1906", "survey", "Frank" ],
+  "adjectives" : [ "American-born", "political", "Legislative" ],
+  "nouns" : [ "figure", "son", "work", "west", "farmer", "farm", "survey", "railway", "Assembly", "crew" ],
+  "text" : "Herman Henry (H. H.) Kemper was an American-born farmer and political figure in Saskatchewan. He represented Gull Lake in the Legislative Assembly of Saskatchewan from 1934 to 1938. He was born on a farm in Hebron, Nebraska, the son of Frank Herman Kemper and Louisa Haulker. In 1906, Kemper found work with a survey crew working on the railway west of Edmonton, Alberta. He returned home later that year but, in the summer of 1907, he traveled north again and worked on a farm near Moose Jaw, Saskatchewan. Later in 1907, he settled on a homestead south of Gull Lake. Kemper returned to Nebraska and married Mina Burwell in 1911. The couple returned to Saskatchewan later that same year. After working on a farm near Moose Jaw, they were able to purchase land not far from his original homestead. Kemper served on the rural municipal district council for Arlington. He was also a director for the Saskatchewan section of the United Farmers of Canada. Kemper was elected during the Saskatchewan general election, 1934, representing Gull Lake as a member of the Farmer-Labour Group (FLG). The FLG was founded in 1932. In 1935, it changed its name and officially became the Saskatchewan section of the national Co-operative Commonwealth Federation or CCF. During the eighth provincial election on June 19, 1934, the FLG had five elected members come to office, including Kemper. He was defeated when he ran for reelection to the provincial assembly in Gull Lake in 1938 and in the Maple Creek federal riding in 1940. In 1953, Kemper sold his farm and retired to the town of Shaunavon. He died in a car accident near Tompkins while travelling to a CCF rally.",
+  "patterns" : { }
+} ]

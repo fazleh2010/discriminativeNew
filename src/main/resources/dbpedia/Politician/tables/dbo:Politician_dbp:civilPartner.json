@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity3800",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Dulany_the_Elder",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:civilPartner" : [ "Rebecca Smith" ]
+  },
+  "words" : [ "entitled", "-LRB-", "prominent", "asserting", "held", "Benefit", "offices", "Right", "Proprietary", "number", "1753", "land-developer", "Elder", "Laws", "colonial", "rights", "pamphlet", "Dulany", "lawyer", "--", "Government", "wrote", "Marylanders", "Daniel", ",", ".", "1722", "English", "1685", "-RRB-", "Maryland", "Inhabitants" ],
+  "adjectives" : [ "prominent", "colonial" ],
+  "nouns" : [ "number", "land-developer", "colonial", "pamphlet", "lawyer" ],
+  "text" : "Daniel Dulany the Elder (1685–1753) was a prominent lawyer and land-developer in colonial Maryland, who held a number of colonial offices. In 1722 Dulany wrote a pamphlet entitled The Right of the Inhabitants of Maryland, to the Benefit of the English Laws, asserting the rights of Marylanders over the Proprietary Government.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity5151",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Calvert,_6th_Baron_Baltimore",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:civilPartner" : [ "numerous mistresses" ]
+  },
+  "words" : [ "exercised", "estates", "beauty", "almost", "England", "Barons", "soon", "trial", "revenue", "1731", "milliner", "scandal", "largely", "1771", "--", "took", "Frederick", "afterwards", "including", "last", "abduction", "6th", "often", ",", "'s", ".", "Province", "Calvert", "never", "4", "left", "6", "-RRB-", "Tower", "Maryland", "support", "little", "politics", "surrounded", "-LRB-", "shop", "Hill", "September", "colony", "sources", "acquitted", "line", "father", "nobleman", "rape", "Woodcock", "extravagant", "Sarah", "public", "interest", "unlike", "power", "Baron", "February", "foot", "set", "jury", "accused", "Although", "kept", "feudal", "lifestyle", "noted", "English", "recovered", "Baltimore", "scandalous", "treating", "1768" ],
+  "adjectives" : [ "English", "last", "extravagant", "public", "scandalous", "6th", "feudal", "little" ],
+  "nouns" : [ "shop", "jury", "colony", "beauty", "abduction", "line", "father", "trial", "lifestyle", "nobleman", "rape", "revenue", "milliner", "scandal", "interest", "power", "foot" ],
+  "text" : "Frederick Calvert, 6th Baron Baltimore (February 6, 1731 – September 4, 1771) was an English nobleman and last in the line of Barons Baltimore. Although he exercised almost feudal power in the Province of Maryland, he never once set foot in the colony and, unlike his father, he took little interest in politics, treating his estates, including Maryland, largely as sources of revenue to support his extravagant and often scandalous lifestyle. In 1768 he was accused of abduction and rape by Sarah Woodcock, a noted beauty who kept a milliner's shop at Tower Hill. The jury acquitted Calvert but he left England soon afterwards, and never recovered from the public scandal which surrounded the trial. Dogged by criticism and poor health, he contracted a fever and died in Naples at the age of 40.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity14203",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Bailhache",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:civilPartner" : [ "None" ]
+  },
+  "words" : [ "-LRB-", "Chief", "held", "28", "serves", "1972-1975", "2011", "office", "Philip", "KBE", "States", "2009", "1975", "Bailhache", "October", "previously", "Assistant", "Jersey", "Solicitor", "February", "lawyer", "Minister", "Deputy", "born", "politician", "Senator", "Martin", "Grouville", ",", ".", "elected", "successively", "-RRB-", "General", "Bailiff", "Sir", "1946", "Attorney" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "office", "lawyer" ],
+  "text" : "Sir Philip Martin Bailhache, KBE (born 28 February 1946) is a Jersey politician and lawyer. He was elected as a Senator in the States of Jersey in October 2011 and serves as an Assistant Minister to the Chief Minister. He previously held elected office as Deputy of Grouville 1972-1975. Between 1975 and 2009, he successively held office as Solicitor General, Attorney General, Deputy Bailiff and Bailiff of Jersey.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity14298",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Ozouf_Jr",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:civilPartner" : [ "None" ]
+  },
+  "words" : [ "l'allemand", "de", "l'European", "parle", "Saint-Clément", "politique", "est", "fait", "Wiesbaden", "du", "Francis", "des", "1970", "un", "études", "Jersey", "Business", "Junior", "fils", "Victoria", "en", "ministre", ",", ".", "et", "homme", "au", "Senior", "-RRB-", "Finances", "né", "Saint-Hélier", "l'EBS", "Allemagne", "français", "25", "-LRB-", "Il", "collège", "Ozouf", "Philip", "Anglo-Normande", "School", "Cyril", "connétable", "puis", "jersiais", "à", "ses", "cette", "île", "maire", "mars", "Londres", "Jr", "couramment", "le", "Paris" ],
+  "adjectives" : [ "maire", "connétable" ],
+  "nouns" : [ "français", "parle", "homme", "Il", "collège", "politique", "est", "couramment", "un", "fait", "né", "Anglo-Normande" ],
+  "text" : "Philip Ozouf Jr, né Philip Francis Cyril Ozouf le 25 mars 1970 à Jersey, est un homme politique jersiais et ministre des Finances de cette île Anglo-Normande. Philip Ozouf Junior est le fils du connétable (maire) de Saint-Clément Philip Ozouf Senior. Il a fait ses études au collège Victoria de Saint-Hélier puis à l'European Business School de Londres, l'EBS Wiesbaden en Allemagne et à l'European Business School Paris. Il parle couramment le français et l'allemand. En novembre 1999, il est élu député de Saint-Hélier et membre des États de Jersey. En 2002, il est élu sénateur, puis réélu en 2008. Depuis décembre 2008, il est nommé, par le Premier ministre Terry Le Sueur, ministre du Trésor et des Finances du gouvernement de Jersey. Il est vice-président du Conseil de l'emploi de Jersey. Philip Ozouf est le représentant de l'île de Jersey à l'Assemblée parlementaire de la Francophonie. Il est également le vice-président de la branche jersiaise de l'Alliance française. Philip Ozouf a lancé une campagne de nettoyage des sociétés qui n'ont qu'une boîte aux lettres à Jersey pour profiter des taux de TVA plus favorables sur l'île qu'au Royaume-Uni. Il a également lancé une réforme concernant la réglementation des jeux à Jersey. Il a également appelé à créer la fonction d'ombudsman, sorte de médiateur de la République, pour régler les litiges en matière financière. Enfin, il a relancé la concurrence sur le transport maritime afin de faire baisser les coûts et trouver des prix compétitifs pour le public.",
+  "patterns" : { }
+} ]

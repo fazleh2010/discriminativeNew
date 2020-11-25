@@ -1,0 +1,169 @@
+[ {
+  "entityIndex" : "1_entity8417",
+  "entityUrl" : "http://dbpedia.org/resource/James_Butler,_5th_Earl_of_Ormond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/James_Butler,_4th_Earl_of_Ormond", "http://dbpedia.org/resource/Joan_de_Beauchamp,_Countess_of_Ormond" ]
+  },
+  "words" : [ "24", "Wars", "-LRB-", "May", "1461", "Margaret", "1st", "Ormond", "Roses", "Earl", "consort", "Wiltshire", "Lancastrian", "KG", "Butler", "November", "--", "Yorkists", "James", "Anjou", "Queen", "5th", ",", "supporter", ".", "1", "staunch", "Battle", "1420", "following", "-RRB-", "Towton", "beheaded", "victorious" ],
+  "adjectives" : [ "staunch", "5th", "victorious" ],
+  "nouns" : [ "Battle", "Lancastrian", "supporter" ],
+  "text" : "James Butler, 5th Earl of Ormond, 1st Earl of Wiltshire KG (24 November 1420 – 1 May 1461) was a staunch Lancastrian and supporter of Queen consort Margaret of Anjou during the Wars of the Roses. He was beheaded by the victorious Yorkists following the Battle of Towton.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8751",
+  "entityUrl" : "http://dbpedia.org/resource/John_Smith_(Wendover_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Abel_Smith_(1717–1788)" ]
+  },
+  "words" : [ "--", "British", "-LRB-", "September", "Smith", "politician", "sat", "John", "House", "banker", ".", "1767", "1842", "6", "Commons", "-RRB-", "1806", "January", "20", "1835" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "politician", "banker" ],
+  "text" : "John Smith (6 September 1767 – 20 January 1842) was a British politician who sat in the House of Commons from 1806 to 1835 and a banker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity9729",
+  "entityUrl" : "http://dbpedia.org/resource/James_Younger,_5th_Viscount_Younger_of_Leckie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/George_Younger,_4th_Viscount_Younger_of_Leckie" ]
+  },
+  "words" : [ "11", "Politiker", "-LRB-", "britischer", "James", "Peer", "*", "und", "ist", "ein", "Edward", ",", ".", "Leckie", "Party", "George", "5", "Viscount", "Conservative", "-RRB-", "Edinburgh", "Younger", "November", "1955" ],
+  "adjectives" : [ ],
+  "nouns" : [ "britischer", "ist", "ein" ],
+  "text" : "James Edward George Younger, 5. Viscount Younger of Leckie (* 11. November 1955 in Edinburgh) ist ein britischer Peer und Politiker (Conservative Party).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity19736",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Hanzhi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Zhang_Shizhao" ]
+  },
+  "words" : [ "北京大学教授洪君彦前妻", "著名民主人士章士钊养女", "。", "中华人民共和国外交部前任部长乔冠华之妻", "（", "）", "1935年7月14日", "，", "1972年尼克松访华中方翻译之一", "2008年1月26日", "北京媒体业名人洪晃之母", "章含之", "毛泽东钦点英文教师", "～", "上海人" ],
+  "adjectives" : [ ],
+  "nouns" : [ "。", "）", "，" ],
+  "text" : "章含之（1935年7月14日～2008年1月26日），上海人，1972年尼克松访华中方翻译之一，毛泽东钦点英文教师，著名民主人士章士钊养女，中华人民共和国外交部前任部长乔冠华之妻，北京大学教授洪君彦前妻，北京媒体业名人洪晃之母。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity3116",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_Ernest_of_Stolberg-Wernigerode",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Christine_of_Mecklenburg-Güstrow" ]
+  },
+  "words" : [ "Oktober", "die", "Grafschaft", "-LRB-", "25", "Harz", "seit", "unter", "bis", "unmittelbarer", "Graf", "1710", "stehende", "von", "1771", "Gedern", "Brandenburg-Preußens", "1714", "†", "Ernst", "im", "regierte", "über", "*", "1691", ".", "April", "Oberhoheit", "2", "Christian", "Wernigerode", "-RRB-", "zu", ";", "Stolberg-Wernigerode" ],
+  "adjectives" : [ "seit" ],
+  "nouns" : [ "unmittelbarer", "Oberhoheit", "von", "regierte", "über", "zu", "unter" ],
+  "text" : "Graf Christian Ernst zu Stolberg-Wernigerode (* 2. April 1691 in Gedern; † 25. Oktober 1771 in Wernigerode) regierte von 1710 bis 1771 über die seit 1714 unter unmittelbarer Oberhoheit Brandenburg-Preußens stehende Grafschaft Wernigerode im Harz.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity3309",
+  "entityUrl" : "http://dbpedia.org/resource/Chen_Haosu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Chen_Yi_(general)" ]
+  },
+  "words" : [ "。", "祖籍四川乐至", "（", "）", "出生于江苏阜宁", "陈毅元帅长子", "陈昊苏", "，", "1942年5月", "－", "原中国人民对外友好协会会长" ],
+  "adjectives" : [ ],
+  "nouns" : [ "。", "，", "－" ],
+  "text" : "陈昊苏（1942年5月－），祖籍四川乐至，出生于江苏阜宁，原中国人民对外友好协会会长。陈毅元帅长子。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity17800",
+  "entityUrl" : "http://dbpedia.org/resource/Tunku_Naquiyuddin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Tuanku_Najihah", "http://dbpedia.org/resource/Jaafar_of_Negeri_Sembilan" ]
+  },
+  "words" : [ "Muhriz", "DK", "Malaysia", "royalty", "upon", "Tuanku", "Seri", "years", "son", "King", "regent", "Ja'afar", "well-known", "ibni", "Jaafar", "Agong", "'", "widely", "expected", "However", ",", "'s", "former", ".", "elected", "eldest", "Almarhum", "Rahman", "Negeri", "served", "charming", "bypassed", "-RRB-", "di-Pertuan", "DKYR", "Tunku", "-LRB-", "SPNS", "death", "Suave", "father", "Yang", "favour", "Mulia", "PPT", "Abdul", "member", "1994-1999", "Amat", "Laxamana", "SPMP", "one", "also", "Ruler", "cousin", "Besar", "Utama", "succeed", "Dato", "Naquiyuddin", "Sembilan", "debonair" ],
+  "adjectives" : [ "well-known", "eldest", "charming", "former", "debonair" ],
+  "nouns" : [ "son", "death", "father", "member", "royalty", "Ruler", "favour", "cousin", "regent" ],
+  "text" : "Yang Amat Mulia Tunku Laxamana Tunku Dato' Seri Utama Naquiyuddin Tuanku Ja'afar DK, DKYR, SPNS, SPMP, PPT, is the eldest son of Tuanku Jaafar ibni Almarhum Tuanku Abdul Rahman, the Yang di-Pertuan Besar of Negeri Sembilan, who was also a former Yang di-Pertuan Agong (King) of Malaysia. Tunku Naquiyuddin served as regent of Negeri Sembilan from 1994-1999 when his father was elected as the King of Malaysia. Suave, charming and debonair, Tunku Laxamana Naquiyuddin had been for years one of Malaysia's most well-known member of royalty, and was widely expected to succeed his father as the Yang di-Pertuan Besar of Negeri Sembilan. However he was bypassed as Ruler in favour of his cousin, Tunku Muhriz, upon the death of his father.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity16430",
+  "entityUrl" : "http://dbpedia.org/resource/Stanley_Henig",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Mark_Henig" ]
+  },
+  "words" : [ "British", "-LRB-", "Deputy", "born", "politician", "Lancaster", "Henig", "2011", "Labour", "former", ".", "Pro-Chancellor", "Stanley", "Party", "2006", "University", "academic", "7", "-RRB-", "1939", "July" ],
+  "adjectives" : [ "British", "academic", "former" ],
+  "nouns" : [ "politician" ],
+  "text" : "Stanley Henig (born 7 July 1939) is a British academic and former Labour Party politician. He was Deputy Pro-Chancellor of Lancaster University from 2006 until 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity16583",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_Stanley_Parker",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Stephen_Parker_(senior)" ]
+  },
+  "words" : [ "--", "-LRB-", "Parker", "pioneer", "Council", ".", "Western", "Stanley", "Australian", "-RRB-", "settler", "member", "Legislative", "1817", "1904", "Australia", "Stephen", "early" ],
+  "adjectives" : [ "Western", "Australian", "Legislative", "early" ],
+  "nouns" : [ "settler", "member", "pioneer" ],
+  "text" : "Stephen Stanley Parker (1817–1904) was an early settler and pioneer of Western Australia and a member of the Western Australian Legislative Council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity13344",
+  "entityUrl" : "http://dbpedia.org/resource/Mayer_Carl_von_Rothschild",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Carl_Mayer_von_Rothschild" ]
+  },
+  "words" : [ "Oktober", "Politiker", "Frankfurt", "-LRB-", "ein", "der", "von", "Mayer", "Bankier", "†", "16", "deutscher", "Carl", "Freiherr", "war", "*", "und", "ebenda", ".", "August", "1820", "1886", "5", "-RRB-", ";", "Rothschildfamilie", "Main", "Rothschild", "aus" ],
+  "adjectives" : [ ],
+  "nouns" : [ "deutscher", "war", "ein", "ebenda", "aus" ],
+  "text" : "Mayer Carl Freiherr von Rothschild (* 5. August 1820 in Frankfurt am Main; † 16. Oktober 1886 ebenda) war ein deutscher Bankier und Politiker aus der Rothschildfamilie.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity13388",
+  "entityUrl" : "http://dbpedia.org/resource/Martin_Tucker_Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/John_Smith_(Wendover_MP)" ]
+  },
+  "words" : [ "Tucker", "--", "-LRB-", "Liberal", "Smith", "politician", "1880", "Martin", "banker", ".", "English", "October", "Party", "6", "-RRB-", "July", "1803", "10" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "politician", "banker" ],
+  "text" : "Martin Tucker Smith (6 July 1803 – 10 October 1880) was an English banker and Liberal Party politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity5752",
+  "entityUrl" : "http://dbpedia.org/resource/Gerard_Smith_(governor)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Martin_Tucker_Smith" ]
+  },
+  "words" : [ "-LRB-", "Lieutenant-Colonel", "Smith", "1839-1920", ".", "Western", "KCMG", "Governor", "Gerard", "1895", "-RRB-", "Australia", "Sir", "1900" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Governor" ],
+  "text" : "Lieutenant-Colonel Sir Gerard Smith KCMG (1839-1920) was Governor of Western Australia from 1895 to 1900.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity6304",
+  "entityUrl" : "http://dbpedia.org/resource/George_Adams_(magistrate)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/John_Adams_(mutineer)" ]
+  },
+  "words" : [ "June", "Mutineer", "discovered", "-LRB-", "colony", "29", "father", "part", "John", "died", "elder", "granted", "amnesty", "mutiny", "Teio", "October", "mother-in-law", "son", "George", "1873", "causes", "mutineers", "McCoy", "case", "apart", "--", "Charles", "Young", "original", "natural", "Adams", "wife", "born", ",", "William", "Ned", "Island", "killed", ".", "Pitcairn", "6", "-RRB-", "Christian", "1808", "Bounty", "time", "1804" ],
+  "adjectives" : [ "original", "natural" ],
+  "nouns" : [ "mother-in-law", "son", "colony", "wife", "father", "part", "time", "case", "amnesty", "mutiny" ],
+  "text" : "George Adams (6 June 1804 – 29 October 1873) was the only son of the Bounty Mutineer John Adams. He was born to his wife Teio, who had once been the wife of William McCoy and was the mother-in-law of Charles Christian, on Pitcairn Island. Adams was born at a time when all the original mutineers apart from his own father had been killed, or in the case of Ned Young died of natural causes. In 1808 the Pitcairn colony was discovered and the elder Adams was granted amnesty for his part in the mutiny. Both of Adams' parents died in March 1829, when George was 24 years old. Adams served as Chief Magistrate on Pitcairn in 1848. Adams was an opponent of Joshua Hill, and he opposed the decision to move to Norfolk Island, due to his granddaughter being ill. Adams did eventually move, and died on Norfolk Island in 1873.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity129",
+  "entityUrl" : "http://dbpedia.org/resource/Achille_Fould",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:parent" : [ "http://dbpedia.org/resource/Beer_Léon_Fould" ]
+  },
+  "words" : [ "†", "Oktober", "-LRB-", "17", "Tarbes", "war", "Fould", "*", "und", "ein", "Finanz", "Achille", "-", ".", "Staatsmann", "1800", "5", "-RRB-", ";", "französischer", "Paris", "November", "1867" ],
+  "adjectives" : [ ],
+  "nouns" : [ "war", "und", "ein", "französischer", "Finanz" ],
+  "text" : "Achille Fould (* 17. November 1800 in Paris; † 5. Oktober 1867 in Tarbes) war ein französischer Finanz- und Staatsmann.",
+  "patterns" : { }
+} ]

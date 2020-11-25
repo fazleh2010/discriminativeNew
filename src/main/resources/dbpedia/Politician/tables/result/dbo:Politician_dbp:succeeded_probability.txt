@@ -1,0 +1,4 @@
+id=122  property=dbp:succeeded  object=Incumbent  NumberOfEntitiesFoundForObject=37
+district-NN  multiply=0.189189  P(district|object)=0.945946  P(object|district)=0.2    
+assembly-NN  multiply=0.125097  P(assembly|object)=0.486486  P(object|assembly)=0.257143    
+

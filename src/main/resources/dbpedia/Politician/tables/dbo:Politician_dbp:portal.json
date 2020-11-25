@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "1_entity4517",
+  "entityUrl" : "http://dbpedia.org/resource/Erich_Mende",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:portal" : [ "Biography", "Germany", "Military of Germany", "Politics", "World War II", "Liberalism", "Silesia" ]
+  },
+  "words" : [ "Oktober", "Politiker", "-LRB-", "28", "ein", "bis", "1998", "der", "Offizier", "Landkreis", "FDP", "dann", "FDP-Bundestagsfraktion", "von", "CDU", "1916", "Mende", "1957", "Erich", "†", "deutscher", "war", "*", "und", ",", "er", ".", "Jurist", "Bonn", "1963", "Strehlitz", "Mai", "Von", "1960", "6", "-RRB-", "Groß", "Oberschlesien", "Vorsitzender", ";", "1968" ],
+  "adjectives" : [ "dann" ],
+  "nouns" : [ "Politiker", "deutscher", "war", "und", "ein", "er", "Jurist", "der", "Offizier", "FDP", "FDP-Bundestagsfraktion", "von", "Vorsitzender" ],
+  "text" : "Erich Mende (* 28. Oktober 1916 in Groß Strehlitz, Landkreis Groß Strehlitz in Oberschlesien; † 6. Mai 1998 in Bonn) war ein deutscher Offizier, Jurist und Politiker (FDP, dann CDU). Von 1960 bis 1968 war er Vorsitzender der FDP und von 1957 bis 1963 der FDP-Bundestagsfraktion. 1963 bis 1966 amtierte er als Bundesminister für gesamtdeutsche Fragen und war zugleich Stellvertreter des Bundeskanzlers.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity11294",
+  "entityUrl" : "http://dbpedia.org/resource/Lloyd_Kenyon,_1st_Baron_Kenyon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:portal" : [ "Biography", "Law of England and Wales", "British politics" ]
+  },
+  "words" : [ "country", "Dunning", "education", "called", "almost", "allowed", "John", "1780", "Rather", "friendships", "thanks", "1732", "worked", "would", "moving", "--", "12", "Hanmer", "going", "work", "Thurlow", "Initially", ",", "April", ".", "Justiceship", "lack", "Chester", "Lord", "4", "5", "attorney", "served", "-RRB-", "General", "Attorney", "secured", "Justice", "Rolls", "joining", "-LRB-", "increased", "Chief", "university", "provided", "overwhelmed", "barrister", "1756", "1st", "October", "School", "1750", "KC", "SL", "Kenyon", "Baron", "unemployed", "British", "cases", "business", "politician", "Ruthin", "aged", "instead", "many", "Middle", "Master", "clerk", "educated", "Bar", "PC", "Temple", "due", "Born", "initially", "Lloyd", "gentleman", "1802", "contacts" ],
+  "adjectives" : [ "British", "due", "aged", "many", "unemployed" ],
+  "nouns" : [ "clerk", "country", "Bar", "education", "business", "university", "attorney", "politician", "barrister", "gentleman", "Justiceship", "lack" ],
+  "text" : "Lloyd Kenyon, 1st Baron Kenyon PC SL KC (5 October 1732 – 4 April 1802) was a British politician and barrister, who served as Attorney General, Master of the Rolls and Lord Chief Justice. Born to a country gentleman, he was initially educated in Hanmer before moving to Ruthin School aged 12. Rather than going to university he instead worked as a clerk to an attorney, joining the Middle Temple in 1750 and being called to the Bar in 1756. Initially almost unemployed due to the lack of education and contacts which a university education would have provided, his business increased thanks to his friendships with John Dunning, who, overwhelmed with cases, allowed Kenyon to work many, and Lord Thurlow who secured for him the Chief Justiceship of Chester in 1780. He was returned as the Member of Parliament (MP) for Hindon the same year, serving repeatedly as Attorney General under William Pitt the Younger. He effectively sacrificed his political career in 1784 to challenge the ballot of Charles James Fox, and was rewarded with a baronetcy; from then on he did not speak in the House of Commons, despite remaining an MP. On 27 March 1784 he was appointed Master of the Rolls, a job to which he dedicated himself once he ceased to act as an MP. He had previously practised in the Court of Chancery, and although unfamiliar with Roman law was highly efficient; Lord Eldon said \"I am mistaken if, after I am gone, the Chancery Records do not prove that if I have decided more than any of my predecessors in the same period of time, Sir Lloyd Kenyon beat us all\". On 9 June 1788, Kenyon succeeded Lord Mansfield as Lord Chief Justice, and was granted a barony. Although not rated as highly as his predecessor, his work \"restored the simplicity and rigor of the common law\". He remained Lord Chief Justice until his death in 1802.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity16814",
+  "entityUrl" : "http://dbpedia.org/resource/Stefan_Dittrich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:portal" : [ "Biography", "Military of Germany", "World War II" ]
+  },
+  "words" : [ "†", "Politiker", "-LRB-", "CSU", "Juni", "deutscher", "28", "Dittrich", "war", "*", "Kötzting", "ein", ".", "der", "5", "-RRB-", "Stefan", ";", "1912", "Hof", "Februar", "1988" ],
+  "adjectives" : [ "Februar" ],
+  "nouns" : [ "deutscher", "war", "Kötzting", "ein", "Hof" ],
+  "text" : "Stefan Dittrich (* 28. Juni 1912 in Hof; † 5. Februar 1988 in Kötzting) war ein deutscher Politiker der CSU.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity5580",
+  "entityUrl" : "http://dbpedia.org/resource/Flora_McMillan_Forde",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:portal" : [ "Biography", "Feminism", "Politics", "Social Welfare and Social Work" ]
+  },
+  "words" : [ "New", "political", "Birthday", "née", "welfare", "Jubilee", "Coronation", "December", "King", "George", "worker", "1935", "--", "activist", "II", "Order", "13", "Honours", "Queen", "Wyndham", ",", "'s", ".", "appointed", "Silver", "Zealand", "Elizabeth", "Flora", "-RRB-", "Ive", "9", "Medal", "McMillan", "June", "-LRB-", "Empire", "1953", "1952", "OBE", "V", "1958", "British", "Forde", "awarded", "born", "Southland", "1883", "feminist", "Officer" ],
+  "adjectives" : [ "British", "political", "née" ],
+  "nouns" : [ "activist", "Order", "Empire", "Ive", "Birthday", "Medal", "welfare", "worker", "feminist" ],
+  "text" : "Flora McMillan Forde OBE (née Ive, 9 June 1883 – 13 December 1958) was a New Zealand political activist, feminist and welfare worker. She was born in Wyndham, Southland, New Zealand on 9 June 1883. In 1935, she was awarded the King George V Silver Jubilee Medal, and in 1953, she was awarded the Queen Elizabeth II Coronation Medal. She was appointed an Officer of the Order of the British Empire in the 1952 Queen's Birthday Honours.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity5698",
+  "entityUrl" : "http://dbpedia.org/resource/George_Lansbury",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:portal" : [ "Biography", "Christianity", "Socialism", "British politics" ]
+  },
+  "words" : [ "numerous", "offices", "political", "led", "Labour", "main", "office", "sustained", "1932", "elective", "George", "justice", "1859", "1935", "reformer", "--", "period", "thereafter", "doubt", ",", "'s", "community", ".", "1940", "converted", "7", "authority", "Originally", "served", "-RRB-", "London", "Lansbury", "End", "except", "East", "women", "22", "-LRB-", "May", "life", "vested", "local", "Party", "government", "world", "causes", "rights", "February", "31", "early", "brief", "established", "British", "disarmament", "radical", "social", "campaigning", "Liberal", "politician", "spent", "ministerial", "socialism", "beliefs", "PC", "activities", "underpinned", "1929", "Christian", "1890s", "short", "Apart", "interests", "promotion" ],
+  "adjectives" : [ "brief", "British", "radical", "social", "numerous", "ministerial", "political", "main", "vested", "local", "elective", "Christian", "short", "early" ],
+  "nouns" : [ "period", "disarmament", "campaigning", "politician", "socialism", "doubt", "Labour", "office", "community", "life", "government", "world", "authority", "justice", "End", "reformer", "promotion" ],
+  "text" : "George Lansbury, PC (22 February 1859 – 7 May 1940) was a British politician and social reformer who led the Labour Party from 1932 to 1935. Apart from a brief period of ministerial office during the Labour government of 1929–31, he spent his political life campaigning against established authority and vested interests, his main causes being the promotion of social justice, women's rights and world disarmament. Originally a radical Liberal, Lansbury converted to socialism in the early 1890s, and thereafter served his local community in the East End of London in numerous elective offices. His activities were underpinned by his Christian beliefs which, except for a short period of doubt, sustained him through his life. Elected to parliament in 1910, he resigned his seat in 1912 to campaign for women's suffrage, and was briefly imprisoned after publicly supporting militant action. In 1912 Lansbury helped to establish the Daily Herald newspaper, and became its editor. Throughout the First World War the paper maintained a strongly pacifist stance, and supported the October 1917 Russian Revolution. These positions contributed to Lansbury's failure to be elected to parliament in 1918. He devoted himself to local politics in his home borough of Poplar, and went to prison with 30 fellow-councillors for his part in the Poplar \"rates revolt\" of 1921. After his return to parliament in 1922, Lansbury was denied office in the brief Labour government of 1924, although he served as First Commissioner of Works in the Labour government of 1929–31. After the political and economic crisis of August 1931 Lansbury did not follow his leader, Ramsay MacDonald, into the National Government, but stayed with the Labour Party. As the most senior of the small contingent of Labour MPs that survived the 1931 general election, Lansbury became the party's leader. His pacifism and his opposition to rearmament in the face of rising European fascism put him at odds with his party, and when his position was rejected at the 1935 party conference he resigned the leadership. He spent his final years travelling through the United States and Europe in the cause of peace and disarmament.",
+  "patterns" : { }
+} ]

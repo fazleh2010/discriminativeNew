@@ -1,0 +1,32 @@
+id=151  property=dbo:residence  object=http://dbpedia.org/resource/Maryland  NumberOfEntitiesFoundForObject=54
+caucus-NN  multiply=0.018706  P(caucus|object)=0.185185  P(object|caucus)=0.10101    
+
+id=152  property=dbo:residence  object=http://dbpedia.org/resource/Newfoundland_and_Labrador  NumberOfEntitiesFoundForObject=25
+by-election-NN  multiply=0.0432  P(by-election|object)=0.36  P(object|by-election)=0.12    
+
+id=153  property=dbo:residence  object=http://dbpedia.org/resource/Alberta  NumberOfEntitiesFoundForObject=69
+legislative-JJ  multiply=0.098698  P(legislative|object)=0.84058  P(object|legislative)=0.117417    
+canadian-JJ  multiply=0.090862  P(canadian|object)=0.73913  P(object|canadian)=0.122931    
+
+id=154  property=dbo:residence  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=42
+alderman-NN  multiply=0.029915  P(alderman|object)=0.166667  P(object|alderman)=0.179487    
+
+id=155  property=dbo:residence  object=http://dbpedia.org/resource/Connecticut  NumberOfEntitiesFoundForObject=83
+representative-JJ  multiply=0.061709  P(representative|object)=0.518072  P(object|representative)=0.119114    
+term-NN  multiply=0.053133  P(term|object)=0.506024  P(object|term)=0.105    
+
+id=156  property=dbo:residence  object=http://dbpedia.org/resource/British_Columbia  NumberOfEntitiesFoundForObject=56
+canadian-JJ  multiply=0.120821  P(canadian|object)=0.946429  P(object|canadian)=0.12766    
+provincial-JJ  multiply=0.065909  P(provincial|object)=0.5  P(object|provincial)=0.131818    
+
+id=157  property=dbo:residence  object=http://dbpedia.org/resource/Norwalk,_Connecticut  NumberOfEntitiesFoundForObject=34
+session-NN  multiply=0.493808  P(session|object)=0.852941  P(object|session)=0.578947    
+settler-NN  multiply=0.241486  P(settler|object)=0.352941  P(object|settler)=0.684211    
+
+id=158  property=dbo:residence  object=http://dbpedia.org/resource/Ontario  NumberOfEntitiesFoundForObject=123
+canadian-JJ  multiply=0.083723  P(canadian|object)=0.536585  P(object|canadian)=0.156028    
+councillor-NN  multiply=0.068535  P(councillor|object)=0.252033  P(object|councillor)=0.27193    
+
+id=159  property=dbo:residence  object=http://dbpedia.org/resource/Saskatchewan  NumberOfEntitiesFoundForObject=29
+figure-NN  multiply=0.024631  P(figure|object)=0.172414  P(object|figure)=0.142857    
+

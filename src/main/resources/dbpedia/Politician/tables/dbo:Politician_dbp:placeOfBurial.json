@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity2338",
+  "entityUrl" : "http://dbpedia.org/resource/Boris_Feldman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:placeOfBurial" : [ "Donsk cemetery, Moscow" ]
+  },
+  "words" : [ "que", "de", "grado", "-LRB-", "Rojo", "del", "Feldman", "fusilado", "Komkor", "Pinsk", "alcanzó", "Mirónovich", "Борис", "Moscú", "un", "Фельдман", "1937", "Ejército", "Borís", "12", "junio", "el", "Миронович", "1890", "ruso", ",", "-", ".", "fue", "-RRB-", "y", ":", "militar" ],
+  "adjectives" : [ ],
+  "nouns" : [ "fue", "un", "militar" ],
+  "text" : "Borís Mirónovich Feldman (ruso: Борис Миронович Фельдман) (Pinsk, 1890 - Moscú, 12 de junio de 1937) fue un militar del Ejército Rojo que alcanzó el grado de Komkor y que fue fusilado.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity5242",
+  "entityUrl" : "http://dbpedia.org/resource/Fyodor_Sergeyev",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:placeOfBurial" : [ "http://dbpedia.org/resource/Kremlin_Wall_Necropolis", "http://dbpedia.org/resource/Moscow" ]
+  },
+  "words" : [ "Fjodor", "Сергеев", "Андреевич", "-LRB-", "Sergejew", "19", "*", "1883greg", ".", "/", "russisch", "Märzjul", "Фёдор", "7", "März", ";", "Andrejewitsch" ],
+  "adjectives" : [ "russisch" ],
+  "nouns" : [ ],
+  "text" : "Fjodor Andrejewitsch Sergejew (russisch Фёдор Андреевич Сергеев; * 7. Märzjul./ 19. März 1883greg. in Glebowo, Gouvernement Kursk; † 24. Juli 1921 im Gouvernement Tula) war ein russischer Revolutionär. Er war auch bekannt unter dem Namen Artjom.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity14199",
+  "entityUrl" : "http://dbpedia.org/resource/Pavlo_Tychyna",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:placeOfBurial" : [ "http://dbpedia.org/resource/Kiev", "http://dbpedia.org/resource/Baikove_Cemetery" ]
+  },
+  "words" : [ "23", "-LSB-", "-LRB-", "September", "Anthem", "Tychyna", "Socialist", "Павло", "Republic", "Ukrainian", "academician", "major", "public", "poet", "Pavlo", "January", "lyrics", "O.S.", "11", "--", "activist", "statesman", "16", "Тичина", "created", "1891", "interpreter", "Soviet", ",", "Григорович", ".", "-RRB-", "-RSB-", ":", ";", "1967", "publicist" ],
+  "adjectives" : [ "Ukrainian", "major", "public", "Soviet", "Socialist" ],
+  "nouns" : [ "activist", "academician", "statesman", "poet", "interpreter", "publicist", "Republic" ],
+  "text" : "Pavlo Tychyna (Ukrainian: Павло Григорович Тичина; 23 January [O.S. 11 January] 1891 – September 16, 1967) was a major Ukrainian poet, interpreter, publicist, public activist, academician, and statesman. He created lyrics to the Anthem of the Ukrainian Soviet Socialist Republic.",
+  "patterns" : { }
+} ]

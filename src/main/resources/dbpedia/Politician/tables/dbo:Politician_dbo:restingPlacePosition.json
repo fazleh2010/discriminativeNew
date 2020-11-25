@@ -1,0 +1,85 @@
+[ {
+  "entityIndex" : "1_entity8387",
+  "entityUrl" : "http://dbpedia.org/resource/John_Henry_Whitley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:restingPlacePosition" : [ "http://dbpedia.org/resource/John_Henry_Whitley__restingPlacePosition__1" ]
+  },
+  "words" : [ "Politiker", "BBC", "-LRB-", "britischer", "Sprecher", "John", "ein", "der", "Party", "des", "Commons", "Yorkshire", "1935", "Henry", "†", "West", "Liberal", "war", "*", "House", ",", "Halifax", "Unterhauses", ".", "Whitley", "1866", "-RRB-", "Vorsitzender", ";", "sowie" ],
+  "adjectives" : [ ],
+  "nouns" : [ "britischer", "war", "ein", "sowie" ],
+  "text" : "John Henry Whitley (* 1866 in Halifax (West Yorkshire); † 1935) war ein britischer Politiker der Liberal Party, Sprecher des Unterhauses (House of Commons) sowie Vorsitzender der BBC.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity18612",
+  "entityUrl" : "http://dbpedia.org/resource/William_Templeton_(mayor)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:restingPlacePosition" : [ "http://dbpedia.org/resource/William_Templeton_(mayor)__restingPlacePosition__1" ]
+  },
+  "words" : [ "next", "Mayor", "Vancouver", "-LRB-", "defeated", "27", "March", "butcher", "operated", "run", "died", "building", "Council", "serving", "sixth", "1898", "grocer", "1853", "1897", "Templeton", "school", "member", "term", "brick", "January", "--", "British", "election", "16", "mayor", "one", "also", "store", "City", "William", ",", "'s", ".", "unsuccessfully", "seat", "elected", "Columbia", "-RRB-", "grocery", "first", "board", "shortly" ],
+  "adjectives" : [ "sixth", "next", "first" ],
+  "nouns" : [ "election", "mayor", "butcher", "store", "building", "seat", "grocer", "school", "grocery", "member", "term", "brick", "board" ],
+  "text" : "William Templeton (March 27, 1853 – January 16, 1898) was the sixth Mayor of Vancouver, British Columbia, serving only one term in 1897. A butcher and grocer, he operated a grocery store in the first brick building in Vancouver. Templeton also was a member of the Vancouver City Council and school board, and had once run unsuccessfully for the mayor's seat before being elected in 1897. He was defeated in the next election in January 1898, and died shortly after. He is commemorated with a street and school named in his honour.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity14931",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Grosvenor,_2nd_Marquess_of_Westminster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:restingPlacePosition" : [ "http://dbpedia.org/resource/Richard_Grosvenor,_2nd_Marquess_of_Westminster__restingPlacePosition__1" ]
+  },
+  "words" : [ "Westminster", "-LRB-", "27", "styled", "Marquess", "benefactor", "October", "1831", "1795", "Earl", "Richard", "property", "KG", "Honourable", "January", "31", "--", "politician", "2nd", ",", ".", "English", "Grosvenor", "PC", "Belgrave", "Viscount", "-RRB-", "developer", "1869", "1802", "landowner", "1845" ],
+  "adjectives" : [ "English", "2nd", "Honourable" ],
+  "nouns" : [ "politician", "property", "developer", "Marquess", "landowner", "benefactor" ],
+  "text" : "Richard Grosvenor, 2nd Marquess of Westminster KG PC (27 January 1795 – 31 October 1869), styled The Honourable Richard Grosvenor from 1795 to 1802, Viscount Belgrave from 1802 to 1831 and Earl Grosvenor from 1831 to 1845, was an English politician, landowner, property developer and benefactor.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity5123",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Cope",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:restingPlacePosition" : [ "http://dbpedia.org/resource/Frederick_Cope__restingPlacePosition__1" ]
+  },
+  "words" : [ "Mayor", "defeated", "England", "John", "goods", "contested", "tailoring", "1897", "later", "1893", "1892", "majority", "July", "moving", "--", "11", "Cope", "Frederick", "19", "dry", "history", ",", "'s", ".", "Canada", "Columbia", "1860", "-RRB-", "9", "Building", "Vancouver", "-LRB-", "September", "city", "operated", "serving", "Association", "mayoral", "Oxford", "vote", "Thomas", "British", "election", "business", "winning", "born", "one", "millinery", "Carroll", "third", "hotly", "grocery", "president", "closest" ],
+  "adjectives" : [ "British", "third", "mayoral", "dry" ],
+  "nouns" : [ "election", "business", "city", "grocery", "majority", "history", "millinery", "vote", "president" ],
+  "text" : "Frederick Cope (July 9, 1860 – September 19, 1897) was the third Mayor of Vancouver, British Columbia, Canada, serving from 1892 to 1893. Cope was born in Oxford, England in 1860. After moving to Canada, and later British Columbia, he was president of the British Columbia Building Association and operated a dry goods, millinery, tailoring and grocery business. Cope defeated John Thomas Carroll in the 1892 mayoral election, one of the most hotly contested and closest in the city's history, winning with an 11 vote majority. He is the youngest elected mayor in the history of Vancouver, having been aged 32 at the time of his election. During the election, he garnered support of the city's business class, and the Vancouver World newspaper. His council however would consist of \"reformers\" of the working class, in opposition to Cope's representation of the business class. During his mayoralty, the city experienced an economic downturn; Cope responded by attempting to limit civic expenses, including the laying off of city employees, and initiating cutbacks. He also advocated for the Canada-Australia Steam Line, with the inaugural ship arriving in June 1893. Cope was a Freemason. He drowned during the Klondike Gold Rush in 1897 at Summit Lake, Yukon, when his horse fell while crossing the body of water. He tried unsuccessfully to rescue the horse and was pulled away by the undercurrents. His body was later transported back to Vancouver in the same vessel along with notorious American con artist Soapy Smith which resulted in a mixup of the bodies at their respective funerals. They were later switched upon the realization of the error. He was later buried at Mountain View Cemetery in Vancouver.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity5124",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Buscombe",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:restingPlacePosition" : [ "http://dbpedia.org/resource/Frederick_Buscombe__restingPlacePosition__1" ]
+  },
+  "words" : [ "Mayor", "Vancouver", "Cornwall", "-LRB-", "11th", "September", "Edwin", "England", "Buscombe", "President", "Trade", "Board", "1938", "July", "--", "Frederick", "British", "Oliver", "born", "merchant", ",", ".", "Bodmin", "Canada", "Grilles", "2", "Columbia", "1862", "glassware", "china", "served", "-RRB-", "1906", "1905", "Isabella", "21", "1900" ],
+  "adjectives" : [ "11th" ],
+  "nouns" : [ "President", "glassware", "china", "merchant", "Buscombe" ],
+  "text" : "Frederick Buscombe (September 2, 1862 – July 21, 1938), was the 11th Mayor of Vancouver, British Columbia, Canada. He served from 1905 to 1906. A glassware and china merchant, he was a President of the Vancouver Board of Trade in 1900. Buscombe was born in 1862 at Bodmin, Cornwall, England, to Edwin and Isabella Oliver Grilles Buscombe. He immigrated to Canada with his family in 1870, settling near Hamilton, Ontario, where his father became a builder. He first worked in Hamilton from 1878 to James A. Skinner & Company, a glassware and china company, as a travelling salesman from 1878 to 1891. In 1891, his job with the company brought him west to Vancouver, where he established an office with his brother, George. Prior to 1891, he visited the Vancouver area twice, in 1884 and 1886. He served as a partner of the company in Vancouver until 1899, when he bought out the company, and established Frederick Buscombe & Co. Ltd. china, glassware and earthenware with his brother, which grew to be one of the largest businesses of the kind in the Canadian West. He was also president of the Pacific Coast Lumber & Sawmills Company, and director of the Pacific Marine Insurance Company. In 1899, he commissioned the Buscombe Building, located at 342 Water Street & 403 West Cordova Street, in Gastown, Vancouver, which is now the site of a restaurant and various businesses. Buscombe was elected Mayor of Vancouver in 1905. During the election, he advocated for improved financial management within the municipal affairs, earning support from three newspapers, and many businessmen. He served two terms, until 1906. During his mayoralty, he helped develop the Greater Vancouver Water Board. The city council also passed a motion to request suspension of immigration of East Indians to Vancouver due to public discontent of immigrants working in the growing amount construction jobs. Buscombe served as president of Vancouver's Board of Trade from 1900 to 1901, and as president of the Vancouver Tourist Association in 1901. A Mason, he was also a member of the Vancouver Club, Royal Vancouver Yacht Club, Terminal City Club, Jericho Country Club, and the Sons of England Society. He died at Vancouver 1938 and was buried at Mountain View Cemetery. At the time of his death, he was married to Cora Elsie Bird. He married Lydia Rebecca Mattice on May 6, 1886, with her he had five children: Robert Frederick Edwin, Harold Edwin, Erie Stewart, Margery Gordon, and Barnett. He lived in Dundurn, Vancouver. A member of the Church of England, he enjoyed yachting, fishing and golf.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity784",
+  "entityUrl" : "http://dbpedia.org/resource/Alonzo_Gesner",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:restingPlacePosition" : [ "http://dbpedia.org/resource/Alonzo_Gesner__restingPlacePosition__1" ]
+  },
+  "words" : [ "Oregon", "became", "agent", "-LRB-", "American", "United", "March", "Republican", "Warm", "boy", "Alonzo", "States", "Reservation", "government", "later", "native", "member", "land", "state", "Springs", "1912", "--", "deputy", "politician", "surveyor", "also", "Gesner", ",", ".", "appointed", "2", "1842", "Senate", "immigrated", "6", "Illinois", "State", "-RRB-", "Indian", "Country", "family" ],
+  "adjectives" : [ "American", "Indian", "Warm" ],
+  "nouns" : [ "agent", "deputy", "government", "native", "politician", "member", "land", "Country", "surveyor", "state", "family", "boy" ],
+  "text" : "Alonzo Gesner (March 2, 1842 – March 6, 1912) was an American land surveyor, Indian agent, and politician in the state of Oregon. A native of Illinois, he immigrated as a boy to the Oregon Country with is family where he became a deputy surveyor for the United States government. A Republican, he also was appointed as an Indian agent to the Warm Springs Reservation and later was a member of the Oregon State Senate.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity880",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Koc",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:restingPlacePosition" : [ "http://dbpedia.org/resource/Adam_Koc__restingPlacePosition__1" ]
+  },
+  "words" : [ "uczestnik", "wolnomularz", "pseudonimy", "Strzeleckiego", "niepodległość", "polityk", "poseł", "dziennikarz", "Jorku", "światowej", "Wojska", "Polski", "Krajewski", "Młodzieży", "ur", "--", "Suwałkach", "młodości", "Związku", ",", ".", "Adam", "Polskiego", "zm", "3", "Nowym", "-RRB-", ":", "polsko-bolszewickiej", "-LRB-", "Warmiński", "piechoty", "lutego", "członek", "Rewolucyjnego", "Witold", "dyplomowany", "Ignacy", "W", "Walki", "Szlachetny", "Koc", "31", "pułkownik", "potem", "wojnie", "1891", "Czynnej", "o", "sierpnia", "Narodowej", "w", "1969", "walk" ],
+  "adjectives" : [ "lutego", "uczestnik" ],
+  "nouns" : [ "polsko-bolszewickiej", "pułkownik", "wolnomularz", "młodości", "pseudonimy", "piechoty", "niepodległość", "polityk", "o", "poseł", "dziennikarz", "sierpnia", "zm", "światowej", "członek", "dyplomowany", "w", "ur", "walk" ],
+  "text" : "Adam Ignacy Koc, pseudonimy: Witold, Szlachetny, Adam Krajewski, Adam Warmiński, Witold Warmiński (ur. 31 sierpnia 1891 w Suwałkach, zm. 3 lutego 1969 w Nowym Jorku) – uczestnik walk o niepodległość Polski w I wojnie światowej i wojnie polsko-bolszewickiej, polityk, poseł, dziennikarz, pułkownik dyplomowany piechoty Wojska Polskiego, wolnomularz. W młodości członek Związku Rewolucyjnego Młodzieży Narodowej, potem Związku Walki Czynnej i Związku Strzeleckiego. Komendant okręgu warszawskiego, a następnie Komendant Naczelny Polskiej Organizacji Wojskowej i oficer Legionów Polskich. Członek tzw. Konwentu Organizacji A. Od grudnia 1919 w Wojsku Polskim. Podczas wojny polsko-bolszewickiej dowódca 201 Pułku Piechoty Obrony Warszawy, a następnie Dywizji Ochotniczej (31 lipca – 3 grudnia 1920). Później na różnych stanowiskach w Ministerstwie Spraw Wojskowych. Uczestnik przewrotu majowego po stronie sił dowodzonych przez Józefa Piłsudskiego. Później na stanowisku szefa sztabu Dowództwa Okręgu Korpusu Nr VI we Lwowie (od 14 września 1926 do 4 marca 1928). Uważany za członka tzw. grupy pułkowników. Poseł na Sejm II, III (z ramienia Bezpartyjnego Bloku Współpracy z Rządem) i IV kadencji w latach 1928–1936 oraz senator V kadencji w latach 1938–1939. Od 1929 do 1930 redaktor naczelny prosanacyjnych dzienników – najpierw Głosu Prawdy, a potem Gazety Polskiej. Wiceminister skarbu (od 23 grudnia 1930 do grudnia 1935) oraz komisarz rządowy w Banku Polskim (styczeń 1932 – grudzień 1935). Jeden z głównych negocjatorów i autorów umów pożyczkowych II Rzeczypospolitej z Francją i Wielką Brytanią. Prezes Banku Polskiego od 7 lutego 1936 do 27 kwietnia 1936. Po śmierci Józefa Piłsudskiego w grupie zwolenników gen. Edwarda Śmigłego-Rydza. Komendant Naczelny Związku Legionistów Polskich (24 maja 1936 – 25 czerwca 1938). Współautor programu, a następnie szef Obozu Zjednoczenia Narodowego (luty 1937 – styczeń 1938). Zwolennik zbliżenia sanacji z Narodową Demokracją i Ruchem Narodowo-Radykalnym „Falanga”. Podczas kampanii wrześniowej w 1939 koordynował ewakuację złota Banku Polskiego z kraju. Wiceminister skarbu (od 10 września 1939) w gabinecie Felicjana Sławoja Składkowskiego, potem minister skarbu (30 września 1939 – 9 grudnia 1939) oraz minister przemysłu i handlu (9 października 1939 – 9 grudnia 1939), a następnie II podsekretarz stanu w Ministerstwie Skarbu w rządzie emigracyjnym Władysława Sikorskiego. Od 1940 aż do śmierci przebywał w Stanach Zjednoczonych, gdzie był m.in. wicedyrektorem Instytutu Józefa Piłsudskiego w Ameryce.",
+  "patterns" : { }
+} ]

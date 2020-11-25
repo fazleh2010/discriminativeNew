@@ -1,0 +1,157 @@
+[ {
+  "entityIndex" : "1_entity11383",
+  "entityUrl" : "http://dbpedia.org/resource/Lorne_Henderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "6" ]
+  },
+  "words" : [ "-LRB-", "Lorne", "Davis", "October", "government", "Party", "2002", "member", "February", "31", "Assembly", "--", "minister", "politician", ",", "William", ".", "Progressive", "1920", "Canada", "1963", "1985", "7", "served", "Conservative", "-RRB-", "Legislative", "Ontario", "cabinet", "Henderson" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Lorne Henderson (October 31, 1920 – February 7, 2002) was a politician in Ontario, Canada. He served in the Legislative Assembly of Ontario from 1963 to 1985, and was a cabinet minister in the government of William Davis. Henderson was a member of the Progressive Conservative Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity2479",
+  "entityUrl" : "http://dbpedia.org/resource/Claude_Bennett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "3" ]
+  },
+  "words" : [ "-LRB-", "September", "Claude", "governments", "Davis", "Party", "Bennett", "1971", "member", "1936", "Assembly", "Frederick", "minister", "born", "politician", "19", ",", "former", ".", "1987", "Progressive", "Canada", "Miller", "served", "Conservative", "-RRB-", "Bill", "Legislative", "Ontario", "cabinet", "Frank" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Claude Frederick Bennett (born September 19, 1936) is a former politician in Ontario, Canada. He served in the Legislative Assembly of Ontario from 1971 to 1987, and was a cabinet minister in the governments of Bill Davis and Frank Miller. Bennett was a member of the Progressive Conservative Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity1676",
+  "entityUrl" : "http://dbpedia.org/resource/Bert_Lawrence",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "2" ]
+  },
+  "words" : [ "``", "-LRB-", "Rutter", "28", "John", "March", "governments", "Davis", "2007", "1974", "Carleton", "MC", "member", "represented", "Albert", "31", "Assembly", "''", "--", "minister", "Lawrence", "politician", "Benjamin", ",", ".", "Robarts", "Progressive", "Canada", "1963", "Russell", "Conservative", "served", "-RRB-", "Bill", "Legislative", "Bert", "ridings", "Ontario", "East", "cabinet", "1923" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Albert Benjamin Rutter \"Bert\" Lawrence MC (March 31, 1923 – March 28, 2007) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1963 to 1974 who represented the ridings of Russell and Carleton East. He served as a cabinet minister in the governments of John Robarts and Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity1739",
+  "entityUrl" : "http://dbpedia.org/resource/Bud_Gregory",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "2" ]
+  },
+  "words" : [ "``", "June", "-LRB-", "Canadian", "Mississauga", "March", "riding", "governments", "Gregory", "Edward", "Davis", "Bud", "1975", "member", "represented", "Assembly", "''", "--", "Charles", "minister", "17", "politician", ",", ".", "Progressive", "1987", "2016", "Miller", "served", "Conservative", "-RRB-", "Bill", "9", "Legislative", "1926", "Milton", "Ontario", "East", "cabinet", "Frank" ],
+  "adjectives" : [ "Canadian", "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Milton Edward Charles \"Bud\" Gregory (March 9, 1926 – June 17, 2016) was a Canadian politician in Ontario. He served as a Progressive Conservative member in the Legislative Assembly of Ontario who represented the riding of Mississauga East from 1975 to 1987. He served as a cabinet minister in the governments of Bill Davis and Frank Miller.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity17473",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Leonard_Wells",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "2" ]
+  },
+  "words" : [ "-LRB-", "May", "John", "governments", "Davis", "1930", "October", "Party", "member", "Leonard", "Assembly", "Thomas", "--", "11", "minister", "politician", "2000", ",", "William", ".", "Robarts", "Progressive", "Canada", "2", "1963", "1985", "Tom", "served", "Conservative", "-RRB-", "Legislative", "Wells", "Ontario", "cabinet" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Thomas Leonard (Tom) Wells (May 2, 1930 – October 11, 2000) was a politician in Ontario, Canada. He served in the Legislative Assembly of Ontario as a member of the Progressive Conservative Party from 1963 to 1985, and was a cabinet minister in the governments of John Robarts and William Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity14998",
+  "entityUrl" : "http://dbpedia.org/resource/Rob_Sampson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "2" ]
+  },
+  "words" : [ "-LRB-", "27", "October", "1995", "government", "2003", "member", "Assembly", "1955", "Rob", "minister", "born", "politician", "Harris", ",", "former", ".", "Progressive", "Canada", "Mike", "Conservative", "-RRB-", "Legislative", "Ontario", "cabinet", "Sampson" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Rob Sampson (born October 27, 1955) is a former politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1995 to 2003 and was a cabinet minister in the government of Mike Harris.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity16002",
+  "entityUrl" : "http://dbpedia.org/resource/Ray_Connell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "2" ]
+  },
+  "words" : [ "-LRB-", "John", "governments", "Ray", "December", "1951", "1971", "Hamilton", "member", "1916", "represented", "North", "Assembly", "November", "Thomas", "--", "14", "Wentworth", "politician", "Frost", ",", ".", "Robarts", "Progressive", "1", "1986", "Canada", "Connell", "Conservative", "-RRB-", "Legislative", "ridings", "Leslie", "Ontario", "cabinet" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Thomas Ray Connell (December 1, 1916 – November 14, 1986) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1951 to 1971. He represented the ridings of Hamilton—Wentworth and Wentworth North. He was a member of cabinet in the governments of Leslie Frost and John Robarts.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity3454",
+  "entityUrl" : "http://dbpedia.org/resource/Darcy_McKeough",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "2" ]
+  },
+  "words" : [ "Davis", "represented", "January", "Assembly", "1978", "Minister", "1933", "--", "Economics", "Treasurer", "minister", "'", "often", "William", ",", "'s", "former", ".", "Progressive", "senior", "Canada", "-RRB-", "Bill", "ridings", "position", "Ontario", "-LRB-", "Darcy", "Intergovernmental", "government", "OC", "Due", "member", "Chatham", "31", "`", "Kent", "Affairs", "West", "born", "politician", "Duke", "Municipal", "1963", "McKeough", "Conservative", "Legislative", "cabinet", "referred" ],
+  "adjectives" : [ "senior", "Due", "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "politician", "member", "position", "cabinet", "Assembly" ],
+  "text" : "William Darcy McKeough, OC (born January 31, 1933) is a former politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1963 to 1978 who represented the ridings of Kent West and Chatham—Kent. He was a cabinet minister in the government of Bill Davis. Due to McKeough's senior position in cabinet as Treasurer, Minister of Economics and Intergovernmental Affairs and Minister of Municipal Affairs, he was often referred to as the 'Duke of Kent'. After he retired from politics in 1978, he spent a further career in business administering to his companies McKeough Investments and McKeough Supply. He also spent time as a member of the board of Hydro One and was a former CEO of Union Gas.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity4277",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_Roy_Irvine",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "3" ]
+  },
+  "words" : [ "-LRB-", "Canadian", "Donald", "Davis", "October", "1994", "1971", "member", "January", "Assembly", "1977", "--", "politician", ",", ".", "Progressive", "1920", "1", "Premier", "served", "Conservative", "-RRB-", "Bill", "Legislative", "Irvine", "Roy", "Ontario", "cabinet", "20" ],
+  "adjectives" : [ "Canadian", "Legislative" ],
+  "nouns" : [ "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Donald Roy Irvine (January 20, 1920 – October 1, 1994) was a Canadian politician, who served in the Legislative Assembly of Ontario from 1971 to 1977 as a Progressive Conservative member. He was a cabinet member for Premier Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity16247",
+  "entityUrl" : "http://dbpedia.org/resource/Shelley_Wark-Martyn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "3" ]
+  },
+  "words" : [ "New", "-LRB-", "Arthur", "Port", "riding", "Party", "1995", "government", "Bob", "member", "represented", "Shelley", "January", "Assembly", "11", "minister", "Democratic", "born", "politician", "1990", ",", "former", ".", "Canada", "1963", "served", "Rae", "Wark-Martyn", "-RRB-", "Legislative", "Ontario", "cabinet" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Shelley Wark-Martyn (born January 11, 1963) is a former politician from Ontario, Canada. She was a New Democratic Party member of the Legislative Assembly of Ontario from 1990 to 1995. She represented the riding of Port Arthur. She served as a cabinet minister in the government of Bob Rae. Almost two decades later, she served as president of the Alberta Liberal Party stepping down in order to run in Calgary-Currie as a Liberal candidate in the 2015 provincial election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity12103",
+  "entityUrl" : "http://dbpedia.org/resource/Monique_Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "4" ]
+  },
+  "words" : [ "M.", "-LRB-", "Nipissing", "2011", "riding", "Monique", "Party", "government", "2003", "Dalton", "member", "Assembly", "McGuinty", "minister", "Liberal", "Smith", "born", "politician", "representing", "c.", ",", "former", ".", "1965", "Canada", "-RRB-", "Legislative", "Ontario", "cabinet" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "politician", "member", "Nipissing", "cabinet", "Assembly" ],
+  "text" : "Monique M. Smith (born c. 1965) is a former politician in Ontario, Canada. She was a member of the Legislative Assembly of Ontario, representing the riding of Nipissing for the Liberal Party, from 2003 until 2011. She was a cabinet minister in the government of Dalton McGuinty.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity14198",
+  "entityUrl" : "http://dbpedia.org/resource/Phil_Gillies",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "2" ]
+  },
+  "words" : [ "-LRB-", "May", "Philip", "1954", "government", "Assembly", "minister", "Andrew", "born", "politician", ",", "former", ".", "1987", "Progressive", "Canada", "1981", "Miller", "7", "served", "Conservative", "-RRB-", "Legislative", "Ontario", "cabinet", "Frank", "Gillies" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "politician", "cabinet", "Assembly" ],
+  "text" : "Philip Andrew Gillies (born May 7, 1954) is a former politician in Ontario, Canada. He served in the Legislative Assembly of Ontario from 1981 to 1987 as a Progressive Conservative, and was a cabinet minister in the government of Frank Miller.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity86",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Pope",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:num" : [ "2" ]
+  },
+  "words" : [ "-LRB-", "governments", "Davis", "member", "Assembly", "1977", "minister", "Alan", "born", "politician", "1990", "William", ",", "former", ".", "August", "Progressive", "Canada", "Pope", "2", "Miller", "Conservative", "served", "-RRB-", "Bill", "Legislative", "Ontario", "cabinet", "Frank", "1945" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Alan William Pope (born August 2, 1945) is a former politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1977 to 1990, and served as a cabinet minister in the governments of Bill Davis and Frank Miller.",
+  "patterns" : { }
+} ]

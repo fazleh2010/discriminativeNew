@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity9579",
+  "entityUrl" : "http://dbpedia.org/resource/John_Ingram_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:greatGrandchildrem" : [ "2" ]
+  },
+  "words" : [ "insurance", "June", "-LRB-", "American", "John", "Ingram", "see", "1973", "North", "R.", "businessman", "Randolph", "January", "commissioner", "--", "12", "Democratic", "politician", "Carolina", "Commissioner", ",", "'s", ".", "1985", "6", "attorney", "Insurance", "2013", "served", "-RRB-", "1929" ],
+  "adjectives" : [ "American", "Democratic" ],
+  "nouns" : [ "insurance", "attorney", "politician", "businessman", "commissioner" ],
+  "text" : "For the businessman, see John R. Ingram (businessman). John Randolph Ingram (June 12, 1929 – January 6, 2013) was an American Democratic politician, attorney, and insurance commissioner. He served as North Carolina's Commissioner of Insurance from 1973 until 1985.",
+  "patterns" : { }
+} ]

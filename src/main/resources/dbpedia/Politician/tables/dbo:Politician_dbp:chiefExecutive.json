@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity11393",
+  "entityUrl" : "http://dbpedia.org/resource/Lau_Kong-wah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:chiefExecutive" : [ "http://dbpedia.org/resource/Leung_Chun-ying" ]
+  },
+  "words" : [ "``", "''", "Lau", "named", "-LRB-", "Raymond", "Ray", ",", "people", ".", "see", "redirects", "-RRB-", "name", "Chinese", ";", "family" ],
+  "adjectives" : [ "Chinese" ],
+  "nouns" : [ "name", "family" ],
+  "text" : "(\"Ray Lau\" redirects here. For other people named Raymond Lau, see Raymond Lau.)(This is a Chinese name; the family name is Lau.)",
+  "patterns" : { }
+} ]

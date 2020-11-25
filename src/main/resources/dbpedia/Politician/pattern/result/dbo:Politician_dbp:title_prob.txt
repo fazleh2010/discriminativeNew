@@ -1,0 +1,12 @@
+id=75  property=dbp:title  
+elected-VBN  multiply=0.040329  P(elected|dbp:title)=0.105372  P(dbp:title|elected)=0.382733    
+served-RB_VBN  multiply=0.03135  P(served|dbp:title)=0.09227  P(dbp:title|served)=0.339766    
+became-VBD  multiply=0.015554  P(became|dbp:title)=0.027138  P(dbp:title|became)=0.573123    
+served_in-VBN_IN  multiply=0.015195  P(served_in|dbp:title)=0.04417  P(dbp:title|served_in)=0.344023    
+previously_served-RB_VBN  multiply=0.014259  P(previously_served|dbp:title)=0.036309  P(dbp:title|previously_served)=0.392713    
+served_first-VBD_RB  multiply=0.013211  P(served_first|dbp:title)=0.033689  P(dbp:title|served_first)=0.392157    
+served_president-VBD_NN  multiply=0.01319  P(served_president|dbp:title)=0.034063  P(dbp:title|served_president)=0.387234    
+represented_town-VBN_NN  multiply=0.013124  P(represented_town|dbp:title)=0.029571  P(dbp:title|represented_town)=0.44382    
+represented_electorate-VBN_NN  multiply=0.013124  P(represented_electorate|dbp:title)=0.029571  P(dbp:title|represented_electorate)=0.44382    
+served_deputy-VBD_NN  multiply=0.013074  P(served_deputy|dbp:title)=0.033876  P(dbp:title|served_deputy)=0.385928    
+

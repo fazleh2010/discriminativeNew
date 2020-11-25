@@ -1,0 +1,12 @@
+id=28  property=dbo:stateOfOrigin  
+wanted_maoist-VBD_IN  multiply=0.031746  P(wanted_maoist|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|wanted_maoist)=1.0    
+lok_sabha-NN_NN  multiply=0.015873  P(lok_sabha|dbo:stateOfOrigin)=0.015873  P(dbo:stateOfOrigin|lok_sabha)=1.0    
+general_secretary-JJ_NN  multiply=0.004884  P(general_secretary|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|general_secretary)=0.153846    
+grandmother_of-NN_IN  multiply=0.004535  P(grandmother_of|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|grandmother_of)=0.142857    
+sat_on-VBD_IN  multiply=0.003968  P(sat_on|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|sat_on)=0.125    
+named_to-VBN_TO  multiply=0.003342  P(named_to|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|named_to)=0.105263    
+received_teacher-VBN_NN  multiply=0.001984  P(received_teacher|dbo:stateOfOrigin)=0.015873  P(dbo:stateOfOrigin|received_teacher)=0.125    
+belonged_to-VBD_TO  multiply=0.001984  P(belonged_to|dbo:stateOfOrigin)=0.015873  P(dbo:stateOfOrigin|belonged_to)=0.125    
+later_worked-RB_VBN  multiply=8.82E-4  P(later_worked|dbo:stateOfOrigin)=0.015873  P(dbo:stateOfOrigin|later_worked)=0.055556    
+minister-RB_NN  multiply=7.11E-4  P(minister|dbo:stateOfOrigin)=0.047619  P(dbo:stateOfOrigin|minister)=0.014925    
+

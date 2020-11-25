@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity19751",
+  "entityUrl" : "http://dbpedia.org/resource/Zambry_Abdul_Kadir",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:facebook" : [ "www.facebook.com/zambryabdkadir" ]
+  },
+  "words" : [ "他是国阵和巫统霹雳州联委会主席", "他同时也是霹雳邦咯区州议员", "拿督斯里赞比里阿都卡迪尔", "。", "马来语", "1962年3月22日", "（", "）", "，", "－", "在党职上", "Abdul", "Kadir", "：", "巫统红土坎区部主席", "目前是马来西亚霹雳州的州务大臣", "Zambry" ],
+  "adjectives" : [ ],
+  "nouns" : [ "拿督斯里赞比里阿都卡迪尔", "。", "，", "－" ],
+  "text" : "拿督斯里赞比里阿都卡迪尔（马来语：Zambry Abdul Kadir，1962年3月22日－），目前是马来西亚霹雳州的州务大臣。他同时也是霹雳邦咯区州议员。在党职上，他是国阵和巫统霹雳州联委会主席，巫统红土坎区部主席。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity2574",
+  "entityUrl" : "http://dbpedia.org/resource/Cindy_Ady",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:facebook" : [ "http://tinyurl.com/njdjdb" ]
+  },
+  "words" : [ "Alberta", "Canadian", "2012", "2011", "March", "seek", "capacity", "Tourism", "2008", "general", "government", "would", "2004", "Ady", "member", "provincial", "Cindy", "department", "Assembly", "Minister", "re-election", "election", "politician", "2001", ",", ".", "Progressive", "announced", "Lou", "re-elected", "Stelmach", "Recreation", "5", "served", "Conservative", "Legislative", "Parks", "sitting", "upcoming", "Ed" ],
+  "adjectives" : [ "general", "Canadian", "Legislative", "provincial" ],
+  "nouns" : [ "re-election", "election", "government", "politician", "member", "department", "Assembly", "capacity" ],
+  "text" : "Cindy Lou Ady is a Canadian politician and was a member of the Legislative Assembly of Alberta. She served in this capacity from the 2001 provincial election, being re-elected in both the 2004 provincial election and 2008 provincial election, until the 2012 election, sitting as a Progressive Conservative. From 2008 to 2011, she served as the Minister of the Tourism, Parks and Recreation department in the Ed Stelmach government. On March 5, 2012, Ady announced that she would not seek re-election in the upcoming provincial general election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity6263",
+  "entityUrl" : "http://dbpedia.org/resource/Govind_Singh_Gurjar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:facebook" : [ "https://www.facebook.com/GovindSinghGurjarTrust" ]
+  },
+  "words" : [ "--", "-LRB-", "MLA", "March", "Govind", ",", "Rajasthan", "April", "former", ".", "1932", "2009", "six-time", "Nasirabad", "Ajmer", "6", "-RRB-", "Gurjar", "9", "Singh", "Minister" ],
+  "adjectives" : [ "six-time", "former" ],
+  "nouns" : [ ],
+  "text" : "Govind Singh Gurjar (9 March 1932 – 6 April 2009), six-time MLA from Nasirabad (Ajmer) and former Minister of Rajasthan.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity9781",
+  "entityUrl" : "http://dbpedia.org/resource/Juan_Cornejo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:ntupdate" : [ "2015-03-29" ]
+  },
+  "words" : [ "de", "-LRB-", "27", "Cornejo", "Audax", "Francisco", "un", "Palma", "Chile", "febrero", "División", "O'Higgins", "actual", "su", "chileno", "Lateral", "1990", ",", "es", ".", "futbolista", "izquierdo", "la", "equipo", "-RRB-", "Pichidegua", "y", "Juan", ";", "Primera", "Región", "Juega", "Italiano" ],
+  "adjectives" : [ "actual" ],
+  "nouns" : [ "futbolista", "chileno", "un" ],
+  "text" : "Juan Francisco Cornejo Palma (Pichidegua, Región de O'Higgins, Chile; 27 de febrero de 1990) es un futbolista chileno. Juega de Lateral izquierdo y su equipo actual es Audax Italiano de la Primera División de Chile.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,121 @@
+[ {
+  "entityIndex" : "1_entity10840",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Cramer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-n2006-90495" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "ist", "ein", "den", "Rolla", "US-Repräsentantenhaus", "North", "Bundesstaat", "Januar", "US-amerikanischer", "Cramer", "im", "vertritt", "*", ",", "er", ".", "Kevin", "1961", "2013", "-RRB-", "Seit", "Dakota", "21" ],
+  "adjectives" : [ "Seit", "Januar" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Kevin Cramer (* 21. Januar 1961 in Rolla, North Dakota) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat North Dakota im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8199",
+  "entityUrl" : "http://dbpedia.org/resource/Jackie_Speier",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-n00-107615" ]
+  },
+  "words" : [ "``", "Mateo", "southwest", "mentor", "two-thirds", "political", "northern", "Jacqueline", "Francisco", "Jackie", "represented", "14", "Democratic", "numbered", "includes", "Karen", "Lorraine", "California", ",", "'s", ".", "/", "Speier", "district", "-RRB-", ";", "District", "much", "since", "14th", "Congress", "San", "congressional", "12th", "-LRB-", "May", "County", "serving", "represents", "2008", "U.S.", "Party", "1950", "ˈspɪər", "member", "''", "born", "Ryan", "2013", "Leo", "Representative", "quarter", "territory" ],
+  "adjectives" : [ "14th", "southwest", "congressional", "12th", "ˈspɪər", "political", "northern" ],
+  "nouns" : [ "mentor", "district", "member", "quarter", "territory" ],
+  "text" : "Karen Lorraine Jacqueline \"Jackie\" Speier (/ˈspɪər/; born May 14, 1950) is the U.S. Representative for California's 14th congressional district, serving in Congress since 2008. She is a member of the Democratic Party. The district, numbered as the 12th District from 2008 to 2013, includes the northern two-thirds of San Mateo County and the southwest quarter of San Francisco. She represents much of the territory that had been represented by her political mentor, Leo Ryan. She is also a former member of the California State Senate who represented parts of San Francisco and San Mateo counties. On April 8, 2008, she won the special election for the vacated United States House of Representatives seat of late Congressman Tom Lantos.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity11289",
+  "entityUrl" : "http://dbpedia.org/resource/Lois_Capps",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-no2002-108189" ]
+  },
+  "words" : [ "Subcommittee", "Commerce", "Santa", "1938", "Ventura", "January", "10", "24th", "23rd", "Democratic", "numbered", "Lois", "includes", "House", "California", "Air", ",", "'s", ".", "district", "Luis", "-RRB-", "counties", "District", "since", "Congress", "Grimsrud", "San", "congressional", "-LRB-", "serves", "portion", "Committee", "County", "serving", "1998", "U.S.", "Party", "Energy", "2003", "Quality", "member", "22nd", "Health", "born", "Capps", "Ragnhild", "Barbara", "2013", "Obispo", "Representative" ],
+  "adjectives" : [ "24th", "22nd", "congressional", "23rd" ],
+  "nouns" : [ "district", "portion", "member" ],
+  "text" : "Lois Ragnhild Grimsrud Capps (born January 10, 1938) is the U.S. Representative for California's 24th congressional district, serving in Congress since 1998. She is a member of the Democratic Party. The district, numbered as the 22nd District from 1998 to 2003 and the 23rd from 2003 to 2013, includes all of Santa Barbara and San Luis Obispo counties and a portion of Ventura County. Capps serves on the U.S. House Committee on Energy and Commerce, where she is a member of the Energy and Air Quality Subcommittee and the Subcommittee on Health. She is a member of the New Democrat Coalition.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity11290",
+  "entityUrl" : "http://dbpedia.org/resource/Lucille_Roybal-Allard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-n2004-64493" ]
+  },
+  "words" : [ "Congress", "June", "congressional", "-LRB-", "redistricting", "Roybal-Allard", "2010", "Angeles", "serving", "Lucille", "U.S.", "Party", "1993", "member", "Since", "12", "Democratic", "born", "40th", "includes", "downtown", "California", ",", "'s", ".", "Los", "1941", "longer", "Elsa", "district", "-RRB-", "Representative", "since" ],
+  "adjectives" : [ "congressional", "40th" ],
+  "nouns" : [ "redistricting", "district", "member", "downtown" ],
+  "text" : "Lucille Elsa Roybal-Allard (born June 12, 1941) is the U.S. Representative for California's 40th congressional district, serving in Congress since 1993. She is a member of the Democratic Party. Since redistricting in 2010, the district no longer includes downtown Los Angeles.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity2740",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Collins_(U.S._politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "nc-collins%20chris" ]
+  },
+  "words" : [ "``", "New", "Politiker", "-LRB-", "York", "ist", "ein", "den", "1950", "US-Repräsentantenhaus", "Chris", "Bundesstaat", "US-amerikanischer", "Schenectady", "Christopher", "im", "Carl", "vertritt", "*", ",", "er", ".", "Collins", "Mai", "2013", "-RRB-", "Seit", "20" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Christopher Carl „Chris“ Collins (* 20. Mai 1950 in Schenectady, New York) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat New York im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity1634",
+  "entityUrl" : "http://dbpedia.org/resource/Brad_Sherman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-n2004-64482" ]
+  },
+  "words" : [ "``", "San", "24", "congressional", "-LRB-", "Bradley", "American", "30th", "United", "districts", "Angeles", "Representatives", "Brad", "County", "1954", "States", "represents", "1997", "October", "previously", "member", "Sherman", "represented", "''", "24th", "James", "within", "Democratic", "born", "politician", "House", "California", ",", "'s", ".", "27th", "Los", "currently", "Valley", "district", "-RRB-", "Fernando", "since" ],
+  "adjectives" : [ "24th", "congressional", "American", "Democratic", "30th", "27th" ],
+  "nouns" : [ "politician", "district", "member" ],
+  "text" : "Bradley James \"Brad\" Sherman (born October 24, 1954) is an American politician. He has been a Democratic member of the United States House of Representatives since 1997. He currently represents California's 30th congressional district within the San Fernando Valley, in Los Angeles County, California. Sherman previously represented the 24th and 27th congressional districts in Los Angeles County. He currently resides in Sherman Oaks.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity3522",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Heck",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-n85-141345" ]
+  },
+  "words" : [ "``", "Herrera", "defeated", "Staff", "United", "Republican", "States", "newly", "Denny", "won", "July", "ran", "3rd", "Democratic", "created", "1990", ",", "'s", ".", "Governor", "district", "served", "-RRB-", "Gardner", "since", "Booth", "congressional", "-LRB-", "American", "10th", "Chief", "Dennis", "29", "2012", "2010", "Jaime", "Beutler", "Washington", "1952", "R", "U.S.", "previously", "1993", "nominee", "Muri", "''", "L.", "Heck", "born", "politician", "Dick", "2013", "Representative", "defeating" ],
+  "adjectives" : [ "congressional", "American", "10th", "3rd", "Democratic", "Republican" ],
+  "nouns" : [ "politician", "district", "Heck", "nominee" ],
+  "text" : "Dennis \"Denny\" L. Heck (born July 29, 1952) is an American politician who has been the United States Representative for Washington's 10th congressional district since 2013. Heck was previously the Democratic nominee for U.S. Representative for the 3rd district in 2010, but was defeated by Jaime Herrera Beutler (R). In 2012 Heck ran and won in the newly created 10th district, defeating Republican Dick Muri. Heck served as Chief of Staff to Washington Governor Booth Gardner from 1990 to 1993. Previously, he was Majority Leader of the Washington State House of Representatives and Chief Clerk of the House. He founded and served as CEO of TVW, the state equivalent of C-SPAN. From 1999 to 2012, he served on the board of directors of Intrepid Learning Solutions, which he co-founded with Christopher Hedrick.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity6791",
+  "entityUrl" : "http://dbpedia.org/resource/Herman_Cain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-n96-68761" ]
+  },
+  "words" : [ "جورجيا", "موثقة", "-LRB-", "25بك", "أي", "بمصادر", "أميركي", "التشكيك", "رجل", "هيرمان", "المحتوى", "مارس", "١٩٤٥", "معلومات", "CAIN", "الاستشهاد", "هو", "من", "١٣", "أمريكية", "ديسمبر", "في", "ينقصه", "يمكن", "HERMAN", "أعمال", "ولد", "وإزالتها", ".", "موثوق", "هنا", "كاين", "2016", "يرجى", "-RRB-", "غير", "مصادر", "إيراد", "ولاية", "بها" ],
+  "adjectives" : [ ],
+  "nouns" : [ "جورجيا", "يرجى", "أي", "بمصادر", "وإزالتها" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) هيرمان كاين HERMAN CAIN (ولد في ١٣ ديسمبر ١٩٤٥) هو رجل أعمال أميركي من جورجيا (ولاية أمريكية). وهو الرئيس السابق والرئيس التنفيذي لشركة جودفاذر بيتزا Godfather's Pizza ورئيس مجلس إدارة بنك الاحتياطي الفدرالي في كانساس سيتي من (١٩٩٥-١٩٩٦) Federal Reserve Bank of Kansas City قبل عمله الوظيفي حيث عمل في رياضيات المقذوفات كموظف مدني في القوات البحرية للولايات المتحدة الأمريكية. وهو يعيش في ضواحي أتلانتا ، حيث كان يشغل منصب وزير مشارك في أنطاكية الكنيسة المعمدانية الشمالية. في يناير ٢٠١١، أعلن تشكيل لجنة اسكشافية لترشيحه للحملة الانتخابية الرئاسية عن الحزب الجمهوري لعام ٢٠١٢، و في ٢١ مايو ٢٠١١ أعلن رسمياً ترشيحه للانتخابات الرئاسية الأمريكية ٢٠١٢. وفي منتصف أكتوبر ٢٠١١، أشارت النتائج إلى حصول كاين على ٢٧% من نوايا التصويت متقدما على حاكم ولاية ماساتشوستس (ميت رومني) الذي حصل على ٢٣% فقط من نوايا التصويت في صفوف الناخبين الجمهوريين. ويعتبر كاين \"المحافظ المتشدد\" من أنصار خفض الضرائب إلى أدنى حد ممكن، ويدعو لاتباع خطة تعرف بخطة \"٩-٩-٩\" ترمي إلى التوصل لخفض نسبة الضرائب إلى ٩% على المواد الاستهلاكية وأرباح الشركات ودخل الأفراد. ويتوقع أن ينطلق سباق رئاسة الحزب الجمهوري بالثالث من يناير/ كانون الثاني المقبل مع اختيار مرشح آيوا، حيث تعقد الجمعيات الانتخابية التقليدية (كوكس) بتلك الولاية. مشاريع شقيقة في كومنز صور وملفات عن: هيرمان كاين",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity12023",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Bono",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-n2001-12923" ]
+  },
+  "words" : [ "Congress", "24", "congressional", "-LRB-", "replace", "Republican", "husband", "née", "died", "County", "serving", "1998", "October", "U.S.", "Party", "central", "previously", "late", "member", "Springs", "included", "Mary", "based", "eastern", "months", "born", "California", ",", "'s", "44th", "45th", "former", ".", "elected", "Bono", "1961", "district", "2013", "Palm", "Whitaker", "Mack", "-RRB-", "Sonny", "Representative", "formerly", "first", "Riverside" ],
+  "adjectives" : [ "congressional", "eastern", "central", "late", "45th", "former", "first" ],
+  "nouns" : [ "district", "member", "husband", "44th" ],
+  "text" : "Mary Bono (née Whitaker and formerly Mary Bono Mack, born October 24, 1961) is a former U.S. Representative for California's 45th congressional district, and previously the 44th, serving from 1998 to 2013. She was first elected to Congress to replace her late husband, Sonny Bono, who had died months before. She is a member of the Republican Party. Bono's district was based in Palm Springs and included most of central and eastern Riverside County. She sat on the Energy and Commerce Committee, and was Chairwoman for the Subcommittee on Commerce, Manufacturing and Trade. Bono was defeated in her bid for reelection in 2012 by Dr. Raul Ruiz. She was, at the time, the sole female Republican in California's congressional delegation, and until Congresswoman Mimi Walters was elected in November 2014, no other female Republican was part of the delegation. On March 19, 2013, Bono announced she was joining Washington, D.C.-based federal affairs firm FaegreBD Consulting as senior vice president. Now a principal, she focuses her government advocacy and consulting practice there on legislative, regulatory and policy matters related to the entertainment, media and information technology sectors. She also is a nationally recognized advocate for drug abuse prevention and treatment. Bono is married to former astronaut and retired Navy rear admiral Stephen S. Oswald.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity33",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Schiff",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:worldcat" : [ "lccn-n98-45964" ]
+  },
+  "words" : [ "22", "Congress", "June", "San", "congressional", "-LRB-", "Alhambra", "areas", "Glendale", "Pasadena", "U.S.", "Party", "Bennett", "2003", "member", "represented", "Districts", "included", "Democratic", "born", "2001", "South", "Altadena", "California", "City", ",", "'s", "29th", "28th", "Burbank", ".", "27th", "Park", "Adam", "Temple", "1960", "Schiff", "district", "served", "2013", "-RRB-", "Representative", "Gabriel", "Monterey", "since" ],
+  "adjectives" : [ "congressional", "29th", "28th", "27th" ],
+  "nouns" : [ "district", "member" ],
+  "text" : "Adam Bennett Schiff (born June 22, 1960) is the U.S. Representative for California's 28th congressional district. He has served in Congress since 2001. He is a member of the Democratic Party. Schiff represented the 27th and 29th Districts between 2003 and 2013, which included the areas of Alhambra, Altadena, San Gabriel, Burbank, Glendale, South Pasadena, Temple City, Monterey Park and Pasadena. In 2010, his district was re-districted to include new areas including Hollywood, Echo Park, Hollywood Hills, La Canada Flintridge, La Crescenta, Los Feliz, Silver Lake, Sunland-Tujunga, and West Hollywood, in addition to areas he represented before like Burbank, Glendale, and the western part of Pasadena. Schiff has become an influential voice for his party in the House of Representatives on foreign policy and national security issues. He serves as Ranking Member of the House Permanent Select Committee on Intelligence. He is currently on leave from the House Appropriations Committee which he joined in 2007. He previously served on the United States House Foreign Affairs Committee, and serves on the State, Foreign Operations, and Related Programs Subcommittee of the Appropriations Committee.",
+  "patterns" : { }
+} ]

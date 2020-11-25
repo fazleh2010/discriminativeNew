@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity17270",
+  "entityUrl" : "http://dbpedia.org/resource/Sid_Dinsdale",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:pretitle" : [ "Candidate for the U.S. Senate from Nebraska", "Chairman and President, Pinnacle Bancorp, Inc." ]
+  },
+  "words" : [ "``", "-LRB-", "Bancorp", "John", "Republican", "Pinnacle", "130", "Nebraska", "banking", "eight", "states", "1952", "candidate", "Inc.", "U.S.", "assets", "billion", "Dinsdale", "''", "$", "born", "Sidney", ",", ".", "Sid", "Senate", "-RRB-", "locations", "president", "7.6" ],
+  "adjectives" : [ "Republican" ],
+  "nouns" : [ "candidate", "president", "banking" ],
+  "text" : "John Sidney “Sid” Dinsdale (born 1952) was a Republican candidate for U.S. Senate in Nebraska. Dinsdale is president of Pinnacle Bancorp, Inc., with 130 banking locations in eight states and assets of $7.6 billion.",
+  "patterns" : { }
+} ]

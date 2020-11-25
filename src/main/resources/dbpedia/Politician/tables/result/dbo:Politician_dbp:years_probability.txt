@@ -1,0 +1,38 @@
+id=64  property=dbp:years  object=1906  NumberOfEntitiesFoundForObject=49
+baronet-NN  multiply=0.012889  P(baronet|object)=0.122449  P(object|baronet)=0.105263    
+unionist-JJ  multiply=0.012369  P(unionist|object)=0.122449  P(object|unionist)=0.10101    
+
+id=65  property=dbp:years  object=1918  NumberOfEntitiesFoundForObject=39
+unionist-JJ  multiply=0.01036  P(unionist|object)=0.102564  P(object|unionist)=0.10101    
+
+id=66  property=dbp:years  object=1945  NumberOfEntitiesFoundForObject=94
+labour-NN  multiply=0.179078  P(labour|object)=0.914894  P(object|labour)=0.195736    
+british-JJ  multiply=0.074796  P(british|object)=0.648936  P(object|british)=0.11526    
+
+id=67  property=dbp:years  object=1964  NumberOfEntitiesFoundForObject=31
+councillor-NN  multiply=0.042237  P(councillor|object)=0.419355  P(object|councillor)=0.100719    
+
+id=68  property=dbp:years  object=1868  NumberOfEntitiesFoundForObject=46
+english-JJ  multiply=0.042654  P(english|object)=0.391304  P(object|english)=0.109005    
+baronet-NN  multiply=0.016018  P(baronet|object)=0.152174  P(object|baronet)=0.105263    
+
+id=69  property=dbp:years  object=1880  NumberOfEntitiesFoundForObject=54
+daughter-NN  multiply=0.062062  P(daughter|object)=0.574074  P(object|daughter)=0.108108    
+english-JJ  multiply=0.040372  P(english|object)=0.37037  P(object|english)=0.109005    
+
+id=70  property=dbp:years  object=1876  NumberOfEntitiesFoundForObject=21
+19th-century-JJ  multiply=0.071429  P(19th-century|object)=0.714286  P(object|19th-century)=0.1    
+
+id=71  property=dbp:years  object=1871  NumberOfEntitiesFoundForObject=23
+19th-century-JJ  multiply=0.069293  P(19th-century|object)=0.652174  P(object|19th-century)=0.10625    
+
+id=72  property=dbp:years  object=1879  NumberOfEntitiesFoundForObject=22
+19th-century-JJ  multiply=0.071591  P(19th-century|object)=0.636364  P(object|19th-century)=0.1125    
+
+id=73  property=dbp:years  object=1885  NumberOfEntitiesFoundForObject=57
+english-JJ  multiply=0.046562  P(english|object)=0.350877  P(object|english)=0.132701    
+wife-NN  multiply=0.038986  P(wife|object)=0.350877  P(object|wife)=0.111111    
+
+id=74  property=dbp:years  object=1881  NumberOfEntitiesFoundForObject=24
+19th-century-JJ  multiply=0.0875  P(19th-century|object)=0.666667  P(object|19th-century)=0.13125    
+

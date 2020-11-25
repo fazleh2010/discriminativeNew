@@ -50,12 +50,11 @@ public class PatternCalculation {
     private Map<String, EntityPatternsOfAbstract.Pattern> linguisticPatterns = new TreeMap<String, EntityPatternsOfAbstract.Pattern>();
     private InterestingPattern interestingPattern;
     private String regEx = "(VB|VBD|VBG|VBN|VBP|VBZ|IN|NN|NNS|NNP|NNPS|JJ|JJR|JJS|TO|IN|)";
+    private String[] dir = new String[] {"tables/","selectedPatterns/","result/"};
 
-
-    public PatternCalculation(String dbpediaDir, String inputFile, String dbo_ClassName, String classDir,String patternDir) throws Exception {
-        String inputDir = dbpediaDir + classDir + patternDir;
-        this.allDBpediaPatterns = getAllElements(inputDir, inputFile, dbo_ClassName);        
-        this.interestingPattern=new InterestingPattern(analyzer, this.regEx,inputDir,allDBpediaPatterns);
+    public PatternCalculation(String inputDir,String inputFile, String dbo_ClassName) throws Exception {
+        this.allDBpediaPatterns = getAllElements(inputDir+dir[0], inputFile, dbo_ClassName);  
+        this.interestingPattern=new InterestingPattern(analyzer, this.regEx,inputDir+dir[1],allDBpediaPatterns);
         this.calculateProbability(inputDir, dbo_ClassName);
     }
     

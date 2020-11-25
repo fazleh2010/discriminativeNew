@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity14710",
+  "entityUrl" : "http://dbpedia.org/resource/Penny_Hulse",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:ward" : [ "http://dbpedia.org/resource/Waitākere_ward", "Waitākere" ]
+  },
+  "words" : [ "New", "Penny", "Zealand", "current", "deputy", "mayor", "politician", "Hulse", "Auckland", "." ],
+  "adjectives" : [ "current" ],
+  "nouns" : [ "deputy", "mayor", "politician" ],
+  "text" : "Penny Hulse is a New Zealand politician and the current deputy mayor of Auckland.",
+  "patterns" : { }
+} ]

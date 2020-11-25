@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity13787",
+  "entityUrl" : "http://dbpedia.org/resource/Neal_McCaleb",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termStar" : [ "January, 1995" ]
+  },
+  "words" : [ "``", "Nation", "-LRB-", "Chief", "American", "Secretary", "Oklahoma", "Chickasaw", "several", "United", "Republican", "Interior", "A.", "States", "President", "government", "George", "Assistant", "civil", "Bush", "McCaleb", "member", "state", "1935", "''", "Affairs", "Neal", "born", "politician", ",", "engineer", ".", "served", "W.", "-RRB-", "Indian", "position" ],
+  "adjectives" : [ "American", "civil", "several", "Republican" ],
+  "nouns" : [ "government", "politician", "member", "position", "state", "A.", "engineer" ],
+  "text" : "Neal A. \"Chief\" McCaleb (born 1935) is an American civil engineer and Republican politician from Oklahoma. A member of the Chickasaw Nation, McCaleb served as in several position with Oklahoma state government and as Assistant Secretary of the Interior for Indian Affairs under President of the United States George W. Bush.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity2061",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Stewart",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termStar" : [ "2012-09-05" ]
+  },
+  "words" : [ "worked", "Development", "provincial", "represented", "Assembly", "Minister", "'", "Benjamin", ",", "-", ".", "reappointed", "elected", "Columbia", "5", "-RRB-", "Parliament", "June", "39th", "-LRB-", "September", "Canadian", "2012", "March", "2011", "riding", "2010", "Stewart", "Open", "Westside-Kelowna", "2009", "October", "Party", "government", "Richard", "member", "Agriculture", "Rural", "British", "election", "Citizens", "Government", "Liberal", "politician", "Services", "2013", "Legislative", "cabinet", "first", "Community" ],
+  "adjectives" : [ "39th", "Canadian", "Legislative", "provincial", "first" ],
+  "nouns" : [ "election", "government", "Government", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Benjamin Richard Stewart is a Canadian politician, who represented the riding of Westside-Kelowna in the Legislative Assembly of British Columbia from 2009 to 2013 as a member of the British Columbia Liberal Party. He was first elected in the 2009 provincial election. In the 39th Parliament, as a member of the provincial government he worked as Minister of Citizens' Services (June 2009 - June 2010), Minister of Community and Rural Development (June 2010 - October 2010), and Minister of Agriculture (October 2010 - March 2011). On September 5, 2012, he was reappointed to cabinet as Minister of Citizens' Services and Open Government. In the 2011 BC Liberal Party leadership election he endorsed Kevin Falcon; following Christy Clark's victory, she made Stewart government whip. Stewart also served as a member of the cabinet priorities and planning committee and the legislative review committee. After re-election in the 2013 provincial election, he announced on June 5, 2013 resignation of his seat so that Clark, who was defeated in her own riding of Vancouver-Point Grey despite the party's victory provincewide, could contest the seat in a by-election. In October 2013, Premier Clark appointed Stewart as BC Special Representative in Asia, a position based in Beijing.",
+  "patterns" : { }
+} ]

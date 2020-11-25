@@ -1,0 +1,12 @@
+id=22  property=dbo:region  
+served-RB_VBN  multiply=0.071101  P(served|dbo:region)=0.191406  P(dbo:region|served)=0.371468    
+served_member-VBD_NN  multiply=0.061199  P(served_member|dbo:region)=0.119673  P(dbo:region|served_member)=0.511381    
+member-RB_NN  multiply=0.041953  P(member|dbo:region)=0.132812  P(dbo:region|member)=0.315878    
+served_in-VBN_IN  multiply=0.038017  P(served_in|dbo:region)=0.096236  P(dbo:region|served_in)=0.395044    
+previously_served-RB_VBN  multiply=0.030802  P(previously_served|dbo:region)=0.073509  P(dbo:region|previously_served)=0.419028    
+served_alderman-VBD_NN  multiply=0.03049  P(served_alderman|dbo:region)=0.069957  P(dbo:region|served_alderman)=0.435841    
+served_cook-VBD_NN  multiply=0.02951  P(served_cook|dbo:region)=0.067827  P(dbo:region|served_cook)=0.43508    
+served_37th-VBD_JJ  multiply=0.029443  P(served_37th|dbo:region)=0.067827  P(dbo:region|served_37th)=0.434091    
+served_deputy-VBD_NN  multiply=0.028791  P(served_deputy|dbo:region)=0.069247  P(dbo:region|served_deputy)=0.415778    
+served_on-VBN_IN  multiply=0.028528  P(served_on|dbo:region)=0.070312  P(dbo:region|served_on)=0.405738    
+

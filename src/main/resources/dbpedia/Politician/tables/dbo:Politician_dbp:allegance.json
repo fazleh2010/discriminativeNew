@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity3250",
+  "entityUrl" : "http://dbpedia.org/resource/Clapp_Raymond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:allegance" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "June", "Raymond", "-LRB-", "May", "Rebecca", "Representatives", "1778", "1732", "October", "1775", "1795", "member", "Clapp", "February", "1779", "1757", "inspection", "--", "Betts", "sessions", "committee", "born", "fire-arms", "House", ",", ".", "August", "appointed", "Norwalk", "4", "1783", "Connecticut", "-RRB-", "married", "20" ],
+  "adjectives" : [ ],
+  "nouns" : [ "committee", "member", "inspection" ],
+  "text" : "Clapp Raymond (June 20, 1732 – 1795) was a member of the Connecticut House of Representatives from Norwalk in the sessions of May and October 1778, October 1779, and October 1783. He was born June 20, 1732. He married Rebecca Betts on August 4, 1757. In February 1775, he was appointed to a committee for the inspection of fire-arms. In 1780 was on a committee constituted by the Legislature to run a line for the boundary of a religious society. Clapp Raymond died in 1795, and was buried in Ballston Spa, New York.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity1524",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Canova",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:allegance" : [ "http://dbpedia.org/resource/Confederate_States_of_America" ]
+  },
+  "words" : [ "-LRB-", "palm", "hut", "moved", "War", "Adventures", "County", "October", "December", "thatch", "Third", "settler", "River", "Seminole", "lived", "near", "30", "1858", "P.", "1835", "--", "Andrew", "17", "1909", "author", "settled", "South", ",", "Florida", ".", "mouth", "veteran", "Canova", "-RRB-", "Life", "Brevard", "Fall", "Bay", "river", "Tampa", "Sebastian" ],
+  "adjectives" : [ ],
+  "nouns" : [ "mouth", "veteran", "thatch", "author", "palm", "hut", "settler", "Fall", "river" ],
+  "text" : "Andrew P. Canova (October 30, 1835 – December 17, 1909) was a Florida settler and author of Life and Adventures in South Florida. He was a veteran of the Third Seminole War. In Fall of 1858, he moved from Tampa Bay to Brevard County where he settled on the Sebastian River. He lived in a palm thatch hut near the mouth of the river. He, along with Ed Marr, hunted, fished and raised onions in a small garden. He started to cultivate citrus, but was impatient and abandoned that project. Canova went to St. Augustine to enlist in the Confederate Army in 1861. In 1885 he wrote Life and Adventures in South Florida, in which he lamented the demise of wildlife in the Indian River area.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity9015",
+  "entityUrl" : "http://dbpedia.org/resource/John_Bannerman,_Baron_Bannerman_of_Kildonan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:university" : [ "http://dbpedia.org/resource/University_of_Glasgow", "http://dbpedia.org/resource/Balliol_College", "Cornell University" ]
+  },
+  "words" : [ "Macdonald", "de", "Pas", "politique", "est", "libéral", "John", "Glasgow", "période", "durant", "victoires", "d'image", "ici", "parti", "sol", "du", "des", "écossais", "un", "poste", "deuxième", "les", "Matchs", "officiels", "1er", "10", "années", "baron", "ayant", "Kildonan", "rugby", "uniquement.b", "en", ",", "dans", "Nations", ".", "et", "homme", "occupé", "4", "-RRB-", "né", "1901", "?", "faste", "-LRB-", "Il", "joueur", "Tidworth", "Tournoi", "avril", "Cliquez", "officielles", "sur", "Bannerman", "Compétitions", "septembre", "mort", "Hampshire", "aussi", "sélection", "écossaise", "à", "ligne", "celle-ci", "continentales", "Cinq", "1920", "uniquement", "anglais", "1929", "nationales", "le", "1969", "XV" ],
+  "adjectives" : [ "ayant", "rugby", "libéral", "uniquement.b", "un", "durant", "1er" ],
+  "nouns" : [ "baron", "à", "faste", "Il", "politique", "est", "période", "avril", "parti", "uniquement", "homme", "occupé", "septembre", "écossais", "né", "sélection", "XV", "écossaise" ],
+  "text" : "John Bannerman Pas d'image ? Cliquez ici a Compétitions nationales et continentales officielles uniquement.b Matchs officiels uniquement. John Macdonald Bannerman, né le 1er septembre 1901 à Glasgow et mort le 10 avril 1969 à Tidworth (Hampshire) sur le sol anglais, baron Bannerman de Kildonan, est un joueur de rugby à XV écossais ayant occupé le poste de deuxième ligne en sélection écossaise durant les années 1920, période faste de celle-ci dans le Tournoi des Cinq Nations (4 victoires de 1920 à 1929). Il est aussi un homme politique du parti libéral écossais.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity274",
+  "entityUrl" : "http://dbpedia.org/resource/Anwara_Taimur",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:university" : [ "http://dbpedia.org/resource/University_of_Delhi" ]
+  },
+  "words" : [ "Congress", "June", "leader", "24", "-LRB-", "woman", "Assam", "Chief", "Committee", "Muslim", "Taimur", "December", "National", "Syeda", "AICC", "member", "state", "1936", "female", "30", "Minister", "November", "minister", "chief", "born", "also", "history", ",", ".", "India", "Anwara", "6", "1981", "1980", "-RRB-", "Indian", "party", "first" ],
+  "adjectives" : [ "chief", "Indian", "Muslim", "first" ],
+  "nouns" : [ "leader", "woman", "minister", "member", "state", "history", "female", "party" ],
+  "text" : "Syeda Anwara Taimur (born 24 November 1936) was the chief minister of the Indian state of Assam from 6 December 1980 to 30 June 1981. She is a leader of the Indian National Congress party in Assam and a member of the All India Congress Committee (AICC). In the history of Assam, she is the only female and Muslim Chief Minister of the state. In Indian history also, Syeda Anwara Taimur is the first Muslim woman Chief Minister of any state. Her term as chief minister ended when the state was put under president's rule for six months. From 1983 to 1985 she was the PWD minister of the same state. Anwara was lecturer in Economics in Debicharan Barua Girls College, Jorhat in 1956. She was an elected member of the Assam Assembly (MLA) in 1972, 1978, 1983, and 1991. In 1988 she was nominated to the Indian Parliament (Rajya Sabha). In 1991 she was appointed to the post of Minister for Agriculture in Assam. She graduated from Aligarh Muslim University with economics honors. Anwara joined All India United Democratic Front in 2011.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity10793",
+  "entityUrl" : "http://dbpedia.org/resource/K._H._Muniyappa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:referredBy" : [ "Mallikarjuna Reddy -Guinness World Record" ]
+  },
+  "words" : [ "Congress", "Dr.", "-LRB-", "consecutively", "Muniyappa", "March", "political", "Micro", "K.H.", "Kolar", "16th", "Union", "Sabha", "National", "Karnataka", "1991", "member", "represented", "Minister", "charge", "Small", "born", "Lok", ",", ".", "India", "Independent", "constituency", "State", "Medium", "7", "-RRB-", "Indian", "Enterprises", "1948", "party", "since", "INC" ],
+  "adjectives" : [ "political", "16th" ],
+  "nouns" : [ "Sabha", "charge", "constituency", "member", "Lok", "party" ],
+  "text" : "Dr. K.H. Muniyappa (born 7 March 1948) is a member of the 16th Lok Sabha of India. He has consecutively represented the Kolar constituency of Karnataka in the Lok Sabha since 1991 and is a member of the Indian National Congress (INC) political party. He was the Union Minister of State (Independent charge) of Minister of Micro, Small and Medium Enterprises.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity8024",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Bradley_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:hide" : [ "--06-24" ]
+  },
+  "words" : [ "-LRB-", "Catharines", "Bradley", "riding", "St.", "Peterson", "represents", "Dalton", "member", "provincial", "long-time", "February", "cabinets", "Assembly", "Kathleen", "1977", "Wynne", "McGuinty", "James", "J.", "Liberal", "born", "politician", "19", ",", ".", "Jim", "elected", "Canada", "served", "-RRB-", "David", "Legislative", "Ontario", "1945" ],
+  "adjectives" : [ "Liberal", "Legislative", "provincial", "long-time" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "James J. (Jim) Bradley (born February 19, 1945) is a politician in Ontario, Canada. He is a long-time Liberal member of the Legislative Assembly of Ontario who was elected in 1977. He represents the riding of St. Catharines. He has served in the provincial cabinets of David Peterson, Dalton McGuinty and Kathleen Wynne.",
+  "patterns" : { }
+} ]

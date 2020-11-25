@@ -1,0 +1,8 @@
+id=31  property=dbp:align  object=left  NumberOfEntitiesFoundForObject=46
+new-JJ  multiply=0.190871  P(new|object)=1.0  P(object|new)=0.190871    
+member-NN  multiply=0.161031  P(member|object)=0.869565  P(object|member)=0.185185    
+
+id=32  property=dbp:align  object=right  NumberOfEntitiesFoundForObject=204
+new-JJ  multiply=0.773432  P(new|object)=0.955882  P(object|new)=0.809129    
+parliament-NN  multiply=0.710989  P(parliament|object)=0.867647  P(object|parliament)=0.819444    
+

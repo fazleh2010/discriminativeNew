@@ -1,0 +1,109 @@
+[ {
+  "entityIndex" : "1_entity9753",
+  "entityUrl" : "http://dbpedia.org/resource/James_Farmer_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Richard_Bollard" ]
+  },
+  "words" : [ "New", "-LRB-", "defeated", "29", "Council", "1874", "Raglan", "1871", "1870", "represented", "retired", "electorate", "July", "95", "1859", "Member", "19th-century", "resigned", "--", "Onehunga", "James", ",", "Waikato", ".", "appointed", "Zealand", "3", "1860", "served", "-RRB-", "Region", "Legislative", "Marsden", "Farmer", "Parliament", "1823", "1867" ],
+  "adjectives" : [ "Legislative", "19th-century" ],
+  "nouns" : [ "Onehunga", "electorate", "Council" ],
+  "text" : "James Farmer (1823–95) was a 19th-century Member of Parliament in the Waikato Region, New Zealand. He represented the Marsden electorate from 1859 to 1860 (when he was defeated for Onehunga), and then the Raglan electorate from 1867 to 1870, when he retired. He was appointed to the Legislative Council on 3 July 1871, and served until he resigned on 29 July 1874.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity19091",
+  "entityUrl" : "http://dbpedia.org/resource/William_Henry_Leatham",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Sir_John_Dalrymple-Hay,_3rd_Baronet" ]
+  },
+  "words" : [ "--", "British", "-LRB-", "14", "Liberal", "politician", "Leatham", "William", "banker", ",", ".", "6", "-RRB-", "poet", "July", "1815", "Henry", "November", "1889" ],
+  "adjectives" : [ "British", "Liberal" ],
+  "nouns" : [ "politician", "poet", "banker" ],
+  "text" : "William Henry Leatham (6 July 1815 – 14 November 1889) was a British banker, poet and Liberal politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity19232",
+  "entityUrl" : "http://dbpedia.org/resource/William_Barron_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Arthur_Morrison_(politician)" ]
+  },
+  "words" : [ "June", "New", "St", "-LRB-", "Freemasons", "Scotland", "miner", "engaging", "arrived", "Barron", "1851", "1916", "1837", "Member", "Lodge", "19th-century", "--", "business", "16", "Andrews", "spent", "merchant", "Otago", "William", ",", "Dunedin", ".", "Master", "Grand", "Zealand", "goldfields", "Born", "served", "-RRB-", "time", "Parliament", "first" ],
+  "adjectives" : [ "19th-century" ],
+  "nouns" : [ "business", "merchant", "time", "miner" ],
+  "text" : "William Barron (1837 – 16 June 1916) was a 19th-century Member of Parliament from Dunedin, New Zealand. Born in St Andrews, Scotland in 1837, Barron arrived in New Zealand in 1851. He first spent time as a miner and merchant on the Otago goldfields before engaging in business in Dunedin. He served as Grand Master of the New Zealand Lodge of Freemasons. He represented the Caversham electorate from 1879 to 1890, when he retired.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity19450",
+  "entityUrl" : "http://dbpedia.org/resource/William_Battie-Wrightson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Charles_Evelyn_Pierrepont,_Viscount_Newark", "http://dbpedia.org/resource/Arthur_Duncombe_(1806–1889)" ]
+  },
+  "words" : [ "-LRB-", "Trinity", "trained", "called", "father", "Inn", "elder", "Cambridge", "October", "bar", "son", "Aylesbury", "near", "Lincoln", "1815", "February", "1879", "10", "1812", "--", "British", "MP", "law", "Wrightson", "Whig", "politician", "estate", "Cusworth", "William", ",", "'s", ".", "1789", "educated", "Doncaster", "6", "-RRB-", "College", "Hall", "1827", "Battie-Wrightson", "landowner", "succeeded" ],
+  "adjectives" : [ "British", "Whig" ],
+  "nouns" : [ "bar", "son", "MP", "law", "politician", "father", "estate", "landowner" ],
+  "text" : "William Battie-Wrightson (6 October 1789 – 10 February 1879) was a British landowner and Whig politician. He was the elder son of William Wrightson of Cusworth Hall, near Doncaster, MP for Aylesbury. Battie-Wrightson was educated at Trinity College, Cambridge (1812) and trained for the law at Lincoln's Inn, being called to the bar in 1815. He succeeded his father to the Cusworth estate in 1827. He was elected MP for East Retford in 1826 and then sat for Hull from 1830 to 1832 and for Northallerton from 1835 to 1865. He married Georgiana, the daughter of Inigo Freeman Thomas of Ratton Park, Sussex.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity2410",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Calvert,_3rd_Baron_Baltimore",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Charles_Calvert,_5th_Baron_Baltimore" ]
+  },
+  "words" : [ "charter", "leading", "England", "withdrawn", "upon", "would", "Glorious", "events", "--", "Charles", "3rd", "Deputy", "However", ",", "'s", ".", "Calvert", "August", "Governor", "never", "left", "1661", "following", "-RRB-", ";", "Maryland", "21", "since", "24", "-LRB-", "colony", "death", "27", "father", "direct", "rule", "title", "arrived", "1675", "Cecil", "Baron", "February", "1715", "1637", "British", "cost", "2nd", "1689", "1688", "Crown", "Baltimore", "inherited", "1684", "1605", "royal", "age", "return", "Revolution" ],
+  "adjectives" : [ "British", "3rd", "2nd", "Glorious" ],
+  "nouns" : [ "Crown", "colony", "death", "charter", "father", "rule", "title", "royal", "age", "Revolution" ],
+  "text" : "Charles Calvert, 3rd Baron Baltimore (August 27, 1637 – February 21, 1715), inherited the colony in 1675 upon the death of his father, Cecil Calvert, 2nd Baron Baltimore, (1605–1675). He had been his father's Deputy Governor since 1661 when he arrived in the colony at the age of 24. However, Charles left Maryland for England in 1684 and would never return. The events following the Glorious Revolution in England in 1688 would cost Calvert his title to Maryland; in 1689 the royal charter to the colony was withdrawn, leading to direct rule by the British Crown. Calvert's political problems were largely caused by his Roman Catholic faith which was at odds with the established Church of England. Calvert married four times, outliving three wives, and had at least two children. He died in England in 1715 at the age of 78, his family fortunes much diminished. With his death he passed his title, and his claim to Maryland, to his second son Benedict Leonard Calvert, 4th Baron Baltimore (1679–1715), his eldest son Cecil having died young. However, Benedict Calvert would outlive his father by just two months, and It would fall to Charles' grandson, Charles Calvert, 5th Baron Baltimore, (1699–1751), (who converted to the Anglican faith) to see the family proprietorship in Maryland restored by the king.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity2676",
+  "entityUrl" : "http://dbpedia.org/resource/Christopher_Pyne",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Fiona_Nash" ]
+  },
+  "words" : [ "Politiker", "die", "Pyne", "ist", "den", "dem", "der", "australischer", "des", "abschloss", "gewählt", "Laws", "wurde", "das", "Sturt", "besuchte", "13", "im", "*", ",", "er", ".", "August", "Alter", "University", "-RRB-", "College", "-LRB-", "25", "Adelaide", "ein", "Er", "welche", "Party", "von", "Australischen", "1993", "mit", "Wahlkreis", "für", "Ignatius", "Christopher", "Liberal", "South", "und", "Bachelor", "ins", "Mitglied", "Australia", "1967", "Repräsentantenhauses", "Saint" ],
+  "adjectives" : [ "welche", "Repräsentantenhauses" ],
+  "nouns" : [ "im", "und", "ist", "ein", "den", "Bachelor", "er", "Er", "australischer", "abschloss", "von", "gewählt", "Laws", "wurde", "mit", "für", "besuchte" ],
+  "text" : "Christopher Pyne (* 13. August 1967 in Adelaide) ist ein australischer Politiker der Liberal Party of Australia und Mitglied des Australischen Repräsentantenhauses. 1993 wurde er im Alter von 25 für den Wahlkreis Sturt, South Australia, ins Repräsentantenhauses gewählt. Er besuchte das Saint Ignatius College und die University of Adelaide, welche er mit dem Bachelor of Laws abschloss.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity1653",
+  "entityUrl" : "http://dbpedia.org/resource/Bronwyn_Bishop",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Warren_Snowdon" ]
+  },
+  "words" : [ "New", "held", "Wales", "née", "office", "Industry", "Howard", "terms", "represented", "Minister", "12", "19", "outer", "2001", "House", ",", "Earlier", "Bronwyn", "former", ".", "Care", "August", "1987", "1942", "2", "Mackellar", "Senate", "served", "-RRB-", ";", "ministry", "Bishop", "-LRB-", "Science", "Representatives", "Personnel", "two", "serving", "1998", "holding", "October", "1996", "Party", "1994", "member", "Setright", "Division", "Kathleen", "Speaker", "November", "Government", "Liberal", "born", "politician", "representing", "South", "portfolios", "29th", "2016", "2015", "Australian", "2013", "Aged", "first", "Defence" ],
+  "adjectives" : [ "Australian", "outer", "née", "29th", "former", "first" ],
+  "nouns" : [ "politician", "member", "Setright", "Division", "office", "ministry" ],
+  "text" : "Bronwyn Kathleen Bishop (née Setright; born 19 October 1942) is a former Australian politician who was the 29th Speaker of the House of Representatives, holding the office between 12 November 2013 and 2 August 2015. Bishop served as a member of the Australian House of Representatives for the Liberal Party, representing the Division of Mackellar in New South Wales from 1994 to 2016. Earlier, between 1987 and 1994, she represented New South Wales in the Senate. Bishop held portfolios in the outer ministry during the first two terms of the Howard Government, serving as Minister for Defence Industry, Science and Personnel from 1996 to 1998 and as Minister for Aged Care from 1998 to 2001. In October 2014, she surpassed Kathy Sullivan's record for the longest period of parliamentary service by a woman. From July 2015, Bishop was subject to sustained intense media and public scrutiny regarding her use of parliamentary entitlements, including a helicopter charter to a party fundraiser during her time as speaker. Although Prime Minister Tony Abbott had originally been one of her strongest allies, she eventually lost his support, resigning from the speakership and moving to the backbench on 2 August to be replaced as speaker by Tony Smith. On 16 April 2016, Bishop was defeated by Jason Falinski in a Liberal Party preselection ballot (51 votes to 39) for the Division of Mackellar at the 2016 federal election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity1733",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Debus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Gerry_Peacocke" ]
+  },
+  "words" : [ "``", "New", "Attorney-General", "held", "Wales", "John", "governments", "retirement", "Arts", "Bob", "Robert", "represented", "state", "Assembly", "Minister", "minister", "16", "House", ",", "former", ".", "1943", "NSW", "1981", "served", "-RRB-", "Environment", ";", "Parliament", "1988", "-LRB-", "September", "2010", "Representatives", "Labor", "Mountains", "Debus", "2007", "Party", "1995", "member", "electorate", "''", "election", "Blue", "born", "politician", "South", "representing", "portfolios", "Australian", "Legislative" ],
+  "adjectives" : [ "New", "Blue", "Australian", "Legislative", "former" ],
+  "nouns" : [ "election", "minister", "politician", "member", "Environment", "state", "electorate", "retirement", "Assembly" ],
+  "text" : "Robert John \"Bob\" Debus AM (born 16 September 1943), a former Australian politician, has been a member of the Australian House of Representatives and the New South Wales Legislative Assembly, representing the Australian Labor Party. Debus has been a minister in both the Australian and New South Wales governments. He served in the NSW Parliament from 1981 to 1988 and again from 1995 to 2007; and in the Australian Parliament from 2007 to 2010. Before his retirement from the NSW Parliament, at the 2007 state election, he held the portfolios of Attorney-General, Minister for the Environment, and Minister for the Arts; and represented the Blue Mountains electorate. Prior to his retirement from the Australian Parliament, at the 2010 federal election, he was Minister for Home Affairs in the Rudd Ministry; and served as Member for Macquarie. Debus is a prominent member of Labor's Socialist Left faction. On 6 June 2009, Bob Debus announced his resignation from the ministry and his retirement. He did not contest the 2010 federal election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity4017",
+  "entityUrl" : "http://dbpedia.org/resource/David_Arblaster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Neville_Wran" ]
+  },
+  "words" : [ "New", "-LRB-", "Eric", "Wales", "retirement", "Tourism", "1976", "Sport", "2006", "1972", "Arblaster", "lost", "Minister", "Culture", "Assembly", "November", "10", "--", "election", "16", "Liberal", "politician", "South", ",", ".", "Amos", "August", "elected", "Electoral", "Willis", "1984", "Recreation", "district", "served", "David", "1929", "-RRB-", "Legislative", "cabinet", "Sir", "party", "Mosman" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "election", "politician", "district", "retirement", "cabinet", "party", "Assembly" ],
+  "text" : "David Amos Arblaster, (16 November 1929 – 10 August 2006) was a New South Wales politician, Minister for Culture, Sport and Recreation and Minister for Tourism in the cabinet of Sir Eric Willis until the Liberal party lost the 1976 election. Arblaster was elected to the New South Wales Legislative Assembly for the Electoral district of Mosman in 1972 and served until his retirement in 1984.",
+  "patterns" : { }
+} ]

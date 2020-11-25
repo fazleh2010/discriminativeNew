@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity12457",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Salas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:husband" : [ "Sal Salas" ]
+  },
+  "words" : [ "Vista", "held", "2012", "2010", "Council", "Salas", "79th", "1996", "2006", "previously", "2004", "lost", "member", "represented", "Assembly", "ran", "Mary", "Chula", "politician", "California", "City", ",", ".", "former", "elected", "Senate", "State", "position", "District" ],
+  "adjectives" : [ "former", "79th" ],
+  "nouns" : [ "politician", "member", "position", "District", "Assembly" ],
+  "text" : "Mary Salas is a California politician from Chula Vista, California. She is a former California Assembly member who represented the 79th Assembly District from 2006 to 2010. She ran for the California State Senate in 2010 but lost. In 2012 she was elected to the Chula Vista City Council, a position she previously held from 1996 to 2004. She was elected Mayor of the city of Chula Vista in 2014.",
+  "patterns" : { }
+} ]

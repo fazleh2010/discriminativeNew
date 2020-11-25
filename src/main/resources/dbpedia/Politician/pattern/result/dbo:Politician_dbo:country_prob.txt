@@ -1,0 +1,12 @@
+id=7  property=dbo:country  
+elected-VBN  multiply=0.019243  P(elected|dbo:country)=0.101455  P(dbo:country|elected)=0.189667    
+elected_member-VBN_NN  multiply=0.019111  P(elected_member|dbo:country)=0.043636  P(dbo:country|elected_member)=0.437956    
+member-RB_NN  multiply=0.017986  P(member|dbo:country)=0.088  P(dbo:country|member)=0.204392    
+reelected_at-VBN_IN  multiply=0.010823  P(reelected_at|dbo:country)=0.027273  P(dbo:country|reelected_at)=0.396825    
+elected_at-VBN_IN  multiply=0.010764  P(elected_at|dbo:country)=0.026909  P(dbo:country|elected_at)=0.4    
+served-RB_VBN  multiply=0.007243  P(served|dbo:country)=0.061818  P(dbo:country|served)=0.117161    
+member_of-NN_IN  multiply=0.004312  P(member_of|dbo:country)=0.032  P(dbo:country|member_of)=0.134763    
+served_in-VBN_IN  multiply=0.004105  P(served_in|dbo:country)=0.032  P(dbo:country|served_in)=0.12828    
+returned_to-VBN_TO  multiply=0.00363  P(returned_to|dbo:country)=0.008364  P(dbo:country|returned_to)=0.433962    
+stand_for-VB_IN  multiply=0.002909  P(stand_for|dbo:country)=0.002909  P(dbo:country|stand_for)=1.0    
+

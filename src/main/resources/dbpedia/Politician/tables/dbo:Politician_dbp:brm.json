@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity15084",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Williams_(U.S._politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:brm" : [ "willia005rog" ]
+  },
+  "words" : [ "congressional", "-LRB-", "September", "American", "Secretary", "Previously", "John", "Perry", "2007", "Williams", "U.S.", "2004", "Rick", "July", "November", "Roger", "25th", "13", "born", "politician", ",", "'s", ".", "Governor", "1", "Texas", "State", "district", "2013", "served", "-RRB-", "1949", "Representative", "since" ],
+  "adjectives" : [ "25th", "congressional", "American" ],
+  "nouns" : [ "politician", "district" ],
+  "text" : "John Roger Williams (born September 13, 1949) is an American politician who has been the U.S. Representative for Texas's 25th congressional district since 2013. Previously, he served under Governor Rick Perry as Secretary of State of Texas from November 2004 to July 1, 2007.",
+  "patterns" : { }
+} ]

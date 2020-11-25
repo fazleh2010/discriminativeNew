@@ -29,7 +29,6 @@ public class InterestingPattern {
     private Map<String, Map<Integer, String>> contexWordSortedPredicateMap = new TreeMap<String, Map<Integer, String>>();
     private Map<String, List<EntityPatternsOfAbstract.Pattern>> predicateContextWordsMap = new TreeMap<String, List<EntityPatternsOfAbstract.Pattern>>();
     private Map<String, List<EntityTriple.Triple>> ContextWordsPredicateMap = new TreeMap<String, List<EntityTriple.Triple>>();
-    private static String SELECTED_PATTERNS = "selectedPatterns/";
     private final String PREDICATE_CONTEXT_WORD = "predicateContext";
     private final String CONTEXT_WORD_PREDICATE = "contextPredicate";
     
@@ -38,10 +37,10 @@ public class InterestingPattern {
     private String regEx = null;
 
     
-    public InterestingPattern(Analyzer analyzer, String regEx,String inputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
+    public InterestingPattern(Analyzer analyzer, String regEx,String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
         this.analyzer = analyzer;
         this.regEx=regEx;
-        this.outputDir = inputDir + SELECTED_PATTERNS;
+        this.outputDir = outputDir;
         this.findMatchBetweenTriplePattern(allDBpediaPatterns,PREDICATE_CONTEXT_WORD);
         this.findDictionaryFromMatch();
         this.writeInFiles(outputDir +PREDICATE_CONTEXT_WORD+".txt",outputDir +PREDICATE_CONTEXT_WORD+".json");

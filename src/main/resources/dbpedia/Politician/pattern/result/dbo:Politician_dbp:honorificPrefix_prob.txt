@@ -1,0 +1,6 @@
+id=45  property=dbp:honorificPrefix  
+became-VBD  multiply=0.004095  P(became|dbp:honorificPrefix)=0.028777  P(dbp:honorificPrefix|became)=0.142292    
+elected_to-VBN_TO  multiply=0.002114  P(elected_to|dbp:honorificPrefix)=0.038369  P(dbp:honorificPrefix|elected_to)=0.055109    
+first_elected-RB_VBN  multiply=0.001548  P(first_elected|dbp:honorificPrefix)=0.017586  P(dbp:honorificPrefix|first_elected)=0.088    
+retired-VBN  multiply=5.64E-4  P(retired|dbp:honorificPrefix)=0.004796  P(dbp:honorificPrefix|retired)=0.117647    
+

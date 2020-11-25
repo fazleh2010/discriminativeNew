@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity2751",
+  "entityUrl" : "http://dbpedia.org/resource/Cyril_Foray",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:ethnicGroup" : [ "http://dbpedia.org/resource/Mende" ]
+  },
+  "words" : [ "Professor", "--", "-LRB-", "16", "politician", "March", "historian", "Sierra", ",", "educator", ".", "Foray", "Patrick", "2003", "Cyril", "-RRB-", "Leonean", "diplomat", "July", "1934", "31" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "historian", "diplomat", "educator" ],
+  "text" : "Professor Cyril Patrick Foray (16 March 1934 – 31 July 2003) was a Sierra Leonean educator, politician, diplomat and historian.",
+  "patterns" : { }
+} ]

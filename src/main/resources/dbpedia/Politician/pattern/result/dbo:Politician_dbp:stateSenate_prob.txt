@@ -1,0 +1,12 @@
+id=71  property=dbp:stateSenate  
+currently_serving-RB_VBG  multiply=0.011959  P(currently_serving|dbp:stateSenate)=0.044248  P(dbp:stateSenate|currently_serving)=0.27027    
+serves_in-VBZ_IN  multiply=0.004609  P(serves_in|dbp:stateSenate)=0.022124  P(dbp:stateSenate|serves_in)=0.208333    
+running_in-VBG_IN  multiply=0.004425  P(running_in|dbp:stateSenate)=0.004425  P(dbp:stateSenate|running_in)=1.0    
+practicing_dentist-VBG_NN  multiply=0.004425  P(practicing_dentist|dbp:stateSenate)=0.004425  P(dbp:stateSenate|practicing_dentist)=1.0    
+hired_speech-VBN_NN  multiply=0.004425  P(hired_speech|dbp:stateSenate)=0.004425  P(dbp:stateSenate|hired_speech)=1.0    
+served-RB_VBN  multiply=0.003952  P(served|dbp:stateSenate)=0.159292  P(dbp:stateSenate|served)=0.02481    
+member_of-NN_IN  multiply=0.00328  P(member_of|dbp:stateSenate)=0.097345  P(dbp:stateSenate|member_of)=0.033691    
+earned_bachelor-VBN_NN  multiply=0.002528  P(earned_bachelor|dbp:stateSenate)=0.00885  P(dbp:stateSenate|earned_bachelor)=0.285714    
+served_in-VBN_IN  multiply=0.002328  P(served_in|dbp:stateSenate)=0.084071  P(dbp:stateSenate|served_in)=0.027697    
+calls_himself-NNS_PRP  multiply=0.002212  P(calls_himself|dbp:stateSenate)=0.004425  P(dbp:stateSenate|calls_himself)=0.5    
+

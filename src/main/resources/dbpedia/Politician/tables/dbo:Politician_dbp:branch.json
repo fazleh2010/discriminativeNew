@@ -1,0 +1,265 @@
+[ {
+  "entityIndex" : "1_entity8246",
+  "entityUrl" : "http://dbpedia.org/resource/John_Johns_Trigg",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Virginia State Militia" ]
+  },
+  "words" : [ "Congress", "-LRB-", "May", "American", "militia", "fought", "John", "War", "County", "U.S.", "1797", "represented", "--", "17", "politician", ",", "Johns", ".", "Revolutionary", "-RRB-", "farmer", "Bedford", "1804", "1748", "Virginia", "Trigg" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "militia", "politician", "farmer" ],
+  "text" : "John Johns Trigg (1748 – May 17, 1804) was an American farmer and politician from Bedford County, Virginia. He fought with the Virginia militia in the Revolutionary War and represented Virginia in the U.S. Congress from 1797 until 1804.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8274",
+  "entityUrl" : "http://dbpedia.org/resource/John_Tipton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Militia" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Indiana", "Tennessee", "bei", "John", "ein", "den", "Er", "Logansport", "Demokratische", "Sevierville", "1839", "Bundesstaat", "Shields", "US-amerikanischer", "†", "vertrat", "14", "im", "Partei", "war", "*", "und", "Tipton", ",", ".", "April", "August", "1786", "Armeeoffizier", "US-Senat", "5", "-RRB-", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "vertrat", "im", "Partei", "war", "und", "ein", "den", "Er", "Demokratische", "Armeeoffizier", "US-Senat", "US-amerikanischer" ],
+  "text" : "John Shields Tipton (* 14. August 1786 bei Sevierville, Tennessee; † 5. April 1839 in Logansport, Indiana) war ein US-amerikanischer Armeeoffizier und Politiker (Demokratische Partei). Er vertrat den Bundesstaat Indiana im US-Senat. Der im heutigen Sevier County geborene Tipton verlor schon früh seinen Vater, der von Indianern getötet wurde. Sein Großonkel, der ebenfalls John Tipton hieß, gehörte zu den prominenten Persönlichkeiten des Gebietes, weshalb er zeitweise zum Ziel von Aktionen der Anhänger eines von Tennessee unabhängigen State of Franklin wurde. Als er 17 Jahre alt war, zog John Tipton ins Harrison County im Indiana-Territorium. Dort heiratete er 1806 Martha Shields; die Ehe wurde 1816 geschieden. Er wurde in seiner neuen Heimat als Farmer tätig und trat einer Miliz bei, die ihn und andere Siedler vor Indianerangriffen schützen sollte. Während der Schlacht bei Tippecanoe kommandierte er die Kompanie der Yellow Jackets; später standen die Indiana Rangers im Britisch-Amerikanischen Krieg unter seinem Befehl. Zu diesem Zeitpunkt bekleidete Tipton den Rang eines Majors. Nach dem Friedensschluss wurde er zum Brigadegeneral befördert. In der Folge schlug Tipton eine politische Laufbahn ein. Er war von 1819 bis 1823 Abgeordneter im Repräsentantenhaus von Indiana; während dieser Zeit gründete er die heutige Stadt Columbus, die ursprünglich den Namen Tiptonia trug. Er gehörte Kommissionen an, in denen über die neue Staatshauptstadt diskutiert wurde, und beteiligte sich an der Beilegung von Grenzstreitigkeiten zwischen Indiana und Illinois. 1823 wurde er United States Indian Agent und führte in dieser Funktion offizielle Verhandlungen mit den Stämmen der Potawatomi und der Miami. Als die Gespräche mit den Potawatomi nicht erfolgreich verliefen, leitete Tipton deren gewaltsame Umsiedlung ins heutige Kansas ein; die Aktion, die mehr als 40 Indianer das Leben kostete, wurde unter dem Namen Potawatomi Trail of Death bekannt. Tipton, der 1825 ein zweites Mal geheiratet hatte, wurde im Jahr 1831 von der Indiana General Assembly zum Nachfolger des verstorbenen US-Senators James Noble gewählt; zwischenzeitlich hatte Robert Hanna dessen Mandat kommissarisch wahrgenommen. Am 9. Dezember 1831 zog Tipton in den Senat ein, wo er nach einer Wiederwahl im folgenden Jahr bis zum 3. März 1839 verblieb. Während dieser Zeit war er unter anderem Vorsitzender des Committee on Roads and Canals sowie des Committee on Indian Affairs. Aus gesundheitlichen Gründen verzichtete er auf eine erneute Kandidatur; zwei Wochen nach seinem Ausscheiden aus dem Senat verstarb er in Logansport, einer von ihm mitbegründeten Stadt. Das Tipton County in Indiana und dessen Verwaltungssitz Tipton sind nach John Tipton benannt.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity8301",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Dickson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Colonial and state militias" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Tennessee", "Zwischen", "ein", "den", "County", "1799", "Rutherford", "US-Repräsentantenhaus", "North", "Bundesstaat", "US-amerikanischer", "Dickson", "†", "vertrat", "14", "im", "war", "Carolina", "*", "und", ",", "er", "April", ".", "Pennsylvania", "1745", "Chester", "Joseph", "-RRB-", ";", "1825", "1801" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "war", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Joseph Dickson (* April 1745 im Chester County, Pennsylvania; † 14. April 1825 im Rutherford County, Tennessee) war ein US-amerikanischer Politiker. Zwischen 1799 und 1801 vertrat er den Bundesstaat North Carolina im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity10357",
+  "entityUrl" : "http://dbpedia.org/resource/Job_Bartram",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Connecticut Militia" ]
+  },
+  "words" : [ "Bartram", "-LRB-", "May", "American", "28", "March", "War", "Representatives", "captain", "October", "member", "1817", "Job", "1735", "--", "sessions", "Militia", "House", "1790", ",", ".", "Norwalk", "Connecticut", "served", "Revolutionary", "-RRB-", "20" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "member", "captain" ],
+  "text" : "Job Bartram (March 20, 1735 – October 28, 1817) was a member of the Connecticut House of Representatives from Norwalk in the sessions of May and October 1790. He served as a captain of the Connecticut Militia in the American Revolutionary War.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity11918",
+  "entityUrl" : "http://dbpedia.org/resource/Lex_MacKenzie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Army" ]
+  },
+  "words" : [ "``", "Alexander", "-LRB-", "A.A.", "May", "Canadian", "York", "Addison", "MC", "1970", "member", "represented", "North", "Assembly", "November", "''", "--", "13", "politician", ",", ".", "Progressive", "1", "1885", "Conservative", "-RRB-", "Legislative", "Ontario", "1945", "1967", "MacKenzie" ],
+  "adjectives" : [ "Canadian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Addison Alexander \"A.A.\" MacKenzie, MC (November 1, 1885 – May 13, 1970) was a Canadian politician, who represented York North in the Legislative Assembly of Ontario from 1945 to 1967 as a Progressive Conservative member.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity2472",
+  "entityUrl" : "http://dbpedia.org/resource/Cassius_Marcellus_Clay_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "1" ]
+  },
+  "words" : [ "22", "Oktober", "Madison", "Politiker", "Abolitionist", "-LRB-", "Juli", "ein", "County", "1810", "US-amerikanischer", "†", "Marcellus", "Clay", "im", "Kentucky", "19", "war", "*", "und", ",", "ebenda", ".", "-RRB-", "Cassius", ";", "1903" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "Abolitionist", "war", "und", "ein", "ebenda", "US-amerikanischer" ],
+  "text" : "Cassius Marcellus Clay (* 19. Oktober 1810 im Madison County, Kentucky; † 22. Juli 1903 ebenda) war ein US-amerikanischer Politiker und Abolitionist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity2508",
+  "entityUrl" : "http://dbpedia.org/resource/Curtius_Rufus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Overall" ]
+  },
+  "words" : [ "Alexander", "sources", "author", "'", "Plutarch", "isolated", "Much", "collection", "history", "none", "type", "incidental", "Knowledge", "life", ".", "exist", "Curtius", "continuous", "biographers", "inferred", "exists", "Rufus", "written" ],
+  "adjectives" : [ "continuous", "incidental" ],
+  "nouns" : [ "author", "collection", "history", "none", "type", "Knowledge", "life" ],
+  "text" : "Knowledge of Curtius Rufus’ life is a collection of isolated sources. No continuous history of the type written by Plutarch and other biographers exists. The author of a continuous history of Alexander has none of his own. Much can be inferred from the incidental sources that do exist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity2688",
+  "entityUrl" : "http://dbpedia.org/resource/Cornelius_Gilliam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Army" ]
+  },
+  "words" : [ "Oregon", "24", "Wars", "-LRB-", "militia", "Cayuse", "county", "March", "War", "best", "Black", "pioneer", "settling", "immigrating", "sheriff", "Hawk", "1798", "U.S.", "commander", "known", "native", "Missouri", "member", "North", "Seminole", "state", "--", "13", "Carolina", ",", "April", ".", "Cornelius", "Senate", "volunteer", "Mormons", "State", "forces", "served", "Gilliam", "-RRB-", "Country", "1848" ],
+  "adjectives" : [ "Black" ],
+  "nouns" : [ "commander", "volunteer", "militia", "native", "county", "member", "War", "Country", "state", "pioneer", "sheriff", "Hawk" ],
+  "text" : "Cornelius Gilliam (April 13, 1798 – March 24, 1848) was a pioneer of the U.S. state of Oregon who was best known as the commander of the volunteer forces against the Cayuse in the Cayuse War. A native of North Carolina, he served in the Black Hawk War and Seminole Wars before settling in Missouri. There he served in the militia against the Mormons, was a county sheriff, and a member of the Missouri State Senate before immigrating to the Oregon Country.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity3250",
+  "entityUrl" : "http://dbpedia.org/resource/Clapp_Raymond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Connecticut Militia of Wilton" ]
+  },
+  "words" : [ "June", "Raymond", "-LRB-", "May", "Rebecca", "Representatives", "1778", "1732", "October", "1775", "1795", "member", "Clapp", "February", "1779", "1757", "inspection", "--", "Betts", "sessions", "committee", "born", "fire-arms", "House", ",", ".", "August", "appointed", "Norwalk", "4", "1783", "Connecticut", "-RRB-", "married", "20" ],
+  "adjectives" : [ ],
+  "nouns" : [ "committee", "member", "inspection" ],
+  "text" : "Clapp Raymond (June 20, 1732 – 1795) was a member of the Connecticut House of Representatives from Norwalk in the sessions of May and October 1778, October 1779, and October 1783. He was born June 20, 1732. He married Rebecca Betts on August 4, 1757. In February 1775, he was appointed to a committee for the inspection of fire-arms. In 1780 was on a committee constituted by the Legislature to run a line for the boundary of a religious society. Clapp Raymond died in 1795, and was buried in Ballston Spa, New York.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity2338",
+  "entityUrl" : "http://dbpedia.org/resource/Boris_Feldman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Army" ]
+  },
+  "words" : [ "que", "de", "grado", "-LRB-", "Rojo", "del", "Feldman", "fusilado", "Komkor", "Pinsk", "alcanzó", "Mirónovich", "Борис", "Moscú", "un", "Фельдман", "1937", "Ejército", "Borís", "12", "junio", "el", "Миронович", "1890", "ruso", ",", "-", ".", "fue", "-RRB-", "y", ":", "militar" ],
+  "adjectives" : [ ],
+  "nouns" : [ "fue", "un", "militar" ],
+  "text" : "Borís Mirónovich Feldman (ruso: Борис Миронович Фельдман) (Pinsk, 1890 - Moscú, 12 de junio de 1937) fue un militar del Ejército Rojo que alcanzó el grado de Komkor y que fue fusilado.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity17764",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Ballard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Virginia militia" ]
+  },
+  "words" : [ "24", "-LRB-", "prominent", "role", "1689/90", "March", "1680", "Bacon", "Council", "Ballard", "Rebellion", "colonial", "1630/31", "Burgesses", "controversial", "Speaker", "Thomas", "--", "79", "politician", "1670", "House", ",", "'s", "played", ".", "Governor", "Colonel", "served", "-RRB-", "82", "Virginia", "landowner" ],
+  "adjectives" : [ "prominent", "controversial" ],
+  "nouns" : [ "Rebellion", "role", "colonial", "politician", "landowner" ],
+  "text" : "Colonel Thomas Ballard (1630/31 – March 24, 1689/90) was a prominent colonial Virginia landowner and politician who played a controversial role in Bacon's Rebellion. He served on the Governor's Council 1670–79 and was Speaker of the Virginia House of Burgesses 1680–82.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity17821",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Godwin_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Virginia militia" ]
+  },
+  "words" : [ "June", "-LRB-", "patent", "York", "session", "died", "Bacon", "County", "years", "Rebellion", "1654", "1676", "Burgesses", "1650", "Richard", "land", "preceded", "1677/8", "1659", "early", "Speaker", "partnered", "Thomas", "--", "55", "politician", "birth", "House", "Axom", ",", "'s", ".", "undocumented", "Godwin", "served", "-RRB-", "Virginia", "landowner" ],
+  "adjectives" : [ "undocumented", "early" ],
+  "nouns" : [ "Rebellion", "session", "politician", "birth", "land", "landowner" ],
+  "text" : "Thomas Godwin (died 1677/8) was a Virginia politician and landowner. He served in the House of Burgesses 1654–55 and 1659, and was its Speaker in the June 1676 session that preceded Bacon's Rebellion. Godwin's birth and early years are undocumented. He partnered with Richard Axom to patent land in York County, Virginia in 1650. By April 1654 he was a member of the Nansemond County Court, and he represented the county in the House of Burgesses that year and next. He was also elected to the session of 1659. Among his other land purchases, he patented a tract in Chuckatuck parish in 1668. This farm was expressly included in Nansemond County when the Assembly drew its boundary with Isle of Wight County in 1674. In March 1676 he was identified as colonel of the Nansemond militia when he was authorized to raise a force to fight Indians. Godwin was not a member of the General Assembly of 1661–76. When it was dissolved and a new Assembly met in June 1676, he was elected Speaker of the House. This Assembly, which met just before the outbreak of Bacon's Rebellion, had all its acts annulled by the Assembly that met the following year, although a number of them were reenacted by that same session. Godwin's will was dated March 24, 1677 (old style). He named three children as heirs.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity18144",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Freeman_(Ontario_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Army" ]
+  },
+  "words" : [ "New", "-LRB-", "riding", "Fort", "Edward", "northern", "October", "George", "member", "represented", "NDP", "Assembly", "--", "Democratic", "politician", "c.", ",", "William", ".", "1986", "Canada", "Ted", "1963", "Freeman", "-RRB-", "9", "Legislative", "1902", "Ontario", "1967" ],
+  "adjectives" : [ "Democratic", "Legislative", "northern" ],
+  "nouns" : [ "politician", "member", "NDP", "Assembly" ],
+  "text" : "Edward George (Ted) Freeman (c. 1902 – October 9, 1986) was a politician in Ontario, Canada. He was a New Democratic member of the Legislative Assembly of Ontario from 1963 to 1967 who represented the northern Ontario riding of Fort William in the as a NDP member.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity15027",
+  "entityUrl" : "http://dbpedia.org/resource/Ratliff_Boon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Indiana Militia" ]
+  },
+  "words" : [ "-LRB-", "م", "و", "1781", "سياسي", "Boon", "المتحدة", "Ratliff", "الولايات", "الشمالية", "--", "هو", "من", "بالإنجليزية", "في", "ولد", "الأمريكية", "راتليف", ".", "1844", "بون", "-RRB-", "مقاطعة", "فرانكلن", ":", "كارولاينا" ],
+  "adjectives" : [ "راتليف" ],
+  "nouns" : [ "بون", "من", "م", "فرانكلن" ],
+  "text" : "راتليف بون (بالإنجليزية: Ratliff Boon) (و. 1781 – 1844 م) هو سياسي من الولايات المتحدة الأمريكية ولد في مقاطعة فرانكلن (كارولاينا الشمالية).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity15379",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Mercer_Johnston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Army" ]
+  },
+  "words" : [ "-LRB-", "Catharines", "September", "29", "political", "St.", "Johnston", "Robert", "member", "represented", "Assembly", "November", "1977", "--", "figure", "1908", "19", ",", ".", "Progressive", "1984", "Conservative", "-RRB-", "Legislative", "Ontario", "1967", "Mercer" ],
+  "adjectives" : [ "political", "Legislative" ],
+  "nouns" : [ "figure", "member", "Assembly" ],
+  "text" : "Robert Mercer Johnston (November 19, 1908 – September 29, 1984) was an Ontario political figure. He represented St. Catharines in the Legislative Assembly of Ontario from 1967 to 1977 as a Progressive Conservative member.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity15676",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Daniell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "provincial militia" ]
+  },
+  "words" : [ "Augustine", "Charleston", "de", "San", "-LRB-", "Wales", "1682", "expedition", "ship", "led", "captain", "St.", "County", "commissioned", "arrived", "Moore", "King", "Robert", "Cardigan", "colonel", "Daniell", "James", "Goose", "besieged", "South", "Carolina", "1691", ",", "William", "'s", "April", ".", "Brefi", "unsuccessfully", "1646", "Major", "Born", "Men", "forces", "-RRB-", "Marcos", "Creek", "Castillo", "Llanddewi", "20", "1669", "1702" ],
+  "adjectives" : [ ],
+  "nouns" : [ "expedition", "ship", "captain", "colonel" ],
+  "text" : "Robert Daniell of Llanddewi Brefi, Cardigan County, Wales (Born 20 April 1646) arrived in Charleston, South Carolina in 1669 as captain of the ship The Daniell. In 1682, he was commissioned as Major of the Goose Creek Men. By 1691, he was commissioned as a colonel for King William. In 1702 Daniell led forces in James Moore's expedition to St. Augustine, which unsuccessfully besieged the Castillo de San Marcos. He later also led provincial forces in the 1711 Tuscarora War and the 1715 Yamasee War. Daniell is best known for being governor of the British Province of North Carolina from 1703–05, and governor of the British Province of South Carolina from 1716–17. Daniel Island in Charleston, of which he was an early owner, is named for him.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity3535",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Kennedy_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Army" ]
+  },
+  "words" : [ "June", "-LRB-", "May", "27", "Kennedy", "Party", "Robert", "2003", "member", "1916", "Assembly", "--", "15", "politician", ",", ".", "Progressive", "Canada", "1985", "Douglas", "served", "Conservative", "-RRB-", "Legislative", "Ontario", "1967" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Robert Douglas Kennedy (June 15, 1916—May 27, 2003) was a politician in Ontario, Canada. He served in the Legislative Assembly of Ontario from 1967 to 1985, as a member of the Progressive Conservative Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity19581",
+  "entityUrl" : "http://dbpedia.org/resource/Yan_Gamarnik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Army" ]
+  },
+  "words" : [ "de", "judía", "-LRB-", "Yan", "1894greg", "Borísovich", "del", "también", "ucraniano", "nombre", "Zhytómir", "Гамарнік", "Ucrania", "juniojul", "como", "actual", "Nació", "Yánkev", "14", "Gamárnik", "Yákov", "junio", "el", "en", "una", "ruso", ",", "Ян", ".", "es", "o", "/", "Aparte", "2", "Гамарник", "-RRB-", "y", "conocido", "Tzúdikovich", ":", "bielorruso", "Борисович", "familia" ],
+  "adjectives" : [ "actual" ],
+  "nouns" : [ "como", "Гамарник", "Гамарнік", "bielorruso", "Ян", "Борисович", "juniojul", "o" ],
+  "text" : "Yan Borísovich Gamárnik (ruso y ucraniano: Ян Борисович Гамарник, bielorruso: Ян Гамарнік). Aparte del nombre de Yan, también es conocido como Yánkev o Yákov. Nació en Zhytómir (actual Ucrania) en una familia judía, como Yákov Tzúdikovich Gamárnik, el 2 de juniojul./ 14 de junio de 1894greg.. Estudió en el Instituto de Psicología y Neurología de San Petersburgo y en la Universidad de Kiev. En 1917 se convierte en miembro y secretario del Comité del Partido Comunista de Kiev. Escaló posiciones en el Partido Comunista, tanto en el ámbito civil como militar, llegando a ser Primer Secretario del Partido Comunista de Bielorrusia de diciembre de 1928 a octubre de 1929. Interviene en la elaboración del plan de desarrollo de 10 años para las regiones del Lejano oriente de la URSS. De profundas convicciones, sobrio y comunista puro, que sus creencias eran con frecuencia eran implacables contra la oposición tanto dentro como fuera del partido, fue el apoyo incondicional del Mariscal Mijaíl Tujachevsky en el objetivo de convertir a la URSS en una superpotencia. Fue implicado en el Caso de la Organización Militar Totskista Anti-Soviética en 1937. Antes del juicio, fue sondeado para ser uno de los jueces del mismo, pero debido a su obstinación en la inocencia de Tujachevsky, es añadido a la lista de conspiradores. Se suicida el 31 de mayo de 1937. Es rehabilitado póstumamente en 1955.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity7508",
+  "entityUrl" : "http://dbpedia.org/resource/House_of_Shennib",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Royal Army" ]
+  },
+  "words" : [ "intrinsically", "Shennib", "historical", "Derna", "diplomats", "Omar", "relation", "WWII.The", "Arabic", "colonial", "members", "Wanis", "state", "Faiek", "Bayt", "20th", "Muamar", "House", "includes", "significant", "history", "'s", ",", ".", "seat", "State", "-RRB-", "Cyrenaica", ":", "playing", "Gaddafi", "authors", "Fouad", "Italian", "-LRB-", "prominent", "al-Qaddafi", "figures", "part", "Libyan", "roles", "notable", "Libya", "ministers", "defeat", "public", "شنيب", "creation", "بيت", "include", "Ahmed", "tied", "one", "families", "played", "century", "Abdul-Aziz", "unified", "heads", "family" ],
+  "adjectives" : [ "Italian", "prominent", "public", "20th", "Libyan", "historical", "notable", "significant" ],
+  "nouns" : [ "defeat", "seat", "century", "State", "colonial", "part", "history", "state", "family", "creation", "relation" ],
+  "text" : "The House of Shennib (Arabic: بيت شنيب‎‎ Bayt Shennib) is one of Libya's prominent families. The House of Shennib includes notable public figures who have played a significant part in 20th century Libyan history: heads of state, ministers, authors and diplomats. The family's history is intrinsically tied with the creation of the State of Libya with members of Bayt Shennib playing prominent roles in the defeat of colonial Italian Libya, the creation of the unified Libyan state after WWII.The most notable members of the family include Omar Faiek Shennib, Ahmed Fouad Shennib, Wanis al-Qaddafi (no relation to Muamar Gaddafi) and Abdul-Aziz Shennib. The historical seat of Bayt Shennib is Derna, Cyrenaica. On April 3, 2013 the family's significant contributions to the Libyan people were publicly recognized by the current Libyan government and their honors restored, if in name only. The area of Bi'r`Ayt Shinnib west of Derna is named after the family.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity7524",
+  "entityUrl" : "http://dbpedia.org/resource/Heusted_W._R._Hoyt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Connecticut National Guard" ]
+  },
+  "words" : [ "12th", "-LRB-", "Representatives", "Warner", "1874", "1873", "1894", "1870", "member", "November", "Speaker", "Hoyt", "--", "Reynolds", "representing", "House", ",", "April", ".", "1", "1887", "1842", "Senate", "1886", "Connecticut", "served", "Heusted", "8", "-RRB-", "District", "1869", "1889" ],
+  "adjectives" : [ "12th" ],
+  "nouns" : [ "member" ],
+  "text" : "Heusted Warner Reynolds Hoyt (November 1, 1842 – April 8, 1894) was a member of the Connecticut Senate representing the 12th District from 1869 to 1870 and from 1873 to 1874. He was a member of the Connecticut House of Representatives from 1886 to 1889, and he served as Speaker of the Connecticut House of Representatives from 1887 to 1889.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity12097",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Dymond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Royal Canadian Army Medical Corps" ]
+  },
+  "words" : [ "24", "-LRB-", "September", "John", "riding", "governments", "1975", "1996", "member", "represented", "February", "Assembly", "1911", "1955", "--", "minister", "Bulloch", "politician", "Dymond", "CM", "Frost", ",", ".", "Robarts", "Progressive", "Canada", "Conservative", "served", "Matthew", "-RRB-", "Legislative", "Leslie", "Ontario", "cabinet", "21" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "CM", "cabinet", "Assembly" ],
+  "text" : "Matthew Bulloch Dymond,  CM (September 24, 1911 – February 21, 1996) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1955 to 1975 who represented the riding of Ontario. He served as a cabinet minister in the governments of Leslie Frost and John Robarts.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity817",
+  "entityUrl" : "http://dbpedia.org/resource/Augustine_Warner,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:branch" : [ "Virginia militia" ]
+  },
+  "words" : [ "Augustine", "1642/43", "June", "-LRB-", "separate", "death", "Jr.", "1681", "Bacon", "two", "Council", "Washington", "Warner", "Rebellion", "1677", "October", "1676", "common", "George", "Burgesses", "Speaker", "--", "77", "II", "sessions", "last", "Queen", "politician", "ancestor", "19", "House", ",", "'s", ".", "Governor", "1666", "Elizabeth", "served", "-RRB-", "Virginia", "landowner" ],
+  "adjectives" : [ "separate", "last", "common" ],
+  "nouns" : [ "Rebellion", "death", "politician", "ancestor", "landowner" ],
+  "text" : "Augustine Warner, Jr. (1642/43 – June 19, 1681) was a Virginia politician and landowner. He served in the House of Burgesses 1666–77 and was its Speaker in two separate sessions in 1676 and 1677, before and after Bacon's Rebellion. He then served on the Governor's Council from about October 1677 until his death. Warner is the last common ancestor of George Washington and Queen Elizabeth II.",
+  "patterns" : { }
+} ]

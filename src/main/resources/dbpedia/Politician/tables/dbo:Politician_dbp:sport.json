@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity15724",
+  "entityUrl" : "http://dbpedia.org/resource/Rob_Hamill",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:sport" : [ "Men's rowing" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "political", "World", "Robbie", "1997", "2008", "general", "candidate", "Hamill", "Party", "known", "public", "1994", "Robert", "won", "Race", "came", "medal", "January", "win", "''", "went", "election", "Rob", "born", "Rowing", "also", ",", "former", ".", "Miles", "MNZM", "1964", "Zealand", "Championships", "4", "-RRB-", "attention", "silver", "rower", "Atlantic", "first", "Green" ],
+  "adjectives" : [ "general", "public", "political", "former", "first" ],
+  "nouns" : [ "candidate", "election", "medal", "attention", "silver", "rower" ],
+  "text" : "Robert Miles \"Rob\" Hamill, MNZM, (born 4 January 1964), also known as Robbie Hamill, is a former New Zealand rower and political candidate. He came to public attention when, in 1994, he won a silver medal in the World Rowing Championships. He went on to win the first Atlantic Rowing Race in 1997. Hamill was a candidate at the 2008 general election for the Green Party. However, he was not elected. His oldest brother, Kerry, was imprisoned and killed by members of the Khmer Rouge in 1978, after straying into Cambodian waters. Rob testified in court against the leader of the prison, Duch, in 2009.",
+  "patterns" : { }
+} ]

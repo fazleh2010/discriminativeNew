@@ -1,0 +1,517 @@
+[ {
+  "entityIndex" : "1_entity10840",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Cramer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "12990" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "ist", "ein", "den", "Rolla", "US-Repräsentantenhaus", "North", "Bundesstaat", "Januar", "US-amerikanischer", "Cramer", "im", "vertritt", "*", ",", "er", ".", "Kevin", "1961", "2013", "-RRB-", "Seit", "Dakota", "21" ],
+  "adjectives" : [ "Seit", "Januar" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Kevin Cramer (* 21. Januar 1961 in Rolla, North Dakota) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat North Dakota im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity11095",
+  "entityUrl" : "http://dbpedia.org/resource/Kent_Sorenson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "9444" ]
+  },
+  "words" : [ "-LRB-", "29", "March", "operator", "realtor", "School", "1972", "legislator", "Star", "IA", "North", "state", "According", "High", "owner", "Kent", "Indianola", "born", "profile", "1990", "Realty", "Maintenance", ",", "former", ".", "LinkedIn", "Iowa", "Sorenson", "Pro-Kleen", "currently", "Norwalk", "graduated", "-RRB-", "EXIT" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "owner", "realtor", "LinkedIn", "legislator", "profile", "state", "operator" ],
+  "text" : "Kent Sorenson (born March 29, 1972) is a former Iowa state legislator. Sorenson graduated from Indianola High School in 1990. He was the owner and operator of Pro-Kleen Maintenance. According to his LinkedIn profile, Sorenson is currently a realtor with EXIT Realty North Star in Norwalk, IA. Sorenson is not listed as an agent on the EXIT website. A Republican, he served in the Iowa House of Representatives from 2009 to 2011, representing District 74 and then represented District 37 in the Iowa Senate. As of October 2013, Sorenson was a member of the Judiciary,Government Oversight, and State Government committees of the Iowa Senate. He was also the ranking member of both the Senate and Joint Oversight Committees and a member of the Advisory Council for Agricultural Education, the Family Development and Self-Sufficiency Council, and the Human Rights Board. Sorenson resigned from office October 2, 2013 after Iowa’s Senate Ethics committee found “probable cause” that Sorenson violated state ethics rules by taking payments from the Michele Bachmann (R MN) and Ron Paul (R TX) campaigns in the 2012 Republican Presidential primaries and that \"his denials of doing so constituted felonious misconduct in office.\"",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity11102",
+  "entityUrl" : "http://dbpedia.org/resource/Kelly_Cassidy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "413100" ]
+  },
+  "words" : [ "14th", "American", "May", "2011", "Representatives", "office", "Council", "incumbent", "Side", "Democrat", "member", "North", "selected", "took", "election", "Harry", "Chicago", "16", "politician", "House", "City", ",", "'s", ".", "April", "Kelly", "Cassidy", "Illinois", "district", "following", "Osterman", "represent" ],
+  "adjectives" : [ "14th", "American", "incumbent" ],
+  "nouns" : [ "election", "politician", "district", "member", "office" ],
+  "text" : "Kelly Cassidy is an American politician from Chicago. She is a Democrat and a member of the Illinois House of Representatives. She was selected to represent the 14th district, on Chicago's North Side, in April 2011 following incumbent Harry Osterman's election to the Chicago City Council. She took office on May 16, 2011.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity7923",
+  "entityUrl" : "http://dbpedia.org/resource/Jean_R._Preston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "99522" ]
+  },
+  "words" : [ "county", "seven", "Republican", "three", "Appropriations", "years", "second", "terms", "Education", "Carteret", "North", "state", "1935", "January", "Assembly", "10", "--", "including", "Committees", "Senator", "Carolina", "House", ",", "Joint", "'s", ".", "Senate", "served", "district", "-RRB-", "General", "Rouse", "20", "Preston", "-LRB-", "25", "May", "Leader", "2012", "Caucus", "Representatives", "educator", "Emerald", "retired", "Isle", "representing", "also", "Jean", "Education/Higher", "co-chair", "2013", "constituents" ],
+  "adjectives" : [ "second" ],
+  "nouns" : [ "co-chair", "district", "county", "state", "educator" ],
+  "text" : "Jean Rouse Preston (May 25, 1935 – January 10, 2013) served for 20 years in the North Carolina General Assembly, including seven terms in the North Carolina House of Representatives and three in the North Carolina Senate. She retired in 2012 when she was the Joint Republican Caucus Leader and Senator representing the state's second district, including constituents in Carteret county. She also served as co-chair of the Education/Higher Education and the Appropriations Education/Higher Education Committees. She was a retired educator from Emerald Isle, North Carolina. Preston died in 2013 at age 77.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity7925",
+  "entityUrl" : "http://dbpedia.org/resource/Jean_Farmer-Butterfield",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "6035" ]
+  },
+  "words" : [ "-LRB-", "American", "2011", "Republican", "2010", "Representatives", "October", "2007", "Party", "gained", "2003", "lost", "members", "member", "North", "state", "Assembly", "Majority", "Whips", "Farmer-Butterfield", "election", "Democratic", "born", "politician", "one", "representing", "Wilson", "Carolina", "House", "includes", "control", "Jean", ",", "'s", ".", "twenty-fourth", "district", "-RRB-", "General", "counties", "position", "1947", "Pitt", "constituents", "21", "since" ],
+  "adjectives" : [ "twenty-fourth", "American", "Democratic" ],
+  "nouns" : [ "election", "politician", "district", "member", "control", "state", "position" ],
+  "text" : "Jean Farmer-Butterfield (born October 21, 1947) is an American politician and Democratic member of the North Carolina General Assembly, representing the state's twenty-fourth House district since 2003. Her district includes constituents in Pitt and Wilson counties. From Wilson, North Carolina, Farmer-Butterfield was one of the Majority Whips  from 2007 to 2011. She lost that position after the Republican Party members gained control of the North Carolina House of Representatives in the 2010 election. She earned both her B.A. and M.A. from North Carolina Central University. For twenty years, she was married to G. K. Butterfield, now U.S. Congressman. They have two adult daughters, Valeisha Butterfield Jones and Jenetta Lenai Butterfield. Farmer-Butterfield has worked as a consultant and manager of non-profits in the health and human services field for many years. She is African-American.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity8199",
+  "entityUrl" : "http://dbpedia.org/resource/Jackie_Speier",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "2157" ]
+  },
+  "words" : [ "``", "Mateo", "southwest", "mentor", "two-thirds", "political", "northern", "Jacqueline", "Francisco", "Jackie", "represented", "14", "Democratic", "numbered", "includes", "Karen", "Lorraine", "California", ",", "'s", ".", "/", "Speier", "district", "-RRB-", ";", "District", "much", "since", "14th", "Congress", "San", "congressional", "12th", "-LRB-", "May", "County", "serving", "represents", "2008", "U.S.", "Party", "1950", "ˈspɪər", "member", "''", "born", "Ryan", "2013", "Leo", "Representative", "quarter", "territory" ],
+  "adjectives" : [ "14th", "southwest", "congressional", "12th", "ˈspɪər", "political", "northern" ],
+  "nouns" : [ "mentor", "district", "member", "quarter", "territory" ],
+  "text" : "Karen Lorraine Jacqueline \"Jackie\" Speier (/ˈspɪər/; born May 14, 1950) is the U.S. Representative for California's 14th congressional district, serving in Congress since 2008. She is a member of the Democratic Party. The district, numbered as the 12th District from 2008 to 2013, includes the northern two-thirds of San Mateo County and the southwest quarter of San Francisco. She represents much of the territory that had been represented by her political mentor, Leo Ryan. She is also a former member of the California State Senate who represented parts of San Francisco and San Mateo counties. On April 8, 2008, she won the special election for the vacated United States House of Representatives seat of late Congressman Tom Lantos.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity8590",
+  "entityUrl" : "http://dbpedia.org/resource/Jackie_Walorski",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "9376" ]
+  },
+  "words" : [ "-LRB-", "Indiana", "Bend", "ist", "den", "sie", "Politikerin", "Walorski", "US-Repräsentantenhaus", "Jackie", "Bundesstaat", "13", "im", "South", "vertritt", "*", ",", ".", "August", "1963", "eine", "2013", "-RRB-", "Seit", "US-amerikanische" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politikerin", "eine", "im", "US-Repräsentantenhaus", "vertritt", "ist", "US-amerikanische", "den", "sie" ],
+  "text" : "Jackie Walorski (* 13. August 1963 in South Bend, Indiana) ist eine US-amerikanische Politikerin. Seit 2013 vertritt sie den Bundesstaat Indiana im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity8596",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Paton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "4380" ]
+  },
+  "words" : [ "Reserve", "June", "southern", "-LRB-", "officer", "Republican", "Representatives", "Operation", "Freedom", "second", "2008", "candidate", "2007", "U.S.", "Jonathan", "1971", "2004", "won", "member", "term", "30", "February", "Arizona", "10", "Army", "reelection", "began", "born", "representing", "House", "Iraqi", ",", "'s", "8th", "former", ".", "intelligence", "elected", "Senate", "Paton", "served", "-RRB-", "Legislative", "District", "first" ],
+  "adjectives" : [ "southern", "Legislative", "Iraqi", "8th", "former", "first", "second" ],
+  "nouns" : [ "candidate", "reelection", "officer", "Paton", "member", "term", "Freedom", "intelligence" ],
+  "text" : "Jonathan Paton (born June 10, 1971) is a former Arizona Republican candidate for the U.S. House of Representatives in Arizona's 8th District and an intelligence officer in the U.S. Army Reserve who served in Operation Iraqi Freedom. Paton was first elected to southern Arizona's Legislative District 30 as a member of the Arizona House of Representatives in 2004. He won reelection and began his second term in February 2007. In 2008, he was elected to the Arizona Senate, again representing Legislative District 30. On January 17, 2010, Paton announced he would be challenging Democratic U.S. Representative Gabrielle Giffords. He subsequently resigned from the state Senate to focus his efforts on campaigning for Congress. Paton lost in the 2010 Republican primary and endorsed his former opponent, Jesse Kelly. He ran for Congress again in 2012, this time in Arizona's newly formed 1st Congressional District, ending in close defeat against Democratic opponent Ann Kirkpatrick.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity9019",
+  "entityUrl" : "http://dbpedia.org/resource/Janet_Cowell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "141471" ]
+  },
+  "words" : [ "-LRB-", "woman", "County", "Council", "hold", "current", "previously", "member", "North", "July", "Treasurer", "Raleigh", "two-term", "Janet", "Democratic", "born", "19", "representing", "Carolina", "City", ",", "Wake", ".", "Cowell", "Senate", "State", "-RRB-", "position", "1968", "first" ],
+  "adjectives" : [ "current", "two-term", "Democratic", "first" ],
+  "nouns" : [ "woman", "member", "position" ],
+  "text" : "Janet Cowell (born July 19, 1968) is the current North Carolina State Treasurer and is the first woman to hold that position in North Carolina. She was previously a two-term member of the Raleigh City Council and a two-term Democratic member of the North Carolina Senate (representing Wake County).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity9448",
+  "entityUrl" : "http://dbpedia.org/resource/John_McMillan_(Alabama_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "137066" ]
+  },
+  "words" : [ "Industries", "leader", "prominent", "Jr.", "John", "Republican", "2010", "Alabama", "second", "agriculture", "Agriculture", "term", "Murphy", "four-year", "wildlife", "November", "natural", "resource", "Commissioner", ",", ".", "elected", "conservation", "2014", "McMillan", "forestry" ],
+  "adjectives" : [ "prominent", "natural", "Republican", "four-year", "second" ],
+  "nouns" : [ "agriculture", "leader", "conservation", "resource", "term", "forestry", "wildlife" ],
+  "text" : "John Murphy McMillan, Jr. is a prominent Alabama leader in forestry, agriculture, and natural resource and wildlife conservation. He was elected as a Republican in November 2010, as Alabama Commissioner of Agriculture and Industries. He was elected to a second four-year term in 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity4416",
+  "entityUrl" : "http://dbpedia.org/resource/Elaine_Marshall",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "16673" ]
+  },
+  "words" : [ "-LRB-", "woman", "Secretary", "held", "United", "Republican", "2010", "office", "States", "executive", "current", "Party", "lost", "Richard", "nominee", "North", "November", "statewide", "election", "Democratic", "born", "18", "F.", "Carolina", "Marshall", ",", "'s", "Burr", ".", "elected", "seat", "Senate", "currently", "State", "-RRB-", "Elaine", ";", "1945", "first" ],
+  "adjectives" : [ "current", "Republican", "first", "statewide" ],
+  "nouns" : [ "seat", "executive", "woman", "election", "nominee", "office" ],
+  "text" : "Elaine F. Marshall (born November 18, 1945) is the current North Carolina Secretary of State; she is the first woman to be elected to that office and the first woman elected to statewide executive office in North Carolina. Marshall was the Democratic Party's nominee for the United States Senate seat currently held by Republican Richard Burr in the 2010 election, which she lost.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity4653",
+  "entityUrl" : "http://dbpedia.org/resource/Emmett_C._Burns,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "1441" ]
+  },
+  "words" : [ "-LRB-", "26", "American", "Jr.", "Legislature", "C.", "Committee", "County", "seek", "Emmett", "Party", "terms", "four", "member", "July", "10", "re-election", "Democratic", "born", "politician", "representing", "House", ",", "'s", "Matters", ".", "August", "intention", "announced", "1940", "Baltimore", "Economic", "2014", "served", "2013", "-RRB-", "8", "Delegates", "Burns", "Maryland", "District" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "re-election", "politician", "member", "intention" ],
+  "text" : "Emmett C. Burns, Jr. (born August 26, 1940) is an American politician from Maryland and a member of the Democratic Party. He served four terms in the Maryland House of Delegates, representing Maryland's District 10 in Baltimore County. Burns was a member of the Economic Matters Committee. On July 8, 2013, Burns announced his intention not to seek re-election to the Maryland Legislature in 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity18310",
+  "entityUrl" : "http://dbpedia.org/resource/Van_Tran",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "4461" ]
+  },
+  "words" : [ "Van", "United", "Republican", "Hubert", "office", "serve", "Orange", "States", "December", "highest-ranking", "Assistant", "officials", "Thai", "Thái", "state", "Assembly", "portions", "Văn", "took", "making", "19", "House", "California", "history", ",", ".", "elected", "Cao", "month", "attorney", "State", "Texas", "Joseph", "served", "-RRB-", ":", ";", "legislature", "-LRB-", "American", "Leader", "Representatives", "County", "serving", "2008", "October", "U.S.", "member", "Vo", "born", "politician", "one", "representing", "Tran", "Trần", "1964", "Vietnamese", "Representative", "formerly", "first" ],
+  "adjectives" : [ "American", "highest-ranking", "Vietnamese", "Republican", "first" ],
+  "nouns" : [ "month", "attorney", "politician", "member", "history", "office", "state", "Assembly", "legislature" ],
+  "text" : "Van Thai Tran (Vietnamese: Trần Thái Văn; born October 19, 1964) is a Vietnamese American attorney and politician in California, formerly serving as a Republican member of the California State Assembly, representing portions of Orange County. Tran and Texas State Representative Hubert Vo were the highest-ranking Vietnamese American elected officials in U.S. history until Joseph Cao was elected to the United States House of Representatives in December 2008. Tran took office one month before Vo did, making him the first Vietnamese American to serve in a state legislature. He served in the Assembly as Assistant Republican Leader.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity18504",
+  "entityUrl" : "http://dbpedia.org/resource/Van_H._Wanggaard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "128384" ]
+  },
+  "words" : [ "June", "Van", "-LRB-", "defeated", "D", "held", "2012", "John", "Republican", "2011", "run", "predecessor", "decided", "1952", "recall", "member", "July", "January", "Wisconsin", "11", "reelection", "election", "H.", "born", "19", "representing", "Wanggaard", ",", "April", ".", "seat", "Senate", "3", "5", "2015", "2014", "21st", "district", "regained", "-RRB-", "Lehman", "since" ],
+  "adjectives" : [ "Republican" ],
+  "nouns" : [ "seat", "reelection", "election", "district", "recall", "member", "predecessor" ],
+  "text" : "Van H. Wanggaard (born April 19, 1952) is a Republican member of the Wisconsin Senate, representing the 21st district since January 5, 2015, and before that from January 3, 2011 until July 11, 2012. He was defeated by his predecessor, John Lehman (D), in a recall election, held on June 5, 2012.  Wanggaard regained his seat after Lehman decided not to run for reelection in 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity11496",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Richardson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "28026" ]
+  },
+  "words" : [ "-LRB-", "bei", "Wahl", "2012", "Angeles", "ist", "den", "bis", "sie", "der", "Politikerin", "2007", "demokratischen", "US-Repräsentantenhaus", "amerikanische", "ihrer", "Sitz", "Bundesstaat", "vertrat", "14", "im", "ihren", "Janice", "unterlag", "Mitbewerberin", "*", ",", "verlor", ".", "April", "Los", "Laura", "1962", "Richardson", "Kalifornien", "eine", "Von", "2013", "-RRB-", ";", "Hahn" ],
+  "adjectives" : [ ],
+  "nouns" : [ "vertrat", "im", "ihren", "unterlag", "ist", "den", "verlor", "sie", "Politikerin", "eine", "demokratischen", "US-Repräsentantenhaus", "amerikanische" ],
+  "text" : "Laura Richardson (* 14. April 1962 in Los Angeles, Kalifornien) ist eine amerikanische Politikerin. Von 2007 bis 2013 vertrat sie den Bundesstaat Kalifornien im US-Repräsentantenhaus; sie verlor ihren Sitz bei der Wahl 2012, bei der sie ihrer demokratischen Mitbewerberin Janice Hahn unterlag.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity2629",
+  "entityUrl" : "http://dbpedia.org/resource/Christopher_G._Donovan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "1743" ]
+  },
+  "words" : [ "22", "Congress", "-LRB-", "American", "G.", "2012", "Representatives", "sworn", "losing", "2009", "1953", "October", "candidate", "post", "January", "US", "Speaker", "Christopher", "reelection", "Donovan", "Democratic", "born", "politician", "grassroots", "House", "sought", ",", "former", ".", "elected", "Esty", "Elizabeth", "left", "organizer", "Connecticut", "7", "2013", "speaker", "-RRB-", "first", "become", "primary" ],
+  "adjectives" : [ "former", "first", "primary" ],
+  "nouns" : [ "reelection", "candidate", "post", "organizer", "politician", "speaker" ],
+  "text" : "Christopher G. Donovan (born October 22, 1953) is a former American Democratic politician who was elected to be the Speaker of the Connecticut House of Representatives. He was sworn in as Speaker on January 7, 2009, and left his post in 2013, having not sought reelection to the House. He is the first grassroots organizer to become speaker of the Connecticut House. Donovan was a candidate for US Congress in 2012, losing in the primary to Elizabeth Esty.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity17796",
+  "entityUrl" : "http://dbpedia.org/resource/Tarryl_Clark",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "7595" ]
+  },
+  "words" : [ "Tarryl", "endorsement", "United", "Lynn", "Republican", "challenging", "incumbent", "States", "Democrat", "lost", "represented", "July", "portions", "including", "went", "15", "Democratic", "Cravaack", ",", "'s", "8th", "former", ".", "August", "Senate", "district", "-RRB-", "counties", "District", "primary", "Congress", "congressional", "-LRB-", "2012", "2011", "2010", "Chip", "Michele", "Clark", "2006", "Party", "congressman", "member", "nominee", "Rick", "win", "31", "born", "politician", "Nolan", "Minnesota", "Benton", "sought", "Stearns", "unsuccessfully", "nomination", "1961", "Sherburne", "Democratic-Farmer-Labor", "challenge", "Bachmann" ],
+  "adjectives" : [ "congressional", "Democratic", "Republican", "8th", "former", "incumbent", "primary" ],
+  "nouns" : [ "endorsement", "congressman", "politician", "district", "member", "nominee", "Cravaack", "Chip", "nomination" ],
+  "text" : "Tarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann. In 2011, Clark sought the Democratic nomination to challenge Republican congressman Chip Cravaack in Minnesota's 8th congressional district, but lost the endorsement to Rick Nolan, who went on to win the August 2012 primary.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity14958",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Cooper",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "12894" ]
+  },
+  "words" : [ "June", "Asberry", "Pat", "-LRB-", "American", "McCrory", "Previously", "incumbent", "running", "Party", "member", "North", "1957", "13", "election", "Democratic", "born", "politician", "III", "2001", "Carolina", ",", ".", "Governor", "Senate", "2016", "State", "-RRB-", "General", "Roy", "Attorney", "Cooper", "since" ],
+  "adjectives" : [ "American", "incumbent" ],
+  "nouns" : [ "Governor", "election", "politician", "member" ],
+  "text" : "Roy Asberry Cooper III (born June 13, 1957) is an American politician who has been Attorney General of North Carolina since 2001. Previously he was a member of the North Carolina State Senate. Cooper is a member of the North Carolina Democratic Party, and is running for Governor of North Carolina in the 2016 election against incumbent Pat McCrory.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity15077",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Klein",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "3874" ]
+  },
+  "words" : [ "``", "congressional", "-LRB-", "United", "Representatives", "employed", "States", "firm", "Party", "previously", "Knight", "member", "July", "1957", "lawyer", "10", "Holland", "''", "22nd", "law", "Democratic", "&", "born", "House", ",", "Florida", "'s", "former", ".", "Ron", "Senate", "currently", "Ronald", "district", "served", "-RRB-", "Klein" ],
+  "adjectives" : [ "22nd", "congressional", "former" ],
+  "nouns" : [ "firm", "law", "district", "member", "lawyer" ],
+  "text" : "Ronald \"Ron\" Klein (born July 10, 1957) is a lawyer and former member of the United States House of Representatives for Florida's 22nd congressional district. He is a member of the Democratic Party. He previously served in the Florida House of Representatives and the Florida Senate. He is currently employed by the law firm Holland & Knight.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity15826",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Montgomery_(representative)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "413052" ]
+  },
+  "words" : [ "small", "owner", "southwest", "Olathe", "American", "business", "Montgomery", "politician", "representing", "Republican", "House", "Kansas", "Representatives", ",", ".", "15th", "Bob", "member", "formerly", "District", "covers" ],
+  "adjectives" : [ "small", "American", "Republican", "15th" ],
+  "nouns" : [ "owner", "southwest", "business", "politician", "member" ],
+  "text" : "Bob Montgomery is an American small business owner and politician from Olathe, Kansas, formerly a Republican member of the Kansas House of Representatives representing the 15th House District, which covers southwest Olathe.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity15951",
+  "entityUrl" : "http://dbpedia.org/resource/Rodney_Davis_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "46856" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "ist", "ein", "den", "Davis", "US-Repräsentantenhaus", "1970", "Bundesstaat", "Januar", "US-amerikanischer", "Rodney", "im", "Moines", "vertritt", "*", ",", "Lee", "er", ".", "Iowa", "Des", "5", "Illinois", "2013", "-RRB-", "Seit" ],
+  "adjectives" : [ "Seit", "Januar" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Rodney Lee Davis (* 5. Januar 1970 in Des Moines, Iowa) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat Illinois im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity15962",
+  "entityUrl" : "http://dbpedia.org/resource/Randy_Weber",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "9277" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "Pearland", "im", "Randy", "vertritt", "*", "Juli", "ist", "ein", ",", "den", "er", ".", "1953", "2", "US-Repräsentantenhaus", "Texas", "2013", "Weber", "-RRB-", "Seit", "Bundesstaat", "US-amerikanischer" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Randy Weber (* 2. Juli 1953 in Pearland, Texas) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat Texas im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity16068",
+  "entityUrl" : "http://dbpedia.org/resource/Rodney_W._Moore",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "142412" ]
+  },
+  "words" : [ "-LRB-", "American", "defeated", "serves", "2010", "Representatives", "99th", "incumbent", "Moore", "general", "Party", "Democrat", "won", "member", "North", "July", "state", "ran", "12", "Rodney", "election", "Democratic", "Nick", "born", "politician", "representing", "Carolina", "House", ",", ".", "seat", "1963", "W.", "district", "-RRB-", "Mackey", "first", "primary" ],
+  "adjectives" : [ "general", "American", "incumbent", "primary" ],
+  "nouns" : [ "seat", "election", "politician", "district", "member", "state" ],
+  "text" : "Rodney W. Moore (born July 12, 1963) is an American politician from the state of North Carolina. He is a member of the Democratic Party, and serves in the North Carolina House of Representatives, representing the 99th district. Moore first ran for the state House in 2010. He defeated incumbent Democrat Nick Mackey in the primary election, and won the seat in the general election. He is a candidate in the 2014 special election for North Carolina's 12th congressional district. Moore is African-American.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity3579",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_Black",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "4014" ]
+  },
+  "words" : [ "-LRB-", "Tennessee", "Lynn", "2011", "Black", "ist", "den", "sie", "Politikerin", "1951", "US-Repräsentantenhaus", "Bundesstaat", "Januar", "im", "16", "vertritt", "*", ",", ".", "Baltimore", "eine", "-RRB-", "Seit", "US-amerikanische", "Diane", "Maryland" ],
+  "adjectives" : [ "Seit", "Januar" ],
+  "nouns" : [ "Politikerin", "eine", "im", "US-Repräsentantenhaus", "vertritt", "ist", "US-amerikanische", "den", "sie" ],
+  "text" : "Diane Lynn Black (* 16. Januar 1951 in Baltimore, Maryland) ist eine US-amerikanische Politikerin. Seit 2011 vertritt sie den Bundesstaat Tennessee im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity3793",
+  "entityUrl" : "http://dbpedia.org/resource/Deb_Mell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "9249" ]
+  },
+  "words" : [ "``", "Deb", "-LRB-", "Chicago", "*", "Juli", "ist", ",", ".", "Deborah", "Politikerin", "eine", "Illinois", "-RRB-", "US-amerikanische", "Mell", "30", "1968" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politikerin", "eine", "ist", "US-amerikanische" ],
+  "text" : "Deborah „Deb“ Mell (* 30. Juli 1968 in Chicago, Illinois) ist eine US-amerikanische Politikerin.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity3937",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Debicella",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "8815" ]
+  },
+  "words" : [ "24", "-LRB-", "Congressional", "Republican", "2010", "October", "1974", "candidate", "represented", "businessman", "Debicella", "born", "Senator", "also", ",", "'s", "former", ".", "Dan", "Senate", "State", "2014", "21st", "district", "Connecticut", "-RRB-", "Fourth", "District" ],
+  "adjectives" : [ "21st", "Republican", "Fourth", "former" ],
+  "nouns" : [ "candidate", "district", "businessman" ],
+  "text" : "Dan Debicella (born October 24, 1974) is a former State Senator and businessman, who represented the 21st district in the Connecticut State Senate. He was also the 2010 and 2014 Republican candidate for Connecticut's Fourth Congressional District.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity4065",
+  "entityUrl" : "http://dbpedia.org/resource/David_C._Long",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "2592" ]
+  },
+  "words" : [ "Indiana", "defeated", "serves", "Republican", "Fort", "C.", "Pro", "Eisbart", "16th", "Council", "incumbent", "President", "1995", "post", "member", "win", "election", "representing", "Ben", ",", ".", "Common", "Wayne", "Senate", "State", "Prior", "district", "Tempore", "served", "David", "Long", "Fourth", "District", "1988" ],
+  "adjectives" : [ "Republican", "Fourth", "16th", "incumbent" ],
+  "nouns" : [ "election", "post", "district", "member" ],
+  "text" : "David C. Long is a Republican member of the Indiana State Senate representing the 16th district. He serves as the President Pro Tempore of the Indiana State Senate. Prior to his election to the Senate, David Long served from 1988 through 1995 as a member of the Fort Wayne Common Council from the Fourth District. He defeated incumbent Ben Eisbart to win the post. Mr. Eisbart had won the post by defeating incumbent Frederick Hunter, the father-in-law of David Long.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity4250",
+  "entityUrl" : "http://dbpedia.org/resource/Doug_Collins_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "8738" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "im", "16", "vertritt", "*", "ist", "ein", ",", "den", "er", ".", "August", "Collins", "Gainesville", "US-Repräsentantenhaus", "2013", "-RRB-", "Seit", "Georgia", "Doug", "Bundesstaat", "US-amerikanischer", "1966" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Doug Collins (* 16. August 1966 in Gainesville, Georgia) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat Georgia im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity19594",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_B._Miller",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "1023" ]
+  },
+  "words" : [ "Yvonne", "-LRB-", "woman", "American", "2012", "office", "house", "years", "later", "dying", "Democrat", "won", "July", "state", "1934", "--", "politician", "Four", ",", ".", "elected", "Senate", "3", "re-elected", "4", "1983", "African-American", "Miller", "-RRB-", "consistently", "Bond", "Virginia", "first" ],
+  "adjectives" : [ "American", "African-American", "first" ],
+  "nouns" : [ "woman", "politician", "state", "office", "house" ],
+  "text" : "Yvonne Bond Miller (July 4, 1934 – July 3, 2012) was an American politician in Virginia. A Democrat, she was the first African-American woman to be elected to the state house when she won in 1983. Four years later, she was elected to the state Senate, and was consistently re-elected after that, dying in office.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity16466",
+  "entityUrl" : "http://dbpedia.org/resource/Sam_Caligiuri",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "8328" ]
+  },
+  "words" : [ "half", "Republican", "losing", "Chris", "Murphy", "ran", "eastern", "closely", "%", "F.", "Senator", "Wolcott", "House", ",", "'s", "comprises", "former", ".", "seat", "elected", "Senate", "Cheshire", "State", "Connecticut", "district", "-RRB-", "switched", "S.", "District", "Sam", "behind", "suburbs", "congressional", "-LRB-", "city", "unsuccessful", "Caligiuri", "2010", "16th", "U.S.", "2006", "lawyer", "Southington", "November", "Waterbury", "born", "5th", "ultimately", "nomination", "54-46", "well", "1966", "represent" ],
+  "adjectives" : [ "congressional", "eastern", "unsuccessful", "Republican", "5th", "former", "16th" ],
+  "nouns" : [ "seat", "half", "%", "city", "district", "lawyer", "nomination" ],
+  "text" : "Sam S. F. Caligiuri (born 1966) is a lawyer and former Connecticut State Senator. In 2010, he ran for the Republican nomination for U.S. Senate, but switched for a House seat in Connecticut's 5th congressional district. He was ultimately unsuccessful, losing closely behind Chris Murphy, 54-46%. In November 2006, Caligiuri was elected to the Connecticut State Senate to represent the 16th District, which comprises the eastern half of Waterbury as well as the city's eastern suburbs of Cheshire, Southington, and Wolcott.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity16702",
+  "entityUrl" : "http://dbpedia.org/resource/Samantha_Shaw",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "19143" ]
+  },
+  "words" : [ "``", "-LRB-", "American", "Samantha", "Republican", "2010", "Shaw", "Alabama", "Committee", "Auditor", "2006", "Party", "member", "February", "1957", "10", "''", "Executive", "born", "politician", ",", ".", "elected", "re-elected", "State", "Slimp", "-RRB-", "Sam" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Samantha \"Sam\" Slimp Shaw (born February 10, 1957) is an American politician from Alabama. She is a Republican who was elected State Auditor of Alabama in 2006, and was re-elected in 2010. She is a member of the Executive Committee of the Alabama Republican Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity16706",
+  "entityUrl" : "http://dbpedia.org/resource/Scott_Perry_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "8220" ]
+  },
+  "words" : [ "San", "Politiker", "-LRB-", "27", "ist", "ein", "den", "Perry", "US-Repräsentantenhaus", "Bundesstaat", "US-amerikanischer", "Gordon", "im", "Diego", "vertritt", "*", ",", "er", ".", "Pennsylvania", "1962", "Mai", "Kalifornien", "2013", "-RRB-", "Seit", "Scott" ],
+  "adjectives" : [ "Seit" ],
+  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
+  "text" : "Scott Gordon Perry (* 27. Mai 1962 in San Diego, Kalifornien) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat Pennsylvania im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity12418",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Earley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "120630" ]
+  },
+  "words" : [ "leader", "-LRB-", "26", "American", "Mark", "Republican", "focus", "1954", "1998", "Warner", "Party", "Gilmore", "lost", "member", "July", "businessman", "lawyer", "ran", "resigned", "Earley", "--", "James", "Democratic", "Lawrence", "born", "politician", "2001", ",", ".", "elected", "Governor", "Senate", "State", "succeed", "-RRB-", "General", "campaign", "time", "Virginia", "Attorney", "1988" ],
+  "adjectives" : [ "American", "Democratic" ],
+  "nouns" : [ "Governor", "leader", "politician", "member", "campaign", "time", "businessman", "lawyer" ],
+  "text" : "Mark Lawrence Earley (born July 26, 1954) is an American politician and Virginia lawyer. As a member of the Republican Party, he was elected to the Virginia State Senate (1988–1998), and then elected Attorney General of Virginia (1998 to 2001). In 2001, he resigned as Attorney General to focus his time on the 2001 campaign for Governor of Virginia. He ran to succeed James Gilmore, but lost to businessman and Democratic Party leader Mark Warner.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity12576",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Lazich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "353" ]
+  },
+  "words" : [ "-LRB-", "Republican", "March", "run", "1998", "October", "1952", "previously", "would", "1992", "member", "female", "January", "Wisconsin", "Assembly", "Mary", "re-election", "election", "born", "representing", "Lazich", ",", "28th", "April", ".", "special", "elected", "ever", "announced", "Senate", "3", "2016", "2015", "-RRB-", "position", "District", "first", "since", "president", "21" ],
+  "adjectives" : [ "special", "Republican", "28th", "first" ],
+  "nouns" : [ "re-election", "election", "member", "position", "female", "president" ],
+  "text" : "Mary Lazich (born October 3, 1952) is a Republican member of the Wisconsin Senate, representing the 28th District since a special election in April 1998. She was elected as president of the Wisconsin Senate in January 2015, the first female ever elected to that position. She was previously a member of the Wisconsin Assembly from 1992 through 1998. On March 21, 2016, Lazich announced that she would not run for re-election in 2016.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity12940",
+  "entityUrl" : "http://dbpedia.org/resource/Morgan_Philpot",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "119032" ]
+  },
+  "words" : [ "45", "congressional", "-LRB-", "Republican", "2010", "Lake", "County", "Utah", "vice-chair", "Salt", "Morgan", "candidate", "Party", "U.S.", "1971", "nominee", "July", "state", "30", "representative", "Philpot", "J.", "born", "2nd", "also", ",", "'s", "former", "heart", ".", "Governor", "district", "-RRB-", "District" ],
+  "adjectives" : [ "congressional", "2nd", "former" ],
+  "nouns" : [ "Governor", "candidate", "district", "nominee", "state", "representative", "heart", "vice-chair" ],
+  "text" : "J. Morgan Philpot (born July 30, 1971) is a former state representative for District 45 in the heart of Salt Lake County and was the 2010 Republican nominee for Utah's 2nd congressional district. He is a former vice-chair of the Utah Republican Party. Philpot was also a candidate for Governor of the U.S. state of Utah.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity5611",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Carl_(senator)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "78091" ]
+  },
+  "words" : [ "area", "Montana", "47", "Carl", "politician", "portion", "2012", "Republican", "Legislature", "Fred", "run", ",", ".", "represents", "announced", "1974", "Senate", "would", "1971", "served", "member", "Missoula", "District" ],
+  "adjectives" : [ "Republican" ],
+  "nouns" : [ "area", "politician", "portion", "member" ],
+  "text" : "Fred Carl is a Montana politician. He served as a Republican member of the Montana Legislature from 1971 through 1974. In 2012, Fred Carl announced he would run for Montana Senate District 47, which represents a portion of the Missoula area.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity14333",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Koutoujian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "2965" ]
+  },
+  "words" : [ "-LRB-", "September", "American", "17", "Sheriff", "Jr.", "born", "politician", "John", "House", "Representatives", "Koutoujian", ",", "County", "former", ".", "current", "1961", "Massachusetts", "Middlesex", "-RRB-", "member", "Peter" ],
+  "adjectives" : [ "current", "American", "former" ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Peter John Koutoujian Jr. (born September 17, 1961) is an American politician who is the current Sheriff of Middlesex County, Massachusetts and a former member of the Massachusetts House of Representatives.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity14708",
+  "entityUrl" : "http://dbpedia.org/resource/Pam_Galloway",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "140044" ]
+  },
+  "words" : [ "Dr.", "medical", "-LRB-", "September", "American", "surgeon", "2012", "Republican", "2011", "March", "2010", "retirement", "1976", "number", "earned", "Party", "MD", "member", "physician", "Wisconsin", "Chairperson", "1955", "11", "16", "Chicago", "past", "born", "representing", "committees", ",", "29th", "former", ".", "elected", "Senate", "University", "graduated", "1980", "-RRB-", "Marathon", "Galloway", "Pam", "District", "Virginia", "since", "BA" ],
+  "adjectives" : [ "medical", "American", "past", "29th", "former" ],
+  "nouns" : [ "number", "surgeon", "MD", "member", "physician", "retirement", "BA" ],
+  "text" : "Dr. Pam Galloway (born September 11, 1955) is an American physician and surgeon and a former Republican member of the Wisconsin Senate, representing the 29th District since from 2011 through her retirement on March 16, 2012. Galloway graduated with a BA from the University of Chicago in 1976, and earned her MD from the University of Virginia in 1980. Galloway is a member of a number of medical committees, and was the past Chairperson of the Marathon Republican Party. She was elected to the Wisconsin Senate in 2010. She had been facing an effort to recall her from office. However, on March 16, 2012, Galloway announced her resignation from office due to health issues in her family, leaving the Senate evenly split between Democrats and Republicans. Galloway's seat was filled in the recall election, which had already been scheduled. She was succeeded by fellow Republican Jerry Petrowski. Galloway relocated to Warsaw, Indiana where she announced in May 2015 that she would make a bid for the United States House of Representatives and run for Marlin Stutzman's seat in Indiana's 3rd congressional district. As of July 2015 she raised $51,423 in campaign contributions, with $50,000 coming from loans she made to herself.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity14892",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Wieland",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "73423" ]
+  },
+  "words" : [ "24", "-LRB-", "American", "Republican", "Paul", "represents", "see", "December", "Party", "Missouri", "member", "state", "businessman", "22nd", "television", "director", "born", "politician", "film", ",", ".", "English", "Wieland", "Senate", "1962", "State", "Weiland", "Joseph", "-RRB-", "District" ],
+  "adjectives" : [ "22nd", "American" ],
+  "nouns" : [ "television", "director", "politician", "member", "film", "state", "businessman", "District" ],
+  "text" : "(For the English film and television director, see Paul Weiland.) Paul Joseph Wieland (born December 24, 1962) is an American businessman and politician from the state of Missouri. A member of the Republican Party, Wieland represents the 22nd District in the Missouri State Senate.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity33",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Schiff",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "18965" ]
+  },
+  "words" : [ "22", "Congress", "June", "San", "congressional", "-LRB-", "Alhambra", "areas", "Glendale", "Pasadena", "U.S.", "Party", "Bennett", "2003", "member", "represented", "Districts", "included", "Democratic", "born", "2001", "South", "Altadena", "California", "City", ",", "'s", "29th", "28th", "Burbank", ".", "27th", "Park", "Adam", "Temple", "1960", "Schiff", "district", "served", "2013", "-RRB-", "Representative", "Gabriel", "Monterey", "since" ],
+  "adjectives" : [ "congressional", "29th", "28th", "27th" ],
+  "nouns" : [ "district", "member" ],
+  "text" : "Adam Bennett Schiff (born June 22, 1960) is the U.S. Representative for California's 28th congressional district. He has served in Congress since 2001. He is a member of the Democratic Party. Schiff represented the 27th and 29th Districts between 2003 and 2013, which included the areas of Alhambra, Altadena, San Gabriel, Burbank, Glendale, South Pasadena, Temple City, Monterey Park and Pasadena. In 2010, his district was re-districted to include new areas including Hollywood, Echo Park, Hollywood Hills, La Canada Flintridge, La Crescenta, Los Feliz, Silver Lake, Sunland-Tujunga, and West Hollywood, in addition to areas he represented before like Burbank, Glendale, and the western part of Pasadena. Schiff has become an influential voice for his party in the House of Representatives on foreign policy and national security issues. He serves as Ranking Member of the House Permanent Select Committee on Intelligence. He is currently on leave from the House Appropriations Committee which he joined in 2007. He previously served on the United States House Foreign Affairs Committee, and serves on the State, Foreign Operations, and Related Programs Subcommittee of the Appropriations Committee.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity39",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_J._Williams",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "6063" ]
+  },
+  "words" : [ "Arthur", "Washington", "sixth", "Williams", "member", "retiree", "North", "state", "Assembly", "including", "James", "Democratic", "III", "representing", "Carolina", "House", "Beaufort", "'s", ",", "former", ".", "district", "General", "counties", "Pitt", "constituents" ],
+  "adjectives" : [ "sixth", "Democratic", "former" ],
+  "nouns" : [ "district", "member", "retiree", "state" ],
+  "text" : "Arthur James Williams III is a former Democratic member of the North Carolina General Assembly representing the state's sixth House district, including constituents in Beaufort and Pitt counties. Williams is a retiree from Washington, North Carolina.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity654",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_Foriest",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "9384" ]
+  },
+  "words" : [ "``", "''", "Tony", "24th", "Anthony", "Democratic", "representing", "Carolina", ",", "two", ".", "Senate", "Foriest", "terms", "district", "served", "member", "North" ],
+  "adjectives" : [ "24th", "Democratic" ],
+  "nouns" : [ "district", "member" ],
+  "text" : "Anthony \"Tony\" Foriest was a Democratic member of the North Carolina Senate, representing the 24th district, where he served two terms.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity855",
+  "entityUrl" : "http://dbpedia.org/resource/Allen_Icet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:followthemoney" : [ "5702" ]
+  },
+  "words" : [ "-LRB-", "chair", "born", "politician", "March", "Republican", "House", "Icet", "Representatives", "Allen", ",", ".", "elected", "2005", "Missouri", "2002", "served", "-RRB-", "1957", "31", "November", "budget", "since" ],
+  "adjectives" : [ "Republican" ],
+  "nouns" : [ "chair", "politician", "budget" ],
+  "text" : "Allen Icet (born March 31, 1957) is a Republican politician. He was elected to the Missouri House of Representatives in November 2002. Icet has served as Missouri House budget chair since 2005.",
+  "patterns" : { }
+} ]

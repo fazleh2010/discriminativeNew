@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity8153",
+  "entityUrl" : "http://dbpedia.org/resource/James_Roosevelt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:laterwork" : [ "U.S. Congress" ]
+  },
+  "words" : [ "-LRB-", "الديمقراطي", "م", "و", "سياسي", "جيمس", "،", "عضو", "1991", "المتحدة", "الولايات", "Roosevelt", "ومنتج", "--", "هو", "من", "مدينة", "James", "الحزب", "بالإنجليزية", "وضابط", "في", "الأمريكي", "ولد", "الأمريكية", ".", "أفلام", "روزفلت", "نيويورك.وهو", "-RRB-", "1907", ":", "وكاتب" ],
+  "adjectives" : [ ],
+  "nouns" : [ "روزفلت", "م", "في", "جيمس", "الأمريكي", "،" ],
+  "text" : "جيمس روزفلت (بالإنجليزية: James Roosevelt) (و. 1907 – 1991 م) هو سياسي، وضابط، ومنتج أفلام، وكاتب من الولايات المتحدة الأمريكية ولد في مدينة نيويورك.وهو عضو في الحزب الديمقراطي الأمريكي .",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity7508",
+  "entityUrl" : "http://dbpedia.org/resource/House_of_Shennib",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:laterwork" : [ "Ambassador of Libya to Jordan" ]
+  },
+  "words" : [ "intrinsically", "Shennib", "historical", "Derna", "diplomats", "Omar", "relation", "WWII.The", "Arabic", "colonial", "members", "Wanis", "state", "Faiek", "Bayt", "20th", "Muamar", "House", "includes", "significant", "history", "'s", ",", ".", "seat", "State", "-RRB-", "Cyrenaica", ":", "playing", "Gaddafi", "authors", "Fouad", "Italian", "-LRB-", "prominent", "al-Qaddafi", "figures", "part", "Libyan", "roles", "notable", "Libya", "ministers", "defeat", "public", "شنيب", "creation", "بيت", "include", "Ahmed", "tied", "one", "families", "played", "century", "Abdul-Aziz", "unified", "heads", "family" ],
+  "adjectives" : [ "Italian", "prominent", "public", "20th", "Libyan", "historical", "notable", "significant" ],
+  "nouns" : [ "defeat", "seat", "century", "State", "colonial", "part", "history", "state", "family", "creation", "relation" ],
+  "text" : "The House of Shennib (Arabic: بيت شنيب‎‎ Bayt Shennib) is one of Libya's prominent families. The House of Shennib includes notable public figures who have played a significant part in 20th century Libyan history: heads of state, ministers, authors and diplomats. The family's history is intrinsically tied with the creation of the State of Libya with members of Bayt Shennib playing prominent roles in the defeat of colonial Italian Libya, the creation of the unified Libyan state after WWII.The most notable members of the family include Omar Faiek Shennib, Ahmed Fouad Shennib, Wanis al-Qaddafi (no relation to Muamar Gaddafi) and Abdul-Aziz Shennib. The historical seat of Bayt Shennib is Derna, Cyrenaica. On April 3, 2013 the family's significant contributions to the Libyan people were publicly recognized by the current Libyan government and their honors restored, if in name only. The area of Bi'r`Ayt Shinnib west of Derna is named after the family.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity16412",
+  "entityUrl" : "http://dbpedia.org/resource/Siddhi_Savetsila",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:laterwork" : [ "Foreign Minister", "Member of the Thai Privy Council" ]
+  },
+  "words" : [ "Politiker", "-LSB-", "-LRB-", "Aussprache", "sàʔwèːtsìʔlaː", "1919", "RTGS", "ein", "Thailand", "Er", "Luftwaffenoffizier", "Savetsila", "von", "Außenminister", "Dezember", "Thai", "เศวตศิลา", "Januar", "†", "thailändischer", "1990", "war", "*", "und", ",", "สิทธิ", ".", "Siddhi", "Bangkok", "zwischen", "5", "2015", "7", "1980", "-RRB-", "-RSB-", ":", "Sawetsila", "sìt", ";", "Sit" ],
+  "adjectives" : [ "und", "Januar" ],
+  "nouns" : [ "Politiker", "zwischen", "thailändischer", "sàʔwèːtsìʔlaː", "war", "sìt", "und", "ein", "Luftwaffenoffizier" ],
+  "text" : "Siddhi Savetsila (Thai สิทธิ เศวตศิลา, RTGS: Sit Sawetsila, Aussprache: [sìt sàʔwèːtsìʔlaː]; * 7. Januar 1919 in Bangkok; † 5. Dezember 2015) war ein thailändischer Luftwaffenoffizier und Politiker. Er war zwischen 1980 und 1990 Außenminister von Thailand. Seit 1991 war er Mitglied des Kronrats von König Bhumibol Adulyadej.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,10 @@
+id=69  property=dbp:stateDelegate  
+currently_represents-RB_VBZ  multiply=0.017106  P(currently_represents|dbp:stateDelegate)=0.126582  P(dbp:stateDelegate|currently_represents)=0.135135    
+currently_serving-RB_VBG  multiply=0.012316  P(currently_serving|dbp:stateDelegate)=0.075949  P(dbp:stateDelegate|currently_serving)=0.162162    
+elected_to-VBN_TO  multiply=0.00327  P(elected_to|dbp:stateDelegate)=0.189873  P(dbp:stateDelegate|elected_to)=0.017222    
+deputy_speaker-NN_NN  multiply=0.001582  P(deputy_speaker|dbp:stateDelegate)=0.012658  P(dbp:stateDelegate|deputy_speaker)=0.125    
+served_in-VBN_IN  multiply=9.04E-4  P(served_in|dbp:stateDelegate)=0.088608  P(dbp:stateDelegate|served_in)=0.010204    
+elected_in-VBN_IN  multiply=2.71E-4  P(elected_in|dbp:stateDelegate)=0.025316  P(dbp:stateDelegate|elected_in)=0.010695    
+served_counsel-VBD_NN  multiply=1.15E-4  P(served_counsel|dbp:stateDelegate)=0.025316  P(dbp:stateDelegate|served_counsel)=0.004556    
+member_of-NN_IN  multiply=7.8E-5  P(member_of|dbp:stateDelegate)=0.025316  P(dbp:stateDelegate|member_of)=0.003063    
+

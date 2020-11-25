@@ -1,0 +1,169 @@
+[ {
+  "entityIndex" : "1_entity11314",
+  "entityUrl" : "http://dbpedia.org/resource/Leung_Kwok-hung",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Lèuhng Gwok-hùhng" ]
+  },
+  "words" : [ "New", "Hong", "-LRB-", "27", "Kwok-hung", "March", "political", "Council", "founding", "known", "長毛", "member", "democratic", "1956", "Kong", "Hair", "activist", "Social", "League", "born", "Jyutping", "representing", "also", "*", "Leung", ",", "Territories", ".", "1", "mou4", "Democrats", "constituency", "Left-wing", "name", "-RRB-", "Long", "Chinese", "coeng4", "Legislative", ":", ";", "family", "East" ],
+  "adjectives" : [ "Left-wing", "Long", "democratic", "Chinese", "political", "Legislative" ],
+  "nouns" : [ "Hair", "activist", "mou4", "constituency", "name", "member", "Chinese", "coeng4", "family", "Council" ],
+  "text" : "(This is a Chinese name; the family name is Leung.) Leung Kwok-hung (born 27 March 1956 in Hong Kong), also known as Long Hair (Chinese: 長毛; Jyutping: coeng4 mou4*1), is a Hong Kong Left-wing political activist, a member of the Legislative Council of Hong Kong (representing the New Territories East constituency), a founding member of the League of Social Democrats and a democratic political activist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity11333",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Wing-tat",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Léih Wíhng Taat" ]
+  },
+  "words" : [ "New", "Hong", "conservative", "-LRB-", "25", "direct", "DP", "inside", "Council", "seen", "December", "Party", "Member", "representative", "Kong", "1955", "election", "LegCo", "West", "Democratic", "born", ",", "Lee", "Territories", ".", "Wing-tat", "Chairman", "constituency", "third", "name", "-RRB-", "Chinese", "Legislative", ";", "family", "returned", "party" ],
+  "adjectives" : [ "conservative", "third", "direct", "Chinese", "Legislative" ],
+  "nouns" : [ "election", "constituency", "name", "family", "DP", "representative", "Council", "party", "Chairman" ],
+  "text" : "(This is a Chinese name; the family name is Lee.) Lee Wing-tat (born 25 December 1955 in Hong Kong) is a Member of the Legislative Council of Hong Kong (LegCo), returned by direct election as representative of the New Territories West constituency. He was the third Chairman of the Democratic Party (DP). He is seen as a conservative inside the party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity11393",
+  "entityUrl" : "http://dbpedia.org/resource/Lau_Kong-wah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Làuh Gōng-wàh" ]
+  },
+  "words" : [ "``", "''", "Lau", "named", "-LRB-", "Raymond", "Ray", ",", "people", ".", "see", "redirects", "-RRB-", "name", "Chinese", ";", "family" ],
+  "adjectives" : [ "Chinese" ],
+  "nouns" : [ "name", "family" ],
+  "text" : "(\"Ray Lau\" redirects here. For other people named Raymond Lau, see Raymond Lau.)(This is a Chinese name; the family name is Lau.)",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity11394",
+  "entityUrl" : "http://dbpedia.org/resource/Leung_Yiu-chung",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Lèuhng Yiuh jūng" ]
+  },
+  "words" : [ "New", "Hong", "Kwai", "represented", "long-time", "Kong", "Guangdong", "briefly", "19", "roots", "Yiu-chung", ",", "'s", ".", "camp", "1985", "Tsing", "served", "-RRB-", "梁耀忠", "pro-labour", ":", "except", "District", "since", "geographical", "functional", "-LRB-", "May", "part", "Council", "1998", "1953", "1997", "1995", "Neighbourhood", "member", "Worker", "West", "born", "Service", "also", "Leung", "Centre", "Territories", "pan-democracy", "Zhongshan", "2016", "constituency", "Second", "Chinese", "Legislative", "family" ],
+  "adjectives" : [ "geographical", "functional", "pro-labour", "Legislative", "long-time" ],
+  "nouns" : [ "constituency", "briefly", "part", "member", "family", "pan-democracy", "Council", "camp" ],
+  "text" : "Leung Yiu-chung (Chinese: 梁耀忠, born 19 May 1953 in Hong Kong with family roots in Zhongshan, Guangdong). He is a member of the pro-labour Neighbourhood and Worker's Service Centre, part of the pan-democracy camp, and a long-time member of the Legislative Council of Hong Kong, having served since 1995, except briefly between 1997 and 1998. Between 1998 and 2016 he represented the New Territories West geographical constituency, and since 2016 the District Council (Second) functional constituency. Leung has also been a member of the Kwai Tsing District Council since 1985.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity11400",
+  "entityUrl" : "http://dbpedia.org/resource/Lau_Wong-fat",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Làuh Wòhng faat" ]
+  },
+  "words" : [ "Lau", "New", "Hong", "-LRB-", "strength", "JP", "rural", "political", "morphed", "Council", "represents", "October", "GBM", "government", "Heung", "member", "劉皇發", "power", "1936", "Kong", "Kuk", "Executive", "centrally", "15", "born", "Mun", "representing", "chairman", "establishment", "also", ",", "Wong-fat", "Tuen", "Territories", "former", ".", "Beijing", "constituency", "powerful", "-RRB-", "Yee", "Chinese", "Legislative", ":", "interests", "District" ],
+  "adjectives" : [ "powerful", "rural", "Legislative", "political", "former" ],
+  "nouns" : [ "government", "constituency", "strength", "member", "chairman", "establishment", "power" ],
+  "text" : "Lau Wong-fat, GBM, JP (Chinese: 劉皇發, born 15 October 1936 in Tuen Mun, Hong Kong) is a former member of the Hong Kong Legislative Council, representing the Heung Yee Kuk constituency. He was a member of Hong Kong Executive Council and chairman of the powerful Heung Yee Kuk, which represents the interests of the New Territories establishment. He was also the chairman of Tuen Mun District Council. This political strength in rural Hong Kong has been morphed into power centrally and with the Beijing government. He earned his prestige by fighting for the New Territories indigenous interests by insert an article in the Hong Kong Basic Law to ensure their privileges remained protected after Hong Kong's handover to Chinese sovereignty in 1997 when he was a member of the Hong Kong Basic Law Drafting Committee. For this, together with his extensive ownership of land and property, he is known as the \"King of the New Territories\" (新界王) or the \"Land Emperor of the New Territories\" (新界土皇帝). Billionaire Lau is politically identified as part of the pro-Beijing camp. He is a member of the Chinese People's Political Consultative Conference and has a close relationship with the Chinese Communist Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity2822",
+  "entityUrl" : "http://dbpedia.org/resource/Cheung_Kwok-che",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Jēung Gwok Chyúh" ]
+  },
+  "words" : [ "、", "。", "社會福利界", "（", "前香港民主民生協進會執行委員會司庫", "）", "張國柱", "英语", "，", "「", "為註冊社工", "－", "」", "Cheung", "育有兩子", "社總阿柱", "目前身兼香港明愛青少年中心主任", "：", "Kwok-che", "已婚", "1951年11月8日", "張國柱是香港泛民主派成員", "香港立法會議員", "工黨紀律委員會主席", "香港社會工作者總工會會長", "Peter", "人稱" ],
+  "adjectives" : [ ],
+  "nouns" : [ "。", "（", "Kwok-che", "英语" ],
+  "text" : "張國柱（英语：Peter Cheung Kwok-che，1951年11月8日－），人稱「社總阿柱」，已婚，育有兩子，為註冊社工。張國柱是香港泛民主派成員。目前身兼香港明愛青少年中心主任、香港社會工作者總工會會長、工黨紀律委員會主席，前香港民主民生協進會執行委員會司庫、香港立法會議員（社會福利界） 。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity17705",
+  "entityUrl" : "http://dbpedia.org/resource/Tanya_Chan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Chàhn Suhk jōng" ]
+  },
+  "words" : [ "、", "。", "Tanya", "（", "）", "推動政黨政治", "，", "－", "贊成各行各業全面設立最低工資", "陳淑莊", "Chan", "政治立場偏向自由主義", "1971年9月14日", "現時為執業大律師及D100節目主持", "以法治", "人權為核心價值", "陳淑莊是公民黨創黨黨員", "祖籍上海", "立法保障市民獲取資訊自由", "山頂選區", "前中西區區議會", "香港立法會議員", "外務副主席及前藝人", "民選議員", "香港執業大律師", "要求爭取普選", "最高工時以及推動累進稅制以確保社會資源公平分配" ],
+  "adjectives" : [ ],
+  "nouns" : [ "、", "。", "）", "現時為執業大律師及D100節目主持", "，", "－" ],
+  "text" : "陳淑莊（Tanya Chan，1971年9月14日－），祖籍上海，香港執業大律師，香港立法會議員，前中西區區議會（山頂選區）民選議員。 陳淑莊是公民黨創黨黨員、外務副主席及前藝人。現時為執業大律師及D100節目主持。政治立場偏向自由主義，要求爭取普選、立法保障市民獲取資訊自由、推動政黨政治、贊成各行各業全面設立最低工資、最高工時以及推動累進稅制以確保社會資源公平分配，以法治、人權為核心價值。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity15004",
+  "entityUrl" : "http://dbpedia.org/resource/Ronny_Tong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Tōng Gā wàh" ]
+  },
+  "words" : [ "New", "Hong", "electoral", "political", "Ronny", "earlier", "Kong", "group", "湯家驊", "Civic", ",", ".", "August", "reform", "co-founded", "Tong", "Senior", "centrist", "following", "-RRB-", "Democracy", ":", ";", "East", "party", "legislature", "22", "June", "-LRB-", "28", "convenor", "Council", "SC", "Party", "1950", "2004", "member", "Counsel", "tank", "vote", "resigned", "Path", "think", "historic", "born", "politician", "representing", "Territories", "Ka-wah", "constituency", "currently", "2015", "Chinese", "Legislative", "days", "quit" ],
+  "adjectives" : [ "historic", "centrist", "electoral", "Legislative", "political" ],
+  "nouns" : [ "reform", "Path", "constituency", "politician", "member", "convenor", "tank", "vote", "Council", "party", "legislature", "group" ],
+  "text" : "Ronny Tong Ka-wah, SC (Chinese: 湯家驊; born 28 August 1950 in Hong Kong) is a Hong Kong Senior Counsel and politician. He co-founded the Civic Party and was a member of the Legislative Council of Hong Kong, representing the New Territories East constituency from 2004 until he quit the party and resigned from the legislature on 22 June 2015, following the historic vote on Hong Kong electoral reform a few days earlier. He is currently the convenor of the centrist political group and think tank Path of Democracy.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity15016",
+  "entityUrl" : "http://dbpedia.org/resource/Rita_Fan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Faahn Chèuih Laih Taai" ]
+  },
+  "words" : [ "Congress", "Hong", "-LRB-", "woman", "11th", "September", "JP", "CBE", "United", "Council", "hold", "Republic", "President", "1997", "GBM", "National", "China", "member", "GBS", "sovereignty", "Kong", "Rita", "LegCo", "Shanghai", "born", "People", "Hsu", ",", "'s", ".", "Fan", "transfer", "Kingdom", "name", "-RRB-", "Chinese", "Legislative", ";", "position", "family", "delegation", "Lai-tai", "20", "1945", "first" ],
+  "adjectives" : [ "11th", "Chinese", "Legislative", "first" ],
+  "nouns" : [ "Fan", "transfer", "woman", "name", "member", "sovereignty", "position", "family", "delegation", "Council", "Republic" ],
+  "text" : "(This is a Chinese name; the family name is Fan.) Rita Fan Hsu Lai-tai, GBM, GBS, CBE, JP (born 20 September 1945 in Shanghai, China) was the President of the Legislative Council of Hong Kong (LegCo) after the transfer of sovereignty from the United Kingdom in 1997. She was the first woman to hold that position. She is a member of the Hong Kong delegation to the 11th National People's Congress of the People's Republic of China.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity15188",
+  "entityUrl" : "http://dbpedia.org/resource/Ruan_Yuan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Yúhn Yùhn" ]
+  },
+  "words" : [ "de", "Yuan", "-LRB-", "Il", "fut", "阮元", "était", "Mathématiciens", "obtint", "dynastie", "célèbre", "devint", "sur", "son", "des", "Qing", "jinshi", "travail", "un", "Chine", "Hanlin", "les", "à", "1764-1849", "Astronomes", "pour", "en", "examen", "nommé", ",", ".", "et", "1789", "Biographies", "érudit", "la", "impérial", "l'académie", "Ruan", "-RRB-", "le", "impériale", "ensuite" ],
+  "adjectives" : [ "devint", "impérial", "examen" ],
+  "nouns" : [ "sur", "Il", "son", "était", "jinshi", "travail", "un", "obtint", "Hanlin", "célèbre" ],
+  "text" : "Ruan Yuan (阮元, 1764-1849), était un érudit de la dynastie Qing de la Chine impériale. Il obtint le jinshi (examen impérial) en 1789 et fut nommé ensuite à l'académie Hanlin. Il devint célèbre pour son travail sur les Biographies des Astronomes et des Mathématiciens.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity15987",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Tsoi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Choi Yiuh Chēung" ]
+  },
+  "words" : [ "、", "。", "Yiu", "六四", "政界暱稱", "（", "）", "大學時期支援八九民運並參與", "，", "「", "－", "」", "Cheong", "或", "Richard", "香港民間監管公共事業聯委會發言人", "民主動力執委", "中學時期開始參與社運", "狗哥", "支聯會副主席", "1967年", "鎮壓後的營救工作", "阿狗", "民主黨中委", "蔡耀昌", "祖籍廣東深圳", "真普選聯盟成員團體代表", "曾任沙田區區議員", "Choi" ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : "蔡耀昌（Choi Yiu Cheong Richard，1967年－），香港民間監管公共事業聯委會發言人、支聯會副主席、真普選聯盟成員團體代表、民主動力執委、民主黨中委，曾任沙田區區議員。祖籍廣東深圳，中學時期開始參與社運，大學時期支援八九民運並參與「六四」鎮壓後的營救工作。政界暱稱「阿狗」或「狗哥」。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity16262",
+  "entityUrl" : "http://dbpedia.org/resource/Szeto_Wah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Sī tòuh Wàh" ]
+  },
+  "words" : [ "Hong", "Law", "Support", "Vines", "political", "1931", "prior", "shunned", "rare", "disliked", "January", "Kong", "--", "admired", "Democratic", "personal", "ideas", ",", ".", "camp", "appointed", "2", "Patriotic", "1985", "even", "appreciated", "-RRB-", "principles", ":", ";", "Wah", "politics", "Basic", "strong", "-LRB-", "28", "policies", "2011", "Committee", "Council", "gain", "1998", "1997", "opposition", "司徒華", "commentator", "government", "eschewing", "acumen", "central", "2004", "China", "member", "Alliance", "February", "According", "British", "handover", "Movements", "though", "politician", "chairman", "Although", "pan-democracy", "significance", "Drafting", "Szeto", "Chinese", "Legislative", "well", "formerly", "Stephen" ],
+  "adjectives" : [ "Patriotic", "British", "strong", "central", "Democratic", "rare", "Legislative", "political", "Chinese", "personal" ],
+  "nouns" : [ "significance", "opposition", "handover", "commentator", "government", "Support", "politician", "member", "chairman", "pan-democracy", "camp", "gain" ],
+  "text" : "Szeto Wah (Chinese: 司徒華; 28 February 1931 – 2 January 2011) was a politician of the pan-democracy camp of Hong Kong. He was formerly the chairman of The Hong Kong Alliance in Support of Patriotic Democratic Movements in China and a member of the Legislative Council from 1985 to 1997 and 1998 to 2004. Although the Hong Kong government prior to as well as after the British handover shunned him for his opposition to their policies, Szeto was admired in Hong Kong politics for his strong principles, for eschewing personal gain, and for his rare political acumen. According to commentator Stephen Vines, the Chinese central government appointed Szeto to the Hong Kong Basic Law Drafting Committee because they appreciated his political significance, even though they disliked his ideas. Aside from his political career, Szeto was also well known for his Chinese calligraphy skills. He was referred to as \"Uncle Wah\" (華叔) by Hong Kong people.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity14468",
+  "entityUrl" : "http://dbpedia.org/resource/Priscilla_Leung",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Lèuhng Méih fān" ]
+  },
+  "words" : [ "、", "中國國際經濟貿易仲裁委員會仲裁員", "1961年11月18日", "。", "JP", "梁美芬", "香港城市大學法律系副教授", "（", "）", "，", "英语", "專業會議成員", "－", "祖籍廣東肇慶", "／", "理工", "她參加2012年香港立法會選舉出戰九龍西地區直選", "Mei-fun", "Priscilla", "西九新動力召集人", "她現為立法會議員", "：", "博士學位", "成功連任", "中國人民大學法學碩士", "2000年", "香港大學法律專業證書", "2012年", "SBS", "持有香港中文大學政治與行政學系學士學位", "Leung", "都會大學英國法律專業共同試課程文憑", "九龍城區議員", "曾任該校法律學院副院長", "職業為香港執業大律師", "她獲頒香港十大傑出青年", "英國曼徹斯特" ],
+  "adjectives" : [ ],
+  "nouns" : [ "。", "Mei-fun", "梁美芬", "，" ],
+  "text" : "梁美芬，SBS，JP（英语：Priscilla Leung Mei-fun，1961年11月18日－），祖籍廣東肇慶，職業為香港執業大律師，香港城市大學法律系副教授，曾任該校法律學院副院長，持有香港中文大學政治與行政學系學士學位，香港大學法律專業證書，英國曼徹斯特（理工）／都會大學英國法律專業共同試課程文憑，中國人民大學法學碩士、博士學位，中國國際經濟貿易仲裁委員會仲裁員。 她現為立法會議員，九龍城區議員，西九新動力召集人，專業會議成員。2000年，她獲頒香港十大傑出青年。2012年，她參加2012年香港立法會選舉出戰九龍西地區直選，成功連任。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity194",
+  "entityUrl" : "http://dbpedia.org/resource/Albert_Ho",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:y" : [ "Hòh Jeun Yàhn" ]
+  },
+  "words" : [ "Hong", "-LRB-", "Support", "2012", "Edward", "Council", "December", "current", "1951", "Party", "2006", "China", "member", "revealed", "Alliance", "grabbed", "Albert", "international", "Kong", "Movements", "Snowden", "Democratic", "Ho", "born", "politician", "solicitor", "chairman", ",", "'s", ".", "former", "stay", "1", "assisted", "Patriotic", "Second", "constituency", "Chun-yan", "2013", "headlines", "-RRB-", "Chinese", "Legislative", ":", "latter", ";", "District", "何俊仁" ],
+  "adjectives" : [ "current", "Patriotic", "Chun-yan", "Democratic", "Chinese", "Legislative", "international", "former" ],
+  "nouns" : [ "Support", "constituency", "politician", "member", "solicitor", "chairman", "latter", "Council", "stay" ],
+  "text" : "Albert Ho Chun-yan (Chinese: 何俊仁; born 1 December 1951) is a solicitor and politician in Hong Kong. He is the current chairman of the Hong Kong Alliance in Support of Patriotic Democratic Movements in China and former chairman of the Democratic Party from 2006 to 2012. He is a solicitor and a former member of the Legislative Council of Hong Kong for District Council (Second) constituency. In 2013, Ho grabbed international headlines after it was revealed that he had assisted Edward Snowden during the latter's stay in Hong Kong.",
+  "patterns" : { }
+} ]

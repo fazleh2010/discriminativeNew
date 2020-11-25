@@ -1,0 +1,12 @@
+id=29  property=dbo:successor  
+served_in-VBN_IN  multiply=0.049188  P(served_in|dbo:successor)=0.075657  P(dbo:successor|served_in)=0.650146    
+served_alongside-VBD_IN  multiply=0.039143  P(served_alongside|dbo:successor)=0.054114  P(dbo:successor|served_alongside)=0.723356    
+member_of-NN_IN  multiply=0.032739  P(member_of|dbo:successor)=0.060221  P(dbo:successor|member_of)=0.543645    
+reelected_in-VBN_IN  multiply=0.009864  P(reelected_in|dbo:successor)=0.017642  P(dbo:successor|reelected_in)=0.55914    
+defeated_by-VBN_IN  multiply=0.007022  P(defeated_by|dbo:successor)=0.008312  P(dbo:successor|defeated_by)=0.844828    
+succeeded_by-VBN_IN  multiply=0.004506  P(succeeded_by|dbo:successor)=0.005598  P(dbo:successor|succeeded_by)=0.804878    
+defeated_in-VBN_IN  multiply=0.003277  P(defeated_in|dbo:successor)=0.005428  P(dbo:successor|defeated_in)=0.603774    
+ran_for-VBD_IN  multiply=0.003225  P(ran_for|dbo:successor)=0.006277  P(dbo:successor|ran_for)=0.513889    
+resigned_from-VBN_IN  multiply=0.002827  P(resigned_from|dbo:successor)=0.005089  P(dbo:successor|resigned_from)=0.555556    
+vicepresident_of-NN_IN  multiply=0.002798  P(vicepresident_of|dbo:successor)=0.006277  P(dbo:successor|vicepresident_of)=0.445783    
+

@@ -1,0 +1,949 @@
+[ {
+  "entityIndex" : "1_entity10927",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Immergut",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "July 2009" ]
+  },
+  "words" : [ "New", "Starr", "United", "States", "President", "December", "worked", "Assistant", "judge", "state", "July", "Johanna", "deputy", "work", "California", ",", "court", "Clinton", ".", "Karin", "appointed", "Governor", "Ken", "attorney", "district", "-RRB-", "Bill", "Attorney", "District", "22", "Oregon", "-LRB-", "circuit", "Portland", "York", "resignation", "County", "serving", "2009", "U.S.", "native", "2003", "born", "Immergut", "Ted", "1960", "Multnomah", "investigation", "Kulongoski" ],
+  "adjectives" : [ ],
+  "nouns" : [ "circuit", "deputy", "native", "attorney", "work", "district", "investigation", "judge", "state", "resignation", "court" ],
+  "text" : "Karin Johanna Immergut (born December 22, 1960) is a judge in the state of Oregon. A native of New York, she was the United States Attorney for the District of Oregon from 2003 until her resignation in July 2009 when she was appointed as circuit court judge for Multnomah County, Oregon, by Governor Ted Kulongoski. Before serving as a U.S. Attorney, Immergut worked as an Assistant U.S. Attorney in both Oregon and California, was a deputy district attorney in Portland, and work for Ken Starr during his investigation of President Bill Clinton.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity11071",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Skelton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1973" ]
+  },
+  "words" : [ "Oregon", "23", "-LRB-", "May", "American", "fifty", "War", "World", "Washington", "B-17", "BS", "October", "1994", "flew", "1918", "Dexter", "Assembly", "--", "II", "pilot", "Japan", "MS", "politician", "Edinboro", "Skelton", "war", "received", ",", ".", "Michigan", "Keith", "University", "soldier", "6", "attorney", "missions", "served", "-RRB-", "Legislative", "JD" ],
+  "adjectives" : [ "American", "Legislative" ],
+  "nouns" : [ "BS", "pilot", "soldier", "attorney", "MS", "politician", "war", "JD", "Assembly" ],
+  "text" : "Keith Dexter Skelton (May 6, 1918 – October 23, 1994) was an American attorney, soldier and politician. He served in the Oregon Legislative Assembly and as a World War II B-17 pilot. As a pilot, he flew over fifty missions in the war against Japan. He received his BS from Edinboro University, his MS from University of Michigan and his JD from the University of Washington. He served seven terms in the Oregon House of Representatives, from 1957 to 1973, first from Lane County, then from Multnomah County. He was also an attorney, was on the faculty of two state universities, and served on the Board of Directors of Portland Community College from 1987 onward. He had been chair of Governor Tom McCall's Task Force on Transportation. Skelton was born on a farm near Cambridge Springs, Pennsylvania. He had two daughters, Carol and Anne, and two sons, Keith and Thomas. In 1968 he married fellow legislator and future Oregon Supreme Court judge Betty Roberts. Skelton died on October 23, 1994.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity13692",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Kahl",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2011" ]
+  },
+  "words" : [ "``", "''", "Oregon", "Portland", "Nick", "Democratic", "practicing", "politician", "Nicholas", "2011", "House", "Representatives", ",", ".", "2009", "served", "Kahl", "lawyer" ],
+  "adjectives" : [ "Democratic" ],
+  "nouns" : [ "politician", "lawyer" ],
+  "text" : "Nicholas \"Nick\" Kahl is a Democratic politician from Oregon. He served in the Oregon House of Representatives from 2009 to 2011. He is a practicing lawyer in Portland, Oregon.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity7919",
+  "entityUrl" : "http://dbpedia.org/resource/J._Melville_Broughton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1945-01-04" ]
+  },
+  "words" : [ "-LRB-", "death", "United", "March", "office", "two", "States", "later", "Melville", "North", "January", "November", "--", "months", "briefly", "17", "Senator", "Carolina", ",", ".", "1888", "Governor", "1941", "3", "approximately", "6", "Joseph", "60th", "served", "-RRB-", "1949", "Broughton", "1945" ],
+  "adjectives" : [ "60th" ],
+  "nouns" : [ "Governor", "death", "office" ],
+  "text" : "Joseph Melville Broughton (November 17, 1888 – March 6, 1949) was the 60th Governor of North Carolina from 1941 to 1945. He later briefly served as a United States Senator from January 3, 1949 until his death in office approximately two months later.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity8083",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hicklin_Hall",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1904-12-31" ]
+  },
+  "words" : [ "John", "United", "several", "appointment", "high-profile", "States", "1854", "scandal", "officials", "defraud", "July", "1937", "state", "--", "area", "17", "prosecute", "House", ",", ".", "involved", "attorney", "fraud", "served", "-RRB-", "failing", "Hicklin", "District", "Attorney", "Oregon", "became", "private", "-LRB-", "Portland", "27", "Representatives", "subsequently", "U.S.", "government", "public", "native", "acquiring", "federal", "land", "convicted", "pardoned", "early", "participants", "politician", "prosecutor", "conspired", "1890s", "Hall", "entity" ],
+  "adjectives" : [ "private", "federal", "several", "high-profile", "early" ],
+  "nouns" : [ "area", "politician", "appointment", "prosecutor", "government", "scandal", "public", "native", "attorney", "fraud", "land", "state", "Hall", "entity" ],
+  "text" : "John Hicklin Hall (July 17, 1854 – July 27, 1937) was a politician and attorney in the U.S. state of Oregon. A native of the Portland area, he served in the Oregon House of Representatives in the early 1890s before appointment as the United States District Attorney for Oregon. As the federal prosecutor, he became involved in the Oregon land fraud scandal, in which several high-profile public officials conspired to defraud the government in acquiring land for a private entity. Hall was convicted, but subsequently pardoned, for failing to prosecute some of the participants. Hall was also the father of Oregon governor John H. Hall.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity8321",
+  "entityUrl" : "http://dbpedia.org/resource/Janine_P._Geske",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1998", "2002-05-14" ]
+  },
+  "words" : [ "Milwaukee", "-LRB-", "May", "American", "County", "Court", "1998", "Supreme", "1993", "Geske", "2002", "Janine", "justice", "P.", "Wisconsin", "12", "law", "Executive", "jurist", "born", ",", ".", "professor", "interim", "served", "-RRB-", "1949" ],
+  "adjectives" : [ "American", "interim" ],
+  "nouns" : [ "professor", "law", "jurist", "justice" ],
+  "text" : "Janine P. Geske (born May 12, 1949) is an American jurist and law professor who served as a justice of the Wisconsin Supreme Court from 1993 to 1998 and as interim Milwaukee County Executive in 2002.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity8678",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lim",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2009" ]
+  },
+  "words" : [ "Oregon", "23", "-LRB-", "Leader", "John", "United", "Republican", "run", "States", "December", "1995", "U.S.", "houses", "state", "1935", "Assembly", "Majority", "born", "politician", ",", ".", "unsuccessfully", "nomination", "Lim", "Governor", "Senate", "State", "served", "-RRB-", "Legislative" ],
+  "adjectives" : [ "Republican", "Legislative" ],
+  "nouns" : [ "Governor", "politician", "state", "Assembly", "nomination" ],
+  "text" : "John Lim (born December 23, 1935) is a Republican politician in the United States state of Oregon. He has served in both houses of the Oregon Legislative Assembly and was the Oregon State Senate Majority Leader in 1995. He has unsuccessfully run for the U.S. Senate and for the Republican nomination for Governor of Oregon.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity8814",
+  "entityUrl" : "http://dbpedia.org/resource/John_Smith_Griffin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1843" ]
+  },
+  "words" : [ "Oregon", "Vancouver", "-LRB-", "American", "Meetings", "participated", "church", "John", "Fort", "1899", "later", "--", "Champoeg", "Government", "Tualatin", "created", "Smith", "Provisional", "Plains", ".", "tutor", "1843", "Valley", "served", "-RRB-", "organized", "Griffin", "1807", "Country", "missionary" ],
+  "adjectives" : [ "American", "missionary" ],
+  "nouns" : [ "church", "tutor" ],
+  "text" : "John Smith Griffin (1807–1899) was an American missionary in Oregon Country who participated at the Champoeg Meetings that created the Provisional Government of Oregon in 1843. In Oregon he served as a tutor at Fort Vancouver and later organized a church on the Tualatin Plains in the Tualatin Valley.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity9018",
+  "entityUrl" : "http://dbpedia.org/resource/John_H._Moores",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1874" ]
+  },
+  "words" : [ "Oregon", "June", "-LRB-", "Isaac", "26", "American", "moved", "John", "1880", "serve", "Alabama", "December", "son", "1852", "would", "Salem", "state", "R.", "businessman", "Henry", "--", "Territory", "16", "mayor", "Moores", "politician", "born", ",", ".", "1821", "Senate", "State", "-RRB-" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "son", "mayor", "politician", "state", "businessman" ],
+  "text" : "John Henry Moores (June 26, 1821–December 16, 1880) was an American businessman and politician in the state of Oregon. The son of Isaac R. Moores, he was born in Alabama and moved to the Oregon Territory in 1852. In Oregon, he would serve in the Oregon State Senate and as the mayor of Salem.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity9033",
+  "entityUrl" : "http://dbpedia.org/resource/Josiah_Failing",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1854" ]
+  },
+  "words" : [ "Oregon", "small", "New", "became", "hundred", "-LRB-", "Portland", "York", "city", "moved", "United", "merchandising", "Failing", "1877", "States", "general", "son", "July", "businessman", "Henry", "successful", "--", "still", "14", "town", "business", "mayor", "also", "started", ",", ".", "August", "noted", "Born", "-RRB-", "9", "Josiah", "1806", "fourth" ],
+  "adjectives" : [ "small", "general", "fourth", "successful" ],
+  "nouns" : [ "son", "town", "business", "mayor", "city", "businessman", "merchandising" ],
+  "text" : "Josiah Failing (July 9, 1806 – August 14, 1877) was a businessman and the fourth mayor of Portland, Oregon, United States. Born in New York, he moved to Portland when it was still a small town of a few hundred. He and his son Henry, who also became a noted businessman and mayor of the city, started a general merchandising business that became very successful.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity9216",
+  "entityUrl" : "http://dbpedia.org/resource/Jules_Bailey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "May 2014" ]
+  },
+  "words" : [ "Oregon", "June", "Alexander", "-LRB-", "Portland", "Jules", "Kopel", "office", "Representatives", "Southeast", "County", "2009", "previously", "1979", "Bailey", "November", "took", "born", "representing", "Commissioner", "House", ",", "inner", ".", "2014", "Multnomah", "served", "8", "-RRB-", "Northeast" ],
+  "adjectives" : [ "inner" ],
+  "nouns" : [ "office" ],
+  "text" : "Jules Alexander Kopel Bailey (born November 8, 1979) is a County Commissioner for Multnomah County, Oregon. He took office in June 2014. He previously served in the Oregon House of Representatives from 2009 to 2014, representing inner Southeast and Northeast Portland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity9391",
+  "entityUrl" : "http://dbpedia.org/resource/John_D._Boon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1862" ]
+  },
+  "words" : [ "Oregon", "Politiker", "-LRB-", "John", "Händler", "Juli", "ein", "Er", "der", "Demokratische", "Boon", "erste", "von", "vom", "Salem", "1817", "Oregon-Territorium", "Januar", "US-amerikanischer", "zweimal", "†", "Treasurer", "17", "Partei", "war", "*", "und", "Daniel", "Athens", ",", ".", "1864", "State", "8", "-RRB-", "Ohio", ";" ],
+  "adjectives" : [ "Januar" ],
+  "nouns" : [ "Politiker", "Demokratische", "Partei", "war", "Händler", "und", "ein", "US-amerikanischer", "zweimal" ],
+  "text" : "John Daniel Boon (* 8. Januar 1817 in Athens, Ohio; † 17. Juli 1864 in Salem, Oregon) war ein US-amerikanischer Händler und Politiker (Demokratische Partei). Er war zweimal Treasurer vom Oregon-Territorium und der erste Treasurer of State von Oregon.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity4786",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Schulmerich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1929", "1933" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "city", "moved", "pursuits", "Republican", "German", "industry", "C.", "Edward", "settling", "boy", "banking", "professional", "worked", "U.S.", "native", "prior", "houses", "1937", "state", "near", "businessman", "Assembly", "--", "politician", "Schulmerich", "California", ",", ".", "1863", "Hillsboro", "council", "served", "-RRB-", "Legislative", "family" ],
+  "adjectives" : [ "Legislative", "German", "professional" ],
+  "nouns" : [ "native", "city", "council", "politician", "industry", "state", "family", "businessman", "boy", "Assembly", "banking" ],
+  "text" : "Edward C. Schulmerich (1863 – 1937) was a businessman and politician in the U.S. state of Oregon. A native of California, his German family moved to Oregon when he was a boy, settling near Hillsboro. There he worked in the banking industry and other professional pursuits. A Republican, he served in both houses of the Oregon Legislative Assembly and prior to that on the city council of Hillsboro. His former home, the Edward Schulmerich House, is listed on the National Register of Historic Places.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity18919",
+  "entityUrl" : "http://dbpedia.org/resource/William_W._Chapman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1849", "1869", "1840-10-27" ]
+  },
+  "words" : [ "Oregon", "Oktober", "Politiker", "-LRB-", "Portland", "Zwischen", "ein", "Williams", "US-Repräsentantenhaus", "1892", "das", "Delegierter", "1838", "US-amerikanischer", "11", "†", "vertrat", "Chapman", "Clarksburg", "im", "18", "war", "als", "*", "und", "William", ",", "Iowa-Territorium", "er", ".", "August", "1840", "1808", "-RRB-", ";", "Virginia" ],
+  "adjectives" : [ "und" ],
+  "nouns" : [ "Politiker", "vertrat", "im", "US-Repräsentantenhaus", "das", "war", "Delegierter", "ein", "Iowa-Territorium", "er", "US-amerikanischer" ],
+  "text" : "William Williams Chapman (* 11. August 1808 in Clarksburg, Virginia; † 18. Oktober 1892 in Portland, Oregon) war ein US-amerikanischer Politiker. Zwischen 1838 und 1840 vertrat er das Iowa-Territorium als Delegierter im US-Repräsentantenhaus.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity18964",
+  "entityUrl" : "http://dbpedia.org/resource/William_S._Ladd",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1855", "1858" ]
+  },
+  "words" : [ "Oregon", "Vermont", "-LRB-", "Portland", "prominent", "American", "Sargent", "building", "October", "bank", "philanthropist", "native", "1893", "state", "brick", "1859", "January", "businessman", "early", "10", "--", "figure", "development", "mayor", "built", "politician", "also", "William", ",", "'s", ".", "noted", "Ladd", "co-founded", "twice", "6", "served", "-RRB-", "1826", "1850s", "first" ],
+  "adjectives" : [ "prominent", "American", "early", "first" ],
+  "nouns" : [ "figure", "development", "bank", "philanthropist", "mayor", "native", "politician", "state", "brick", "businessman", "building" ],
+  "text" : "William Sargent Ladd (October 10, 1826 – January 6, 1893) was an American politician and businessman in Oregon. He twice served as Portland, Oregon’s mayor in the 1850s. A native of Vermont, he was a prominent figure in the early development of Portland, and co-founded the first bank in the state in 1859. Ladd also built the first brick building in Portland and was a noted philanthropist. Part of his former estate, the Ladd Carriage House, is on the National Register of Historic Places.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity18967",
+  "entityUrl" : "http://dbpedia.org/resource/William_Waldo_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1885" ]
+  },
+  "words" : [ "22", "Oregon", "24", "-LRB-", "American", "father", "county", "John", "serve", "body", "Court", "1832", "Supreme", "would", "Missouri", "came", "judge", "included", "November", "1911", "--", "including", "politician", "also", "Daniel", "William", ",", "B.", "April", ".", "Senate", "1885", "attorney", "Born", "State", "-RRB-", "Country", "Waldo", "family", "brother", "president" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "attorney", "politician", "father", "county", "Country", "judge", "family", "body", "brother", "president" ],
+  "text" : "William Waldo (April 22, 1832 – November 24, 1911) was an American politician and attorney in Oregon. Born in Missouri, he came to the Oregon Country with his family that included father Daniel Waldo. He would serve in the Oregon State Senate, including as president of the body in 1885. Waldo was also a county judge, while his brother John B. Waldo would serve on the Oregon Supreme Court.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "17_entity19062",
+  "entityUrl" : "http://dbpedia.org/resource/Winlock_W._Steiwer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1896", "1904" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "American", "1900s", "Steiwer", "county", "Republican", "Winlock", "bank", "1852", "scandal", "land", "July", "state", "judge", "early", "--", "Willamette", "made", "founder", "18", "politician", ",", "banker", ".", "August", "1920", "twice", "Senate", "involved", "Valley", "Born", "State", "fraud", "W.", "7", "served", "-RRB-", "rancher", "name", "Eastern" ],
+  "adjectives" : [ "American", "early" ],
+  "nouns" : [ "bank", "scandal", "founder", "fraud", "politician", "rancher", "name", "county", "land", "state", "judge", "banker" ],
+  "text" : "Winlock W. Steiwer (August 7, 1852 – July 18, 1920) was an American banker, rancher, and politician in the state of Oregon. Born in the Willamette Valley, he made his name in Eastern Oregon as the founder of a bank and as county judge. A Republican, he twice served in the Oregon State Senate. He was involved in the Oregon land fraud scandal of the early 1900s.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "18_entity19068",
+  "entityUrl" : "http://dbpedia.org/resource/William_G._Hare",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1929" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "25", "American", "G.", "father", "Republican", "Legislature", "later", "1971", "native", "houses", "state", "lawyer", "Oregonian", "November", "--", "area", "law", "mayor", "politician", "19", "D.", "William", ",", "grew", "Hare", "April", ".", "Hillsboro", "1882", "served", "Joseph", "-RRB-", "brother", "practiced" ],
+  "adjectives" : [ "American", "native" ],
+  "nouns" : [ "area", "law", "mayor", "politician", "father", "state", "brother", "lawyer" ],
+  "text" : "William G. Hare (April 19, 1882 – November 25, 1971) was an American lawyer and politician in the state of Oregon. A native Oregonian, he grew up in the Hillsboro area where he later practiced law. A Republican, he served in both houses of the Oregon Legislature, as had his father William D. Hare. His brother Joseph was once the mayor of Hillsboro.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "19_entity19145",
+  "entityUrl" : "http://dbpedia.org/resource/William_H._Wehrung",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1905" ]
+  },
+  "words" : [ "22", "Oregon", "-LRB-", "September", "American", "city", "March", "Party", "native", "member", "state", "30", "businessman", "Henry", "1934", "Oregonian", "--", "longtime", "Democratic", "politician", "merchant", "William", ",", "cabinetmaker", "banker", ".", "Wehrung", "Senate", "1861", "Hillsboro", "State", "council", "served", "-RRB-" ],
+  "adjectives" : [ "longtime", "American", "native" ],
+  "nouns" : [ "city", "council", "politician", "member", "merchant", "state", "cabinetmaker", "banker", "businessman" ],
+  "text" : "William Henry Wehrung (March 22, 1861 – September 30, 1934) was an American businessman and politician in the state of Oregon. A native Oregonian, he was a cabinetmaker, banker, and merchant in Hillsboro, Oregon. A member of the Democratic Party, he served in the Oregon State Senate and was a longtime member of the Hillsboro city council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "20_entity19200",
+  "entityUrl" : "http://dbpedia.org/resource/William_H._Farrar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1859" ]
+  },
+  "words" : [ "Oregon", "Franklin", "-LRB-", "Portland", "Appointed", "American", "County", "delegate", "President", "1853", "Pierce", "1873", "1859", "1857", "November", "--", "Territorial", "mayor", "H.", "politician", "representing", "William", ",", ".", "Convention", "Farrar", "Constitutional", "1862", "served", "Multnomah", "-RRB-", "1826", "District", "Attorney", "21" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "delegate", "mayor", "politician" ],
+  "text" : "William H. Farrar (1826 – November 21, 1873) was an American politician who served as mayor of Portland, Oregon, in 1862. Appointed as Oregon Territorial District Attorney in 1853 by President Franklin Pierce. He served as District Attorney for Oregon from 1853–1859. In 1857, he was a delegate to the Oregon Constitutional Convention representing Multnomah County. According to the Oregon State Archives he voted against approving the Constitution. He was elected in 1862 as the mayor of Portland, Oregon. He died in on November 21, 1873, in Washington City, District of Columbia (present-day Washington D.C.).The October 18, 2012, edition of the Portland Mercury listed Farrar as the \"Worst Mayor Ever.\" According to the article, at the beginning of Farrar's term, he informed the city council he had to take a three-month leave of absence for business. He was never seen in Portland again.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "21_entity11556",
+  "entityUrl" : "http://dbpedia.org/resource/Levi_Branson_Reeder",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1903" ]
+  },
+  "words" : [ "``", "Oregon", "-LRB-", "September", "26", "Republican", "Representatives", "1930", "native", "state", "January", "US", "Speaker", "''", "--", "Pendleton", "politician", "Levi", "House", ",", "Lee", ".", "1865", "Reeder", "attorney", "Illinois", "7", "served", "-RRB-", "Branson", "1903", "1901" ],
+  "adjectives" : [ "Republican" ],
+  "nouns" : [ "native", "attorney", "politician", "state" ],
+  "text" : "Levi Branson \"Lee\" Reeder (September 7, 1865 – January 26, 1930) was an attorney and Republican politician from Pendleton in the US state of Oregon. A native of Illinois, he served as Speaker of the Oregon House of Representatives from 1901–1903.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "22_entity11617",
+  "entityUrl" : "http://dbpedia.org/resource/Luther_Elkins",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1861" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "May", "26", "American", "Maine", "session", "Elkins", "Legislature", "pioneer", "via", "serving", "delegate", "President", "December", "Williams", "1852", "state", "1859", "Luther", "1858", "selected", "--", "Territorial", "13", "Territory", "1809", "politician", "overland", ",", "'s", ".", "Philotheta", "elected", "special", "1887", "Convention", "Senate", "Trail", "Constitutional", "immigrated", "Born", "State", "served", "-RRB-", "Cornville", "married", "first" ],
+  "adjectives" : [ "special", "American", "first" ],
+  "nouns" : [ "delegate", "Trail", "session", "politician", "state", "overland", "pioneer" ],
+  "text" : "Luther Elkins (May 26, 1809 – December 13, 1887) was an American politician and pioneer in the state of Oregon. Born in Cornville, Maine and married to Philotheta Williams, he immigrated to the Oregon Territory in 1852, overland via the Oregon Trail. He served in the Oregon Territorial Legislature and was a delegate to the Oregon Constitutional Convention. He was elected to the Oregon State Senate in 1858, serving in the 1859 special session, for which he was selected as the Oregon Senate's first President. He also served in the 1860 regular session, again as president. He died in 1887, on December 13, and is buried at the Pioneer Cemetery in Lebanon, Oregon.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "23_entity11709",
+  "entityUrl" : "http://dbpedia.org/resource/LeRoy_Fjordbotten",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1986", "1992-12-14", "May 1986" ]
+  },
+  "words" : [ "-LRB-", "MLA", "Alberta", "held", "serving", "auctioneer", "Fjordbotten", "government", "1993", "1992", "provincial", "1938", "LeRoy", "1979", "Assembly", "November", "minister", "level", "born", "politician", "portfolios", ",", "former", ".", "seat", "Progressive", "governing", "4", "1982", "various", "served", "Conservative", "caucus", "-RRB-", "farmer", "Legislative", "cabinet" ],
+  "adjectives" : [ "various", "provincial", "Legislative", "former" ],
+  "nouns" : [ "seat", "auctioneer", "government", "MLA", "minister", "level", "politician", "farmer", "cabinet", "Assembly" ],
+  "text" : "LeRoy Fjordbotten (born November 4, 1938) is a former provincial level politician, farmer and auctioneer. He served as cabinet minister in the government of Alberta serving various portfolios from 1982 to 1992. He held as seat in the Legislative Assembly of Alberta as an MLA in the governing Progressive Conservative caucus from 1979 to 1993.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "24_entity11739",
+  "entityUrl" : "http://dbpedia.org/resource/Levi_L._Rowland",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1895-08-01" ]
+  },
+  "words" : [ "Oregon", "became", "-LRB-", "September", "American", "Tennessee", "Superintendent", "Republican", "Instruction", "Rowland", "educator", "asylum", "Western", "1831", "native", "physician", "insane", "state", "Hospital", "January", "pastor", "--", "17", "1908", "Levi", "19", "also", "Public", ",", "'s", ".", "University", "State", "Lindsey", "served", "-RRB-", "farmer", "president" ],
+  "adjectives" : [ "Western", "American", "insane" ],
+  "nouns" : [ "native", "Superintendent", "farmer", "physician", "state", "educator", "asylum", "pastor", "president" ],
+  "text" : "Levi Lindsey Rowland (September 17, 1831 – January 19, 1908) was an American educator and physician in the state of Oregon. A native of Tennessee, he served as the Oregon Superintendent of Public Instruction, president of what became Western Oregon University, and as the Superintendent of Oregon’s insane asylum, now the Oregon State Hospital. The Republican was also a pastor and farmer.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "25_entity12003",
+  "entityUrl" : "http://dbpedia.org/resource/Liam_Maxwell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "April 2016" ]
+  },
+  "words" : [ "June", "-LRB-", "Chief", "part", "Digital", "Maxwell", "executive", "servant", "public", "National", "Technology", "UK", "Since", "British", "Adviser", "Government", "born", "Service", "technology", "'s", ",", "Liam", ".", "April", "2016", "-RRB-", "1968", "first", "Officer", "CTO" ],
+  "adjectives" : [ "British", "public", "first" ],
+  "nouns" : [ "executive", "servant", "part", "technology" ],
+  "text" : "Liam Maxwell (born June 1968) is a British technology executive and public servant. Since April 2016 he has been the UK's first National Technology Adviser, having been the UK's first Chief Technology Officer (CTO), as part of the Government Digital Service.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "26_entity2388",
+  "entityUrl" : "http://dbpedia.org/resource/Cameron_A._Morrison",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1925-01-14" ]
+  },
+  "words" : [ "``", "defeated", "called", "Roads", "Morrison", "Cameron", "55th", "Furnifold", "A.", "employed", "later", "race-baiting", "North", "state", "Simmons", "highway", "--", "Democratic", "Carolina", ",", ".", "August", "Governor", "system", "5", "-RRB-", "tactics", "Gardner", "governor", "1869", "support", "20", "Watts", "Richmond", "O.", "primary", "-LRB-", "Max", "County", "1953", "October", "U.S.", "modern", "backing", "Sen.", "''", "born", "D.", "1921", "help", "1920", "1925", "Good" ],
+  "adjectives" : [ "modern", "Democratic", "race-baiting", "55th", "Good", "primary" ],
+  "nouns" : [ "Governor", "help", "system", "backing", "state", "governor", "highway", "A.", "support" ],
+  "text" : "Cameron A. Morrison (October 5, 1869 – August 20, 1953) was the 55th Governor of the U.S. state of North Carolina from 1921 to 1925. He was born in 1869 in Richmond County, North Carolina. With the backing of Sen. Furnifold Simmons and the help of race-baiting tactics employed by A. D. Watts, Morrison defeated O. Max Gardner in the 1920 Democratic primary for Governor. He was later called \"the Good Roads governor\" for his support of a modern highway system. Morrison also pushed for increased funds for public education, while also battling the teaching of the theory of evolution. He was later appointed to serve as a United States Senator for the state of North Carolina (after the death of Lee S. Overman) between 1930 and 1932, but lost his seat in the Democratic primary runoff to Robert R. Reynolds. Morrison was later elected to one term in the United States House of Representatives from 1943 to 1945. He again lost a Democratic primary for a U.S. Senate seat in 1944, to Clyde R. Hoey. He died in Quebec City in 1953. A ten-story residence hall on the campus of UNC-Chapel Hill is named in his honor. His home at Charlotte, Morrocroft, was listed on the National Register of Historic Places in 1983.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "27_entity2688",
+  "entityUrl" : "http://dbpedia.org/resource/Cornelius_Gilliam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1842", "1844" ]
+  },
+  "words" : [ "Oregon", "24", "Wars", "-LRB-", "militia", "Cayuse", "county", "March", "War", "best", "Black", "pioneer", "settling", "immigrating", "sheriff", "Hawk", "1798", "U.S.", "commander", "known", "native", "Missouri", "member", "North", "Seminole", "state", "--", "13", "Carolina", ",", "April", ".", "Cornelius", "Senate", "volunteer", "Mormons", "State", "forces", "served", "Gilliam", "-RRB-", "Country", "1848" ],
+  "adjectives" : [ "Black" ],
+  "nouns" : [ "commander", "volunteer", "militia", "native", "county", "member", "War", "Country", "state", "pioneer", "sheriff", "Hawk" ],
+  "text" : "Cornelius Gilliam (April 13, 1798 – March 24, 1848) was a pioneer of the U.S. state of Oregon who was best known as the commander of the volunteer forces against the Cayuse in the Cayuse War. A native of North Carolina, he served in the Black Hawk War and Seminole Wars before settling in Missouri. There he served in the militia against the Mormons, was a county sheriff, and a member of the Missouri State Senate before immigrating to the Oregon Country.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "28_entity2836",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Garrett_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2013" ]
+  },
+  "words" : [ "Portland", "Law", "Coie", "political", "School", "earned", "1996", "Reed", "High", "counsel", "law", "Perkins", "Chicago", "bachelor", "born", "Wilson", "degree", "2000", "'s", ".", "University", "Garrett", "graduated", "science", "College", "formerly" ],
+  "adjectives" : [ "political" ],
+  "nouns" : [ "counsel", "law", "bachelor", "science", "degree" ],
+  "text" : "Garrett was born in Portland and graduated from Wilson High School. He earned a bachelor's degree in political science from Reed College in 1996 and a law degree from the University of Chicago Law School in 2000. He was formerly of counsel with Perkins Coie in Portland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "29_entity2900",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_B._Moores",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1896" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "Isaac", "American", "father", "uncle", "Jr.", "John", "Legislature", "Republican", "Representatives", "1930", "1895", "native", "Missouri", "came", "grandfather", "term", "state", "R.", "January", "businessman", "Speaker", "--", "sole", "Charles", "including", "Moores", "H.", "politician", "House", "politicians", ",", ".", "August", "Bruce", "5", "6", "served", "-RRB-", "1849", "family" ],
+  "adjectives" : [ "sole", "American" ],
+  "nouns" : [ "native", "politician", "father", "uncle", "grandfather", "term", "state", "family", "businessman" ],
+  "text" : "Charles Bruce Moores (August 6, 1849 – January 5, 1930) was an American businessman and politician in the state of Oregon. A native of Missouri, he came from a family of politicians including his father John H. Moores, his grandfather Isaac R. Moores, and uncle Isaac R. Moores, Jr. who all served in the Oregon Legislature. A Republican, he served as the Speaker of the Oregon House of Representatives during his sole term in the House in 1895.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "30_entity2922",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_H._Turner_(attorney)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1993" ]
+  },
+  "words" : [ "Bhagwan", "bioterror", "I.", "United", "appointment", "Reagan", "years", "States", "marriages", "President", "worked", "Rajneeshpuram", "1936", "investigated", "Charles", "14", "including", ",", "Sidney", "'s", "illegal", "former", ".", "Osho", "appointed", "followers", "1984", "Rajneesh", "Lezak", "Prior", "fraud", "-RRB-", "presidential", "Attorney", "District", "replacement", "Shree", "Oregon", "-LRB-", "predecessor", "U.S.", "known", "Rajneeshee", "attack", "Dalles", "immigration", "H.", "born", "sham", "Ronald", "activities", "Turner", "organized", "well" ],
+  "adjectives" : [ "presidential", "illegal", "former" ],
+  "nouns" : [ "immigration", "sham", "bioterror", "fraud", "attack", "appointment", "predecessor", "replacement", "Osho" ],
+  "text" : "Charles H. Turner (born 1936) is a former United States Attorney for the District of Oregon. Prior to his presidential appointment as U.S. Attorney, Turner worked under his predecessor, Sidney I. Lezak, for 14 years. He was appointed as Lezak's replacement by President Ronald Reagan. As U.S. Attorney, Turner investigated sham marriages and immigration fraud organized by followers of Bhagwan Shree Rajneesh (now known as Osho) in Rajneeshpuram, Oregon, as well as other illegal activities including the 1984 Rajneeshee bioterror attack in The Dalles, Oregon. In 1985, high-ranking followers of Rajneesh plotted to murder Turner, carrying out steps including assembling a team, purchasing weapons, and performing surveillance on his office, home and car. Seven followers of Rajneesh were later convicted of conspiracy to assassinate him. While U.S. Attorney, Turner hired prosecutors Michael Mosman and Mark Bailey; both would later go on to serve as U.S. Attorney for Oregon. He retired in 1993, and was succeeded by Kristine Olson, who he had previously supervised as U.S. Attorney.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "31_entity3102",
+  "entityUrl" : "http://dbpedia.org/resource/Carolyn_Tomei",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2015" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "Portland", "Tomei", "Representatives", "Southeast", "Sellwood", "Eastmoreland", "state", "1936", "Milwaukie", "US", "including", "Carolyn", "Democratic", "born", "politician", "representing", "2001", "House", ",", ".", "2015", "served", "-RRB-", "parts", "District", "41" ],
+  "adjectives" : [ "Democratic" ],
+  "nouns" : [ "politician", "state" ],
+  "text" : "Carolyn Tomei (born 1936) is a Democratic politician from the US state of Oregon. She served in the Oregon House of Representatives for District 41, representing Milwaukie and parts of Southeast Portland, including Sellwood and Eastmoreland from 2001 to 2015.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "32_entity1983",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Hayden",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1871" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "September", "American", "session", "29", "moved", "Representatives", "body", "October", "Coast", "1852", "native", "Democrat", "1870", "state", "Rush", "11", "--", "Hayden", "Gold", "including", "West", "1908", "politician", "Kentucky", "F.", "House", "Benjamin", "California", ",", ".", "1822", "attorney", "served", "speaker", "-RRB-", "1849" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "native", "attorney", "session", "politician", "speaker", "state", "body" ],
+  "text" : "Benjamin F. Hayden (September 11, 1822 – October 29, 1908) was an American attorney and politician in the state of Oregon. A native of Kentucky, he moved to the West Coast with the California Gold Rush in 1849 and to Oregon in 1852. A Democrat, he served in the Oregon House of Representatives, including the 1870 session as speaker of the body.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "33_entity2001",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Boquist",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2009" ]
+  },
+  "words" : [ "Oregon", "23", "mid-Willamette", "-LRB-", "serves", "Previously", "Republican", "Representatives", "years", "2009", "October", "U.S.", "2005", "state", "1958", "five", "12", "citizen", "meets", "months", "James", "born", "politician", "one", "representing", "House", ",", "Boquist", ".", "odd", "Brian", "Senate", "currently", "month", "Valley", "even", "-RRB-", "maximum", "District", "20", "legislature" ],
+  "adjectives" : [ "even", "Republican", "odd" ],
+  "nouns" : [ "citizen", "month", "politician", "maximum", "state", "legislature" ],
+  "text" : "Brian James Boquist (born October 20, 1958) is a Republican politician from the U.S. state of Oregon. He currently serves in the Oregon Senate representing District 12. Previously, he was in the Oregon House of Representatives, representing District 23 in the mid-Willamette Valley from 2005 to 2009. Oregon has a citizen legislature that meets five months maximum in odd years, and one month in even years.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "34_entity2050",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Franklin_Burch",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1860", "1870" ]
+  },
+  "words" : [ "Franklin", "Oregon", "became", "24", "-LRB-", "May", "American", "session", "moved", "Cayuse", "March", "Representatives", "County", "President", "native", "Democrat", "1893", "Missouri", "represented", "state", "Burch", "--", "including", "politician", "one", "House", "Benjamin", ",", ".", "2", "Yakima", "Convention", "Senate", "Constitutional", "soldier", "State", "served", "-RRB-", "Polk", "farmer", "Country", "wars", "1825", "1845" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "soldier", "native", "session", "politician", "farmer", "Country", "state" ],
+  "text" : "Benjamin Franklin Burch (May 2, 1825 – March 24, 1893) was an American farmer, soldier, and politician in what became the state of Oregon. A native of Missouri, he moved to the Oregon Country in 1845 and served in the Cayuse and Yakima wars. A Democrat, he represented Polk County at the Oregon Constitutional Convention, in the Oregon House of Representatives, and in the Oregon State Senate including one session as President of the Senate.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "35_entity2100",
+  "entityUrl" : "http://dbpedia.org/resource/Bud_Miller",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "November 1982" ]
+  },
+  "words" : [ "``", "23", "Edgar", "-LRB-", "Alberta", "March", "office", "Council", "Bud", "1975", "Lands", "1971", "Wildlife", "member", "provincial", "January", "31", "Assembly", "Minister", "''", "--", "Executive", "James", "level", "politician", "Public", ",", ".", "Canada", "1986", "2015", "1982", "Miller", "served", "-RRB-", "farmer", "Legislative", "time", "1923" ],
+  "adjectives" : [ "provincial", "Legislative" ],
+  "nouns" : [ "level", "politician", "member", "farmer", "time", "office", "Assembly" ],
+  "text" : "James \"Bud\" Edgar Miller (March 31, 1923 – January 23, 2015) was a provincial level politician and farmer from Alberta, Canada. He served as a member of the Legislative Assembly of Alberta from 1971 to 1986. During his time in provincial office he served in the Executive Council as the Minister of Public Lands and Wildlife from 1975 to 1982.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "36_entity17699",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_R._Cornelius",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1858", "1867", "1876" ]
+  },
+  "words" : [ "その地でカイユース戦争", "、", "。", "オレゴン準州議会の議員を務めた", "オレゴン州ワシントン郡に入植し", "議長を務めた", "（", "ヤキマ", "）", "インディアン戦争に参加し", "ロードを建設し", "パス", "1827年11月16日", "P", "ミズーリで生まれ", "彼が住んだ場所の近郊は", "R", "上院", "の議員を務めた", "アメリカ合衆国オレゴン州の黎明期における著名な政治家", "そして後に共和党の党員として", "自身の名を付した", "R.", "1899年6月24日", "アメリカ先住民と闘った", "Thomas", "オレゴン州元老院", "彼の名にちなんでコーネリアスと名付けられた", "トーマス", "将兵である", "オレゴン準州が州の地位を獲得した後は", "息子にベンジャミン", "ホイッグ党", "-", "は", "また彼はコーネリアス", "Cornelius", "英", "彼もまたオレゴン州の政治史において重要な役目を果たした", "コーネリアス", ":", "若年期に家族とともにオレゴン", "コーネリアスがおり", "・", "カントリーに移住し", "元老院では一期" ],
+  "adjectives" : [ ],
+  "nouns" : [ "P", "英", "、", "R", "。", "は" ],
+  "text" : "トーマス・R・コーネリアス（英: Thomas R. Cornelius、1827年11月16日 - 1899年6月24日）は、アメリカ合衆国オレゴン州の黎明期における著名な政治家、将兵である。ミズーリで生まれ、若年期に家族とともにオレゴン・カントリーに移住し、その地でカイユース戦争、ヤキマ・インディアン戦争に参加し、アメリカ先住民と闘った。オレゴン州ワシントン郡に入植し、彼が住んだ場所の近郊は、彼の名にちなんでコーネリアスと名付けられた。 ホイッグ党、そして後に共和党の党員として、オレゴン準州議会の議員を務めた。オレゴン準州が州の地位を獲得した後は、オレゴン州元老院（上院）の議員を務めた。元老院では一期、議長を務めた。また彼はコーネリアス・パス・ロードを建設し、自身の名を付した。息子にベンジャミン・P・コーネリアスがおり、彼もまたオレゴン州の政治史において重要な役目を果たした。",
+  "patterns" : { }
+}, {
+  "entityIndex" : "37_entity17782",
+  "entityUrl" : "http://dbpedia.org/resource/Tim_Freeman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2015" ]
+  },
+  "words" : [ "Oregon", "became", "Law", "mechanic", "Citizen", "Oakland", "County", "Santa", "School", "computer", "worked", "Shell", "2007", "Institute", "Technology", "systems", "1991", "station", "Roseburg", "company", "High", "attended", "owner", "Garden", "studied", "Academy", "born", "raised", "California", "engineering", "technology", ",", ".", "Monica", "Enforcement", "Douglas", "1983", "field", "Freeman", "Valley", "service", "graduated", "logging" ],
+  "adjectives" : [ ],
+  "nouns" : [ "owner", "computer", "field", "service", "mechanic", "station", "company", "engineering", "technology" ],
+  "text" : "Freeman was born in Santa Monica, California and was raised in Oakland, Oregon. He graduated from Oakland High School in 1983 and attended the Oregon Institute of Technology, where he studied computer systems engineering technology. He worked as a field mechanic for a logging company and in 1991, he became the owner of the Garden Valley Shell service station in Roseburg. In 2007, Freeman graduated from the Douglas County Citizen Law Enforcement Academy.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "38_entity17822",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Hughes_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1980", "2009" ]
+  },
+  "words" : [ "Oregon", "Hughes", "named", "-LRB-", "Portland", "regional", "city", "exterior", "honor", "hall", "office", "two", "educator", "serving", "2009", "plaza", "U.S.", "government", "Metro", "native", "terms", "commission", "state", "area", "new", "Center", "metropolitan", "mayor", "built", "born", "politician", "2001", "Civic", ",", "'s", "former", ".", "1943", "planning", "Tom", "Hillsboro", "left", "council", "served", "-RRB-", "time", "president" ],
+  "adjectives" : [ "new", "metropolitan", "regional", "former" ],
+  "nouns" : [ "area", "city", "mayor", "politician", "exterior", "honor", "hall", "office", "educator", "plaza", "planning", "government", "native", "council", "commission", "state", "time", "president" ],
+  "text" : "Tom Hughes (born 1943) is a politician and former educator in the U.S. state of Oregon. He is the president of Metro, a regional government in the Portland metropolitan area. A native of Hillsboro, he served as on the city's planning commission and city council before serving two terms as mayor from 2001 to 2009. During his time a mayor, the city built the Hillsboro Civic Center as the new city hall, with the exterior plaza then named in his honor after he left office. Hughes was a public school teacher for 30 years and taught in Aloha. He also briefly worked as a consultant for a law firm.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "39_entity18124",
+  "entityUrl" : "http://dbpedia.org/resource/Tomio_Okamura",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2013-10-26" ]
+  },
+  "words" : [ "n.", "escritor", "de", "-LRB-", "Tokio", "político", "actualmente", "del", "Tomio", "Okamura", "富夫", "1972", "Japón", "Senado", "un", "岡村", "senador", "Parlamento", "el", "en", "julio", ",", "empresario", "es", ".", "checo", "República", "4", "la", "-RRB-", "y", "Checa", "?" ],
+  "adjectives" : [ ],
+  "nouns" : [ "un", "empresario", "checo" ],
+  "text" : "Tomio Okamura (岡村 富夫 Okamura Tomio?, n. el 4 de julio de 1972 en Tokio, Japón) es un empresario, escritor y político checo, actualmente es senador en el Senado del Parlamento de la República Checa.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "40_entity15414",
+  "entityUrl" : "http://dbpedia.org/resource/Royal_Maitland",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1933", "1946" ]
+  },
+  "words" : [ "Pat", "-LRB-", "Canadian", "28", "John", "March", "Royal", "1898", "President", "government", "Association", "coalition", "national", "January", "lawyer", "--", "British", "Deputy", "politician", "also", ",", ".", "Premier", "Bar", "Maitland", "Columbia", "Lethington", "served", "-RRB-", "9", "General", "Hart", "1946", "Attorney" ],
+  "adjectives" : [ "British", "national" ],
+  "nouns" : [ "President", "government", "politician", "coalition", "lawyer" ],
+  "text" : "Royal Lethington (Pat) Maitland (January 9, 1898 – March 28, 1946) was a British Columbia lawyer and politician. He served as Deputy Premier and the Attorney General of British Columbia in the coalition government of Premier John Hart. He also served as national President of the Canadian Bar Association.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "41_entity15490",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_A._Miller_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1890" ]
+  },
+  "words" : [ "22", "Oregon", "-LRB-", "Sylvester", "American", "aide", "Pennoyer", "Representatives", "1854", "Aubrey", "October", "Party", "Robert", "state", "--", "Democratic", "politician", "House", ",", ".", "Governor", "1941", "Miller", "attorney", "Born", "served", "8", "-RRB-" ],
+  "adjectives" : [ "American", "Democratic" ],
+  "nouns" : [ "aide", "attorney", "politician", "state" ],
+  "text" : "Robert Aubrey Miller (October 22, 1854 – October 8, 1941) was an American attorney and Democratic Party politician in the state of Oregon. Born in Oregon, he served in the Oregon House of Representatives and as an aide to Governor Sylvester Pennoyer.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "42_entity15494",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Maurer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2011" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "March", "Republican", "2011", "Superintendent", "2010", "Representatives", "Maurer", "Instruction", "County", "losing", "incumbent", "U.S.", "Pass", "Susan", "represented", "Josephine", "Junction", "state", "January", "ran", "10", "encompasses", "including", "cities", "born", "politician", "House", "Grants", "Public", ",", ".", "Ron", "1963", "Cave", "3", "served", "-RRB-", "Castillo", "District" ],
+  "adjectives" : [ "Republican", "incumbent" ],
+  "nouns" : [ "politician", "state" ],
+  "text" : "Ron Maurer (born March 10, 1963) is a Republican politician from the U.S. state of Oregon. He served in the Oregon House of Representatives until January 2011. He represented District 3, which encompasses most of Josephine County, including the cities of Grants Pass and Cave Junction. He ran for Oregon Superintendent of Public Instruction in 2010, losing to incumbent Susan Castillo. Following the election he took a job as the Director of the Congressional Liaison Service for the Department of Veterans Affairs in Washington, DC",
+  "patterns" : { }
+}, {
+  "entityIndex" : "43_entity15518",
+  "entityUrl" : "http://dbpedia.org/resource/Ralph_Carey_Geer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1855", "June 1870" ]
+  },
+  "words" : [ "Oregon", "became", "-LRB-", "Ralph", "American", "county", "March", "Republican", "Geer", "Representatives", "flax", "times", "later", "1895", "related", "native", "Democrat", "livestock", "west", "Davenport", "T.", "1816", "state", "lived", "January", "--", "13", "politician", "raised", "started", "House", ",", "grew", ".", "clerk", "Trail", "nursery", "Carey", "Illinois", "Connecticut", "served", "-RRB-", "9", "farmer", "Homer", "Ohio", "taking" ],
+  "adjectives" : [ "American", "Republican" ],
+  "nouns" : [ "clerk", "flax", "Trail", "nursery", "native", "politician", "livestock", "west", "county", "farmer", "state" ],
+  "text" : "Ralph Carey Geer (March 13, 1816 – January 9, 1895) was an American farmer and politician in what became the state of Oregon. A native of Connecticut, he lived in Ohio and Illinois before taking the Oregon Trail west to Oregon where he started a nursery and later raised livestock and grew flax. At times a Republican and later a Democrat, he served in the Oregon House of Representatives and as the clerk for the county. He was related to both Homer Davenport and T. T. Geer.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "44_entity15529",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_O._Eymann",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1974" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "September", "26", "American", "Alberta", "session", "1919", "moved", "War", "serve", "Representatives", "World", "airman", "2005", "would", "native", "Democrat", "Richard", "state", "February", "businessman", "Speaker", "--", "II", "including", "Dartmouth", "politician", "one", "House", ",", ".", "Canada", "Eymann", "3", "served", "graduated", "-RRB-", "College", "O." ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "airman", "native", "session", "politician", "state", "businessman" ],
+  "text" : "Richard O. Eymann (February 3, 1919 – September 26, 2005) was an American businessman and politician in the state of Oregon. A native of Alberta, Canada, he served as an airman during World War II and then graduated from Dartmouth College. Eymann moved to Oregon where he would serve as a Democrat in the Oregon House of Representatives, including one session as Speaker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "45_entity15797",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Cullen_(attorney)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1993-03-23" ]
+  },
+  "words" : [ "Currently", "Cullen", "-LRB-", "clients", "March", "high-profile", "Elin", "Tiger", "professional", "McGuireWoods", "LLP", "firm", "U.S.", "Richard", "represented", "golfer", "10", "Congressman", "Nordegren", "born", "ex-wife", "chairman", ",", "former", ".", "DeLay", "Tom", "partner", "attorney", "-RRB-", "Woods", "General", "Eastern", "1948", "Attorney", "Virginia", "District" ],
+  "adjectives" : [ "high-profile", "former", "professional" ],
+  "nouns" : [ "firm", "partner", "attorney", "ex-wife", "chairman", "golfer" ],
+  "text" : "Richard Cullen (born March 10, 1948) is a former Attorney General of Virginia and U.S. attorney for the Eastern District of Virginia. Currently, he is the chairman of McGuireWoods LLP. As a partner with the firm, he has represented high-profile clients such as former U.S. Congressman Tom DeLay and Elin Nordegren, the ex-wife of professional golfer Tiger Woods.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "46_entity16073",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_V._Short",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1890" ]
+  },
+  "words" : [ "Oregon", "Wars", "-LRB-", "Portland", "September", "American", "Yamhill", "March", "eventually", "Representatives", "County", "later", "Robert", "native", "Valentine", "member", "land", "lived", "Short", "31", "--", "settled", "1908", "politician", "surveyor", "House", "also", ",", ".", "Pennsylvania", "Convention", "Trail", "Constitutional", "7", "served", "-RRB-", "Indian", "traveled", "1823" ],
+  "adjectives" : [ "American", "Indian" ],
+  "nouns" : [ "Trail", "native", "politician", "member", "land", "surveyor" ],
+  "text" : "Robert Valentine Short (March 31, 1823 – September 7, 1908) was an American politician and land surveyor in Oregon. A native of Pennsylvania, he traveled the Oregon Trail where he eventually settled in Yamhill County. He was a member of the Oregon Constitutional Convention and later the Oregon House of Representatives. Short also served in the Indian Wars and lived in Portland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "47_entity3922",
+  "entityUrl" : "http://dbpedia.org/resource/David_Logan_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1854", "1857", "1864" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "Portland", "26", "American", "moved", "March", "Legislature", "Republican", "1874", "later", "Party", "native", "1850", "state", "--", "Territorial", "mayor", "founder", "politician", "also", ",", "April", ".", "Convention", "Logan", "Constitutional", "5", "attorney", "Illinois", "served", "David", "-RRB-", "1824", "territory" ],
+  "adjectives" : [ "later", "American" ],
+  "nouns" : [ "native", "mayor", "attorney", "founder", "politician", "state", "territory" ],
+  "text" : "David Logan (April 5, 1824 – March 26, 1874) was an American attorney and politician in the territory of and later state of Oregon. A native of Illinois, he moved to Oregon in 1850 where he served in the Oregon Territorial Legislature and in the Oregon Constitutional Convention. A founder of the Oregon Republican Party, he also served as mayor of Portland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "48_entity3956",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Gault",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1884" ]
+  },
+  "words" : [ "Oregon", "M.", "became", "-LRB-", "May", "nearly", "several", "Republican", "C.", "three", "two", "educator", "years", "worked", "U.S.", "teacher", "Gault", "native", "terms", "state", "30", "1912", "Assembly", "others", "--", "Territory", "period", "politician", "founded", "also", "Daniel", "newspapers", ",", "April", ".", "1842", "Iowa", "locales", "newspaperman", "immigrated", "served", "8", "-RRB-", "Legislative", "family", "20", "child" ],
+  "adjectives" : [ "several", "Legislative" ],
+  "nouns" : [ "Territory", "period", "teacher", "newspaperman", "native", "politician", "state", "family", "educator", "Assembly", "child" ],
+  "text" : "Daniel M. C. Gault (May 8, 1842 – April 20, 1912) was a newspaperman, educator and politician in the U.S. state of Oregon. A native of Iowa, he immigrated to the Oregon Territory with his family as a child where he became a teacher in several locales. A Republican, he served three terms in the Oregon Legislative Assembly over a period of nearly 30 years. He also worked for several newspapers and founded two others.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "49_entity7009",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_A._G._Lee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1846", "1848" ]
+  },
+  "words" : [ "†", "Politiker", "USA", "-LRB-", "G.", "war", "*", "ein", "A.", "Lee", ".", "1851", "um", "-RRB-", "1818", ";", "Virginia", "Henry", "US-amerikanischer" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "war", "ein", "US-amerikanischer" ],
+  "text" : "Henry A. G. Lee (* um 1818 in Virginia (USA); † 1851) war ein US-amerikanischer Politiker.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "50_entity7036",
+  "entityUrl" : "http://dbpedia.org/resource/Harvey_L._Clark",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1843", "1845" ]
+  },
+  "words" : [ "Oregon", "Vermont", "became", "24", "-LRB-", "Meetings", "participated", "moved", "United", "March", "Legislature", "educator", "States", "chaplain", "October", "worked", "Clark", "found", "later", "native", "settler", "helped", "Mission", "1858", "--", "L.", "Champoeg", "Tualatin", "Academy", "also", "Provisional", "Methodist", ",", "Grove", ".", "University", "Pacific", "7", "Harvey", "-RRB-", "1807", "Forest", "Country", "missionary", "1845" ],
+  "adjectives" : [ "missionary" ],
+  "nouns" : [ "chaplain", "native", "settler", "Forest", "educator" ],
+  "text" : "Harvey L. Clark (October 7, 1807 – March 24, 1858) was an educator, missionary, and settler of what became Forest Grove, Oregon, United States. A native of Vermont, he moved to Oregon Country where he participated at the Champoeg Meetings and helped to found Tualatin Academy that later became Pacific University. Clark also worked for the Methodist Mission and was a chaplain for the Provisional Legislature of Oregon in 1845.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "51_entity7041",
+  "entityUrl" : "http://dbpedia.org/resource/Hiram_Straight",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1846", "1856" ]
+  },
+  "words" : [ "Oregon", "became", "New", "-LRB-", "American", "York", "March", "Legislature", "serve", "1897", "would", "legislator", "native", "state", "1814", "January", "live", "--", "Territorial", "Aldrich", "traveling", "Provisional", ",", ".", "Iowa", "Trail", "Hiram", "7", "8", "-RRB-", "farmer", "Country", "Straight" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "Trail", "legislator", "native", "farmer", "Country", "state" ],
+  "text" : "Hiram Aldrich Straight (March 7, 1814 – January 8, 1897) was an American farmer and legislator in what became the state of Oregon. A native of New York state, he would live in Iowa before traveling the Oregon Trail to what was then the Oregon Country. In Oregon, he would serve in the Provisional Legislature of Oregon and the Oregon Territorial Legislature.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "52_entity7072",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Failing",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1866", "1875" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "Portland", "city", "leading", "United", "Republican", "two", "two-and-a-half", "years", "Failing", "States", "1898", "businessmen", "later", "1873", "15-month", "terms", "non-consecutive", "periods", "term", "January", "Henry", "1834", "November", "--", "mayor", "17", "one", ",", "banker", "'s", "earliest", ".", "Northwest", "1864", "two-year", "Pacific", "served", "8", "-RRB-", "residents", "starting" ],
+  "adjectives" : [ "two-year", "15-month", "non-consecutive" ],
+  "nouns" : [ "city", "mayor", "term", "banker" ],
+  "text" : "Henry Failing (January 17, 1834 – November 8, 1898) was a banker, and one of the leading businessmen of the Pacific Northwest of the United States. He was one of Portland, Oregon's earliest residents, and served as that city's mayor in two non-consecutive periods, two-and-a-half years (two 15-month terms) starting in 1864 and later a two-year term starting in 1873. He was a Republican.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "53_entity7231",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_V._Gates",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1897" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "projects", "American", "Republican", "Central", "Representatives", "settling", "October", "worked", "later", "Party", "native", "Ranch", "Massachusetts", "member", "River", "term", "July", "state", "lived", "30", "1935", "Rice", "--", "Crooked", "13", "historic", "Harry", "politician", "House", ",", "engineer", "water", ".", "former", "home", "single", "ranch", "Iowa", "Hillsboro", "served", "-RRB-", "Verner", "1847", "shifted", "Gates", "railroads" ],
+  "adjectives" : [ "single", "historic", "American", "former" ],
+  "nouns" : [ "ranch", "native", "politician", "member", "term", "state", "engineer", "water", "home" ],
+  "text" : "Harry Verner Gates (July 30, 1847 – October 13, 1935) was an American engineer and politician in the state of Oregon. A native of Massachusetts, he later lived in Iowa worked on the railroads before settling in Hillsboro, Oregon, where he shifted to water projects. A member of the Republican Party, he served a single term in the Oregon House of Representatives. His former home in Hillsboro is the historic Rice–Gates House, and his former ranch in Central Oregon is now the Crooked River Ranch.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "54_entity7697",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_Homer_Van_Winkle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1943-12-14" ]
+  },
+  "words" : [ "Oregon", "Politiker", "Van", "-LRB-", "bei", "ein", "1870", "Republikanische", "Winkle", "Dezember", "US-amerikanischer", "†", "14", "Partei", "war", "*", "und", ",", ".", "Jurist", "1943", "Issac", "Halsey", "3", "-RRB-", "Homer", ";" ],
+  "adjectives" : [ "Republikanische" ],
+  "nouns" : [ "Politiker", "Partei", "war", "und", "ein", "US-amerikanischer", "Jurist" ],
+  "text" : "Issac Homer Van Winkle (* 3. Dezember 1870 bei Halsey, Oregon; † 14. Dezember 1943) war ein US-amerikanischer Jurist und Politiker (Republikanische Partei).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "55_entity7706",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_R._Moores",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1856" ]
+  },
+  "words" : [ "Oregon", "23", "Isaac", "-LRB-", "American", "Jr.", "March", "War", "Legislature", "serve", "Black", "Representatives", "immigrating", "Hawk", "son", "1796", "would", "native", "Seminole", "R.", "Speaker", "--", "Territorial", "Territory", "15", "Moores", "politician", "Kentucky", "House", ",", "Col.", "April", ".", "Convention", "Constitutional", "1861", "soldier", "Illinois", "served", "-RRB-", "become" ],
+  "adjectives" : [ "American", "Black" ],
+  "nouns" : [ "son", "soldier", "native", "politician", "War", "Hawk" ],
+  "text" : "Col. Isaac R. Moores (March 23, 1796– April 15, 1861) was an American soldier and politician in Illinois and Oregon. A native of Kentucky, he would serve in the Seminole War and the Black Hawk War before immigrating to the Oregon Territory. In Oregon, Moores served in the Territorial Legislature and at the Oregon Constitutional Convention. His son, Isaac R. Moores, Jr. would become Speaker of the Oregon House of Representatives.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "56_entity7707",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_R._Moores,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1865" ]
+  },
+  "words" : [ "Oregon", "Isaac", "-LRB-", "25", "American", "Jr.", "moved", "serve", "Representatives", "body", "1831", "son", "1852", "would", "Ross", "July", "state", "R.", "February", "businessman", "Speaker", "--", "Territory", "14", "including", "Moores", "politician", "born", "House", ",", ".", "1884", "Illinois", "-RRB-" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "son", "politician", "state", "body", "businessman" ],
+  "text" : "Isaac Ross Moores, Jr. (February 14, 1831 – July 25, 1884) was an American businessman and politician in the state of Oregon. The son of Isaac R. Moores, he was born in Illinois and moved to the Oregon Territory in 1852. In Oregon, he would serve in the Oregon House of Representatives, including as Speaker of that body.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "57_entity13982",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Jaffe",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1902", "1905" ]
+  },
+  "words" : [ "Mayor", "-LRB-", "JP", "29", "Hamburg", "German-born", "died", "Jewish", "Belfast", "businessman", "--", "13", "Otto", "born", ",", "Jaffe", "April", ".", "August", "elected", "Lord", "twice", "1929", "London", "-RRB-", "Sir", "1846" ],
+  "adjectives" : [ "German-born", "Jewish" ],
+  "nouns" : [ "businessman" ],
+  "text" : "Sir Otto Jaffe, JP (born 13 August 1846, Hamburg – died 29 April 1929, London) was a German-born Jewish businessman, who was twice elected Lord Mayor of Belfast.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "58_entity14032",
+  "entityUrl" : "http://dbpedia.org/resource/Orlando_Plummer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1866" ]
+  },
+  "words" : [ "Oregon", "medical", "-LRB-", "Portland", "American", "city", "fruit", "Plummer", "several", "Republican", "telegraph", "December", "companies", "native", "member", "working", "physician", "state", "1836", "1913", "moving", "Shields", "Assembly", "--", "13", "practicing", "work", "politician", "Pleasant", "continued", "started", "medicine", "also", ",", "April", ".", "Pennsylvania", "professor", "Orlando", "Illinois", "council", "7", "-RRB-", "well", "Legislative", "farmer" ],
+  "adjectives" : [ "medical", "American", "several", "Legislative" ],
+  "nouns" : [ "city", "work", "fruit", "politician", "medicine", "telegraph", "professor", "native", "council", "member", "farmer", "physician", "state", "Assembly" ],
+  "text" : "Orlando Pleasant Shields Plummer (April 13, 1836 – December 7, 1913) was an American physician and politician in the state of Oregon. A native of Pennsylvania, he started practicing medicine in Illinois before moving to Portland, Oregon. In Oregon, he continued his medical work as well as working for several telegraph companies. A Republican, Plummer was also a member of the Oregon Legislative Assembly, a medical professor, fruit farmer, and Portland city council member. His drug store in downtown had the first telephone in Portland.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "59_entity16598",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Parker_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1861" ]
+  },
+  "words" : [ "--", "Oregon", "legislatures", "provisional", "-LRB-", "participate", "American", "Parker", "governments", "pioneer", ",", ".", "Samuel", "1886", "later", "would", "-RRB-", "Country", "territorial", "1806", "state", "become" ],
+  "adjectives" : [ "provisional", "American", "territorial" ],
+  "nouns" : [ "state", "pioneer" ],
+  "text" : "Samuel Parker (1806–1886) was an American pioneer of the Oregon Country, in what was to become the state of Oregon. Parker would later participate in the legislatures of the provisional, territorial, and state governments of Oregon.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "60_entity16752",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_Law_(Governor_of_Bombay)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1742-11-15" ]
+  },
+  "words" : [ "Law", "-LRB-", "Goudhurst", "moved", "England", "died", "Bombay", "retired", "1739", "January", "November", "Kent", "15", "wife", ",", "April", ".", "1788", "Governor", "1787", "1742", "1785", "7", "Manor", "-RRB-", "Stephen", "Broxbourne" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Governor", "wife" ],
+  "text" : "Stephen Law (died 1787 or 1788) was the Governor of Bombay from 7 April 1739 to 15 November 1742. Law retired to Broxbourne Manor, Broxbourne, England. After his wife died in January 1785, he moved to Goudhurst in Kent.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "61_entity16759",
+  "entityUrl" : "http://dbpedia.org/resource/Suzanne_VanOrman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2011" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "American", "48", "artist", "mixed", "Representatives", "resides", "County", "Lindland", "represents", "medalist", "Matt", "2008", "general", "Democrat", "member", "beat", "1939", "River", "July", "Clackamas", "52", "Hood", "--", "encompasses", "election", "%", "born", "politician", "House", ",", "Suzanne", "Olympic", ".", "elected", "VanOrman", "martial", "Multnomah", "-RRB-", "parts", "silver", "counties", "District", "first" ],
+  "adjectives" : [ "general", "American", "martial", "mixed", "Olympic" ],
+  "nouns" : [ "medalist", "election", "artist", "%", "politician", "member", "silver" ],
+  "text" : "Suzanne VanOrman (born July 1939) is an American politician from Oregon. A Democrat, she was a member of the Oregon House of Representatives, first elected in 2008. VanOrman, who resides in Hood River, represents District 52, which encompasses all of Hood River County and parts of Clackamas and Multnomah counties. She beat mixed martial artist and Olympic silver medalist Matt Lindland 52%–48% in the 2008 general election. VanOrman served as Vice-Chair of the Agriculture, Natural Resources and Rural Communities committees. She also served on the Education and Human Services committees. In 2010, she lost re-election to Republican Mark Johnson.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "62_entity17036",
+  "entityUrl" : "http://dbpedia.org/resource/Sal_Esquivel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2005" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "May", "American", "serves", "born", "politician", "19", "representing", "Republican", "House", "Representatives", ",", "Medford", ".", "Esquivel", "6", "-RRB-", "1948", "state", "District", "US", "Sal" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "politician", "state" ],
+  "text" : "Sal Esquivel (born May 19, 1948) is an American Republican politician from the US state of Oregon. He serves in the Oregon House of Representatives for District 6, representing Medford.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "63_entity12496",
+  "entityUrl" : "http://dbpedia.org/resource/Melvin_L._Stukes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2015-01-14" ]
+  },
+  "words" : [ "Melvin", "Council.Delegate", "Means", "-LRB-", "American", "Caucus", "March", "Black", "office", "Committee", "years", "legislative", "member", "represented", "Assembly", "investigated", "L.", "13", "15", "winning", "born", "politician", "Hogan", "House", "City", ",", "44th", "'s", "Ways", ".", "seat", "Governor", "Baltimore", "currently", "Prior", "district", "served", "-RRB-", "Delegates", "Legislative", "General", "1948", "Maryland", "Stukes" ],
+  "adjectives" : [ "American", "Legislative", "Black", "44th", "legislative" ],
+  "nouns" : [ "seat", "Governor", "politician", "district", "member", "office" ],
+  "text" : "Melvin L. Stukes (born March 15, 1948) is an American politician who represented the 44th legislative district in the Maryland House of Delegates. Stukes was a member of the House Ways and Means Committee and the Legislative Black Caucus of Maryland. Prior to winning a seat in the Maryland General Assembly, Stukes served 13 years in the Baltimore City Council.Delegate Melvin. L. Stukes is currently being investigated by Governor Hogan's office.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "64_entity12754",
+  "entityUrl" : "http://dbpedia.org/resource/Medorem_Crawford",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1862" ]
+  },
+  "words" : [ "Oregon", "June", "became", "New", "24", "-LRB-", "American", "York", "Meetings", "participated", "offices", "several", "March", "Republican", "War", "Representatives", "later", "government", "native", "legislator", "1893", "1819", "statehood", "federal", "state", "emigrants", "--", "Champoeg", "Government", "politician", "Provisional", "House", ",", ".", "resulting", "appointed", "1842", "Civil", "Trail", "soldier", "immigrated", "served", "Crawford", "-RRB-", "Medorem", "Country", "escorted" ],
+  "adjectives" : [ "American", "several", "federal" ],
+  "nouns" : [ "government", "Trail", "soldier", "native", "legislator", "politician", "statehood", "Country", "state" ],
+  "text" : "Medorem Crawford (June 24, 1819 – March 24, 1893) was an American soldier and politician in what became the state of Oregon. A native of the state of New York, he immigrated to the Oregon Country in 1842 where he participated in the Champoeg Meetings and served in the resulting Provisional Government of Oregon as a legislator. A Republican, he later served in the Oregon House of Representatives after statehood and was appointed to several federal government offices. During the American Civil War he escorted emigrants over the Oregon Trail.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "65_entity13050",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Dembrow",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2013" ]
+  },
+  "words" : [ "45", "E.", "northeastern", "appointment", "Dembrow", "legislative", "Board", "Education", "Michael", "state", "US", "League", "Willamette", "Democratic", "House", "c.", ",", "'s", ".", "endorsed", "Park", "Governor", "contains", "Senate", "instructor", "State", "served", "-RRB-", "College", "Higher", "District", "Week", "Oregon", "23", "-LRB-", "Portland", "American", "Conservation", "Representatives", "serving", "2008", "1951", "Maywood", "Voters", "election", "Parkrose", "born", "politician", "representing", "English", "Ted", "currently", "Kulongoski", "formerly", "Community" ],
+  "adjectives" : [ "English", "American", "Democratic", "northeastern", "legislative" ],
+  "nouns" : [ "Governor", "election", "instructor", "Education", "politician", "appointment", "state" ],
+  "text" : "Michael E. Dembrow (born c. 1951) is an American Democratic politician from the US state of Oregon, currently representing District 23 (which contains northeastern Portland, Maywood Park and Parkrose) in the Oregon Senate. Before his appointment to the Oregon Senate, Dembrow served in the Oregon House of Representatives serving District 45. Dembrow, formerly an English instructor at Portland Community College, served on Governor Ted Kulongoski's State Board of Higher Education. The Oregon League of Conservation Voters and Willamette Week endorsed Dembrow during the 2008 legislative election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "66_entity13281",
+  "entityUrl" : "http://dbpedia.org/resource/Morton_M._McCarver",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1845" ]
+  },
+  "words" : [ "``", "Oregon", "McCarver", "Wars", "-LRB-", "American", "fought", "Legislature", "pioneer", "body", "Rogue", "Washington", "1875", "found", "government", "Morton", "native", "River", "helped", "January", "early", "''", "--", "14", "including", "cities", "17", "West", "politician", "Kentucky", "also", "Provisional", "California", ",", "April", ".", "Iowa", "involved", "served", "speaker", "Matthew", "-RRB-", "General", "1807", "first" ],
+  "adjectives" : [ "American", "early", "first" ],
+  "nouns" : [ "government", "native", "politician", "speaker", "pioneer", "body" ],
+  "text" : "\"General\" Morton Matthew McCarver (January 14, 1807 – April 17, 1875) was an American politician and pioneer in the West. A native of Kentucky, he helped found cities in Iowa, Oregon, and Washington while also involved in the early government of California. He served in the Provisional Legislature of Oregon, including as the first speaker of that body, and also fought in the Rogue River Wars.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "67_entity5307",
+  "entityUrl" : "http://dbpedia.org/resource/Fazal_Ali",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1946-10-14" ]
+  },
+  "words" : [ "22", "-LRB-", "September", "Assam", "Commission", "Khan", "headed", "died", "recommendations", "states", "serving", "1952", "OBE", "known", "Sayyid", "Odisha", "1959", "judge", "reorganization", "1956", "--", "Bahadur", "Fazal", "made", "19", "also", "Fazl", ",", "'s", ".", "August", "India", "1886", "-RRB-", "governor", "Sir", "Ali" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Odisha", "governor", "judge", "reorganization" ],
+  "text" : "Khan Bahadur Sayyid Sir Fazl Ali, also known as Fazal Ali OBE (19 September 1886 – 22 August 1959) was governor of Assam and Odisha and a judge. He headed the Fazal Ali Commission that made recommendations about the reorganization of India's states. He was governor of Odisha from 1952 to 1956 and of Assam from 1956 to 1959. He died while serving as governor of Assam. He was also bestowed with the Padma Vibhushan by the Indian Government. Whilst in Assam, he was the first to bring the Nagas into societal mainstream. He opened a college in the Naga heartland Mokokochung, which is now known as 'Sir Fazal Ali College of Arts'. The College celebrated its 50 years' anniversary in 2010. He belonged to an aristocratic Zamindar family of Bihar. Sir Fazl Ali was appointed, successfully, to the title of Khan Sahib, as an Officer of the Order of the British Empire (OBE) in 1918 and to the title of Khan Bahadur. He was knighted in the 1941 New Year Honours list and invested with his knighthood on 1 May 1942 by the Viceroy, Lord Linlithgow. His eldest son, the late Syed Murtaza Fazl Ali Ali followed in his footsteps. He became a judge at the age of only 35, of the J&K High Court, in 1958, and was elevated as the Chief Justice of the same court in 1966. He was elevated as a Judge of the Supreme Court of India (like his father 'Sir Fazal Ali') in 1975. He died in 1985 while a sitting judge.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "68_entity5401",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_A._Chenoweth",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1854", "1858", "1866" ]
+  },
+  "words" : [ "Oregon", "Chenoweth", "24", "-LRB-", "May", "American", "session", "29", "Representatives", "immigrating", "body", "A.", "Washington", "serving", "Court", "1899", "Supreme", "Francis", "native", "Democrat", "1819", "lived", "lawyer", "Wisconsin", "selected", "November", "Speaker", "--", "Territory", "including", "politician", "one", "House", ",", ".", "elected", "Northwest", "Iowa", "Pacific", "returning", "served", "-RRB-", "Ohio", "legislature" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "native", "session", "politician", "body", "lawyer", "legislature" ],
+  "text" : "Francis A. Chenoweth (May 24, 1819 – November 29, 1899) was an American lawyer and politician in the Pacific Northwest. A native of Ohio, he lived in Iowa and Wisconsin before immigrating to the Oregon Territory. There he served in the legislature of the Oregon Territory and then the Washington Territory, including serving as Speaker of the Washington House of Representatives. A Democrat, he then served on the Washington Supreme Court before returning to Oregon where he was elected to the Oregon House of Representatives and was selected as Speaker of the body for one session.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "69_entity5728",
+  "entityUrl" : "http://dbpedia.org/resource/Grigory_Yavlinsky",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2008" ]
+  },
+  "words" : [ "Явли́нский", "Russian", "Олексійович", "run", "threshold", "presidency", "Ukrainian", "free-market", "Явлінський", "plan", "ran", "10", "--", "Алексе́евич", "%", "Duma", "author", "social-liberal", "Yeltsin", "2000", "economy", "failed", ",", "'s", "elections", "Григо́рий", "April", ".", "Григорій", "twice", "5", "Grigory", "-RRB-", "Vladimir", ":", "Alexeyevich", ";", "Yavlinsky", "7.3", "party", "5.8", "-LRB-", "Yabloko", "best", "Putin", "Programme", "Russia", "finishing", "2008", "1952", "1996", "known", "2004", "2003", "Days", "leadership", "Boris", "USSR", "vote", "economist", "born", "politician", "cross", "transition", "third", "500", "fourth" ],
+  "adjectives" : [ "Ukrainian", "free-market", "Russian", "third", "social-liberal", "fourth" ],
+  "nouns" : [ "Явли́нский", "Алексе́евич", "economist", "%", "author", "politician", "threshold", "economy", "Григо́рий", "transition", "presidency", "leadership", "plan", "vote", "party" ],
+  "text" : "Grigory Alexeyevich Yavlinsky (Russian: Григо́рий Алексе́евич Явли́нский; Ukrainian: Григорій Олексійович Явлінський; born 10 April 1952) is a Russian economist and politician. He is best known as the author of the 500 Days Programme, a plan for the transition of the USSR to a free-market economy, and for his leadership of the social-liberal Yabloko party. He ran twice for Russia's presidency – in 1996, against Boris Yeltsin, finishing fourth with 7.3% of the vote; and in 2000, against Vladimir Putin, finishing third with 5.8%. He did not run in 2004 or 2008, after his party failed to cross the 5% threshold in the 2003 Duma elections. In 2012 presidential election he was prevented from running for president by Russian authorities, despite collecting 2 million signatures of Russian citizens for his candidacy, as was demanded by law. Yavlinsky is Yabloko party's nominee for President of Russia in the 2018 presidential election. Yavlinsky holds a Ph.D. in economics from the Central Economic Mathematical Institute of the Russian Academy of Sciences; his doctoral dissertation was entitled \"The socio-economic system of Russia and the problem of its modernization.\" He is a professor in the National Research University Higher School of Economics. Yavlinsky speaks Russian, Ukrainian and English.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "70_entity6066",
+  "entityUrl" : "http://dbpedia.org/resource/George_W._Ebbert",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1843", "1844" ]
+  },
+  "words" : [ "``", "Oregon", "Congress", "-LRB-", "Meetings", "participated", "Cayuse", "War", "formation", "assistance", "Mountains", "1810", "across", "mountain", "Ebbert", "government", "George", "Squire", "would", "prior", "settler", "man", "early", "''", "--", "Territory", "Champoeg", "Rocky", "Wood", "Tualatin", "settled", "created", "Kentucky", "1890", "war", "Plains", ",", ".", "Born", "Joseph", "-RRB-", "ask", "Country", "traveled", "Meek", "become" ],
+  "adjectives" : [ "early" ],
+  "nouns" : [ "mountain", "government", "settler", "Country", "war", "man", "formation", "assistance" ],
+  "text" : "George Wood \"Squire\" Ebbert (1810–1890) was a mountain man and early settler in the Oregon Country. Born in Kentucky, he settled on the Tualatin Plains in what would become Oregon and participated in the Champoeg Meetings that created a government prior to the formation of the Oregon Territory. During the Cayuse War he traveled with Joseph Meek across the Rocky Mountains to ask Congress for assistance with the war.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "71_entity6200",
+  "entityUrl" : "http://dbpedia.org/resource/Gilles_Bourdouleix",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2002-08-01" ]
+  },
+  "words" : [ "français", "de", "porte-parole", "24", "-LRB-", "Il", "politique", "Angers", "est", "qu'il", "avril", "2009", "du", "Gilles", "des", "fondateur", "indépendants", "juillet", "un", "national", "l'Union", "à", "membre", "15", "paysans", "démocrates", "Maine-et-Loire", ",", "Centre", ".", "et", "homme", "1960", "préside", "2015", "quitte", "2013", "-RRB-", "le", "ensuite", "né", "Bourdouleix" ],
+  "adjectives" : [ "fondateur", "juillet", "national" ],
+  "nouns" : [ "à", "porte-parole", "membre", "Il", "politique", "est", "qu'il", "avril", "homme", "préside", "quitte", "un", "ensuite", "né" ],
+  "text" : "Gilles Bourdouleix, né le 15 avril 1960 à Angers (Maine-et-Loire), est un homme politique français. Il est porte-parole du Centre national des indépendants et paysans, qu'il préside ensuite de 2009 à 2015. Il est membre fondateur de l'Union des démocrates et indépendants, qu'il quitte le 24 juillet 2013.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "72_entity192",
+  "entityUrl" : "http://dbpedia.org/resource/Alex_Lyon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1983" ]
+  },
+  "words" : [ "--", "Alexander", "British", "-LRB-", "15", "September", "politician", "Lyon", "Labour", ".", "1931", "October", "Ward", "1993", "-RRB-", "30" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "politician", "Labour" ],
+  "text" : "Alexander Ward Lyon (15 October 1931 – 30 September 1993) was a British Labour politician.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "73_entity392",
+  "entityUrl" : "http://dbpedia.org/resource/Asa_Lovejoy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1850" ]
+  },
+  "words" : [ "Politiker", "-LRB-", "September", "ein", "Cambridge", "Asa", "Massachusetts", "das", "März", "US-amerikanischer", "besuchte", "10", "†", "14", "Lawrence", "war", "*", "und", ",", "Groton", ".", "Lovejoy", "Amherst", "1882", "1808", "-RRB-", "College", ";" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "Lovejoy", "war", "und", "ein", "US-amerikanischer", "besuchte" ],
+  "text" : "Asa Lawrence Lovejoy (* 14. März 1808 in Groton, Massachusetts; † 10. September 1882) war ein US-amerikanischer Politiker. Lovejoy besuchte das Cambridge College und das Amherst College. Er studierte Jura und wurde in die Anwaltschaft aufgenommen. Danach ließ er sich 1843 in dem Teil von Oregon Country nieder, der später zum Oregon-Territorium wurde und praktizierte in Oregon City. 1845 war er Bürgermeister der Stadt. 1844 bis 1848 war er Mitglied des provisorischen Parlaments. Als dieses Parlament durch das Parlament des Oregon-Territoriums abgelöst wurde, wurde Lovejoy 1849 der erste Vorsitzende (Speaker) des Repräsentantenhauses. 1851 wurde in den Senat des Oregon-Territoriums gewählt und von 1854 bis 1856 gehörte er erneut dem Repräsentantenhaus an. Bei der Verfassungsgebenden Versammlung von Oregon 1857 war er Delegierter.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "74_entity629",
+  "entityUrl" : "http://dbpedia.org/resource/Amory_Holbrook",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1859", "1861" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "September", "26", "American", "United", "States", "later", "Assembly", "--", "Territory", "15", "mayor", "politician", "City", ",", "Amory", ".", "August", "1866", "1820", "attorney", "served", "Holbrook", "-RRB-", "Legislative", "Attorney", "first", "territory" ],
+  "adjectives" : [ "American", "Legislative", "first" ],
+  "nouns" : [ "mayor", "attorney", "politician", "Assembly", "territory" ],
+  "text" : "Amory Holbrook (August 15, 1820 – September 26, 1866) was an American attorney and politician in the Oregon Territory. He was the first United States Attorney for the territory and later served as mayor of Oregon City and in the Oregon Legislative Assembly.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "75_entity681",
+  "entityUrl" : "http://dbpedia.org/resource/Absalom_J._Hembree",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1849" ]
+  },
+  "words" : [ "Oregon", "became", "-LRB-", "American", "Tennessee", "Legislature", "War", "December", "native", "action", "state", "1813", "10", "1856", "--", "Territorial", "14", "Jefferson", "politician", "Hembree", "Absalom", "Provisional", ",", "killed", "April", ".", "Yakima", "soldier", "served", "-RRB-" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "soldier", "native", "politician", "action", "state" ],
+  "text" : "Absalom Jefferson Hembree (December 14, 1813 – April 10, 1856) was an American soldier and politician in what became the state of Oregon. A native of Tennessee, he served in the Provisional Legislature of Oregon and the Oregon Territorial Legislature before being killed in action during the Yakima War.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "76_entity784",
+  "entityUrl" : "http://dbpedia.org/resource/Alonzo_Gesner",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1898" ]
+  },
+  "words" : [ "Oregon", "became", "agent", "-LRB-", "American", "United", "March", "Republican", "Warm", "boy", "Alonzo", "States", "Reservation", "government", "later", "native", "member", "land", "state", "Springs", "1912", "--", "deputy", "politician", "surveyor", "also", "Gesner", ",", ".", "appointed", "2", "1842", "Senate", "immigrated", "6", "Illinois", "State", "-RRB-", "Indian", "Country", "family" ],
+  "adjectives" : [ "American", "Indian", "Warm" ],
+  "nouns" : [ "agent", "deputy", "government", "native", "politician", "member", "land", "Country", "surveyor", "state", "family", "boy" ],
+  "text" : "Alonzo Gesner (March 2, 1842 – March 6, 1912) was an American land surveyor, Indian agent, and politician in the state of Oregon. A native of Illinois, he immigrated as a boy to the Oregon Country with is family where he became a deputy surveyor for the United States government. A Republican, he also was appointed as an Indian agent to the Warm Springs Reservation and later was a member of the Oregon State Senate.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "77_entity843",
+  "entityUrl" : "http://dbpedia.org/resource/Alvin_T._Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "1844" ]
+  },
+  "words" : [ "becoming", "helping", "Native", "later", "National", "preach", "state", "Thompson", "January", "moving", "--", "Territory", "17", "Academy", "Smith", "Americans", "House", ",", "'s", ".", "establish", "former", "University", "Valley", "Alvin", "Illinois", "Connecticut", "served", "-RRB-", "Country", "missionary", "22", "Oregon", "became", "-LRB-", "American", "Places", "government", "native", "T.", "lived", "November", "Tualatin", "Government", "politician", "Historic", "Provisional", "Grove", "home", "1888", "listed", "Pacific", "Register", "well", "Forest", "1802" ],
+  "adjectives" : [ "Native", "American", "missionary", "former" ],
+  "nouns" : [ "government", "native", "politician", "Country", "state", "home" ],
+  "text" : "Alvin Thompson Smith (November 17, 1802 – January 22, 1888) was an American missionary and politician in what became the state of Oregon. A native of Connecticut, he lived in Illinois before moving to the Oregon Country to preach to the Native Americans in the Tualatin Valley. There he served in both the Provisional Government of Oregon and the government of the Oregon Territory, as well as helping to establish Tualatin Academy, later becoming Pacific University. Smith’s former home, the Alvin T. Smith House in Forest Grove, is listed on the National Register of Historic Places.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "78_entity1360",
+  "entityUrl" : "http://dbpedia.org/resource/Amanda_Marshall_(attorney)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2015-05-15" ]
+  },
+  "words" : [ "Oregon", "24", "internal", "American", "United", "immediately", "issues", "Court", "States", "U.S.", "top", "review", "federal", "state", "lawyer", "resigned", "unspecified", "health", "Marshall", "amid", "prosecutor", ",", "Amanda", ".", "April", "Sally", "2015", "citing", "position", "Attorney", "District" ],
+  "adjectives" : [ "internal", "American", "top", "unspecified", "federal" ],
+  "nouns" : [ "review", "health", "state", "prosecutor", "position", "lawyer" ],
+  "text" : "Sally Amanda Marshall is an American lawyer in the U.S. state of Oregon. She was, most immediately, the United States Attorney for the United States District Court for the District of Oregon, the top federal prosecutor position in the state. She resigned her position on April 24, 2015, amid an internal review, citing unspecified health issues.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "79_entity1417",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Wilkinson_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:termend" : [ "2014-12-17" ]
+  },
+  "words" : [ "Office", "Ministry", "Canadian", "electoral", "tourism", "issues", "two", "Intergovernmental", "years", "represents", "Party", "2006", "responsibility", "member", "Development", "provincial", "Assembly", "British", "election", "deputy", "minister", "Andrew", "Liberal", "politician", "2001", "also", "Relations", "Wilkinson", ",", "'s", ".", "former", "Vancouver-Quilchena", "elected", "Premier", "Columbia", "Economic", "trade", "2013", "district", "served", "Legislative", "economic" ],
+  "adjectives" : [ "Canadian", "electoral", "Legislative", "provincial", "former", "economic" ],
+  "nouns" : [ "election", "deputy", "trade", "minister", "responsibility", "politician", "district", "member", "tourism", "Assembly" ],
+  "text" : "Andrew Wilkinson is a Canadian politician, who was elected to the Legislative Assembly of British Columbia in the 2013 provincial election. He represents the electoral district of Vancouver-Quilchena as a member of the British Columbia Liberal Party. He is a former deputy minister of the British Columbia Ministry of Economic Development from 2001 to 2006 where he had responsibility for economic issues, trade and tourism. He also served as deputy minister for Intergovernmental Relations in the Premier's Office for two years.",
+  "patterns" : { }
+} ]

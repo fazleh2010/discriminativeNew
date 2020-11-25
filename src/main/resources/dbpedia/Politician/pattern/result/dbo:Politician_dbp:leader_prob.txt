@@ -1,0 +1,5 @@
+id=49  property=dbp:leader  
+appointed_to-VBN_TO  multiply=0.001891  P(appointed_to|dbp:leader)=0.042735  P(dbp:leader|appointed_to)=0.044248    
+married_to-VBN_TO  multiply=9.0E-4  P(married_to|dbp:leader)=0.017094  P(dbp:leader|married_to)=0.052632    
+elected_unopposed-VBN_JJ  multiply=5.78E-4  P(elected_unopposed|dbp:leader)=0.025641  P(dbp:leader|elected_unopposed)=0.022556    
+

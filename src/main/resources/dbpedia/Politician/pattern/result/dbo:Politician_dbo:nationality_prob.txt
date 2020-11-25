@@ -1,0 +1,12 @@
+id=12  property=dbo:nationality  
+elected_to-VBN_TO  multiply=0.088374  P(elected_to|dbo:nationality)=0.165892  P(dbo:nationality|elected_to)=0.532721    
+joined_bank-VBD_NN  multiply=0.00519  P(joined_bank|dbo:nationality)=0.010726  P(dbo:nationality|joined_bank)=0.483871    
+member-RB_NN  multiply=0.004718  P(member|dbo:nationality)=0.044691  P(dbo:nationality|member)=0.105574    
+joined-VBD  multiply=0.004489  P(joined|dbo:nationality)=0.013586  P(dbo:nationality|joined)=0.330435    
+member_of-NN_IN  multiply=0.00424  P(member_of|dbo:nationality)=0.031462  P(dbo:nationality|member_of)=0.134763    
+president-RB_NN  multiply=0.003365  P(president|dbo:nationality)=0.014301  P(dbo:nationality|president)=0.235294    
+served-RB_VBN  multiply=0.002981  P(served|dbo:nationality)=0.039328  P(dbo:nationality|served)=0.07581    
+appointed-VBN  multiply=0.002742  P(appointed|dbo:nationality)=0.015016  P(dbo:nationality|appointed)=0.182609    
+appointed_minister-VBN_NN  multiply=0.002542  P(appointed_minister|dbo:nationality)=0.008581  P(dbo:nationality|appointed_minister)=0.296296    
+president_of-NN_IN  multiply=0.002306  P(president_of|dbo:nationality)=0.008223  P(dbo:nationality|president_of)=0.280488    
+

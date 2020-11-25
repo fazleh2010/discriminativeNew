@@ -1,0 +1,29 @@
+# dbo:Politician_dbo:country_probability_0.45_0.45.txt ############################################
+id=6  property=dbo:country  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=475
+state-NN  multiply=0.565223  P(state|object)=0.682105  P(object|state)=0.828645    
+assembly-NN  multiply=0.352291  P(assembly|object)=0.458947  P(object|assembly)=0.767606    
+
+id=7  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=699
+member-NN  multiply=0.585415  P(member|object)=0.864092  P(object|member)=0.677492    
+british-JJ  multiply=0.546785  P(british|object)=0.559371  P(object|british)=0.9775    
+election-NN  multiply=0.546319  P(election|object)=0.670959  P(object|election)=0.814236    
+seat-NN  multiply=0.527775  P(seat|object)=0.587983  P(object|seat)=0.897603    
+party-NN  multiply=0.524602  P(party|object)=0.642346  P(object|party)=0.816697    
+liberal-JJ  multiply=0.506702  P(liberal|object)=0.546495  P(object|liberal)=0.927184    
+general-JJ  multiply=0.477268  P(general|object)=0.619456  P(object|general)=0.770463    
+labour-NN  multiply=0.469259  P(labour|object)=0.472103  P(object|labour)=0.993976    
+son-NN  multiply=0.29614  P(son|object)=0.462089  P(object|son)=0.640873   
+
+
+# dbo:Politician_dbo:country_probability_0.6_0.6.txt ############################################
+id=4  property=dbo:country  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=475
+state-NN  multiply=0.565223  P(state|object)=0.682105  P(object|state)=0.828645    
+
+id=5  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=699
+member-NN  multiply=0.585415  P(member|object)=0.864092  P(object|member)=0.677492    
+election-NN  multiply=0.546319  P(election|object)=0.670959  P(object|election)=0.814236    
+party-NN  multiply=0.524602  P(party|object)=0.642346  P(object|party)=0.816697    
+general-JJ  multiply=0.477268  P(general|object)=0.619456  P(object|general)=0.770463 
+
+ 
+

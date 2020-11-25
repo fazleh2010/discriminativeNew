@@ -1,0 +1,7 @@
+id=17  property=dbp:predecessor  object=first member  NumberOfEntitiesFoundForObject=56
+electoral-JJ  multiply=0.049776  P(electoral|object)=0.482143  P(object|electoral)=0.103239    
+mla-NN  multiply=0.026372  P(mla|object)=0.196429  P(object|mla)=0.134259    
+
+id=18  property=dbp:predecessor  object=New seat  NumberOfEntitiesFoundForObject=34
+australian-JJ  multiply=0.111438  P(australian|object)=0.911765  P(object|australian)=0.122222    
+

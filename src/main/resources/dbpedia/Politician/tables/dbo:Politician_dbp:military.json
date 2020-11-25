@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity14571",
+  "entityUrl" : "http://dbpedia.org/resource/Phil_Hermanson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:military" : [ "http://dbpedia.org/resource/United_States_Navy" ]
+  },
+  "words" : [ "southwest", "-LRB-", "28", "Redistricting", "2012", "districts", "Republican", "Hermanson", "Representatives", "serving", "2008", "Wichita", "member", "February", "96", "included", "Phil", "98", "2008-2012", "born", "House", "Kansas", ",", "-", "former", ".", "1965", "See", "-RRB-", "District" ],
+  "adjectives" : [ "southwest", "former" ],
+  "nouns" : [ "member" ],
+  "text" : "Phil Hermanson (born February 28, 1965) is a former member of the Kansas House of Representatives for District 96 (2008-2012) and 98 (See Kansas Redistricting 2012), serving from 2008 - 2012. He is a Republican. His districts included southwest Wichita, Kansas.",
+  "patterns" : { }
+} ]

@@ -1,0 +1,4 @@
+id=144  property=dbp:imageSize  object=220  NumberOfEntitiesFoundForObject=46
+american-JJ  multiply=0.560559  P(american|object)=0.826087  P(object|american)=0.678571    
+politician-NN  multiply=0.358565  P(politician|object)=0.804348  P(object|politician)=0.445783    
+

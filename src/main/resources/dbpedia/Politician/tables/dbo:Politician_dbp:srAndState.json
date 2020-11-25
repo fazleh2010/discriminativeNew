@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity8218",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Clarkson_Gibbs",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:srAndState" : [ "Secretary of State and Superintendent of Public Instruction" ]
+  },
+  "words" : [ "-LRB-", "prominent", "officeholder", "September", "Secretary", "28", "Superintendent", "Instruction", "Clarkson", "1874", "along", "Jonathan", "state", "US", "Congressman", "II", "--", "Reconstruction", "Thomas", "14", "minister", "Gibbs", "black", "Public", ",", "Florida", ".", "August", "1821", "Presbyterian", "powerful", "African-American", "State", "among", "served", "-RRB-", "Josiah", "officeholders", "first", "Walls" ],
+  "adjectives" : [ "Presbyterian", "prominent", "powerful", "African-American", "black", "first" ],
+  "nouns" : [ "Reconstruction", "officeholder", "minister", "state" ],
+  "text" : "Jonathan Clarkson Gibbs, II (September 28, 1821 – August 14, 1874) was a Presbyterian minister and a prominent African-American officeholder during Reconstruction. He served as the first black Secretary of State and Superintendent of Public Instruction of Florida, and along with Josiah Thomas Walls, US Congressman from Florida, was among the most powerful black officeholders in the state during Reconstruction.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity4402",
+  "entityUrl" : "http://dbpedia.org/resource/Eugene_McCarthy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:srAndState" : [ "http://dbpedia.org/resource/United_States_Senator", "from Minnesota" ]
+  },
+  "words" : [ "``", "New", "United", "polling", "incumbent", "States", "December", "Gene", "1971", "Robert", "long-time", "10", "contributed", "--", "McCarthy", "contest", "Democratic", "F.", "House", ",", "B.", "'s", ".", "Senate", "Joseph", "served", "-RRB-", "Eugene", "1949", "presidential", "primary", "lured", "strong", "-LRB-", "American", "unexpected", "29", "March", "War", "Representatives", "Lyndon", "platform", "Kennedy", "running", "candidate", "total", "U.S.", "2005", "Hampshire", "1916", "poet", "1959", "vote", "Wisconsin", "Congressman", "''", "anti-Vietnam", "election", "Johnson", "decision", "race", "politician", "Minnesota", "nomination", "challenge", "achieved", "1968", "first", "upcoming", "president", "withdraw" ],
+  "adjectives" : [ "anti-Vietnam", "strong", "American", "Democratic", "unexpected", "presidential", "long-time", "first", "incumbent", "primary" ],
+  "nouns" : [ "election", "contest", "decision", "race", "politician", "War", "polling", "platform", "nomination", "candidate", "total", "poet", "vote", "Congressman", "president" ],
+  "text" : "Eugene Joseph \"Gene\" McCarthy (March 29, 1916 – December 10, 2005) was an American politician, poet, and a long-time Congressman from Minnesota. He served in the U.S. House of Representatives from 1949 to 1959 and the U.S. Senate from 1959 to 1971. In the 1968 presidential election, McCarthy was the first candidate to challenge incumbent Lyndon B. Johnson for the Democratic nomination for president of the United States, running on an anti-Vietnam War platform. The unexpected vote total he achieved in the New Hampshire primary and his strong polling in the upcoming Wisconsin primary contributed to Johnson's decision to withdraw from the race, and lured Robert F. Kennedy into the contest. Fellow Minnesotan US Vice-President Hubert Humphrey also entered the race after Johnson's withdrawal. McCarthy would unsuccessfully seek the presidency five times altogether.",
+  "patterns" : { }
+} ]

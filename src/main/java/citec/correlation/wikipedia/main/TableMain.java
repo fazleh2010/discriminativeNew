@@ -85,7 +85,7 @@ public class TableMain implements PropertyNotation {
     private static String writePatterns = "patterns";
     private static String patternsProbability = "patternsProbability";
     
-    private static String patternDir="patternTable/";
+    private static String patternDir="pattern/";
 
 
 
@@ -161,7 +161,8 @@ public class TableMain implements PropertyNotation {
 
         }
         if (type.equals(patternsProbability)) {
-            PatternCalculation patternCalculation = new PatternCalculation(dbpediaDir, inputFile, dbo_ClassName, classDir,patternDir);
+            String inputDir = dbpediaDir + classDir + patternDir;
+            PatternCalculation patternCalculation = new PatternCalculation(inputDir, inputFile, dbo_ClassName);
         }
 
         //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);

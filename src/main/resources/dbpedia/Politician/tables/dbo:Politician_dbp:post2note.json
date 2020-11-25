@@ -1,0 +1,193 @@
+[ {
+  "entityIndex" : "1_entity13529",
+  "entityUrl" : "http://dbpedia.org/resource/Norm_McFarlane",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "McFarlane preceded himself as Minister of Labour" ]
+  },
+  "words" : [ "New", "Mayor", "-LRB-", "25", "May", "defeated", "John", "sworn", "office", "Manager", "Court", "Royal", "2008", "1953", "worked", "retiring", "2004", "1993", "Branch", "Ivan", "Tuesday", "Apohaqui", "10", "Brunswick", "Norman", "born", "64th", ",", "elections", ".", "McFarlane", "elected", "Canada", "Insurance", "-RRB-", "municipal", "Saint", "first" ],
+  "adjectives" : [ "municipal", "64th", "first" ],
+  "nouns" : [ "office" ],
+  "text" : "Norman McFarlane (born in Apohaqui, New Brunswick) was the 64th Mayor of Saint John, New Brunswick, Canada. He was first elected on May 10, 2004, and sworn into office on Tuesday, May 25. He was defeated in the New Brunswick municipal elections, 2008 by Ivan Court. McFarlane worked for Royal Insurance in Saint John from 1953 to 1993, retiring as Branch Manager. Following his retirement from Royal Insurance, he became a private insurance consultant for a number of years. In the 1999 election, he was elected as a Member of the Legislative Assembly for the provincial riding of Saint John Lancaster as a Progressive Conservative and shortly afterwards became the New Brunswick Minister of Labour. In 2000, he became minister for the new Department of Training and Employment Development, a portfolio which encompassed much of his old labour portfolio as well as some social welfare programs and community colleges. McFarlane was defeated in the 2003 election and left the cabinet as a result. McFarlane lost his seat to Liberal Abel LeBlanc. McFarlane promptly returned to politics in 2004 when he was elected mayor of Saint John by defeating incumbent Shirley McAlary by a margin of over 25%. Ironically, one of McAlary's key backers was Abel LeBlanc. Mayor McFarlane faced severe and lasting criticism and allegations of corruption and incompetence for his role in granting Irving Oil tax concessions in 2005, concessions that have cost the City of Saint John approximately $75 million over ten years, with a potential total loss of over $180 million.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity8024",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Bradley_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Deputy Government House Leader" ]
+  },
+  "words" : [ "-LRB-", "Catharines", "Bradley", "riding", "St.", "Peterson", "represents", "Dalton", "member", "provincial", "long-time", "February", "cabinets", "Assembly", "Kathleen", "1977", "Wynne", "McGuinty", "James", "J.", "Liberal", "born", "politician", "19", ",", ".", "Jim", "elected", "Canada", "served", "-RRB-", "David", "Legislative", "Ontario", "1945" ],
+  "adjectives" : [ "Liberal", "Legislative", "provincial", "long-time" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "James J. (Jim) Bradley (born February 19, 1945) is a politician in Ontario, Canada. He is a long-time Liberal member of the Legislative Assembly of Ontario who was elected in 1977. He represents the riding of St. Catharines. He has served in the provincial cabinets of David Peterson, Dalton McGuinty and Kathleen Wynne.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity8543",
+  "entityUrl" : "http://dbpedia.org/resource/Joan_MacAlpine-Stiles",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Minister of Economic Development, Tourism & Culture", "Mesheau served as" ]
+  },
+  "words" : [ "homonymes", "de", "politique", "est", "libéral", "MacAlpine-Stiles", "du", "voir", "Nouveau-Brunswick", "canadienne", "anciennement", "Pour", "les", "à", "Stiles", "Moncton-Ouest", "femme", ",", "une", ".", "députée", "Joan", "législative", "l'Assemblée", "Leslie", "articles" ],
+  "adjectives" : [ "législative", "femme", "une" ],
+  "nouns" : [ "à", "l'Assemblée", "politique", "libéral", "canadienne", "anciennement", "députée" ],
+  "text" : "Pour les articles homonymes, voir Stiles. Leslie Joan MacAlpine-Stiles est une femme politique canadienne, anciennement députée libéral de Moncton-Ouest à l'Assemblée législative du Nouveau-Brunswick.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity8589",
+  "entityUrl" : "http://dbpedia.org/resource/John_Clement_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Provincial Secretary for Justice" ]
+  },
+  "words" : [ "June", "24", "-LRB-", "28", "John", "Twining", "Davis", "1975", "Clement", "1971", "Member", "Assembly", "--", "politician", "Provincial", "premier", ",", ".", "August", "Progressive", "Canada", "2014", "served", "Conservative", "-RRB-", "Bill", "1928", "Legislative", "Ontario", "cabinet", "Parliament" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "premier", "cabinet", "Assembly" ],
+  "text" : "John Twining Clement (August 28, 1928 – June 24, 2014) was a politician in Ontario, Canada. He served in the Legislative Assembly of Ontario as a Progressive Conservative Member of Provincial Parliament from 1971 to 1975 and was in the cabinet of premier Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "5_entity11328",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Jeffrey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Responsible for Seniors" ]
+  },
+  "words" : [ "Mayor", "-LRB-", "governments", "Linda", "2003", "Dalton", "member", "represented", "1958", "Assembly", "Kathleen", "Jeffrey", "--", "Springdale", "Wynne", "McGuinty", "minister", "Liberal", "born", "politician", "c.", ",", "Centre", ".", "elected", "Canada", "Brampton", "2014", "served", "-RRB-", "Legislative", "ridings", "Ontario", "cabinet" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Linda Jeffrey (born c. 1958) is a politician in Ontario, Canada. In 2014, she was elected as Mayor of Brampton. From 2003 to 2014 she was a Liberal member of the Legislative Assembly of Ontario who represented the ridings of Brampton Centre and Brampton—Springdale. She served as a cabinet minister in the governments of Dalton McGuinty and Kathleen Wynne. On March 25, 2014, she resigned from the legislature to run for Mayor of Brampton, which she won on October 27, 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "6_entity2487",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_MacNaughton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Treasury Board chair" ]
+  },
+  "words" : [ "-LRB-", "May", "John", "riding", "governments", "MacNaughton", "Davis", "1973", "central", "member", "represented", "1958", "Assembly", "1911", "November", "--", "Charles", "15", "minister", "politician", "Huron", "Steel", ",", ".", "Robarts", "1987", "Progressive", "Canada", "Conservative", "served", "-RRB-", "Bill", "Legislative", "Ontario", "cabinet", "20" ],
+  "adjectives" : [ "central", "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Charles Steel MacNaughton (May 15, 1911 – November 20, 1987) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1958 to 1973 who represented the central Ontario riding of Huron. He served as a cabinet minister in the governments of John Robarts and Bill Davis.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "7_entity2547",
+  "entityUrl" : "http://dbpedia.org/resource/Carmel_Robichaud",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "new designation" ]
+  },
+  "words" : [ "--", "à", "Carmel", "de", "politique", "Robichaud", "est", "femme", ",", "une", "Baie-de-Miramichi", ".", "députée", "législative", "du", "l'Assemblée", "Nouveau-Brunswick", "canadienne", "anciennement", "libérale", "Neguac" ],
+  "adjectives" : [ "législative", "femme", "une" ],
+  "nouns" : [ "l'Assemblée", "politique", "canadienne", "anciennement", "libérale", "députée" ],
+  "text" : "Carmel Robichaud est une femme politique canadienne, anciennement députée libérale de Baie-de-Miramichi—Neguac à l'Assemblée législative du Nouveau-Brunswick.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "8_entity2667",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Sousa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Responsible for the 2015 Pan and Parapan American Games" ]
+  },
+  "words" : [ "de", "politique", "est", "libéral", "du", "voir", "un", "les", "poste", "circonscription", "Charles", "Parti", "McGuinty", "en", "ministre", ",", "dans", ".", "l'élection", "l'Ontario", "Travail", "élu", "homme", "Mississauga-Sud", "bannière", "occupé", "lors", "né", "Ontario", "Toronto", "homonymes", "Sousa", "Il", "27", "sous", "2007", "septembre", "Pour", "1958", "à", "ontarienne", "législative", "l'Assemblée", "canadien", "la", "Gouvernement", "le", "articles", "électorale" ],
+  "adjectives" : [ "législative", "libéral", "sous" ],
+  "nouns" : [ "homme", "Il", "l'Assemblée", "politique", "canadien", "occupé", "septembre", "est", "un", "né", "circonscription", "électorale" ],
+  "text" : "Pour les articles homonymes, voir Sousa. Charles Sousa, né le 27 septembre 1958 à Toronto en Ontario, est un homme politique canadien. Il est élu à l'Assemblée législative de l'Ontario lors de l'élection ontarienne de 2007, sous la bannière du Parti libéral de l'Ontario dans la circonscription électorale de Mississauga-Sud. Il a occupé le poste de ministre du Travail sous le Gouvernement McGuinty. Depuis l'arrivée au pouvoir de Kathleen Wynne en 2013, il occupe le poste de ministre des Finances dans son gouvernement.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "9_entity1626",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Lord",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Lord changed the portfolio from", "Minister of Intergovernmental Affairs" ]
+  },
+  "words" : [ "New", "ONB", "-LRB-", "September", "27", "Canadian", "30th", "QC", "2006", "lobbyist", "1999", "Brunswick", "chair", "born", "politician", ",", ".", "1965", "appointed", "Lord", "Premier", "Generation", "2014", "served", "-RRB-", "Bernard", "Ontario", "Power" ],
+  "adjectives" : [ "Canadian", "30th" ],
+  "nouns" : [ "chair", "politician", "lobbyist" ],
+  "text" : "Bernard Lord, ONB, QC, (born September 27, 1965) is a Canadian politician and lobbyist. Lord served as the 30th Premier of New Brunswick from 1999 to 2006. Lord was appointed chair of Ontario Power Generation in 2014.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "10_entity1828",
+  "entityUrl" : "http://dbpedia.org/resource/Brad_Green_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Robichaud was Minister of Health & Wellness" ]
+  },
+  "words" : [ "New", "-LRB-", "Bradley", "Canadian", "29", "Fredericton", "by-election", "1998", "QC", "son", "2003", "1991", "V.", "honours", "judge", "January", "lawyer", "Assembly", "earning", "1999", "Brunswick", "admitted", "law", "studied", "born", "politician", "degree", ",", "former", "Province", ".", "Vernon", "1965", "elected", "Bar", "re-elected", "University", "science", "-RRB-", "Legislative", "Political", "Green", "first" ],
+  "adjectives" : [ "Canadian", "Legislative", "Political", "former", "first" ],
+  "nouns" : [ "son", "law", "politician", "science", "degree", "judge", "by-election", "lawyer", "Assembly" ],
+  "text" : "Bradley V. Green, QC (born January 29, 1965 in Fredericton, New Brunswick) is a Canadian lawyer, judge and a former politician in the Province of New Brunswick. The son of Vernon Green, Green studied at the University of New Brunswick, earning an honours degree in Political science and a law degree. He was admitted to Bar of New Brunswick in 1991. He was first elected to the Legislative Assembly of New Brunswick in a 1998 by-election and was re-elected in 1999 and 2003. He represented the electoral district of Fredericton South and was a member of the cabinet from 1999 to 2006. His career in the New Brunswick Legislative Assembly ended when he lost his seat in 2006 to Liberal MLA, Rick Miles. In May 2008, he was appointed a Judge of the Court of Queen's Bench for the judicial district of Saint John. Green was named to the Court of Appeal of New Brunswick in Fredericton on September 1, 2009. Green married Margaret Gregg.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "11_entity3430",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Boudria",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "second time" ]
+  },
+  "words" : [ "``", "-LRB-", "Canadian", "Donald", "Chrétien", "Party", "government", "2005", "Commons", "member", "30", "''", "minister", "Liberal", "born", "politician", "House", "Boudria", "Jean", ",", "former", ".", "August", "Canada", "PC", "1984", "served", "-RRB-", "1949", "cabinet" ],
+  "adjectives" : [ "Canadian", "former" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet" ],
+  "text" : "Donald \"Don\" Boudria, PC (born August 30, 1949) is a Canadian former politician. He served in the Canadian House of Commons from 1984 to 2005 as a member of the Liberal Party of Canada, and was a cabinet minister in the government of Jean Chrétien.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "12_entity6738",
+  "entityUrl" : "http://dbpedia.org/resource/Howard_Hampton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Responsible for Native Affairs" ]
+  },
+  "words" : [ "New", "leader", "Martineau", "MPP", "firm", "Howard", "George", "province", "Kenora", "provincial", "Member", "Assembly", "--", "law", "17", "Democratic", "Hampton", ",", "'s", ".", "1987", "Canada", "served", "-RRB-", "Ontario", "Parliament", "party", "legislature", "-LRB-", "May", "2011", "riding", "aboriginal", "subsequently", "2009", "LLP", "1952", "1996", "Party", "responsibility", "member", "River", "retired", "Fasken", "affairs", "election", "social", "joined", "born", "politician", "Provincial", "groups", "also", "DuMoulin", "Rainy", "corporate", "Legislative" ],
+  "adjectives" : [ "corporate", "social", "Legislative", "provincial", "aboriginal" ],
+  "nouns" : [ "leader", "firm", "election", "law", "province", "responsibility", "politician", "member", "MPP", "Assembly", "party", "legislature" ],
+  "text" : "Howard George Hampton (born May 17, 1952) is a politician who was a Member of Provincial Parliament for the province of Ontario. He served in the Legislative Assembly of Ontario, Canada, from 1987 to 2011 as an MPP for the riding of Kenora—Rainy River. A member of the Ontario New Democratic Party, he was also the party's leader from 1996 to 2009. Hampton retired from the legislature at the 2011 Ontario provincial election and subsequently joined Fasken Martineau DuMoulin LLP as a member of the law firm's corporate social responsibility and aboriginal affairs groups. His wife, Shelley Martel, was also an MPP until 2007, representing Nickel Belt.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "13_entity7862",
+  "entityUrl" : "http://dbpedia.org/resource/Indira_Naidoo-Harris",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Responsible for early year education and child care" ]
+  },
+  "words" : [ "Liberal", "Halton", "politician", "riding", "Naidoo-Harris", ",", ".", "elected", "represents", "Canada", "2014", "Indira", "member", "Legislative", "Ontario", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Indira Naidoo-Harris is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Halton.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "14_entity16247",
+  "entityUrl" : "http://dbpedia.org/resource/Shelley_Wark-Martyn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Responsible for Health" ]
+  },
+  "words" : [ "New", "-LRB-", "Arthur", "Port", "riding", "Party", "1995", "government", "Bob", "member", "represented", "Shelley", "January", "Assembly", "11", "minister", "Democratic", "born", "politician", "1990", ",", "former", ".", "Canada", "1963", "served", "Rae", "Wark-Martyn", "-RRB-", "Legislative", "Ontario", "cabinet" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Shelley Wark-Martyn (born January 11, 1963) is a former politician from Ontario, Canada. She was a New Democratic Party member of the Legislative Assembly of Ontario from 1990 to 1995. She represented the riding of Port Arthur. She served as a cabinet minister in the government of Bob Rae. Almost two decades later, she served as president of the Alberta Liberal Party stepping down in order to run in Calgary-Currie as a Liberal candidate in the 2015 provincial election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "15_entity16607",
+  "entityUrl" : "http://dbpedia.org/resource/Sophia_Aggelonitis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Responsible for Seniors" ]
+  },
+  "words" : [ "de", "-LRB-", "politique", "est", "2011", "durant", "Ministre", "du", "2007", "son", "Mountain", "Hamilton", "circonscription", "30", "été", "à", "Elle", "représenté", "ontarienne", "en", "femme", "dans", "une", ".", "l'Ontario", "législative", "l'Assemblée", "centre-ville", "au", "la", "6", "mandat", "-RRB-", "le", "Revenu", "Aggelonitis", "né", "octobre", "Ontario", "Sophia", "Toronto" ],
+  "adjectives" : [ "législative", "femme", "octobre", "durant", "une" ],
+  "nouns" : [ "à", "l'Assemblée", "son", "politique", "au", "ontarienne", "mandat", "octobre", "été" ],
+  "text" : "Sophia Aggelonitis (né dans le centre-ville de Toronto en Ontario) est une femme politique ontarienne. Elle a représenté la circonscription de Hamilton Mountain à l'Assemblée législative de l'Ontario du 30 octobre 2007 au 6 octobre 2011. Elle a été Ministre du Revenu durant son mandat.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "16_entity12402",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Schryer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "new designation", "McGinley was sworn-in as \"Minister of State for Seniors and Housing\"" ]
+  },
+  "words" : [ "homonymes", "que", "de", "politique", "est", "financière", "du", "ainsi", "voir", "Nouveau-Brunswick", "canadienne", "anciennement", "Pour", "les", "Quispamsis", "libérale", "Mary", "à", "conseillère", "Schryer", "femme", "ministre", ",", "une", ".", "et", "députée", "législative", "l'Assemblée", "articles" ],
+  "adjectives" : [ "législative", "une" ],
+  "nouns" : [ "financière", "l'Assemblée", "conseillère", "anciennement", "ministre", "députée" ],
+  "text" : "Pour les articles homonymes, voir Schryer. Mary Schryer est une conseillère financière et une femme politique canadienne, anciennement députée libérale de Quispamsis à l'Assemblée législative du Nouveau-Brunswick ainsi que ministre.",
+  "patterns" : { }
+} ]

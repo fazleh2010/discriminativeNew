@@ -1,0 +1,8 @@
+id=41  property=dbo:primeMinister  object=http://dbpedia.org/resource/Omar_Abdirashid_Ali_Sharmarke  NumberOfEntitiesFoundForObject=30
+somali-JJ  multiply=0.484375  P(somali|object)=1.0  P(object|somali)=0.484375    
+position-NN  multiply=0.458491  P(position|object)=0.9  P(object|position)=0.509434    
+
+id=42  property=dbo:primeMinister  object=http://dbpedia.org/resource/Abdiweli_Sheikh_Ahmed  NumberOfEntitiesFoundForObject=28
+somali-JJ  multiply=0.4375  P(somali|object)=1.0  P(object|somali)=0.4375    
+position-NN  multiply=0.151617  P(position|object)=0.535714  P(object|position)=0.283019    
+

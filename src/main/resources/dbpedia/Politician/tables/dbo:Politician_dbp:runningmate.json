@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity303",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Halcro",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:runningmate" : [ "Fay Von Gemmigen" ]
+  },
+  "words" : [ "Formerly", "-LRB-", "September", "American", "Republican", "Legislature", "9.46", "running", "candidate", "2006", "member", "Alaska", "vote", "ran", "election", "Andrew", "%", "born", "politician", "Halcro", ",", ".", "1964", "Governor", "Independent", "third", "-RRB-", "Anchorage", "20" ],
+  "adjectives" : [ "Independent", "American", "third", "Republican" ],
+  "nouns" : [ "Governor", "candidate", "election", "%", "politician", "member", "vote" ],
+  "text" : "Andrew Halcro (born September 20, 1964) is an American politician from Anchorage, Alaska. Formerly a Republican member of the Alaska Legislature, he ran for Governor of Alaska as an Independent candidate in the 2006 election, running third with 9.46% of the vote.",
+  "patterns" : { }
+} ]

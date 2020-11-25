@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity18823",
+  "entityUrl" : "http://dbpedia.org/resource/William_Sorrell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blp" : [ "yes" ]
+  },
+  "words" : [ "Vermont", "Politiker", "-LRB-", "seit", "ist", "ein", "der", "1998", "Amtszeit", "Burlington", "März", "seiner", "US-amerikanischer", "Sorrell", "H.", "*", "und", "William", ",", ".", "Jurist", "genannt", "Bill", "-RRB-", "9", "General", "1947", "nunmehr", "achten", "Attorney" ],
+  "adjectives" : [ ],
+  "nouns" : [ "genannt", "seiner", "und", "ist", "ein", "nunmehr", "achten", "US-amerikanischer", "Jurist" ],
+  "text" : "William H. Sorrell genannt Bill Sorrell (* 9. März 1947 in Burlington, Vermont) ist ein US-amerikanischer Jurist und Politiker, der seit 1998 nunmehr in seiner achten Amtszeit Vermont Attorney General ist.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity3576",
+  "entityUrl" : "http://dbpedia.org/resource/Doreen_Hamilton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blp" : [ "yes" ]
+  },
+  "words" : [ "Mayor", "-LRB-", "May", "Canadian", "Regina", "Standard", "resignation", "Council", "Ellen", "1951", "Education", "Hamilton", "Larry", "Doreen", "17", "born", "politician", "received", "City", ",", ".", "elected", "1985", "re-elected", "University", "interim", "Schneider", "served", "following", "-RRB-", "Certificate", "1988" ],
+  "adjectives" : [ "re-elected", "Canadian", "interim" ],
+  "nouns" : [ "Education", "politician", "resignation" ],
+  "text" : "Doreen Ellen Hamilton (born May 17, 1951) is a Canadian politician. She received her Education Standard A Certificate at the University of Regina. In 1985, she was elected to Regina City Council and re-elected in 1988. She served as interim Mayor of Regina in 1988, following the resignation of Larry Schneider. Hamilton was first elected to the Legislative Assembly of Saskatchewan in 1991, and re-elected in 1995, 1999 and 2003. She is a member of the New Democratic Party. She did not stand as a candidate in the 2007 provincial election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity13118",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Easton_Sibley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blp" : [ "no" ]
+  },
+  "words" : [ "June", "24", "-LRB-", "American", "Sibley", ",", "pioneer", "-", "educator", ".", "1800", "Easton", "-RRB-", "January", "20", "early", "Mary", "1878" ],
+  "adjectives" : [ "American", "early" ],
+  "nouns" : [ "pioneer", "educator" ],
+  "text" : "Mary Easton Sibley (January 24, 1800- June 20, 1878) was an early American pioneer and educator.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity1576",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Abela_Wadge",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:blp" : [ "yes" ]
+  },
+  "words" : [ "-LRB-", "March", "Nationalist", "behalf", "Committee", "contested", "Council", "Nazzjonalista", "Councillors", "general", "President", "Administrative", "Msida", "Party", "Maltese", "member", "councillor", "election", "Executive", "committee", "15", "Alan", "born", "politician", "Local", "'s", "9th", ".", "Partit", "KKLPN", "Wadge", "unsuccessfully", "1987", "elected", "district", "-RRB-", "College", "Abela" ],
+  "adjectives" : [ "general", "Maltese", "Nationalist", "9th" ],
+  "nouns" : [ "election", "committee", "politician", "district", "member", "behalf", "councillor" ],
+  "text" : "Alan Abela Wadge (born 15 March 1987) is a Maltese politician who is a councillor on the Msida Local Council. He was elected on behalf of the Nationalist Party (Partit Nazzjonalista). Wadge unsuccessfully contested the general election in the 9th district. Wadge is the President of the College of Local Councillors (KKLPN) and a member of the Nationalist Party's Executive Committee and Administrative committee.",
+  "patterns" : { }
+} ]

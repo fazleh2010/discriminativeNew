@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity7554",
+  "entityUrl" : "http://dbpedia.org/resource/Hussein_Maalim_Mohamed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nativeLang" : [ "ar" ]
+  },
+  "words" : [ "Mohamed", "Maxamed", "citizen", "-LRB-", "محمد", "حسين", "معلم", "politician", "Maalim", "Huseen", "office", ",", "Kenya", ".", "former", "Hussein", "Arabic", "State", "-RRB-", ":", "Somali", "Minister", "president" ],
+  "adjectives" : [ "Somali", "former" ],
+  "nouns" : [ "citizen", "محمد", "politician", "office", "president" ],
+  "text" : "Hussein Maalim Mohamed (Somali: Huseen Maalim Maxamed, Arabic: حسين معلم محمد‎‎) is a Somali politician. A citizen of Kenya, he was the former Minister of State in the office of the president.",
+  "patterns" : { }
+} ]

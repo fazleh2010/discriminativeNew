@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity6627",
+  "entityUrl" : "http://dbpedia.org/resource/Gopal_Meena",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:fathername" : [ "Ganga Ram Meena" ]
+  },
+  "words" : [ "Congress", "-LRB-", "27", "born", "politician", ".", "Gopal", "meena", "1976", "December", "National", "-RRB-", "member", "Indian", "party" ],
+  "adjectives" : [ "Indian" ],
+  "nouns" : [ "politician", "member", "party" ],
+  "text" : "Gopal meena (born 27 December 1976) is an Indian politician. He is a member of the Indian National Congress party.",
+  "patterns" : { }
+} ]

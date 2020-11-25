@@ -1,0 +1,12 @@
+id=1  property=dbo:almaMater  
+served_in-VBN_IN  multiply=0.006705  P(served_in|dbo:almaMater)=0.042587  P(dbo:almaMater|served_in)=0.157434    
+served_member-VBD_NN  multiply=0.004425  P(served_member|dbo:almaMater)=0.033912  P(dbo:almaMater|served_member)=0.130501    
+member_of-NN_IN  multiply=0.003769  P(member_of|dbo:almaMater)=0.031151  P(dbo:almaMater|member_of)=0.12098    
+graduated_from-VBN_IN  multiply=0.003286  P(graduated_from|dbo:almaMater)=0.007886  P(dbo:almaMater|graduated_from)=0.416667    
+elected_to-VBN_TO  multiply=0.003119  P(elected_to|dbo:almaMater)=0.032729  P(dbo:almaMater|elected_to)=0.095293    
+currently_serves-RB_VBZ  multiply=0.002779  P(currently_serves|dbo:almaMater)=0.006703  P(dbo:almaMater|currently_serves)=0.414634    
+educated_at-VBN_IN  multiply=0.002635  P(educated_at|dbo:almaMater)=0.008281  P(dbo:almaMater|educated_at)=0.318182    
+later_attended-RB_VBD  multiply=0.002468  P(later_attended|dbo:almaMater)=0.005126  P(dbo:almaMater|later_attended)=0.481481    
+graduated_with-VBN_IN  multiply=0.002366  P(graduated_with|dbo:almaMater)=0.002366  P(dbo:almaMater|graduated_with)=1.0    
+attended-VBD  multiply=0.002229  P(attended|dbo:almaMater)=0.008281  P(dbo:almaMater|attended)=0.269231    
+

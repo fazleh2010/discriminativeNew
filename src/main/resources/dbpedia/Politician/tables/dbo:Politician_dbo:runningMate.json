@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity11386",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Jenness",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:runningMate" : [ "http://dbpedia.org/resource/Andrew_Pulley" ]
+  },
+  "words" : [ "Nixon", "Jenness", "-LRB-", "election", "born", "United", "83,380", "received", "Socialist", "Linda", ".", "States", "vs.", "1941", "candidate", "Party", "1972", "Workers", "-RRB-", "Richard", "47,169,911", "votes", "president" ],
+  "adjectives" : [ ],
+  "nouns" : [ "candidate", "election", "president" ],
+  "text" : "Linda Jenness (born 1941) was a Socialist Workers Party candidate for president of the United States in the 1972 election. She received 83,380 votes (vs. 47,169,911 for Richard Nixon).",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity3657",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_E._Benson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:runningMate" : [ "http://dbpedia.org/resource/Ethan_Berkowitz" ]
+  },
+  "words" : [ "``", "leader", "Congressional", "defeated", "year", "lieutenant", "Berkowitz", "E.", "Republican", "Parnell", "minority", "three", "second", "lost", "state", "ran", "10", "--", "Benson", "%", "Democratic", "filed", "opponents", "House", "published", ",", "'s", ".", "former", "August", "Campaign", "Alaskan", "dramatist", "mate", "person", "speaker", "-RRB-", "Sean", "governor", ";", "primary", "22", "became", "24", "-LRB-", "May", "production", "March", "2010", "video", "Representatives", "Committee", "1954", "running", "general", "2008", "2007", "candidate", "U.S.", "governor-lieutenant", "nominee", "Alaska", "vote", "make", "''", "election", "Ethan", "ticket", "Blue", "born", "politician", "inspirational", "Red", "consultant", "Treadwell", "writer", "defeating", "Diane", "bid", "Mead", "supported" ],
+  "adjectives" : [ "general", "governor-lieutenant", "Alaskan", "Democratic", "inspirational", "Republican", "former", "second", "primary" ],
+  "nouns" : [ "leader", "election", "ticket", "production", "%", "year", "lieutenant", "politician", "video", "minority", "candidate", "consultant", "dramatist", "mate", "person", "speaker", "nominee", "writer", "governor", "state", "bid", "vote", "primary" ],
+  "text" : "Diane E. Benson (born May 10, 1954) is an Alaskan politician, inspirational speaker, video production consultant, published writer and dramatist. On August 24, 2010, she became the Democratic nominee for lieutenant governor of Alaska, defeating three other opponents in the Democratic primary. Benson's running mate for governor was former state House minority leader Ethan Berkowitz; they lost in the general election to the Republican ticket of Sean Parnell and Mead Treadwell by 22% of the vote. In March 2007, Benson filed in Alaska to make her second bid for the U.S. House of Representatives, but was defeated in the August 2008 Democratic primary by Ethan Berkowitz--the same person with whom she ran on the 2010 governor-lieutenant governor ticket--who was that year a \"Red to Blue\" candidate supported by the Democratic Congressional Campaign Committee. Benson ran for Alaska governor in 2002 and for the U.S. House in 2006.",
+  "patterns" : { }
+} ]

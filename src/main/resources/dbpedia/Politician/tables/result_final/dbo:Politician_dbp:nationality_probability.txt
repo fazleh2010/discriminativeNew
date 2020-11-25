@@ -1,0 +1,22 @@
+# dbo:Politician_dbp:nationality_probability_0.45_0.45.txt #####################################
+id=18  property=dbp:nationality  object=Australian  NumberOfEntitiesFoundForObject=132
+australian-JJ  multiply=0.926972  P(australian|object)=0.977273  P(object|australian)=0.948529    
+legislative-JJ  multiply=0.531651  P(legislative|object)=0.689394  P(object|legislative)=0.771186    
+member-NN  multiply=0.426768  P(member|object)=0.787879  P(object|member)=0.541667    
+assembly-NN  multiply=0.384488  P(assembly|object)=0.55303  P(object|assembly)=0.695238    
+party-NN  multiply=0.380944  P(party|object)=0.628788  P(object|party)=0.605839    
+
+# dbo:Politician_dbp:nationality_probability_0.6_0.6.txt #####################################
+id=10  property=dbp:nationality  object=Australian  NumberOfEntitiesFoundForObject=132
+australian-JJ  multiply=0.926972  P(australian|object)=0.977273  P(object|australian)=0.948529    
+legislative-JJ  multiply=0.531651  P(legislative|object)=0.689394  P(object|legislative)=0.771186    
+party-NN  multiply=0.380944  P(party|object)=0.628788  P(object|party)=0.605839 
+
+# dbo:Politician_dbp:nationality_probability_0.8_0.8.txt #####################################
+id=4  property=dbp:nationality  object=Australian  NumberOfEntitiesFoundForObject=132
+australian-JJ  multiply=0.926972  P(australian|object)=0.977273  P(object|australian)=0.948529    
+
+
+
+
+

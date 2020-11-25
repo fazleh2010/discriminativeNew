@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity10813",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_T._VanTassell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:amlaMater" : [ "http://dbpedia.org/resource/Brigham_Young_University" ]
+  },
+  "words" : [ "Daggett", "Van", "Tassell", "-LRB-", "Bank", "American", "Zion", "March", "Republican", "Summit", "Utah", "1952", "member", "T.", "Duchesne", "state", "manager", "Counties", "Uintah", "born", "politician", "Wasatch", "representing", ",", "'s", "former", ".", "26th", "Kevin", "Senate", "3", "Vernal", "State", "senate", "district", "-RRB-" ],
+  "adjectives" : [ "American", "former", "26th" ],
+  "nouns" : [ "manager", "senate", "politician", "district", "member", "state" ],
+  "text" : "Kevin T. Van Tassell (born March 3, 1952) is an American politician and former manager of Zion's Bank in Vernal, Utah. A Republican, he is a member of the Utah State Senate, representing the state's 26th senate district in Daggett, Duchesne, Summit, Uintah and Wasatch Counties.",
+  "patterns" : { }
+} ]

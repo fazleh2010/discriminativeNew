@@ -1,0 +1,12 @@
+id=8  property=dbo:deathPlace  
+born_into-VBN_IN  multiply=0.052007  P(born_into|dbo:deathPlace)=0.082463  P(dbo:deathPlace|born_into)=0.63067    
+born_in-VBN_IN  multiply=0.052007  P(born_in|dbo:deathPlace)=0.082463  P(dbo:deathPlace|born_in)=0.63067    
+served-RB_VBN  multiply=0.045405  P(served|dbo:deathPlace)=0.136402  P(dbo:deathPlace|served)=0.332874    
+represented-VBN  multiply=0.030271  P(represented|dbo:deathPlace)=0.08218  P(dbo:deathPlace|represented)=0.368354    
+served_in-VBN_IN  multiply=0.026769  P(served_in|dbo:deathPlace)=0.072014  P(dbo:deathPlace|served_in)=0.37172    
+died_in-VBD_IN  multiply=0.025732  P(died_in|dbo:deathPlace)=0.029653  P(dbo:deathPlace|died_in)=0.867769    
+served_member-VBD_NN  multiply=0.023265  P(served_member|dbo:deathPlace)=0.065801  P(dbo:deathPlace|served_member)=0.353566    
+elected_served-VBN_VBD  multiply=0.021949  P(elected_served|dbo:deathPlace)=0.058176  P(dbo:deathPlace|elected_served)=0.377289    
+served_one-VBD_CD  multiply=0.020504  P(served_one|dbo:deathPlace)=0.053375  P(dbo:deathPlace|served_one)=0.384146    
+served_on-VBN_IN  multiply=0.020454  P(served_on|dbo:deathPlace)=0.053092  P(dbo:deathPlace|served_on)=0.385246    
+

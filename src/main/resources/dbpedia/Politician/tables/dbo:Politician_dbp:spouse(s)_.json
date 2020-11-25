@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity3995",
+  "entityUrl" : "http://dbpedia.org/resource/Devendra_Nath_Dwivedi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:spouse(s)_" : [ "Dr. Kanak Dwivedi", "Vidya Dwivedi," ]
+  },
+  "words" : [ "Congress", "-LRB-", "Gujarat", "March", "died", "2009", "Sabha", "1974", "post", "member", "30", "1935", "74", "designate", "--", "Nath", "could", "politician", "aged", ",", "'s", ".", "August", "1", "Governor", "take", "Rajya", "Devendra", "1980", "-RRB-", "Indian", "Dwivedi", "formally" ],
+  "adjectives" : [ "aged", "Indian" ],
+  "nouns" : [ "Governor", "post", "politician", "member" ],
+  "text" : "Devendra Nath Dwivedi (March 30, 1935 – August 1, 2009) was an Indian politician and the Governor designate of Gujarat. He was a Congress member of the Rajya Sabha from 1974 to 1980. He died on August 1, 2009 aged 74, before he could formally take up the post of Gujarat's Governor.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity6765",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_A._Wise",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:spouse(s)_" : [ "Ann Jennings", "Mary Lyons", "Sarah Sergeant" ]
+  },
+  "words" : [ "Alexander", "-LRB-", "September", "American", "father", "John", "War", "Representatives", "States", "1876", "general", "December", "Confederate", "U.S.", "Brazil", "Richard", "Henry", "lawyer", "US", "Minister", "--", "12", "Army", "politician", ",", "Wise", ".", "Alsop", "Governor", "Civil", "3", "Sergeant", "-RRB-", "1806", "Representative", "Virginia" ],
+  "adjectives" : [ "general", "Confederate", "American" ],
+  "nouns" : [ "politician", "father", "lawyer" ],
+  "text" : "Henry Alexander Wise (December 3, 1806 – September 12, 1876) was an American lawyer and politician from Virginia. He was a U.S. Representative and Governor of Virginia, and US Minister to Brazil. During the American Civil War, he was a general in the Confederate States Army. He was the father of U.S. Representatives Richard Alsop Wise and John Sergeant Wise.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity5544",
+  "entityUrl" : "http://dbpedia.org/resource/Firdous_Ashiq_Awan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:spouse(s)_" : [ "1" ]
+  },
+  "words" : [ "Dr.", "-LRB-", "فردوس", "Federal", "I.", "اعوان", "Firdous", "Sialkot", "National", "1970", "federal", "Awan", "female", "January", "Minister", "11", "MP", "Cabinet", "Urdu", "born", "politician", "Pakistani", ",", ".", "عاشق", "appointed", "Services", "Gillani", "Ashiq", "-RRB-", ":", "Regulation", "Punjabi" ],
+  "adjectives" : [ "federal", "Pakistani", "female" ],
+  "nouns" : [ "MP", "I.", "politician", "اعوان" ],
+  "text" : "Dr. Firdous Ashiq Awan (Punjabi, Urdu: فردوس عاشق اعوان‎) (born 11 January 1970), is a female Pakistani politician. She is a federal MP from Sialkot and has been appointed the Federal Minister for National Regulation and Services in the Gillani Cabinet I.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity14380",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Shurman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:spouse(s)_" : [ "Carole" ]
+  },
+  "words" : [ "-LRB-", "show", "riding", "Shurman", "CFRB", "radio", "Thornhill", "2007", "member", "host", "represented", "talk", "Assembly", "November", "born", "18", "politician", ",", "former", ".", "Progressive", "Canada", "Prior", "Conservative", "2013", "-RRB-", "Legislative", "Peter", "time", "1947", "Ontario", "Toronto", "legislature" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "politician", "member", "show", "host", "talk", "time", "Assembly", "legislature", "radio" ],
+  "text" : "Peter Shurman (born November 18, 1947) is a former politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 2007 to 2013 who represented the riding of Thornhill. Prior to his time in the legislature, he was a radio talk show host on CFRB in Toronto.",
+  "patterns" : { }
+} ]

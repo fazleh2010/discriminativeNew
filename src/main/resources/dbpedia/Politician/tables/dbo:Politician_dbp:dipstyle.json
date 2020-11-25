@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity11288",
+  "entityUrl" : "http://dbpedia.org/resource/Lincoln_Alexander",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:dipstyle" : [ "His Honour the Honourable" ]
+  },
+  "words" : [ "OOnt", "Labour", "serve", "QC", "Board", "terms", "Commons", "Compensation", "Lincoln", "January", "Member", "five", "Minister", "--", "24th", "Guelph", "19", "MacCauley", "House", ",", "'s", ".", "1985", "University", "Unity", "person", "-RRB-", "governor", "Ontario", "Parliament", "21", "became", "Chancellor", "Alexander", "-LRB-", "Canadian", "Chair", "2012", "Council", "serving", "October", "2007", "1991", "federal", "Worker", "lawyer", "CC", "CD", "Cabinet", "black", "also", "Lieutenant-Governor", "PC", "first", "1922" ],
+  "adjectives" : [ "24th", "Canadian", "black", "federal", "first" ],
+  "nouns" : [ "CC", "Lieutenant-Governor", "OOnt", "Chair", "person", "governor", "lawyer" ],
+  "text" : "Lincoln MacCauley Alexander, PC CC OOnt CD QC (January 21, 1922 – October 19, 2012) was a Canadian lawyer who became the first black Member of Parliament in the House of Commons, the first black federal Cabinet Minister serving as federal Minister of Labour, the first black Chair of the Worker’s Compensation Board, and the 24th Lieutenant-Governor serving Ontario from 1985 to 1991, and the first person to serve five terms as Chancellor of the University of Guelph, from 1991 to 2007. Alexander was also a governor of the Canadian Unity Council.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity17748",
+  "entityUrl" : "http://dbpedia.org/resource/Talal_Arslan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:dipstyle" : [ "http://dbpedia.org/resource/Highness" ]
+  },
+  "words" : [ "الديمقراطي", "الزعامات", "أسسه", "وأعيد", "الطائفة", "،", "واستمر", "سنة", "بسنوات", "يونيو", "السبعينات", "والده", "مجيد", "12", "من", "خلفًا", "عقل", "يرأس", "الحزب", "2001", "في", "2000", "-", "عين", ".", "تعين", "الذي", "ذلك", "-RRB-", "لوالده", "أسرته", "المتوفي", "شيخ", "طلال", "-LRB-", "وكانت", "لبناني", "سياسي", "و", "السياسي", "كنائب", "الدرزية", "لبنان", "وأحد", "2009", "1996", "أهم", "1992", "1991", "حتى", "هو", "انتخابه", "هي", "الأمير", "أرسلان", "الزعيم", "1965", "اللبناني", "العشرين", "التي", "نهاية", "القرن" ],
+  "adjectives" : [ ],
+  "nouns" : [ "من", "هي", "يرأس", "الأمير", "أرسلان", "في", "والده", "،" ],
+  "text" : "الأمير طلال أرسلان (12 يونيو 1965 -)، سياسي لبناني وأحد أهم الزعامات الدرزية في لبنان. والده هو الزعيم السياسي الأمير مجيد أرسلان، وكانت أسرته هي التي تعين شيخ عقل الطائفة الدرزية واستمر ذلك حتى نهاية السبعينات من القرن العشرين. يرأس الحزب الديمقراطي اللبناني الذي أسسه سنة 2001. عين سنة 1991 كنائب خلفًا لوالده المتوفي وأعيد انتخابه بسنوات 1992، 1996 2000، و 2009.",
+  "patterns" : { }
+} ]

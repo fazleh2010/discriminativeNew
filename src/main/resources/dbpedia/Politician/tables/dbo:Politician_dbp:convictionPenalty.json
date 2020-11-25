@@ -1,0 +1,37 @@
+[ {
+  "entityIndex" : "1_entity8152",
+  "entityUrl" : "http://dbpedia.org/resource/Jack_Abramoff",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:convictionPenalty" : [ "1.84086E8" ]
+  },
+  "words" : [ "-LRB-", "م", "ابراموف", "و", "،", "منتج", "عضو", "المتحدة", "الولايات", "1959", "Jack", "--", "هو", "من", "اتلانتيك", "الحزب", "بالإنجليزية", "في", "ولد", "الجمهوري", "الأمريكية", ".", "أفلام", "Abramoff", "سيتي.وهو", "-RRB-", ":", "ومحام", "جاك" ],
+  "adjectives" : [ ],
+  "nouns" : [ "في", "،" ],
+  "text" : "جاك ابراموف (بالإنجليزية: Jack Abramoff) (و. 1959 – م) هو منتج أفلام، ومحام من الولايات المتحدة الأمريكية ولد في اتلانتيك سيتي.وهو عضو في الحزب الجمهوري .",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity2215",
+  "entityUrl" : "http://dbpedia.org/resource/Botak_Chin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:convictionPenalty" : [ "http://dbpedia.org/resource/Death_penalty" ]
+  },
+  "words" : [ "shared", "-LRB-", "Swee", "notorious", "Botak", "dangerous", "Chin", "Malaysia", "conducting", "robberies", "known", "amounts", "poor", "Wong", "huge", "1960s", "cash", "Hood", "1970s", "cases", "gangsters", "one", "often", "say", ",", "community", ".", "involved", "regarded", "armed", "name", "-RRB-", "Chinese", "well", "modern-age", ";", "family", "respected", "Robin" ],
+  "adjectives" : [ "notorious", "poor", "armed", "dangerous", "Chinese", "modern-age", "huge" ],
+  "nouns" : [ "name", "family", "community", "cash" ],
+  "text" : "(This is a Chinese name; the family name is Wong.) Wong Swee Chin who was more well known as Botak Chin was one of the most notorious and dangerous gangsters during the 1960s and 1970s in Malaysia. He was known for conducting armed robberies, which in a few cases involved huge amounts of cash. He was respected by the Chinese community and often regarded as modern-age Robin Hood, as some say he shared the cash from the robberies with the poor. On the evening of 16 February 1976, he was captured by the police, and was sentenced to hang to death in Pudu Prison on 11 June 1981.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity15113",
+  "entityUrl" : "http://dbpedia.org/resource/Rex_Jackson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:convictionPenalty" : [ "Ten years custody with a five years non-parole period" ]
+  },
+  "words" : [ "même", "Rex", "politique", "est", "2011", "Jackson", "australien", "mort", "un", "décembre", "31", "à", "Wagga", "ville", "en", ",", "dans", ".", "et", "homme", "la", "7", "Australie", "le", "1928", "né", "octobre" ],
+  "adjectives" : [ "décembre" ],
+  "nouns" : [ "homme", "Rex", "politique", "un", "né", "octobre", "australien" ],
+  "text" : "Rex Jackson, né le 7 octobre 1928 à Wagga Wagga en Australie et mort le 31 décembre 2011 dans la même ville, est un homme politique australien.",
+  "patterns" : { }
+} ]

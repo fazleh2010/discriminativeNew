@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "1_entity1927",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Proctor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:denomination" : [ "African Methodist Episcopal" ]
+  },
+  "words" : [ "role", "Previously", "Instructor", "Science", "according", "County", "Wolfe", "Tallahassee", "1996", "1994", "Chuck", "Leon", "affairs", "re-election", "fired", "committee", "Proctor", "director", "'", "A&M", "Commissioner", "2000", "Chiles", "also", ",", "Florida", ".", "former", "Lawton", "August", "1", "Governor", "external", "University", "served", "Bill", "essentially", "Political", "District", "since" ],
+  "adjectives" : [ "external", "former" ],
+  "nouns" : [ "re-election", "role", "committee", "director" ],
+  "text" : "Bill Proctor is the Leon County, Florida District 1 County Commissioner, a role in which he has served since 1996. He has also been an Instructor Political Science at Florida A&M University in Tallahassee, Florida since August 2000. Previously, he served on former Florida Governor Lawton Chiles' 1994 re-election committee before being essentially fired according to Chuck Wolfe, Chiles' director of external affairs.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity1488",
+  "entityUrl" : "http://dbpedia.org/resource/As'ad_Madani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:denomination" : [ "http://dbpedia.org/resource/Sunni" ]
+  },
+  "words" : [ "-LRB-", "prominent", "Majlis-e-Shura", "27", "Madani", "Deobandi", "body", "سید", "President", "executive", "2006", "AD-February", "Uloom", "member", "Sayyed", "Ulema-e-Hind", "`", "Darul", "ad", "AD", "Urdu", "اسعد", "مدنے", "politician", "Deoband", "Islamic", ",", "scholar", "April", ".", "6", "Jamiat", "-RRB-", "1928", "Indian", ":" ],
+  "adjectives" : [ "prominent", "AD-February", "Indian" ],
+  "nouns" : [ "executive", "ad", "AD", "Majlis-e-Shura", "مدنے", "politician", "member", "scholar", "body" ],
+  "text" : "Sayyed As'ad Madani (April 27, 1928 AD-February 6, 2006 AD) (Urdu: سید اسعد مدنے ) was an Indian Deobandi Islamic scholar and politician. He was the President of Jamiat Ulema-e-Hind and a prominent member of executive body (Majlis-e-Shura) of Darul Uloom Deoband.",
+  "patterns" : { }
+} ]

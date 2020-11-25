@@ -1,0 +1,12 @@
+id=13  property=dbo:occupation  
+elected-VBN  multiply=0.007273  P(elected|dbo:occupation)=0.089153  P(dbo:occupation|elected)=0.081577    
+served-RB_VBN  multiply=0.005432  P(served|dbo:occupation)=0.076523  P(dbo:occupation|served)=0.070986    
+became-VBD  multiply=0.004466  P(became|dbo:occupation)=0.028975  P(dbo:occupation|became)=0.15415    
+member_of-NN_IN  multiply=0.004234  P(member_of|dbo:occupation)=0.045319  P(dbo:occupation|member_of)=0.093415    
+former-RB_JJ  multiply=0.00213  P(former|dbo:occupation)=0.013373  P(dbo:occupation|former)=0.159292    
+served_at-VBD_IN  multiply=0.001725  P(served_at|dbo:occupation)=0.023774  P(dbo:occupation|served_at)=0.072562    
+attended_dalhousie-VBD_NN  multiply=0.001255  P(attended_dalhousie|dbo:occupation)=0.005201  P(dbo:occupation|attended_dalhousie)=0.241379    
+made_his-VBN_PRP$  multiply=0.001238  P(made_his|dbo:occupation)=0.003715  P(dbo:occupation|made_his)=0.333333    
+worked-RB_VBN  multiply=0.001092  P(worked|dbo:occupation)=0.009658  P(dbo:occupation|worked)=0.113043    
+entered-VBN  multiply=0.001057  P(entered|dbo:occupation)=0.005944  P(dbo:occupation|entered)=0.177778    
+

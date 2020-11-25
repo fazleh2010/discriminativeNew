@@ -1,0 +1,49 @@
+[ {
+  "entityIndex" : "1_entity8014",
+  "entityUrl" : "http://dbpedia.org/resource/James_Curtiss",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:shortDescription" : [ "American mayor" ]
+  },
+  "words" : [ "Mayor", "-LRB-", "American", "Curtis", "Curtiss", "Party", "1851", "1850", "1859", "November", "--", "James", "Chicago", "Democratic", "politician", "also", ",", "April", ".", "2", "twice", "Illinois", "7", "served", "-RRB-", "1848", "1803", "1847" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "politician" ],
+  "text" : "James Curtiss (also Curtis) (April 7, 1803 – November 2, 1859) was an American politician who twice served as Mayor of Chicago, Illinois (1847–1848 and 1850–1851) for the Democratic Party.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "2_entity18405",
+  "entityUrl" : "http://dbpedia.org/resource/V._R._Karuppasamy_Pandian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:shortDescription" : [ "Member of Tamil Nadu legislative assembly" ]
+  },
+  "words" : [ "Nadu", "Munnetra", "Alangulam", "Palayamkottai", "Tenkasi", "legislative", "candidate", "secretary", "2006", "Tirunelveli", "V.", "assembly", "Pandian", "Member", "Dravida", "Karuppasamy", "Assembly", "Anna", "1977", "DMK", "election", "politician", "'s", "former", "Tamil", ".", "elected", "currently", "constituency", "district", "1980", "Indian", "Legislative", "Kazhagam" ],
+  "adjectives" : [ "Indian", "Legislative", "Tenkasi", "former", "legislative" ],
+  "nouns" : [ "candidate", "secretary", "election", "constituency", "politician", "district", "assembly", "Assembly" ],
+  "text" : "V. Karuppasamy Pandian is an Indian politician and a former Member of the Legislative Assembly in Tamil Nadu. He is currently DMK's Tirunelveli district secretary. He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Alangulam constituency in 1977 election He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Palayamkottai constituency in 1980 election He was elected to the Tamil Nadu legislative assembly as an Dravida Munnetra Kazhagam candidate from Tenkasi constituency in 2006 election",
+  "patterns" : { }
+}, {
+  "entityIndex" : "3_entity16841",
+  "entityUrl" : "http://dbpedia.org/resource/S._Nagoor_Meeran",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:shortDescription" : [ "Former Member of the Legislative Assembly (India) and also former Minister of Tourism" ]
+  },
+  "words" : [ "Nadu", "Munnetra", "election", "politician", "former", ".", "Tamil", "legislative", "elected", "Kadayanallur", "candidate", "constituency", "Meeran", "1991", "assembly", "Indian", "Legislative", "S.", "Member", "Dravida", "Kazhagam", "Assembly", "Nagoor", "Anna" ],
+  "adjectives" : [ "Indian", "Legislative", "former", "legislative" ],
+  "nouns" : [ "candidate", "election", "constituency", "politician", "assembly", "Assembly" ],
+  "text" : "S. Nagoor Meeran is an Indian politician and former Member of the Legislative Assembly. He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Kadayanallur constituency in 1991 election.",
+  "patterns" : { }
+}, {
+  "entityIndex" : "4_entity1240",
+  "entityUrl" : "http://dbpedia.org/resource/Anton_Klaus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:shortDescription" : [ "American mayor" ]
+  },
+  "words" : [ "Anton", "Mayor", "Bay", ",", "Klaus", "Green", "Wisconsin", "." ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : "Anton Klaus was Mayor of Green Bay, Wisconsin.",
+  "patterns" : { }
+} ]

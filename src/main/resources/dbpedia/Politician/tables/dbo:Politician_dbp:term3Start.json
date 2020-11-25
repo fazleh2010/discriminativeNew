@@ -1,0 +1,13 @@
+[ {
+  "entityIndex" : "1_entity5187",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_L._Shaw",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:term3Start" : [ "1925" ]
+  },
+  "words" : [ "24", "-LRB-", "American", "city", "administration", "Angeles", "office", "Shaw", "County", "Council", "seen", "1877", "Board", "major", "defenders", "member", "1938", "crime", "1958", "February", "January", "officially", "--", "L.", "corrupt", "recalled", "mayor", "one", "also", "City", "history", ",", ".", "1", "Los", "never", "although", "Supervisors", "-RRB-", "Frank", "charged", "first" ],
+  "adjectives" : [ "corrupt", "major", "American", "first" ],
+  "nouns" : [ "mayor", "city", "administration", "member", "crime", "office", "history" ],
+  "text" : "Frank L. Shaw (February 1, 1877 – January 24, 1958) was the first mayor of a major American city to be recalled from office, in 1938. He was also a member of the Los Angeles City Council and then the Los Angeles County Board of Supervisors. His administration was seen as one of the most corrupt in Los Angeles history, although he had some defenders and was never charged officially with any crime.",
+  "patterns" : { }
+} ]
