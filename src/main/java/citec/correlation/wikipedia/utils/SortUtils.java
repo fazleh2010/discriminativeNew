@@ -110,6 +110,11 @@ public class SortUtils {
                 keyIndex = keyIndex + 1;
                 results.put(keyIndex, line);
             }
+            else{
+               keyIndex = keyIndex + 1;
+                String line="("+entry.getValue() +")"+ "  " + entry.getKey();
+                results.put(keyIndex, line);                 
+            }
 
         }
         return results;

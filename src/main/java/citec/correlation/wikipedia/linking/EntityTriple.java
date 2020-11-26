@@ -235,6 +235,10 @@ public class EntityTriple {
             return "EntityTriple{" + "subject=" + subject + ", predicate=" + predicate + ", object=" + object + '}';
         }
 
+        public boolean isValid() {
+            return true;
+        }
+
     }
 
 }

@@ -70,6 +70,7 @@ public class TableMain implements PropertyNotation {
     private static String output = "output/";
     //private static String inputJsonFile = dataDir + input + "results-100000000-1000-concretePO.json";
     private static String inputJsonFile = dataDir + input + "results-100000000-100-concretePO.json";
+    
 
     //rivate static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
     private static String allPoliticianFile = dbpediaDir + input + "politicians.txt";

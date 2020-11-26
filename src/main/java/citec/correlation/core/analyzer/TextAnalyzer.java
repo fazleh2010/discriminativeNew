@@ -29,8 +29,6 @@ public interface TextAnalyzer {
     public static final Set<String> PRONOUNS = new HashSet<String>(Arrays.asList("he",
             "she"));
 
-
-
     public static final String NOUN = "NN";
     public static final String WORD = "WORD";
     public static final String SENTENCE = "SENTENCE";
@@ -49,10 +47,10 @@ public interface TextAnalyzer {
             "further", "then", "once", "here", "there", "when", "where", "why",
             "how", "all", "any", "both", "each", "few", "more", "most", "other",
             "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than",
-            "too", "very", "s", "t", "can", "will", "just", "don", "should", "now","un","ein","und","il","est","ist"," né","à");
+            "too", "very", "s", "t", "can", "will", "just", "don", "should", "now", "un", "ein", "und", "il", "est", "ist", " né", "à");
 
-     public static final List<String> ENGLISH_SELECTED_STOPWORDS = Arrays.asList(
-             "i", "me", "my", "myself", "we", "our", "ours",
+    public static final List<String> ENGLISH_SELECTED_STOPWORDS = Arrays.asList(
+            "i", "me", "my", "myself", "we", "our", "ours",
             "ourselves", "you", "your", "yours", "yourself",
             "yourselves", "it", "its", "itself", "they",
             "them", "their", "theirs", "themselves", "what", "which",
@@ -73,8 +71,11 @@ public interface TextAnalyzer {
             "state", "district", "politique", "homme", "membre", "français",
             "député", "alberta", "indian", "congress", "national", "constituency",
             "republican", "state", "australian", "legislative", "south"));*/
-    
-     public static final Set<String> dbpPartyWords = new TreeSet<String>(Arrays.asList("american","democratic"));
+    public static final Set<String> dbpPartyWords = new TreeSet<String>(Arrays.asList("american", "democratic"));
 
     //public static final Map<String,Set<String>> propertySelectedWords = new TreeMap<String,Set<String>>();
+    public String modelDir = "src/main/resources/models/";
+    public static String posTagFile = "en-pos-maxent.bin";
+    public static String lemmaDictionary = "en-lemmatizer.txt";
+
 }

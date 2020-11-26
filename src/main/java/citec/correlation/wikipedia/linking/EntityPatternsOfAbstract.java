@@ -6,6 +6,7 @@
 package citec.correlation.wikipedia.linking;
 
 import citec.correlation.core.analyzer.Analyzer;
+import citec.correlation.core.analyzer.LemmaAnalyzer;
 import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER_TEXT;
 import citec.correlation.wikipedia.utils.FormatAndMatch;
 import java.util.ArrayList;
@@ -23,16 +24,18 @@ import org.javatuples.Pair;
  */
 public class EntityPatternsOfAbstract {
 
-    private Map<String,List<Pattern>> patternsMap = new TreeMap<String,List<Pattern>>();
+    private Map<String,List<Pattern>> objectPatternsMap = new TreeMap<String,List<Pattern>>();
     private Map<String,Pattern> allpatternsHash = new TreeMap<String,Pattern>();
     private List<Pattern> allpatternList = new ArrayList<Pattern>();
     private static Analyzer analyzer=null;
+    private static LemmaAnalyzer lemmaAnalyzer=null;
     private String regEx = null;
     private Integer contextLimit=2;
 
 
-    public EntityPatternsOfAbstract(Analyzer analyzer,String regEx,Collection<String> patternsStr) throws Exception {
+    public EntityPatternsOfAbstract(Analyzer analyzer,LemmaAnalyzer lemmaAnalyzer,String regEx,Collection<String> patternsStr) throws Exception {
         this.analyzer = analyzer;
+        this.lemmaAnalyzer=lemmaAnalyzer;
         this.regEx=regEx;
         for (String patternStr : patternsStr) {
             Pattern pattern = new Pattern(patternStr,contextLimit);
@@ -42,20 +45,20 @@ public class EntityPatternsOfAbstract {
             }
             String object=pattern.getObjectOfProperty();
             List<Pattern> patterns=new ArrayList<Pattern>();
-            if(patternsMap.containsKey(object)){
-                patterns=patternsMap.get(object);
+            if(objectPatternsMap.containsKey(object)){
+                patterns=objectPatternsMap.get(object);
             }
             patterns.add(pattern);
-            patternsMap.put(object, patterns);
+            objectPatternsMap.put(object, patterns);
         }
     }
 
     public Map<String,List<Pattern>> getPatterns() {
-        return patternsMap;
+        return objectPatternsMap;
     }
 
     public Map<String, List<Pattern>> getPatternsMap() {
-        return patternsMap;
+        return objectPatternsMap;
     }
 
     public Map<String, Pattern> getAllpatterns() {
@@ -68,8 +71,8 @@ public class EntityPatternsOfAbstract {
 
 
     public void display() {
-        for (String object : this.patternsMap.keySet()) {
-             System.out.println(object+" "+patternsMap.get(object));
+        for (String object : this.objectPatternsMap.keySet()) {
+             System.out.println(object+" "+objectPatternsMap.get(object));
         }
     }
     
@@ -112,8 +115,7 @@ public class EntityPatternsOfAbstract {
             this.subject = extractValue(patternStr,"(", ")");
             this.contextWord = this.extractValue(patternStr,"[","]");
             this.contextWord=FormatAndMatch.cutContexWords(this.contextWord, contextLimit);
-            this.posTaggedText=this.setPosTagger(this.contextWord);
-            this.modifiedContextWord=this.setModifyContextWords(this.contextWord);
+            this.setPosTagger(this.contextWord);
             this.valid=this.checkValidity();
             this.objectOfProperty = extractValue(patternStr,"<", ">");
         }
@@ -134,13 +136,15 @@ public class EntityPatternsOfAbstract {
            return contextWords;
         }
 
-        private String setPosTagger(String contextWords) throws Exception {
+        private void setPosTagger(String contextWords) throws Exception {
             String[] results = analyzer.posTaggerText(contextWords);
-            String posTagged=results[2];
-            if (FormatAndMatch.isPosTagValid(posTagged,regEx)) {
-                return posTagged;
+            String posTagged = results[2];
+            String posTaggedText = results[1];
+            if (FormatAndMatch.isPosTagValid(posTagged, regEx)) {
+                this.posTaggedText = posTagged;
             }
-            return null;
+            posTaggedText=lemmaAnalyzer.getLemma(posTaggedText);
+            this.modifiedContextWord = this.setModifyContextWords(posTaggedText);
         }
 
         private Boolean checkValidity() {

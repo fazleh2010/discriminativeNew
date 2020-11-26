@@ -7,6 +7,7 @@ package citec.correlation.wikipedia.utils;
 
 import static citec.correlation.core.analyzer.TextAnalyzer.PRONOUNS;
 import static citec.correlation.wikipedia.linking.EntityAnnotation.SUBJECT;
+import citec.correlation.wikipedia.linking.EntityPatternsOfAbstract;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
@@ -240,13 +241,14 @@ public class FormatAndMatch {
         if(givenPosTagged.equals("IN")||givenPosTagged.equals("TO")||givenPosTagged.equals("RB")
                 ||selectedPosTagged.equals("IN")|selectedPosTagged.equals("RB"))
            return false;
-            
         if (selectedText.length() > givenText.length()) {
             if (selectedText.contains(givenText)) {
+                //System.out.println("selectedText:"+selectedText+" givenText:"+givenText);
                 return true;
             }
         } else {
             if (givenText.contains(selectedText)) {
+                //System.out.println("selectedText:"+selectedText+" givenText:"+givenText);
                 return true;
             }
         }
@@ -268,6 +270,24 @@ public class FormatAndMatch {
         }
         
         return str;
+    }
+    
+    public static boolean isExtactMatchFound(EntityPatternsOfAbstract entityPatternsOfAbstract, String patternStr) {
+        if (entityPatternsOfAbstract.getAllpatterns().containsKey(patternStr)) {
+            //System.out.println(entityPatternsOfAbstract.getAllpatterns().keySet());
+            //System.out.println("context words:"+pattern.getContextWord());
+            return true;
+        }
+        return false;
+    }
+
+    public static boolean isSubsetMatchFound(EntityPatternsOfAbstract entityPatternsOfAbstract, EntityPatternsOfAbstract.Pattern patternStr) {
+        if (entityPatternsOfAbstract.getAllpatterns().containsKey(patternStr)) {
+            //System.out.println(entityPatternsOfAbstract.getAllpatterns().keySet());
+            //System.out.println("context words:"+pattern.getContextWord());
+            return true;
+        }
+        return false;
     }
 
 
