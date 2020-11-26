@@ -1,12 +1,12 @@
 id=33  property=dbp:before  
-served_in-VBN_IN  multiply=0.01381  P(served_in|dbp:before)=0.052927  P(dbp:before|served_in)=0.260933    
-elected_at-VBN_IN  multiply=0.013235  P(elected_at|dbp:before)=0.026907  P(dbp:before|elected_at)=0.491892    
-served_ambassador-VBD_NN  multiply=0.011506  P(served_ambassador|dbp:before)=0.038734  P(dbp:before|served_ambassador)=0.297052    
-first_elected-RB_VBN  multiply=0.008345  P(first_elected|dbp:before)=0.024837  P(dbp:before|first_elected)=0.336    
-reelected_in-VBN_IN  multiply=0.008241  P(reelected_in|dbp:before)=0.021289  P(dbp:before|reelected_in)=0.387097    
-elected_in-VBN_IN  multiply=0.008197  P(elected_in|dbp:before)=0.021289  P(dbp:before|elected_in)=0.385027    
-elected_for-VBN_IN  multiply=0.007505  P(elected_for|dbp:before)=0.016854  P(dbp:before|elected_for)=0.445312    
-elected_to-VBN_TO  multiply=0.006654  P(elected_to|dbp:before)=0.041396  P(dbp:before|elected_to)=0.160735    
-first_became-RB_VBD  multiply=0.005249  P(first_became|dbp:before)=0.010349  P(dbp:before|first_became)=0.507246    
-returned_to-VBN_TO  multiply=0.004374  P(returned_to|dbp:before)=0.008279  P(dbp:before|returned_to)=0.528302    
+serve_in-VBN_IN  multiply=0.013907  P(serve_in|dbp:before)=0.05411  P(dbp:before|serve_in)=0.257022    
+elect_at-VBN_IN  multiply=0.013235  P(elect_at|dbp:before)=0.026907  P(dbp:before|elect_at)=0.491892    
+serve_ambassador-VBD_NN  multiply=0.011825  P(serve_ambassador|dbp:before)=0.039622  P(dbp:before|serve_ambassador)=0.298441    
+first_elect-RB_VBN  multiply=0.008345  P(first_elect|dbp:before)=0.024837  P(dbp:before|first_elect)=0.336    
+reelect_in-VBN_IN  multiply=0.008241  P(reelect_in|dbp:before)=0.021289  P(dbp:before|reelect_in)=0.387097    
+elect_in-VBN_IN  multiply=0.008197  P(elect_in|dbp:before)=0.021289  P(dbp:before|elect_in)=0.385027    
+elect_for-VBN_IN  multiply=0.007505  P(elect_for|dbp:before)=0.016854  P(dbp:before|elect_for)=0.445312    
+seek_election-VB_NN  multiply=0.007433  P(seek_election|dbp:before)=0.015967  P(dbp:before|seek_election)=0.465517    
+elect_to-VBN_TO  multiply=0.006574  P(elect_to|dbp:before)=0.0411  P(dbp:before|elect_to)=0.159954    
+first_become-RB_VBD  multiply=0.005249  P(first_become|dbp:before)=0.010349  P(dbp:before|first_become)=0.507246    
 

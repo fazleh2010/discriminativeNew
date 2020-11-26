@@ -1,12 +1,12 @@
 id=75  property=dbp:title  
-elected-VBN  multiply=0.040329  P(elected|dbp:title)=0.105372  P(dbp:title|elected)=0.382733    
-served-RB_VBN  multiply=0.03135  P(served|dbp:title)=0.09227  P(dbp:title|served)=0.339766    
-became-VBD  multiply=0.015554  P(became|dbp:title)=0.027138  P(dbp:title|became)=0.573123    
-served_in-VBN_IN  multiply=0.015195  P(served_in|dbp:title)=0.04417  P(dbp:title|served_in)=0.344023    
-previously_served-RB_VBN  multiply=0.014259  P(previously_served|dbp:title)=0.036309  P(dbp:title|previously_served)=0.392713    
-served_first-VBD_RB  multiply=0.013211  P(served_first|dbp:title)=0.033689  P(dbp:title|served_first)=0.392157    
-served_president-VBD_NN  multiply=0.01319  P(served_president|dbp:title)=0.034063  P(dbp:title|served_president)=0.387234    
-represented_town-VBN_NN  multiply=0.013124  P(represented_town|dbp:title)=0.029571  P(dbp:title|represented_town)=0.44382    
-represented_electorate-VBN_NN  multiply=0.013124  P(represented_electorate|dbp:title)=0.029571  P(dbp:title|represented_electorate)=0.44382    
-served_deputy-VBD_NN  multiply=0.013074  P(served_deputy|dbp:title)=0.033876  P(dbp:title|served_deputy)=0.385928    
+elect-VBN  multiply=0.038098  P(elect|dbp:title)=0.108928  P(dbp:title|elect)=0.34976    
+serve-RB_VBN  multiply=0.031183  P(serve|dbp:title)=0.095265  P(dbp:title|serve)=0.327331    
+represent_electorate-VBN_NN  multiply=0.018434  P(represent_electorate|dbp:title)=0.042111  P(dbp:title|represent_electorate)=0.437743    
+become-VBD  multiply=0.015371  P(become|dbp:title)=0.027138  P(dbp:title|become)=0.566406    
+serve_in-VBN_IN  multiply=0.015141  P(serve_in|dbp:title)=0.044919  P(dbp:title|serve_in)=0.337079    
+previously_serve-RB_VBN  multiply=0.014469  P(previously_serve|dbp:title)=0.036871  P(dbp:title|previously_serve)=0.39243    
+serve_first-VBD_RB  multiply=0.013421  P(serve_first|dbp:title)=0.03425  P(dbp:title|serve_first)=0.391863    
+serve_president-VBD_NN  multiply=0.013373  P(serve_president|dbp:title)=0.034625  P(dbp:title|serve_president)=0.386221    
+serve_chairman-VBZ_NN  multiply=0.013275  P(serve_chairman|dbp:title)=0.034063  P(dbp:title|serve_chairman)=0.389722    
+serve_one-VBD_CD  multiply=0.013274  P(serve_one|dbp:title)=0.035561  P(dbp:title|serve_one)=0.373281    
 

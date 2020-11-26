@@ -1,3 +1,3 @@
 id=30  property=dbp:1namedata  
-succeed_by-VB_IN  multiply=0.013514  P(succeed_by|dbp:1namedata)=0.013514  P(dbp:1namedata|succeed_by)=1.0    
+succeed_by-VBN_IN  multiply=3.22E-4  P(succeed_by|dbp:1namedata)=0.013514  P(dbp:1namedata|succeed_by)=0.02381    
 

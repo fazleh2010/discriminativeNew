@@ -1,12 +1,12 @@
 id=17  property=dbo:party  
-elected-VBN  multiply=0.110448  P(elected|dbo:party)=0.125072  P(dbo:party|elected)=0.883073    
+elect-VBN  multiply=0.126914  P(elect|dbo:party)=0.142596  P(dbo:party|elect)=0.890024    
 member-RB_NN  multiply=0.092582  P(member|dbo:party)=0.102734  P(dbo:party|member)=0.901182    
-served-RB_VBN  multiply=0.079563  P(served|dbo:party)=0.10543  P(dbo:party|served)=0.754652    
-reelected_to-VBN_TO  multiply=0.068355  P(reelected_to|dbo:party)=0.075583  P(dbo:party|reelected_to)=0.904378    
-elected_to-VBN_TO  multiply=0.068293  P(elected_to|dbo:party)=0.075679  P(dbo:party|elected_to)=0.902411    
+serve-RB_VBN  multiply=0.086654  P(serve|dbo:party)=0.113903  P(dbo:party|serve)=0.760772    
+reelect_to-VBN_TO  multiply=0.068355  P(reelect_to|dbo:party)=0.075583  P(dbo:party|reelect_to)=0.904378    
+elect_to-VBN_TO  multiply=0.068276  P(elect_to|dbo:party)=0.075583  P(dbo:party|elect_to)=0.903337    
+represent-VBN  multiply=0.056454  P(represent|dbo:party)=0.071442  P(dbo:party|represent)=0.790202    
 member_of-NN_IN  multiply=0.049773  P(member_of|dbo:party)=0.055941  P(dbo:party|member_of)=0.88974    
-represented-VBN  multiply=0.043876  P(represented|dbo:party)=0.05777  P(dbo:party|represented)=0.759494    
-served_member-VBD_NN  multiply=0.042921  P(served_member|dbo:party)=0.052186  P(dbo:party|served_member)=0.822458    
-served_in-VBN_IN  multiply=0.034809  P(served_in|dbo:party)=0.047949  P(dbo:party|served_in)=0.725948    
-born_in-VBN_IN  multiply=0.028469  P(born_in|dbo:party)=0.035625  P(dbo:party|born_in)=0.799136    
+serve_member-VBD_NN  multiply=0.043695  P(serve_member|dbo:party)=0.053052  P(dbo:party|serve_member)=0.823617    
+serve_in-VBN_IN  multiply=0.036848  P(serve_in|dbo:party)=0.05026  P(dbo:party|serve_in)=0.733146    
+represent_electoral-VBZ_JJ  multiply=0.035361  P(represent_electoral|dbo:party)=0.048045  P(dbo:party|represent_electoral)=0.735988    
 

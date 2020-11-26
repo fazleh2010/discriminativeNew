@@ -1,3 +1,3 @@
 id=47  property=dbp:house  
-reelected_to-VBN_TO  multiply=5.76E-4  P(reelected_to|dbp:house)=0.5  P(dbp:house|reelected_to)=0.001152    
+reelect_to-VBN_TO  multiply=5.76E-4  P(reelect_to|dbp:house)=0.5  P(dbp:house|reelect_to)=0.001152    
 

@@ -1,5 +1,5 @@
 id=24  property=dbo:religion  
 minister_of-NN_IN  multiply=0.009426  P(minister_of|dbo:religion)=0.01554  P(dbo:religion|minister_of)=0.606557    
 member_of-NN_IN  multiply=0.006052  P(member_of|dbo:religion)=0.040739  P(dbo:religion|member_of)=0.148545    
-held_position-VBN_NN  multiply=3.2E-4  P(held_position|dbo:religion)=0.00168  P(dbo:religion|held_position)=0.190476    
+hold_position-VBN_NN  multiply=2.84E-4  P(hold_position|dbo:religion)=0.0021  P(dbo:religion|hold_position)=0.135135    
 

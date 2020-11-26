@@ -1,7 +1,7 @@
 id=51  property=dbp:occupation  
-served-RB_VBN  multiply=0.050955  P(served|dbp:occupation)=0.173966  P(dbp:occupation|served)=0.292901    
-served_in-VBN_IN  multiply=0.033516  P(served_in|dbp:occupation)=0.097012  P(dbp:occupation|served_in)=0.345481    
-elected-VBN  multiply=0.00577  P(elected|dbp:occupation)=0.058944  P(dbp:occupation|elected)=0.097893    
-former-RB_JJ  multiply=0.00284  P(former|dbp:occupation)=0.011461  P(dbp:occupation|former)=0.247788    
+serve-RB_VBN  multiply=0.054257  P(serve|dbp:occupation)=0.185837  P(dbp:occupation|serve)=0.291961    
+serve_in-VBN_IN  multiply=0.032565  P(serve_in|dbp:occupation)=0.097421  P(dbp:occupation|serve_in)=0.33427    
+elect-VBN  multiply=0.011584  P(elect|dbp:occupation)=0.088825  P(dbp:occupation|elect)=0.130409    
+former-RB_JJ  multiply=0.002791  P(former|dbp:occupation)=0.011461  P(dbp:occupation|former)=0.243478    
 chinese_pinyin-JJ_NN  multiply=8.19E-4  P(chinese_pinyin|dbp:occupation)=8.19E-4  P(dbp:occupation|chinese_pinyin)=1.0    
 

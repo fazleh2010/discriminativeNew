@@ -1,3 +1,3 @@
 id=57  property=dbp:post  
-served_in-VBN_IN  multiply=0.007184  P(served_in|dbp:post)=0.158974  P(dbp:post|served_in)=0.04519    
+serve_in-VBN_IN  multiply=0.007375  P(serve_in|dbp:post)=0.164103  P(dbp:post|serve_in)=0.044944    
 

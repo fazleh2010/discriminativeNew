@@ -1,7 +1,6 @@
 id=65  property=dbp:riding  
-represents_riding-VBZ_VBG  multiply=0.005917  P(represents_riding|dbp:riding)=0.051282  P(dbp:riding|represents_riding)=0.115385    
-represents_electoral-VBZ_JJ  multiply=0.00487  P(represents_electoral|dbp:riding)=0.059829  P(dbp:riding|represents_electoral)=0.081395    
-first_elected-RB_VBN  multiply=8.55E-4  P(first_elected|dbp:riding)=0.042735  P(dbp:riding|first_elected)=0.02    
-elected_to-VBN_TO  multiply=6.28E-4  P(elected_to|dbp:riding)=0.068376  P(dbp:riding|elected_to)=0.009185    
-represented_riding-VBN_VBG  multiply=9.0E-5  P(represented_riding|dbp:riding)=0.017094  P(dbp:riding|represented_riding)=0.005263    
+represent_ride-VBZ_VBG  multiply=0.001296  P(represent_ride|dbp:riding)=0.068376  P(dbp:riding|represent_ride)=0.018957    
+first_elect-RB_VBN  multiply=8.55E-4  P(first_elect|dbp:riding)=0.042735  P(dbp:riding|first_elect)=0.02    
+represent_electoral-VBZ_JJ  multiply=8.07E-4  P(represent_electoral|dbp:riding)=0.068376  P(dbp:riding|represent_electoral)=0.011799    
+elect_to-VBN_TO  multiply=6.29E-4  P(elect_to|dbp:riding)=0.068376  P(dbp:riding|elect_to)=0.009206    
 

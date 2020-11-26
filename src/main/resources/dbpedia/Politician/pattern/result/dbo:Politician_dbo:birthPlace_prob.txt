@@ -1,12 +1,12 @@
 id=4  property=dbo:birthPlace  
-served-RB_VBN  multiply=0.082222  P(served|dbo:birthPlace)=0.11255  P(dbo:birthPlace|served)=0.730531    
+serve-RB_VBN  multiply=0.08999  P(serve|dbo:birthPlace)=0.121894  P(dbo:birthPlace|serve)=0.738264    
 member-RB_NN  multiply=0.046103  P(member|dbo:birthPlace)=0.076131  P(dbo:birthPlace|member)=0.605574    
-born_into-VBN_IN  multiply=0.042403  P(born_into|dbo:birthPlace)=0.045657  P(dbo:birthPlace|born_into)=0.928726    
-born_in-VBN_IN  multiply=0.042403  P(born_in|dbo:birthPlace)=0.045657  P(dbo:birthPlace|born_in)=0.928726    
-served_member-VBD_NN  multiply=0.04012  P(served_member|dbo:birthPlace)=0.052984  P(dbo:birthPlace|served_member)=0.757208    
-represented-VBN  multiply=0.039192  P(represented|dbo:birthPlace)=0.057337  P(dbo:birthPlace|represented)=0.683544    
-served_in-VBN_IN  multiply=0.039161  P(served_in|dbo:birthPlace)=0.053408  P(dbo:birthPlace|served_in)=0.733236    
-elected-VBN  multiply=0.031157  P(elected|dbo:birthPlace)=0.06976  P(dbo:birthPlace|elected)=0.446635    
-previously_served-RB_VBN  multiply=0.029744  P(previously_served|dbo:birthPlace)=0.039499  P(dbo:birthPlace|previously_served)=0.753036    
-served_one-VBD_CD  multiply=0.028909  P(served_one|dbo:birthPlace)=0.038862  P(dbo:birthPlace|served_one)=0.743902    
+represent-VBN  multiply=0.046027  P(represent|dbo:birthPlace)=0.067743  P(dbo:birthPlace|represent)=0.679446    
+bear_into-VBN_IN  multiply=0.042403  P(bear_into|dbo:birthPlace)=0.045657  P(dbo:birthPlace|bear_into)=0.928726    
+bear_in-VBN_IN  multiply=0.042403  P(bear_in|dbo:birthPlace)=0.045657  P(dbo:birthPlace|bear_in)=0.928726    
+serve_in-VBN_IN  multiply=0.04126  P(serve_in|dbo:birthPlace)=0.05585  P(dbo:birthPlace|serve_in)=0.738764    
+serve_member-VBD_NN  multiply=0.040797  P(serve_member|dbo:birthPlace)=0.053833  P(dbo:birthPlace|serve_member)=0.757848    
+elect-VBN  multiply=0.039824  P(elect|dbo:birthPlace)=0.083882  P(dbo:birthPlace|elect)=0.47476    
+currently_serve-RB_VBZ  multiply=0.030742  P(currently_serve|dbo:birthPlace)=0.040561  P(dbo:birthPlace|currently_serve)=0.757937    
+previously_serve-RB_VBN  multiply=0.030382  P(previously_serve|dbo:birthPlace)=0.040242  P(dbo:birthPlace|previously_serve)=0.75498    
 

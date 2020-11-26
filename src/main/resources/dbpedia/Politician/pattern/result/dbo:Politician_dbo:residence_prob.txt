@@ -1,12 +1,12 @@
 id=25  property=dbo:residence  
-served-RB_VBN  multiply=0.029482  P(served|dbo:residence)=0.119493  P(dbo:residence|served)=0.246726    
+serve-RB_VBN  multiply=0.035731  P(serve|dbo:residence)=0.136182  P(dbo:residence|serve)=0.262379    
+represent-VBN  multiply=0.028872  P(represent|dbo:residence)=0.095127  P(dbo:residence|represent)=0.303514    
 member-RB_NN  multiply=0.027972  P(member|dbo:residence)=0.10514  P(dbo:residence|member)=0.266047    
 member_of-NN_IN  multiply=0.024515  P(member_of|dbo:residence)=0.073097  P(dbo:residence|member_of)=0.335375    
-represents-VBZ  multiply=0.01776  P(represents|dbo:residence)=0.028705  P(dbo:residence|represents)=0.618705    
-elected-VBN  multiply=0.016419  P(elected|dbo:residence)=0.089786  P(dbo:residence|elected)=0.182869    
-represented-VBN  multiply=0.016066  P(represented|dbo:residence)=0.065087  P(dbo:residence|represented)=0.246835    
-previously_served-RB_VBN  multiply=0.011419  P(previously_served|dbo:residence)=0.043391  P(dbo:residence|previously_served)=0.263158    
-represented_electoral-VBN_JJ  multiply=0.01067  P(represented_electoral|dbo:residence)=0.041389  P(dbo:residence|represented_electoral)=0.257796    
-served_on-VBN_IN  multiply=0.010517  P(served_on|dbo:residence)=0.041389  P(dbo:residence|served_on)=0.254098    
-served_in-VBN_IN  multiply=0.010514  P(served_in|dbo:residence)=0.049065  P(dbo:residence|served_in)=0.214286    
+elect-VBN  multiply=0.022916  P(elect|dbo:residence)=0.112817  P(dbo:residence|elect)=0.203125    
+represent_electoral-VBZ_JJ  multiply=0.019692  P(represent_electoral|dbo:residence)=0.066756  P(dbo:residence|represent_electoral)=0.294985    
+represent_district-VBN_NN  multiply=0.012777  P(represent_district|dbo:residence)=0.042724  P(dbo:residence|represent_district)=0.299065    
+currently_represent-RB_VBZ  multiply=0.012271  P(currently_represent|dbo:residence)=0.041722  P(dbo:residence|currently_represent)=0.294118    
+currently_serve-RB_VBZ  multiply=0.012249  P(currently_serve|dbo:residence)=0.045394  P(dbo:residence|currently_serve)=0.269841    
+serve_on-VBN_IN  multiply=0.012046  P(serve_on|dbo:residence)=0.04506  P(dbo:residence|serve_on)=0.267327    
 

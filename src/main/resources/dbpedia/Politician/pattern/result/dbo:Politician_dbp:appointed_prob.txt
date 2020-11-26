@@ -1,4 +1,4 @@
 id=32  property=dbp:appointed  
-appointed_to-VBN_TO  multiply=0.004617  P(appointed_to|dbp:appointed)=0.086957  P(dbp:appointed|appointed_to)=0.053097    
-appointed_by-VBN_IN  multiply=2.1E-4  P(appointed_by|dbp:appointed)=0.014493  P(dbp:appointed|appointed_by)=0.014493    
+appoint_to-VBN_TO  multiply=0.004617  P(appoint_to|dbp:appointed)=0.086957  P(dbp:appointed|appoint_to)=0.053097    
+appoint_by-VBN_IN  multiply=2.1E-4  P(appoint_by|dbp:appointed)=0.014493  P(dbp:appointed|appoint_by)=0.014493    
 

@@ -1,12 +1,12 @@
 id=70  property=dbp:stateHouse  
-serves_in-VBZ_IN  multiply=0.012289  P(serves_in|dbp:stateHouse)=0.036866  P(dbp:stateHouse|serves_in)=0.333333    
-served-RB_VBN  multiply=0.005872  P(served|dbp:stateHouse)=0.198157  P(dbp:stateHouse|served)=0.029635    
+serve-RB_VBN  multiply=0.008642  P(serve|dbp:stateHouse)=0.248848  P(dbp:stateHouse|serve)=0.034727    
+serve_in-VBN_IN  multiply=0.006628  P(serve_in|dbp:stateHouse)=0.147465  P(dbp:stateHouse|serve_in)=0.044944    
 green_party-JJ_NN  multiply=0.004608  P(green_party|dbp:stateHouse)=0.004608  P(dbp:stateHouse|green_party)=1.0    
-served_in-VBN_IN  multiply=0.003869  P(served_in|dbp:stateHouse)=0.110599  P(dbp:stateHouse|served_in)=0.034985    
+run_for-VB_IN  multiply=0.002823  P(run_for|dbp:stateHouse)=0.032258  P(dbp:stateHouse|run_for)=0.0875    
 degree_from-NN_IN  multiply=0.002304  P(degree_from|dbp:stateHouse)=0.004608  P(dbp:stateHouse|degree_from)=0.5    
-ran_for-VBD_IN  multiply=0.0016  P(ran_for|dbp:stateHouse)=0.023041  P(dbp:stateHouse|ran_for)=0.069444    
 member_of-NN_IN  multiply=0.001588  P(member_of|dbp:stateHouse)=0.069124  P(dbp:stateHouse|member_of)=0.022971    
-served_from-VBN_IN  multiply=0.001031  P(served_from|dbp:stateHouse)=0.046083  P(dbp:stateHouse|served_from)=0.022371    
-served_two-VBD_CD  multiply=0.001017  P(served_two|dbp:stateHouse)=0.046083  P(dbp:stateHouse|served_two)=0.022075    
-served_speaker-VBD_NN  multiply=0.001017  P(served_speaker|dbp:stateHouse)=0.046083  P(dbp:stateHouse|served_speaker)=0.022075    
+serve_from-VBN_IN  multiply=0.001013  P(serve_from|dbp:stateHouse)=0.046083  P(dbp:stateHouse|serve_from)=0.021978    
+serve_two-VBD_CD  multiply=0.001  P(serve_two|dbp:stateHouse)=0.046083  P(dbp:stateHouse|serve_two)=0.021692    
+serve_speaker-VBD_NN  multiply=9.97E-4  P(serve_speaker|dbp:stateHouse)=0.046083  P(dbp:stateHouse|serve_speaker)=0.021645    
+currently_serve-RB_VBZ  multiply=9.14E-4  P(currently_serve|dbp:stateHouse)=0.046083  P(dbp:stateHouse|currently_serve)=0.019841    
 

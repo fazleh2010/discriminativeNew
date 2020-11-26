@@ -1,12 +1,12 @@
 id=58  property=dbp:predecessor  
-served_interim-VBD_NN  multiply=0.045224  P(served_interim|dbp:predecessor)=0.068584  P(dbp:predecessor|served_interim)=0.659389    
-served_town-VBD_NN  multiply=0.038671  P(served_town|dbp:predecessor)=0.050871  P(dbp:predecessor|served_town)=0.760181    
-served_alongside-VBD_IN  multiply=0.038298  P(served_alongside|dbp:predecessor)=0.050568  P(dbp:predecessor|served_alongside)=0.75737    
-served_1988-VBD_CD  multiply=0.038243  P(served_1988|dbp:predecessor)=0.050416  P(dbp:predecessor|served_1988)=0.758542    
-served_2003-VBD_CD  multiply=0.038156  P(served_2003|dbp:predecessor)=0.050416  P(dbp:predecessor|served_2003)=0.756818    
-first_elected-RB_VBN  multiply=0.014927  P(first_elected|dbp:predecessor)=0.02377  P(dbp:predecessor|first_elected)=0.628    
-became_elected-VBD_VBN  multiply=0.008959  P(became_elected|dbp:predecessor)=0.01514  P(dbp:predecessor|became_elected)=0.591716    
-elected_in-VBN_IN  multiply=0.008926  P(elected_in|dbp:predecessor)=0.015897  P(dbp:predecessor|elected_in)=0.561497    
-elected_to-VBN_TO  multiply=0.00849  P(elected_to|dbp:predecessor)=0.03346  P(dbp:predecessor|elected_to)=0.253731    
-elected_mayor-VBN_NN  multiply=0.008093  P(elected_mayor|dbp:predecessor)=0.012718  P(dbp:predecessor|elected_mayor)=0.636364    
+serve_interim-VBD_NN  multiply=0.045323  P(serve_interim|dbp:predecessor)=0.069947  P(dbp:predecessor|serve_interim)=0.647966    
+serve_town-VBD_NN  multiply=0.039035  P(serve_town|dbp:predecessor)=0.051628  P(dbp:predecessor|serve_town)=0.756098    
+serve_2003-VBD_CD  multiply=0.038807  P(serve_2003|dbp:predecessor)=0.051476  P(dbp:predecessor|serve_2003)=0.75388    
+serve_alongside-VBD_IN  multiply=0.038751  P(serve_alongside|dbp:predecessor)=0.051325  P(dbp:predecessor|serve_alongside)=0.755011    
+serve_1988-VBD_CD  multiply=0.038695  P(serve_1988|dbp:predecessor)=0.051173  P(dbp:predecessor|serve_1988)=0.756152    
+first_elect-RB_VBN  multiply=0.014927  P(first_elect|dbp:predecessor)=0.02377  P(dbp:predecessor|first_elect)=0.628    
+elect_in-VBN_IN  multiply=0.008926  P(elect_in|dbp:predecessor)=0.015897  P(dbp:predecessor|elect_in)=0.561497    
+become_elect-VBD_VBN  multiply=0.008906  P(become_elect|dbp:predecessor)=0.01514  P(dbp:predecessor|become_elect)=0.588235    
+elect_to-VBN_TO  multiply=0.008432  P(elect_to|dbp:predecessor)=0.033308  P(dbp:predecessor|elect_to)=0.253165    
+elect_mayor-VBN_NN  multiply=0.008093  P(elect_mayor|dbp:predecessor)=0.012718  P(dbp:predecessor|elect_mayor)=0.636364    
 

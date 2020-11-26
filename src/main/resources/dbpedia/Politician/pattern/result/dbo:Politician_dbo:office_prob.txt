@@ -1,4 +1,4 @@
 id=14  property=dbo:office  
-represented-VBN  multiply=0.020455  P(represented|dbo:office)=0.058761  P(dbo:office|represented)=0.348101    
-reelected-VBN  multiply=0.005721  P(reelected|dbo:office)=0.014957  P(dbo:office|reelected)=0.382514    
+represent-VBN  multiply=0.028195  P(represent|dbo:office)=0.075214  P(dbo:office|represent)=0.374867    
+reelect-VBN  multiply=0.005962  P(reelect|dbo:office)=0.015598  P(dbo:office|reelect)=0.382199    
 

@@ -1,5 +1,5 @@
 id=72  property=dbp:succeeded  
-defeated_for-VBN_IN  multiply=0.002627  P(defeated_for|dbp:succeeded)=0.009195  P(dbp:succeeded|defeated_for)=0.285714    
-resigned_newly-VBD_RB  multiply=1.92E-4  P(resigned_newly|dbp:succeeded)=0.002299  P(dbp:succeeded|resigned_newly)=0.083333    
-succeeded_in-VBN_IN  multiply=1.04E-4  P(succeeded_in|dbp:succeeded)=0.002299  P(dbp:succeeded|succeeded_in)=0.045455    
+defeat_for-VBN_IN  multiply=0.002627  P(defeat_for|dbp:succeeded)=0.009195  P(dbp:succeeded|defeat_for)=0.285714    
+resign_newly-VBD_RB  multiply=1.92E-4  P(resign_newly|dbp:succeeded)=0.002299  P(dbp:succeeded|resign_newly)=0.083333    
+succeed_in-VBN_IN  multiply=1.04E-4  P(succeed_in|dbp:succeeded)=0.002299  P(dbp:succeeded|succeed_in)=0.045455    
 

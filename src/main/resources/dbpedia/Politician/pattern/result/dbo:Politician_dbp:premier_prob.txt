@@ -1,7 +1,7 @@
 id=59  property=dbp:premier  
-served_cabinet-VBD_NN  multiply=0.006357  P(served_cabinet|dbp:premier)=0.114679  P(dbp:premier|served_cabinet)=0.055432    
-served_in-VBN_IN  multiply=0.005242  P(served_in|dbp:premier)=0.12844  P(dbp:premier|served_in)=0.040816    
-appointed_minister-VBN_NN  multiply=0.003624  P(appointed_minister|dbp:premier)=0.036697  P(dbp:premier|appointed_minister)=0.098765    
-remained_on-VBN_IN  multiply=0.003058  P(remained_on|dbp:premier)=0.009174  P(dbp:premier|remained_on)=0.333333    
+serve_cabinet-VBD_NN  multiply=0.006246  P(serve_cabinet|dbp:premier)=0.114679  P(dbp:premier|serve_cabinet)=0.054466    
+serve_in-VBN_IN  multiply=0.005051  P(serve_in|dbp:premier)=0.12844  P(dbp:premier|serve_in)=0.039326    
+appoint_minister-VBN_NN  multiply=0.003624  P(appoint_minister|dbp:premier)=0.036697  P(dbp:premier|appoint_minister)=0.098765    
+remain_on-VBN_IN  multiply=0.003058  P(remain_on|dbp:premier)=0.009174  P(dbp:premier|remain_on)=0.333333    
 minister_in-NN_IN  multiply=5.1E-4  P(minister_in|dbp:premier)=0.004587  P(dbp:premier|minister_in)=0.111111    
 

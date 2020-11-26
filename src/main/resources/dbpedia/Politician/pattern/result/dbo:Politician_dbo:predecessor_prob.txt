@@ -1,7 +1,7 @@
 id=18  property=dbo:predecessor  
-elected_to-VBN_TO  multiply=0.01449  P(elected_to|dbo:predecessor)=0.121354  P(dbo:predecessor|elected_to)=0.119403    
+elect_to-VBN_TO  multiply=0.014523  P(elect_to|dbo:predecessor)=0.121354  P(dbo:predecessor|elect_to)=0.119678    
 wife_of-NN_IN  multiply=7.78E-4  P(wife_of|dbo:predecessor)=0.002334  P(dbo:predecessor|wife_of)=0.333333    
-succeeded-VBD  multiply=5.0E-4  P(succeeded|dbo:predecessor)=0.007001  P(dbo:predecessor|succeeded)=0.071429    
-assumed_office-VBN_NN  multiply=1.94E-4  P(assumed_office|dbo:predecessor)=0.001167  P(dbo:predecessor|assumed_office)=0.166667    
-placed_second-VBN_JJ  multiply=1.46E-4  P(placed_second|dbo:predecessor)=0.001167  P(dbo:predecessor|placed_second)=0.125    
+succeed-VBD  multiply=4.83E-4  P(succeed|dbo:predecessor)=0.007001  P(dbo:predecessor|succeed)=0.068966    
+place_2-VBN_JJ  multiply=2.33E-4  P(place_2|dbo:predecessor)=0.001167  P(dbo:predecessor|place_2)=0.2    
+assume_office-VBN_NN  multiply=1.94E-4  P(assume_office|dbo:predecessor)=0.001167  P(dbo:predecessor|assume_office)=0.166667    
 

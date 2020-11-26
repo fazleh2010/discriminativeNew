@@ -1,7 +1,7 @@
 id=37  property=dbp:citizenship  
 student_of-NN_IN  multiply=0.006711  P(student_of|dbp:citizenship)=0.006711  P(dbp:citizenship|student_of)=1.0    
-played_significant-VBN_JJ  multiply=0.002237  P(played_significant|dbp:citizenship)=0.006711  P(dbp:citizenship|played_significant)=0.333333    
-serves_consul-VBZ_NN  multiply=8.39E-4  P(serves_consul|dbp:citizenship)=0.006711  P(dbp:citizenship|serves_consul)=0.125    
-elected_member-VBN_NN  multiply=6.12E-4  P(elected_member|dbp:citizenship)=0.033557  P(dbp:citizenship|elected_member)=0.018248    
+play_significant-VBN_JJ  multiply=0.001678  P(play_significant|dbp:citizenship)=0.006711  P(dbp:citizenship|play_significant)=0.25    
+elect_member-VBN_NN  multiply=6.12E-4  P(elect_member|dbp:citizenship)=0.033557  P(dbp:citizenship|elect_member)=0.018248    
 state_minister-NN_NN  multiply=3.95E-4  P(state_minister|dbp:citizenship)=0.006711  P(dbp:citizenship|state_minister)=0.058824    
+serve_consul-VBZ_NN  multiply=1.35E-4  P(serve_consul|dbp:citizenship)=0.020134  P(dbp:citizenship|serve_consul)=0.006711    
 

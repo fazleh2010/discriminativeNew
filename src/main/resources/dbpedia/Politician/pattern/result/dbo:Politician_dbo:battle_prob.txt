@@ -1,4 +1,4 @@
 id=3  property=dbo:battle  
-served_in-VBN_IN  multiply=0.004141  P(served_in|dbo:battle)=0.113636  P(dbo:battle|served_in)=0.036443    
-veteran_of-NN_IN  multiply=0.001136  P(veteran_of|dbo:battle)=0.009091  P(dbo:battle|veteran_of)=0.125    
+serve_in-VBN_IN  multiply=0.00399  P(serve_in|dbo:battle)=0.113636  P(dbo:battle|serve_in)=0.035112    
+veteran_of-NN_IN  multiply=0.003636  P(veteran_of|dbo:battle)=0.009091  P(dbo:battle|veteran_of)=0.4    
 

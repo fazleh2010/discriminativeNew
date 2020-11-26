@@ -1,6 +1,6 @@
 id=40  property=dbp:deathPlace  
-served-RB_VBN  multiply=0.001306  P(served|dbp:deathPlace)=0.105263  P(dbp:deathPlace|served)=0.012405    
-one_laid-CD_VBN  multiply=9.75E-4  P(one_laid|dbp:deathPlace)=0.005848  P(dbp:deathPlace|one_laid)=0.166667    
+serve-RB_VBN  multiply=0.001218  P(serve|dbp:deathPlace)=0.105263  P(dbp:deathPlace|serve)=0.011576    
+one_lay-CD_VBN  multiply=9.75E-4  P(one_lay|dbp:deathPlace)=0.005848  P(dbp:deathPlace|one_lay)=0.166667    
 instrumental_in-JJ_IN  multiply=6.5E-4  P(instrumental_in|dbp:deathPlace)=0.005848  P(dbp:deathPlace|instrumental_in)=0.111111    
-moved_to-VBN_TO  multiply=6.1E-5  P(moved_to|dbp:deathPlace)=0.005848  P(dbp:deathPlace|moved_to)=0.010417    
+move_to-VBN_TO  multiply=6.1E-5  P(move_to|dbp:deathPlace)=0.005848  P(dbp:deathPlace|move_to)=0.010417    
 
