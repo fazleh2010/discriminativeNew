@@ -1,12 +1,12 @@
 id=67  property=dbp:state  
-serve-RB_VBN  multiply=0.003187  P(serve|dbp:state)=0.107728  P(dbp:state|serve)=0.029582    
-use_saving-VBN_NNS  multiply=0.002342  P(use_saving|dbp:state)=0.002342  P(dbp:state|use_saving)=1.0    
-launch_several-VBN_JJ  multiply=0.002342  P(launch_several|dbp:state)=0.002342  P(dbp:state|launch_several)=1.0    
-fight_with-VBN_IN  multiply=0.002342  P(fight_with|dbp:state)=0.002342  P(dbp:state|fight_with)=1.0    
-besuchte_bis-NN_NN  multiply=0.002342  P(besuchte_bis|dbp:state)=0.002342  P(dbp:state|besuchte_bis)=1.0    
-be_at-VBD_IN  multiply=0.002342  P(be_at|dbp:state)=0.002342  P(dbp:state|be_at)=1.0    
-outspoken-RB_JJ  multiply=0.002342  P(outspoken|dbp:state)=0.002342  P(dbp:state|outspoken)=1.0    
-evolve_into-VBD_IN  multiply=0.002342  P(evolve_into|dbp:state)=0.002342  P(dbp:state|evolve_into)=1.0    
-serve_in-VBN_IN  multiply=0.001187  P(serve_in|dbp:state)=0.044496  P(dbp:state|serve_in)=0.026685    
-previously_serve-RB_VBN  multiply=0.00105  P(previously_serve|dbp:state)=0.035129  P(dbp:state|previously_serve)=0.02988    
+evolve-VBD  multiply=0.002342  P(evolve|dbp:state)=0.002342  P(dbp:state|evolve)=1.0    
+serve-VBD  multiply=0.002067  P(serve|dbp:state)=0.079625  P(dbp:state|serve)=0.025954    
+besuchte-NN  multiply=0.001338  P(besuchte|dbp:state)=0.004684  P(dbp:state|besuchte)=0.285714    
+launch-VBN  multiply=0.001171  P(launch|dbp:state)=0.002342  P(dbp:state|launch)=0.5    
+use-VBN  multiply=9.37E-4  P(use|dbp:state)=0.004684  P(dbp:state|use)=0.2    
+defeat-VBN  multiply=9.08E-4  P(defeat|dbp:state)=0.018735  P(dbp:state|defeat)=0.048485    
+reelect-VBN  multiply=7.99E-4  P(reelect|dbp:state)=0.04918  P(dbp:state|reelect)=0.016254    
+elect-VBN  multiply=7.85E-4  P(elect|dbp:state)=0.04918  P(dbp:state|elect)=0.01597    
+induct-VBN  multiply=7.81E-4  P(induct|dbp:state)=0.002342  P(dbp:state|induct)=0.333333    
+congressman-NN  multiply=7.81E-4  P(congressman|dbp:state)=0.002342  P(dbp:state|congressman)=0.333333    
 

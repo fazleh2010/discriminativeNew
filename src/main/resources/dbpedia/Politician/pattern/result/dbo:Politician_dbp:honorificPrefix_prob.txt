@@ -1,6 +1,7 @@
-id=45  property=dbp:honorificPrefix  
-become-VBD  multiply=0.004275  P(become|dbp:honorificPrefix)=0.029576  P(dbp:honorificPrefix|become)=0.144531    
-elect_to-VBN_TO  multiply=0.002119  P(elect_to|dbp:honorificPrefix)=0.038369  P(dbp:honorificPrefix|elect_to)=0.055236    
-first_elect-RB_VBN  multiply=0.001548  P(first_elect|dbp:honorificPrefix)=0.017586  P(dbp:honorificPrefix|first_elect)=0.088    
-retire-VBN  multiply=5.14E-4  P(retire|dbp:honorificPrefix)=0.004796  P(dbp:honorificPrefix|retire)=0.107143    
+id=47  property=dbp:honorificPrefix  
+appoint-VBN  multiply=0.010644  P(appoint|dbp:honorificPrefix)=0.043165  P(dbp:honorificPrefix|appoint)=0.246575    
+elect-VBN  multiply=0.00249  P(elect|dbp:honorificPrefix)=0.051159  P(dbp:honorificPrefix|elect)=0.048669    
+represent-VBZ  multiply=0.002026  P(represent|dbp:honorificPrefix)=0.038369  P(dbp:honorificPrefix|represent)=0.052805    
+retire-VBN  multiply=5.43E-4  P(retire|dbp:honorificPrefix)=0.004796  P(dbp:honorificPrefix|retire)=0.113208    
+run-NN  multiply=3.6E-4  P(run|dbp:honorificPrefix)=0.006395  P(dbp:honorificPrefix|run)=0.056338    
 

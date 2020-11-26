@@ -1,9 +1,7 @@
-id=43  property=dbp:electorate  
-represent_city-VBN_NN  multiply=0.065967  P(represent_city|dbp:electorate)=0.369231  P(dbp:electorate|represent_city)=0.17866    
-represent_electorate-VBN_NN  multiply=0.053168  P(represent_electorate|dbp:electorate)=0.374359  P(dbp:electorate|represent_electorate)=0.142023    
-represent-VBN  multiply=0.034084  P(represent|dbp:electorate)=0.405128  P(dbp:electorate|represent)=0.084132    
-related_to-JJ_TO  multiply=0.005128  P(related_to|dbp:electorate)=0.010256  P(dbp:electorate|related_to)=0.5    
-win-VBN  multiply=0.003011  P(win|dbp:electorate)=0.041026  P(dbp:electorate|win)=0.073394    
-elect_to-VBN_TO  multiply=4.78E-4  P(elect_to|dbp:electorate)=0.046154  P(dbp:electorate|elect_to)=0.010357    
-enter_house-VBN_NN  multiply=3.94E-4  P(enter_house|dbp:electorate)=0.005128  P(dbp:electorate|enter_house)=0.076923    
+id=45  property=dbp:electorate  
+represent-VBZ  multiply=0.035209  P(represent|dbp:electorate)=0.405128  P(dbp:electorate|represent)=0.086909    
+related-JJ  multiply=0.004103  P(related|dbp:electorate)=0.010256  P(dbp:electorate|related)=0.4    
+win-VBN  multiply=0.003455  P(win|dbp:electorate)=0.041026  P(dbp:electorate|win)=0.084211    
+elect-VBN  multiply=4.72E-4  P(elect|dbp:electorate)=0.05641  P(dbp:electorate|elect)=0.008365    
+enter-VBN  multiply=1.35E-4  P(enter|dbp:electorate)=0.005128  P(dbp:electorate|enter)=0.026316    
 

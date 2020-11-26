@@ -1,12 +1,12 @@
 id=75  property=dbp:title  
-elect-VBN  multiply=0.038098  P(elect|dbp:title)=0.108928  P(dbp:title|elect)=0.34976    
-serve-RB_VBN  multiply=0.031183  P(serve|dbp:title)=0.095265  P(dbp:title|serve)=0.327331    
-represent_electorate-VBN_NN  multiply=0.018434  P(represent_electorate|dbp:title)=0.042111  P(dbp:title|represent_electorate)=0.437743    
-become-VBD  multiply=0.015371  P(become|dbp:title)=0.027138  P(dbp:title|become)=0.566406    
-serve_in-VBN_IN  multiply=0.015141  P(serve_in|dbp:title)=0.044919  P(dbp:title|serve_in)=0.337079    
-previously_serve-RB_VBN  multiply=0.014469  P(previously_serve|dbp:title)=0.036871  P(dbp:title|previously_serve)=0.39243    
-serve_first-VBD_RB  multiply=0.013421  P(serve_first|dbp:title)=0.03425  P(dbp:title|serve_first)=0.391863    
-serve_president-VBD_NN  multiply=0.013373  P(serve_president|dbp:title)=0.034625  P(dbp:title|serve_president)=0.386221    
-serve_chairman-VBZ_NN  multiply=0.013275  P(serve_chairman|dbp:title)=0.034063  P(dbp:title|serve_chairman)=0.389722    
-serve_one-VBD_CD  multiply=0.013274  P(serve_one|dbp:title)=0.035561  P(dbp:title|serve_one)=0.373281    
+elect-VBN  multiply=0.037896  P(elect|dbp:title)=0.096575  P(dbp:title|elect)=0.392395    
+reelect-VBN  multiply=0.036506  P(reelect|dbp:title)=0.093955  P(dbp:title|reelect)=0.388545    
+select-VBN  multiply=0.035693  P(select|dbp:title)=0.091709  P(dbp:title|select)=0.389198    
+be-VBD  multiply=0.032948  P(be|dbp:title)=0.097324  P(dbp:title|be)=0.338542    
+serve-VBD  multiply=0.026172  P(serve|dbp:title)=0.080105  P(dbp:title|serve)=0.326718    
+become-VBD  multiply=0.016318  P(become|dbp:title)=0.028448  P(dbp:title|become)=0.573585    
+come-VBD  multiply=0.015981  P(come|dbp:title)=0.027887  P(dbp:title|come)=0.573077    
+appoint-VBN  multiply=0.0115  P(appoint|dbp:title)=0.021711  P(dbp:title|appoint)=0.52968    
+member-NN  multiply=0.011244  P(member|dbp:title)=0.036871  P(dbp:title|member)=0.304954    
+bear-VBN  multiply=0.011183  P(bear|dbp:title)=0.034812  P(dbp:title|bear)=0.321244    
 

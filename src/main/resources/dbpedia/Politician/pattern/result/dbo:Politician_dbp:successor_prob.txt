@@ -1,6 +1,5 @@
 id=73  property=dbp:successor  
-currently_serve-RB_VBZ  multiply=0.007217  P(currently_serve|dbp:successor)=0.049829  P(dbp:successor|currently_serve)=0.144841    
-see_possible-VBN_JJ  multiply=6.83E-4  P(see_possible|dbp:successor)=6.83E-4  P(dbp:successor|see_possible)=1.0    
-would_seek-MD_VB  multiply=5.12E-4  P(would_seek|dbp:successor)=0.002048  P(dbp:successor|would_seek)=0.25    
-unable_to-JJ_TO  multiply=1.14E-4  P(unable_to|dbp:successor)=6.83E-4  P(dbp:successor|unable_to)=0.166667    
+would-MD  multiply=5.99E-4  P(would|dbp:successor)=0.004096  P(dbp:successor|would)=0.146341    
+see-VBN  multiply=2.67E-4  P(see|dbp:successor)=0.002048  P(dbp:successor|see)=0.130435    
+unable-JJ  multiply=1.14E-4  P(unable|dbp:successor)=6.83E-4  P(dbp:successor|unable)=0.166667    
 

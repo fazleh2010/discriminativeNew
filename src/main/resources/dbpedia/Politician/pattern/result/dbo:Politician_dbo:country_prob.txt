@@ -1,12 +1,12 @@
-id=7  property=dbo:country  
-elect_member-VBN_NN  multiply=0.019111  P(elect_member|dbo:country)=0.043636  P(dbo:country|elect_member)=0.437956    
-member-RB_NN  multiply=0.017986  P(member|dbo:country)=0.088  P(dbo:country|member)=0.204392    
-elect-VBN  multiply=0.017255  P(elect|dbo:country)=0.102182  P(dbo:country|elect)=0.16887    
-reelect_at-VBN_IN  multiply=0.010823  P(reelect_at|dbo:country)=0.027273  P(dbo:country|reelect_at)=0.396825    
-elect_at-VBN_IN  multiply=0.010764  P(elect_at|dbo:country)=0.026909  P(dbo:country|elect_at)=0.4    
-serve-RB_VBN  multiply=0.006999  P(serve|dbo:country)=0.062909  P(dbo:country|serve)=0.111254    
-member_of-NN_IN  multiply=0.004312  P(member_of|dbo:country)=0.032  P(dbo:country|member_of)=0.134763    
-serve_in-VBN_IN  multiply=0.003955  P(serve_in|dbo:country)=0.032  P(dbo:country|serve_in)=0.123596    
-return_to-VBN_TO  multiply=0.003562  P(return_to|dbo:country)=0.008364  P(dbo:country|return_to)=0.425926    
-labour_member-NN_NN  multiply=0.002854  P(labour_member|dbo:country)=0.006909  P(dbo:country|labour_member)=0.413043    
+id=8  property=dbo:country  
+elect-VBN  multiply=0.019127  P(elect|dbo:country)=0.095636  P(dbo:country|elect)=0.2    
+reelect-VBN  multiply=0.018735  P(reelect|dbo:country)=0.093818  P(dbo:country|reelect)=0.19969    
+select-VBN  multiply=0.018342  P(select|dbo:country)=0.091636  P(dbo:country|select)=0.200159    
+serve-VBD  multiply=0.006413  P(serve|dbo:country)=0.055273  P(dbo:country|serve)=0.116031    
+labour-NN  multiply=0.005818  P(labour|dbo:country)=0.005818  P(dbo:country|labour)=1.0    
+member-NN  multiply=0.004067  P(member|dbo:country)=0.030909  P(dbo:country|member)=0.131579    
+stand-VBD  multiply=0.003608  P(stand|dbo:country)=0.009091  P(dbo:country|stand)=0.396825    
+return-VBN  multiply=0.002959  P(return|dbo:country)=0.008364  P(dbo:country|return)=0.353846    
+educate-VBN  multiply=0.002618  P(educate|dbo:country)=0.008727  P(dbo:country|educate)=0.3    
+become-VBD  multiply=0.002196  P(become|dbo:country)=0.014545  P(dbo:country|become)=0.150943    
 

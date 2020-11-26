@@ -1,12 +1,12 @@
-id=17  property=dbo:party  
-elect-VBN  multiply=0.126914  P(elect|dbo:party)=0.142596  P(dbo:party|elect)=0.890024    
-member-RB_NN  multiply=0.092582  P(member|dbo:party)=0.102734  P(dbo:party|member)=0.901182    
-serve-RB_VBN  multiply=0.086654  P(serve|dbo:party)=0.113903  P(dbo:party|serve)=0.760772    
-reelect_to-VBN_TO  multiply=0.068355  P(reelect_to|dbo:party)=0.075583  P(dbo:party|reelect_to)=0.904378    
-elect_to-VBN_TO  multiply=0.068276  P(elect_to|dbo:party)=0.075583  P(dbo:party|elect_to)=0.903337    
-represent-VBN  multiply=0.056454  P(represent|dbo:party)=0.071442  P(dbo:party|represent)=0.790202    
-member_of-NN_IN  multiply=0.049773  P(member_of|dbo:party)=0.055941  P(dbo:party|member_of)=0.88974    
-serve_member-VBD_NN  multiply=0.043695  P(serve_member|dbo:party)=0.053052  P(dbo:party|serve_member)=0.823617    
-serve_in-VBN_IN  multiply=0.036848  P(serve_in|dbo:party)=0.05026  P(dbo:party|serve_in)=0.733146    
-represent_electoral-VBZ_JJ  multiply=0.035361  P(represent_electoral|dbo:party)=0.048045  P(dbo:party|represent_electoral)=0.735988    
+id=19  property=dbo:party  
+elect-VBN  multiply=0.099034  P(elect|dbo:party)=0.111978  P(dbo:party|elect)=0.884411    
+reelect-VBN  multiply=0.098214  P(reelect|dbo:party)=0.110533  P(dbo:party|reelect)=0.888545    
+select-VBN  multiply=0.095589  P(select|dbo:party)=0.107645  P(dbo:party|select)=0.888006    
+serve-VBD  multiply=0.072912  P(serve|dbo:party)=0.095898  P(dbo:party|serve)=0.760305    
+represent-VBZ  multiply=0.053395  P(represent|dbo:party)=0.068361  P(dbo:party|represent)=0.781078    
+member-NN  multiply=0.048765  P(member|dbo:party)=0.055074  P(dbo:party|member)=0.885449    
+bear-VBN  multiply=0.034882  P(bear|dbo:party)=0.044098  P(dbo:party|bear)=0.791019    
+become-VBD  multiply=0.012842  P(become|dbo:party)=0.018101  P(dbo:party|become)=0.709434    
+defeat-VBN  multiply=0.011601  P(defeat|dbo:party)=0.013576  P(dbo:party|defeat)=0.854545    
+appoint-VBN  multiply=0.009892  P(appoint|dbo:party)=0.014443  P(dbo:party|appoint)=0.684932    
 

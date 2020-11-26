@@ -1,3 +1,6 @@
-id=19  property=dbo:president  
-nominate_by-VBN_IN  multiply=0.001111  P(nominate_by|dbo:president)=0.005556  P(dbo:president|nominate_by)=0.2    
+id=21  property=dbo:president  
+serve-VBD  multiply=0.001546  P(serve|dbo:president)=0.075  P(dbo:president|serve)=0.020611    
+appoint-VBN  multiply=0.001268  P(appoint|dbo:president)=0.027778  P(dbo:president|appoint)=0.045662    
+nominate-VBN  multiply=6.54E-4  P(nominate|dbo:president)=0.005556  P(dbo:president|nominate)=0.117647    
+resign-VBD  multiply=2.69E-4  P(resign|dbo:president)=0.008333  P(dbo:president|resign)=0.032258    
 

@@ -1,7 +1,9 @@
-id=16  property=dbo:otherParty  
-lose_his-VBD_PRP$  multiply=0.002261  P(lose_his|dbo:otherParty)=0.016393  P(dbo:otherParty|lose_his)=0.137931    
-serve-RB_VBN  multiply=0.001518  P(serve|dbo:otherParty)=0.098361  P(dbo:otherParty|serve)=0.015434    
-resign_from-VBN_IN  multiply=0.001214  P(resign_from|dbo:otherParty)=0.016393  P(dbo:otherParty|resign_from)=0.074074    
-member_of-NN_IN  multiply=0.001061  P(member_of|dbo:otherParty)=0.053279  P(dbo:otherParty|member_of)=0.019908    
-join-VBD  multiply=8.54E-4  P(join|dbo:otherParty)=0.020492  P(dbo:otherParty|join)=0.041667    
+id=18  property=dbo:otherParty  
+resign-VBD  multiply=0.002159  P(resign|dbo:otherParty)=0.028689  P(dbo:otherParty|resign)=0.075269    
+member-NN  multiply=0.001427  P(member|dbo:otherParty)=0.061475  P(dbo:otherParty|member)=0.02322    
+serve-VBD  multiply=0.001014  P(serve|dbo:otherParty)=0.07377  P(dbo:otherParty|serve)=0.01374    
+lose-VBN  multiply=0.001009  P(lose|dbo:otherParty)=0.016393  P(dbo:otherParty|lose)=0.061538    
+join-VBD  multiply=6.31E-4  P(join|dbo:otherParty)=0.016393  P(dbo:otherParty|join)=0.038462    
+run-NN  multiply=2.6E-4  P(run|dbo:otherParty)=0.012295  P(dbo:otherParty|run)=0.021127    
+return-VBN  multiply=2.52E-4  P(return|dbo:otherParty)=0.008197  P(dbo:otherParty|return)=0.030769    
 

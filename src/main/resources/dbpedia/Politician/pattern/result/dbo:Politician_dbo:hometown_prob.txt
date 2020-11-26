@@ -1,5 +1,4 @@
-id=9  property=dbo:hometown  
-incumbent_minister-JJ_NN  multiply=0.018182  P(incumbent_minister|dbo:hometown)=0.090909  P(dbo:hometown|incumbent_minister)=0.2    
-previously_represent-RB_VBN  multiply=0.003583  P(previously_represent|dbo:hometown)=0.363636  P(dbo:hometown|previously_represent)=0.009852    
-represent-VBN  multiply=0.001549  P(represent|dbo:hometown)=0.363636  P(dbo:hometown|represent)=0.00426    
+id=11  property=dbo:hometown  
+incumbent-JJ  multiply=0.012987  P(incumbent|dbo:hometown)=0.090909  P(dbo:hometown|incumbent)=0.142857    
+represent-VBZ  multiply=9.0E-4  P(represent|dbo:hometown)=0.272727  P(dbo:hometown|represent)=0.0033    
 

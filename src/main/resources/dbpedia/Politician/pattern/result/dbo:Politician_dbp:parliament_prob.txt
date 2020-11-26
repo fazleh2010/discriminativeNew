@@ -1,11 +1,10 @@
-id=54  property=dbp:parliament  
-serve_in-VBN_IN  multiply=0.001463  P(serve_in|dbp:parliament)=0.040062  P(dbp:parliament|serve_in)=0.036517    
-member_of-NN_IN  multiply=0.001248  P(member_of|dbp:parliament)=0.035439  P(dbp:parliament|member_of)=0.035222    
-elect_to-VBN_TO  multiply=0.001199  P(elect_to|dbp:parliament)=0.040062  P(dbp:parliament|elect_to)=0.029919    
-minister_for-NN_IN  multiply=0.001174  P(minister_for|dbp:parliament)=0.006163  P(dbp:parliament|minister_for)=0.190476    
-serve_member-VBD_NN  multiply=9.21E-4  P(serve_member|dbp:parliament)=0.030817  P(dbp:parliament|serve_member)=0.029895    
-current_member-JJ_NN  multiply=5.87E-4  P(current_member|dbp:parliament)=0.006163  P(dbp:parliament|current_member)=0.095238    
-first_elect-RB_VBN  multiply=4.99E-4  P(first_elect|dbp:parliament)=0.013867  P(dbp:parliament|first_elect)=0.036    
-come_to-VBD_TO  multiply=2.57E-4  P(come_to|dbp:parliament)=0.003082  P(dbp:parliament|come_to)=0.083333    
-make_officer-VBN_NN  multiply=1.03E-4  P(make_officer|dbp:parliament)=0.001541  P(dbp:parliament|make_officer)=0.066667    
+id=55  property=dbp:parliament  
+serve-VBD  multiply=0.002075  P(serve|dbp:parliament)=0.064715  P(dbp:parliament|serve)=0.032061    
+elect-VBN  multiply=0.001875  P(elect|dbp:parliament)=0.061633  P(dbp:parliament|elect)=0.030418    
+member-NN  multiply=0.001262  P(member|dbp:parliament)=0.035439  P(dbp:parliament|member)=0.035604    
+minister-NN  multiply=0.00116  P(minister|dbp:parliament)=0.012327  P(dbp:parliament|minister)=0.094118    
+come-VBD  multiply=8.53E-4  P(come|dbp:parliament)=0.01849  P(dbp:parliament|come)=0.046154    
+resign-VBD  multiply=8.12E-4  P(resign|dbp:parliament)=0.010786  P(dbp:parliament|resign)=0.075269    
+current-JJ  multiply=2.93E-4  P(current|dbp:parliament)=0.003082  P(dbp:parliament|current)=0.095238    
+make-VBN  multiply=1.34E-4  P(make|dbp:parliament)=0.003082  P(dbp:parliament|make)=0.043478    
 

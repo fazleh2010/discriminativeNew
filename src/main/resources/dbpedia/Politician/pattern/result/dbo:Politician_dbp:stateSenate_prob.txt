@@ -1,12 +1,12 @@
 id=71  property=dbp:stateSenate  
-serve-RB_VBN  multiply=0.009572  P(serve|dbp:stateSenate)=0.256637  P(dbp:stateSenate|serve)=0.037299    
-hire_speech-VBN_NN  multiply=0.004425  P(hire_speech|dbp:stateSenate)=0.004425  P(dbp:stateSenate|hire_speech)=1.0    
-currently_serve-RB_VBZ  multiply=0.004249  P(currently_serve|dbp:stateSenate)=0.097345  P(dbp:stateSenate|currently_serve)=0.043651    
-serve_in-VBN_IN  multiply=0.00358  P(serve_in|dbp:stateSenate)=0.106195  P(dbp:stateSenate|serve_in)=0.033708    
-member_of-NN_IN  multiply=0.00328  P(member_of|dbp:stateSenate)=0.097345  P(dbp:stateSenate|member_of)=0.033691    
-earn_bachelor-VBN_NN  multiply=0.002528  P(earn_bachelor|dbp:stateSenate)=0.00885  P(dbp:stateSenate|earn_bachelor)=0.285714    
-calls_himself-NNS_PRP  multiply=0.002212  P(calls_himself|dbp:stateSenate)=0.004425  P(dbp:stateSenate|calls_himself)=0.5    
-elect_to-VBN_TO  multiply=0.001838  P(elect_to|dbp:stateSenate)=0.084071  P(dbp:stateSenate|elect_to)=0.021864    
-previously_serve-RB_VBN  multiply=0.001728  P(previously_serve|dbp:stateSenate)=0.061947  P(dbp:stateSenate|previously_serve)=0.027888    
-currently_young-RB_JJS  multiply=0.001475  P(currently_young|dbp:stateSenate)=0.00885  P(dbp:stateSenate|currently_young)=0.166667    
+serve-VBD  multiply=0.004138  P(serve|dbp:stateSenate)=0.154867  P(dbp:stateSenate|serve)=0.026718    
+member-NN  multiply=0.003315  P(member|dbp:stateSenate)=0.097345  P(dbp:stateSenate|member)=0.034056    
+elect-VBN  multiply=0.002638  P(elect|dbp:stateSenate)=0.123894  P(dbp:stateSenate|elect)=0.021293    
+reelect-VBN  multiply=0.002315  P(reelect|dbp:stateSenate)=0.115044  P(dbp:stateSenate|reelect)=0.020124    
+republican-NN  multiply=0.002212  P(republican|dbp:stateSenate)=0.013274  P(dbp:stateSenate|republican)=0.166667    
+attend-VBD  multiply=0.001558  P(attend|dbp:stateSenate)=0.022124  P(dbp:stateSenate|attend)=0.070423    
+run-NN  multiply=0.001527  P(run|dbp:stateSenate)=0.030973  P(dbp:stateSenate|run)=0.049296    
+hire-VBN  multiply=0.001475  P(hire|dbp:stateSenate)=0.004425  P(dbp:stateSenate|hire)=0.333333    
+graduate-VBN  multiply=9.08E-4  P(graduate|dbp:stateSenate)=0.017699  P(dbp:stateSenate|graduate)=0.051282    
+earn-VBN  multiply=8.85E-4  P(earn|dbp:stateSenate)=0.00885  P(dbp:stateSenate|earn)=0.1    
 

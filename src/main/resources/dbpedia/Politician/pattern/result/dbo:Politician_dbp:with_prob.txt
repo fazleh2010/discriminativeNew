@@ -1,5 +1,5 @@
-id=77  property=dbp:with  
-elect_member-VBN_NN  multiply=0.00522  P(elect_member|dbp:with)=0.057208  P(dbp:with|elect_member)=0.091241    
-serve_alongside-VBD_IN  multiply=0.001305  P(serve_alongside|dbp:with)=0.036613  P(dbp:with|serve_alongside)=0.035635    
-young_brother-JJR_NN  multiply=3.27E-4  P(young_brother|dbp:with)=0.002288  P(dbp:with|young_brother)=0.142857    
+id=76  property=dbp:with  
+elect-VBN  multiply=0.006475  P(elect|dbp:with)=0.139588  P(dbp:with|elect)=0.046388    
+serve-VBD  multiply=0.002264  P(serve|dbp:with)=0.08238  P(dbp:with|serve)=0.027481    
+young-JJR  multiply=1.35E-4  P(young|dbp:with)=0.002288  P(dbp:with|young)=0.058824    
 

@@ -1,12 +1,12 @@
 id=70  property=dbp:stateHouse  
-serve-RB_VBN  multiply=0.008642  P(serve|dbp:stateHouse)=0.248848  P(dbp:stateHouse|serve)=0.034727    
-serve_in-VBN_IN  multiply=0.006628  P(serve_in|dbp:stateHouse)=0.147465  P(dbp:stateHouse|serve_in)=0.044944    
-green_party-JJ_NN  multiply=0.004608  P(green_party|dbp:stateHouse)=0.004608  P(dbp:stateHouse|green_party)=1.0    
-run_for-VB_IN  multiply=0.002823  P(run_for|dbp:stateHouse)=0.032258  P(dbp:stateHouse|run_for)=0.0875    
-degree_from-NN_IN  multiply=0.002304  P(degree_from|dbp:stateHouse)=0.004608  P(dbp:stateHouse|degree_from)=0.5    
-member_of-NN_IN  multiply=0.001588  P(member_of|dbp:stateHouse)=0.069124  P(dbp:stateHouse|member_of)=0.022971    
-serve_from-VBN_IN  multiply=0.001013  P(serve_from|dbp:stateHouse)=0.046083  P(dbp:stateHouse|serve_from)=0.021978    
-serve_two-VBD_CD  multiply=0.001  P(serve_two|dbp:stateHouse)=0.046083  P(dbp:stateHouse|serve_two)=0.021692    
-serve_speaker-VBD_NN  multiply=9.97E-4  P(serve_speaker|dbp:stateHouse)=0.046083  P(dbp:stateHouse|serve_speaker)=0.021645    
-currently_serve-RB_VBZ  multiply=9.14E-4  P(currently_serve|dbp:stateHouse)=0.046083  P(dbp:stateHouse|currently_serve)=0.019841    
+serve-VBD  multiply=0.006205  P(serve|dbp:stateHouse)=0.193548  P(dbp:stateHouse|serve)=0.032061    
+run-NN  multiply=0.002629  P(run|dbp:stateHouse)=0.041475  P(dbp:stateHouse|run)=0.06338    
+green-JJ  multiply=0.002304  P(green|dbp:stateHouse)=0.004608  P(dbp:stateHouse|green)=0.5    
+degree-NN  multiply=0.002304  P(degree|dbp:stateHouse)=0.004608  P(dbp:stateHouse|degree)=0.5    
+member-NN  multiply=0.001826  P(member|dbp:stateHouse)=0.073733  P(dbp:stateHouse|member)=0.024768    
+one-CD  multiply=0.001266  P(one|dbp:stateHouse)=0.023041  P(dbp:stateHouse|one)=0.054945    
+represent-VBZ  multiply=9.94E-4  P(represent|dbp:stateHouse)=0.064516  P(dbp:stateHouse|represent)=0.015402    
+elect-VBN  multiply=8.97E-4  P(elect|dbp:stateHouse)=0.073733  P(dbp:stateHouse|elect)=0.012167    
+graduate-VBN  multiply=5.32E-4  P(graduate|dbp:stateHouse)=0.013825  P(dbp:stateHouse|graduate)=0.038462    
+win-VBN  multiply=1.94E-4  P(win|dbp:stateHouse)=0.009217  P(dbp:stateHouse|win)=0.021053    
 

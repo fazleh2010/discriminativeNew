@@ -1,5 +1,5 @@
-id=23  property=dbo:relation  
-his_brother-PRP$_NN  multiply=0.008889  P(his_brother|dbo:relation)=0.008889  P(dbo:relation|his_brother)=1.0    
-son_of-NN_IN  multiply=0.003156  P(son_of|dbo:relation)=0.031111  P(dbo:relation|son_of)=0.101449    
-graduate_from-VBN_IN  multiply=3.7E-4  P(graduate_from|dbo:relation)=0.008889  P(dbo:relation|graduate_from)=0.041667    
+id=25  property=dbo:relation  
+son-NN  multiply=0.003896  P(son|dbo:relation)=0.035556  P(dbo:relation|son)=0.109589    
+his-PRP$  multiply=0.002353  P(his|dbo:relation)=0.013333  P(dbo:relation|his)=0.176471    
+graduate-VBN  multiply=2.28E-4  P(graduate|dbo:relation)=0.008889  P(dbo:relation|graduate)=0.025641    
 

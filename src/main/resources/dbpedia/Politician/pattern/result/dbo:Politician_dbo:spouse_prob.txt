@@ -1,9 +1,7 @@
-id=27  property=dbo:spouse  
-marry_to-VBN_TO  multiply=0.016117  P(marry_to|dbo:spouse)=0.038278  P(dbo:spouse|marry_to)=0.421053    
-wife_of-NN_IN  multiply=0.014354  P(wife_of|dbo:spouse)=0.014354  P(dbo:spouse|wife_of)=1.0    
-marry-VBN  multiply=0.013031  P(marry|dbo:spouse)=0.038278  P(dbo:spouse|marry)=0.340426    
-widow_of-NN_IN  multiply=0.004785  P(widow_of|dbo:spouse)=0.004785  P(dbo:spouse|widow_of)=1.0    
-serve_alongside-VBD_IN  multiply=0.001044  P(serve_alongside|dbo:spouse)=0.033493  P(dbo:spouse|serve_alongside)=0.03118    
-meet-VBD  multiply=7.97E-4  P(meet|dbo:spouse)=0.002392  P(dbo:spouse|meet)=0.333333    
-first_elect-RB_VBN  multiply=2.39E-4  P(first_elect|dbo:spouse)=0.011962  P(dbo:spouse|first_elect)=0.02    
+id=29  property=dbo:spouse  
+wife-NN  multiply=0.011962  P(wife|dbo:spouse)=0.011962  P(dbo:spouse|wife)=1.0    
+marry-VBN  multiply=0.010066  P(marry|dbo:spouse)=0.043062  P(dbo:spouse|marry)=0.233766    
+widow-NN  multiply=0.007177  P(widow|dbo:spouse)=0.007177  P(dbo:spouse|widow)=1.0    
+serve-VBD  multiply=0.003221  P(serve|dbo:spouse)=0.100478  P(dbo:spouse|serve)=0.032061    
+meet-VBD  multiply=0.002392  P(meet|dbo:spouse)=0.002392  P(dbo:spouse|meet)=1.0    
 

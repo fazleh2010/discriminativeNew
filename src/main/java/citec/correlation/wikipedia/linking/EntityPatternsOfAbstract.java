@@ -30,7 +30,7 @@ public class EntityPatternsOfAbstract {
     private static Analyzer analyzer=null;
     private static LemmaAnalyzer lemmaAnalyzer=null;
     private String regEx = null;
-    private Integer contextLimit=2;
+    private Integer contextLimit=1;
 
 
     public EntityPatternsOfAbstract(Analyzer analyzer,LemmaAnalyzer lemmaAnalyzer,String regEx,Collection<String> patternsStr) throws Exception {

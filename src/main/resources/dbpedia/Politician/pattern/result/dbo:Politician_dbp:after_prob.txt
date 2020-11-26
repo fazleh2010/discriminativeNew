@@ -1,12 +1,12 @@
-id=31  property=dbp:after  
-reelect_at-VBN_IN  multiply=0.013293  P(reelect_at|dbp:after)=0.027308  P(dbp:after|reelect_at)=0.486772    
-elect_at-VBN_IN  multiply=0.013286  P(elect_at|dbp:after)=0.027011  P(dbp:after|elect_at)=0.491892    
-reelect_in-VBN_IN  multiply=0.008273  P(reelect_in|dbp:after)=0.021371  P(dbp:after|reelect_in)=0.387097    
-first_elect-RB_VBN  multiply=0.007983  P(first_elect|dbp:after)=0.02434  P(dbp:after|first_elect)=0.328    
-member_of-NN_IN  multiply=0.00792  P(member_of|dbp:after)=0.039181  P(dbp:after|member_of)=0.202144    
-son_of-NN_IN  multiply=0.004405  P(son_of|dbp:after)=0.009498  P(dbp:after|son_of)=0.463768    
-stand_for-VBD_IN  multiply=0.003592  P(stand_for|dbp:after)=0.00653  P(dbp:after|stand_for)=0.55    
-defeat_at-VBN_IN  multiply=0.002565  P(defeat_at|dbp:after)=0.003265  P(dbp:after|defeat_at)=0.785714    
-appoint_by-VBN_IN  multiply=0.002082  P(appoint_by|dbp:after)=0.00653  P(dbp:after|appoint_by)=0.318841    
-lose_his-VBD_PRP$  multiply=0.002006  P(lose_his|dbp:after)=0.004156  P(dbp:after|lose_his)=0.482759    
+id=33  property=dbp:after  
+elect-VBN  multiply=0.025635  P(elect|dbp:after)=0.10003  P(dbp:after|elect)=0.256274    
+reelect-VBN  multiply=0.024566  P(reelect|dbp:after)=0.097061  P(dbp:after|reelect)=0.253096    
+serve-VBD  multiply=0.024228  P(serve|dbp:after)=0.097061  P(dbp:after|serve)=0.249618    
+appoint-VBN  multiply=0.007829  P(appoint|dbp:after)=0.022559  P(dbp:after|appoint)=0.347032    
+member-NN  multiply=0.007765  P(member|dbp:after)=0.038587  P(dbp:after|member)=0.201238    
+stand-VBD  multiply=0.006803  P(stand|dbp:after)=0.011279  P(dbp:after|stand)=0.603175    
+son-NN  multiply=0.0047  P(son|dbp:after)=0.010092  P(dbp:after|son)=0.465753    
+hold-VBN  multiply=0.004092  P(hold|dbp:after)=0.010686  P(dbp:after|hold)=0.382979    
+marry-VBN  multiply=0.003947  P(marry|dbp:after)=0.009498  P(dbp:after|marry)=0.415584    
+lose-VBN  multiply=0.00358  P(lose|dbp:after)=0.008311  P(dbp:after|lose)=0.430769    
 

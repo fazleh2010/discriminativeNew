@@ -1,8 +1,7 @@
 id=68  property=dbp:stateAssembly  
-author_numerous-VBN_JJ  multiply=0.00625  P(author_numerous|dbp:stateAssembly)=0.025  P(dbp:stateAssembly|author_numerous)=0.25    
-defeat_in-VBN_IN  multiply=0.001887  P(defeat_in|dbp:stateAssembly)=0.05  P(dbp:stateAssembly|defeat_in)=0.037736    
-chair_of-NN_IN  multiply=0.001563  P(chair_of|dbp:stateAssembly)=0.025  P(dbp:stateAssembly|chair_of)=0.0625    
-run_for-VB_IN  multiply=0.00125  P(run_for|dbp:stateAssembly)=0.05  P(dbp:stateAssembly|run_for)=0.025    
-serve_five-VBD_CD  multiply=4.99E-4  P(serve_five|dbp:stateAssembly)=0.075  P(dbp:stateAssembly|serve_five)=0.006652    
-serve_on-VBN_IN  multiply=4.46E-4  P(serve_on|dbp:stateAssembly)=0.075  P(dbp:stateAssembly|serve_on)=0.005941    
+author-NN  multiply=0.004167  P(author|dbp:stateAssembly)=0.025  P(dbp:stateAssembly|author)=0.166667    
+chair-VBN  multiply=0.001667  P(chair|dbp:stateAssembly)=0.05  P(dbp:stateAssembly|chair)=0.033333    
+defeat-VBN  multiply=0.001364  P(defeat|dbp:stateAssembly)=0.075  P(dbp:stateAssembly|defeat)=0.018182    
+serve-VBD  multiply=0.001221  P(serve|dbp:stateAssembly)=0.2  P(dbp:stateAssembly|serve)=0.006107    
+run-NN  multiply=7.04E-4  P(run|dbp:stateAssembly)=0.05  P(dbp:stateAssembly|run)=0.014085    
 

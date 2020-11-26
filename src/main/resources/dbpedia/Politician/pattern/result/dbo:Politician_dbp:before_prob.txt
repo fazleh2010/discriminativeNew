@@ -1,12 +1,12 @@
-id=33  property=dbp:before  
-serve_in-VBN_IN  multiply=0.013907  P(serve_in|dbp:before)=0.05411  P(dbp:before|serve_in)=0.257022    
-elect_at-VBN_IN  multiply=0.013235  P(elect_at|dbp:before)=0.026907  P(dbp:before|elect_at)=0.491892    
-serve_ambassador-VBD_NN  multiply=0.011825  P(serve_ambassador|dbp:before)=0.039622  P(dbp:before|serve_ambassador)=0.298441    
-first_elect-RB_VBN  multiply=0.008345  P(first_elect|dbp:before)=0.024837  P(dbp:before|first_elect)=0.336    
-reelect_in-VBN_IN  multiply=0.008241  P(reelect_in|dbp:before)=0.021289  P(dbp:before|reelect_in)=0.387097    
-elect_in-VBN_IN  multiply=0.008197  P(elect_in|dbp:before)=0.021289  P(dbp:before|elect_in)=0.385027    
-elect_for-VBN_IN  multiply=0.007505  P(elect_for|dbp:before)=0.016854  P(dbp:before|elect_for)=0.445312    
-seek_election-VB_NN  multiply=0.007433  P(seek_election|dbp:before)=0.015967  P(dbp:before|seek_election)=0.465517    
-elect_to-VBN_TO  multiply=0.006574  P(elect_to|dbp:before)=0.0411  P(dbp:before|elect_to)=0.159954    
-first_become-RB_VBD  multiply=0.005249  P(first_become|dbp:before)=0.010349  P(dbp:before|first_become)=0.507246    
+id=35  property=dbp:before  
+elect-VBN  multiply=0.0263  P(elect|dbp:before)=0.101124  P(dbp:before|elect)=0.260076    
+reelect-VBN  multiply=0.025226  P(reelect|dbp:before)=0.098167  P(dbp:before|reelect)=0.256966    
+serve-VBD  multiply=0.023403  P(serve|dbp:before)=0.09521  P(dbp:before|serve)=0.245802    
+appoint-VBN  multiply=0.007798  P(appoint|dbp:before)=0.022472  P(dbp:before|appoint)=0.347032    
+stand-VBD  multiply=0.006777  P(stand|dbp:before)=0.011236  P(dbp:before|stand)=0.603175    
+return-VBN  multiply=0.005259  P(return|dbp:before)=0.010053  P(dbp:before|return)=0.523077    
+hold-VBN  multiply=0.004077  P(hold|dbp:before)=0.010645  P(dbp:before|hold)=0.382979    
+succeed-VBD  multiply=0.003383  P(succeed|dbp:before)=0.009166  P(dbp:before|succeed)=0.369048    
+lose-VBN  multiply=0.003316  P(lose|dbp:before)=0.007983  P(dbp:before|lose)=0.415385    
+defeat-VBN  multiply=0.003313  P(defeat|dbp:before)=0.012714  P(dbp:before|defeat)=0.260606    
 

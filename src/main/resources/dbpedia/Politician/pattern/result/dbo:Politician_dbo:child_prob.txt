@@ -1,4 +1,4 @@
-id=5  property=dbo:child  
-father_of-NN_IN  multiply=0.025953  P(father_of|dbo:child)=0.029661  P(dbo:child|father_of)=0.875    
-son_of-NN_IN  multiply=0.002211  P(son_of|dbo:child)=0.025424  P(dbo:child|son_of)=0.086957    
+id=6  property=dbo:child  
+father-NN  multiply=0.02086  P(father|dbo:child)=0.033898  P(dbo:child|father)=0.615385    
+son-NN  multiply=0.00209  P(son|dbo:child)=0.025424  P(dbo:child|son)=0.082192    
 

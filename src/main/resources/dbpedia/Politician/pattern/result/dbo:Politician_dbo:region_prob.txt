@@ -1,12 +1,12 @@
-id=22  property=dbo:region  
-serve-RB_VBN  multiply=0.075242  P(serve|dbo:region)=0.203835  P(dbo:region|serve)=0.369132    
-serve_member-VBD_NN  multiply=0.061002  P(serve_member|dbo:region)=0.120384  P(dbo:region|serve_member)=0.506726    
-member-RB_NN  multiply=0.041953  P(member|dbo:region)=0.132812  P(dbo:region|member)=0.315878    
-serve_in-VBN_IN  multiply=0.038546  P(serve_in|dbo:region)=0.098722  P(dbo:region|serve_in)=0.390449    
-currently_serve-RB_VBZ  multiply=0.032267  P(currently_serve|dbo:region)=0.075994  P(dbo:region|currently_serve)=0.424603    
-previously_serve-RB_VBN  multiply=0.0309  P(previously_serve|dbo:region)=0.074219  P(dbo:region|previously_serve)=0.416335    
-serve_alderman-VBD_NN  multiply=0.030571  P(serve_alderman|dbo:region)=0.070668  P(dbo:region|serve_alderman)=0.432609    
-serve_37th-VBD_JJ  multiply=0.029941  P(serve_37th|dbo:region)=0.069247  P(dbo:region|serve_37th)=0.432373    
-serve_cook-VBD_NN  multiply=0.029592  P(serve_cook|dbo:region)=0.068537  P(dbo:region|serve_cook)=0.431767    
-serve_deputy-VBD_NN  multiply=0.028832  P(serve_deputy|dbo:region)=0.069957  P(dbo:region|serve_deputy)=0.412134    
+id=24  property=dbo:region  
+serve-VBD  multiply=0.066421  P(serve|dbo:region)=0.175781  P(dbo:region|serve)=0.377863    
+represent-VBZ  multiply=0.019253  P(represent|dbo:region)=0.078835  P(dbo:region|represent)=0.244224    
+elect-VBN  multiply=0.016342  P(elect|dbo:region)=0.087358  P(dbo:region|elect)=0.187072    
+reelect-VBN  multiply=0.016097  P(reelect|dbo:region)=0.085938  P(dbo:region|reelect)=0.187307    
+member-NN  multiply=0.012369  P(member|dbo:region)=0.053267  P(dbo:region|member)=0.232198    
+bear-VBN  multiply=0.006891  P(bear|dbo:region)=0.037642  P(dbo:region|bear)=0.183074    
+former-JJ  multiply=0.003712  P(former|dbo:region)=0.009943  P(dbo:region|former)=0.373333    
+become-VBD  multiply=0.003217  P(become|dbo:region)=0.017401  P(dbo:region|become)=0.184906    
+appoint-VBN  multiply=0.00286  P(appoint|dbo:region)=0.014915  P(dbo:region|appoint)=0.191781    
+work-VBD  multiply=0.00273  P(work|dbo:region)=0.009943  P(dbo:region|work)=0.27451    
 

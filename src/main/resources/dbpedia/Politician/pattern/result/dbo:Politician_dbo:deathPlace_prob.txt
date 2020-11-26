@@ -1,12 +1,12 @@
-id=8  property=dbo:deathPlace  
-bear_into-VBN_IN  multiply=0.052007  P(bear_into|dbo:deathPlace)=0.082463  P(dbo:deathPlace|bear_into)=0.63067    
-bear_in-VBN_IN  multiply=0.052007  P(bear_in|dbo:deathPlace)=0.082463  P(dbo:deathPlace|bear_in)=0.63067    
-serve-RB_VBN  multiply=0.044141  P(serve|dbo:deathPlace)=0.139226  P(dbo:deathPlace|serve)=0.317042    
-die_in-VBD_IN  multiply=0.025946  P(die_in|dbo:deathPlace)=0.029653  P(dbo:deathPlace|die_in)=0.875    
-represent-VBN  multiply=0.025819  P(represent|dbo:deathPlace)=0.082745  P(dbo:deathPlace|represent)=0.312034    
-serve_in-VBN_IN  multiply=0.025791  P(serve_in|dbo:deathPlace)=0.072014  P(dbo:deathPlace|serve_in)=0.358146    
-serve_member-VBD_NN  multiply=0.022917  P(serve_member|dbo:deathPlace)=0.065801  P(dbo:deathPlace|serve_member)=0.348281    
-serve_selectman-VBD_NN  multiply=0.021686  P(serve_selectman|dbo:deathPlace)=0.058458  P(dbo:deathPlace|serve_selectman)=0.370968    
-elect_serve-VBN_VBD  multiply=0.021632  P(elect_serve|dbo:deathPlace)=0.058176  P(dbo:deathPlace|elect_serve)=0.371841    
-serve_one-VBD_CD  multiply=0.019819  P(serve_one|dbo:deathPlace)=0.053375  P(dbo:deathPlace|serve_one)=0.371316    
+id=9  property=dbo:deathPlace  
+bear-VBN  multiply=0.053762  P(bear|dbo:deathPlace)=0.093759  P(dbo:deathPlace|bear)=0.573402    
+die-VBD  multiply=0.048766  P(die|dbo:deathPlace)=0.057611  P(dbo:deathPlace|die)=0.846473    
+serve-VBD  multiply=0.042116  P(serve|dbo:deathPlace)=0.124823  P(dbo:deathPlace|serve)=0.337405    
+represent-VBZ  multiply=0.026671  P(represent|dbo:deathPlace)=0.082745  P(dbo:deathPlace|represent)=0.322332    
+become-VBD  multiply=0.010871  P(become|dbo:deathPlace)=0.028523  P(dbo:deathPlace|become)=0.381132    
+come-VBD  multiply=0.010646  P(come|dbo:deathPlace)=0.027958  P(dbo:deathPlace|come)=0.380769    
+move-VBN  multiply=0.009641  P(move|dbo:deathPlace)=0.017227  P(dbo:deathPlace|move)=0.559633    
+member-NN  multiply=0.008815  P(member|dbo:deathPlace)=0.040102  P(dbo:deathPlace|member)=0.219814    
+elect-VBN  multiply=0.006728  P(elect|dbo:deathPlace)=0.049986  P(dbo:deathPlace|elect)=0.134601    
+selectman-NN  multiply=0.006585  P(selectman|dbo:deathPlace)=0.048291  P(dbo:deathPlace|selectman)=0.136364    
 

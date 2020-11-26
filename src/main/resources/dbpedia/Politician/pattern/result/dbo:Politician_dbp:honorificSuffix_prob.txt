@@ -1,12 +1,12 @@
-id=46  property=dbp:honorificSuffix  
-appoint-VBN  multiply=0.009841  P(appoint|dbp:honorificSuffix)=0.048156  P(dbp:honorificSuffix|appoint)=0.204348    
-liberal-JJ  multiply=0.007979  P(liberal|dbp:honorificSuffix)=0.029713  P(dbp:honorificSuffix|liberal)=0.268519    
-serve-RB_VBN  multiply=0.005577  P(serve|dbp:honorificSuffix)=0.094262  P(dbp:honorificSuffix|serve)=0.059164    
-become-VBD  multiply=0.004627  P(become|dbp:honorificSuffix)=0.034836  P(dbp:honorificSuffix|become)=0.132812    
-elect-VBN  multiply=0.004449  P(elect|dbp:honorificSuffix)=0.08709  P(dbp:honorificSuffix|elect)=0.051082    
-serve_in-VBN_IN  multiply=0.002786  P(serve_in|dbp:honorificSuffix)=0.045082  P(dbp:honorificSuffix|serve_in)=0.061798    
-serve_speaker-VBD_NN  multiply=0.002717  P(serve_speaker|dbp:honorificSuffix)=0.035861  P(dbp:honorificSuffix|serve_speaker)=0.075758    
-elect_to-VBN_TO  multiply=0.002388  P(elect_to|dbp:honorificSuffix)=0.046107  P(dbp:honorificSuffix|elect_to)=0.051784    
-former-RB_JJ  multiply=0.002281  P(former|dbp:honorificSuffix)=0.016393  P(dbp:honorificSuffix|former)=0.13913    
-make-VBN  multiply=0.002091  P(make|dbp:honorificSuffix)=0.010246  P(dbp:honorificSuffix|make)=0.204082    
+id=48  property=dbp:honorificSuffix  
+appoint-VBN  multiply=0.0099  P(appoint|dbp:honorificSuffix)=0.047131  P(dbp:honorificSuffix|appoint)=0.210046    
+liberal-JJ  multiply=0.009128  P(liberal|dbp:honorificSuffix)=0.028689  P(dbp:honorificSuffix|liberal)=0.318182    
+become-VBD  multiply=0.003959  P(become|dbp:honorificSuffix)=0.032787  P(dbp:honorificSuffix|become)=0.120755    
+serve-VBD  multiply=0.003724  P(serve|dbp:honorificSuffix)=0.070697  P(dbp:honorificSuffix|serve)=0.052672    
+federal-JJ  multiply=0.003279  P(federal|dbp:honorificSuffix)=0.004098  P(dbp:honorificSuffix|federal)=0.8    
+elect-VBN  multiply=0.002899  P(elect|dbp:honorificSuffix)=0.0625  P(dbp:honorificSuffix|elect)=0.046388    
+reelect-VBN  multiply=0.002761  P(reelect|dbp:honorificSuffix)=0.060451  P(dbp:honorificSuffix|reelect)=0.045666    
+current-JJ  multiply=0.002391  P(current|dbp:honorificSuffix)=0.007172  P(dbp:honorificSuffix|current)=0.333333    
+make-VBN  multiply=0.002227  P(make|dbp:honorificSuffix)=0.010246  P(dbp:honorificSuffix|make)=0.217391    
+son-NN  multiply=0.001698  P(son|dbp:honorificSuffix)=0.01127  P(dbp:honorificSuffix|son)=0.150685    
 

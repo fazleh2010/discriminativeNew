@@ -1,12 +1,12 @@
-id=4  property=dbo:birthPlace  
-serve-RB_VBN  multiply=0.08999  P(serve|dbo:birthPlace)=0.121894  P(dbo:birthPlace|serve)=0.738264    
-member-RB_NN  multiply=0.046103  P(member|dbo:birthPlace)=0.076131  P(dbo:birthPlace|member)=0.605574    
-represent-VBN  multiply=0.046027  P(represent|dbo:birthPlace)=0.067743  P(dbo:birthPlace|represent)=0.679446    
-bear_into-VBN_IN  multiply=0.042403  P(bear_into|dbo:birthPlace)=0.045657  P(dbo:birthPlace|bear_into)=0.928726    
-bear_in-VBN_IN  multiply=0.042403  P(bear_in|dbo:birthPlace)=0.045657  P(dbo:birthPlace|bear_in)=0.928726    
-serve_in-VBN_IN  multiply=0.04126  P(serve_in|dbo:birthPlace)=0.05585  P(dbo:birthPlace|serve_in)=0.738764    
-serve_member-VBD_NN  multiply=0.040797  P(serve_member|dbo:birthPlace)=0.053833  P(dbo:birthPlace|serve_member)=0.757848    
-elect-VBN  multiply=0.039824  P(elect|dbo:birthPlace)=0.083882  P(dbo:birthPlace|elect)=0.47476    
-currently_serve-RB_VBZ  multiply=0.030742  P(currently_serve|dbo:birthPlace)=0.040561  P(dbo:birthPlace|currently_serve)=0.757937    
-previously_serve-RB_VBN  multiply=0.030382  P(previously_serve|dbo:birthPlace)=0.040242  P(dbo:birthPlace|previously_serve)=0.75498    
+id=5  property=dbo:birthPlace  
+serve-VBD  multiply=0.075635  P(serve|dbo:birthPlace)=0.10257  P(dbo:birthPlace|serve)=0.737405    
+bear-VBN  multiply=0.052098  P(bear|dbo:birthPlace)=0.056594  P(dbo:birthPlace|bear)=0.920553    
+represent-VBZ  multiply=0.044324  P(represent|dbo:birthPlace)=0.065407  P(dbo:birthPlace|represent)=0.677668    
+member-NN  multiply=0.026562  P(member|dbo:birthPlace)=0.042684  P(dbo:birthPlace|member)=0.622291    
+elect-VBN  multiply=0.024782  P(elect|dbo:birthPlace)=0.058824  P(dbo:birthPlace|elect)=0.421293    
+reelect-VBN  multiply=0.024321  P(reelect|dbo:birthPlace)=0.057762  P(dbo:birthPlace|reelect)=0.421053    
+die-VBD  multiply=0.015079  P(die|dbo:birthPlace)=0.019643  P(dbo:birthPlace|die)=0.767635    
+become-VBD  multiply=0.013713  P(become|dbo:birthPlace)=0.019643  P(dbo:birthPlace|become)=0.698113    
+come-VBD  multiply=0.013676  P(come|dbo:birthPlace)=0.019431  P(dbo:birthPlace|come)=0.703846    
+appoint-VBN  multiply=0.008836  P(appoint|dbo:birthPlace)=0.014334  P(dbo:birthPlace|appoint)=0.616438    
 

@@ -1,5 +1,5 @@
-id=15  property=dbo:orderInOffice  
-serve-RB_VBN  multiply=0.084978  P(serve|dbo:orderInOffice)=0.141176  P(dbo:orderInOffice|serve)=0.601929    
-reelect-VBN  multiply=0.006684  P(reelect|dbo:orderInOffice)=0.013876  P(dbo:orderInOffice|reelect)=0.481675    
-former-RB_JJ  multiply=0.003411  P(former|dbo:orderInOffice)=0.007692  P(dbo:orderInOffice|former)=0.443478    
+id=17  property=dbo:orderInOffice  
+serve-VBD  multiply=0.076853  P(serve|dbo:orderInOffice)=0.123228  P(dbo:orderInOffice|serve)=0.623664    
+reelect-VBN  multiply=0.014383  P(reelect|dbo:orderInOffice)=0.052941  P(dbo:orderInOffice|reelect)=0.271672    
+former-JJ  multiply=0.002753  P(former|dbo:orderInOffice)=0.005581  P(dbo:orderInOffice|former)=0.493333    
 

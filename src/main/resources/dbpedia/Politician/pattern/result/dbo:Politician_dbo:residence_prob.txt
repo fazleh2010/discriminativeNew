@@ -1,12 +1,12 @@
-id=25  property=dbo:residence  
-serve-RB_VBN  multiply=0.035731  P(serve|dbo:residence)=0.136182  P(dbo:residence|serve)=0.262379    
-represent-VBN  multiply=0.028872  P(represent|dbo:residence)=0.095127  P(dbo:residence|represent)=0.303514    
-member-RB_NN  multiply=0.027972  P(member|dbo:residence)=0.10514  P(dbo:residence|member)=0.266047    
-member_of-NN_IN  multiply=0.024515  P(member_of|dbo:residence)=0.073097  P(dbo:residence|member_of)=0.335375    
-elect-VBN  multiply=0.022916  P(elect|dbo:residence)=0.112817  P(dbo:residence|elect)=0.203125    
-represent_electoral-VBZ_JJ  multiply=0.019692  P(represent_electoral|dbo:residence)=0.066756  P(dbo:residence|represent_electoral)=0.294985    
-represent_district-VBN_NN  multiply=0.012777  P(represent_district|dbo:residence)=0.042724  P(dbo:residence|represent_district)=0.299065    
-currently_represent-RB_VBZ  multiply=0.012271  P(currently_represent|dbo:residence)=0.041722  P(dbo:residence|currently_represent)=0.294118    
-currently_serve-RB_VBZ  multiply=0.012249  P(currently_serve|dbo:residence)=0.045394  P(dbo:residence|currently_serve)=0.269841    
-serve_on-VBN_IN  multiply=0.012046  P(serve_on|dbo:residence)=0.04506  P(dbo:residence|serve_on)=0.267327    
+id=27  property=dbo:residence  
+be-VBD  multiply=0.037245  P(be|dbo:residence)=0.138184  P(dbo:residence|be)=0.269531    
+represent-VBZ  multiply=0.025592  P(represent|dbo:residence)=0.088117  P(dbo:residence|represent)=0.290429    
+member-NN  multiply=0.024106  P(member|dbo:residence)=0.072096  P(dbo:residence|member)=0.334365    
+serve-VBD  multiply=0.022931  P(serve|dbo:residence)=0.100134  P(dbo:residence|serve)=0.229008    
+elect-VBN  multiply=0.012509  P(elect|dbo:residence)=0.074099  P(dbo:residence|elect)=0.168821    
+reelect-VBN  multiply=0.012053  P(reelect|dbo:residence)=0.072096  P(dbo:residence|reelect)=0.167183    
+select-VBN  multiply=0.010925  P(select|dbo:residence)=0.067757  P(dbo:residence|select)=0.161239    
+selectman-NN  multiply=0.010861  P(selectman|dbo:residence)=0.067423  P(dbo:residence|selectman)=0.161085    
+bear-VBN  multiply=0.007624  P(bear|dbo:residence)=0.038385  P(dbo:residence|bear)=0.198618    
+liberal-JJ  multiply=0.007013  P(liberal|dbo:residence)=0.014352  P(dbo:residence|liberal)=0.488636    
 

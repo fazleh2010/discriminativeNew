@@ -1,12 +1,12 @@
 id=1  property=dbo:almaMater  
-serve_in-VBN_IN  multiply=0.008109  P(serve_in|dbo:almaMater)=0.047713  P(dbo:almaMater|serve_in)=0.169944    
-currently_serve-RB_VBZ  multiply=0.005521  P(currently_serve|dbo:almaMater)=0.033123  P(dbo:almaMater|currently_serve)=0.166667    
-serve_member-VBD_NN  multiply=0.004669  P(serve_member|dbo:almaMater)=0.035095  P(dbo:almaMater|serve_member)=0.133034    
-member_of-NN_IN  multiply=0.003769  P(member_of|dbo:almaMater)=0.031151  P(dbo:almaMater|member_of)=0.12098    
-graduate_from-VBN_IN  multiply=0.003286  P(graduate_from|dbo:almaMater)=0.007886  P(dbo:almaMater|graduate_from)=0.416667    
-elect_to-VBN_TO  multiply=0.003126  P(elect_to|dbo:almaMater)=0.032729  P(dbo:almaMater|elect_to)=0.095512    
-represent-VBN  multiply=0.002893  P(represent|dbo:almaMater)=0.032729  P(dbo:almaMater|represent)=0.088392    
-hold-RB_VBN  multiply=0.00265  P(hold|dbo:almaMater)=0.009858  P(dbo:almaMater|hold)=0.268817    
-educate_at-VBN_IN  multiply=0.002635  P(educate_at|dbo:almaMater)=0.008281  P(dbo:almaMater|educate_at)=0.318182    
-later_attend-RB_VBD  multiply=0.002468  P(later_attend|dbo:almaMater)=0.005126  P(dbo:almaMater|later_attend)=0.481481    
+serve-VBD  multiply=0.015785  P(serve|dbo:almaMater)=0.0903  P(dbo:almaMater|serve)=0.174809    
+graduate-VBN  multiply=0.006552  P(graduate|dbo:almaMater)=0.014196  P(dbo:almaMater|graduate)=0.461538    
+appoint-VBN  multiply=0.004869  P(appoint|dbo:almaMater)=0.020505  P(dbo:almaMater|appoint)=0.237443    
+elect-VBN  multiply=0.004685  P(elect|dbo:almaMater)=0.04929  P(dbo:almaMater|elect)=0.095057    
+member-NN  multiply=0.00441  P(member|dbo:almaMater)=0.033517  P(dbo:almaMater|member)=0.131579    
+become-VBD  multiply=0.004024  P(become|dbo:almaMater)=0.020505  P(dbo:almaMater|become)=0.196226    
+educate-VBN  multiply=0.003081  P(educate|dbo:almaMater)=0.009858  P(dbo:almaMater|educate)=0.3125    
+earn-VBN  multiply=0.002839  P(earn|dbo:almaMater)=0.004732  P(dbo:almaMater|earn)=0.6    
+receive-VBN  multiply=0.002817  P(receive|dbo:almaMater)=0.007886  P(dbo:almaMater|receive)=0.357143    
+work-VBD  multiply=0.002227  P(work|dbo:almaMater)=0.009464  P(dbo:almaMater|work)=0.235294    
 
