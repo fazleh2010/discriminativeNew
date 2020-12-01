@@ -53,11 +53,15 @@ public class PatternCalculation {
     private InterestingPredicatePattern interestingPattern;
     private String regEx = "(VB|VBD|VBG|VBN|VBP|VBZ|IN|NN|NNS|NNP|NNPS|JJ|JJR|JJS|TO|IN|)";
     private String[] dir = new String[]{"tables/", "selectedPatterns/", "result/"};
+    private Integer contextLimit=2;
+    
 
-    public PatternCalculation(String inputDir, String inputFile, String dbo_ClassName) throws Exception {
+
+    public PatternCalculation(String inputDir, String inputFile, String dbo_ClassName,Integer contextLimit) throws Exception {
         this.allDBpediaPatterns = getAllElements(inputDir + dir[0], inputFile, dbo_ClassName);
-        this.interestingPattern = new InterestingPredicatePattern(analyzer, lemmaAnalyzer, this.regEx, inputDir + dir[1], allDBpediaPatterns);
-        this.calculateProbability(inputDir, dbo_ClassName);
+        this.contextLimit=contextLimit;
+        this.interestingPattern = new InterestingPredicatePattern(analyzer, lemmaAnalyzer, contextLimit,regEx, inputDir + dir[1], allDBpediaPatterns);
+        //this.calculateProbability(inputDir, dbo_ClassName);
     }
 
     public void calculateProbability(String inputDir, String dbo_ClassName) throws Exception {
@@ -143,7 +147,7 @@ public class PatternCalculation {
 
             }*/
 
-            EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, this.regEx, dbpediaEntityPattern.getPatterns().values());
+            EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, contextLimit,regEx, dbpediaEntityPattern.getPatterns().values());
             List<Pattern> selectedPatterns = entityPatternsOfAbstract.getAllpatternList();
             if (isPatternExistInAbstract1(givenPatternPair, selectedPatterns)) {
                 entities.add(dbpediaEntityPattern.getEntityUrl());
@@ -226,7 +230,7 @@ public class PatternCalculation {
     }
 
     private boolean isTriplePatternExistInAbstract(String givenTrippleStr, String givenLinguisticPattern, DBpediaEntityPattern dbpediaEntityPattern) throws Exception {
-        EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, this.regEx, dbpediaEntityPattern.getPatterns().values());
+        EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, this.contextLimit,this.regEx, dbpediaEntityPattern.getPatterns().values());
         EntityTriple.Triple givenTripple = this.allTriplesMap.get(givenTrippleStr);
 
         if (entityPatternsOfAbstract.getPatternsMap().keySet().contains(givenTripple.getObject())) {

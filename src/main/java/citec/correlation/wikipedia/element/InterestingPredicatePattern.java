@@ -38,41 +38,46 @@ public class InterestingPredicatePattern {
     private LemmaAnalyzer lemmaAnalyzer = new LemmaAnalyzer();
     private final String outputDir;
     private String regEx = null;
-
+    private final Integer contextLimit;
+    private String ORIGINAL_CONTEX="ORIGINAL_CONTEX";
+    private String CONTEX_POS_MIX="CONTEX_POS_MIX";
     
-    public InterestingPredicatePattern(Analyzer analyzer, LemmaAnalyzer lemmaAnalyzer,String regEx,String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
+
+    public InterestingPredicatePattern(Analyzer analyzer, LemmaAnalyzer lemmaAnalyzer, Integer contextLimit,String regEx, String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
         this.analyzer = analyzer;
-        this.lemmaAnalyzer=lemmaAnalyzer;
-        this.regEx=regEx;
+        this.lemmaAnalyzer = lemmaAnalyzer;
+        this.regEx = regEx;
         this.outputDir = outputDir;
-        this.findMatchBetweenTriplePattern(allDBpediaPatterns,outputDir+PREDICATE_CONTEXT_WORD);
-        this.findMatchBetweenTriplePattern(allDBpediaPatterns,outputDir+CONTEXT_WORD_PREDICATE);
+        this.contextLimit=contextLimit;
+        this.findMatchBetweenTriplePattern(allDBpediaPatterns, outputDir + PREDICATE_CONTEXT_WORD,CONTEX_POS_MIX);
+        this.findMatchBetweenTriplePattern(allDBpediaPatterns, outputDir + CONTEXT_WORD_PREDICATE,CONTEX_POS_MIX);
     }
 
-    private void findMatchBetweenTriplePattern(List<DBpediaEntityPattern> allDBpediaPatterns,String type) throws Exception {
+    private void findMatchBetweenTriplePattern(List<DBpediaEntityPattern> allDBpediaPatterns, String type,String contextType) throws Exception {
         for (DBpediaEntityPattern dbpediaEntityPattern : allDBpediaPatterns) {
             EntityTriple entityTriple = new EntityTriple(dbpediaEntityPattern.getTriples().values());
-            EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer,regEx,dbpediaEntityPattern.getPatterns().values());
-            if(type.contains(PREDICATE_CONTEXT_WORD))
-              this.findPredicateContextWords(entityTriple, entityPatternsOfAbstract);
-            if(type.contains(CONTEXT_WORD_PREDICATE))
+            EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, contextLimit,regEx, dbpediaEntityPattern.getPatterns().values());
+            if (type.contains(PREDICATE_CONTEXT_WORD)) {
+                this.findPredicateContextWords(entityTriple, entityPatternsOfAbstract);
+            }
+            if (type.contains(CONTEXT_WORD_PREDICATE)) {
                 this.findContextWordPredicate(entityTriple, entityPatternsOfAbstract);
+            }
         }
-        
-        if(type.contains(CONTEXT_WORD_PREDICATE)){
+
+        if (type.contains(CONTEXT_WORD_PREDICATE)) {
             this.findContextPredicateDictionary();
             String outputFile = type;
-            this.writeInFiles(outputFile + ".txt", outputFile + ".json", contexWordSortedPredicateMap); 
+            this.writeInFiles(outputFile + ".txt", outputFile + ".json", contexWordSortedPredicateMap);
+        } else if (type.contains(PREDICATE_CONTEXT_WORD)) {
+            this.findPredicateDictionary(contextType);
+            String outputFile = type;
+            this.writeInFiles(outputFile + ".txt", outputFile + ".json", this.predicateSortedContextWordsMap);
         }
-        else if (type.contains(PREDICATE_CONTEXT_WORD)){
-            this.findPredicateDictionary();
-            String outputFile =type;
-            this.writeInFiles(outputFile + ".txt", outputFile + ".json", this.predicateSortedContextWordsMap); 
-        }
-       
 
     }
-     private void findPredicateDictionary() throws Exception {
+
+    private void findPredicateDictionary(String type) throws Exception {
         Map<String, Map<String, Integer>> temp = new TreeMap<String, Map<String, Integer>>();
         Map<String, String> modifiedOriginal = new TreeMap<String, String>();
         Integer breakPoint = 0;
@@ -83,7 +88,8 @@ public class InterestingPredicatePattern {
             for (EntityPatternsOfAbstract.Pattern pattern : predicateContextWordsMap.get(predicate)) {
                 if (pattern.isValid()) {
                     String modifiedContextWords = pattern.getModifiedContextWord();
-                    modifiedOriginal.put(modifiedContextWords, "["+modifiedContextWords +"]"+ "  " + "<"+pattern.getPosTaggedText()+">");
+                    String value=this.contextWordString(pattern,type);
+                    modifiedOriginal.put(modifiedContextWords, value);
                     Integer count = 1;
                     if (contextWordsCount.containsKey(modifiedContextWords)) {
                         count = contextWordsCount.get(modifiedContextWords) + 1;
@@ -100,17 +106,18 @@ public class InterestingPredicatePattern {
             Map<Integer, String> sortedList = SortUtils.sortAnnotated(temp.get(predicate), modifiedOriginal, -1);
             predicateSortedContextWordsMap.put(predicate, sortedList);
         }
-       
+
     }
-    
+
     private void findContextPredicateDictionary() throws Exception {
         Map<String, Map<String, Integer>> temp = new TreeMap<String, Map<String, Integer>>();
         Map<String, String> modifiedOriginal = new TreeMap<String, String>();
         Integer breakPoint = 0;
 
         for (String contextWord : ContextWordsPredicateMap.keySet()) {
-            if(this.temporaryExcluse(contextWord))
+            if (this.temporaryExcluse(contextWord)) {
                 continue;
+            }
             breakPoint = breakPoint++;
             Map<String, Integer> predicateCount = new TreeMap<String, Integer>();
             for (EntityTriple.Triple triple : ContextWordsPredicateMap.get(contextWord)) {
@@ -130,7 +137,6 @@ public class InterestingPredicatePattern {
             contexWordSortedPredicateMap.put(contextWord, sortedList);
         }
     }
-
 
     private void findPredicateContextWords(EntityTriple entityTriple, EntityPatternsOfAbstract entityPatternsOfAbstract) {
         for (String object : entityTriple.getObjectTriplesMap().keySet()) {
@@ -152,66 +158,43 @@ public class InterestingPredicatePattern {
             }
         }
     }
-    
+
     private void findContextWordPredicate(EntityTriple entityTriple, EntityPatternsOfAbstract entityPatternsOfAbstract) throws Exception {
 
-            for (String object : entityPatternsOfAbstract.getPatternsMap().keySet()) {
-                if(!entityTriple.getObjectTriplesMap().containsKey(object)){
-                    continue;
-                }
-                List<EntityTriple.Triple> triples = entityTriple.getObjectTriplesMap().get(object);
-                //System.out.println("object:!!!"+object);
-                if(!entityPatternsOfAbstract.getPatterns().containsKey(object))
-                    continue;
-                List<EntityPatternsOfAbstract.Pattern> patterns = entityPatternsOfAbstract.getPatterns().get(object);
-                for (EntityPatternsOfAbstract.Pattern pattern : patterns) {
-                    //System.out.println(pattern);
-                    String contextWords = null;
-                    if(pattern.getModifiedContextWord()!=null)
-                        contextWords =pattern.getModifiedContextWord();
-                    else
-                       continue;
-                        
-                    //System.out.println("contextWords:"+contextWords);
-                    List<EntityTriple.Triple> existList = new ArrayList<EntityTriple.Triple>();
-                    if (ContextWordsPredicateMap.containsKey(contextWords)) {
-                        existList = ContextWordsPredicateMap.get(contextWords);
-                        existList.addAll(triples);
-                        ContextWordsPredicateMap.put(contextWords, existList);
-                    } else {
-                        existList.addAll(triples);
-                        ContextWordsPredicateMap.put(contextWords, existList);
-                    }
-
-                }
+        for (String object : entityPatternsOfAbstract.getPatternsMap().keySet()) {
+            if (!entityTriple.getObjectTriplesMap().containsKey(object)) {
+                continue;
             }
-            
-    }
-    
-    
-
-   
-    
-    /*private void findContextWordsPredicate(EntityTriple entityTriple, EntityPatternsOfAbstract entityPatternsOfAbstract) {
-        for (String object : entityTriple.getObjectTriplesMap().keySet()) {
-            if (entityPatternsOfAbstract.getPatterns().containsKey(object)) {
-                List<EntityTriple.Triple> triples = entityTriple.getObjectTriplesMap().get(object);
-                List<EntityPatternsOfAbstract.Pattern> patterns = entityPatternsOfAbstract.getPatterns().get(object);
-                for (EntityTriple.Triple triple : triples) {
-                    String contextWord = triple.getPredicate();
-                    List<EntityPatternsOfAbstract.Pattern> existList = new ArrayList<EntityPatternsOfAbstract.Pattern>();
-                    if (predicateContextWordsMap.containsKey(contextWord)) {
-                        existList = predicateContextWordsMap.get(contextWord);
-                        existList.addAll(patterns);
-                        predicateContextWordsMap.put(contextWord, existList);
-                    } else {
-                        existList.addAll(patterns);
-                        predicateContextWordsMap.put(contextWord, existList);
-                    }
+            List<EntityTriple.Triple> triples = entityTriple.getObjectTriplesMap().get(object);
+            //System.out.println("object:!!!"+object);
+            if (!entityPatternsOfAbstract.getPatterns().containsKey(object)) {
+                continue;
+            }
+            List<EntityPatternsOfAbstract.Pattern> patterns = entityPatternsOfAbstract.getPatterns().get(object);
+            for (EntityPatternsOfAbstract.Pattern pattern : patterns) {
+                //System.out.println(pattern);
+                String contextWords = null;
+                if (pattern.getModifiedContextWord() != null) {
+                    contextWords = pattern.getModifiedContextWord();
+                } else {
+                    continue;
                 }
+
+                //System.out.println("contextWords:"+contextWords);
+                List<EntityTriple.Triple> existList = new ArrayList<EntityTriple.Triple>();
+                if (ContextWordsPredicateMap.containsKey(contextWords)) {
+                    existList = ContextWordsPredicateMap.get(contextWords);
+                    existList.addAll(triples);
+                    ContextWordsPredicateMap.put(contextWords, existList);
+                } else {
+                    existList.addAll(triples);
+                    ContextWordsPredicateMap.put(contextWords, existList);
+                }
+
             }
         }
-    }*/
+
+    }
 
     private String resultString(Map<String, Map<Integer, String>> sortedMap) {
         List<Property> properties = new ArrayList<Property>();
@@ -230,17 +213,15 @@ public class InterestingPredicatePattern {
         return str;
     }
 
-    private void writeInFiles(String displayFile, String jsonFile,Map<String, Map<Integer, String>> sortedMap) throws Exception {
+    private void writeInFiles(String displayFile, String jsonFile, Map<String, Map<Integer, String>> sortedMap) throws Exception {
         FileFolderUtils.stringToFiles(this.resultString(sortedMap), displayFile);
         FileFolderUtils.writeDictionaryToJsonFile(sortedMap, jsonFile);
     }
-  
 
-    
     public Map<String, Map<Integer, String>> readFiles() throws Exception {
         ObjectMapper mapper = new ObjectMapper();
-        Map<String, Map<Integer, String>> predicateSortedContextWordsMap = mapper.readValue(outputDir +PREDICATE_CONTEXT_WORD+".json",Map.class );
-        return  predicateSortedContextWordsMap;
+        Map<String, Map<Integer, String>> predicateSortedContextWordsMap = mapper.readValue(outputDir + PREDICATE_CONTEXT_WORD + ".json", Map.class);
+        return predicateSortedContextWordsMap;
     }
 
     public Map<String, Map<Integer, String>> getPredicateSortedContextWords() {
@@ -303,9 +284,13 @@ public class InterestingPredicatePattern {
         return false;
     }
 
+    private String contextWordString(EntityPatternsOfAbstract.Pattern pattern,String type) {
+        if(type.equals(this.CONTEX_POS_MIX))
+            return  "[" + pattern.getContextPosMix() + "]" + "  " + "<" + pattern.getPosTaggedText() + ">";
+        else 
+            return  "[" + pattern.getModifiedContextWord() + "]" + "  " + "<" + pattern.getPosTaggedText() + ">";
+    }
 
-    
-    
     /*public Map<String, Map<Integer, String>> getPredicateSortedContextWords(String contextWord) {
         if(predicateSortedContextWordsMap.containsKey(contextWord)){
             Map<Integer, String> rankContextList=predicateSortedContextWordsMap.get(contextWord);
@@ -316,7 +301,6 @@ public class InterestingPredicatePattern {
         }
         return predicateSortedContextWordsMap;
     }*/
-
     public class Property {
 
         @JsonProperty("property")

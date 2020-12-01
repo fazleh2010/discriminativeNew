@@ -41,8 +41,6 @@ import citec.correlation.wikipedia.calculation.PatternCalculation;
 import citec.correlation.wikipedia.results.WordResult;
 import citec.correlation.wikipedia.utils.FileFolderUtils;
 import citec.correlation.wikipedia.utils.UrlUtils;
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -162,8 +160,9 @@ public class TableMain implements PropertyNotation {
 
         }
         if (type.equals(patternsProbability)) {
+            Integer contextLimit=2;
             String inputDir = dbpediaDir + classDir + patternDir;
-            PatternCalculation patternCalculation = new PatternCalculation(inputDir, inputFile, dbo_ClassName);
+            PatternCalculation patternCalculation = new PatternCalculation(inputDir, inputFile, dbo_ClassName,contextLimit);
         }
 
         //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);

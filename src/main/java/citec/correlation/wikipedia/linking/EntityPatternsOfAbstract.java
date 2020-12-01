@@ -33,10 +33,11 @@ public class EntityPatternsOfAbstract {
     private Integer contextLimit=1;
 
 
-    public EntityPatternsOfAbstract(Analyzer analyzer,LemmaAnalyzer lemmaAnalyzer,String regEx,Collection<String> patternsStr) throws Exception {
+    public EntityPatternsOfAbstract(Analyzer analyzer,LemmaAnalyzer lemmaAnalyzer,Integer contextlimit,String regEx,Collection<String> patternsStr) throws Exception {
         this.analyzer = analyzer;
         this.lemmaAnalyzer=lemmaAnalyzer;
         this.regEx=regEx;
+        this.contextLimit=contextlimit;
         for (String patternStr : patternsStr) {
             Pattern pattern = new Pattern(patternStr,contextLimit);
             allpatternList.add(pattern);
@@ -107,15 +108,19 @@ public class EntityPatternsOfAbstract {
         private String subject = null;
         private String contextWord = null;
         private String modifiedContextWord = null;
+        private String contextPosMix = null;
         private String objectOfProperty = null;
         private String posTaggedText=null;
         private Boolean valid=false;
+        private Integer positionIndex=0;
 
         public Pattern(String patternStr,Integer contextLimit) throws Exception {
             this.subject = extractValue(patternStr,"(", ")");
             this.contextWord = this.extractValue(patternStr,"[","]");
-            this.contextWord=FormatAndMatch.cutContexWords(this.contextWord, contextLimit);
-            this.setPosTagger(this.contextWord);
+            this.contextWord=FormatAndMatch.cutContexWords(contextWord, contextLimit);
+            this.setModifiedTextPosTagger(contextWord);
+            if(modifiedContextWord!=null&&posTaggedText!=null)
+            this.mixContextWordPosTag(modifiedContextWord,posTaggedText,positionIndex);
             this.valid=this.checkValidity();
             this.objectOfProperty = extractValue(patternStr,"<", ">");
         }
@@ -136,15 +141,37 @@ public class EntityPatternsOfAbstract {
            return contextWords;
         }
 
-        private void setPosTagger(String contextWords) throws Exception {
+        private void setModifiedTextPosTagger(String contextWords) throws Exception {
             String[] results = analyzer.posTaggerText(contextWords);
             String posTagged = results[2];
             String posTaggedText = results[1];
             if (FormatAndMatch.isPosTagValid(posTagged, regEx)) {
                 this.posTaggedText = posTagged;
             }
-            posTaggedText=lemmaAnalyzer.getLemma(posTaggedText);
+            posTaggedText = lemmaAnalyzer.getLemma(posTaggedText);
             this.modifiedContextWord = this.setModifyContextWords(posTaggedText);
+        }
+
+        private void mixContextWordPosTag(String modifiedContextWord, String posTaggedText, Integer position) {
+            if(!modifiedContextWord.contains("_")){
+                this.contextPosMix=modifiedContextWord;
+                return ; 
+            }
+               
+            String[] modified = modifiedContextWord.split("_");
+            String[] pos = posTaggedText.split("_");
+            Integer index = 0;
+            String str = "", line = null;
+            for (String item : modified) {
+                if (index == position) {
+                    line = modified[index];
+                } else {
+                    line = pos[index];
+                }
+                index=index+1;
+                str += line + "_";
+            }
+            this.contextPosMix = str.substring(0, str.length()-1);
         }
 
         private Boolean checkValidity() {
@@ -160,6 +187,10 @@ public class EntityPatternsOfAbstract {
         
         public String getSubject() {
             return subject;
+        }
+
+        public String getContextPosMix() {
+            return contextPosMix;
         }
 
         public String getContextWord() {
@@ -183,6 +214,8 @@ public class EntityPatternsOfAbstract {
         public String toString() {
             return "Patterns{" + "subject=" + subject + ", contextWord=" + contextWord + ", objectOfProperty=" + objectOfProperty + '}';
         }
+
+      
 
 
        
