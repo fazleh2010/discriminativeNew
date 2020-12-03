@@ -1,4 +1,4 @@
-package qa.qf.qcri.iyas.evaluation.ir;
+package evaluation.ir;
 
 
 
