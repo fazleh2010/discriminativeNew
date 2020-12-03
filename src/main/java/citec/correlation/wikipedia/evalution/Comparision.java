@@ -17,8 +17,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import qa.qf.qcri.iyas.evaluation.ir.AveP;
-import qa.qf.qcri.iyas.evaluation.ir.MeanReciprocalRank;
+import citec.correlation.wikipedia.evalution.ir.AveP;
+import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRank;
 
 /**
  *
@@ -33,11 +33,13 @@ public class Comparision {
 
     public Comparision(String qaldFileName, String methodFileName) throws IOException {
         Map<String, LexiconUnit> lexicons = getLexicon(methodFileName);
+        System.out.println("lexicons:"+lexicons);
         Map<String, Unit> qald = getQald(qaldFileName);
+        System.out.println("qald:"+qald);
+
         Set<String> commonWords = Sets.intersection(qald.keySet(), lexicons.keySet());
-        List<String> words = new ArrayList<String>(commonWords);
         System.out.println(commonWords);
-        this.comparisions(qald, lexicons, words);
+        this.comparisions(qald, lexicons, new ArrayList<String>(commonWords));
     }
 
     private Map<String, LexiconUnit> getLexicon(String methodFileName) throws IOException {
