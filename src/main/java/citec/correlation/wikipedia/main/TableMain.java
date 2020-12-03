@@ -38,6 +38,7 @@ import citec.correlation.wikipedia.utils.NLPTools;
 import citec.correlation.wikipedia.qald.Unit;
 import citec.correlation.wikipedia.table.EntityTable;
 import citec.correlation.wikipedia.calculation.PatternCalculation;
+import citec.correlation.wikipedia.evalution.Lexicon;
 import citec.correlation.wikipedia.results.WordResult;
 import citec.correlation.wikipedia.utils.FileFolderUtils;
 import citec.correlation.wikipedia.utils.UrlUtils;
@@ -75,14 +76,15 @@ public class TableMain implements PropertyNotation {
     //private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
     //private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
-    private static String write = "write";
-    private static String proprtyGeneration = "proprtyGeneration";
-    private static String interestingWord = "interestingWord";
-    private static String calculation = "calculation";
-    private static String meanReciprocal = "meanReciprocal";
-    private static String qald = "qald";
-    private static String writePatterns = "patterns";
-    private static String patternsProbability = "patternsProbability";
+    private static final String WRITE = "WRITE";
+    private static final String PROPERTY_GENERATION = "PROPERTY_GENERATION";
+    private static final String INTERESRTING_WORD = "INTERESRTING_WORD";
+    private static final String WORD_CALCULATION = "WORD_CALCULATION";
+    private static final String MEAN_RECIPROCAL_WORD = "MEAN_RECIPROCAL_OBJECT";
+    private static final String MEAN_RECIPROCAL_PATTERN = "MEAN_RECIPROCAL_PROPERTY";
+    private static final String QALD = "QALD";
+    private static final String WRITE_PATTERNS = "WRITE_PATTERNS";
+    private static final String PATTERN_CALCULATION = "PATTERN_CALCULATION";
     
     private static String patternDir="pattern/";
 
@@ -104,7 +106,7 @@ public class TableMain implements PropertyNotation {
 
         //QALDMain qaldMain=new QALDMain (posTags,qald9Dir,trainingJson);
         TableMain trainingTable = new TableMain();
-        String type = patternsProbability;
+        String type = MEAN_RECIPROCAL_WORD;
         Tables tables = null;
         String dbo_ClassName = PropertyNotation.dbo_Politician;
         freqClasses.add(dbo_ClassName);
@@ -129,7 +131,7 @@ public class TableMain implements PropertyNotation {
 
         InterestedWords interestedWords = null;
 
-        if (type.equals(write)) {
+        if (type.equals(WRITE)) {
 
             DbpediaClass dbpediaClass = new DbpediaClass(dbo_ClassName, inputFile, TextAnalyzer.POS_TAGGER_WORDS, fileType);
             makeClassDir(dbpediaDir + classDir);
@@ -141,37 +143,40 @@ public class TableMain implements PropertyNotation {
                 trainingTable.write(inputFile, rawFiles, dbpediaClass, dbpediaClass.getPropertyEntities());
             }
         }
-        if (type.equals(proprtyGeneration)) {
+        if (type.equals(PROPERTY_GENERATION)) {
             generateClassPropertyTable(inputFile, rawFiles, dbo_ClassName, classDir);
         }
-        if (type.equals(calculation)) {
+        if (type.equals(WORD_CALCULATION)) {
             //currently not working (out of memory)
             calculation(inputFile, classDir, dbo_ClassName, numberOfEntitiesrmSelected, wordFoundInNumberOfEntities, TopNwords, ObjectMinimumEntities, posTags, wordGivenObjectThres, objectGivenWordThres, topWordLimitToConsiderThres);
         }
 
-        if (type.equals(qald)) {
+        if (type.equals(QALD)) {
             Qald qaldMain = new Qald(posTags, qald9Dir, trainingJson);
         }
-        if (type.contains(meanReciprocal)) {
-            evaluation();
+        if (type.equals(MEAN_RECIPROCAL_WORD)) {
+           String qaldFileName = qald9Dir + "JJ-qald9" + ".json";
+           String conditionalFilename = qald9Dir + "lexicon-conditional-JJ" + ".json";
+           Comparision comparision = new Comparision(qaldFileName, conditionalFilename);
         }
-        if (type.equals(writePatterns)) {
+        if (type.equals(MEAN_RECIPROCAL_PATTERN)) {
+           String qaldFileName = qald9Dir + "JJ-qald9" + ".json";
+           String conditionalFilename = qald9Dir + "lexicon-conditional-JJ" + ".json";
+           Comparision comparision = new Comparision(qaldFileName, conditionalFilename);
+        }
+        if (type.equals(WRITE_PATTERNS)) {
             addPatterns(inputFile, rawFiles, dbo_ClassName, classDir);
 
         }
-        if (type.equals(patternsProbability)) {
-            Integer contextLimit=2;
+        if (type.equals(PATTERN_CALCULATION)) {
             String inputDir = dbpediaDir + classDir + patternDir;
-            PatternCalculation patternCalculation = new PatternCalculation(inputDir, inputFile, dbo_ClassName,contextLimit);
+            String patternFileName="pattern";
+            PatternCalculation patternCalculation = new PatternCalculation(inputDir,inputFile, dbo_ClassName);
+            Lexicon lexicon=new Lexicon();
+            lexicon.prepareLexiconForEvalution(qald9Dir,patternCalculation.getPatternEntities(),patternFileName);
         }
 
         //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
-    }
-
-    private static void evaluation() throws IOException {
-        String qaldFileName = qald9Dir + "JJ-qald9" + ".json";
-        String conditionalFilename = qald9Dir + "lexicon-conditional-JJ" + ".json";
-        Comparision comparision = new Comparision(qaldFileName, conditionalFilename);
     }
 
     private static void calculation(String inputFile, String classDir, String dbo_ClassName, Integer numberOfEntitiesrmSelected, Integer wordFoundInNumberOfEntities, Integer TopNwords, Integer ObjectMinimumEntities, Set<String> posTags, Double wordGivenObjectThres, Double objectGivenWordThres, Integer topWordLimitToConsiderThres) throws IOException, Exception {
@@ -185,8 +190,10 @@ public class TableMain implements PropertyNotation {
         tables = new Tables(new File(inputFile).getName(), dbpediaDir + classDir + "tables/");
         WordCalculation calculation = new WordCalculation(tables, dbo_ClassName, interestedWords,
                 numberOfEntitiesrmSelected, ObjectMinimumEntities,
-                dbpediaDir + output, qald9Dir, posTags,
+                dbpediaDir + output, 
                 wordGivenObjectThres, objectGivenWordThres, topWordLimitToConsiderThres);
+        Lexicon lexicon=new Lexicon();
+        lexicon.prepareLexiconWord(qald9Dir,calculation.getWordEntities(),posTags);
         System.out.println("System execution ended!!!");
     }
 

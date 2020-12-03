@@ -49,7 +49,7 @@ public class WordCalculation implements TextAnalyzer {
 
     public WordCalculation(Tables tables, String className, InterestedWords interestedWords,
                        Integer numberOfEntitiesSelected,Integer objectMinimumENtities,
-                       String outputDir,String qald9Dir,Set<String> posTags,
+                       String outputDir,
                        Double wordGivenObjectThresold,Double objectGivenWordThresold,Integer topWordLimitToConsiderThresold) throws IOException, Exception {
         this.numberOfEntitiesSelected=numberOfEntitiesSelected;
         this.objectMinimumENtities=objectMinimumENtities;
@@ -58,7 +58,6 @@ public class WordCalculation implements TextAnalyzer {
         this.objectGivenWordThresold=objectGivenWordThresold;
         this.topWordLimitToConsiderThresold=topWordLimitToConsiderThresold;
         this.calculation(tables,className,tables.getEntityTableDir());
-        Lexicon PosTaggerEntity=new Lexicon(qald9Dir,wordEntities,posTags);
         
     }
     
@@ -342,7 +341,7 @@ public class WordCalculation implements TextAnalyzer {
                 liftAndConfidence="";
                 //temporarily lift value made null, since we are not sure about the Lift calculation
                 //lift="";
-                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+liftAndConfidence+"\n";
+                String wordline = wordResults.getWord() + "  " +wordResults.getPosTag()+ "  " + multiply + "  " + probabilty + "  "+liftAndConfidence+"\n";
                 wordSum += wordline;
             }
             entityLine = entityLine + wordSum + "\n";
@@ -392,6 +391,10 @@ public class WordCalculation implements TextAnalyzer {
             str += entityLine;
         }
         return str;
+    }
+
+    public Map<String, List<EntityInfo>> getWordEntities() {
+        return wordEntities;
     }
    
 }

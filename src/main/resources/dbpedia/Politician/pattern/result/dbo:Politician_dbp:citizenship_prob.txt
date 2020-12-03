@@ -1,8 +1,0 @@
-id=39  property=dbp:citizenship  
-urdu-NN  multiply=0.008949  P(urdu|dbp:citizenship)=0.013423  P(dbp:citizenship|urdu)=0.666667    
-student-NN  multiply=0.006711  P(student|dbp:citizenship)=0.006711  P(dbp:citizenship|student)=1.0    
-play-VBN  multiply=3.73E-4  P(play|dbp:citizenship)=0.006711  P(dbp:citizenship|play)=0.055556    
-state-NN  multiply=3.2E-4  P(state|dbp:citizenship)=0.006711  P(dbp:citizenship|state)=0.047619    
-elect-VBN  multiply=2.5E-4  P(elect|dbp:citizenship)=0.04698  P(dbp:citizenship|elect)=0.005323    
-serve-VBD  multiply=1.28E-4  P(serve|dbp:citizenship)=0.033557  P(dbp:citizenship|serve)=0.003817    
-

@@ -1,0 +1,143 @@
+
+dbo:almaMater
+(29)  [graduate_IN]  <VBN_IN> {graduated from }
+(20)  [educate_IN]  <VBN_IN> {educated at }
+
+dbo:birthPlace
+(445)  [bear_IN]  <VBN_IN> {born in }
+(116)  [serve_NN]  <VBD_NN> {served deputy }
+(95)  [elect_TO]  <VBN_TO> {elected to }
+(83)  [member_IN]  <NN_IN> {member of }
+(67)  [represent_NN]  <VBN_NN> {represented town }
+(55)  [represent]  <VBN> {represented }
+(41)  [represent_JJ]  <VBZ_JJ> {represents 14th }
+(37)  [serve_IN]  <VBD_IN> {served alongside }
+(33)  [serve]  <RB_VBN> {also served }
+(32)  [minister_IN]  <NN_IN> {minister of }
+
+dbo:country
+(113)  [elect_NN]  <VBN_NN> {elected member }
+(79)  [member_IN]  <NN_IN> {member of }
+(71)  [serve_IN]  <VBD_IN> {served alongside }
+(61)  [elect_IN]  <VBN_IN> {elected in }
+(32)  [elect_TO]  <VBN_TO> {elected to }
+(24)  [serve_NN]  <VBD_NN> {served deputy }
+(19)  [educate_IN]  <VBN_IN> {educated at }
+(19)  [elect_JJ]  <VBN_JJ> {elected liberal }
+(18)  [return_TO]  <VBN_TO> {returned to }
+(17)  [become_NN]  <VBD_NN> {became founding }
+
+dbo:deathPlace
+(187)  [die_IN]  <VBD_IN> {died on }
+(100)  [bear_IN]  <VBN_IN> {born in }
+(96)  [serve_NN]  <VBD_NN> {served deputy }
+(55)  [member_IN]  <NN_IN> {member of }
+(49)  [represent]  <VBN> {represented }
+(46)  [serve_IN]  <VBD_IN> {served alongside }
+(42)  [represent_NN]  <VBN_NN> {represented town }
+(33)  [elect_TO]  <VBN_TO> {elected to }
+(32)  [move_TO]  <VBN_TO> {moved to }
+(30)  [serve]  <RB_VBN> {also served }
+
+dbo:nationality
+(37)  [elect_TO]  <VBN_TO> {elected to }
+(29)  [member_IN]  <NN_IN> {member of }
+(11)  [bear_IN]  <VBN_IN> {born in }
+(11)  [serve_IN]  <VBD_IN> {served alongside }
+(10)  [elect_IN]  <VBN_IN> {elected in }
+
+dbo:party
+(403)  [elect_TO]  <VBN_TO> {elected to }
+(290)  [member_IN]  <NN_IN> {member of }
+(133)  [serve_NN]  <VBD_NN> {served deputy }
+(91)  [represent_NN]  <VBN_NN> {represented town }
+(69)  [represent_JJ]  <VBZ_JJ> {represents 14th }
+(60)  [serve_IN]  <VBD_IN> {served alongside }
+(40)  [join]  <VBD> {joined }
+(40)  [serve]  <RB_VBN> {also served }
+(33)  [liberal_NN]  <JJ_NN> {liberal member }
+(27)  [become_NN]  <VBD_NN> {became founding }
+
+dbo:primeMinister
+(13)  [minister_IN]  <NN_IN> {minister of }
+
+dbo:region
+(112)  [represent]  <VBN> {represented }
+(62)  [elect_TO]  <VBN_TO> {elected to }
+(29)  [member_IN]  <NN_IN> {member of }
+(25)  [serve_NN]  <VBD_NN> {served deputy }
+(21)  [represent_JJ]  <VBZ_JJ> {represents 14th }
+(18)  [represent_NN]  <VBN_NN> {represented town }
+(18)  [serve_IN]  <VBD_IN> {served alongside }
+(10)  [previously_VBN]  <RB_VBN> {previously served }
+(10)  [serve]  <RB_VBN> {also served }
+
+dbo:residence
+(95)  [member_IN]  <NN_IN> {member of }
+(82)  [serve_NN]  <VBD_NN> {served deputy }
+(79)  [represent]  <VBN> {represented }
+(54)  [serve_IN]  <VBD_IN> {served alongside }
+(51)  [elect_TO]  <VBN_TO> {elected to }
+(46)  [represent_JJ]  <VBZ_JJ> {represents 14th }
+(44)  [serve]  <RB_VBN> {also served }
+(36)  [bear_IN]  <VBN_IN> {born in }
+(27)  [die_IN]  <VBD_IN> {died on }
+(27)  [move_TO]  <VBN_TO> {moved to }
+
+dbo:restingPlace
+(15)  [move_TO]  <VBN_TO> {moved to }
+(15)  [serve_NN]  <VBD_NN> {served deputy }
+
+dbo:successor
+(60)  [defeat_IN]  <VBN_IN> {defeated by }
+(26)  [succeed_IN]  <VBN_IN> {succeeded by }
+
+dbp:after
+(24)  [defeat_IN]  <VBN_IN> {defeated by }
+
+dbp:before
+(10)  [defeat_IN]  <VBN_IN> {defeated by }
+
+dbp:electorate
+(46)  [represent]  <VBN> {represented }
+
+dbp:honorificSuffix
+(26)  [liberal]  <JJ> {liberal }
+
+dbp:parliament
+(12)  [elect_TO]  <VBN_TO> {elected to }
+
+dbp:predecessor
+(18)  [first_VBN]  <RB_VBN> {first served }
+(15)  [defeat_IN]  <VBN_IN> {defeated by }
+(12)  [succeed]  <VBD> {succeeded }
+
+dbp:state
+(12)  [serve_IN]  <VBD_IN> {served alongside }
+
+dbp:stateDelegate
+(17)  [elect_TO]  <VBN_TO> {elected to }
+
+dbp:stateHouse
+(26)  [serve_IN]  <VBD_IN> {served alongside }
+(13)  [member_IN]  <NN_IN> {member of }
+
+dbp:stateSenate
+(28)  [member_IN]  <NN_IN> {member of }
+(28)  [serve_IN]  <VBD_IN> {served alongside }
+(24)  [elect_TO]  <VBN_TO> {elected to }
+(12)  [currently_VBG]  <RB_VBG> {currently serving }
+(11)  [serve_NN]  <VBD_NN> {served deputy }
+(10)  [previously_VBN]  <RB_VBN> {previously served }
+
+dbp:title
+(168)  [represent]  <VBN> {represented }
+(91)  [serve]  <RB_VBN> {also served }
+(49)  [serve_NN]  <VBD_NN> {served deputy }
+(37)  [elect]  <VBN> {elected }
+(30)  [elect_TO]  <VBN_TO> {elected to }
+(19)  [member_IN]  <NN_IN> {member of }
+(19)  [serve_IN]  <VBD_IN> {served alongside }
+(17)  [appoint]  <VBN> {appointed }
+(16)  [become]  <VBD> {became }
+(16)  [represent_NN]  <VBN_NN> {represented town }

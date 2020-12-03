@@ -1,6 +1,0 @@
-id=59  property=dbp:premier  
-serve-VBD  multiply=0.006779  P(serve|dbp:premier)=0.201835  P(dbp:premier|serve)=0.033588    
-appoint-VBN  multiply=0.004105  P(appoint|dbp:premier)=0.06422  P(dbp:premier|appoint)=0.063927    
-remain-VBD  multiply=0.001424  P(remain|dbp:premier)=0.013761  P(dbp:premier|remain)=0.103448    
-minister-NN  multiply=8.63E-4  P(minister|dbp:premier)=0.018349  P(dbp:premier|minister)=0.047059    
-

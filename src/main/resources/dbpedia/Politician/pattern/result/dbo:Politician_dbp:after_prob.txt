@@ -1,12 +1,3 @@
-id=33  property=dbp:after  
-elect-VBN  multiply=0.025635  P(elect|dbp:after)=0.10003  P(dbp:after|elect)=0.256274    
-reelect-VBN  multiply=0.024566  P(reelect|dbp:after)=0.097061  P(dbp:after|reelect)=0.253096    
-serve-VBD  multiply=0.024228  P(serve|dbp:after)=0.097061  P(dbp:after|serve)=0.249618    
-appoint-VBN  multiply=0.007829  P(appoint|dbp:after)=0.022559  P(dbp:after|appoint)=0.347032    
-member-NN  multiply=0.007765  P(member|dbp:after)=0.038587  P(dbp:after|member)=0.201238    
-stand-VBD  multiply=0.006803  P(stand|dbp:after)=0.011279  P(dbp:after|stand)=0.603175    
-son-NN  multiply=0.0047  P(son|dbp:after)=0.010092  P(dbp:after|son)=0.465753    
-hold-VBN  multiply=0.004092  P(hold|dbp:after)=0.010686  P(dbp:after|hold)=0.382979    
-marry-VBN  multiply=0.003947  P(marry|dbp:after)=0.009498  P(dbp:after|marry)=0.415584    
-lose-VBN  multiply=0.00358  P(lose|dbp:after)=0.008311  P(dbp:after|lose)=0.430769    
+id=12  property=dbp:after  
+defeat_IN  VBN_INmultiply=3.96E-4  P(defeat_IN|dbp:after)=5.94E-4  P(dbp:after|defeat_IN)=0.666667    
 

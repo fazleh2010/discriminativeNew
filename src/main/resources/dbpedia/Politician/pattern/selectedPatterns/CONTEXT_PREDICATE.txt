@@ -1,0 +1,3707 @@
+
+accept_visit
+(2)  dbo:nationality
+
+act
+(2)  dbp:title
+
+active_in
+(2)  dbp:title
+
+active_member
+(2)  dbo:residence
+
+activist_member
+(2)  dbo:party
+
+adjunct_instructor
+(2)  dbo:residence
+
+admit_to
+(4)  dbo:birthPlace
+(4)  dbo:residence
+(3)  dbo:deathPlace
+(2)  dbo:restingPlace
+
+advocate_in
+(2)  dbo:residence
+
+affectionately_know
+(2)  dbo:region
+
+again_appoint
+(2)  dbo:nationality
+
+again_elect
+(2)  dbo:region
+
+again_indict
+(2)  dbo:deathPlace
+
+alderman
+(2)  dbo:deathPlace
+(2)  dbo:nationality
+
+alderman_on
+(4)  dbo:deathPlace
+
+align_his
+(2)  dbo:residence
+
+also
+(5)  dbo:occupation
+(5)  dbp:title
+(4)  dbo:profession
+(4)  dbp:honorificSuffix
+(4)  dbp:occupation
+(4)  dbp:state
+(3)  dbo:nationality
+(2)  dbo:birthPlace
+(2)  dbo:region
+(2)  dbp:field
+
+alternate_delegate
+(2)  dbo:party
+
+alumnus_of
+(3)  dbo:almaMater
+
+ambassador
+(2)  dbo:nationality
+
+among_four
+(2)  dbp:origin
+
+among_organizer
+(2)  dbo:deathPlace
+
+announce_his
+(2)  dbo:party
+
+announce_in
+(2)  dbo:birthPlace
+(2)  dbo:residence
+
+announce_pronoun
+(6)  dbo:party
+
+appoint
+(17)  dbp:title
+(8)  dbp:honorificSuffix
+(6)  dbo:party
+(3)  dbo:deathPlace
+(2)  dbo:birthPlace
+(2)  dbo:country
+(2)  dbo:nationality
+(2)  dbo:residence
+
+appoint_agent
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+appoint_by
+(3)  dbo:party
+(2)  dbo:country
+(2)  dbo:residence
+(2)  dbp:after
+(2)  dbp:appointed
+(2)  dbp:predecessor
+
+appoint_chairman
+(2)  dbo:birthPlace
+
+appoint_collector
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+appoint_corporation
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+appoint_director
+(2)  dbo:birthPlace
+(2)  dbo:residence
+
+appoint_judge
+(2)  dbo:deathPlace
+
+appoint_lord
+(2)  dbp:title
+
+appoint_minister
+(3)  dbo:birthPlace
+(3)  dbo:nationality
+(3)  dbo:party
+(3)  dbo:primeMinister
+(2)  dbp:premier
+
+appoint_official
+(2)  dbo:residence
+
+appoint_shadow
+(2)  dbo:party
+
+appoint_special
+(2)  dbo:nationality
+(2)  dbo:residence
+
+appoint_to
+(15)  dbo:party
+(13)  dbo:residence
+(9)  dbo:birthPlace
+(6)  dbo:deathPlace
+(6)  dbp:title
+(4)  dbp:before
+(3)  dbo:region
+(3)  dbp:appointed
+(2)  dbo:country
+(2)  dbp:leader
+
+appoint_town
+(2)  dbo:residence
+
+apprentice_druggist
+(2)  dbo:residence
+
+arrive_in
+(2)  dbo:deathPlace
+(2)  dbp:predecessor
+
+assassinate_in
+(2)  dbo:deathPlace
+
+assume_by
+(3)  dbo:country
+
+assume_office
+(2)  dbo:predecessor
+(2)  dbp:before
+
+assume_role
+(2)  dbp:predecessor
+
+attend
+(8)  dbo:almaMater
+(4)  dbo:birthPlace
+(4)  dbo:region
+(3)  dbo:residence
+(2)  dbp:stateSenate
+
+attend_brassall
+(2)  dbo:deathPlace
+
+attend_dalhousie
+(4)  dbo:occupation
+
+attend_public
+(2)  dbo:deathPlace
+
+attend_state
+(2)  dbo:deathPlace
+(2)  dbo:occupation
+
+attend_university
+(2)  dbo:residence
+
+author
+(2)  dbo:birthPlace
+
+author_numerous
+(2)  dbp:stateAssembly
+
+author_of
+(2)  dbo:region
+
+award_life
+(2)  dbo:restingPlace
+
+award_rhodes
+(2)  dbo:restingPlace
+
+barexaminer_for
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+barlow_smith
+(2)  dbo:deathPlace
+
+be_at
+(2)  dbp:state
+
+be_perhaps
+(2)  dbo:residence
+(2)  dbp:title
+
+bear_18
+(2)  dbo:nationality
+(2)  dbo:residence
+
+bear_4
+(2)  dbo:residence
+
+bear_at
+(18)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+bear_august
+(3)  dbo:birthPlace
+
+bear_currently
+(2)  dbo:residence
+
+bear_educate
+(2)  dbo:birthPlace
+
+bear_february
+(2)  dbo:birthPlace
+
+bear_in
+(404)  dbo:birthPlace
+(92)  dbo:deathPlace
+(31)  dbo:residence
+(9)  dbo:nationality
+(9)  dbp:title
+(8)  dbo:country
+(7)  dbo:party
+(6)  dbo:region
+(6)  dbo:restingPlace
+(2)  dbp:education
+
+bear_into
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+bear_joanne
+(2)  dbo:residence
+
+bear_june
+(2)  dbo:birthPlace
+(2)  dbo:residence
+(2)  dbp:stateSenate
+
+bear_march
+(2)  dbp:stateSenate
+
+bear_may
+(2)  dbo:birthPlace
+
+bear_near
+(2)  dbo:birthPlace
+
+bear_october
+(2)  dbp:stateSenate
+
+bear_on
+(17)  dbo:birthPlace
+(4)  dbo:deathPlace
+(4)  dbo:residence
+(2)  dbo:restingPlace
+
+bear_raise
+(5)  dbo:birthPlace
+(5)  dbo:residence
+(2)  dbo:region
+
+bear_robert
+(2)  dbo:deathPlace
+
+bear_to
+(6)  dbo:birthPlace
+(2)  dbo:residence
+
+beat_out
+(2)  dbp:predecessor
+
+become
+(16)  dbp:title
+(9)  dbo:party
+(6)  dbo:deathPlace
+(6)  dbo:occupation
+(3)  dbo:birthPlace
+(2)  dbp:honorificPrefix
+(2)  dbp:honorificSuffix
+
+become_2
+(2)  dbo:nationality
+(2)  dbo:restingPlace
+
+become_3
+(2)  dbo:birthPlace
+
+become_brewery
+(2)  dbo:deathPlace
+
+become_chairman
+(2)  dbo:nationality
+(2)  dbo:restingPlace
+
+become_cochairman
+(2)  dbo:party
+
+become_diplomat
+(2)  dbp:title
+
+become_director
+(2)  dbo:residence
+
+become_elect
+(2)  dbp:predecessor
+
+become_embroil
+(2)  dbp:stateSenate
+
+become_executive
+(2)  dbp:honorificSuffix
+(2)  dbp:predecessor
+
+become_fellow
+(2)  dbo:country
+
+become_first
+(5)  dbo:residence
+(3)  dbo:birthPlace
+(3)  dbp:title
+(2)  dbo:country
+(2)  dbo:deathPlace
+(2)  dbo:party
+
+become_involve
+(5)  dbo:country
+(3)  dbo:party
+(2)  dbo:nationality
+(2)  dbp:title
+
+become_lead
+(3)  dbo:party
+
+become_leader
+(8)  dbo:party
+(2)  dbp:title
+
+become_mayor
+(3)  dbo:deathPlace
+
+become_one
+(2)  dbp:title
+
+become_president
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:party
+
+become_prominent
+(2)  dbp:title
+
+become_rector
+(2)  dbo:deathPlace
+
+become_secretary
+(2)  dbo:deathPlace
+
+become_state
+(2)  dbo:party
+
+become_subject
+(2)  dbo:primeMinister
+
+become_trustee
+(2)  dbo:residence
+
+become_young
+(2)  dbo:birthPlace
+
+begin_date
+(2)  dbo:deathPlace
+
+begin_his
+(4)  dbo:deathPlace
+(4)  dbo:residence
+(2)  dbo:region
+(2)  dbo:restingPlace
+
+belong_to
+(20)  dbo:party
+(4)  dbo:birthPlace
+(3)  dbo:deathPlace
+(2)  dbo:nationality
+(2)  dbo:residence
+(2)  dbo:stateOfOrigin
+
+benefit_from
+(2)  dbo:deathPlace
+
+berkeley_californi
+(2)  dbo:residence
+
+best_know
+(2)  dbo:occupation
+(2)  dbo:party
+(2)  dbo:residence
+(2)  dbp:title
+
+best_remember
+(3)  dbo:party
+
+besuchte_bis
+(2)  dbp:state
+
+box_with
+(2)  dbo:deathPlace
+
+branch_secretary
+(2)  dbo:country
+
+break_with
+(2)  dbo:party
+
+briefly_serve
+(3)  dbo:party
+(2)  dbo:deathPlace
+(2)  dbp:stateSenate
+
+brother_of
+(2)  dbo:party
+(2)  dbo:residence
+
+bury_at
+(2)  dbo:deathPlace
+(2)  dbp:title
+
+bury_in
+(6)  dbo:deathPlace
+(4)  dbo:residence
+(3)  dbo:restingPlace
+(2)  dbo:birthPlace
+
+bury_week
+(2)  dbo:restingPlace
+(2)  dbp:title
+
+buy_for
+(2)  dbo:residence
+
+cabinet_minister
+(2)  dbo:nationality
+(2)  dbo:party
+
+caens_first
+(2)  dbo:successor
+
+call_to
+(3)  dbo:deathPlace
+(2)  dbo:birthPlace
+(2)  dbo:nationality
+
+calls_himself
+(2)  dbp:stateSenate
+
+can_premier
+(2)  dbo:deathPlace
+
+candidate
+(2)  dbo:country
+
+candidate_for
+(6)  dbo:party
+(5)  dbo:country
+(3)  dbo:birthPlace
+(3)  dbo:residence
+
+candidate_in
+(2)  dbp:state
+(2)  dbp:stateSenate
+
+captain_in
+(2)  dbo:country
+
+cashier
+(2)  dbo:residence
+
+caucus_with
+(3)  dbo:party
+
+cause_controversy
+(2)  dbo:party
+
+chair_of
+(9)  dbo:residence
+(2)  dbo:birthPlace
+(2)  dbo:nationality
+(2)  dbp:stateAssembly
+(2)  dbp:title
+
+chairman
+(3)  dbo:region
+(2)  dbo:birthPlace
+(2)  dbo:country
+(2)  dbp:district
+
+chairman_of
+(8)  dbo:country
+(7)  dbo:party
+(5)  dbp:title
+(4)  dbo:birthPlace
+(4)  dbo:deathPlace
+(3)  dbo:residence
+(2)  dbo:region
+
+chairs
+(2)  dbo:residence
+
+chief_minister
+(2)  dbo:birthPlace
+
+chief_of
+(2)  dbo:nationality
+
+chinese_pinyin
+(2)  dbp:occupation
+
+choose_to
+(2)  dbp:title
+
+city_councillor
+(4)  dbo:residence
+
+cochair_of
+(2)  dbo:birthPlace
+(2)  dbo:residence
+
+cofounded
+(2)  dbo:party
+
+cofounder_of
+(3)  dbo:residence
+
+colonel_in
+(2)  dbo:country
+
+come_from
+(3)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+come_out
+(2)  dbo:residence
+
+come_to
+(9)  dbo:residence
+(5)  dbo:restingPlace
+(4)  dbo:deathPlace
+(3)  dbp:title
+(2)  dbo:birthPlace
+(2)  dbp:parliament
+
+committed_suicide
+(2)  dbo:deathPlace
+
+complete_his
+(2)  dbo:almaMater
+
+complete_significant
+(2)  dbo:successor
+(2)  dbp:after
+
+congressional_field
+(2)  dbo:deathPlace
+
+congressman_represent
+(4)  dbp:state
+(2)  dbo:region
+
+conservative_member
+(2)  dbo:party
+
+consider_mentor
+(2)  dbo:deathPlace
+
+consider_to
+(5)  dbo:deathPlace
+
+contest
+(4)  dbo:region
+(2)  dbo:party
+(2)  dbp:homeTown
+(2)  dbp:title
+
+contest_2001
+(2)  dbo:party
+
+contest_belper
+(2)  dbp:before
+
+contest_election
+(3)  dbo:party
+
+contest_in
+(2)  dbo:residence
+
+contest_malaysia
+(2)  dbo:region
+
+contest_seat
+(2)  dbo:party
+
+continue_to
+(3)  dbo:birthPlace
+(2)  dbo:residence
+(2)  dbo:successor
+(2)  dbp:title
+
+contribute
+(4)  dbo:deathPlace
+(2)  dbo:birthPlace
+
+contribute_to
+(2)  dbp:title
+
+convener_of
+(2)  dbo:party
+
+coordinator_of
+(2)  dbo:nationality
+
+councillor_in
+(2)  dbo:birthPlace
+(2)  dbo:residence
+
+create
+(8)  dbp:title
+
+create_baronet
+(2)  dbp:title
+
+credit_with
+(2)  dbo:deathPlace
+
+criticise
+(2)  dbo:primeMinister
+
+current_mayor
+(2)  dbo:birthPlace
+
+current_member
+(2)  dbp:parliament
+
+currently
+(3)  dbo:party
+(3)  dbo:residence
+(3)  dbp:honorificSuffix
+(2)  dbo:birthPlace
+
+currently_chairman
+(2)  dbo:birthPlace
+(2)  dbo:region
+(2)  dbo:residence
+
+currently_chairperson
+(2)  dbo:party
+
+currently_chairs
+(2)  dbo:residence
+
+currently_judge
+(2)  dbo:residence
+
+currently_live
+(2)  dbo:residence
+
+currently_member
+(2)  dbo:birthPlace
+(2)  dbo:occupation
+(2)  dbo:residence
+
+currently_president
+(3)  dbo:party
+(2)  dbo:residence
+
+currently_represent
+(5)  dbo:residence
+(4)  dbo:birthPlace
+(4)  dbo:region
+(4)  dbp:state
+(2)  dbp:stateDelegate
+(2)  dbp:stateSenate
+
+currently_reside
+(4)  dbo:residence
+
+currently_serve
+(17)  dbp:stateSenate
+(12)  dbo:birthPlace
+(11)  dbo:region
+(9)  dbp:stateDelegate
+(7)  dbo:residence
+(4)  dbo:party
+(2)  dbo:almaMater
+(2)  dbo:country
+(2)  dbp:state
+(2)  dbp:stateHouse
+
+currently_work
+(2)  dbo:birthPlace
+
+currently_young
+(2)  dbo:residence
+(2)  dbp:stateSenate
+
+deacon_of
+(2)  dbo:residence
+
+decide_to
+(2)  dbo:residence
+
+declare_his
+(2)  dbo:residence
+
+defeat
+(5)  dbo:party
+
+defeat_at
+(8)  dbp:after
+(8)  dbp:before
+(2)  dbo:country
+(2)  dbo:successor
+
+defeat_by
+(38)  dbo:successor
+(9)  dbp:after
+(8)  dbo:party
+(7)  dbp:predecessor
+(6)  dbo:nationality
+(3)  dbo:birthPlace
+(3)  dbp:state
+(2)  dbo:residence
+
+defeat_for
+(4)  dbp:after
+(4)  dbp:succeeded
+(2)  dbo:deathPlace
+(2)  dbo:successor
+
+defeat_from
+(2)  dbo:residence
+
+defeat_in
+(18)  dbo:successor
+(8)  dbp:predecessor
+(4)  dbo:party
+(3)  dbp:after
+(2)  dbo:nationality
+(2)  dbp:before
+(2)  dbp:stateAssembly
+
+defeat_incumbent
+(3)  dbo:party
+(3)  dbp:predecessor
+
+defeat_labor
+(2)  dbp:predecessor
+
+defeat_liberal
+(2)  dbo:residence
+
+defeat_new
+(2)  dbp:predecessor
+
+defeat_ojing
+(2)  dbo:residence
+
+defeat_republican
+(2)  dbp:after
+
+defeat_ropata
+(2)  dbp:title
+
+defeat_seven
+(2)  dbp:predecessor
+
+degree_from
+(2)  dbp:stateHouse
+
+delegate_to
+(6)  dbo:restingPlace
+(5)  dbo:residence
+(4)  dbo:party
+(3)  dbo:birthPlace
+(3)  dbo:country
+(2)  dbo:region
+
+democrat_serve
+(2)  dbo:country
+
+democratic_state
+(2)  dbo:residence
+
+depose_chairman
+(2)  dbp:title
+
+deputy
+(3)  dbo:residence
+
+deputy_minister
+(2)  dbo:primeMinister
+
+deputy_of
+(6)  dbp:title
+
+deputy_prime
+(3)  dbo:primeMinister
+(2)  dbo:birthPlace
+
+deputy_speaker
+(2)  dbp:stateDelegate
+
+descendant_of
+(2)  dbo:nationality
+(2)  dbo:residence
+
+die
+(2)  dbp:years
+
+die_84
+(2)  dbo:deathPlace
+
+die_after
+(3)  dbo:deathPlace
+
+die_aged
+(2)  dbo:deathPlace
+
+die_at
+(42)  dbo:deathPlace
+(7)  dbo:country
+(6)  dbo:residence
+(4)  dbo:nationality
+(2)  dbo:birthPlace
+(2)  dbo:restingPlace
+(2)  dbo:stateOfOrigin
+
+die_in
+(108)  dbo:deathPlace
+(19)  dbo:residence
+(15)  dbo:birthPlace
+(5)  dbo:nationality
+(5)  dbo:restingPlace
+(3)  dbo:country
+(3)  dbp:title
+
+die_may
+(2)  dbo:residence
+
+die_november
+(2)  dbo:deathPlace
+
+die_of
+(10)  dbo:deathPlace
+(3)  dbo:country
+
+die_on
+(23)  dbo:deathPlace
+(2)  dbo:birthPlace
+(2)  dbo:residence
+(2)  dbp:title
+
+die_september
+(2)  dbo:region
+
+die_suddenly
+(4)  dbo:deathPlace
+
+die_surround
+(2)  dbo:residence
+
+director
+(2)  dbo:party
+(2)  dbo:residence
+
+director_of
+(4)  dbo:birthPlace
+(3)  dbo:country
+(2)  dbo:residence
+
+director_on
+(2)  dbo:deathPlace
+(2)  dbo:restingPlace
+
+donate_his
+(2)  dbo:deathPlace
+
+draw_homelot
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+drop_from
+(2)  dbo:party
+
+earn_bachelor
+(2)  dbp:stateSenate
+
+earn_degree
+(3)  dbo:almaMater
+
+earn_her
+(3)  dbo:almaMater
+
+earn_his
+(2)  dbo:almaMater
+(2)  dbo:deathPlace
+
+educate_at
+(19)  dbo:birthPlace
+(19)  dbo:country
+(18)  dbo:almaMater
+(2)  dbo:occupation
+(2)  dbo:residence
+
+educate_in
+(4)  dbo:birthPlace
+(4)  dbo:deathPlace
+
+either_attend
+(2)  dbo:deathPlace
+
+eldest_son
+(2)  dbp:placeOfBirth
+(2)  dbp:predecessor
+
+elect
+(37)  dbp:title
+(22)  dbo:party
+(7)  dbo:birthPlace
+(5)  dbo:residence
+(5)  dbp:honorificSuffix
+(4)  dbo:country
+(4)  dbo:region
+(3)  dbo:occupation
+(3)  dbp:profession
+(2)  dbo:deathPlace
+
+elect_again
+(2)  dbo:party
+(2)  dbp:predecessor
+
+elect_at
+(58)  dbo:country
+(4)  dbo:nationality
+(4)  dbp:before
+(2)  dbo:party
+(2)  dbp:after
+
+elect_begin
+(2)  dbo:residence
+
+elect_burgess
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+elect_by
+(4)  dbp:stateHouse
+
+elect_chairman
+(2)  dbo:party
+
+elect_first
+(2)  dbo:birthPlace
+
+elect_for
+(2)  dbo:birthPlace
+(2)  dbo:region
+(2)  dbp:before
+
+elect_from
+(4)  dbo:nationality
+(2)  dbo:party
+
+elect_in
+(12)  dbo:party
+(8)  dbp:predecessor
+(5)  dbo:region
+(4)  dbp:title
+(3)  dbo:birthPlace
+(2)  dbo:nationality
+(2)  dbp:before
+(2)  dbp:constituencyMp
+(2)  dbp:stateDelegate
+(2)  dbp:stateHouse
+
+elect_judge
+(2)  dbo:restingPlace
+
+elect_labour
+(2)  dbo:country
+
+elect_leader
+(3)  dbo:party
+(2)  dbp:title
+
+elect_liberal
+(7)  dbo:country
+(2)  dbp:title
+
+elect_mayor
+(7)  dbo:residence
+(5)  dbo:deathPlace
+(2)  dbo:birthPlace
+(2)  dbp:predecessor
+(2)  dbp:title
+
+elect_member
+(106)  dbo:country
+(10)  dbo:party
+(5)  dbo:birthPlace
+(5)  dbo:nationality
+(5)  dbo:residence
+(4)  dbo:deathPlace
+(3)  dbo:region
+(2)  dbp:citizenship
+(2)  dbp:with
+
+elect_mla
+(2)  dbo:party
+
+elect_on
+(3)  dbo:party
+(2)  dbo:residence
+
+elect_one
+(3)  dbo:country
+
+elect_president
+(4)  dbo:birthPlace
+(3)  dbo:deathPlace
+(3)  dbo:party
+(2)  dbo:nationality
+(2)  dbo:residence
+(2)  dbp:title
+
+elect_regional
+(2)  dbo:residence
+
+elect_serve
+(2)  dbo:deathPlace
+
+elect_states
+(2)  dbo:deathPlace
+
+elect_to
+(403)  dbo:party
+(95)  dbo:birthPlace
+(62)  dbo:region
+(51)  dbo:residence
+(37)  dbo:nationality
+(33)  dbo:deathPlace
+(32)  dbo:country
+(30)  dbp:title
+(24)  dbp:stateSenate
+(17)  dbp:stateDelegate
+
+elect_trustee
+(2)  dbo:residence
+
+elect_unopposed
+(11)  dbo:country
+(2)  dbo:deathPlace
+(2)  dbp:leader
+
+elect_vice
+(2)  dbo:party
+
+elude_imprisonment
+(2)  dbo:restingPlace
+
+employ_associate
+(2)  dbo:profession
+
+employ_by
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:nationality
+
+enact
+(2)  dbp:state
+
+endorse
+(3)  dbo:party
+(2)  dbo:residence
+
+endorse_by
+(2)  dbo:residence
+
+engage_in
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+engineer_with
+(2)  dbo:residence
+
+enlist_in
+(2)  dbo:country
+
+enter
+(3)  dbo:country
+(2)  dbo:occupation
+(2)  dbp:honorificSuffix
+
+enter_house
+(2)  dbp:electorate
+(2)  dbp:title
+
+enter_local
+(2)  dbo:country
+
+enter_parliament
+(2)  dbp:before
+
+enter_politics
+(2)  dbo:party
+
+enter_provincial
+(3)  dbp:predecessor
+
+establish
+(5)  dbo:residence
+
+establish_new
+(2)  dbp:title
+
+established_stage
+(2)  dbp:title
+
+eventually_attain
+(2)  dbo:deathPlace
+
+evolve_into
+(4)  dbp:state
+
+exdirector_of
+(2)  dbo:residence
+
+executive
+(2)  dbo:birthPlace
+(2)  dbo:nationality
+
+expand_high
+(2)  dbo:successor
+(2)  dbp:after
+
+expel_from
+(5)  dbo:party
+
+face_disciplinary
+(2)  dbo:occupation
+
+face_prejudice
+(2)  dbo:residence
+
+fail_to
+(2)  dbo:party
+
+famous_for
+(2)  dbo:deathPlace
+
+father_of
+(6)  dbo:child
+
+federal
+(2)  dbp:honorificSuffix
+
+fellow
+(2)  dbo:country
+
+fellow_of
+(2)  dbo:country
+
+fight_with
+(2)  dbp:state
+
+finish_in
+(2)  dbo:party
+(2)  dbp:title
+
+first
+(10)  dbo:party
+(7)  dbp:title
+(5)  dbo:birthPlace
+(2)  dbo:country
+(2)  dbo:region
+(2)  dbp:deathPlace
+(2)  dbp:honorificSuffix
+
+first_african
+(2)  dbo:residence
+(2)  dbp:stateSenate
+
+first_africanamerican
+(2)  dbp:stateSenate
+
+first_announce
+(2)  dbp:predecessor
+
+first_asian
+(3)  dbo:residence
+(2)  dbo:region
+(2)  dbp:stateSenate
+
+first_become
+(2)  dbp:before
+
+first_cousin
+(2)  dbo:deathPlace
+
+first_director
+(2)  dbo:deathPlace
+
+first_dominicanamerican
+(2)  dbo:militaryUnit
+
+first_elect
+(25)  dbo:party
+(23)  dbo:residence
+(20)  dbo:birthPlace
+(12)  dbp:predecessor
+(10)  dbo:deathPlace
+(8)  dbo:country
+(6)  dbo:region
+(6)  dbp:before
+(5)  dbp:honorificSuffix
+(5)  dbp:title
+
+first_englishman
+(2)  dbp:title
+
+first_enter
+(2)  dbo:deathPlace
+(2)  dbo:region
+
+first_female
+(2)  dbp:title
+
+first_join
+(2)  dbo:deathPlace
+
+first_of
+(2)  dbo:deathPlace
+
+first_person
+(4)  dbo:party
+(2)  dbo:restingPlace
+
+first_run
+(3)  dbo:residence
+
+first_stand
+(3)  dbo:country
+
+first_to
+(2)  dbp:title
+
+first_win
+(2)  dbp:after
+(2)  dbp:predecessor
+
+first_woman
+(4)  dbo:residence
+(3)  dbo:birthPlace
+(2)  dbp:title
+
+firstly_join
+(2)  dbo:country
+
+five
+(2)  dbo:residence
+
+follow_proper
+(2)  dbo:residence
+
+force_to
+(2)  dbo:restingPlace
+
+form
+(2)  dbo:party
+
+form_partnership
+(2)  dbo:deathPlace
+
+former
+(8)  dbo:region
+(6)  dbo:birthPlace
+(6)  dbo:residence
+(5)  dbo:party
+(3)  dbo:occupation
+(3)  dbp:occupation
+(2)  dbo:deathPlace
+(2)  dbo:orderInOffice
+(2)  dbp:honorificSuffix
+(2)  dbp:state
+
+former_district
+(2)  dbo:residence
+
+former_leader
+(2)  dbo:party
+
+former_member
+(4)  dbo:birthPlace
+(4)  dbo:residence
+(3)  dbo:party
+(3)  dbp:state
+(2)  dbo:region
+
+former_president
+(2)  dbo:residence
+
+former_threeterm
+(2)  dbo:residence
+
+former_vicechair
+(2)  dbo:residence
+(2)  dbp:state
+
+formerly_councilman
+(2)  dbp:title
+
+formerly_independent
+(2)  dbp:title
+
+found
+(5)  dbo:residence
+(3)  dbo:restingPlace
+(2)  dbo:deathPlace
+
+found_christian
+(2)  dbo:residence
+
+found_member
+(5)  dbo:party
+(4)  dbo:deathPlace
+(4)  dbp:title
+(3)  dbo:residence
+(2)  dbo:birthPlace
+
+founder_editor
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+founder_of
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+four_son
+(2)  dbp:birthPlace
+
+from
+(4)  dbo:birthPlace
+(4)  dbo:party
+
+garner
+(2)  dbo:birthPlace
+
+general_secretary
+(6)  dbo:nationality
+(5)  dbo:residence
+(4)  dbo:stateOfOrigin
+
+go_on
+(3)  dbo:birthPlace
+(2)  dbo:almaMater
+(2)  dbo:residence
+(2)  dbp:state
+
+go_to
+(3)  dbo:birthPlace
+(3)  dbo:country
+(3)  dbo:residence
+(2)  dbo:nationality
+
+got_elect
+(2)  dbo:residence
+
+government_whip
+(2)  dbo:party
+(2)  dbp:title
+
+governor_henry
+(2)  dbp:title
+
+governor_of
+(2)  dbo:deathPlace
+
+graduate_admit
+(2)  dbo:region
+
+graduate_cum
+(2)  dbo:almaMater
+
+graduate_from
+(17)  dbo:almaMater
+(9)  dbo:deathPlace
+(6)  dbo:birthPlace
+(5)  dbo:residence
+(3)  dbo:country
+(3)  dbo:region
+(2)  dbo:nationality
+(2)  dbo:relation
+
+graduate_in
+(3)  dbo:almaMater
+
+graduate_of
+(5)  dbo:almaMater
+(2)  dbp:stateSenate
+
+graduate_with
+(4)  dbo:almaMater
+
+grandmother_of
+(2)  dbo:stateOfOrigin
+
+grandson_of
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbp:title
+
+grant_hundred
+(2)  dbo:deathPlace
+
+green_party
+(2)  dbp:stateHouse
+
+grow_up
+(6)  dbo:birthPlace
+(4)  dbo:deathPlace
+
+hail_from
+(4)  dbo:birthPlace
+
+hand_over
+(2)  dbo:successor
+(2)  dbp:after
+
+head
+(2)  dbo:birthPlace
+
+heerenveen_2
+(2)  dbo:nationality
+
+held_national
+(2)  dbo:nationality
+
+held_seat
+(9)  dbp:after
+(3)  dbo:party
+(3)  dbo:successor
+(2)  dbp:before
+
+helped_establish
+(2)  dbo:deathPlace
+
+helped_find
+(2)  dbo:residence
+
+helped_to
+(3)  dbo:residence
+
+her_husband
+(2)  dbo:residence
+
+high
+(2)  dbp:title
+
+high_ranking
+(2)  dbo:residence
+
+hire_speech
+(2)  dbp:stateSenate
+
+his_brother
+(2)  dbo:relation
+
+his_man
+(2)  dbo:residence
+
+his_schooling
+(2)  dbo:residence
+
+his_wife
+(6)  dbo:residence
+(2)  dbo:deathPlace
+(2)  dbo:successor
+
+hold
+(3)  dbo:almaMater
+(3)  dbo:party
+(3)  dbp:title
+
+hold_degree
+(4)  dbo:residence
+
+hold_number
+(2)  dbo:deathPlace
+
+hold_office
+(3)  dbp:title
+
+hold_position
+(2)  dbo:party
+(2)  dbo:religion
+(2)  dbp:after
+(2)  dbp:predecessor
+(2)  dbp:stateSenate
+
+hold_positions
+(2)  dbo:birthPlace
+
+hold_post
+(2)  dbo:country
+
+hold_several
+(3)  dbo:deathPlace
+(3)  dbo:residence
+
+hold_talks
+(2)  dbo:residence
+
+hold_title
+(2)  dbp:stateSenate
+
+hold_top
+(2)  dbo:residence
+
+hold_various
+(2)  dbo:deathPlace
+
+host
+(2)  dbo:residence
+
+immigrate_to
+(2)  dbo:deathPlace
+
+important_leader
+(2)  dbo:deathPlace
+(2)  dbp:homeTown
+
+imprison_for
+(2)  dbp:birthPlace
+
+improve
+(2)  dbo:region
+
+in
+(3)  dbo:party
+(2)  dbp:state
+(2)  dbp:stateSenate
+
+inaugural_president
+(2)  dbo:deathPlace
+
+increase_slightly
+(2)  dbp:before
+
+incumbent_minister
+(2)  dbo:hometown
+
+independent_member
+(2)  dbp:honorificSuffix
+
+induct_into
+(4)  dbp:state
+(2)  dbo:region
+
+influence_henry
+(2)  dbo:residence
+
+informally_know
+(2)  dbo:region
+
+inherit
+(2)  dbp:title
+
+initially_member
+(2)  dbo:party
+
+inspire_by
+(2)  dbo:nationality
+(2)  dbo:residence
+
+instead_run
+(2)  dbo:residence
+
+instrumental_in
+(3)  dbo:deathPlace
+(3)  dbo:residence
+(2)  dbp:deathPlace
+
+intend_to
+(2)  dbo:birthPlace
+
+interested_in
+(2)  dbo:birthPlace
+
+introduce
+(2)  dbo:residence
+
+involve_in
+(5)  dbo:country
+(2)  dbo:deathPlace
+
+issue_challenge
+(2)  dbo:residence
+
+join
+(40)  dbo:party
+(4)  dbo:country
+(4)  dbo:residence
+(3)  dbo:birthPlace
+(3)  dbp:title
+(2)  dbo:nationality
+(2)  dbo:otherParty
+
+join_abc
+(2)  dbo:residence
+
+join_bank
+(2)  dbo:nationality
+
+join_breakaway
+(2)  dbo:party
+
+join_communist
+(2)  dbo:country
+
+join_in
+(2)  dbp:title
+
+join_masters
+(2)  dbo:residence
+
+join_opposition
+(2)  dbo:successor
+
+judge_of
+(4)  dbo:residence
+(4)  dbo:restingPlace
+(3)  dbo:deathPlace
+(2)  dbp:title
+
+junior_high
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+junior_research
+(2)  dbo:restingPlace
+
+kill_at
+(2)  dbo:region
+
+know
+(2)  dbo:birthPlace
+(2)  dbo:party
+
+know_for
+(2)  dbo:deathPlace
+(2)  dbo:party
+(2)  dbo:region
+
+labour_member
+(15)  dbo:country
+
+last
+(4)  dbp:title
+(2)  dbo:party
+
+last_colonial
+(2)  dbp:title
+
+later_attend
+(2)  dbo:almaMater
+(2)  dbo:residence
+
+later_become
+(3)  dbo:party
+(2)  dbp:title
+
+later_join
+(4)  dbo:party
+
+later_move
+(4)  dbo:residence
+(2)  dbo:deathPlace
+
+later_obtain
+(2)  dbo:residence
+
+later_return
+(2)  dbo:deathPlace
+
+later_serve
+(7)  dbo:deathPlace
+(5)  dbo:birthPlace
+(4)  dbp:title
+(3)  dbo:residence
+(2)  dbo:country
+(2)  dbo:party
+
+later_settle
+(2)  dbo:residence
+
+later_work
+(2)  dbo:stateOfOrigin
+
+launch_several
+(2)  dbo:deathPlace
+(2)  dbo:region
+(2)  dbp:state
+
+lead
+(6)  dbo:party
+(2)  dbo:birthPlace
+(2)  dbp:title
+
+lead_figure
+(2)  dbo:deathPlace
+
+lead_first
+(2)  dbo:nationality
+(2)  dbo:residence
+
+lead_liberal
+(2)  dbo:region
+
+leader
+(2)  dbp:title
+
+leader_from
+(2)  dbo:party
+
+leader_of
+(20)  dbo:party
+(2)  dbo:birthPlace
+(2)  dbo:country
+(2)  dbp:title
+
+left
+(10)  dbo:party
+(5)  dbo:birthPlace
+(2)  dbo:country
+
+left_nedre
+(2)  dbo:deathPlace
+
+left_office
+(2)  dbp:party
+
+liberal
+(26)  dbp:honorificSuffix
+
+liberal_member
+(32)  dbo:party
+(9)  dbo:birthPlace
+(7)  dbo:residence
+(2)  dbo:country
+
+life_in
+(8)  dbo:residence
+(5)  dbo:birthPlace
+
+likely_son
+(2)  dbo:deathPlace
+
+list_founding
+(2)  dbo:restingPlace
+
+list_on
+(13)  dbo:residence
+(8)  dbo:restingPlace
+(4)  dbo:deathPlace
+
+live_at
+(2)  dbo:country
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+live_in
+(9)  dbo:residence
+(8)  dbo:deathPlace
+(2)  dbo:birthPlace
+
+local_judge
+(2)  dbo:deathPlace
+
+lok_sabha
+(2)  dbo:nationality
+(2)  dbo:stateOfOrigin
+
+lose
+(3)  dbo:party
+
+lose_election
+(2)  dbp:opponent
+
+lose_his
+(8)  dbo:party
+(6)  dbp:after
+(3)  dbo:birthPlace
+(3)  dbo:otherParty
+(3)  dbo:successor
+(2)  dbo:deathPlace
+(2)  dbo:nationality
+(2)  dbp:title
+
+lose_to
+(4)  dbo:successor
+(4)  dbp:after
+(3)  dbp:predecessor
+(2)  dbo:party
+
+lost_seat
+(3)  dbo:successor
+(3)  dbp:after
+(2)  dbp:before
+
+major_contributor
+(2)  dbo:deathPlace
+
+make
+(4)  dbp:honorificSuffix
+(3)  dbp:title
+
+make_his
+(2)  dbo:country
+(2)  dbo:occupation
+
+make_officer
+(2)  dbo:party
+(2)  dbp:parliament
+(2)  dbp:title
+
+make_racist
+(2)  dbo:deathPlace
+(2)  dbo:nationality
+
+make_several
+(2)  dbo:primeMinister
+
+manage
+(2)  dbo:region
+
+manage_to
+(2)  dbo:region
+
+manager
+(2)  dbo:residence
+
+manager_of
+(2)  dbo:birthPlace
+
+married_caroline
+(2)  dbo:deathPlace
+
+married_evie
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+marry
+(4)  dbo:spouse
+(3)  dbp:predecessor
+(2)  dbo:party
+
+marry_to
+(7)  dbo:spouse
+(4)  dbo:region
+(3)  dbo:birthPlace
+(3)  dbo:party
+(3)  dbo:residence
+(2)  dbp:leader
+(2)  dbp:spouse
+
+mayor_of
+(11)  dbo:birthPlace
+(5)  dbo:residence
+(4)  dbo:deathPlace
+(4)  dbo:party
+(2)  dbo:region
+
+meet
+(2)  dbo:spouse
+
+member
+(9)  dbo:birthPlace
+(7)  dbo:residence
+(6)  dbo:deathPlace
+(6)  dbo:region
+(3)  dbo:country
+(3)  dbo:nationality
+(2)  dbo:party
+(2)  dbo:restingPlace
+
+member_for
+(4)  dbo:deathPlace
+(3)  dbo:region
+(2)  dbo:birthPlace
+(2)  dbo:party
+(2)  dbo:residence
+
+member_of
+(288)  dbo:party
+(93)  dbo:residence
+(81)  dbo:birthPlace
+(79)  dbo:country
+(51)  dbo:deathPlace
+(29)  dbo:nationality
+(28)  dbp:stateSenate
+(26)  dbo:region
+(19)  dbp:title
+(13)  dbp:stateHouse
+
+mention_possible
+(2)  dbo:residence
+
+merge_his
+(2)  dbp:title
+
+migrate_to
+(2)  dbp:nationality
+
+minister
+(2)  dbo:stateOfOrigin
+
+minister_for
+(4)  dbo:birthPlace
+(4)  dbo:party
+(4)  dbp:parliament
+(3)  dbo:residence
+(2)  dbo:nationality
+(2)  dbp:title
+
+minister_in
+(2)  dbo:primeMinister
+(2)  dbp:premier
+
+minister_of
+(28)  dbo:birthPlace
+(11)  dbo:primeMinister
+(7)  dbo:nationality
+(2)  dbo:religion
+(2)  dbo:residence
+
+mla
+(9)  dbo:region
+
+mla_elect
+(2)  dbo:region
+
+mla_from
+(2)  dbo:birthPlace
+(2)  dbo:residence
+
+move_back
+(4)  dbo:residence
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+move_from
+(3)  dbo:residence
+
+move_to
+(32)  dbo:deathPlace
+(27)  dbo:residence
+(16)  dbo:country
+(15)  dbo:restingPlace
+(12)  dbp:title
+(6)  dbo:party
+(5)  dbo:region
+(4)  dbo:birthPlace
+(2)  dbo:nationality
+(2)  dbp:deathPlace
+
+move_with
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+name
+(2)  dbp:title
+
+name_15th
+(2)  dbo:deathPlace
+
+name_one
+(2)  dbo:birthPlace
+
+name_to
+(8)  dbo:deathPlace
+(4)  dbo:residence
+(3)  dbo:birthPlace
+(2)  dbo:nationality
+(2)  dbo:party
+(2)  dbo:stateOfOrigin
+
+namesake_of
+(2)  dbo:residence
+
+narrowly_defeat
+(3)  dbo:party
+(2)  dbo:successor
+
+narrowly_hold
+(3)  dbp:after
+
+narrowly_lose
+(3)  dbp:after
+(2)  dbp:before
+(2)  dbp:predecessor
+
+narrowly_win
+(2)  dbp:after
+(2)  dbp:before
+(2)  dbp:predecessor
+
+national_executive
+(2)  dbo:residence
+
+native_of
+(3)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+nominate_by
+(2)  dbo:party
+(2)  dbo:president
+
+nominate_labour
+(2)  dbp:before
+
+nominate_to
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:nationality
+
+nominee_for
+(2)  dbo:deathPlace
+(2)  dbo:restingPlace
+
+note
+(2)  dbo:deathPlace
+
+obtain_degree
+(2)  dbo:nationality
+
+offer_cabinet
+(2)  dbp:title
+
+old
+(2)  dbp:predecessor
+
+on
+(2)  dbo:residence
+
+on_board
+(4)  dbo:residence
+(2)  dbo:birthPlace
+
+one
+(2)  dbo:party
+
+one_lay
+(2)  dbp:deathPlace
+(2)  dbp:residence
+
+one_of
+(30)  dbo:party
+(18)  dbo:residence
+(8)  dbo:deathPlace
+(7)  dbo:birthPlace
+(5)  dbp:title
+(3)  dbo:restingPlace
+(3)  dbp:stateHouse
+(2)  dbo:nationality
+(2)  dbp:stateSenate
+
+open_general
+(2)  dbo:deathPlace
+
+open_his
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+operate
+(2)  dbp:stateSenate
+
+oppose_chronicle
+(2)  dbo:country
+(2)  dbo:deathPlace
+
+ordain_minister
+(2)  dbo:birthPlace
+(2)  dbo:country
+
+originally_belong
+(2)  dbo:birthPlace
+(2)  dbo:region
+(2)  dbp:homeTown
+
+originally_elect
+(2)  dbo:region
+
+originally_from
+(4)  dbo:birthPlace
+
+outspoken
+(3)  dbp:state
+
+oversee_building
+(2)  dbo:restingPlace
+
+owned_land
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+parliamentary_secretary
+(2)  dbo:party
+
+participate
+(2)  dbo:birthPlace
+
+participate_in
+(3)  dbo:birthPlace
+(3)  dbo:nationality
+(2)  dbp:religion
+
+partner_in
+(3)  dbo:residence
+(2)  dbo:birthPlace
+
+partner_with
+(2)  dbo:restingPlace
+
+pass_private
+(2)  dbo:deathPlace
+
+past_president
+(2)  dbo:region
+
+pay_travel
+(2)  dbo:deathPlace
+
+perceive_rise
+(2)  dbo:deathPlace
+
+place_2
+(2)  dbo:party
+(2)  dbo:predecessor
+(2)  dbo:successor
+
+play
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:nationality
+
+play_critical
+(2)  dbo:deathPlace
+
+play_important
+(2)  dbo:deathPlace
+(2)  dbo:region
+(2)  dbp:state
+
+play_prominent
+(2)  dbo:deathPlace
+
+play_significant
+(2)  dbo:nationality
+(2)  dbo:residence
+(2)  dbp:citizenship
+
+play_with
+(2)  dbo:deathPlace
+
+poll_2
+(2)  dbp:title
+
+practice_dentist
+(2)  dbp:stateSenate
+
+practice_in
+(2)  dbo:deathPlace
+
+practice_law
+(3)  dbo:country
+(2)  dbo:residence
+
+practice_medicine
+(2)  dbo:restingPlace
+
+precede_by
+(2)  dbp:before
+
+presently_chief
+(2)  dbo:nationality
+
+preside_over
+(2)  dbo:party
+
+president
+(5)  dbo:deathPlace
+(3)  dbo:nationality
+(2)  dbo:region
+(2)  dbo:residence
+
+president_of
+(19)  dbo:party
+(17)  dbo:residence
+(12)  dbo:birthPlace
+(7)  dbo:region
+(5)  dbo:deathPlace
+(4)  dbp:homeTown
+(3)  dbo:occupation
+(2)  dbo:country
+(2)  dbo:nationality
+(2)  dbo:restingPlace
+
+presidential_nominee
+(2)  dbo:party
+
+previously
+(6)  dbo:party
+(3)  dbo:occupation
+(2)  dbp:honorificSuffix
+
+previously_elect
+(2)  dbo:birthPlace
+(2)  dbo:region
+(2)  dbo:residence
+(2)  dbp:stateHouse
+
+previously_mayor
+(2)  dbo:residence
+
+previously_member
+(2)  dbp:stateSenate
+
+previously_represent
+(2)  dbo:hometown
+(2)  dbo:residence
+
+previously_run
+(2)  dbo:residence
+
+previously_serve
+(21)  dbo:residence
+(16)  dbo:birthPlace
+(10)  dbp:stateSenate
+(6)  dbo:region
+(6)  dbp:title
+(4)  dbo:deathPlace
+(4)  dbp:state
+(3)  dbo:primeMinister
+(2)  dbp:kingdom
+
+prominent_businessman
+(2)  dbo:residence
+
+prominent_in
+(2)  dbo:residence
+
+promote_to
+(2)  dbp:title
+
+proprietor_of
+(2)  dbo:restingPlace
+
+publish_collection
+(2)  dbo:residence
+
+purchase_provisions
+(2)  dbp:title
+
+qualify_accountant
+(2)  dbo:residence
+
+quit
+(4)  dbo:party
+
+raise_his
+(2)  dbo:deathPlace
+
+raise_in
+(2)  dbo:nationality
+
+raise_to
+(5)  dbp:title
+
+rank_1
+(2)  dbp:title
+
+reach_position
+(2)  dbp:after
+(2)  dbp:before
+
+rebuilt_country
+(2)  dbo:residence
+
+receive
+(3)  dbo:residence
+(2)  dbo:birthPlace
+(2)  dbp:stateSenate
+
+receive_89
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+receive_bachelor
+(2)  dbo:almaMater
+
+receive_bachelors
+(2)  dbp:stateSenate
+
+receive_grant
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+receive_her
+(2)  dbo:residence
+
+receive_his
+(5)  dbo:almaMater
+(5)  dbo:deathPlace
+(4)  dbo:birthPlace
+(4)  dbo:country
+(4)  dbo:residence
+(2)  dbo:region
+(2)  dbp:title
+
+receive_sagamore
+(2)  dbo:residence
+
+receive_teacher
+(2)  dbo:stateOfOrigin
+
+recognize_lead
+(2)  dbp:restingPlace
+
+reelect
+(4)  dbo:orderInOffice
+(2)  dbo:office
+(2)  dbo:party
+
+reelect_at
+(2)  dbo:country
+(2)  dbp:after
+
+reelect_for
+(2)  dbo:residence
+
+reelect_in
+(4)  dbp:after
+(4)  dbp:title
+(3)  dbo:country
+(3)  dbo:successor
+(2)  dbo:birthPlace
+(2)  dbo:party
+(2)  dbo:residence
+(2)  dbp:before
+(2)  dbp:stateSenate
+
+reelect_independent
+(2)  dbo:nationality
+
+reelect_mla
+(2)  dbo:residence
+
+reelect_senator
+(2)  dbp:stateSenate
+
+reelect_to
+(4)  dbo:birthPlace
+(3)  dbo:party
+(3)  dbo:region
+(2)  dbp:house
+(2)  dbp:state
+
+refuse_order
+(2)  dbo:deathPlace
+
+refuse_to
+(2)  dbo:primeMinister
+
+rehabilitate_by
+(2)  dbo:party
+
+rejoin
+(2)  dbo:party
+
+related_to
+(4)  dbp:title
+(2)  dbp:electorate
+
+remain_in
+(5)  dbo:party
+(3)  dbo:deathPlace
+
+remain_member
+(2)  dbo:party
+
+remain_on
+(2)  dbo:successor
+(2)  dbp:premier
+
+remain_young
+(2)  dbo:residence
+
+replace
+(5)  dbp:predecessor
+
+replace_by
+(9)  dbp:after
+(7)  dbo:successor
+(2)  dbp:predecessor
+
+represent
+(168)  dbp:title
+(112)  dbo:region
+(79)  dbo:residence
+(55)  dbo:birthPlace
+(49)  dbo:deathPlace
+(46)  dbp:electorate
+(17)  dbo:party
+(9)  dbp:state
+(6)  dbo:hometown
+(6)  dbp:constituencyMp
+
+represent_124th
+(2)  dbo:residence
+
+represent_19th
+(2)  dbo:residence
+
+represent_argyle
+(2)  dbo:deathPlace
+
+represent_bedfordfall
+(2)  dbo:party
+
+represent_brockville
+(2)  dbo:party
+
+represent_bruce
+(2)  dbo:party
+
+represent_burke
+(2)  dbo:deathPlace
+
+represent_burnabyedmonds
+(2)  dbo:deathPlace
+
+represent_cape
+(3)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+represent_chambly
+(2)  dbo:deathPlace
+
+represent_charlotte
+(3)  dbo:deathPlace
+
+represent_city
+(4)  dbp:title
+(3)  dbp:electorate
+
+represent_cochrane
+(2)  dbo:deathPlace
+
+represent_colchester
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+represent_constituency
+(4)  dbo:region
+(3)  dbo:birthPlace
+(3)  dbo:party
+(2)  dbo:nationality
+(2)  dbo:residence
+
+represent_cumberland
+(2)  dbo:birthPlace
+
+represent_district
+(12)  dbo:residence
+(11)  dbo:region
+(7)  dbo:birthPlace
+(3)  dbo:party
+
+represent_dufferin
+(2)  dbo:party
+
+represent_dundas
+(2)  dbo:residence
+
+represent_durham
+(2)  dbo:party
+
+represent_electoral
+(65)  dbo:party
+(37)  dbo:residence
+(34)  dbo:birthPlace
+(23)  dbo:deathPlace
+(19)  dbo:region
+(4)  dbp:riding
+(2)  dbp:constituencyMp
+(2)  dbp:honorificSuffix
+
+represent_electorate
+(6)  dbp:title
+(4)  dbp:electorate
+
+represent_esquimalt
+(3)  dbo:deathPlace
+
+represent_frontenac
+(2)  dbo:party
+
+represent_gull
+(2)  dbo:party
+
+represent_halifax
+(2)  dbo:party
+
+represent_hants
+(4)  dbo:deathPlace
+(2)  dbo:birthPlace
+
+represent_his
+(2)  dbo:country
+(2)  dbp:constituency
+
+represent_kent
+(2)  dbo:deathPlace
+
+represent_king
+(4)  dbo:deathPlace
+(3)  dbo:birthPlace
+(2)  dbo:party
+
+represent_lambton
+(3)  dbo:party
+
+represent_left
+(2)  dbo:nationality
+(2)  dbo:residence
+
+represent_marylands
+(2)  dbo:residence
+
+represent_melfort
+(2)  dbo:party
+
+represent_new
+(2)  dbo:residence
+
+represent_niagara
+(2)  dbo:party
+
+represent_northeast
+(2)  dbo:residence
+
+represent_northumberland
+(2)  dbo:party
+
+represent_old
+(2)  dbo:deathPlace
+
+represent_pelly
+(8)  dbo:residence
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:party
+
+represent_prince
+(2)  dbo:party
+
+represent_queens
+(4)  dbo:deathPlace
+(2)  dbo:birthPlace
+
+represent_redberry
+(2)  dbo:deathPlace
+
+represent_richmond
+(2)  dbo:birthPlace
+
+represent_ride
+(8)  dbo:residence
+(7)  dbo:birthPlace
+(4)  dbo:region
+(4)  dbp:riding
+(3)  dbo:party
+
+represent_riding
+(7)  dbo:region
+(2)  dbo:party
+
+represent_saanich
+(2)  dbo:party
+
+represent_sahnewal
+(2)  dbo:residence
+
+represent_salmon
+(2)  dbo:deathPlace
+
+represent_shelburne
+(2)  dbo:party
+
+represent_states
+(2)  dbo:country
+
+represent_sunbury
+(6)  dbo:deathPlace
+(4)  dbo:birthPlace
+
+represent_town
+(4)  dbp:title
+
+represent_trurobible
+(2)  dbo:party
+
+represent_vancouverburrard
+(2)  dbo:party
+
+represent_victoria
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+represent_ward
+(2)  dbo:residence
+
+represent_waterloo
+(2)  dbo:party
+
+represent_yalelillooet
+(2)  dbo:party
+
+represent_york
+(2)  dbo:deathPlace
+
+republican
+(2)  dbp:after
+
+republican_candidate
+(2)  dbo:country
+(2)  dbo:nationality
+
+republican_member
+(2)  dbp:stateSenate
+
+reside_at
+(2)  dbo:country
+
+reside_in
+(6)  dbo:residence
+
+resident_of
+(2)  dbp:title
+
+resign
+(4)  dbp:title
+(2)  dbo:party
+
+resign_from
+(20)  dbo:party
+(7)  dbp:title
+(5)  dbo:otherParty
+(3)  dbo:country
+(3)  dbo:residence
+(3)  dbo:successor
+
+resign_his
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbp:predecessor
+
+resign_in
+(3)  dbp:after
+(2)  dbo:residence
+(2)  dbo:successor
+
+resign_mp
+(2)  dbo:party
+
+resign_newly
+(2)  dbp:succeeded
+
+resign_to
+(3)  dbo:party
+(3)  dbo:successor
+(3)  dbp:title
+(2)  dbo:region
+
+responsible_for
+(2)  dbo:deathPlace
+(2)  dbo:party
+
+retain_seat
+(2)  dbo:country
+
+retire
+(2)  dbp:honorificPrefix
+
+retire_from
+(6)  dbo:country
+(5)  dbo:successor
+(4)  dbo:nationality
+(2)  dbo:deathPlace
+(2)  dbo:occupation
+(2)  dbp:title
+
+retire_in
+(4)  dbo:party
+(2)  dbo:birthPlace
+(2)  dbo:nationality
+(2)  dbo:residence
+(2)  dbo:successor
+(2)  dbp:after
+(2)  dbp:predecessor
+
+retire_to
+(2)  dbo:deathPlace
+
+return_home
+(2)  dbo:party
+
+return_to
+(18)  dbo:country
+(12)  dbo:deathPlace
+(9)  dbo:birthPlace
+(8)  dbo:residence
+(5)  dbp:title
+(4)  dbo:party
+(3)  dbo:restingPlace
+(3)  dbp:honorificSuffix
+(2)  dbo:profession
+(2)  dbp:before
+
+rival_his
+(2)  dbo:residence
+
+royalist_in
+(2)  dbo:deathPlace
+
+run
+(8)  dbo:party
+
+run_again
+(3)  dbo:party
+(2)  dbo:birthPlace
+(2)  dbo:successor
+
+run_candidate
+(2)  dbo:party
+
+run_for
+(18)  dbo:party
+(14)  dbo:residence
+(13)  dbo:birthPlace
+(8)  dbo:country
+(7)  dbo:successor
+(5)  dbo:region
+(4)  dbp:stateHouse
+(4)  dbp:stateSenate
+(4)  dbp:title
+(3)  dbp:state
+
+run_in
+(5)  dbo:party
+(3)  dbp:predecessor
+(2)  dbo:residence
+(2)  dbo:successor
+(2)  dbp:stateSenate
+
+run_tourist
+(2)  dbo:residence
+
+run_unsuccessfully
+(8)  dbo:party
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+say_during
+(2)  dbo:residence
+
+scheveningen_26
+(2)  dbo:country
+(2)  dbo:nationality
+(2)  dbo:residence
+
+secretary
+(2)  dbo:party
+(2)  dbp:before
+
+secretary_general
+(2)  dbo:deathPlace
+(2)  dbo:party
+
+secretary_of
+(6)  dbo:party
+
+see_possible
+(2)  dbp:successor
+
+seek
+(4)  dbp:state
+(2)  dbo:party
+(2)  dbo:region
+(2)  dbo:residence
+
+seek_2
+(2)  dbp:after
+
+seek_election
+(2)  dbp:before
+
+seek_for
+(2)  dbo:residence
+
+seek_reelection
+(2)  dbo:party
+
+seek_renomination
+(2)  dbo:deathPlace
+
+select
+(4)  dbo:party
+
+select_by
+(3)  dbo:party
+
+select_leader
+(2)  dbo:residence
+
+select_to
+(2)  dbo:country
+
+selectman_in
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+send_to
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+senior
+(2)  dbo:region
+(2)  dbp:title
+
+seriously_wound
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+serve
+(91)  dbp:title
+(44)  dbo:residence
+(40)  dbo:party
+(33)  dbo:birthPlace
+(30)  dbo:deathPlace
+(12)  dbo:country
+(10)  dbo:region
+(9)  dbo:restingPlace
+(8)  dbo:nationality
+(7)  dbp:honorificSuffix
+
+serve_1988
+(2)  dbp:predecessor
+
+serve_2003
+(2)  dbp:predecessor
+
+serve_3
+(2)  dbo:residence
+
+serve_37th
+(2)  dbo:region
+
+serve_alderman
+(5)  dbo:deathPlace
+(3)  dbo:birthPlace
+(3)  dbo:region
+
+serve_alongside
+(4)  dbo:successor
+(3)  dbo:associate
+(2)  dbo:spouse
+(2)  dbp:predecessor
+(2)  dbp:with
+
+serve_ambassador
+(2)  dbp:before
+
+serve_at
+(2)  dbo:occupation
+
+serve_backbench
+(3)  dbo:party
+
+serve_briefly
+(2)  dbp:title
+
+serve_burgess
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbo:restingPlace
+(2)  dbp:title
+
+serve_cabinet
+(5)  dbp:premier
+(3)  dbo:party
+
+serve_chair
+(3)  dbo:residence
+
+serve_chairman
+(4)  dbp:title
+(2)  dbo:birthPlace
+(2)  dbo:party
+
+serve_chief
+(3)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbp:title
+
+serve_city
+(3)  dbo:residence
+
+serve_clerk
+(2)  dbo:deathPlace
+
+serve_consul
+(2)  dbp:citizenship
+
+serve_cook
+(2)  dbo:region
+
+serve_councillor
+(3)  dbo:country
+
+serve_counsel
+(2)  dbp:stateDelegate
+
+serve_democratic
+(2)  dbo:residence
+
+serve_deputy
+(10)  dbp:title
+(9)  dbo:birthPlace
+(6)  dbo:residence
+(2)  dbo:deathPlace
+(2)  dbo:region
+(2)  dbp:birthPlace
+
+serve_director
+(2)  dbo:deathPlace
+(2)  dbo:restingPlace
+
+serve_editor
+(3)  dbo:deathPlace
+
+serve_eight
+(3)  dbo:deathPlace
+
+serve_first
+(4)  dbp:title
+(3)  dbo:birthPlace
+
+serve_five
+(2)  dbp:stateAssembly
+(2)  dbp:stateSenate
+
+serve_for
+(4)  dbo:residence
+(3)  dbo:country
+(2)  dbo:deathPlace
+(2)  dbo:party
+
+serve_former
+(2)  dbo:residence
+
+serve_from
+(3)  dbo:residence
+(2)  dbo:restingPlace
+(2)  dbp:state
+(2)  dbp:stateHouse
+
+serve_high
+(2)  dbo:country
+
+serve_house
+(2)  dbo:party
+
+serve_human
+(2)  dbo:residence
+
+serve_in
+(61)  dbo:country
+(52)  dbo:party
+(28)  dbo:deathPlace
+(25)  dbp:stateSenate
+(24)  dbo:birthPlace
+(23)  dbp:stateHouse
+(21)  dbo:residence
+(14)  dbo:region
+(13)  dbp:title
+(9)  dbo:nationality
+
+serve_interim
+(2)  dbo:residence
+(2)  dbp:predecessor
+
+serve_judge
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+serve_justice
+(2)  dbo:deathPlace
+(2)  dbo:residence
+(2)  dbo:restingPlace
+
+serve_leader
+(4)  dbo:party
+
+serve_liberal
+(3)  dbo:party
+
+serve_lord
+(4)  dbp:title
+
+serve_mayor
+(8)  dbo:deathPlace
+(8)  dbo:residence
+(6)  dbo:birthPlace
+(4)  dbo:party
+
+serve_member
+(94)  dbo:party
+(40)  dbo:birthPlace
+(35)  dbo:deathPlace
+(19)  dbo:residence
+(12)  dbo:country
+(8)  dbo:region
+(8)  dbp:stateSenate
+(5)  dbp:title
+(4)  dbo:almaMater
+(2)  dbp:parliament
+
+serve_minister
+(14)  dbo:birthPlace
+(3)  dbo:deathPlace
+(3)  dbo:nationality
+(3)  dbo:party
+(3)  dbo:primeMinister
+(3)  dbp:title
+(2)  dbp:birthDate
+
+serve_mla
+(5)  dbo:party
+(4)  dbo:residence
+
+serve_national
+(2)  dbo:party
+
+serve_new
+(2)  dbp:title
+
+serve_on
+(22)  dbo:residence
+(14)  dbo:deathPlace
+(9)  dbo:birthPlace
+(6)  dbo:party
+(4)  dbo:country
+(4)  dbp:title
+(3)  dbo:region
+(3)  dbp:stateSenate
+(2)  dbo:occupation
+(2)  dbo:restingPlace
+
+serve_one
+(3)  dbo:deathPlace
+(3)  dbp:title
+(2)  dbo:birthPlace
+(2)  dbo:restingPlace
+
+serve_parliamentary
+(2)  dbo:deathPlace
+
+serve_president
+(7)  dbo:residence
+(6)  dbo:birthPlace
+(6)  dbo:deathPlace
+(5)  dbo:party
+(3)  dbp:title
+(2)  dbp:birthPlace
+
+serve_pronoun
+(2)  dbo:residence
+
+serve_republican
+(2)  dbp:stateSenate
+
+serve_secretary
+(3)  dbo:party
+(3)  dbo:residence
+(2)  dbp:stateSenate
+
+serve_selectman
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+serve_since
+(2)  dbo:residence
+
+serve_six
+(2)  dbo:country
+
+serve_speaker
+(5)  dbo:birthPlace
+(4)  dbo:deathPlace
+(4)  dbp:state
+(3)  dbp:honorificSuffix
+(3)  dbp:stateHouse
+(2)  dbo:residence
+
+serve_states
+(3)  dbp:title
+
+serve_strathclyde
+(2)  dbp:title
+
+serve_three
+(4)  dbo:deathPlace
+(2)  dbo:birthPlace
+
+serve_town
+(4)  dbo:deathPlace
+(4)  dbo:residence
+(2)  dbo:restingPlace
+(2)  dbp:predecessor
+
+serve_trustee
+(4)  dbo:restingPlace
+(3)  dbo:deathPlace
+(2)  dbo:birthPlace
+
+serve_two
+(4)  dbo:residence
+(3)  dbp:title
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbp:stateHouse
+
+serve_vice
+(3)  dbo:country
+
+serve_warden
+(2)  dbo:deathPlace
+
+serve_with
+(2)  dbo:residence
+
+set_up
+(3)  dbo:residence
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+settle_in
+(7)  dbo:deathPlace
+(4)  dbo:residence
+(2)  dbo:birthPlace
+(2)  dbo:restingPlace
+
+settle_on
+(4)  dbo:residence
+(4)  dbo:restingPlace
+(2)  dbo:deathPlace
+
+sheep_farmer
+(2)  dbo:residence
+
+sheriff_of
+(2)  dbo:nationality
+
+shot_kill
+(2)  dbp:after
+
+sideline_by
+(2)  dbo:country
+(2)  dbo:nationality
+
+sit
+(4)  dbo:party
+(4)  dbp:honorificSuffix
+
+sit_in
+(6)  dbo:party
+(3)  dbo:country
+
+sit_member
+(12)  dbo:party
+(7)  dbo:residence
+(2)  dbo:birthPlace
+(2)  dbo:country
+
+sit_on
+(3)  dbo:birthPlace
+(2)  dbo:nationality
+(2)  dbo:occupation
+(2)  dbo:stateOfOrigin
+
+sit_with
+(4)  dbo:party
+
+slate_to
+(2)  dbo:region
+
+son_of
+(16)  dbo:birthPlace
+(12)  dbo:residence
+(7)  dbo:party
+(6)  dbp:predecessor
+(6)  dbp:title
+(5)  dbo:relation
+(4)  dbo:deathPlace
+(4)  dbo:restingPlace
+(3)  dbo:country
+(3)  dbp:after
+
+special_constable
+(2)  dbo:deathPlace
+
+spend_8
+(2)  dbo:residence
+
+spend_his
+(4)  dbo:residence
+
+spend_three
+(2)  dbp:title
+
+sponsor_by
+(2)  dbo:country
+(2)  dbo:deathPlace
+
+stand
+(8)  dbo:party
+
+stand_against
+(2)  dbp:predecessor
+
+stand_down
+(2)  dbo:country
+
+stand_for
+(11)  dbo:party
+(10)  dbo:country
+(3)  dbo:region
+(2)  dbo:deathPlace
+(2)  dbo:successor
+(2)  dbp:after
+
+stand_national
+(2)  dbo:party
+
+stand_unsuccessfully
+(4)  dbo:country
+(3)  dbo:party
+
+start_his
+(3)  dbo:party
+
+start_practice
+(2)  dbo:region
+(2)  dbo:residence
+
+start_work
+(2)  dbo:country
+
+state_infighting
+(2)  dbp:title
+
+state_minister
+(6)  dbo:birthPlace
+(4)  dbo:primeMinister
+(2)  dbo:residence
+(2)  dbp:citizenship
+
+still_today
+(2)  dbo:deathPlace
+(2)  dbo:region
+
+strong_base
+(2)  dbo:deathPlace
+
+student_of
+(2)  dbo:residence
+(2)  dbp:citizenship
+
+study_at
+(4)  dbo:almaMater
+(2)  dbo:country
+(2)  dbo:party
+
+study_for
+(2)  dbo:deathPlace
+
+study_law
+(2)  dbo:almaMater
+(2)  dbo:country
+
+subsequently_appoint
+(2)  dbo:deathPlace
+
+subsequently_resign
+(2)  dbp:stateSenate
+
+subsequently_serve
+(2)  dbo:party
+
+succeed
+(12)  dbp:predecessor
+(2)  dbo:predecessor
+(2)  dbp:before
+(2)  dbp:title
+
+succeed_by
+(23)  dbo:successor
+(3)  dbp:after
+(3)  dbp:before
+(3)  dbp:title
+(2)  dbo:party
+(2)  dbp:1namedata
+(2)  dbp:predecessor
+
+succeed_his
+(4)  dbp:title
+(2)  dbo:party
+(2)  dbo:residence
+
+succeed_in
+(2)  dbo:successor
+(2)  dbp:after
+(2)  dbp:succeeded
+
+succeed_longrunning
+(2)  dbp:predecessor
+
+succeed_mayor
+(2)  dbo:successor
+
+succeed_to
+(3)  dbp:title
+
+successfully
+(2)  dbo:nationality
+
+successfully_advocate
+(4)  dbp:state
+(2)  dbp:vpState
+
+successfully_argue
+(2)  dbp:title
+
+successfully_contest
+(2)  dbp:title
+
+successfully_obtain
+(2)  dbo:residence
+
+support_bill
+(2)  dbo:party
+
+support_sidney
+(2)  dbo:party
+
+surgeon_major
+(2)  dbo:deathPlace
+
+swear_deputy
+(2)  dbo:residence
+
+swear_in
+(2)  dbo:birthPlace
+(2)  dbp:title
+
+swear_minister
+(2)  dbo:party
+
+take_part
+(2)  dbo:deathPlace
+
+take_up
+(2)  dbp:predecessor
+
+teach_at
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+teach_parttime
+(2)  dbo:residence
+
+teach_school
+(2)  dbo:deathPlace
+
+teacher
+(2)  dbp:birthPlace
+
+three_times
+(2)  dbo:residence
+
+tie_to
+(2)  dbp:title
+
+to_contend
+(2)  dbo:deathPlace
+
+to_step
+(2)  dbo:deathPlace
+
+transfer_with
+(2)  dbo:residence
+
+travel
+(2)  dbp:title
+
+treasurer_of
+(3)  dbo:residence
+(2)  dbo:nationality
+
+turn_down
+(2)  dbo:deathPlace
+
+twice_chief
+(2)  dbo:nationality
+
+twice_member
+(2)  dbo:country
+
+twice_seek
+(2)  dbo:residence
+
+twice_serve
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+ultimately_unsuccessful
+(2)  dbp:predecessor
+
+unable_to
+(2)  dbp:successor
+
+undertake_threemonthlong
+(2)  dbo:deathPlace
+
+union_minister
+(4)  dbo:nationality
+
+unsuccessful
+(9)  dbo:party
+
+unsuccessful_against
+(2)  dbo:nationality
+
+unsuccessful_republican
+(2)  dbo:residence
+
+unsuccessfully
+(2)  dbp:title
+
+unsuccessfully_contest
+(4)  dbp:title
+(3)  dbp:before
+(2)  dbo:party
+
+unsuccessfully_run
+(3)  dbp:stateSenate
+
+use_saving
+(2)  dbp:state
+
+utrecht_20
+(2)  dbo:country
+(2)  dbo:nationality
+(2)  dbo:residence
+
+veteran_of
+(2)  dbo:battle
+
+vice_chair
+(2)  dbo:residence
+
+vicepresident_of
+(4)  dbo:party
+(2)  dbo:residence
+(2)  dbo:successor
+
+victory_in
+(2)  dbo:deathPlace
+
+visit
+(2)  dbo:deathPlace
+
+vote_against
+(2)  dbo:residence
+
+vote_in
+(2)  dbo:residence
+
+want_maoist
+(2)  dbo:nationality
+(2)  dbo:stateOfOrigin
+
+well
+(2)  dbo:residence
+
+west
+(2)  dbp:birthPlace
+
+widow_of
+(3)  dbo:spouse
+
+wife
+(2)  dbo:deathPlace
+(2)  dbo:occupation
+
+wife_of
+(7)  dbo:spouse
+(2)  dbo:deathPlace
+(2)  dbo:predecessor
+(2)  dbo:successor
+(2)  dbp:before
+
+win
+(7)  dbp:title
+(4)  dbo:party
+(4)  dbo:residence
+(4)  dbp:electorate
+(3)  dbo:region
+(2)  dbo:birthPlace
+(2)  dbp:predecessor
+
+win_baffin
+(2)  dbp:predecessor
+
+win_election
+(3)  dbo:deathPlace
+(2)  dbo:birthPlace
+(2)  dbo:party
+(2)  dbp:stateHouse
+(2)  dbp:title
+
+win_indian
+(15)  dbo:party
+
+win_renomination
+(2)  dbp:after
+
+win_seat
+(3)  dbo:birthPlace
+(3)  dbo:country
+(3)  dbo:party
+(3)  dbo:region
+(3)  dbp:before
+(3)  dbp:predecessor
+(2)  dbo:residence
+
+win_ward
+(2)  dbo:birthPlace
+(2)  dbp:birthPlace
+
+wish_to
+(2)  dbp:title
+
+work
+(6)  dbo:residence
+(4)  dbo:birthPlace
+(4)  dbp:state
+(3)  dbo:deathPlace
+(3)  dbo:occupation
+(2)  dbo:party
+(2)  dbo:region
+(2)  dbo:restingPlace
+(2)  dbp:title
+
+work_at
+(2)  dbo:country
+(2)  dbo:deathPlace
+
+work_for
+(5)  dbo:party
+(3)  dbo:birthPlace
+(3)  dbo:country
+(3)  dbo:deathPlace
+(3)  dbp:title
+(2)  dbo:residence
+
+work_general
+(2)  dbp:title
+
+work_high
+(2)  dbo:residence
+
+work_in
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:party
+(2)  dbo:region
+(2)  dbo:residence
+
+work_member
+(3)  dbo:party
+
+work_toward
+(2)  dbo:residence
+
+work_with
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+would_face
+(2)  dbo:residence
+
+would_newly
+(2)  dbo:residence
+
+would_retire
+(2)  dbo:country
+
+would_run
+(2)  dbp:stateSenate
+
+would_seek
+(3)  dbo:residence
+(2)  dbp:successor
+(2)  dbp:termEnd
+
+would_serve
+(4)  dbo:deathPlace
+
+write_life
+(2)  dbo:deathPlace
+(2)  dbo:residence
+
+write_theatre
+(2)  dbo:deathPlace
+
+young
+(2)  dbo:birthPlace
+(2)  dbo:deathPlace
+
+young_brother
+(2)  dbp:before
+(2)  dbp:with
+
+young_person
+(2)  dbo:residence

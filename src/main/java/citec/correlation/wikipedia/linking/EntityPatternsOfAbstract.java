@@ -8,6 +8,7 @@ package citec.correlation.wikipedia.linking;
 import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.core.analyzer.LemmaAnalyzer;
 import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER_TEXT;
+import citec.correlation.wikipedia.element.ContextWordConstants;
 import citec.correlation.wikipedia.utils.FormatAndMatch;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -22,22 +23,18 @@ import org.javatuples.Pair;
  *
  * @author elahi
  */
-public class EntityPatternsOfAbstract {
+public class EntityPatternsOfAbstract implements ContextWordConstants{
 
     private Map<String,List<Pattern>> objectPatternsMap = new TreeMap<String,List<Pattern>>();
     private Map<String,Pattern> allpatternsHash = new TreeMap<String,Pattern>();
     private List<Pattern> allpatternList = new ArrayList<Pattern>();
     private static Analyzer analyzer=null;
     private static LemmaAnalyzer lemmaAnalyzer=null;
-    private String regEx = null;
-    private Integer contextLimit=1;
 
 
-    public EntityPatternsOfAbstract(Analyzer analyzer,LemmaAnalyzer lemmaAnalyzer,Integer contextlimit,String regEx,Collection<String> patternsStr) throws Exception {
+    public EntityPatternsOfAbstract(Analyzer analyzer,LemmaAnalyzer lemmaAnalyzer,Collection<String> patternsStr) throws Exception {
         this.analyzer = analyzer;
         this.lemmaAnalyzer=lemmaAnalyzer;
-        this.regEx=regEx;
-        this.contextLimit=contextlimit;
         for (String patternStr : patternsStr) {
             Pattern pattern = new Pattern(patternStr,contextLimit);
             allpatternList.add(pattern);

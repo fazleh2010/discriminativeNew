@@ -1,12 +1,12 @@
-id=19  property=dbo:party  
-elect-VBN  multiply=0.099034  P(elect|dbo:party)=0.111978  P(dbo:party|elect)=0.884411    
-reelect-VBN  multiply=0.098214  P(reelect|dbo:party)=0.110533  P(dbo:party|reelect)=0.888545    
-select-VBN  multiply=0.095589  P(select|dbo:party)=0.107645  P(dbo:party|select)=0.888006    
-serve-VBD  multiply=0.072912  P(serve|dbo:party)=0.095898  P(dbo:party|serve)=0.760305    
-represent-VBZ  multiply=0.053395  P(represent|dbo:party)=0.068361  P(dbo:party|represent)=0.781078    
-member-NN  multiply=0.048765  P(member|dbo:party)=0.055074  P(dbo:party|member)=0.885449    
-bear-VBN  multiply=0.034882  P(bear|dbo:party)=0.044098  P(dbo:party|bear)=0.791019    
-become-VBD  multiply=0.012842  P(become|dbo:party)=0.018101  P(dbo:party|become)=0.709434    
-defeat-VBN  multiply=0.011601  P(defeat|dbo:party)=0.013576  P(dbo:party|defeat)=0.854545    
-appoint-VBN  multiply=0.009892  P(appoint|dbo:party)=0.014443  P(dbo:party|appoint)=0.684932    
+id=6  property=dbo:party  
+serve  RB_VBNmultiply=0.086654  P(serve|dbo:party)=0.113903  P(dbo:party|serve)=0.760772    
+serve_IN  VBD_INmultiply=0.02525  P(serve_IN|dbo:party)=0.032929  P(dbo:party|serve_IN)=0.766816    
+serve_NN  VBD_NNmultiply=0.02525  P(serve_NN|dbo:party)=0.032929  P(dbo:party|serve_NN)=0.766816    
+represent_JJ  VBZ_JJmultiply=0.014016  P(represent_JJ|dbo:party)=0.023204  P(dbo:party|represent_JJ)=0.60401    
+represent_NN  VBN_NNmultiply=0.014016  P(represent_NN|dbo:party)=0.023204  P(dbo:party|represent_NN)=0.60401    
+join  VBDmultiply=0.008348  P(join|dbo:party)=0.009821  P(dbo:party|join)=0.85    
+elect_TO  VBN_TOmultiply=0.007596  P(elect_TO|dbo:party)=0.009051  P(dbo:party|elect_TO)=0.839286    
+liberal_NN  JJ_NNmultiply=0.002985  P(liberal_NN|dbo:party)=0.002985  P(dbo:party|liberal_NN)=1.0    
+become_NN  VBD_NNmultiply=0.00289  P(become_NN|dbo:party)=0.003948  P(dbo:party|become_NN)=0.732143    
+member_IN  NN_INmultiply=0.0021  P(member_IN|dbo:party)=0.002503  P(dbo:party|member_IN)=0.83871    
 

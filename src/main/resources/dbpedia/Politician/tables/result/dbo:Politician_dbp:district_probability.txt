@@ -1,0 +1,24 @@
+id=52  property=dbp:district  object=1  NumberOfEntitiesFoundForObject=20
+partei-NN  multiply=0.021429  P(partei|object)=0.15  P(object|partei)=0.142857    
+congressman-NN  multiply=0.021429  P(congressman|object)=0.15  P(object|congressman)=0.142857    
+
+id=53  property=dbp:district  object=2  NumberOfEntitiesFoundForObject=29
+2nd-JJ  multiply=0.033156  P(2nd|object)=0.172414  P(object|2nd)=0.192308    
+second-JJ  multiply=0.021026  P(second|object)=0.172414  P(object|second)=0.121951    
+
+id=54  property=dbp:district  object=3  NumberOfEntitiesFoundForObject=20
+3rd-JJ  multiply=0.046296  P(3rd|object)=0.25  P(object|3rd)=0.185185    
+ebenda-NN  multiply=0.034615  P(ebenda|object)=0.15  P(object|ebenda)=0.230769    
+
+id=55  property=dbp:district  object=4  NumberOfEntitiesFoundForObject=33
+vertrat-NN  multiply=0.120393  P(vertrat|object)=0.636364  P(object|vertrat)=0.189189    
+us-repräsentantenhaus-NN  multiply=0.119241  P(us-repräsentantenhaus|object)=0.666667  P(object|us-repräsentantenhaus)=0.178862    
+
+id=56  property=dbp:district  object=5  NumberOfEntitiesFoundForObject=28
+وهو-NN  multiply=0.028571  P(وهو|object)=0.107143  P(object|وهو)=0.266667    
+الأمريكي-NN  multiply=0.022556  P(الأمريكي|object)=0.107143  P(object|الأمريكي)=0.210526    
+
+id=57  property=dbp:district  object=6  NumberOfEntitiesFoundForObject=22
+vertritt-NN  multiply=0.031621  P(vertritt|object)=0.181818  P(object|vertritt)=0.173913    
+seit-JJ  multiply=0.026936  P(seit|object)=0.181818  P(object|seit)=0.148148    
+

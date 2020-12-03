@@ -1,7 +1,3 @@
-id=45  property=dbp:electorate  
-represent-VBZ  multiply=0.035209  P(represent|dbp:electorate)=0.405128  P(dbp:electorate|represent)=0.086909    
-related-JJ  multiply=0.004103  P(related|dbp:electorate)=0.010256  P(dbp:electorate|related)=0.4    
-win-VBN  multiply=0.003455  P(win|dbp:electorate)=0.041026  P(dbp:electorate|win)=0.084211    
-elect-VBN  multiply=4.72E-4  P(elect|dbp:electorate)=0.05641  P(dbp:electorate|elect)=0.008365    
-enter-VBN  multiply=1.35E-4  P(enter|dbp:electorate)=0.005128  P(dbp:electorate|enter)=0.026316    
+id=14  property=dbp:electorate  
+represent  VBNmultiply=0.034084  P(represent|dbp:electorate)=0.405128  P(dbp:electorate|represent)=0.084132    
 

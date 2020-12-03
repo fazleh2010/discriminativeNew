@@ -1,7 +1,0 @@
-id=26  property=dbo:religion  
-serve-VBD  multiply=0.011942  P(serve|dbo:religion)=0.081058  P(dbo:religion|serve)=0.147328    
-minister-NN  multiply=0.009566  P(minister|dbo:religion)=0.01848  P(dbo:religion|minister)=0.517647    
-member-NN  multiply=0.005745  P(member|dbo:religion)=0.039479  P(dbo:religion|member)=0.145511    
-become-VBD  multiply=0.003962  P(become|dbo:religion)=0.021  P(dbo:religion|become)=0.188679    
-hold-VBN  multiply=0.002364  P(hold|dbo:religion)=0.00966  P(dbo:religion|hold)=0.244681    
-

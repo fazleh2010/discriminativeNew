@@ -1,12 +1,8 @@
-id=71  property=dbp:stateSenate  
-serve-VBD  multiply=0.004138  P(serve|dbp:stateSenate)=0.154867  P(dbp:stateSenate|serve)=0.026718    
-member-NN  multiply=0.003315  P(member|dbp:stateSenate)=0.097345  P(dbp:stateSenate|member)=0.034056    
-elect-VBN  multiply=0.002638  P(elect|dbp:stateSenate)=0.123894  P(dbp:stateSenate|elect)=0.021293    
-reelect-VBN  multiply=0.002315  P(reelect|dbp:stateSenate)=0.115044  P(dbp:stateSenate|reelect)=0.020124    
-republican-NN  multiply=0.002212  P(republican|dbp:stateSenate)=0.013274  P(dbp:stateSenate|republican)=0.166667    
-attend-VBD  multiply=0.001558  P(attend|dbp:stateSenate)=0.022124  P(dbp:stateSenate|attend)=0.070423    
-run-NN  multiply=0.001527  P(run|dbp:stateSenate)=0.030973  P(dbp:stateSenate|run)=0.049296    
-hire-VBN  multiply=0.001475  P(hire|dbp:stateSenate)=0.004425  P(dbp:stateSenate|hire)=0.333333    
-graduate-VBN  multiply=9.08E-4  P(graduate|dbp:stateSenate)=0.017699  P(dbp:stateSenate|graduate)=0.051282    
-earn-VBN  multiply=8.85E-4  P(earn|dbp:stateSenate)=0.00885  P(dbp:stateSenate|earn)=0.1    
+id=21  property=dbp:stateSenate  
+serve_NN  VBD_NNmultiply=8.04E-4  P(serve_NN|dbp:stateSenate)=0.039823  P(dbp:stateSenate|serve_NN)=0.020179    
+serve_IN  VBD_INmultiply=8.04E-4  P(serve_IN|dbp:stateSenate)=0.039823  P(dbp:stateSenate|serve_IN)=0.020179    
+currently_VBG  RB_VBGmultiply=4.92E-4  P(currently_VBG|dbp:stateSenate)=0.004425  P(dbp:stateSenate|currently_VBG)=0.111111    
+elect_TO  VBN_TOmultiply=1.58E-4  P(elect_TO|dbp:stateSenate)=0.00885  P(dbp:stateSenate|elect_TO)=0.017857    
+previously_VBN  RB_VBNmultiply=0.0  P(previously_VBN|dbp:stateSenate)=0.0  P(dbp:stateSenate|previously_VBN)=0.0    
+member_IN  NN_INmultiply=0.0  P(member_IN|dbp:stateSenate)=0.0  P(dbp:stateSenate|member_IN)=0.0    
 

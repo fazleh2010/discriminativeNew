@@ -1,7 +1,0 @@
-id=37  property=dbp:birthPlace  
-serve-VBD  multiply=0.002202  P(serve|dbp:birthPlace)=0.096154  P(dbp:birthPlace|serve)=0.022901    
-four-CD  multiply=0.001603  P(four|dbp:birthPlace)=0.003205  P(dbp:birthPlace|four)=0.5    
-win-VBN  multiply=5.4E-4  P(win|dbp:birthPlace)=0.012821  P(dbp:birthPlace|win)=0.042105    
-imprison-VBN  multiply=2.1E-4  P(imprison|dbp:birthPlace)=0.00641  P(dbp:birthPlace|imprison)=0.032787    
-teacher-NN  multiply=1.53E-4  P(teacher|dbp:birthPlace)=0.003205  P(dbp:birthPlace|teacher)=0.047619    
-

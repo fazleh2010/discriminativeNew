@@ -61,7 +61,7 @@ public interface TextAnalyzer {
             "further", "then", "once", "here", "there", "when", "where", "why",
             "how", "all", "any", "both", "each", "few", "more", "most", "other",
             "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than",
-            "too", "very", "s", "t", "can", "will", "just", "don", "should", "now");
+            "too", "very", "s", "t", "can", "will", "just", "don", "should", "now","again","her","currently","also");
 
     /*public static final Set<String> dbpPartyWords = new TreeSet<String>(Arrays.asList("labour", "party", "british", "parliament", "general",
             "liberal", "nova", "scotia", "minister", "progressive",

@@ -9,12 +9,16 @@ import citec.correlation.wikipedia.element.InterestingPredicatePattern;
 import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.core.analyzer.LemmaAnalyzer;
 import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER_TEXT;
+import citec.correlation.wikipedia.element.ContextWordConstants;
 import citec.correlation.wikipedia.element.DBpediaEntityPattern;
+import citec.correlation.wikipedia.evalution.EntityInfo;
+import citec.correlation.wikipedia.evalution.Lexicon;
 import citec.correlation.wikipedia.results.ResultTriple;
 import citec.correlation.wikipedia.linking.EntityPatternsOfAbstract;
 import citec.correlation.wikipedia.linking.EntityPatternsOfAbstract.Pattern;
 import citec.correlation.wikipedia.linking.EntityTriple;
 import citec.correlation.wikipedia.results.EntityResults;
+import static citec.correlation.wikipedia.results.EntityResults.WORD_CALCULATION;
 import citec.correlation.wikipedia.results.WordResult;
 import citec.correlation.wikipedia.table.Tables;
 import citec.correlation.wikipedia.utils.FileFolderUtils;
@@ -41,7 +45,7 @@ import org.javatuples.Pair;
  *
  * @author elahi
  */
-public class PatternCalculation {
+public class PatternCalculation implements ContextWordConstants{
 
     private Double wordGivenObjectThresold;
     private Double objectGivenWordThresold;
@@ -51,17 +55,14 @@ public class PatternCalculation {
     private Map<String, EntityTriple.Triple> allTriplesMap = new TreeMap<String, EntityTriple.Triple>();
     private Map<String, EntityPatternsOfAbstract.Pattern> linguisticPatterns = new TreeMap<String, EntityPatternsOfAbstract.Pattern>();
     private InterestingPredicatePattern interestingPattern;
-    private String regEx = "(VB|VBD|VBG|VBN|VBP|VBZ|IN|NN|NNS|NNP|NNPS|JJ|JJR|JJS|TO|IN|)";
     private String[] dir = new String[]{"tables/", "selectedPatterns/", "result/"};
-    private Integer contextLimit=2;
-    
+    private Map<String, List<EntityInfo>> patternEntities = new TreeMap<String, List<EntityInfo>>();
 
 
-    public PatternCalculation(String inputDir, String inputFile, String dbo_ClassName,Integer contextLimit) throws Exception {
+    public PatternCalculation(String inputDir,String inputFile, String dbo_ClassName) throws Exception {
         this.allDBpediaPatterns = getAllElements(inputDir + dir[0], inputFile, dbo_ClassName);
-        this.contextLimit=contextLimit;
-        this.interestingPattern = new InterestingPredicatePattern(analyzer, lemmaAnalyzer, contextLimit,regEx, inputDir + dir[1], allDBpediaPatterns);
-        //this.calculateProbability(inputDir, dbo_ClassName);
+        this.interestingPattern = new InterestingPredicatePattern(analyzer, lemmaAnalyzer, ContextWordConstants.CONTEX_POS_MIX,inputDir + dir[1], allDBpediaPatterns);
+        this.calculateProbability(inputDir, dbo_ClassName);
     }
 
     public void calculateProbability(String inputDir, String dbo_ClassName) throws Exception {
@@ -112,7 +113,7 @@ public class PatternCalculation {
             if (!results.isEmpty()) {
                 //EntityResults kbResult = new EntityResults(triple.getPredicate(), triple.getObject(), 0, results, 2);
                 EntityResults kbResult = new EntityResults(predicate, "", 0, results, 10);
-                String str = EntityResults.entityResultToString(kbResult, EntityResults.PATTERN_CALCULATION);
+                String str = this.entityResultToString(kbResult, EntityResults.PATTERN_CALCULATION);
                 String outputFileName = inputDir + "result/" + dbo_ClassName + "_" + predicate + "_" + "prob.txt";
                 FileFolderUtils.writeToTextFile(str, outputFileName);
             }
@@ -147,7 +148,7 @@ public class PatternCalculation {
 
             }*/
 
-            EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, contextLimit,regEx, dbpediaEntityPattern.getPatterns().values());
+            EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer,dbpediaEntityPattern.getPatterns().values());
             List<Pattern> selectedPatterns = entityPatternsOfAbstract.getAllpatternList();
             if (isPatternExistInAbstract1(givenPatternPair, selectedPatterns)) {
                 entities.add(dbpediaEntityPattern.getEntityUrl());
@@ -230,7 +231,7 @@ public class PatternCalculation {
     }
 
     private boolean isTriplePatternExistInAbstract(String givenTrippleStr, String givenLinguisticPattern, DBpediaEntityPattern dbpediaEntityPattern) throws Exception {
-        EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, this.contextLimit,this.regEx, dbpediaEntityPattern.getPatterns().values());
+        EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer,dbpediaEntityPattern.getPatterns().values());
         EntityTriple.Triple givenTripple = this.allTriplesMap.get(givenTrippleStr);
 
         if (entityPatternsOfAbstract.getPatternsMap().keySet().contains(givenTripple.getObject())) {
@@ -308,6 +309,74 @@ public class PatternCalculation {
 
         return false;
     }
+    
+    private String entityResultToString(EntityResults entities, String type) {
+      
+        String objectString = null, propertyString = "property=", idString = "id=", wordString = null;
+
+        if (type.contains(EntityResults.PATTERN_CALCULATION)) {
+            wordString = "pattern=";
+        } else if (type.contains(WORD_CALCULATION)) {
+            objectString = "object=";
+            wordString = "word=";
+        }
+
+        String str = "";
+        //for (EntityResults entities : entityResults) {
+            String entityLine = null;
+
+            if (objectString != null) {
+                entityLine = idString + entities.getObjectIndex() + "  " + propertyString + entities.getProperty() + "  " + objectString + entities.getKB() + "  ";
+            } else {
+                entityLine = idString + entities.getObjectIndex() + "  " + propertyString + entities.getProperty() + "  ";
+            }
+
+            if (entities.getNumberOfEntitiesFoundInObject() > 1) {
+                entityLine += "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject() + "\n";
+            } else {
+                entityLine += "\n";
+            }
+
+            String wordSum = "";
+            for (WordResult wordResults : entities.getDistributions()) {
+                String multiply = "multiply=" + wordResults.getMultiple();
+                String probabilty = "";
+                for (String rule : wordResults.getProbabilities().keySet()) {
+                    Double value = wordResults.getProbabilities().get(rule);
+                    String line = rule + "=" + String.valueOf(value) + "  ";
+                    probabilty += line;
+                }
+                String liftAndConfidence = null;
+                if (wordResults.getLift() != null) {
+                    liftAndConfidence = "Lift=" + wordResults.getLift() + " " + "{Confidence" + " " + "word=" + wordResults.getConfidenceWord() + " object=" + wordResults.getConfidenceObject() + " =" + wordResults.getConfidenceObjectAndKB() + " " + "Lift=" + wordResults.getOtherLift() + "}";
+                } else {
+                    liftAndConfidence = "";
+                }
+                //temporarily lift value made null, since we are not sure about the Lift calculation
+                //lift="";
+                String wordline = wordResults.getWord() + "  " +wordResults.getPosTag()+ multiply + "  " + probabilty + "  " + liftAndConfidence + "\n";
+                wordSum += wordline;
+                String key = wordResults.getWord();
+                List<EntityInfo> propertyObjects = new ArrayList<EntityInfo>();
+
+                if (patternEntities.containsKey(key)) {
+                    propertyObjects = patternEntities.get(key);
+
+                } else {
+                    propertyObjects = new ArrayList<EntityInfo>();
+                }
+                EntityInfo entityInfo = new EntityInfo(entities.getProperty(), entities.getKB(), wordResults.getMultipleValue(), wordResults.getProbabilities());
+                propertyObjects.add(entityInfo);
+                patternEntities.put(key, propertyObjects);
+
+            }
+            entityLine = entityLine + wordSum + "\n";
+            str += entityLine;
+        //}
+        System.out.println(patternEntities);
+        return str;
+    }
+
 
 
     /* private boolean isPatternExistInAbstract1(String patternStr, DBpediaEntityPattern dbpediaEntityPattern) throws Exception {
@@ -330,6 +399,10 @@ public class PatternCalculation {
             return true;
         }
         return false;
+    }
+
+    public Map<String, List<EntityInfo>> getPatternEntities() {
+        return patternEntities;
     }
 
 }

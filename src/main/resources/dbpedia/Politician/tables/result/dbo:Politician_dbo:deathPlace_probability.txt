@@ -1,0 +1,55 @@
+id=32  property=dbo:deathPlace  object=http://dbpedia.org/resource/Portland,_Oregon  NumberOfEntitiesFoundForObject=42
+businessman-NN  multiply=0.039548  P(businessman|object)=0.333333  P(object|businessman)=0.118644    
+native-JJ  multiply=0.030648  P(native|object)=0.261905  P(object|native)=0.117021    
+
+id=33  property=dbo:deathPlace  object=http://dbpedia.org/resource/India  NumberOfEntitiesFoundForObject=20
+constituency-NN  multiply=0.085345  P(constituency|object)=0.45  P(object|constituency)=0.189655    
+
+id=34  property=dbo:deathPlace  object=http://dbpedia.org/resource/Queensland  NumberOfEntitiesFoundForObject=40
+australian-JJ  multiply=0.171181  P(australian|object)=0.725  P(object|australian)=0.236111    
+
+id=35  property=dbo:deathPlace  object=http://dbpedia.org/resource/Alberta  NumberOfEntitiesFoundForObject=61
+caucus-NN  multiply=0.117096  P(caucus|object)=0.491803  P(object|caucus)=0.238095    
+provincial-JJ  multiply=0.067201  P(provincial|object)=0.557377  P(object|provincial)=0.120567    
+
+id=36  property=dbo:deathPlace  object=http://dbpedia.org/resource/Paris  NumberOfEntitiesFoundForObject=80
+homme-NN  multiply=0.143821  P(homme|object)=0.5625  P(object|homme)=0.255682    
+politique-NN  multiply=0.139211  P(politique|object)=0.575  P(object|politique)=0.242105    
+
+id=37  property=dbo:deathPlace  object=http://dbpedia.org/resource/London  NumberOfEntitiesFoundForObject=48
+british-JJ  multiply=0.04776  P(british|object)=0.416667  P(object|british)=0.114625    
+
+id=38  property=dbo:deathPlace  object=http://dbpedia.org/resource/Oregon  NumberOfEntitiesFoundForObject=20
+country-NN  multiply=0.054795  P(country|object)=0.4  P(object|country)=0.136986    
+
+id=39  property=dbo:deathPlace  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=67
+american-JJ  multiply=0.054693  P(american|object)=0.38806  P(object|american)=0.14094    
+democratic-JJ  multiply=0.019264  P(democratic|object)=0.134328  P(object|democratic)=0.143411    
+
+id=40  property=dbo:deathPlace  object=http://dbpedia.org/resource/Berlin  NumberOfEntitiesFoundForObject=37
+deutscher-NN  multiply=0.072786  P(deutscher|object)=0.432432  P(object|deutscher)=0.168317    
+
+id=41  property=dbo:deathPlace  object=http://dbpedia.org/resource/Connecticut  NumberOfEntitiesFoundForObject=78
+us-repräsentantenhaus-NN  multiply=0.034054  P(us-repräsentantenhaus|object)=0.192308  P(object|us-repräsentantenhaus)=0.177083    
+vertrat-NN  multiply=0.028931  P(vertrat|object)=0.192308  P(object|vertrat)=0.150442    
+
+id=42  property=dbo:deathPlace  object=http://dbpedia.org/resource/British_Columbia  NumberOfEntitiesFoundForObject=52
+british-JJ  multiply=0.09851  P(british|object)=0.692308  P(object|british)=0.142292    
+
+id=43  property=dbo:deathPlace  object=http://dbpedia.org/resource/Virginia  NumberOfEntitiesFoundForObject=60
+democratic-JJ  multiply=0.050646  P(democratic|object)=0.466667  P(object|democratic)=0.108527    
+
+id=44  property=dbo:deathPlace  object=http://dbpedia.org/resource/Norwalk,_Connecticut  NumberOfEntitiesFoundForObject=33
+settler-NN  multiply=0.125186  P(settler|object)=0.424242  P(object|settler)=0.295082    
+
+id=45  property=dbo:deathPlace  object=http://dbpedia.org/resource/Ontario  NumberOfEntitiesFoundForObject=105
+legislative-JJ  multiply=0.082338  P(legislative|object)=0.714286  P(object|legislative)=0.115274    
+assembly-NN  multiply=0.074286  P(assembly|object)=0.742857  P(object|assembly)=0.1    
+
+id=46  property=dbo:deathPlace  object=http://dbpedia.org/resource/Edmonton  NumberOfEntitiesFoundForObject=30
+caucus-NN  multiply=0.140741  P(caucus|object)=0.633333  P(object|caucus)=0.222222    
+provincial-JJ  multiply=0.104965  P(provincial|object)=0.8  P(object|provincial)=0.131206    
+
+id=47  property=dbo:deathPlace  object=http://dbpedia.org/resource/Buffalo,_New_York  NumberOfEntitiesFoundForObject=38
+candidate-NN  multiply=0.045113  P(candidate|object)=0.394737  P(object|candidate)=0.114286    
+

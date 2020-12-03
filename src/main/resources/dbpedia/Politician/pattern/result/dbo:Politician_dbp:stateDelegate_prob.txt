@@ -1,7 +1,3 @@
-id=69  property=dbp:stateDelegate  
-elect-VBN  multiply=0.002782  P(elect|dbp:stateDelegate)=0.21519  P(dbp:stateDelegate|elect)=0.012928    
-serve-VBD  multiply=0.001633  P(serve|dbp:stateDelegate)=0.164557  P(dbp:stateDelegate|serve)=0.009924    
-deputy-NN  multiply=4.08E-4  P(deputy|dbp:stateDelegate)=0.012658  P(dbp:stateDelegate|deputy)=0.032258    
-represent-VBZ  multiply=2.23E-4  P(represent|dbp:stateDelegate)=0.050633  P(dbp:stateDelegate|represent)=0.0044    
-member-NN  multiply=7.8E-5  P(member|dbp:stateDelegate)=0.025316  P(dbp:stateDelegate|member)=0.003096    
+id=19  property=dbp:stateDelegate  
+elect_TO  VBN_TOmultiply=0.0  P(elect_TO|dbp:stateDelegate)=0.0  P(dbp:stateDelegate|elect_TO)=0.0    
 

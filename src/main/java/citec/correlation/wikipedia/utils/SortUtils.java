@@ -87,7 +87,7 @@ public class SortUtils {
         return str;
     }
     
-    public static Map<Integer, String> sortAnnotated(Map<String, Integer> hm, Map<String, String> modifiedOriginal, Integer maxNumber) {
+    public static Map<Integer, String> sortAnnotated(Map<String, Integer> hm, Map<String, String> modifiedOriginal, Integer maxFreq,Integer maxNumber) {
         Map<Integer, String> results = new TreeMap<Integer, String>();
         Set<Map.Entry<String, Integer>> set = hm.entrySet();
         List<Map.Entry<String, Integer>> list = new ArrayList<Map.Entry<String, Integer>>(
@@ -103,6 +103,11 @@ public class SortUtils {
         List<String> topWords = new ArrayList<String>();
 
         for (Map.Entry<String, Integer> entry : list) {
+             if(entry.getValue()<maxFreq)
+                 break;
+             if(index==maxNumber)
+                break;
+            
 
             if (!modifiedOriginal.isEmpty()) {
                 String taggedText = modifiedOriginal.get(entry.getKey());
@@ -115,7 +120,8 @@ public class SortUtils {
                 String line="("+entry.getValue() +")"+ "  " + entry.getKey();
                 results.put(keyIndex, line);                 
             }
-
+           
+            index=index+1;
         }
         return results;
     }

@@ -1,5 +1,0 @@
-id=50  property=dbp:leader  
-appoint-VBN  multiply=0.001912  P(appoint|dbp:leader)=0.059829  P(dbp:leader|appoint)=0.031963    
-elect-VBN  multiply=7.86E-4  P(elect|dbp:leader)=0.094017  P(dbp:leader|elect)=0.008365    
-marry-VBN  multiply=4.44E-4  P(marry|dbp:leader)=0.017094  P(dbp:leader|marry)=0.025974    
-

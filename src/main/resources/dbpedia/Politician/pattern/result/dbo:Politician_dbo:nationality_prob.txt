@@ -1,12 +1,7 @@
-id=14  property=dbo:nationality  
-reelect-VBN  multiply=0.069735  P(reelect|dbo:nationality)=0.179478  P(dbo:nationality|reelect)=0.388545    
-elect-VBN  multiply=0.069337  P(elect|dbo:nationality)=0.180551  P(dbo:nationality|elect)=0.38403    
-member-NN  multiply=0.004583  P(member|dbo:nationality)=0.032535  P(dbo:nationality|member)=0.140867    
-join-VBD  multiply=0.003744  P(join|dbo:nationality)=0.011798  P(dbo:nationality|join)=0.317308    
-contest-VBN  multiply=0.003131  P(contest|dbo:nationality)=0.006435  P(dbo:nationality|contest)=0.486486    
-appoint-VBN  multiply=0.00288  P(appoint|dbo:nationality)=0.015016  P(dbo:nationality|appoint)=0.191781    
-become-VBD  multiply=0.002855  P(become|dbo:nationality)=0.016446  P(dbo:nationality|become)=0.173585    
-serve-VBD  multiply=0.00231  P(serve|dbo:nationality)=0.032892  P(dbo:nationality|serve)=0.070229    
-bear-VBN  multiply=0.002077  P(bear|dbo:nationality)=0.020737  P(dbo:nationality|bear)=0.100173    
-belong-VBD  multiply=0.001797  P(belong|dbo:nationality)=0.005005  P(dbo:nationality|belong)=0.358974    
+id=5  property=dbo:nationality  
+serve_IN  VBD_INmultiply=0.001414  P(serve_IN|dbo:nationality)=0.015016  P(dbo:nationality|serve_IN)=0.09417    
+elect_IN  VBN_INmultiply=9.23E-4  P(elect_IN|dbo:nationality)=0.006078  P(dbo:nationality|elect_IN)=0.151786    
+elect_TO  VBN_TOmultiply=9.23E-4  P(elect_TO|dbo:nationality)=0.006078  P(dbo:nationality|elect_TO)=0.151786    
+member_IN  NN_INmultiply=4.15E-4  P(member_IN|dbo:nationality)=0.002145  P(dbo:nationality|member_IN)=0.193548    
+bear_IN  VBN_INmultiply=0.0  P(bear_IN|dbo:nationality)=0.0  P(dbo:nationality|bear_IN)=0.0    
 

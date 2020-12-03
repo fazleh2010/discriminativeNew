@@ -1,43 +1,48 @@
-id=102  property=dbo:religion  object=http://dbpedia.org/resource/Sunni_Islam  NumberOfEntitiesFoundForObject=30
-malay-JJ  multiply=0.278161  P(malay|object)=0.733333  P(object|malay)=0.37931    
-patronymic-JJ  multiply=0.24  P(patronymic|object)=0.4  P(object|patronymic)=0.6    
+id=68  property=dbo:religion  object=http://dbpedia.org/resource/Sunni_Islam  NumberOfEntitiesFoundForObject=183
+malay-JJ  multiply=0.087675  P(malay|object)=0.20765  P(object|malay)=0.422222    
+malaysian-JJ  multiply=0.076652  P(malaysian|object)=0.174863  P(object|malaysian)=0.438356    
 
-id=103  property=dbo:religion  object=http://dbpedia.org/resource/Presbyterian  NumberOfEntitiesFoundForObject=25
-early-JJ  multiply=0.025  P(early|object)=0.2  P(object|early)=0.125    
+id=69  property=dbo:religion  object=http://dbpedia.org/resource/Islam  NumberOfEntitiesFoundForObject=212
+somali-JJ  multiply=0.359008  P(somali|object)=0.372642  P(object|somali)=0.963415    
+pakistani-JJ  multiply=0.10566  P(pakistani|object)=0.132075  P(object|pakistani)=0.8    
 
-id=104  property=dbo:religion  object=http://dbpedia.org/resource/Islam  NumberOfEntitiesFoundForObject=143
-somali-JJ  multiply=0.434492  P(somali|object)=0.454545  P(object|somali)=0.955882    
-minister-NN  multiply=0.154865  P(minister|object)=0.524476  P(object|minister)=0.295276    
+id=70  property=dbo:religion  object=http://dbpedia.org/resource/Church_of_England  NumberOfEntitiesFoundForObject=48
+australian-JJ  multiply=0.059028  P(australian|object)=0.354167  P(object|australian)=0.166667    
 
-id=105  property=dbo:religion  object=http://dbpedia.org/resource/Church_of_England  NumberOfEntitiesFoundForObject=34
-australian-JJ  multiply=0.091822  P(australian|object)=0.470588  P(object|australian)=0.195122    
-labor-NN  multiply=0.036199  P(labor|object)=0.235294  P(object|labor)=0.153846    
+id=71  property=dbo:religion  object=http://dbpedia.org/resource/Anglican  NumberOfEntitiesFoundForObject=34
+british-JJ  multiply=0.047059  P(british|object)=0.352941  P(object|british)=0.133333    
 
-id=106  property=dbo:religion  object=http://dbpedia.org/resource/Eastern_Orthodox_Church  NumberOfEntitiesFoundForObject=46
-diplomat-NN  multiply=0.097826  P(diplomat|object)=0.195652  P(object|diplomat)=0.5    
-cabinet-NN  multiply=0.020164  P(cabinet|object)=0.173913  P(object|cabinet)=0.115942    
+id=72  property=dbo:religion  object=http://dbpedia.org/resource/Hinduism  NumberOfEntitiesFoundForObject=63
+sabha-NN  multiply=0.158513  P(sabha|object)=0.428571  P(object|sabha)=0.369863    
+indian-JJ  multiply=0.153651  P(indian|object)=0.698413  P(object|indian)=0.22    
 
-id=107  property=dbo:religion  object=http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints  NumberOfEntitiesFoundForObject=44
-senate-NN  multiply=0.060774  P(senate|object)=0.431818  P(object|senate)=0.140741    
-republican-JJ  multiply=0.05096  P(republican|object)=0.431818  P(object|republican)=0.118012    
+id=73  property=dbo:religion  object=http://dbpedia.org/resource/Christian  NumberOfEntitiesFoundForObject=80
+american-JJ  multiply=0.05625  P(american|object)=0.4875  P(object|american)=0.115385    
+chairman-NN  multiply=0.025185  P(chairman|object)=0.2  P(object|chairman)=0.125926    
 
-id=108  property=dbo:religion  object=http://dbpedia.org/resource/Episcopal_Church_(United_States)  NumberOfEntitiesFoundForObject=28
-lawyer-NN  multiply=0.035714  P(lawyer|object)=0.285714  P(object|lawyer)=0.125    
-attorney-NN  multiply=0.022059  P(attorney|object)=0.214286  P(object|attorney)=0.102941    
+id=74  property=dbo:religion  object=http://dbpedia.org/resource/Hindu  NumberOfEntitiesFoundForObject=99
+indian-JJ  multiply=0.240455  P(indian|object)=0.69697  P(object|indian)=0.345    
+constituency-NN  multiply=0.158821  P(constituency|object)=0.505051  P(object|constituency)=0.314465    
 
-id=109  property=dbo:religion  object=http://dbpedia.org/resource/Roman_Catholic  NumberOfEntitiesFoundForObject=111
-member-NN  multiply=0.06399  P(member|object)=0.612613  P(object|member)=0.104455    
-part-NN  multiply=0.04739  P(part|object)=0.432432  P(object|part)=0.109589    
+id=75  property=dbo:religion  object=http://dbpedia.org/resource/Roman_Catholicism  NumberOfEntitiesFoundForObject=69
+seit-JJ  multiply=0.011836  P(seit|object)=0.101449  P(object|seit)=0.116667    
 
-id=110  property=dbo:religion  object=http://dbpedia.org/resource/Hinduism  NumberOfEntitiesFoundForObject=50
-indian-JJ  multiply=0.205541  P(indian|object)=0.78  P(object|indian)=0.263514    
-sabha-NN  multiply=0.205352  P(sabha|object)=0.54  P(object|sabha)=0.380282    
+id=76  property=dbo:religion  object=http://dbpedia.org/resource/Presbyterian  NumberOfEntitiesFoundForObject=42
+us-amerikanischer-NN  multiply=0.033835  P(us-amerikanischer|object)=0.214286  P(object|us-amerikanischer)=0.157895    
+early-JJ  multiply=0.021212  P(early|object)=0.166667  P(object|early)=0.127273    
 
-id=111  property=dbo:religion  object=http://dbpedia.org/resource/Christian  NumberOfEntitiesFoundForObject=66
-american-JJ  multiply=0.084107  P(american|object)=0.590909  P(object|american)=0.142336    
-district-NN  multiply=0.057828  P(district|object)=0.545455  P(object|district)=0.106017    
+id=77  property=dbo:religion  object=http://dbpedia.org/resource/Eastern_Orthodox_Church  NumberOfEntitiesFoundForObject=156
+moldovan-JJ  multiply=0.596154  P(moldovan|object)=0.596154  P(object|moldovan)=1.0    
 
-id=112  property=dbo:religion  object=http://dbpedia.org/resource/Hindu  NumberOfEntitiesFoundForObject=87
-indian-JJ  multiply=0.308248  P(indian|object)=0.724138  P(object|indian)=0.425676    
-constituency-NN  multiply=0.18264  P(constituency|object)=0.551724  P(object|constituency)=0.331034    
+id=78  property=dbo:religion  object=http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints  NumberOfEntitiesFoundForObject=54
+republican-JJ  multiply=0.037411  P(republican|object)=0.37037  P(object|republican)=0.10101    
+degree-NN  multiply=0.018519  P(degree|object)=0.148148  P(object|degree)=0.125    
+
+id=79  property=dbo:religion  object=http://dbpedia.org/resource/Episcopal_Church_(United_States)  NumberOfEntitiesFoundForObject=39
+lawyer-NN  multiply=0.02331  P(lawyer|object)=0.230769  P(object|lawyer)=0.10101    
+attorney-NN  multiply=0.018409  P(attorney|object)=0.179487  P(object|attorney)=0.102564    
+
+id=80  property=dbo:religion  object=http://dbpedia.org/resource/Roman_Catholic  NumberOfEntitiesFoundForObject=223
+part-NN  multiply=0.058618  P(part|object)=0.44843  P(object|part)=0.130719    
+member-NN  multiply=0.040545  P(member|object)=0.38565  P(object|member)=0.105134    
 

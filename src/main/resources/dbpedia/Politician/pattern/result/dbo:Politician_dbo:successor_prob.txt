@@ -1,12 +1,4 @@
-id=31  property=dbo:successor  
-serve-VBD  multiply=0.089853  P(serve|dbo:successor)=0.141306  P(dbo:successor|serve)=0.635878    
-member-NN  multiply=0.032352  P(member|dbo:successor)=0.059542  P(dbo:successor|member)=0.543344    
-represent-VBZ  multiply=0.030158  P(represent|dbo:successor)=0.068193  P(dbo:successor|represent)=0.442244    
-elect-VBN  multiply=0.017852  P(elect|dbo:successor)=0.063104  P(dbo:successor|elect)=0.28289    
-reelect-VBN  multiply=0.017016  P(reelect|dbo:successor)=0.061069  P(dbo:successor|reelect)=0.278638    
-appoint-VBN  multiply=0.011529  P(appoint|dbo:successor)=0.020696  P(dbo:successor|appoint)=0.557078    
-defeat-VBN  multiply=0.010907  P(defeat|dbo:successor)=0.017472  P(dbo:successor|defeat)=0.624242    
-run-NN  multiply=0.006542  P(run|dbo:successor)=0.012553  P(dbo:successor|run)=0.521127    
-resign-VBD  multiply=0.005518  P(resign|dbo:successor)=0.00933  P(dbo:successor|resign)=0.591398    
-succeed-VBD  multiply=0.005461  P(succeed|dbo:successor)=0.008821  P(dbo:successor|succeed)=0.619048    
+id=11  property=dbo:successor  
+succeed_IN  VBN_INmultiply=0.001745  P(succeed_IN|dbo:successor)=0.002036  P(dbo:successor|succeed_IN)=0.857143    
+defeat_IN  VBN_INmultiply=5.09E-4  P(defeat_IN|dbo:successor)=5.09E-4  P(dbo:successor|defeat_IN)=1.0    
 

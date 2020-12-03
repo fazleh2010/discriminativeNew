@@ -1,8 +1,11 @@
-id=39  property=dbo:activeYearsEndDate  object=1935-08-22  NumberOfEntitiesFoundForObject=32
-farmer-NN  multiply=0.171687  P(farmer|object)=0.59375  P(object|farmer)=0.289157    
-caucus-NN  multiply=0.117378  P(caucus|object)=0.875  P(object|caucus)=0.134146    
+id=16  property=dbo:activeYearsEndDate  object=2013-05-05  NumberOfEntitiesFoundForObject=31
+malaysian-JJ  multiply=0.050934  P(malaysian|object)=0.193548  P(object|malaysian)=0.263158    
 
-id=40  property=dbo:activeYearsEndDate  object=2015-05-05  NumberOfEntitiesFoundForObject=30
-conservative-JJ  multiply=0.093617  P(conservative|object)=0.733333  P(object|conservative)=0.12766    
-constituency-NN  multiply=0.085  P(constituency|object)=0.4  P(object|constituency)=0.2125    
+id=17  property=dbo:activeYearsEndDate  object=1935-08-22  NumberOfEntitiesFoundForObject=32
+farmer-NN  multiply=0.15  P(farmer|object)=0.59375  P(object|farmer)=0.252632    
+caucus-NN  multiply=0.112354  P(caucus|object)=0.875  P(object|caucus)=0.128405    
+
+id=18  property=dbo:activeYearsEndDate  object=2015-05-05  NumberOfEntitiesFoundForObject=32
+conservative-JJ  multiply=0.073718  P(conservative|object)=0.71875  P(object|conservative)=0.102564    
+constituency-NN  multiply=0.069643  P(constituency|object)=0.40625  P(object|constituency)=0.171429    
 

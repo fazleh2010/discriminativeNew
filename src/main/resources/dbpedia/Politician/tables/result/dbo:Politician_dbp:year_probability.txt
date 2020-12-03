@@ -1,4 +1,4 @@
-id=121  property=dbp:year  object=2006  NumberOfEntitiesFoundForObject=73
-member-NN  multiply=0.621512  P(member|object)=0.958904  P(object|member)=0.648148    
-lok-NN  multiply=0.621005  P(lok|object)=0.931507  P(object|lok)=0.666667    
+id=88  property=dbp:year  object=2006  NumberOfEntitiesFoundForObject=74
+member-NN  multiply=0.596542  P(member|object)=0.945946  P(object|member)=0.630631    
+lok-NN  multiply=0.595109  P(lok|object)=0.918919  P(object|lok)=0.647619    
 

@@ -1,6 +1,0 @@
-id=42  property=dbp:deathPlace  
-serve-VBD  multiply=0.00129  P(serve|dbp:deathPlace)=0.099415  P(dbp:deathPlace|serve)=0.012977    
-one-CD  multiply=0.001028  P(one|dbp:deathPlace)=0.023392  P(dbp:deathPlace|one)=0.043956    
-instrumental-JJ  multiply=8.35E-4  P(instrumental|dbp:deathPlace)=0.005848  P(dbp:deathPlace|instrumental)=0.142857    
-move-VBN  multiply=2.15E-4  P(move|dbp:deathPlace)=0.011696  P(dbp:deathPlace|move)=0.018349    
-

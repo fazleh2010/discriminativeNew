@@ -16,6 +16,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -26,58 +27,48 @@ import java.util.TreeMap;
  *
  * @author elahi
  */
-public class InterestingPredicatePattern {
+public class InterestingPredicatePattern implements ContextWordConstants{
 
     private Map<String, Map<Integer, String>> predicateSortedContextWordsMap = new TreeMap<String, Map<Integer, String>>();
     private Map<String, List<EntityPatternsOfAbstract.Pattern>> predicateContextWordsMap = new TreeMap<String, List<EntityPatternsOfAbstract.Pattern>>();
     private Map<String, List<EntityTriple.Triple>> ContextWordsPredicateMap = new TreeMap<String, List<EntityTriple.Triple>>();
     private Map<String, Map<Integer, String>> contexWordSortedPredicateMap = new TreeMap<String, Map<Integer, String>>();
-    private final String PREDICATE_CONTEXT_WORD = "predicateContext";
-    private final String CONTEXT_WORD_PREDICATE = "contextPredicate";
     private final Analyzer analyzer;
-    private LemmaAnalyzer lemmaAnalyzer = new LemmaAnalyzer();
     private final String outputDir;
-    private String regEx = null;
-    private final Integer contextLimit;
-    private String ORIGINAL_CONTEX="ORIGINAL_CONTEX";
-    private String CONTEX_POS_MIX="CONTEX_POS_MIX";
-    
+    private String CONEXT_WORD_TYPE;
 
-    public InterestingPredicatePattern(Analyzer analyzer, LemmaAnalyzer lemmaAnalyzer, Integer contextLimit,String regEx, String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
+
+    public InterestingPredicatePattern(Analyzer analyzer, LemmaAnalyzer lemmaAnalyzer, String CONEXT_WORD_TYPE,String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
         this.analyzer = analyzer;
-        this.lemmaAnalyzer = lemmaAnalyzer;
-        this.regEx = regEx;
         this.outputDir = outputDir;
-        this.contextLimit=contextLimit;
-        this.findMatchBetweenTriplePattern(allDBpediaPatterns, outputDir + PREDICATE_CONTEXT_WORD,CONTEX_POS_MIX);
-        this.findMatchBetweenTriplePattern(allDBpediaPatterns, outputDir + CONTEXT_WORD_PREDICATE,CONTEX_POS_MIX);
+        this.CONEXT_WORD_TYPE=CONEXT_WORD_TYPE;
+        this.findMatchBetweenTriplePattern(allDBpediaPatterns, outputDir + PREDICATE_CONTEXT,CONEXT_WORD_TYPE);
+        this.findMatchBetweenTriplePattern(allDBpediaPatterns, outputDir + CONTEXT_PREDICATE,CONEXT_WORD_TYPE);
     }
 
     private void findMatchBetweenTriplePattern(List<DBpediaEntityPattern> allDBpediaPatterns, String type,String contextType) throws Exception {
         for (DBpediaEntityPattern dbpediaEntityPattern : allDBpediaPatterns) {
             EntityTriple entityTriple = new EntityTriple(dbpediaEntityPattern.getTriples().values());
-            EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, contextLimit,regEx, dbpediaEntityPattern.getPatterns().values());
-            if (type.contains(PREDICATE_CONTEXT_WORD)) {
+            EntityPatternsOfAbstract entityPatternsOfAbstract = new EntityPatternsOfAbstract(analyzer, lemmaAnalyzer, dbpediaEntityPattern.getPatterns().values());
+            if (type.contains(PREDICATE_CONTEXT)) {
                 this.findPredicateContextWords(entityTriple, entityPatternsOfAbstract);
             }
-            if (type.contains(CONTEXT_WORD_PREDICATE)) {
+            if (type.contains(CONTEXT_PREDICATE)) {
                 this.findContextWordPredicate(entityTriple, entityPatternsOfAbstract);
             }
         }
 
-        if (type.contains(CONTEXT_WORD_PREDICATE)) {
+        if (type.contains(CONTEXT_PREDICATE)) {
             this.findContextPredicateDictionary();
-            String outputFile = type;
-            this.writeInFiles(outputFile + ".txt", outputFile + ".json", contexWordSortedPredicateMap);
-        } else if (type.contains(PREDICATE_CONTEXT_WORD)) {
-            this.findPredicateDictionary(contextType);
-            String outputFile = type;
-            this.writeInFiles(outputFile + ".txt", outputFile + ".json", this.predicateSortedContextWordsMap);
+            this.writeInFiles(type + TXT, type + JSON, contexWordSortedPredicateMap);
+        } else if (type.contains(PREDICATE_CONTEXT)) {
+            this.findPredicateDictionary();
+            this.writeInFiles(type + TXT, type + JSON, predicateSortedContextWordsMap);
         }
 
     }
 
-    private void findPredicateDictionary(String type) throws Exception {
+    private void findPredicateDictionary() throws Exception {
         Map<String, Map<String, Integer>> temp = new TreeMap<String, Map<String, Integer>>();
         Map<String, String> modifiedOriginal = new TreeMap<String, String>();
         Integer breakPoint = 0;
@@ -87,14 +78,20 @@ public class InterestingPredicatePattern {
             Map<String, Integer> contextWordsCount = new TreeMap<String, Integer>();
             for (EntityPatternsOfAbstract.Pattern pattern : predicateContextWordsMap.get(predicate)) {
                 if (pattern.isValid()) {
-                    String modifiedContextWords = pattern.getModifiedContextWord();
-                    String value=this.contextWordString(pattern,type);
-                    modifiedOriginal.put(modifiedContextWords, value);
-                    Integer count = 1;
-                    if (contextWordsCount.containsKey(modifiedContextWords)) {
-                        count = contextWordsCount.get(modifiedContextWords) + 1;
+                    String contextkeyword =null;
+                    if (this.CONEXT_WORD_TYPE.equals(CONTEX_POS_MIX)) {
+                        contextkeyword = pattern.getContextPosMix();
+                    } else {
+                        contextkeyword = pattern.getModifiedContextWord();
                     }
-                    contextWordsCount.put(modifiedContextWords, count);
+
+                    String value=this.contextWordString(pattern);
+                    modifiedOriginal.put(contextkeyword, value);
+                    Integer count = 1;
+                    if (contextWordsCount.containsKey(contextkeyword)) {
+                        count = contextWordsCount.get(contextkeyword) + 1;
+                    }
+                    contextWordsCount.put(contextkeyword, count);
                 }
 
             }
@@ -103,8 +100,11 @@ public class InterestingPredicatePattern {
         }
 
         for (String predicate : temp.keySet()) {
-            Map<Integer, String> sortedList = SortUtils.sortAnnotated(temp.get(predicate), modifiedOriginal, -1);
-            predicateSortedContextWordsMap.put(predicate, sortedList);
+            //PREDICATE_CONTEXT
+           
+            Map<Integer, String> sortedList = SortUtils.sortAnnotated(temp.get(predicate), modifiedOriginal,PREDICATE_CONTEXT_MinimumNumberOfEntities,PREDICATE_CONTEXT_TopWords);
+            if(!sortedList.isEmpty())
+              predicateSortedContextWordsMap.put(predicate, sortedList);
         }
 
     }
@@ -133,7 +133,8 @@ public class InterestingPredicatePattern {
         }
 
         for (String contextWord : temp.keySet()) {
-            Map<Integer, String> sortedList = SortUtils.sortAnnotated(temp.get(contextWord), modifiedOriginal, -1);
+            Map<Integer, String> sortedList = SortUtils.sortAnnotated(temp.get(contextWord), modifiedOriginal, 2,10);
+            if(!sortedList.isEmpty())
             contexWordSortedPredicateMap.put(contextWord, sortedList);
         }
     }
@@ -220,7 +221,7 @@ public class InterestingPredicatePattern {
 
     public Map<String, Map<Integer, String>> readFiles() throws Exception {
         ObjectMapper mapper = new ObjectMapper();
-        Map<String, Map<Integer, String>> predicateSortedContextWordsMap = mapper.readValue(outputDir + PREDICATE_CONTEXT_WORD + ".json", Map.class);
+        Map<String, Map<Integer, String>> predicateSortedContextWordsMap = mapper.readValue(outputDir + PREDICATE_CONTEXT + ".json", Map.class);
         return predicateSortedContextWordsMap;
     }
 
@@ -284,11 +285,21 @@ public class InterestingPredicatePattern {
         return false;
     }
 
-    private String contextWordString(EntityPatternsOfAbstract.Pattern pattern,String type) {
-        if(type.equals(this.CONTEX_POS_MIX))
-            return  "[" + pattern.getContextPosMix() + "]" + "  " + "<" + pattern.getPosTaggedText() + ">";
+    private String contextWordString(EntityPatternsOfAbstract.Pattern pattern) {
+        Set<String> mutableSet = new HashSet<String>(Arrays.asList("NNP_CD_CD", "CD_NNP_CD","CD_NN_CD","NNP_CD","CD_IN_NNP","MD_CD_CD","MD_CD_CD","IN_CD_NNP","NN_CD_CD"));
+        if(this.CONEXT_WORD_TYPE.equals(this.CONTEX_POS_MIX)){
+            String contextPosMix=pattern.getContextPosMix();
+            for(String tag:mutableSet){
+                if(contextPosMix.contains(tag)){
+                   contextPosMix=contextPosMix.replace(tag, "DATE");  
+                }
+            }
+            
+             return  "[" + contextPosMix + "]" + "  " + "<" + pattern.getPosTaggedText() + ">"+" "+"{" + pattern.getContextWord() + "}";
+
+        }
         else 
-            return  "[" + pattern.getModifiedContextWord() + "]" + "  " + "<" + pattern.getPosTaggedText() + ">";
+            return  "[" + pattern.getModifiedContextWord() + "]" + "  " + "<" + pattern.getPosTaggedText() + ">"+" "+"{" + pattern.getContextWord() + "}";
     }
 
     /*public Map<String, Map<Integer, String>> getPredicateSortedContextWords(String contextWord) {

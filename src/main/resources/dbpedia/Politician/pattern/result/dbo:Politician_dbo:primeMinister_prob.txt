@@ -1,12 +1,3 @@
-id=22  property=dbo:primeMinister  
-minister-NN  multiply=0.031144  P(minister|dbo:primeMinister)=0.064567  P(dbo:primeMinister|minister)=0.482353    
-state-NN  multiply=0.009074  P(state|dbo:primeMinister)=0.017323  P(dbo:primeMinister|state)=0.52381    
-deputy-NN  multiply=0.003251  P(deputy|dbo:primeMinister)=0.012598  P(dbo:primeMinister|deputy)=0.258065    
-serve-VBD  multiply=0.003127  P(serve|dbo:primeMinister)=0.080315  P(dbo:primeMinister|serve)=0.038931    
-appoint-VBN  multiply=0.002596  P(appoint|dbo:primeMinister)=0.029921  P(dbo:primeMinister|appoint)=0.086758    
-criticise-VBN  multiply=0.001575  P(criticise|dbo:primeMinister)=0.001575  P(dbo:primeMinister|criticise)=1.0    
-refuse-VBD  multiply=0.00105  P(refuse|dbo:primeMinister)=0.00315  P(dbo:primeMinister|refuse)=0.333333    
-swear-VBN  multiply=7.87E-4  P(swear|dbo:primeMinister)=0.004724  P(dbo:primeMinister|swear)=0.166667    
-become-VBD  multiply=7.19E-4  P(become|dbo:primeMinister)=0.017323  P(dbo:primeMinister|become)=0.041509    
-make-VBN  multiply=5.48E-4  P(make|dbo:primeMinister)=0.006299  P(dbo:primeMinister|make)=0.086957    
+id=7  property=dbo:primeMinister  
+minister_IN  NN_INmultiply=0.0  P(minister_IN|dbo:primeMinister)=0.0  P(dbo:primeMinister|minister_IN)=0.0    
 

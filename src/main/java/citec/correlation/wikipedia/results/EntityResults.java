@@ -60,73 +60,7 @@ public class EntityResults {
 
     }
 
-    public static String entityResultToString(EntityResults entities, String type) {
-      
-        String objectString = null, propertyString = "property=", idString = "id=", wordString = null;
-
-        if (type.contains(WORD_CALCULATION)) {
-            wordString = "pattern=";
-        } else if (type.contains(WORD_CALCULATION)) {
-            objectString = "object=";
-            wordString = "word=";
-        }
-
-        Map<String, List<EntityInfo>> wordEntities = new TreeMap<String, List<EntityInfo>>();
-        String str = "";
-        //for (EntityResults entities : entityResults) {
-            String entityLine = null;
-
-            if (objectString != null) {
-                entityLine = idString + entities.getObjectIndex() + "  " + propertyString + entities.getProperty() + "  " + objectString + entities.getKB() + "  ";
-            } else {
-                entityLine = idString + entities.getObjectIndex() + "  " + propertyString + entities.getProperty() + "  ";
-            }
-
-            if (entities.getNumberOfEntitiesFoundInObject() > 1) {
-                entityLine += "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject() + "\n";
-            } else {
-                entityLine += "\n";
-            }
-
-            String wordSum = "";
-            for (WordResult wordResults : entities.getDistributions()) {
-                String multiply = "multiply=" + wordResults.getMultiple();
-                String probabilty = "";
-                for (String rule : wordResults.getProbabilities().keySet()) {
-                    Double value = wordResults.getProbabilities().get(rule);
-                    String line = rule + "=" + String.valueOf(value) + "  ";
-                    probabilty += line;
-                }
-                String liftAndConfidence = null;
-                if (wordResults.getLift() != null) {
-                    liftAndConfidence = "Lift=" + wordResults.getLift() + " " + "{Confidence" + " " + "word=" + wordResults.getConfidenceWord() + " object=" + wordResults.getConfidenceObject() + " =" + wordResults.getConfidenceObjectAndKB() + " " + "Lift=" + wordResults.getOtherLift() + "}";
-                } else {
-                    liftAndConfidence = "";
-                }
-                //temporarily lift value made null, since we are not sure about the Lift calculation
-                //lift="";
-                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  " + liftAndConfidence + "\n";
-                wordSum += wordline;
-                String key = wordResults.getWord();
-                List<EntityInfo> propertyObjects = new ArrayList<EntityInfo>();
-
-                if (wordEntities.containsKey(key)) {
-                    propertyObjects = wordEntities.get(key);
-
-                } else {
-                    propertyObjects = new ArrayList<EntityInfo>();
-                }
-                EntityInfo entityInfo = new EntityInfo(entities.getProperty(), entities.getKB(), wordResults.getMultipleValue(), wordResults.getProbabilities());
-                propertyObjects.add(entityInfo);
-                wordEntities.put(key, propertyObjects);
-
-            }
-            entityLine = entityLine + wordSum + "\n";
-            str += entityLine;
-        //}
-        return str;
-    }
-
+    
     public static String getPREFIX() {
         return PREFIX;
     }

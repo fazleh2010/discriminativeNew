@@ -1,4 +1,4 @@
-id=16  property=dbp:start  object=1876  NumberOfEntitiesFoundForObject=23
-electorate-NN  multiply=0.288938  P(electorate|object)=0.913043  P(object|electorate)=0.316456    
-member-NN  multiply=0.253771  P(member|object)=0.956522  P(object|member)=0.265306    
+id=1  property=dbp:start  object=1876  NumberOfEntitiesFoundForObject=24
+electorate-NN  multiply=0.270062  P(electorate|object)=0.875  P(object|electorate)=0.308642    
+member-NN  multiply=0.253676  P(member|object)=0.958333  P(object|member)=0.264706    
 

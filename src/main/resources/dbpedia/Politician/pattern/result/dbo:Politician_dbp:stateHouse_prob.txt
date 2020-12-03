@@ -1,12 +1,4 @@
-id=70  property=dbp:stateHouse  
-serve-VBD  multiply=0.006205  P(serve|dbp:stateHouse)=0.193548  P(dbp:stateHouse|serve)=0.032061    
-run-NN  multiply=0.002629  P(run|dbp:stateHouse)=0.041475  P(dbp:stateHouse|run)=0.06338    
-green-JJ  multiply=0.002304  P(green|dbp:stateHouse)=0.004608  P(dbp:stateHouse|green)=0.5    
-degree-NN  multiply=0.002304  P(degree|dbp:stateHouse)=0.004608  P(dbp:stateHouse|degree)=0.5    
-member-NN  multiply=0.001826  P(member|dbp:stateHouse)=0.073733  P(dbp:stateHouse|member)=0.024768    
-one-CD  multiply=0.001266  P(one|dbp:stateHouse)=0.023041  P(dbp:stateHouse|one)=0.054945    
-represent-VBZ  multiply=9.94E-4  P(represent|dbp:stateHouse)=0.064516  P(dbp:stateHouse|represent)=0.015402    
-elect-VBN  multiply=8.97E-4  P(elect|dbp:stateHouse)=0.073733  P(dbp:stateHouse|elect)=0.012167    
-graduate-VBN  multiply=5.32E-4  P(graduate|dbp:stateHouse)=0.013825  P(dbp:stateHouse|graduate)=0.038462    
-win-VBN  multiply=1.94E-4  P(win|dbp:stateHouse)=0.009217  P(dbp:stateHouse|win)=0.021053    
+id=20  property=dbp:stateHouse  
+serve_IN  VBD_INmultiply=6.61E-4  P(serve_IN|dbp:stateHouse)=0.036866  P(dbp:stateHouse|serve_IN)=0.017937    
+member_IN  NN_INmultiply=0.0  P(member_IN|dbp:stateHouse)=0.0  P(dbp:stateHouse|member_IN)=0.0    
 

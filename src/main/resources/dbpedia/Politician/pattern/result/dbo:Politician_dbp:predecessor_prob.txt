@@ -1,12 +1,5 @@
-id=58  property=dbp:predecessor  
-serve-VBD  multiply=0.08889  P(serve|dbp:predecessor)=0.132778  P(dbp:predecessor|serve)=0.669466    
-elect-VBN  multiply=0.013388  P(elect|dbp:predecessor)=0.051628  P(dbp:predecessor|elect)=0.259316    
-select-VBN  multiply=0.012084  P(select|dbp:predecessor)=0.047994  P(dbp:predecessor|select)=0.251787    
-become-VBD  multiply=0.011198  P(become|dbp:predecessor)=0.021196  P(dbp:predecessor|become)=0.528302    
-appoint-VBN  multiply=0.010802  P(appoint|dbp:predecessor)=0.018925  P(dbp:predecessor|appoint)=0.570776    
-defeat-VBN  multiply=0.008993  P(defeat|dbp:predecessor)=0.014989  P(dbp:predecessor|defeat)=0.6    
-run-NN  multiply=0.007703  P(run|dbp:predecessor)=0.012869  P(dbp:predecessor|run)=0.598592    
-work-VBD  multiply=0.004014  P(work|dbp:predecessor)=0.007873  P(dbp:predecessor|work)=0.509804    
-succeed-VBD  multiply=0.00365  P(succeed|dbp:predecessor)=0.006813  P(dbp:predecessor|succeed)=0.535714    
-resign-VBD  multiply=0.003297  P(resign|dbp:predecessor)=0.006813  P(dbp:predecessor|resign)=0.483871    
+id=17  property=dbp:predecessor  
+succeed  VBDmultiply=0.003682  P(succeed|dbp:predecessor)=0.006964  P(dbp:predecessor|succeed)=0.528736    
+first_VBN  RB_VBNmultiply=7.42E-4  P(first_VBN|dbp:predecessor)=0.00106  P(dbp:predecessor|first_VBN)=0.7    
+defeat_IN  VBN_INmultiply=4.54E-4  P(defeat_IN|dbp:predecessor)=4.54E-4  P(dbp:predecessor|defeat_IN)=1.0    
 

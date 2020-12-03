@@ -1,8 +1,0 @@
-id=20  property=dbo:predecessor  
-elect-VBN  multiply=0.014312  P(elect|dbo:predecessor)=0.148191  P(dbo:predecessor|elect)=0.096578    
-defeat-VBN  multiply=0.002829  P(defeat|dbo:predecessor)=0.023337  P(dbo:predecessor|defeat)=0.121212    
-wife-NN  multiply=9.33E-4  P(wife|dbo:predecessor)=0.002334  P(dbo:predecessor|wife)=0.4    
-succeed-VBD  multiply=5.0E-4  P(succeed|dbo:predecessor)=0.007001  P(dbo:predecessor|succeed)=0.071429    
-place-VBN  multiply=2.03E-4  P(place|dbo:predecessor)=0.002334  P(dbo:predecessor|place)=0.086957    
-assume-VBN  multiply=1.17E-4  P(assume|dbo:predecessor)=0.001167  P(dbo:predecessor|assume)=0.1    
-

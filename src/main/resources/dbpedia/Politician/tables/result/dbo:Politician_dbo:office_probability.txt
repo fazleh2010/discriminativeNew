@@ -1,23 +1,19 @@
-id=85  property=dbo:office  object=Queensland Legislative  NumberOfEntitiesFoundForObject=123
-labor-NN  multiply=0.326501  P(labor|object)=0.739837  P(object|labor)=0.441315    
-australian-JJ  multiply=0.320991  P(australian|object)=0.918699  P(object|australian)=0.349398    
+id=59  property=dbo:office  object=Queensland Legislative  NumberOfEntitiesFoundForObject=129
+labor-NN  multiply=0.272881  P(labor|object)=0.705426  P(object|labor)=0.386831    
+australian-JJ  multiply=0.271819  P(australian|object)=0.891473  P(object|australian)=0.30491    
 
-id=86  property=dbo:office  object=Ontario MPP  NumberOfEntitiesFoundForObject=109
-legislative-JJ  multiply=0.11258  P(legislative|object)=0.981651  P(object|legislative)=0.114684    
-conservative-JJ  multiply=0.099341  P(conservative|object)=0.568807  P(object|conservative)=0.174648    
+id=60  property=dbo:office  object=Ontario MPP  NumberOfEntitiesFoundForObject=117
+legislative-JJ  multiply=0.109993  P(legislative|object)=0.965812  P(object|legislative)=0.113886    
+conservative-JJ  multiply=0.080896  P(conservative|object)=0.538462  P(object|conservative)=0.150235    
 
-id=87  property=dbo:office  object=Newfoundland and Labrador House of  NumberOfEntitiesFoundForObject=40
-conservative-JJ  multiply=0.078592  P(conservative|object)=0.775  P(object|conservative)=0.101408    
-by-election-NN  multiply=0.028947  P(by-election|object)=0.275  P(object|by-election)=0.105263    
+id=61  property=dbo:office  object=Speaker of the Nova Scotia House of Assembly  NumberOfEntitiesFoundForObject=21
+figure-NN  multiply=0.047939  P(figure|object)=0.47619  P(object|figure)=0.100671    
 
-id=88  property=dbo:office  object=MP  NumberOfEntitiesFoundForObject=66
-lok-NN  multiply=0.247748  P(lok|object)=0.833333  P(object|lok)=0.297297    
-14th-JJ  multiply=0.212536  P(14th|object)=0.484848  P(object|14th)=0.438356    
+id=62  property=dbo:office  object=MP  NumberOfEntitiesFoundForObject=73
+lok-NN  multiply=0.222534  P(lok|object)=0.780822  P(object|lok)=0.285    
+14th-JJ  multiply=0.200451  P(14th|object)=0.465753  P(object|14th)=0.43038    
 
-id=89  property=dbo:office  object=MLA  NumberOfEntitiesFoundForObject=31
-mla-NN  multiply=0.0565  P(mla|object)=0.548387  P(object|mla)=0.10303    
-
-id=90  property=dbo:office  object=Member of Parliament  NumberOfEntitiesFoundForObject=73
-parliament-NN  multiply=0.068526  P(parliament|object)=0.630137  P(object|parliament)=0.108747    
-labour-NN  multiply=0.053469  P(labour|object)=0.30137  P(object|labour)=0.177419    
+id=63  property=dbo:office  object=Member of Parliament  NumberOfEntitiesFoundForObject=143
+parliament-NN  multiply=0.078459  P(parliament|object)=0.531469  P(object|parliament)=0.147627    
+british-JJ  multiply=0.059674  P(british|object)=0.335664  P(object|british)=0.177778    
 

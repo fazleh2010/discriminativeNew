@@ -1,0 +1,4 @@
+id=19  property=dbo:serviceEndYear  object=1945  NumberOfEntitiesFoundForObject=23
+assembly-NN  multiply=0.227503  P(assembly|object)=0.652174  P(object|assembly)=0.348837    
+legislative-JJ  multiply=0.212665  P(legislative|object)=0.652174  P(object|legislative)=0.326087    
+

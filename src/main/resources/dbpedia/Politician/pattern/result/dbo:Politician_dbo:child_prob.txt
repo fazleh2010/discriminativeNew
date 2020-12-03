@@ -1,4 +1,0 @@
-id=6  property=dbo:child  
-father-NN  multiply=0.02086  P(father|dbo:child)=0.033898  P(dbo:child|father)=0.615385    
-son-NN  multiply=0.00209  P(son|dbo:child)=0.025424  P(dbo:child|son)=0.082192    
-

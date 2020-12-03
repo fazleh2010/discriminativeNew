@@ -1,5 +1,0 @@
-id=72  property=dbp:succeeded  
-defeat-VBN  multiply=0.002006  P(defeat|dbp:succeeded)=0.027586  P(dbp:succeeded|defeat)=0.072727    
-resign-VBD  multiply=6.18E-4  P(resign|dbp:succeeded)=0.011494  P(dbp:succeeded|resign)=0.053763    
-succeed-VBD  multiply=1.09E-4  P(succeed|dbp:succeeded)=0.004598  P(dbp:succeeded|succeed)=0.02381    
-

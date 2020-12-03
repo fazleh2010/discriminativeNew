@@ -1,5 +1,0 @@
-id=76  property=dbp:with  
-elect-VBN  multiply=0.006475  P(elect|dbp:with)=0.139588  P(dbp:with|elect)=0.046388    
-serve-VBD  multiply=0.002264  P(serve|dbp:with)=0.08238  P(dbp:with|serve)=0.027481    
-young-JJR  multiply=1.35E-4  P(young|dbp:with)=0.002288  P(dbp:with|young)=0.058824    
-

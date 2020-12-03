@@ -1,9 +1,0 @@
-id=23  property=dbo:profession  
-serve-VBD  multiply=0.002053  P(serve|dbo:profession)=0.072692  P(dbo:profession|serve)=0.028244    
-elect-VBN  multiply=0.001171  P(elect|dbo:profession)=0.05501  P(dbo:profession|elect)=0.021293    
-work-VBD  multiply=9.44E-4  P(work|dbo:profession)=0.013752  P(dbo:profession|work)=0.068627    
-found-VBN  multiply=7.67E-4  P(found|dbo:profession)=0.009823  P(dbo:profession|found)=0.078125    
-return-VBN  multiply=4.84E-4  P(return|dbo:profession)=0.007859  P(dbo:profession|return)=0.061538    
-employ-VBN  multiply=2.46E-4  P(employ|dbo:profession)=0.001965  P(dbo:profession|employ)=0.125    
-graduate-VBN  multiply=2.27E-4  P(graduate|dbo:profession)=0.005894  P(dbo:profession|graduate)=0.038462    
-

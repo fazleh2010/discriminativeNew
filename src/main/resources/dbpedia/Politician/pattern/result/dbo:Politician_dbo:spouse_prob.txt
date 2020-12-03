@@ -1,7 +1,0 @@
-id=29  property=dbo:spouse  
-wife-NN  multiply=0.011962  P(wife|dbo:spouse)=0.011962  P(dbo:spouse|wife)=1.0    
-marry-VBN  multiply=0.010066  P(marry|dbo:spouse)=0.043062  P(dbo:spouse|marry)=0.233766    
-widow-NN  multiply=0.007177  P(widow|dbo:spouse)=0.007177  P(dbo:spouse|widow)=1.0    
-serve-VBD  multiply=0.003221  P(serve|dbo:spouse)=0.100478  P(dbo:spouse|serve)=0.032061    
-meet-VBD  multiply=0.002392  P(meet|dbo:spouse)=0.002392  P(dbo:spouse|meet)=1.0    
-

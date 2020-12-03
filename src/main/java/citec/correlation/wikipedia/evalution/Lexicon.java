@@ -24,11 +24,8 @@ import java.util.TreeMap;
  */
 public class Lexicon {
 
-    public Lexicon(String dir, Map<String, List<EntityInfo>> wordEntities, Set<String> posTags) throws IOException {
-        for (String pos : posTags) {
-            Map<String, List<EntityInfo>> posEntitieInfos = entitiesSort(wordEntities, pos);
-            this.prepareLexicon(dir, posEntitieInfos, pos);
-        }
+    public Lexicon() throws IOException {
+        
     }
 
     private Map<String, List<EntityInfo>> entitiesSort(Map<String, List<EntityInfo>> wordEntities, String posTag) {
@@ -47,8 +44,16 @@ public class Lexicon {
         }
         return posEntitieInfos;
     }
+    
+    public void prepareLexiconWord(String dir, Map<String, List<EntityInfo>> wordEntities, Set<String> posTags) throws IOException {
+         for (String pos : posTags) {
+            Map<String, List<EntityInfo>> posEntitieInfos = entitiesSort(wordEntities, pos);
+            this.prepareLexiconForEvalution(dir, posEntitieInfos, pos);
+        }
+    }
+ 
 
-    private void prepareLexicon(String outputDir, Map<String, List<EntityInfo>> nounEntitieInfos, String partsOfSpeech) throws IOException {
+    public void prepareLexiconForEvalution(String outputDir, Map<String, List<EntityInfo>> nounEntitieInfos, String partsOfSpeech) throws IOException {
         if (nounEntitieInfos.isEmpty()) {
             return;
         }
@@ -71,5 +76,6 @@ public class Lexicon {
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(fileName).toFile(), lexiconUnts);
     }
+
 
 }

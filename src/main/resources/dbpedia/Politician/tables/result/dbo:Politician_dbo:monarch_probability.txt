@@ -1,0 +1,8 @@
+id=20  property=dbo:monarch  object=http://dbpedia.org/resource/Elizabeth_II  NumberOfEntitiesFoundForObject=52
+canadian-JJ  multiply=0.286199  P(canadian|object)=0.423077  P(object|canadian)=0.676471    
+former-JJ  multiply=0.162896  P(former|object)=0.230769  P(object|former)=0.705882    
+
+id=21  property=dbo:monarch  object=http://dbpedia.org/resource/Queen_Victoria  NumberOfEntitiesFoundForObject=20
+government-NN  multiply=0.192308  P(government|object)=0.5  P(object|government)=0.384615    
+judge-NN  multiply=0.163636  P(judge|object)=0.3  P(object|judge)=0.545455    
+

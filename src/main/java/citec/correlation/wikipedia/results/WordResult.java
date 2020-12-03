@@ -29,6 +29,8 @@ public class WordResult implements Comparator<WordResult> {
     public Double multiple = null;
     @JsonProperty("Word")
     public String word = null;
+    @JsonProperty("PosTag")
+    public String PosTag = null;
     @JsonProperty("multiply")
     public Double multipleValue = null;
     @JsonProperty("probabilities")
@@ -52,7 +54,8 @@ public class WordResult implements Comparator<WordResult> {
     }
 
     public WordResult(ResultTriple word, ResultTriple object, String wordString, String partOfSfSpeech) throws IOException {
-        this.word = wordString + "-" + partOfSfSpeech;
+        this.word = wordString ;
+        this.PosTag=partOfSfSpeech;
         this.probabilities.put(word.getProbability_Str(), this.format(word.getProbability_value()));
         this.probabilities.put(object.getProbability_Str(), this.format(object.getProbability_value()));
         this.multiple = this.format(object.getProbability_value() * word.getProbability_value());        
@@ -120,6 +123,10 @@ public class WordResult implements Comparator<WordResult> {
 
     public Double getLift() {
         return lift;
+    }
+
+    public String getPosTag() {
+        return PosTag;
     }
 
     

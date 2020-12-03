@@ -1,5 +1,0 @@
-id=46  property=dbp:homeTown  
-important-JJ  multiply=0.010526  P(important|dbp:homeTown)=0.052632  P(dbp:homeTown|important)=0.2    
-president-NN  multiply=0.00224  P(president|dbp:homeTown)=0.105263  P(dbp:homeTown|president)=0.021277    
-contest-VBN  multiply=0.001422  P(contest|dbp:homeTown)=0.052632  P(dbp:homeTown|contest)=0.027027    
-

@@ -1,5 +1,0 @@
-id=4  property=dbo:battle  
-serve-VBD  multiply=0.00475  P(serve|dbo:battle)=0.168182  P(dbo:battle|serve)=0.028244    
-veteran-NN  multiply=0.004545  P(veteran|dbo:battle)=0.009091  P(dbo:battle|veteran)=0.5    
-present-VBN  multiply=1.25E-4  P(present|dbo:battle)=0.022727  P(dbo:battle|present)=0.005501    
-

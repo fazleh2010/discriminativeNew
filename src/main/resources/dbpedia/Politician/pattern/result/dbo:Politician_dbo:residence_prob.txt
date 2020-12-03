@@ -1,12 +1,12 @@
-id=27  property=dbo:residence  
-be-VBD  multiply=0.037245  P(be|dbo:residence)=0.138184  P(dbo:residence|be)=0.269531    
-represent-VBZ  multiply=0.025592  P(represent|dbo:residence)=0.088117  P(dbo:residence|represent)=0.290429    
-member-NN  multiply=0.024106  P(member|dbo:residence)=0.072096  P(dbo:residence|member)=0.334365    
-serve-VBD  multiply=0.022931  P(serve|dbo:residence)=0.100134  P(dbo:residence|serve)=0.229008    
-elect-VBN  multiply=0.012509  P(elect|dbo:residence)=0.074099  P(dbo:residence|elect)=0.168821    
-reelect-VBN  multiply=0.012053  P(reelect|dbo:residence)=0.072096  P(dbo:residence|reelect)=0.167183    
-select-VBN  multiply=0.010925  P(select|dbo:residence)=0.067757  P(dbo:residence|select)=0.161239    
-selectman-NN  multiply=0.010861  P(selectman|dbo:residence)=0.067423  P(dbo:residence|selectman)=0.161085    
-bear-VBN  multiply=0.007624  P(bear|dbo:residence)=0.038385  P(dbo:residence|bear)=0.198618    
-liberal-JJ  multiply=0.007013  P(liberal|dbo:residence)=0.014352  P(dbo:residence|liberal)=0.488636    
+id=9  property=dbo:residence  
+serve  RB_VBNmultiply=0.035731  P(serve|dbo:residence)=0.136182  P(dbo:residence|serve)=0.262379    
+represent  VBNmultiply=0.028872  P(represent|dbo:residence)=0.095127  P(dbo:residence|represent)=0.303514    
+represent_JJ  VBZ_JJmultiply=0.009939  P(represent_JJ|dbo:residence)=0.036382  P(dbo:residence|represent_JJ)=0.273183    
+serve_IN  VBD_INmultiply=0.008568  P(serve_IN|dbo:residence)=0.035714  P(dbo:residence|serve_IN)=0.23991    
+serve_NN  VBD_NNmultiply=0.008568  P(serve_NN|dbo:residence)=0.035714  P(dbo:residence|serve_NN)=0.23991    
+elect_TO  VBN_TOmultiply=0.002506  P(elect_TO|dbo:residence)=0.00968  P(dbo:residence|elect_TO)=0.258929    
+member_IN  NN_INmultiply=0.001077  P(member_IN|dbo:residence)=0.003338  P(dbo:residence|member_IN)=0.322581    
+die_IN  VBD_INmultiply=1.67E-4  P(die_IN|dbo:residence)=3.34E-4  P(dbo:residence|die_IN)=0.5    
+move_TO  VBN_TOmultiply=0.0  P(move_TO|dbo:residence)=0.0  P(dbo:residence|move_TO)=0.0    
+bear_IN  VBN_INmultiply=0.0  P(bear_IN|dbo:residence)=0.0  P(dbo:residence|bear_IN)=0.0    
 

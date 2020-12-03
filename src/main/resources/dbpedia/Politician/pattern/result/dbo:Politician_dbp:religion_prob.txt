@@ -1,4 +1,0 @@
-id=62  property=dbp:religion  
-member-NN  multiply=0.01044  P(member|dbp:religion)=0.12043  P(dbp:religion|member)=0.086687    
-participate-VBD  multiply=0.001613  P(participate|dbp:religion)=0.006452  P(dbp:religion|participate)=0.25    
-

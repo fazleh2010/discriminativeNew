@@ -1,12 +1,4 @@
-id=28  property=dbo:restingPlace  
-list-VBN  multiply=0.014613  P(list|dbo:restingPlace)=0.037344  P(dbo:restingPlace|list)=0.391304    
-bear-VBN  multiply=0.0109  P(bear|dbo:restingPlace)=0.161826  P(dbo:restingPlace|bear)=0.067358    
-move-VBN  multiply=0.006433  P(move|dbo:restingPlace)=0.053942  P(dbo:restingPlace|move)=0.119266    
-settle-VBN  multiply=0.006224  P(settle|dbo:restingPlace)=0.024896  P(dbo:restingPlace|settle)=0.25    
-serve-VBD  multiply=0.005857  P(serve|dbo:restingPlace)=0.178423  P(dbo:restingPlace|serve)=0.032824    
-elude-VBD  multiply=0.004149  P(elude|dbo:restingPlace)=0.004149  P(dbo:restingPlace|elude)=1.0    
-bury-VBN  multiply=0.003905  P(bury|dbo:restingPlace)=0.016598  P(dbo:restingPlace|bury)=0.235294    
-judge-NN  multiply=0.00332  P(judge|dbo:restingPlace)=0.008299  P(dbo:restingPlace|judge)=0.4    
-member-NN  multiply=0.003109  P(member|dbo:restingPlace)=0.091286  P(dbo:restingPlace|member)=0.034056    
-marry-VBN  multiply=0.002641  P(marry|dbo:restingPlace)=0.029046  P(dbo:restingPlace|marry)=0.090909    
+id=10  property=dbo:restingPlace  
+serve_NN  VBD_NNmultiply=0.003721  P(serve_NN|dbo:restingPlace)=0.082988  P(dbo:restingPlace|serve_NN)=0.044843    
+move_TO  VBN_TOmultiply=0.0  P(move_TO|dbo:restingPlace)=0.0  P(dbo:restingPlace|move_TO)=0.0    
 

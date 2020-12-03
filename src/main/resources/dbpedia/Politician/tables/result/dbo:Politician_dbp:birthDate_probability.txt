@@ -1,0 +1,7 @@
+id=65  property=dbp:birthDate  object=1950  NumberOfEntitiesFoundForObject=23
+eine-NN  multiply=0.029532  P(eine|object)=0.26087  P(object|eine)=0.113208    
+
+id=66  property=dbp:birthDate  object=1956  NumberOfEntitiesFoundForObject=26
+polnischer-NN  multiply=0.023468  P(polnischer|object)=0.230769  P(object|polnischer)=0.101695    
+bürgerplattform-NN  multiply=0.020362  P(bürgerplattform|object)=0.115385  P(object|bürgerplattform)=0.176471    
+

@@ -1,4 +1,4 @@
-id=75  property=dbo:restingPlace  object=http://dbpedia.org/resource/Connecticut  NumberOfEntitiesFoundForObject=62
-session-NN  multiply=0.428403  P(session|object)=0.532258  P(object|session)=0.804878    
-son-NN  multiply=0.286738  P(son|object)=0.645161  P(object|son)=0.444444    
+id=58  property=dbo:restingPlace  object=http://dbpedia.org/resource/Connecticut  NumberOfEntitiesFoundForObject=67
+session-NN  multiply=0.396432  P(session|object)=0.492537  P(object|session)=0.804878    
+son-NN  multiply=0.241246  P(son|object)=0.61194  P(object|son)=0.394231    
 

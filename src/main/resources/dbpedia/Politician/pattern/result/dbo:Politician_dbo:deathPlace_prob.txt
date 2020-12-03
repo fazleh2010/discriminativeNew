@@ -1,12 +1,12 @@
-id=9  property=dbo:deathPlace  
-bear-VBN  multiply=0.053762  P(bear|dbo:deathPlace)=0.093759  P(dbo:deathPlace|bear)=0.573402    
-die-VBD  multiply=0.048766  P(die|dbo:deathPlace)=0.057611  P(dbo:deathPlace|die)=0.846473    
-serve-VBD  multiply=0.042116  P(serve|dbo:deathPlace)=0.124823  P(dbo:deathPlace|serve)=0.337405    
-represent-VBZ  multiply=0.026671  P(represent|dbo:deathPlace)=0.082745  P(dbo:deathPlace|represent)=0.322332    
-become-VBD  multiply=0.010871  P(become|dbo:deathPlace)=0.028523  P(dbo:deathPlace|become)=0.381132    
-come-VBD  multiply=0.010646  P(come|dbo:deathPlace)=0.027958  P(dbo:deathPlace|come)=0.380769    
-move-VBN  multiply=0.009641  P(move|dbo:deathPlace)=0.017227  P(dbo:deathPlace|move)=0.559633    
-member-NN  multiply=0.008815  P(member|dbo:deathPlace)=0.040102  P(dbo:deathPlace|member)=0.219814    
-elect-VBN  multiply=0.006728  P(elect|dbo:deathPlace)=0.049986  P(dbo:deathPlace|elect)=0.134601    
-selectman-NN  multiply=0.006585  P(selectman|dbo:deathPlace)=0.048291  P(dbo:deathPlace|selectman)=0.136364    
+id=4  property=dbo:deathPlace  
+serve  RB_VBNmultiply=0.044141  P(serve|dbo:deathPlace)=0.139226  P(dbo:deathPlace|serve)=0.317042    
+represent  VBNmultiply=0.025819  P(represent|dbo:deathPlace)=0.082745  P(dbo:deathPlace|represent)=0.312034    
+serve_IN  VBD_INmultiply=0.017871  P(serve_IN|dbo:deathPlace)=0.047444  P(dbo:deathPlace|serve_IN)=0.376682    
+serve_NN  VBD_NNmultiply=0.017871  P(serve_NN|dbo:deathPlace)=0.047444  P(dbo:deathPlace|serve_NN)=0.376682    
+represent_NN  VBN_NNmultiply=0.010023  P(represent_NN|dbo:deathPlace)=0.033606  P(dbo:deathPlace|represent_NN)=0.298246    
+elect_TO  VBN_TOmultiply=0.004239  P(elect_TO|dbo:deathPlace)=0.011579  P(dbo:deathPlace|elect_TO)=0.366071    
+member_IN  NN_INmultiply=5.83E-4  P(member_IN|dbo:deathPlace)=0.002259  P(dbo:deathPlace|member_IN)=0.258065    
+bear_IN  VBN_INmultiply=2.82E-4  P(bear_IN|dbo:deathPlace)=2.82E-4  P(dbo:deathPlace|bear_IN)=1.0    
+move_TO  VBN_TOmultiply=1.41E-4  P(move_TO|dbo:deathPlace)=2.82E-4  P(dbo:deathPlace|move_TO)=0.5    
+die_IN  VBD_INmultiply=1.41E-4  P(die_IN|dbo:deathPlace)=2.82E-4  P(dbo:deathPlace|die_IN)=0.5    
 
