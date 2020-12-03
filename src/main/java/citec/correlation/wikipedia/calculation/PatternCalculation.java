@@ -5,11 +5,9 @@
  */
 package citec.correlation.wikipedia.calculation;
 
-import citec.correlation.wikipedia.element.InterestingPredicatePattern;
 import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.core.analyzer.LemmaAnalyzer;
 import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER_TEXT;
-import citec.correlation.wikipedia.element.ContextWordConstants;
 import citec.correlation.wikipedia.element.DBpediaEntityPattern;
 import citec.correlation.wikipedia.evalution.EntityInfo;
 import citec.correlation.wikipedia.evalution.Lexicon;
@@ -54,14 +52,14 @@ public class PatternCalculation implements ContextWordConstants{
     private List<DBpediaEntityPattern> allDBpediaPatterns = new ArrayList<DBpediaEntityPattern>();
     private Map<String, EntityTriple.Triple> allTriplesMap = new TreeMap<String, EntityTriple.Triple>();
     private Map<String, EntityPatternsOfAbstract.Pattern> linguisticPatterns = new TreeMap<String, EntityPatternsOfAbstract.Pattern>();
-    private InterestingPredicatePattern interestingPattern;
+    private InterestingPatterns interestingPattern;
     private String[] dir = new String[]{"tables/", "selectedPatterns/", "result/"};
     private Map<String, List<EntityInfo>> patternEntities = new TreeMap<String, List<EntityInfo>>();
 
 
     public PatternCalculation(String inputDir,String inputFile, String dbo_ClassName) throws Exception {
         this.allDBpediaPatterns = getAllElements(inputDir + dir[0], inputFile, dbo_ClassName);
-        this.interestingPattern = new InterestingPredicatePattern(analyzer, lemmaAnalyzer, ContextWordConstants.CONTEX_POS_MIX,inputDir + dir[1], allDBpediaPatterns);
+        this.interestingPattern = new InterestingPatterns(analyzer, lemmaAnalyzer, ContextWordConstants.CONTEX_POS_MIX,inputDir + dir[1], allDBpediaPatterns);
         this.calculateProbability(inputDir, dbo_ClassName);
     }
 

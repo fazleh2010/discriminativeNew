@@ -11,7 +11,6 @@ import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.wikipedia.utils.FileFolderUtils;
 import citec.correlation.wikipedia.utils.SortUtils;
 import citec.correlation.wikipedia.element.DBpediaEntity;
-import citec.correlation.wikipedia.element.InterestedWords;
 import citec.correlation.wikipedia.results.ResultTriple;
 import citec.correlation.wikipedia.evalution.EntityInfo;
 import citec.correlation.wikipedia.evalution.Lexicon;

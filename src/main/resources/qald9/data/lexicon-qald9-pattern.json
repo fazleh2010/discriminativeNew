@@ -91,7 +91,7 @@
   "word" : "born",
   "pairs" : [],
   "questions" : {
-    "3" : "Which people were born in Heraklion?  [bear+in+dbo:Location=dbo:birthPlace]",
+    "3" : "Which people were born in Heraklion?  [bear+IN+dbo:Location=dbo:birthPlace]",
     "40" : "Give all swimmers that were born in Moscow. [bear+in+dbo:Location=dbo:birthPlace]",
     "43" : "Which presidents were born in 1945? [bear_IN_DATE=dbo:dbo:birthDate]",
     "69" : "Give me all actors who were born in Paris after 1950. [bear_IN_DATE=dbo:dbo:birthPlace]",

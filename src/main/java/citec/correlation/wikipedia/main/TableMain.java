@@ -15,7 +15,7 @@ import citec.correlation.wikipedia.table.Tables;
 import citec.correlation.core.yaml.ParseYaml;
 import citec.correlation.wikipedia.element.DBpediaEntityPattern;
 import citec.correlation.wikipedia.element.DBpediaProperty;
-import citec.correlation.wikipedia.element.InterestedWords;
+import citec.correlation.wikipedia.calculation.InterestedWords;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -56,7 +56,7 @@ import org.apache.commons.io.FileUtils;
  *
  * @author elahi
  */
-public class TableMain implements PropertyNotation {
+public class TableMain implements PropertyNotation,CategoryConstant {
     //Horrible codes..just a play ground for all kinds of work
 
     private static String qald9Dir = "src/main/resources/qald9/data/";
@@ -80,8 +80,6 @@ public class TableMain implements PropertyNotation {
     private static final String PROPERTY_GENERATION = "PROPERTY_GENERATION";
     private static final String INTERESRTING_WORD = "INTERESRTING_WORD";
     private static final String WORD_CALCULATION = "WORD_CALCULATION";
-    private static final String MEAN_RECIPROCAL_WORD = "MEAN_RECIPROCAL_OBJECT";
-    private static final String MEAN_RECIPROCAL_PATTERN = "MEAN_RECIPROCAL_PROPERTY";
     private static final String QALD = "QALD";
     private static final String WRITE_PATTERNS = "WRITE_PATTERNS";
     private static final String PATTERN_CALCULATION = "PATTERN_CALCULATION";
@@ -106,7 +104,7 @@ public class TableMain implements PropertyNotation {
 
         //QALDMain qaldMain=new QALDMain (posTags,qald9Dir,trainingJson);
         TableMain trainingTable = new TableMain();
-        String type = MEAN_RECIPROCAL_WORD;
+        String type = MEAN_RECIPROCAL_PATTERN;
         Tables tables = null;
         String dbo_ClassName = PropertyNotation.dbo_Politician;
         freqClasses.add(dbo_ClassName);
@@ -157,12 +155,12 @@ public class TableMain implements PropertyNotation {
         if (type.equals(MEAN_RECIPROCAL_WORD)) {
            String qaldFileName = qald9Dir + "JJ-qald9" + ".json";
            String conditionalFilename = qald9Dir + "lexicon-conditional-JJ" + ".json";
-           Comparision comparision = new Comparision(qaldFileName, conditionalFilename);
+           Comparision comparision = new Comparision(qaldFileName, conditionalFilename,MEAN_RECIPROCAL_WORD);
         }
         if (type.equals(MEAN_RECIPROCAL_PATTERN)) {
-           String qaldFileName = qald9Dir + "JJ-qald9" + ".json";
-           String conditionalFilename = qald9Dir + "lexicon-conditional-JJ" + ".json";
-           Comparision comparision = new Comparision(qaldFileName, conditionalFilename);
+           String qaldFileName = qald9Dir + "lexicon-qald9-pattern" + ".json";
+           String conditionalFilename = qald9Dir + "lexicon-conditional-pattern" + ".json";
+           Comparision comparision = new Comparision(qaldFileName, conditionalFilename,MEAN_RECIPROCAL_PATTERN);
         }
         if (type.equals(WRITE_PATTERNS)) {
             addPatterns(inputFile, rawFiles, dbo_ClassName, classDir);

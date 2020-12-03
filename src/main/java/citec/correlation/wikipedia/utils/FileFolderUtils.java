@@ -10,7 +10,7 @@ import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.element.DBpediaEntityPattern;
 import citec.correlation.wikipedia.qald.Unit;
 import citec.correlation.wikipedia.results.EntityResults;
-import citec.correlation.wikipedia.element.InterestingPredicatePattern;
+import citec.correlation.wikipedia.calculation.InterestingPatterns;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedReader;
@@ -406,7 +406,7 @@ public class FileFolderUtils {
     }
 
     
-    public void writeDictionaryToJsonFile(List<InterestingPredicatePattern.Property> units, String filename) throws IOException, Exception {
+    public void writeDictionaryToJsonFile(List<InterestingPatterns.Property> units, String filename) throws IOException, Exception {
         if (units.isEmpty()) {
             throw new Exception("no data found to write in the file!!");
         }

@@ -3,10 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.element;
+package citec.correlation.wikipedia.calculation;
 
+import citec.correlation.wikipedia.calculation.ContextWordConstants;
 import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.core.analyzer.LemmaAnalyzer;
+import citec.correlation.wikipedia.element.DBpediaEntityPattern;
 import citec.correlation.wikipedia.utils.FormatAndMatch;
 import citec.correlation.wikipedia.utils.SortUtils;
 import citec.correlation.wikipedia.linking.EntityPatternsOfAbstract;
@@ -27,7 +29,7 @@ import java.util.TreeMap;
  *
  * @author elahi
  */
-public class InterestingPredicatePattern implements ContextWordConstants{
+public class InterestingPatterns implements ContextWordConstants{
 
     private Map<String, Map<Integer, String>> predicateSortedContextWordsMap = new TreeMap<String, Map<Integer, String>>();
     private Map<String, List<EntityPatternsOfAbstract.Pattern>> predicateContextWordsMap = new TreeMap<String, List<EntityPatternsOfAbstract.Pattern>>();
@@ -38,7 +40,7 @@ public class InterestingPredicatePattern implements ContextWordConstants{
     private String CONEXT_WORD_TYPE;
 
 
-    public InterestingPredicatePattern(Analyzer analyzer, LemmaAnalyzer lemmaAnalyzer, String CONEXT_WORD_TYPE,String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
+    public InterestingPatterns(Analyzer analyzer, LemmaAnalyzer lemmaAnalyzer, String CONEXT_WORD_TYPE,String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
         this.analyzer = analyzer;
         this.outputDir = outputDir;
         this.CONEXT_WORD_TYPE=CONEXT_WORD_TYPE;

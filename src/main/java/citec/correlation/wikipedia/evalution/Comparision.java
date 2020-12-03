@@ -19,39 +19,42 @@ import java.util.Set;
 import java.util.TreeMap;
 import citec.correlation.wikipedia.evalution.ir.AveP;
 import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRank;
+import citec.correlation.wikipedia.main.CategoryConstant;
 import java.util.HashSet;
 
 /**
  *
  * @author elahi
  */
-public class Comparision {
-     private Map<String, LexiconUnit> lexicons = new TreeMap<String, LexiconUnit> ();
-     private Map<String, Unit> qald = new TreeMap<String, Unit> ();
-     private Set<String> commonWords =new HashSet<String>();
+public class Comparision implements CategoryConstant {
+
+    private Map<String, LexiconUnit> lexicons = new TreeMap<String, LexiconUnit>();
+    private Map<String, Unit> qald = new TreeMap<String, Unit>();
+    private Set<String> commonWords = new HashSet<String>();
 
 
     /*private static List<Map<String, Double>> predictionsMaps = new ArrayList<Map<String, Double>>();
     private static List<List<String>> predictionsLists = new ArrayList<List<String>>();
     private static List<Map<String, Boolean>> golds = new ArrayList<Map<String, Boolean>>();
     private static Map<String, Boolean> allGolds;*/
-
-    public Comparision(String qaldFileName, String methodFileName) throws IOException {
+    public Comparision(String qaldFileName, String methodFileName, String type) throws IOException {
         this.lexicons = getLexicon(methodFileName);
         this.qald = getQald(qaldFileName);
-        this.comparisions();
+        if (type.contains(CategoryConstant.MEAN_RECIPROCAL_WORD)) {
+            this.comparisionsWords();
+        } else if (type.contains(CategoryConstant.MEAN_RECIPROCAL_PATTERN)) {
+            this.compersionsPatterns();
+        }
     }
 
     private Map<String, LexiconUnit> getLexicon(String methodFileName) throws IOException {
         Map<String, LexiconUnit> lexicons = new TreeMap<String, LexiconUnit>();
-
         ObjectMapper mapper = new ObjectMapper();
         List<LexiconUnit> lexiconUnits = mapper.readValue(Paths.get(methodFileName).toFile(), new TypeReference<List<LexiconUnit>>() {
         });
         for (LexiconUnit LexiconUnit : lexiconUnits) {
             lexicons.put(LexiconUnit.getWord(), LexiconUnit);
         }
-
         return lexicons;
     }
 
@@ -66,15 +69,9 @@ public class Comparision {
         return qald;
     }
 
-    private double calculate(Map<String, Double> predict, Map<String, Boolean> goldRelevance) {
-        double predictedReciprocalRank
-                = MeanReciprocalRank.getReciprocalRank(predict, goldRelevance);
-        return predictedReciprocalRank;
-    }
-
-    private void comparisions() {
+    private void comparisionsWords() {
         Set<String> intersection = Sets.intersection(qald.keySet(), lexicons.keySet());
-        List<String> commonWords=new ArrayList<String>(intersection);
+        List<String> commonWords = new ArrayList<String>(intersection);
 
         Integer index = 0;
         for (String word : commonWords) {
@@ -83,8 +80,9 @@ public class Comparision {
             Unit unit = qald.get(word);
             //"dbo:country res:Australia";
             String sparql = "dbo:country res:Australia";
-           if(!unit.getPairs().isEmpty())
-               sparql=unit.getPairs().get(0);
+            if (!unit.getPairs().isEmpty()) {
+                sparql = unit.getPairs().get(0);
+            }
             LexiconUnit LexiconUnit = lexicons.get(word);
             Map<String, Boolean> goldRelevance = new HashMap<String, Boolean>();
             Map<String, Double> predict = new HashMap<String, Double>();
@@ -153,6 +151,18 @@ public class Comparision {
                 }
             }
         }*/
+    }
+
+    private void compersionsPatterns() {
+        Set<String> intersection = Sets.intersection(qald.keySet(), lexicons.keySet());
+        List<String> commonWords = new ArrayList<String>(intersection);
+        System.out.println(commonWords);
+    }
+
+    private double calculate(Map<String, Double> predict, Map<String, Boolean> goldRelevance) {
+        double predictedReciprocalRank
+                = MeanReciprocalRank.getReciprocalRank(predict, goldRelevance);
+        return predictedReciprocalRank;
     }
 
 }
