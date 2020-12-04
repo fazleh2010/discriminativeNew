@@ -3,7 +3,7 @@ package citec.correlation.wikipedia.evalution.ir;
 import java.util.List;
 import java.util.Map;
 
-import citec.correlation.wikipedia.utils.U;
+import citec.correlation.wikipedia.utils.EvalutionUtil;
 
 /**
  * Implementation of precisions at a given k.
@@ -24,8 +24,8 @@ public class Precision extends IrAbstract{
    * @return precision at k
    */
   public static double computePrecisionAtK(List<String> ranking, Map<String, Boolean> gold, int k) {
-    U.ifFalseCrash(k > 0, "k should be > 0");
-    U.ifFalseCrash(GoldContainsAllinRanking(ranking, gold), 
+    EvalutionUtil.ifFalseCrash(k > 0, "k should be > 0");
+    EvalutionUtil.ifFalseCrash(GoldContainsAllinRanking(ranking, gold), 
        "At least one id in the predicted set is not included in the gold set");
     
     if (k > ranking.size()) {
@@ -74,8 +74,8 @@ public class Precision extends IrAbstract{
    */
   public static  double[] 
   computePrecisions(List<String> ranking, Map<String, Boolean> gold, int threshold) {
-    U.ifFalseCrash(threshold > 0, "The threshold should be > 0");
-    U.ifFalseCrash(GoldContainsAllinRanking(ranking, gold), 
+    EvalutionUtil.ifFalseCrash(threshold > 0, "The threshold should be > 0");
+    EvalutionUtil.ifFalseCrash(GoldContainsAllinRanking(ranking, gold), 
        "There is at least one id in the predicted set which is not included in the gold set");
 
     double[] precisions = new double[Math.min(ranking.size(), threshold)];

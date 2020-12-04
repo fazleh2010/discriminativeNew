@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import citec.correlation.wikipedia.utils.U;
+import citec.correlation.wikipedia.utils.EvalutionUtil;
 
 
 /**
@@ -32,7 +32,7 @@ public class IrAbstract {
    * @param thres value > 0
    */
   public static void setThreshold(int threshold) {
-    U.ifFalseCrash(threshold>0,  
+    EvalutionUtil.ifFalseCrash(threshold>0,  
         "The threshold for the relevant documents in the ranking should be bigger than 0");
     thres = threshold;
   }

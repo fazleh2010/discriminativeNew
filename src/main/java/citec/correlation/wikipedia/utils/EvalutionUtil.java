@@ -1,6 +1,6 @@
 package citec.correlation.wikipedia.utils;
 
-public class U {
+public class EvalutionUtil {
 
   public static void ifFalseCrash(boolean value, String message) {
     if (! value) {

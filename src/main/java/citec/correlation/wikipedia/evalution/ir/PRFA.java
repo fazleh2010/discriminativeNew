@@ -3,7 +3,7 @@ package citec.correlation.wikipedia.evalution.ir;
 import java.util.List;
 import java.util.Map;
 
-import citec.correlation.wikipedia.utils.U;
+import citec.correlation.wikipedia.utils.EvalutionUtil;
 
 /**
  * Implementation of standard Accuracy, Precision, Recall, and F-measure. Refer to 
@@ -93,7 +93,7 @@ public class PRFA {
   }
 
   public static double getAccuracy() {
-    U.ifFalseCrash(tp+fp+tn+fn != 0, 
+    EvalutionUtil.ifFalseCrash(tp+fp+tn+fn != 0, 
         "The dataset was not set properly. Use load() first");
     return (tp + tn)/ (tp + tn + fp + fn);
   }
@@ -126,7 +126,7 @@ public class PRFA {
    * @return precision
    */
   public static double getPrecision() {
-    U.ifFalseCrash(tp+fp+tn+fn != 0, 
+    EvalutionUtil.ifFalseCrash(tp+fp+tn+fn != 0, 
         "The dataset was not set properly. Use load() first");
     return tp / (tp + fp);
   }
@@ -135,7 +135,7 @@ public class PRFA {
    * @return recall
    */
   public static double getRecall() {
-    U.ifFalseCrash(tp+fp+tn+fn != 0, 
+    EvalutionUtil.ifFalseCrash(tp+fp+tn+fn != 0, 
         "The dataset was not set properly. Use load() first");
     return tp / (tp + fn);
   }

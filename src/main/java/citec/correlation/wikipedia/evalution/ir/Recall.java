@@ -3,7 +3,7 @@ package citec.correlation.wikipedia.evalution.ir;
 import java.util.List;
 import java.util.Map;
 
-import citec.correlation.wikipedia.utils.U;
+import citec.correlation.wikipedia.utils.EvalutionUtil;
 
 /**
  * Class to compute recalls at different levels of k for a given ranking.
@@ -41,8 +41,8 @@ public class Recall extends IrAbstract{
    */
   public static double[] 
   computeRecalls(List<String> ranking, Map<String, Boolean> gold, int threshold) {
-    U.ifFalseCrash(threshold > 0, "The threshold should ge > 0");
-    U.ifFalseCrash(GoldContainsAllinRanking(ranking, gold), 
+    EvalutionUtil.ifFalseCrash(threshold > 0, "The threshold should ge > 0");
+    EvalutionUtil.ifFalseCrash(GoldContainsAllinRanking(ranking, gold), 
         "There is at least one id in the predicted set which is not included in the gold set");
     
     double[] recalls = new double[Math.min(threshold, ranking.size())];

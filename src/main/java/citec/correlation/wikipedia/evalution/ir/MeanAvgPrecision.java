@@ -3,7 +3,7 @@ package citec.correlation.wikipedia.evalution.ir;
 import java.util.List;
 import java.util.Map;
 
-import citec.correlation.wikipedia.utils.U;
+import citec.correlation.wikipedia.utils.EvalutionUtil;
 
 /**
  * This class implements Mean average precision 
@@ -14,7 +14,7 @@ public class MeanAvgPrecision {
   
   public static double 
   computeWithRankingList(List<List<String>> rankings, List<Map<String, Boolean>> gold) {
-    U.ifFalseCrash(rankings.size() == gold.size(), 
+    EvalutionUtil.ifFalseCrash(rankings.size() == gold.size(), 
         "The size of predictions and gold should be identical");
     double map = 0;
     
@@ -36,7 +36,7 @@ public class MeanAvgPrecision {
    */
   public static double 
   computeWithRankingMap(List<Map<String, Double>> rankings, List<Map<String, Boolean>> gold) {
-    U.ifFalseCrash(rankings.size() == gold.size(), 
+    EvalutionUtil.ifFalseCrash(rankings.size() == gold.size(), 
         "The size of predictions and gold should be identical");
     double map = 0;
     

@@ -16,7 +16,7 @@ import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 
 import citec.correlation.wikipedia.evalution.ir.AveP;
-import citec.correlation.wikipedia.utils.U;
+import citec.correlation.wikipedia.utils.EvalutionUtil;
 
 
 
@@ -151,7 +151,7 @@ public class CqaEcml2016ScoreFileReader {
    */
   private static List<ScoreRecord> loadDataset(String scoreFile) {
     File f = new File(scoreFile);
-    U.ifFalseCrash(f.canRead(), "I cannot read the input score file " + scoreFile);
+    EvalutionUtil.ifFalseCrash(f.canRead(), "I cannot read the input score file " + scoreFile);
     
     List<ScoreRecord> records = new ArrayList<ScoreRecord>();
     CSVParser csvReader;
@@ -164,7 +164,7 @@ public class CqaEcml2016ScoreFileReader {
       int i=0;
       while (it.hasNext()) {
         CSVRecord record = it.next();
-        U.ifFalseCrash(record.size() == EXPECTED_FIELDS, 
+        EvalutionUtil.ifFalseCrash(record.size() == EXPECTED_FIELDS, 
             String.format("Line %d in file %s has %d fields: %d expected", 
             i, scoreFile, record.size(), EXPECTED_FIELDS)); 
         

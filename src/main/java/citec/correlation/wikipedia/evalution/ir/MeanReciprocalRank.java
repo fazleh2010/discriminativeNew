@@ -3,7 +3,7 @@ package citec.correlation.wikipedia.evalution.ir;
 import java.util.List;
 import java.util.Map;
 
-import citec.correlation.wikipedia.utils.U;
+import citec.correlation.wikipedia.utils.EvalutionUtil;
 
 /**
  * This class implements Mean reciprocal rank 
@@ -36,7 +36,7 @@ public class MeanReciprocalRank {
   public static double 
   getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
 
-    U.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold), 
+    EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold), 
        "I cannot compute MRR");
 
     double reciprocalRank = 0;
@@ -64,7 +64,7 @@ public class MeanReciprocalRank {
    */
   public static double[] 
   computeReciprocalRanks(final List<List<String>> rankings, final List<Map<String, Boolean>> gold) {
-    U.ifFalseCrash(rankings.size() == gold.size(), 
+    EvalutionUtil.ifFalseCrash(rankings.size() == gold.size(), 
         "The size of predictions and gold should be identical");
     double[] mrrs = new double[rankings.size()];
     
@@ -88,7 +88,7 @@ public class MeanReciprocalRank {
    */
   public static double 
   computeWithRankingList(final List<List<String>> rankings, final List<Map<String, Boolean>> gold) {
-    U.ifFalseCrash(rankings.size() == gold.size(), 
+    EvalutionUtil.ifFalseCrash(rankings.size() == gold.size(), 
         "The size of predictions and gold should be identical");
     double mrr = 0;
     
@@ -163,7 +163,7 @@ public class MeanReciprocalRank {
    */
   public static double 
   computeWithRankingMap(List<Map<String, Double>> rankings, List<Map<String, Boolean>> gold) {
-    U.ifFalseCrash(rankings.size() == gold.size(), 
+    EvalutionUtil.ifFalseCrash(rankings.size() == gold.size(), 
         "The size of predictions and gold should be identical");
     double mrr = 0;
     

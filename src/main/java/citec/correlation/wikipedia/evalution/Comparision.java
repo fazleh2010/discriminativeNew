@@ -28,22 +28,19 @@ import java.util.HashSet;
  */
 public class Comparision implements CategoryConstant {
 
-    private Map<String, LexiconUnit> lexicons = new TreeMap<String, LexiconUnit>();
-    private Map<String, Unit> qald = new TreeMap<String, Unit>();
-    private Set<String> commonWords = new HashSet<String>();
-
+    private Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
 
     /*private static List<Map<String, Double>> predictionsMaps = new ArrayList<Map<String, Double>>();
     private static List<List<String>> predictionsLists = new ArrayList<List<String>>();
     private static List<Map<String, Boolean>> golds = new ArrayList<Map<String, Boolean>>();
     private static Map<String, Boolean> allGolds;*/
     public Comparision(String qaldFileName, String methodFileName, String type) throws IOException {
-        this.lexicons = getLexicon(methodFileName);
-        this.qald = getQald(qaldFileName);
+        Map<String, LexiconUnit> lexicons = getLexicon(methodFileName);
+        Map<String, Unit> qald = getQald(qaldFileName);
         if (type.contains(CategoryConstant.MEAN_RECIPROCAL_WORD)) {
-            this.comparisionsWords();
+            this.comparisionsWords(lexicons, qald);
         } else if (type.contains(CategoryConstant.MEAN_RECIPROCAL_PATTERN)) {
-            this.compersionsPatterns();
+            this.meanReciprocal = this.compersionsPattern(lexicons, qald);
         }
     }
 
@@ -69,7 +66,7 @@ public class Comparision implements CategoryConstant {
         return qald;
     }
 
-    private void comparisionsWords() {
+    private void comparisionsWords(Map<String, LexiconUnit> lexicons, Map<String, Unit> qald) {
         Set<String> intersection = Sets.intersection(qald.keySet(), lexicons.keySet());
         List<String> commonWords = new ArrayList<String>(intersection);
 
@@ -153,16 +150,53 @@ public class Comparision implements CategoryConstant {
         }*/
     }
 
-    private void compersionsPatterns() {
-        Set<String> intersection = Sets.intersection(qald.keySet(), lexicons.keySet());
+    private Map<String, Double> compersionsPattern(Map<String, LexiconUnit> lexiconDic, Map<String, Unit> qaldDic) {
+        Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
+        Set<String> intersection = Sets.intersection(qaldDic.keySet(), lexiconDic.keySet());
         List<String> commonWords = new ArrayList<String>(intersection);
-        System.out.println(commonWords);
+        for (String word : commonWords) {
+            Unit qaldElement = qaldDic.get(word);
+            LexiconUnit lexiconElement = lexiconDic.get(word);
+            Double predictedReciprocalRank = this.compersionsPattern(lexiconElement, qaldElement);
+            System.out.println(word + " predictedReciprocalRank: " + predictedReciprocalRank);
+        }
+        return meanReciprocal;
     }
 
     private double calculate(Map<String, Double> predict, Map<String, Boolean> goldRelevance) {
         double predictedReciprocalRank
                 = MeanReciprocalRank.getReciprocalRank(predict, goldRelevance);
         return predictedReciprocalRank;
+    }
+
+    private Double compersionsPattern(LexiconUnit LexiconUnit, Unit unit) {
+        Map<String, Boolean> goldRelevance = new HashMap<String, Boolean>();
+        Map<String, Double> predict = new HashMap<String, Double>();
+        for (Integer rank : LexiconUnit.getEntityInfos().keySet()) {
+            List<String> pairs = LexiconUnit.getEntityInfos().get(rank);
+            String predicate = pairs.get(0).split("=")[1];
+            String key = this.getPredicate(predicate);
+            Double value = Double.parseDouble(pairs.get(1).split("=")[1]);
+            predict.put(key, value);
+        }
+        for (String pairT : predict.keySet()) {
+            //Since qald is hand annotaed to require to read the list one by one and strip.
+            for (String qaldPredicate : unit.getPairs()) {
+                qaldPredicate = qaldPredicate.strip();
+                if (unit.getPairs().contains(pairT)) {
+                    goldRelevance.put(pairT, Boolean.TRUE);
+                } else {
+                    goldRelevance.put(pairT, Boolean.FALSE);
+                }
+            }
+
+        }
+        return this.calculate(predict, goldRelevance);
+    }
+
+    private String getPredicate(String predicate) {
+        predicate = predicate.strip();
+        return predicate;
     }
 
 }

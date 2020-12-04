@@ -24,9 +24,4 @@ public interface ContextWordConstants {
     public static LemmaAnalyzer lemmaAnalyzer = new LemmaAnalyzer();
     public static Integer PREDICATE_CONTEXT_MinimumNumberOfEntities=10;
     public static Integer PREDICATE_CONTEXT_TopWords=10;
-
-
-
-
-
 }
