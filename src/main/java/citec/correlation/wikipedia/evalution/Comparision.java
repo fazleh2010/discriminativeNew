@@ -20,7 +20,9 @@ import java.util.TreeMap;
 import citec.correlation.wikipedia.evalution.ir.AveP;
 import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRank;
 import citec.correlation.wikipedia.main.CategoryConstant;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
 import java.util.HashSet;
+import org.javatuples.Pair;
 
 /**
  *
@@ -28,19 +30,24 @@ import java.util.HashSet;
  */
 public class Comparision implements CategoryConstant {
 
-    private Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
+    private List<MeanResult> results = new ArrayList<MeanResult>();
+    private String meanResultFileName= "meanReciprocal";
+
 
     /*private static List<Map<String, Double>> predictionsMaps = new ArrayList<Map<String, Double>>();
     private static List<List<String>> predictionsLists = new ArrayList<List<String>>();
     private static List<Map<String, Boolean>> golds = new ArrayList<Map<String, Boolean>>();
     private static Map<String, Boolean> allGolds;*/
-    public Comparision(String qaldFileName, String methodFileName, String type) throws IOException {
+    public Comparision(String qald9Dir,String qaldFileName, String methodFileName, String type) throws IOException {
         Map<String, LexiconUnit> lexicons = getLexicon(methodFileName);
         Map<String, Unit> qald = getQald(qaldFileName);
         if (type.contains(CategoryConstant.MEAN_RECIPROCAL_WORD)) {
             this.comparisionsWords(lexicons, qald);
         } else if (type.contains(CategoryConstant.MEAN_RECIPROCAL_PATTERN)) {
-            this.meanReciprocal = this.compersionsPattern(lexicons, qald);
+            this.compersionsPattern(lexicons, qald);
+            String fileName=qald9Dir+this.meanResultFileName+".json";
+            FileFolderUtils.writeMeanResultsToJsonFile(results, fileName);
+            
         }
     }
 
@@ -66,7 +73,104 @@ public class Comparision implements CategoryConstant {
         return qald;
     }
 
-    private void comparisionsWords(Map<String, LexiconUnit> lexicons, Map<String, Unit> qald) {
+   
+    private Map<String, Double> compersionsPattern(Map<String, LexiconUnit> lexiconDic, Map<String, Unit> qaldDic) {
+        Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
+        Set<String> intersection = Sets.intersection(qaldDic.keySet(), lexiconDic.keySet());
+        List<String> commonWords = new ArrayList<String>(intersection);
+        for (String word : commonWords) {
+            Unit qaldElement = qaldDic.get(word);
+            LexiconUnit lexiconElement = lexiconDic.get(word);
+            Double predictedReciprocalRank = this.compersionsPattern(word,lexiconElement, qaldElement);
+        }
+        return meanReciprocal;
+    }
+
+    /*private Double calculateMeanReciprocal(List<String> rankedList, Map<String, Boolean> goldRelevance) {
+       List<Pair<Integer,Double>> reciprocalRankPairs= this.getReciprocalRank(rankedList, goldRelevance);
+       Double sum=0.0;
+       for(Pair<Integer,Double> pair:reciprocalRankPairs){
+           Integer rank=pair.getValue0();
+           Double reciprocalRank=pair.getValue1();
+           sum+=reciprocalRank;
+           
+       }
+       sum=sum/reciprocalRankPairs.size();
+        System.out.println("OthersumTest:"+sum);
+        return sum;
+    }*/
+    
+    public Double calculateMeanReciprocal(String word, List<String> ranking, Map<String, Boolean> gold) {
+        double reciprocalRank = 0;
+        Double meanReciprocal = 0.0;
+        Map<Integer,String> reciprocalRankPairs = new TreeMap<Integer, String>();        
+        Integer index = 0, rank = 0, foundCount = 0;
+
+        for (index = 0; index < ranking.size(); index++) {
+            String value = ranking.get(index);
+            if (gold.containsKey(value)) {
+                if (gold.get(ranking.get(index))) {
+                    Integer textIndex = index;
+                    String testString = ranking.get(index);
+                    rank = index + 1;
+                    reciprocalRank = 1.0 / (rank);
+                    reciprocalRankPairs.put(foundCount,testString+" "+"rank="+rank.toString()+" Reciprocal rank="+Double.toString(reciprocalRank));
+                    meanReciprocal += reciprocalRank;
+                    foundCount = foundCount + 1;
+                }
+            }
+        }
+        meanReciprocal = meanReciprocal / foundCount;
+        MeanResult MeanResult = new MeanResult(word,reciprocalRankPairs,meanReciprocal);
+        results.add(MeanResult);
+
+        return meanReciprocal;
+    }
+
+
+    
+    private double calculateMeanReciprocal(Map<String,Double> predictMap, Map<String, Boolean> goldRelevance) {
+        double predictedReciprocalRank
+                = MeanReciprocalRank.getReciprocalRank(predictMap, goldRelevance);
+        return predictedReciprocalRank;
+    }
+    
+    
+    
+
+    private Double compersionsPattern(String word,LexiconUnit LexiconUnit, Unit unit) {
+        Map<String, Boolean> goldRelevance = new HashMap<String, Boolean>();
+        Map<String, Double> predict = new HashMap<String, Double>();
+        List<String> rankedList=new ArrayList<String>();
+        for (Integer rank : LexiconUnit.getEntityInfos().keySet()) {
+            List<String> pairs = LexiconUnit.getEntityInfos().get(rank);
+            String key = pairs.get(0).split("=")[1];
+            key = this.getPredicate(key);
+            rankedList.add(key);
+            Double value = Double.parseDouble(pairs.get(1).split("=")[1]);
+            predict.put(key, value);
+        }
+        for (String pairT : predict.keySet()) {
+            //Since qald is hand annotaed to require to read the list one by one and strip.
+            for (String qaldPredicate : unit.getPairs()) {
+                 qaldPredicate = qaldPredicate.strip();
+                if (unit.getPairs().contains(qaldPredicate)) {
+                    goldRelevance.put(qaldPredicate, Boolean.TRUE);
+                } else {
+                    goldRelevance.put(qaldPredicate, Boolean.FALSE);
+                }
+            }
+
+        }
+        return this.calculateMeanReciprocal(word,rankedList, goldRelevance);
+    }
+    
+    
+    private String getPredicate(String predicate) {
+        predicate = predicate.strip();
+        return predicate;
+    }
+ private void comparisionsWords(Map<String, LexiconUnit> lexicons, Map<String, Unit> qald) {
         Set<String> intersection = Sets.intersection(qald.keySet(), lexicons.keySet());
         List<String> commonWords = new ArrayList<String>(intersection);
 
@@ -100,7 +204,7 @@ public class Comparision implements CategoryConstant {
                 }
 
             }
-            Double predictedReciprocalRank = this.calculate(predict, goldRelevance);
+            Double predictedReciprocalRank = this.calculateMeanReciprocal(predict, goldRelevance);
             System.out.println(word + " predictedReciprocalRank: " + predictedReciprocalRank);
             index = index + 1;
 
@@ -148,55 +252,6 @@ public class Comparision implements CategoryConstant {
                 }
             }
         }*/
-    }
-
-    private Map<String, Double> compersionsPattern(Map<String, LexiconUnit> lexiconDic, Map<String, Unit> qaldDic) {
-        Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
-        Set<String> intersection = Sets.intersection(qaldDic.keySet(), lexiconDic.keySet());
-        List<String> commonWords = new ArrayList<String>(intersection);
-        for (String word : commonWords) {
-            Unit qaldElement = qaldDic.get(word);
-            LexiconUnit lexiconElement = lexiconDic.get(word);
-            Double predictedReciprocalRank = this.compersionsPattern(lexiconElement, qaldElement);
-            System.out.println(word + " predictedReciprocalRank: " + predictedReciprocalRank);
-        }
-        return meanReciprocal;
-    }
-
-    private double calculate(Map<String, Double> predict, Map<String, Boolean> goldRelevance) {
-        double predictedReciprocalRank
-                = MeanReciprocalRank.getReciprocalRank(predict, goldRelevance);
-        return predictedReciprocalRank;
-    }
-
-    private Double compersionsPattern(LexiconUnit LexiconUnit, Unit unit) {
-        Map<String, Boolean> goldRelevance = new HashMap<String, Boolean>();
-        Map<String, Double> predict = new HashMap<String, Double>();
-        for (Integer rank : LexiconUnit.getEntityInfos().keySet()) {
-            List<String> pairs = LexiconUnit.getEntityInfos().get(rank);
-            String predicate = pairs.get(0).split("=")[1];
-            String key = this.getPredicate(predicate);
-            Double value = Double.parseDouble(pairs.get(1).split("=")[1]);
-            predict.put(key, value);
-        }
-        for (String pairT : predict.keySet()) {
-            //Since qald is hand annotaed to require to read the list one by one and strip.
-            for (String qaldPredicate : unit.getPairs()) {
-                qaldPredicate = qaldPredicate.strip();
-                if (unit.getPairs().contains(pairT)) {
-                    goldRelevance.put(pairT, Boolean.TRUE);
-                } else {
-                    goldRelevance.put(pairT, Boolean.FALSE);
-                }
-            }
-
-        }
-        return this.calculate(predict, goldRelevance);
-    }
-
-    private String getPredicate(String predicate) {
-        predicate = predicate.strip();
-        return predicate;
     }
 
 }

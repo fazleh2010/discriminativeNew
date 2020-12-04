@@ -155,12 +155,12 @@ public class TableMain implements PropertyNotation,CategoryConstant {
         if (type.equals(MEAN_RECIPROCAL_WORD)) {
            String qaldFileName = qald9Dir + "JJ-qald9" + ".json";
            String conditionalFilename = qald9Dir + "lexicon-conditional-JJ" + ".json";
-           Comparision comparision = new Comparision(qaldFileName, conditionalFilename,MEAN_RECIPROCAL_WORD);
+           Comparision comparision = new Comparision(qald9Dir,qaldFileName, conditionalFilename,MEAN_RECIPROCAL_WORD);
         }
         if (type.equals(MEAN_RECIPROCAL_PATTERN)) {
            String qaldFileName = qald9Dir + "lexicon-qald9-pattern" + ".json";
            String conditionalFilename = qald9Dir + "lexicon-conditional-pattern" + ".json";
-           Comparision comparision = new Comparision(qaldFileName, conditionalFilename,MEAN_RECIPROCAL_PATTERN);
+           Comparision comparision = new Comparision(qald9Dir,qaldFileName, conditionalFilename,MEAN_RECIPROCAL_PATTERN);
         }
         if (type.equals(WRITE_PATTERNS)) {
             addPatterns(inputFile, rawFiles, dbo_ClassName, classDir);
@@ -170,8 +170,8 @@ public class TableMain implements PropertyNotation,CategoryConstant {
             String inputDir = dbpediaDir + classDir + patternDir;
             String patternFileName="pattern";
             PatternCalculation patternCalculation = new PatternCalculation(inputDir,inputFile, dbo_ClassName);
-            Lexicon lexicon=new Lexicon();
-            lexicon.prepareLexiconForEvalution(qald9Dir,patternCalculation.getPatternEntities(),patternFileName);
+            Lexicon lexicon=new Lexicon(qald9Dir);
+            lexicon.prepareLexiconForEvalution(patternCalculation.getPatternEntities(),patternFileName);
         }
 
         //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
@@ -190,8 +190,8 @@ public class TableMain implements PropertyNotation,CategoryConstant {
                 numberOfEntitiesrmSelected, ObjectMinimumEntities,
                 dbpediaDir + output, 
                 wordGivenObjectThres, objectGivenWordThres, topWordLimitToConsiderThres);
-        Lexicon lexicon=new Lexicon();
-        lexicon.prepareLexiconWord(qald9Dir,calculation.getWordEntities(),posTags);
+        Lexicon lexicon=new Lexicon(qald9Dir);
+        lexicon.prepareLexiconWord(calculation.getWordEntities(),posTags);
         System.out.println("System execution ended!!!");
     }
 

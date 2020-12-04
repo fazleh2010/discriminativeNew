@@ -1,0 +1,14 @@
+[ {
+  "Word" : "bear_IN",
+  "rank-reciprocalRank" : {
+    "0" : "dbo:birthPlace rank=1 Reciprocal rank=1.0",
+    "1" : "dbo:deathPlace rank=2 Reciprocal rank=0.5"
+  },
+  "meanReciprocalRank" : 0.75
+}, {
+  "Word" : "die_IN",
+  "rank-reciprocalRank" : {
+    "0" : "dbo:deathPlace rank=1 Reciprocal rank=1.0"
+  },
+  "meanReciprocalRank" : 1.0
+} ]

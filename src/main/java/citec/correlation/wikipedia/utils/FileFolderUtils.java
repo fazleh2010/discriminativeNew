@@ -11,6 +11,7 @@ import citec.correlation.wikipedia.element.DBpediaEntityPattern;
 import citec.correlation.wikipedia.qald.Unit;
 import citec.correlation.wikipedia.results.EntityResults;
 import citec.correlation.wikipedia.calculation.InterestingPatterns;
+import citec.correlation.wikipedia.evalution.MeanResult;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedReader;
@@ -387,6 +388,14 @@ public class FileFolderUtils {
         }
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename).toFile(), entityResults);
+    }
+    
+    public static void writeMeanResultsToJsonFile(List<MeanResult> results, String filename) throws IOException {
+        if (results.isEmpty()) {
+            return;
+        }
+        ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
+        mapper.writeValue(Paths.get(filename).toFile(), results);
     }
 
     public static void writeToJsonFile(List<Unit> units, String filename) throws IOException, Exception {

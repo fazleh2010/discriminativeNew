@@ -33,19 +33,22 @@ public class MeanReciprocalRank {
    *    or not.
    * @return  reciprocal rank (0 if none is correct)
    */
-  public static double 
-  getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
+  public static double getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
 
-    EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold), 
-       "I cannot compute MRR");
+    /*EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold), 
+       "I cannot compute MRR");*/
+    
+    System.out.print(ranking);
 
     double reciprocalRank = 0;
     for (int i=0; i<ranking.size(); i++) {  
+                
       if (i==10) {
         continue;
         }
       if (gold.get(ranking.get(i))) {
-        // if true, the document is relevant and we finish
+          Integer textIndex=i;
+          String testString=ranking.get(i);
         reciprocalRank = 1.0/(i+1);
         break;
       } 

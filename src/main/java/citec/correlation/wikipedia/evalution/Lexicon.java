@@ -23,9 +23,10 @@ import java.util.TreeMap;
  * @author elahi
  */
 public class Lexicon {
+    private String lexiconDirectory=null;
 
-    public Lexicon() throws IOException {
-        
+    public Lexicon(String outputDir) throws IOException {
+        this.lexiconDirectory=outputDir;
     }
 
     private Map<String, List<EntityInfo>> entitiesSort(Map<String, List<EntityInfo>> wordEntities, String posTag) {
@@ -44,16 +45,15 @@ public class Lexicon {
         }
         return posEntitieInfos;
     }
-    
-    public void prepareLexiconWord(String dir, Map<String, List<EntityInfo>> wordEntities, Set<String> posTags) throws IOException {
-         for (String pos : posTags) {
+
+    public void prepareLexiconWord(Map<String, List<EntityInfo>> wordEntities, Set<String> posTags) throws IOException {
+        for (String pos : posTags) {
             Map<String, List<EntityInfo>> posEntitieInfos = entitiesSort(wordEntities, pos);
-            this.prepareLexiconForEvalution(dir, posEntitieInfos, pos);
+            this.prepareLexiconForEvalution(posEntitieInfos, pos);
         }
     }
- 
 
-    public void prepareLexiconForEvalution(String outputDir, Map<String, List<EntityInfo>> nounEntitieInfos, String partsOfSpeech) throws IOException {
+    public void prepareLexiconForEvalution(Map<String, List<EntityInfo>> nounEntitieInfos, String partsOfSpeech) throws IOException {
         if (nounEntitieInfos.isEmpty()) {
             return;
         }
@@ -72,10 +72,13 @@ public class Lexicon {
             LexiconUnit LexiconUnit = new LexiconUnit(word, partsOfSpeech, entityInfos);
             lexiconUnts.add(LexiconUnit);
         }
-        String fileName = outputDir + File.separator + "lexicon-conditional-" + partsOfSpeech + ".json";
+        String fileName = lexiconDirectory + File.separator + "lexicon-conditional-" + partsOfSpeech + ".json";
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(fileName).toFile(), lexiconUnts);
     }
 
+    public String getOutputDir() {
+        return lexiconDirectory;
+    }
 
 }
