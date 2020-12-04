@@ -1,0 +1,4 @@
+id=19  property=dbo:spouse  
+marry_to  VBN_TO  multiply=0.016117  P(marry_to|dbo:spouse)=0.038278  P(dbo:spouse|marry_to)=0.421053    
+wife_of  NN_IN  multiply=0.014354  P(wife_of|dbo:spouse)=0.014354  P(dbo:spouse|wife_of)=1.0    
+

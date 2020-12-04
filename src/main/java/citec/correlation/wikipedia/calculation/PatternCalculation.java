@@ -59,7 +59,7 @@ public class PatternCalculation implements ContextWordConstants{
 
     public PatternCalculation(String inputDir,String inputFile, String dbo_ClassName) throws Exception {
         this.allDBpediaPatterns = getAllElements(inputDir + dir[0], inputFile, dbo_ClassName);
-        this.interestingPattern = new InterestingPatterns(analyzer, lemmaAnalyzer, ContextWordConstants.CONTEX_POS_MIX,inputDir + dir[1], allDBpediaPatterns);
+        this.interestingPattern = new InterestingPatterns(analyzer, lemmaAnalyzer, inputDir + dir[1], allDBpediaPatterns);
         this.calculateProbability(inputDir, dbo_ClassName);
     }
 
@@ -94,13 +94,13 @@ public class PatternCalculation implements ContextWordConstants{
                 patternCount = patternCount + 1;
                 //if (patternCount >= 50)
                 //    break;
-                System.out.println("pattern:" + givenPatternPair.getValue0());
+                System.out.print("pattern:" + givenPatternPair.getValue0()+" ");
 
                 Pair<ResultTriple, ResultTriple> tripleResult = countConditionalProbabilities(allDBpediaPatterns, predicate, givenPatternPair, 0);
                 ResultTriple patternTriple = tripleResult.getValue0();
                 ResultTriple propertyTriple = tripleResult.getValue1();
 
-                if (patternTriple.getProbability_value() >= 0.0 & propertyTriple.getProbability_value() >= 0.0) {
+                if (patternTriple.getProbability_value() > 0.001 & propertyTriple.getProbability_value() > 0.001) {
                     WordResult result = new WordResult(patternTriple, propertyTriple, givenPatternPair.getValue0(), givenPatternPair.getValue1());
                     results.add(result);
                     //System.out.println("patternTriple:" + patternTriple);
@@ -352,7 +352,7 @@ public class PatternCalculation implements ContextWordConstants{
                 }
                 //temporarily lift value made null, since we are not sure about the Lift calculation
                 //lift="";
-                String wordline = wordResults.getWord() + "  " +wordResults.getPosTag()+ multiply + "  " + probabilty + "  " + liftAndConfidence + "\n";
+                String wordline = wordResults.getWord() + "  " +wordResults.getPosTag()+ "  " + multiply + "  " + probabilty + "  " + liftAndConfidence + "\n";
                 wordSum += wordline;
                 String key = wordResults.getWord();
                 List<EntityInfo> propertyObjects = new ArrayList<EntityInfo>();

@@ -1,0 +1,112 @@
+[{
+        "word": "attend",
+        "pairs": ["dbo:almaMater"],
+        "questions": {
+            "248": "Which university did Angela Merkel attend? ",
+            "266": "Did Arnold Schwarzenegger attend a university?"
+        },
+        "Sparql": {
+            "Sparql_248": "[dbo:almaMater]= PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?university WHERE { res:Angela_Merkel dbo:almaMater ?university }",
+            "Sparql_266": "[dbo:almaMater]= PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ASK WHERE { res:Arnold_Schwarzenegger dbo:almaMater ?x . ?x rdf:type dbo:University }"
+        }
+    }, 
+    {
+        "word": "bear_IN",
+        "pairs": ["dbo:birthPlace", "dbo:birthDate","dbp:date","dbo:deathPlace"],
+        "questions": {
+            "3": "Which people were born in Heraklion?",
+            "40": "Give all swimmers that were born in Moscow.",
+            "43": "Which presidents were born in 1945?",
+            "69": "Give me all actors who were born in Paris after 1950.",
+            "79": "Show me everyone who was born on Halloween.",
+            "82": "Which actors were born in Germany?",
+            "86": "Give me all actors who were born in Berlin.",
+            "139": "Which soccer players were born on Malta?",
+            "169": "Which Chess players died in the same place they were born in? ",
+            "179": "Give me all people that were born in Vienna and died in Berlin.",
+            "243": "In which year was Rachel Stevens born?",
+            "252": "When was John Adams born?",
+            "318": "Was Natalie Portman born in the United States?",
+            "348": "Where was Bach born?"
+        },
+        "Sparql": {
+            "Sparql_3": "PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX onto: <http://dbpedia.org/ontology/> SELECT DISTINCT ?uri WHERE { ?uri rdf:type onto:Person ; onto:birthPlace <http://dbpedia.org/resource/Heraklion>. }",
+            "Sparql_40": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Swimmer> ; <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Moscow> }",
+            "Sparql_43": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/President> ; <http://dbpedia.org/ontology/birthDate> ?date FILTER regex(?date, \"^1945\") }",
+            "Sparql_69": "SELECT DISTINCT ?uri WHERE { ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor> . ?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Paris> . ?uri <http://dbpedia.org/ontology/birthDate> ?date . FILTER ( ?date >= xsd:dateTime('1950-12-31T00:00:00Z')) }",
+            "Sparql_79": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Person> { ?uri <http://dbpedia.org/ontology/birthDate> ?date } UNION { ?uri <http://dbpedia.org/property/birthDate> ?date } <http://dbpedia.org/resource/Halloween> <http://dbpedia.org/property/date> ?date }",
+            "Sparql_82": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Actor> { ?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Germany> } UNION { ?uri <http://dbpedia.org/ontology/birthPlace> ?place . ?place <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> } }",
+            "Sparql_86": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Actor> ; <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Berlin> }",
+            "Sparql_139": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/SoccerPlayer> ; <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Malta> }",
+            "Sparql_169": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/ChessPlayer> ; <http://dbpedia.org/ontology/birthPlace> ?x ; <http://dbpedia.org/ontology/deathPlace> ?y FILTER ( ?x = ?y ) }",
+            "Sparql_179": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Vienna> ; <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Berlin> }",
+            "Sparql_243": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Rachel_Stevens dbo:birthYear ?uri }",
+            "Sparql_252": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?date WHERE { res:John_Adams dbo:birthDate ?date }",
+            "Sparql_318": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Natalie_Portman dbo:birthPlace ?city . ?city dbo:country res:United_States }",
+            "Sparql_348": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Johann_Sebastian_Bach dbo:birthPlace ?uri }"
+        }
+    }, 
+    {
+        "word": "born",
+        "pairs": ["dbo:birthDate", "dbo:birthPlace"],
+        "questions": {
+            "243": "In which year was Rachel Stevens born?",
+            "252": "When was John Adams born?",
+            "348": "Where was Bach born?"
+        },
+        "Sparql": {
+            "Sparql_243": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Rachel_Stevens dbo:birthYear ?uri }",
+            "Sparql_252": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?date WHERE { res:John_Adams dbo:birthDate ?date }",
+            "Sparql_348": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Johann_Sebastian_Bach dbo:birthPlace ?uri }"
+        }
+    }, 
+    {
+        "word": "die",
+        "pairs": ["dbo:deathPlace"],
+        "questions": {
+            "7": "Where did Abraham Lincoln die?",
+            "38": "Where did Hillel Slovak die?",
+            "292": "In which city did Nikos Kazantzakis die?",
+            "399": "In which city did John F. Kennedy die?"
+        },
+        "Sparql": {
+            "Sparql_7": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT ?uri WHERE { res:Abraham_Lincoln dbo:deathPlace ?uri. }",
+            "Sparql_38": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/deathPlace> ?uri }",
+            "Sparql_292": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Nikos_Kazantzakis dbo:deathPlace ?uri . ?uri rdf:type dbo:Town }",
+            "Sparql_399": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:deathPlace ?uri . ?uri rdf:type dbo:City }"
+        }
+    }, 
+    {
+        "word": "die_IN",
+        "pairs": ["dbo:deathCause", "dbo:birthPlace", "dbo:deathPlace"],
+        "questions": {
+            "169": "Which Chess players died in the same place they were born in?",
+            "179": "Give me all people that were born in Vienna and died in Berlin.",
+            "372": "What did Bruce Carver die from?"
+        },
+        "Sparql": {
+            "Sparql_372": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Bruce_Carver dbo:deathCause ?uri }"
+        }
+    }, 
+    {
+        "word": "study",
+        "pairs": ["dbo:almaMater"],
+        "questions": {
+            "67": "Where did the architect of the Eiffel Tower study?"
+        },
+        "Sparql": {
+            "Sparql_67": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Eiffel_Tower> <http://dbpedia.org/ontology/architect> ?x . ?x <http://dbpedia.org/property/almaMater> ?uri }"
+        }
+    },
+    {
+        "word": "study_IN",
+        "pairs": ["dbo:almaMater"],
+        "questions": {
+            "100": "Which writers studied in Istanbul?"
+        },
+        "Sparql": {
+            "Sparql_100": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Writer> { ?uri <http://dbpedia.org/ontology/almaMater> ?x } UNION { ?uri <http://dbpedia.org/ontology/education> ?x } { ?x <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Istanbul> } UNION { ?x <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Istanbul> } }"
+        }
+    }
+
+]

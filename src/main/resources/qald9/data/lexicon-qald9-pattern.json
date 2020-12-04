@@ -11,7 +11,7 @@
         }
     }, 
     {
-        "word": "bear_IN",
+        "word": "bear_in",
         "pairs": ["dbo:birthPlace", "dbo:birthDate","dbp:date","dbo:deathPlace"],
         "questions": {
             "3": "Which people were born in Heraklion?",
@@ -47,7 +47,7 @@
         }
     }, 
     {
-        "word": "born",
+        "word": "bear",
         "pairs": ["dbo:birthDate", "dbo:birthPlace"],
         "questions": {
             "243": "In which year was Rachel Stevens born?",
@@ -77,17 +77,26 @@
         }
     }, 
     {
-        "word": "die_IN",
+        "word": "die_in",
         "pairs": ["dbo:deathCause", "dbo:birthPlace", "dbo:deathPlace"],
         "questions": {
             "169": "Which Chess players died in the same place they were born in?",
-            "179": "Give me all people that were born in Vienna and died in Berlin.",
+            "179": "Give me all people that were born in Vienna and died in Berlin."
+        },
+        "Sparql": {
+            "Sparql_372": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Bruce_Carver dbo:deathCause ?uri }"
+        }
+    },
+    {
+        "word": "die_from",
+        "pairs": ["dbo:deathCause"],
+        "questions": {
             "372": "What did Bruce Carver die from?"
         },
         "Sparql": {
             "Sparql_372": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Bruce_Carver dbo:deathCause ?uri }"
         }
-    }, 
+    },
     {
         "word": "study",
         "pairs": ["dbo:almaMater"],
@@ -99,7 +108,7 @@
         }
     },
     {
-        "word": "study_IN",
+        "word": "study_in",
         "pairs": ["dbo:almaMater"],
         "questions": {
             "100": "Which writers studied in Istanbul?"

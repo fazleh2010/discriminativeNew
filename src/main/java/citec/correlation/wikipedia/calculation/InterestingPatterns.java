@@ -37,13 +37,12 @@ public class InterestingPatterns implements ContextWordConstants{
     private Map<String, Map<Integer, String>> contexWordSortedPredicateMap = new TreeMap<String, Map<Integer, String>>();
     private final Analyzer analyzer;
     private final String outputDir;
-    private String CONEXT_WORD_TYPE;
+    //private String CONEXT_WORD_TYPE;
 
 
-    public InterestingPatterns(Analyzer analyzer, LemmaAnalyzer lemmaAnalyzer, String CONEXT_WORD_TYPE,String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
+    public InterestingPatterns(Analyzer analyzer, LemmaAnalyzer lemmaAnalyzer, String outputDir, List<DBpediaEntityPattern> allDBpediaPatterns) throws Exception {
         this.analyzer = analyzer;
         this.outputDir = outputDir;
-        this.CONEXT_WORD_TYPE=CONEXT_WORD_TYPE;
         this.findMatchBetweenTriplePattern(allDBpediaPatterns, outputDir + PREDICATE_CONTEXT,CONEXT_WORD_TYPE);
         this.findMatchBetweenTriplePattern(allDBpediaPatterns, outputDir + CONTEXT_PREDICATE,CONEXT_WORD_TYPE);
     }
