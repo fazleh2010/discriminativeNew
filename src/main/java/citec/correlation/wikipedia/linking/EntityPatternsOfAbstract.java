@@ -8,7 +8,6 @@ package citec.correlation.wikipedia.linking;
 import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.core.analyzer.LemmaAnalyzer;
 import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER_TEXT;
-import citec.correlation.wikipedia.calculation.ContextWordConstants;
 import citec.correlation.wikipedia.utils.FormatAndMatch;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -18,12 +17,13 @@ import java.util.StringTokenizer;
 import java.util.TreeMap;
 import org.apache.commons.lang3.StringUtils;
 import org.javatuples.Pair;
+import citec.correlation.wikipedia.parameters.PatternThresold;
 
 /**
  *
  * @author elahi
  */
-public class EntityPatternsOfAbstract implements ContextWordConstants{
+public class EntityPatternsOfAbstract implements PatternThresold{
 
     private Map<String,List<Pattern>> objectPatternsMap = new TreeMap<String,List<Pattern>>();
     private Map<String,Pattern> allpatternsHash = new TreeMap<String,Pattern>();

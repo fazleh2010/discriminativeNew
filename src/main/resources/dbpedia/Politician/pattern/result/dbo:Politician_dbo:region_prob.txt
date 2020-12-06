@@ -1,12 +1,12 @@
-id=14  property=dbo:region  
+id=22  property=dbo:region  
 serve  RB_VBN  multiply=0.075242  P(serve|dbo:region)=0.203835  P(dbo:region|serve)=0.369132    
-serve_member  VBD_NN  multiply=0.061002  P(serve_member|dbo:region)=0.120384  P(dbo:region|serve_member)=0.506726    
-member  RB_NN  multiply=0.041953  P(member|dbo:region)=0.132812  P(dbo:region|member)=0.315878    
 serve_in  VBN_IN  multiply=0.038546  P(serve_in|dbo:region)=0.098722  P(dbo:region|serve_in)=0.390449    
 currently_serve  RB_VBZ  multiply=0.032267  P(currently_serve|dbo:region)=0.075994  P(dbo:region|currently_serve)=0.424603    
-previously_serve  RB_VBN  multiply=0.0309  P(previously_serve|dbo:region)=0.074219  P(dbo:region|previously_serve)=0.416335    
 represent  VBN  multiply=0.02018  P(represent|dbo:region)=0.082031  P(dbo:region|represent)=0.246006    
 represent_district  VBN_NN  multiply=0.019677  P(represent_district|dbo:region)=0.054688  P(dbo:region|represent_district)=0.359813    
-represent_riding  VBN_NNS  multiply=0.019323  P(represent_riding|dbo:region)=0.052912  P(dbo:region|represent_riding)=0.365196    
 represent_electoral  VBZ_JJ  multiply=0.018908  P(represent_electoral|dbo:region)=0.067472  P(dbo:region|represent_electoral)=0.280236    
+elect_to  VBN_TO  multiply=0.014443  P(elect_to|dbo:region)=0.066761  P(dbo:region|elect_to)=0.216341    
+member_of  NN_IN  multiply=0.012564  P(member_of|dbo:region)=0.053977  P(dbo:region|member_of)=0.232772    
+former  RB_JJ  multiply=0.00571  P(former|dbo:region)=0.01527  P(dbo:region|former)=0.373913    
+mla  RB_NN  multiply=0.00295  P(mla|dbo:region)=0.006392  P(dbo:region|mla)=0.461538    
 

@@ -1,4 +1,4 @@
-id=5  property=dbo:country  
+id=7  property=dbo:country  
 elect_member  VBN_NN  multiply=0.019111  P(elect_member|dbo:country)=0.043636  P(dbo:country|elect_member)=0.437956    
 elect_at  VBN_IN  multiply=0.010764  P(elect_at|dbo:country)=0.026909  P(dbo:country|elect_at)=0.4    
 serve  RB_VBN  multiply=0.006999  P(serve|dbo:country)=0.062909  P(dbo:country|serve)=0.111254    
@@ -7,6 +7,6 @@ serve_in  VBN_IN  multiply=0.003955  P(serve_in|dbo:country)=0.032  P(dbo:countr
 return_to  VBN_TO  multiply=0.003562  P(return_to|dbo:country)=0.008364  P(dbo:country|return_to)=0.425926    
 labour_member  NN_NN  multiply=0.002854  P(labour_member|dbo:country)=0.006909  P(dbo:country|labour_member)=0.413043    
 educate_at  VBN_IN  multiply=0.002667  P(educate_at|dbo:country)=0.008  P(dbo:country|educate_at)=0.333333    
-stand_for  VBD_IN  multiply=0.002045  P(stand_for|dbo:country)=0.005455  P(dbo:country|stand_for)=0.375    
-chairman_of  NN_IN  multiply=0.001948  P(chairman_of|dbo:country)=0.005455  P(dbo:country|chairman_of)=0.357143    
+move_to  VBN_TO  multiply=0.001367  P(move_to|dbo:country)=0.006909  P(dbo:country|move_to)=0.197917    
+elect_to  VBN_TO  multiply=0.001005  P(elect_to|dbo:country)=0.017818  P(dbo:country|elect_to)=0.056387    
 

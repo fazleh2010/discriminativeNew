@@ -38,12 +38,13 @@ import java.util.TreeMap;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.javatuples.Pair;
+import citec.correlation.wikipedia.parameters.PatternThresold;
 
 /**
  *
  * @author elahi
  */
-public class PatternCalculation implements ContextWordConstants{
+public class PatternCalculation implements PatternThresold{
 
     private Double wordGivenObjectThresold;
     private Double objectGivenWordThresold;

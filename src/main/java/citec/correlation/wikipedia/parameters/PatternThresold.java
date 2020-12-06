@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.calculation;
+package citec.correlation.wikipedia.parameters;
 
 import citec.correlation.core.analyzer.LemmaAnalyzer;
 
@@ -11,9 +11,9 @@ import citec.correlation.core.analyzer.LemmaAnalyzer;
  *
  * @author elahi
  */
-public interface ContextWordConstants {
+public interface PatternThresold {
 
-    public static String ORIGINAL_CONTEX = "ORIGINAL_CONTEX";
+    public static String ORIGINAL_CONTEXT = "ORIGINAL_CONTEX";
     public static String CONTEX_POS_MIX = "CONTEX_POS_MIX";
     public static final String PREDICATE_CONTEXT = "PREDICATE_CONTEXT";
     public static final String CONTEXT_PREDICATE = "CONTEXT_PREDICATE";
@@ -22,8 +22,8 @@ public interface ContextWordConstants {
     public static String JSON=".json";
     public static final Integer contextLimit=2;
     public static LemmaAnalyzer lemmaAnalyzer = new LemmaAnalyzer();
-    public static Integer PREDICATE_CONTEXT_MinimumNumberOfEntities=5;
-    public static Integer PREDICATE_CONTEXT_TopWords=20;
-    public static String CONEXT_WORD_TYPE=ORIGINAL_CONTEX;
+    public static Integer PREDICATE_CONTEXT_MinimumNumberOfEntities=1;
+    public static Integer PREDICATE_CONTEXT_TopWords=10;
+    public static String CONEXT_WORD_TYPE=ORIGINAL_CONTEXT;
 
 }

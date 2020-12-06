@@ -1,0 +1,5 @@
+id=41  property=dbp:district  
+member_of  NN_IN  multiply=0.002984  P(member_of|dbp:district)=0.051282  P(dbp:district|member_of)=0.058193    
+represent  VBN  multiply=0.002416  P(represent|dbp:district)=0.055331  P(dbp:district|represent)=0.043663    
+chairman  RB_NN  multiply=0.001646  P(chairman|dbp:district)=0.013495  P(dbp:district|chairman)=0.121951    
+

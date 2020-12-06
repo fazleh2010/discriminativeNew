@@ -4,10 +4,38 @@
     "2" : "(17)  [graduate_from]  <VBN_IN> {graduated from }",
     "3" : "(8)  [attend]  <VBD> {attended }",
     "4" : "(5)  [graduate_of]  <NN_IN> {graduate of }",
-    "5" : "(5)  [receive_his]  <VBD_PRP$> {received his }"
+    "5" : "(5)  [receive_his]  <VBD_PRP$> {received his }",
+    "6" : "(4)  [graduate_with]  <VBN_IN> {graduated with }",
+    "7" : "(4)  [serve_member]  <VBD_NN> {served member }",
+    "8" : "(4)  [study_at]  <VBN_IN> {studied at }",
+    "9" : "(3)  [alumnus_of]  <NN_IN> {alumnus of }",
+    "10" : "(3)  [earn_degree]  <VBN_NN> {earned degree }"
+  },
+  "dbo:appointer" : {
+    "1" : "(1)  [appoint_by]  <VBN_IN> {appointed by }",
+    "2" : "(1)  [appoint_minister]  <VBN_NN> {appointed minister }"
+  },
+  "dbo:associate" : {
+    "1" : "(3)  [serve_alongside]  <VBD_IN> {served alongside }",
+    "2" : "(1)  [elect_alongside]  <VBN_IN> {elected alongside }",
+    "3" : "(1)  [join]  <VBD> {joined }",
+    "4" : "(1)  [place_2]  <VBN_JJ> {placed second }",
+    "5" : "(1)  [serve_cabinet]  <VBD_NN> {served cabinet }"
+  },
+  "dbo:award" : {
+    "1" : "(1)  [earn]  <VBN> {earned }"
   },
   "dbo:battle" : {
-    "1" : "(5)  [serve_in]  <VBN_IN> {served in }"
+    "1" : "(5)  [serve_in]  <VBN_IN> {served in }",
+    "2" : "(2)  [veteran_of]  <NN_IN> {veteran of }",
+    "3" : "(1)  [best_know]  <RB_VBN> {best known }",
+    "4" : "(1)  [choose_leader]  <VBN_NN> {chosen leader }",
+    "5" : "(1)  [command_auckland]  <VBG_NN> {commanding auckland }",
+    "6" : "(1)  [die_of]  <VBD_IN> {died of }",
+    "7" : "(1)  [gain_his]  <VBD_PRP$> {gained his }",
+    "8" : "(1)  [later_also]  <RB_RB> {later also }",
+    "9" : "(1)  [later_serve]  <RB_VBD> {later served }",
+    "10" : "(1)  [present_at]  <JJ_IN> {present at }"
   },
   "dbo:birthPlace" : {
     "1" : "(404)  [bear_in]  <VBN_IN> {born in }",
@@ -19,20 +47,22 @@
     "7" : "(33)  [serve]  <RB_VBN> {also served }",
     "8" : "(28)  [minister_of]  <NN_IN> {minister of }",
     "9" : "(24)  [serve_in]  <VBN_IN> {served in }",
-    "10" : "(20)  [first_elect]  <RB_VBN> {first elected }",
-    "11" : "(19)  [educate_at]  <VBN_IN> {educated at }",
-    "12" : "(18)  [bear_at]  <VBN_IN> {born at }",
-    "13" : "(17)  [bear_on]  <VBN_IN> {born on }",
-    "14" : "(16)  [previously_serve]  <RB_VBN> {previously served }",
-    "15" : "(16)  [son_of]  <NN_IN> {son of }",
-    "16" : "(15)  [die_in]  <VBD_IN> {died in }",
-    "17" : "(14)  [serve_minister]  <VBD_NN> {served minister }",
-    "18" : "(13)  [run_for]  <VB_IN> {run for }",
-    "19" : "(12)  [currently_serve]  <RB_VBZ> {currently serves }",
-    "20" : "(12)  [president_of]  <NN_IN> {president of }"
+    "10" : "(20)  [first_elect]  <RB_VBN> {first elected }"
   },
   "dbo:child" : {
-    "1" : "(6)  [father_of]  <NN_IN> {father of }"
+    "1" : "(6)  [father_of]  <NN_IN> {father of }",
+    "2" : "(2)  [son_of]  <NN_IN> {son of }",
+    "3" : "(1)  [adopt_heir]  <VBN_NN> {adopted heir }",
+    "4" : "(1)  [know]  <RB_VBN> {also known }",
+    "5" : "(1)  [mother_of]  <NN_IN> {mother of }",
+    "6" : "(1)  [other_follow]  <NNS_VBD> {others followed }",
+    "7" : "(1)  [parent_to]  <NN_TO> {parent to }",
+    "8" : "(1)  [shot_kill]  <NN_VBD> {shot killed }"
+  },
+  "dbo:citizenship" : {
+    "1" : "(2)  [member_of]  <NN_IN> {member of }",
+    "2" : "(1)  [general_secretary]  <JJ_NN> {general secretary }",
+    "3" : "(1)  [lok_sabha]  <NN_NN> {lok sabha }"
   },
   "dbo:country" : {
     "1" : "(106)  [elect_member]  <VBN_NN> {elected member }",
@@ -44,17 +74,7 @@
     "7" : "(18)  [return_to]  <VBN_TO> {returned to }",
     "8" : "(16)  [move_to]  <VBN_TO> {moved to }",
     "9" : "(15)  [labour_member]  <NN_NN> {labour member }",
-    "10" : "(12)  [serve]  <RB_VBN> {also served }",
-    "11" : "(12)  [serve_member]  <VBD_NN> {served member }",
-    "12" : "(11)  [elect_unopposed]  <VBN_JJ> {elected unopposed }",
-    "13" : "(10)  [stand_for]  <VBD_IN> {stood for }",
-    "14" : "(8)  [bear_in]  <VBN_IN> {born in }",
-    "15" : "(8)  [chairman_of]  <NN_IN> {chairman of }",
-    "16" : "(8)  [first_elect]  <RB_VBN> {first elected }",
-    "17" : "(8)  [run_for]  <VB_IN> {run for }",
-    "18" : "(7)  [die_at]  <VBD_IN> {died at }",
-    "19" : "(7)  [elect_liberal]  <VBN_JJ> {elected liberal }",
-    "20" : "(6)  [retire_from]  <VBN_IN> {retired from }"
+    "10" : "(12)  [serve]  <RB_VBN> {also served }"
   },
   "dbo:deathPlace" : {
     "1" : "(108)  [die_in]  <VBD_IN> {died in }",
@@ -66,23 +86,79 @@
     "7" : "(33)  [elect_to]  <VBN_TO> {elected to }",
     "8" : "(32)  [move_to]  <VBN_TO> {moved to }",
     "9" : "(30)  [serve]  <RB_VBN> {also served }",
-    "10" : "(28)  [serve_in]  <VBN_IN> {served in }",
-    "11" : "(23)  [die_on]  <VBD_IN> {died on }",
-    "12" : "(23)  [represent_electoral]  <VBZ_JJ> {represents electoral }",
-    "13" : "(14)  [serve_on]  <VBN_IN> {served on }",
-    "14" : "(12)  [return_to]  <VBN_TO> {returned to }",
-    "15" : "(10)  [die_of]  <VBD_IN> {died of }",
-    "16" : "(10)  [first_elect]  <RB_VBN> {first elected }",
-    "17" : "(9)  [graduate_from]  <VBN_IN> {graduated from }",
-    "18" : "(8)  [live_in]  <VBN_IN> {lived in }",
-    "19" : "(8)  [name_to]  <VBN_TO> {named to }",
-    "20" : "(8)  [serve_mayor]  <VBD_NN> {served mayor }"
+    "10" : "(28)  [serve_in]  <VBN_IN> {served in }"
+  },
+  "dbo:deputy" : {
+    "1" : "(1)  [remain_on]  <VBN_IN> {remained on }",
+    "2" : "(1)  [resign_from]  <VBN_IN> {resigned from }"
+  },
+  "dbo:education" : {
+    "1" : "(1)  [member_of]  <NN_IN> {member of }",
+    "2" : "(1)  [study_in]  <VBG_IN> {studying in }"
+  },
+  "dbo:ethnicity" : {
+    "1" : "(1)  [minister_in]  <NN_IN> {minister in }"
+  },
+  "dbo:governor" : {
+    "1" : "(1)  [appoint_by]  <VBN_IN> {appointed by }",
+    "2" : "(1)  [assume_office]  <VBN_NN> {assumed office }",
+    "3" : "(1)  [convict_during]  <VBN_IN> {convicted during }",
+    "4" : "(1)  [nominate_for]  <VBN_IN> {nominated for }",
+    "5" : "(1)  [previously_serve]  <RB_VBN> {previously served }",
+    "6" : "(1)  [retire_during]  <VBN_IN> {retired during }",
+    "7" : "(1)  [run_to]  <VBD_TO> {ran to }",
+    "8" : "(1)  [serve_oklahoma]  <VBD_NN> {served oklahoma }",
+    "9" : "(1)  [serve_under]  <VBN_IN> {served under }",
+    "10" : "(1)  [serve_virginia]  <VBD_NN> {served virginia }"
   },
   "dbo:hometown" : {
-    "1" : "(6)  [represent]  <VBN> {represented }"
+    "1" : "(6)  [represent]  <VBN> {represented }",
+    "2" : "(2)  [incumbent_minister]  <JJ_NN> {incumbent minister }",
+    "3" : "(2)  [previously_represent]  <RB_VBN> {previously represented }",
+    "4" : "(1)  [instrumental_in]  <JJ_IN> {instrumental in }",
+    "5" : "(1)  [live_of]  <VBN_IN> {lived of }",
+    "6" : "(1)  [rise_from]  <VBD_IN> {rose from }"
+  },
+  "dbo:knownFor" : {
+    "1" : "(1)  [consider_founding]  <VBN_NN> {considered founding }",
+    "2" : "(1)  [elect_to]  <VBN_TO> {elected to }",
+    "3" : "(1)  [notable_for]  <JJ_IN> {notable for }",
+    "4" : "(1)  [prominent_trade]  <JJ_NN> {prominent trade }",
+    "5" : "(1)  [reelect_independent]  <VBN_JJ> {reelected independent }",
+    "6" : "(1)  [want_maoist]  <VBD_IN> {wanted maoist }"
   },
   "dbo:militaryBranch" : {
-    "1" : "(6)  [serve_in]  <VBN_IN> {served in }"
+    "1" : "(6)  [serve_in]  <VBN_IN> {served in }",
+    "2" : "(1)  [become_one]  <VBD_CD> {became one }",
+    "3" : "(1)  [briefly_minister]  <RB_NN> {briefly minister }",
+    "4" : "(1)  [emigrate_to]  <VBD_TO> {emigrated to }",
+    "5" : "(1)  [first_dominicanamerican]  <RB_JJ> {first dominicanamerican }",
+    "6" : "(1)  [left]  <RB> {left }",
+    "7" : "(1)  [major_general]  <JJ_JJ> {major general }",
+    "8" : "(1)  [miss_foundation]  <VBN_NN> {missed foundation }",
+    "9" : "(1)  [serve]  <RB_VBN> {also served }",
+    "10" : "(1)  [would]  <RB_MD> {also would }"
+  },
+  "dbo:militaryRank" : {
+    "1" : "(1)  [also]  <RB> {also }",
+    "2" : "(1)  [commission]  <VBN> {commissioned }",
+    "3" : "(1)  [eventually_rise]  <RB_VBD> {eventually rose }",
+    "4" : "(1)  [retire]  <VBN> {retired }"
+  },
+  "dbo:militaryUnit" : {
+    "1" : "(2)  [first_dominicanamerican]  <RB_JJ> {first dominicanamerican }",
+    "2" : "(1)  [initially_serve]  <RB_VBD> {initially served }",
+    "3" : "(1)  [officer_in]  <NN_IN> {officer in }",
+    "4" : "(1)  [serve_in]  <VBN_IN> {served in }"
+  },
+  "dbo:monarch" : {
+    "1" : "(1)  [become_justice]  <VBD_NN> {became justice }",
+    "2" : "(1)  [continue_legacy]  <VBN_NN> {continued legacy }",
+    "3" : "(1)  [dub_himself]  <VBN_PRP> {dubbed himself }",
+    "4" : "(1)  [flee_to]  <VBN_TO> {fled to }",
+    "5" : "(1)  [receive]  <VBN> {received }",
+    "6" : "(1)  [receive_proprietorship]  <VBN_NN> {received proprietorship }",
+    "7" : "(1)  [temporary_assistant]  <JJ_NN> {temporary assistant }"
   },
   "dbo:nationality" : {
     "1" : "(37)  [elect_to]  <VBN_TO> {elected to }",
@@ -98,10 +174,48 @@
   },
   "dbo:occupation" : {
     "1" : "(6)  [become]  <VBD> {became }",
-    "2" : "(5)  [also]  <RB> {also }"
+    "2" : "(5)  [also]  <RB> {also }",
+    "3" : "(4)  [attend_dalhousie]  <VBD_NN> {attended dalhousie }",
+    "4" : "(4)  [serve]  <RB_VBN> {also served }",
+    "5" : "(3)  [elect]  <VBN> {elected }",
+    "6" : "(3)  [former]  <RB_JJ> {also former }",
+    "7" : "(3)  [member_of]  <NN_IN> {member of }",
+    "8" : "(3)  [president_of]  <NN_IN> {president of }",
+    "9" : "(3)  [previously]  <RB> {previously }",
+    "10" : "(3)  [work]  <RB_VBN> {also worked }"
+  },
+  "dbo:office" : {
+    "1" : "(2)  [reelect]  <VBN> {reelected }",
+    "2" : "(2)  [represent]  <VBN> {represented }",
+    "3" : "(1)  [elect_in]  <VBN_IN> {elected in }",
+    "4" : "(1)  [elect_initially]  <VBN_RB> {elected initially }",
+    "5" : "(1)  [first_elect]  <RB_VBN> {first elected }",
+    "6" : "(1)  [go_on]  <VBD_IN> {went on }",
+    "7" : "(1)  [later_become]  <RB_VBD> {later became }",
+    "8" : "(1)  [later_elect]  <RB_VBN> {later elected }",
+    "9" : "(1)  [serve_james]  <VBD_NNS> {served james }",
+    "10" : "(1)  [subsequently_write]  <RB_VBD> {subsequently wrote }"
+  },
+  "dbo:orderInOffice" : {
+    "1" : "(4)  [reelect]  <VBN> {reelected }",
+    "2" : "(3)  [serve]  <RB_VBN> {also served }",
+    "3" : "(2)  [former]  <RB_JJ> {also former }",
+    "4" : "(1)  [become]  <VBD> {became }",
+    "5" : "(1)  [elect]  <VBN> {elected }",
+    "6" : "(1)  [head_defence]  <VBN_NN> {headed defence }",
+    "7" : "(1)  [reelect_to]  <VBN_TO> {reelected to }"
   },
   "dbo:otherParty" : {
-    "1" : "(5)  [resign_from]  <VBN_IN> {resigned from }"
+    "1" : "(5)  [resign_from]  <VBN_IN> {resigned from }",
+    "2" : "(3)  [lose_his]  <VBD_PRP$> {lost his }",
+    "3" : "(2)  [join]  <VBD> {joined }",
+    "4" : "(2)  [member_of]  <NN_IN> {member of }",
+    "5" : "(2)  [serve]  <RB_VBN> {also served }",
+    "6" : "(1)  [additionally_endorse]  <RB_VBN> {additionally endorsed }",
+    "7" : "(1)  [also]  <RB> {also }",
+    "8" : "(1)  [associate_with]  <VBN_IN> {associated with }",
+    "9" : "(1)  [become_member]  <VBD_NN> {became member }",
+    "10" : "(1)  [cochaired_government]  <VBN_NN> {cochaired government }"
   },
   "dbo:party" : {
     "1" : "(403)  [elect_to]  <VBN_TO> {elected to }",
@@ -113,20 +227,55 @@
     "7" : "(40)  [serve]  <RB_VBN> {also served }",
     "8" : "(32)  [liberal_member]  <JJ_NN> {liberal member }",
     "9" : "(25)  [first_elect]  <RB_VBN> {first elected }",
-    "10" : "(22)  [elect]  <VBN> {elected }",
-    "11" : "(20)  [belong_to]  <VBD_TO> {belonged to }",
-    "12" : "(20)  [leader_of]  <NN_IN> {leader of }",
-    "13" : "(20)  [resign_from]  <VBN_IN> {resigned from }",
-    "14" : "(19)  [president_of]  <NN_IN> {president of }",
-    "15" : "(18)  [run_for]  <VB_IN> {run for }",
-    "16" : "(17)  [represent]  <VBN> {represented }",
-    "17" : "(15)  [appoint_to]  <VBN_TO> {appointed to }",
-    "18" : "(15)  [win_indian]  <VBD_JJ> {won indian }",
-    "19" : "(12)  [elect_in]  <VBN_IN> {elected in }",
-    "20" : "(12)  [sit_member]  <VBG_NN> {sitting member }"
+    "10" : "(22)  [elect]  <VBN> {elected }"
+  },
+  "dbo:predecessor" : {
+    "1" : "(2)  [assume_office]  <VBN_NN> {assumed office }",
+    "2" : "(2)  [elect_to]  <VBN_TO> {elected to }",
+    "3" : "(2)  [place_2]  <VBN_JJ> {placed second }",
+    "4" : "(2)  [succeed]  <VBD> {succeeded }",
+    "5" : "(2)  [wife_of]  <NN_IN> {wife of }",
+    "6" : "(1)  [3_generation]  <JJ_NN> {third generation }",
+    "7" : "(1)  [announce_his]  <VBD_PRP$> {announced his }",
+    "8" : "(1)  [appoint_to]  <VBN_TO> {appointed to }",
+    "9" : "(1)  [caens_first]  <NNS_RB> {caens first }",
+    "10" : "(1)  [contest_replacement]  <VBN_NN> {contested replacement }"
+  },
+  "dbo:president" : {
+    "1" : "(2)  [nominate_by]  <VBN_IN> {nominated by }",
+    "2" : "(1)  [advise]  <RB_VBN> {also advised }",
+    "3" : "(1)  [appoint_adviser]  <VBN_NN> {appointed adviser }",
+    "4" : "(1)  [appoint_ambassador]  <VBN_NN> {appointed ambassador }",
+    "5" : "(1)  [appoint_by]  <VBN_IN> {appointed by }",
+    "6" : "(1)  [appoint_to]  <VBN_TO> {appointed to }",
+    "7" : "(1)  [attend_illinois]  <VBD_NN> {attended illinois }",
+    "8" : "(1)  [become_subject]  <VBD_JJ> {became subject }",
+    "9" : "(1)  [criticise]  <VBN> {criticised }",
+    "10" : "(1)  [endorse_candidate]  <VBN_NN> {endorsed candidate }"
   },
   "dbo:primeMinister" : {
-    "1" : "(11)  [minister_of]  <NN_IN> {minister of }"
+    "1" : "(11)  [minister_of]  <NN_IN> {minister of }",
+    "2" : "(4)  [state_minister]  <NN_NN> {state minister }",
+    "3" : "(3)  [appoint_minister]  <VBN_NN> {appointed minister }",
+    "4" : "(3)  [deputy_prime]  <JJ_JJ> {deputy prime }",
+    "5" : "(3)  [previously_serve]  <RB_VBN> {previously served }",
+    "6" : "(3)  [serve_in]  <VBN_IN> {served in }",
+    "7" : "(3)  [serve_minister]  <VBD_NN> {served minister }",
+    "8" : "(2)  [become_subject]  <VBD_JJ> {became subject }",
+    "9" : "(2)  [criticise]  <VBN> {criticised }",
+    "10" : "(2)  [deputy_minister]  <NN_NN> {deputy minister }"
+  },
+  "dbo:profession" : {
+    "1" : "(4)  [also]  <RB> {also }",
+    "2" : "(4)  [serve]  <RB_VBN> {also served }",
+    "3" : "(2)  [elect]  <VBN> {elected }",
+    "4" : "(2)  [employ_associate]  <VBN_NN> {employed associate }",
+    "5" : "(2)  [return_to]  <VBN_TO> {returned to }",
+    "6" : "(1)  [attend_dalhousie]  <VBD_NN> {attended dalhousie }",
+    "7" : "(1)  [bear_september]  <VBN_NNP> {born september }",
+    "8" : "(1)  [business_administration]  <NN_NN> {business administration }",
+    "9" : "(1)  [come_to]  <VBD_TO> {came to }",
+    "10" : "(1)  [continue_to]  <VBN_TO> {continued to }"
   },
   "dbo:region" : {
     "1" : "(112)  [represent]  <VBN> {represented }",
@@ -138,23 +287,34 @@
     "7" : "(11)  [represent_district]  <VBN_NN> {represented district }",
     "8" : "(10)  [serve]  <RB_VBN> {also served }",
     "9" : "(9)  [mla]  <RB_NN> {also mla }",
-    "10" : "(8)  [former]  <RB_JJ> {also former }",
-    "11" : "(8)  [serve_member]  <VBD_NN> {served member }",
-    "12" : "(7)  [president_of]  <NN_IN> {president of }",
-    "13" : "(7)  [represent_riding]  <VBN_NNS> {represented ridings }",
-    "14" : "(6)  [bear_in]  <VBN_IN> {born in }",
-    "15" : "(6)  [first_elect]  <RB_VBN> {first elected }",
-    "16" : "(6)  [member]  <RB_NN> {also member }",
-    "17" : "(6)  [previously_serve]  <RB_VBN> {previously served }",
-    "18" : "(5)  [elect_in]  <VBN_IN> {elected in }",
-    "19" : "(5)  [move_to]  <VBN_TO> {moved to }",
-    "20" : "(5)  [run_for]  <VB_IN> {run for }"
+    "10" : "(8)  [former]  <RB_JJ> {also former }"
   },
   "dbo:relation" : {
-    "1" : "(5)  [son_of]  <NN_IN> {son of }"
+    "1" : "(5)  [son_of]  <NN_IN> {son of }",
+    "2" : "(2)  [graduate_from]  <VBN_IN> {graduated from }",
+    "3" : "(2)  [his_brother]  <PRP$_NN> {his brother }",
+    "4" : "(1)  [2_son]  <JJ_NN> {second son }",
+    "5" : "(1)  [3rd_son]  <JJ_NN> {3rd son }",
+    "6" : "(1)  [bear_franklin]  <VBN_NN> {born franklin }",
+    "7" : "(1)  [brother_of]  <NN_IN> {brother of }",
+    "8" : "(1)  [brotherinlaw_of]  <NN_IN> {brotherinlaw of }",
+    "9" : "(1)  [daughter_of]  <NN_IN> {daughter of }",
+    "10" : "(1)  [follow_his]  <VBD_PRP$> {followed his }"
+  },
+  "dbo:relative" : {
+    "1" : "(1)  [marry]  <VBN> {married }"
   },
   "dbo:religion" : {
-    "1" : "(5)  [member_of]  <NN_IN> {member of }"
+    "1" : "(5)  [member_of]  <NN_IN> {member of }",
+    "2" : "(2)  [hold_position]  <VBN_NN> {held position }",
+    "3" : "(2)  [minister_of]  <NN_IN> {minister of }",
+    "4" : "(1)  [attend_red]  <VBD_JJ> {attended red }",
+    "5" : "(1)  [bear_london]  <VBN_NN> {born london }",
+    "6" : "(1)  [become_close]  <VBD_RB> {became close }",
+    "7" : "(1)  [become_first]  <VBD_RB> {became first }",
+    "8" : "(1)  [become_minister]  <VBD_NN> {became minister }",
+    "9" : "(1)  [best_know]  <RB_VBN> {best known }",
+    "10" : "(1)  [better_know]  <RB_VBN> {better known }"
   },
   "dbo:residence" : {
     "1" : "(93)  [member_of]  <NN_IN> {member of }",
@@ -166,17 +326,7 @@
     "7" : "(27)  [move_to]  <VBN_TO> {moved to }",
     "8" : "(23)  [first_elect]  <RB_VBN> {first elected }",
     "9" : "(22)  [serve_on]  <VBN_IN> {served on }",
-    "10" : "(21)  [previously_serve]  <RB_VBN> {previously served }",
-    "11" : "(21)  [serve_in]  <VBN_IN> {served in }",
-    "12" : "(19)  [die_in]  <VBD_IN> {died in }",
-    "13" : "(19)  [serve_member]  <VBD_NN> {served member }",
-    "14" : "(17)  [president_of]  <NN_IN> {president of }",
-    "15" : "(14)  [run_for]  <VB_IN> {run for }",
-    "16" : "(13)  [appoint_to]  <VBN_TO> {appointed to }",
-    "17" : "(13)  [list_on]  <VBN_IN> {listed on }",
-    "18" : "(12)  [represent_district]  <VBN_NN> {represented district }",
-    "19" : "(12)  [son_of]  <NN_IN> {son of }",
-    "20" : "(9)  [chair_of]  <NN_IN> {chair of }"
+    "10" : "(21)  [previously_serve]  <RB_VBN> {previously served }"
   },
   "dbo:restingPlace" : {
     "1" : "(15)  [move_to]  <VBN_TO> {moved to }",
@@ -186,14 +336,33 @@
     "5" : "(6)  [bear_in]  <VBN_IN> {born in }",
     "6" : "(6)  [delegate_to]  <NN_TO> {delegate to }",
     "7" : "(5)  [come_to]  <VBD_TO> {came to }",
-    "8" : "(5)  [die_in]  <VBD_IN> {died in }"
+    "8" : "(5)  [die_in]  <VBD_IN> {died in }",
+    "9" : "(4)  [judge_of]  <NN_IN> {judge of }",
+    "10" : "(4)  [serve_trustee]  <VBD_NN> {served trustee }"
   },
   "dbo:spouse" : {
     "1" : "(7)  [marry_to]  <VBN_TO> {married to }",
-    "2" : "(7)  [wife_of]  <NN_IN> {wife of }"
+    "2" : "(7)  [wife_of]  <NN_IN> {wife of }",
+    "3" : "(4)  [marry]  <VBN> {married }",
+    "4" : "(3)  [widow_of]  <NN_IN> {widow of }",
+    "5" : "(2)  [first_elect]  <RB_VBN> {first elected }",
+    "6" : "(2)  [meet]  <VBD> {met }",
+    "7" : "(2)  [serve_alongside]  <VBD_IN> {served alongside }",
+    "8" : "(1)  [bear_princess]  <VBN_NN> {born princess }",
+    "9" : "(1)  [become_mp]  <VBD_NN> {became mp }",
+    "10" : "(1)  [die_with]  <VBD_IN> {died with }"
   },
   "dbo:stateOfOrigin" : {
-    "1" : "(6)  [member_of]  <NN_IN> {member of }"
+    "1" : "(6)  [member_of]  <NN_IN> {member of }",
+    "2" : "(4)  [general_secretary]  <JJ_NN> {general secretary }",
+    "3" : "(2)  [belong_to]  <VBD_TO> {belonged to }",
+    "4" : "(2)  [die_at]  <VBD_IN> {died at }",
+    "5" : "(2)  [elect_to]  <VBN_TO> {elected to }",
+    "6" : "(2)  [grandmother_of]  <NN_IN> {grandmother of }",
+    "7" : "(2)  [later_work]  <RB_VBN> {later worked }",
+    "8" : "(2)  [lok_sabha]  <NN_NN> {lok sabha }",
+    "9" : "(2)  [minister]  <RB_NN> {also minister }",
+    "10" : "(2)  [name_to]  <VBN_TO> {named to }"
   },
   "dbo:successor" : {
     "1" : "(38)  [defeat_by]  <VBN_IN> {defeated by }",
@@ -201,24 +370,236 @@
     "3" : "(18)  [defeat_in]  <VBN_IN> {defeated in }",
     "4" : "(7)  [replace_by]  <VBN_IN> {replaced by }",
     "5" : "(7)  [run_for]  <VB_IN> {run for }",
-    "6" : "(5)  [retire_from]  <VBN_IN> {retired from }"
+    "6" : "(5)  [retire_from]  <VBN_IN> {retired from }",
+    "7" : "(4)  [lose_to]  <VBN_TO> {lost to }",
+    "8" : "(4)  [serve_alongside]  <VBD_IN> {served alongside }",
+    "9" : "(3)  [held_seat]  <JJ_NN> {held seat }",
+    "10" : "(3)  [lose_his]  <VBD_PRP$> {lost his }"
+  },
+  "dbp:1blankname" : {
+    "1" : "(1)  [also]  <RB> {also }",
+    "2" : "(1)  [become]  <VBD> {became }"
+  },
+  "dbp:1namedata" : {
+    "1" : "(2)  [succeed_by]  <VBN_IN> {succeeded by }",
+    "2" : "(1)  [become_executive]  <VBD_NN> {became executive }",
+    "3" : "(1)  [serve]  <RB_VBN> {also served }"
+  },
+  "dbp:affiliation" : {
+    "1" : "(1)  [also]  <RB> {also }"
   },
   "dbp:after" : {
     "1" : "(9)  [defeat_by]  <VBN_IN> {defeated by }",
     "2" : "(9)  [held_seat]  <JJ_NN> {held seat }",
     "3" : "(9)  [replace_by]  <VBN_IN> {replaced by }",
     "4" : "(8)  [defeat_at]  <VBN_IN> {defeated at }",
-    "5" : "(6)  [lose_his]  <VBD_PRP$> {lost his }"
+    "5" : "(6)  [lose_his]  <VBD_PRP$> {lost his }",
+    "6" : "(4)  [defeat_for]  <VBN_IN> {defeated for }",
+    "7" : "(4)  [lose_to]  <VBN_TO> {lost to }",
+    "8" : "(4)  [reelect_in]  <VBN_IN> {reelected in }",
+    "9" : "(3)  [defeat_in]  <VBN_IN> {defeated in }",
+    "10" : "(3)  [lost_seat]  <JJ_NN> {lost seat }"
+  },
+  "dbp:allegiance" : {
+    "1" : "(1)  [attend_camden]  <VBD_NN> {attended camden }",
+    "2" : "(1)  [award]  <VBN> {awarded }",
+    "3" : "(1)  [join_royal]  <VBD_NN> {joined royal }",
+    "4" : "(1)  [oppose]  <VBN> {opposed }",
+    "5" : "(1)  [work_political]  <VBD_JJ> {worked political }"
+  },
+  "dbp:almaMater" : {
+    "1" : "(1)  [educate_at]  <VBN_IN> {educated at }",
+    "2" : "(1)  [president_of]  <NN_IN> {president of }"
+  },
+  "dbp:almaMatter" : {
+    "1" : "(1)  [study_at]  <VBN_IN> {studied at }"
+  },
+  "dbp:alongside" : {
+    "1" : "(1)  [contest_superintendancy]  <VBN_NN> {contested superintendancy }"
+  },
+  "dbp:appointed" : {
+    "1" : "(3)  [appoint_to]  <VBN_TO> {appointed to }",
+    "2" : "(2)  [appoint_by]  <VBN_IN> {appointed by }",
+    "3" : "(1)  [become_well]  <VBD_RB> {became well }",
+    "4" : "(1)  [come_to]  <VBD_TO> {came to }",
+    "5" : "(1)  [continue_work]  <VBN_VBG> {continued working }",
+    "6" : "(1)  [describe]  <VBN> {described }",
+    "7" : "(1)  [first_person]  <RB_NN> {first person }",
+    "8" : "(1)  [later_join]  <RB_VBN> {later joined }",
+    "9" : "(1)  [previously_serve]  <RB_VBN> {previously served }",
+    "10" : "(1)  [remain_his]  <VBD_PRP$> {remained his }"
+  },
+  "dbp:appointer" : {
+    "1" : "(1)  [currently_serve]  <RB_VBZ> {currently serves }",
+    "2" : "(1)  [elevated_judge]  <JJ_NN> {elevated judge }",
+    "3" : "(1)  [spend_35]  <VBN_CD> {spent 35 }"
+  },
+  "dbp:ballot" : {
+    "1" : "(1)  [ne_whitaker]  <NN_NN> {ne whitaker }"
   },
   "dbp:before" : {
     "1" : "(8)  [defeat_at]  <VBN_IN> {defeated at }",
-    "2" : "(6)  [first_elect]  <RB_VBN> {first elected }"
+    "2" : "(6)  [first_elect]  <RB_VBN> {first elected }",
+    "3" : "(4)  [appoint_to]  <VBN_TO> {appointed to }",
+    "4" : "(4)  [elect_at]  <VBN_IN> {elected at }",
+    "5" : "(3)  [succeed_by]  <VBN_IN> {succeeded by }",
+    "6" : "(3)  [unsuccessfully_contest]  <RB_VBN> {unsuccessfully contested }",
+    "7" : "(3)  [win_seat]  <VBD_NN> {won seat }",
+    "8" : "(2)  [2_son]  <JJ_NN> {second son }",
+    "9" : "(2)  [assume_office]  <VBN_NN> {assumed office }",
+    "10" : "(2)  [contest_belper]  <VBN_NN> {contested belper }"
+  },
+  "dbp:birthDate" : {
+    "1" : "(2)  [serve_minister]  <VBD_NN> {served minister }"
+  },
+  "dbp:birthPlace" : {
+    "1" : "(2)  [four_son]  <CD_NNS> {four sons }",
+    "2" : "(2)  [imprison_for]  <VBN_IN> {imprisoned for }",
+    "3" : "(2)  [serve_deputy]  <VBD_NN> {served deputy }",
+    "4" : "(2)  [serve_president]  <VBD_NN> {served president }",
+    "5" : "(2)  [teacher]  <NN> {teacher }",
+    "6" : "(2)  [west]  <RB_NN> {also west }",
+    "7" : "(2)  [win_ward]  <VBD_NN> {won ward }",
+    "8" : "(1)  [appoint_chair]  <VBN_NN> {appointed chair }",
+    "9" : "(1)  [first]  <RB> {first }",
+    "10" : "(1)  [left_wharrier]  <RB_NN> {left wharrier }"
+  },
+  "dbp:candidate" : {
+    "1" : "(2)  [run_for]  <VB_IN> {run for }",
+    "2" : "(1)  [candidate_for]  <NN_IN> {candidate for }",
+    "3" : "(1)  [nominee_for]  <NN_IN> {nominee for }",
+    "4" : "(1)  [partys_nominee]  <NNS_NN> {partys nominee }",
+    "5" : "(1)  [run_against]  <VBD_IN> {ran against }",
+    "6" : "(1)  [senior_advisor]  <JJ_NN> {senior advisor }",
+    "7" : "(1)  [son_of]  <NN_IN> {son of }",
+    "8" : "(1)  [unsuccessful_candidate]  <JJ_NN> {unsuccessful candidate }"
+  },
+  "dbp:children" : {
+    "1" : "(1)  [appoint_environment]  <VBN_NN> {appointed environment }",
+    "2" : "(1)  [minister_of]  <NN_IN> {minister of }"
+  },
+  "dbp:citizenship" : {
+    "1" : "(2)  [elect_member]  <VBN_NN> {elected member }",
+    "2" : "(2)  [play_significant]  <VBN_JJ> {played significant }",
+    "3" : "(2)  [serve_consul]  <VBZ_NN> {serves consul }",
+    "4" : "(2)  [state_minister]  <NN_NN> {state minister }",
+    "5" : "(2)  [student_of]  <NN_IN> {student of }",
+    "6" : "(1)  [federal]  <JJ> {federal }",
+    "7" : "(1)  [join]  <VBD> {joined }",
+    "8" : "(1)  [member]  <RB_NN> {also member }",
+    "9" : "(1)  [senator_from]  <NN_IN> {senator from }",
+    "10" : "(1)  [urdu]  <NN> {urdu }"
+  },
+  "dbp:constituency" : {
+    "1" : "(2)  [represent_his]  <VBN_PRP$> {represented his }",
+    "2" : "(1)  [contest_from]  <VBN_IN> {contested from }",
+    "3" : "(1)  [elect_to]  <VBN_TO> {elected to }",
+    "4" : "(1)  [her_family]  <PRP$_NN> {her family }",
+    "5" : "(1)  [madhya_pradesh]  <NN_NN> {madhya pradesh }",
+    "6" : "(1)  [member_of]  <NN_IN> {member of }"
+  },
+  "dbp:constituencyMla" : {
+    "1" : "(1)  [appoint_to]  <VBN_TO> {appointed to }",
+    "2" : "(1)  [female]  <NN> {female }",
+    "3" : "(1)  [pwd]  <NN> {pwd }"
   },
   "dbp:constituencyMp" : {
-    "1" : "(6)  [represent]  <VBN> {represented }"
+    "1" : "(6)  [represent]  <VBN> {represented }",
+    "2" : "(2)  [elect_in]  <VBN_IN> {elected in }",
+    "3" : "(2)  [elect_to]  <VBN_TO> {elected to }",
+    "4" : "(2)  [first_elect]  <RB_VBN> {first elected }",
+    "5" : "(2)  [represent_electoral]  <VBZ_JJ> {represents electoral }",
+    "6" : "(1)  [also]  <RB> {also }",
+    "7" : "(1)  [british_merchant]  <JJ_NN> {british merchant }",
+    "8" : "(1)  [create_baroness]  <VBN_NN> {created baroness }",
+    "9" : "(1)  [elect_at]  <VBN_IN> {elected at }",
+    "10" : "(1)  [enter_civic]  <VBN_JJ> {entered civic }"
+  },
+  "dbp:convictionPenalty" : {
+    "1" : "(1)  [capture_by]  <VBN_IN> {captured by }"
+  },
+  "dbp:data" : {
+    "1" : "(1)  [come_to]  <VBD_TO> {came to }",
+    "2" : "(1)  [go_on]  <VBD_IN> {went on }"
+  },
+  "dbp:deathPlace" : {
+    "1" : "(2)  [first]  <RB> {first }",
+    "2" : "(2)  [instrumental_in]  <JJ_IN> {instrumental in }",
+    "3" : "(2)  [move_to]  <VBN_TO> {moved to }",
+    "4" : "(2)  [one_lay]  <CD_VBN> {one laid }",
+    "5" : "(2)  [serve]  <RB_VBN> {also served }"
+  },
+  "dbp:deputy" : {
+    "1" : "(1)  [serve]  <RB_VBN> {also served }"
+  },
+  "dbp:district" : {
+    "1" : "(2)  [chairman]  <RB_NN> {also chairman }",
+    "2" : "(2)  [member_of]  <NN_IN> {member of }",
+    "3" : "(2)  [represent]  <VBN> {represented }"
+  },
+  "dbp:education" : {
+    "1" : "(2)  [bear_in]  <VBN_IN> {born in }",
+    "2" : "(1)  [die_before]  <VBD_IN> {died before }",
+    "3" : "(1)  [earn_his]  <VBN_PRP$> {earned his }",
+    "4" : "(1)  [elect_to]  <VBN_TO> {elected to }",
+    "5" : "(1)  [first_elect]  <RB_VBN> {first elected }",
+    "6" : "(1)  [partys_candidate]  <NNS_NN> {partys candidate }",
+    "7" : "(1)  [reelect_to]  <VBN_TO> {reelected to }",
+    "8" : "(1)  [serve_mayor]  <VBD_NN> {served mayor }"
   },
   "dbp:electorate" : {
-    "1" : "(46)  [represent]  <VBN> {represented }"
+    "1" : "(46)  [represent]  <VBN> {represented }",
+    "2" : "(4)  [represent_electorate]  <VBN_NN> {represented electorate }",
+    "3" : "(4)  [win]  <VBN> {won }",
+    "4" : "(3)  [elect_to]  <VBN_TO> {elected to }",
+    "5" : "(3)  [represent_city]  <VBN_NN> {represented city }",
+    "6" : "(2)  [enter_house]  <VBN_NN> {entered house }",
+    "7" : "(2)  [related_to]  <JJ_TO> {related to }",
+    "8" : "(1)  [3_mp]  <JJ_NN> {third mp }",
+    "9" : "(1)  [again_stand]  <RB_VBD> {again stood }",
+    "10" : "(1)  [contest]  <VBN> {contested }"
+  },
+  "dbp:employer" : {
+    "1" : "(1)  [minister_of]  <NN_IN> {minister of }",
+    "2" : "(1)  [previously_serve]  <RB_VBN> {previously served }",
+    "3" : "(1)  [start_his]  <VBD_PRP$> {started his }",
+    "4" : "(1)  [swear_in]  <VBN_IN> {sworn in }"
+  },
+  "dbp:ethnicity" : {
+    "1" : "(1)  [leader_of]  <NN_IN> {leader of }"
+  },
+  "dbp:field" : {
+    "1" : "(2)  [also]  <RB> {also }"
+  },
+  "dbp:genre" : {
+    "1" : "(1)  [well_know]  <RB_VBN> {well known }"
+  },
+  "dbp:governor" : {
+    "1" : "(1)  [resign_from]  <VBN_IN> {resigned from }"
+  },
+  "dbp:governorGeneral" : {
+    "1" : "(1)  [best_know]  <RB_VBN> {best known }"
+  },
+  "dbp:homeTown" : {
+    "1" : "(4)  [president_of]  <NN_IN> {president of }",
+    "2" : "(2)  [contest]  <VBN> {contested }",
+    "3" : "(2)  [important_leader]  <JJ_NN> {important leader }",
+    "4" : "(2)  [originally_belong]  <RB_VBZ> {originally belongs }",
+    "5" : "(2)  [serve]  <RB_VBN> {also served }",
+    "6" : "(1)  [currently_minister]  <RB_NN> {currently minister }",
+    "7" : "(1)  [work]  <RB_VBN> {also worked }"
+  },
+  "dbp:honorificPrefix" : {
+    "1" : "(3)  [elect_to]  <VBN_TO> {elected to }",
+    "2" : "(2)  [become]  <VBD> {became }",
+    "3" : "(2)  [first_elect]  <RB_VBN> {first elected }",
+    "4" : "(2)  [retire]  <VBN> {retired }",
+    "5" : "(1)  [acclaimed]  <JJ> {acclaimed }",
+    "6" : "(1)  [aerospace_engineer]  <NN_NN> {aerospace engineer }",
+    "7" : "(1)  [alumnus_of]  <NN_IN> {alumnus of }",
+    "8" : "(1)  [appoint]  <VBN> {appointed }",
+    "9" : "(1)  [appoint_minister]  <VBN_NN> {appointed minister }",
+    "10" : "(1)  [appoint_private]  <VBN_JJ> {appointed private }"
   },
   "dbp:honorificSuffix" : {
     "1" : "(26)  [liberal]  <JJ> {liberal }",
@@ -226,10 +607,138 @@
     "3" : "(7)  [serve]  <RB_VBN> {also served }",
     "4" : "(6)  [elect_to]  <VBN_TO> {elected to }",
     "5" : "(5)  [elect]  <VBN> {elected }",
-    "6" : "(5)  [first_elect]  <RB_VBN> {first elected }"
+    "6" : "(5)  [first_elect]  <RB_VBN> {first elected }",
+    "7" : "(4)  [also]  <RB> {also }",
+    "8" : "(4)  [make]  <VBN> {made }",
+    "9" : "(4)  [sit]  <VBD> {sat }",
+    "10" : "(3)  [currently]  <RB> {currently }"
+  },
+  "dbp:house" : {
+    "1" : "(2)  [reelect_to]  <VBN_TO> {reelected to }"
+  },
+  "dbp:ideology" : {
+    "1" : "(1)  [kurdish_pronoun]  <JJ_NN> {kurdish PRONOUN }"
+  },
+  "dbp:incumbent" : {
+    "1" : "(1)  [lose_election]  <VBN_NN> {lost election }"
+  },
+  "dbp:kingdom" : {
+    "1" : "(2)  [previously_serve]  <RB_VBN> {previously served }",
+    "2" : "(1)  [die_216]  <VBD_CD> {died 216 }",
+    "3" : "(1)  [frame_deng]  <VBN_NN> {framed deng }",
+    "4" : "(1)  [join]  <VBD> {joined }",
+    "5" : "(1)  [often_provide]  <RB_VBN> {often provided }",
+    "6" : "(1)  [rise_to]  <VBD_TO> {rose to }",
+    "7" : "(1)  [sabsente_un]  <FW_FW> {sabsente un }",
+    "8" : "(1)  [steadily_move]  <RB_VBN> {steadily moved }",
+    "9" : "(1)  [tait_un]  <NN_NN> {tait un }",
+    "10" : "(1)  [uncle_of]  <NN_IN> {uncle of }"
+  },
+  "dbp:leader" : {
+    "1" : "(2)  [appoint_to]  <VBN_TO> {appointed to }",
+    "2" : "(2)  [elect_unopposed]  <VBN_JJ> {elected unopposed }",
+    "3" : "(2)  [marry_to]  <VBN_TO> {married to }",
+    "4" : "(1)  [shortly_follow]  <RB_VBN> {shortly followed }"
+  },
+  "dbp:mawards" : {
+    "1" : "(1)  [active_in]  <JJ_IN> {active in }",
+    "2" : "(1)  [appoint]  <VBN> {appointed }",
+    "3" : "(1)  [promote_brigadier]  <VBN_NN> {promoted brigadier }"
+  },
+  "dbp:nationality" : {
+    "1" : "(2)  [member_of]  <NN_IN> {member of }",
+    "2" : "(2)  [migrate_to]  <VBD_TO> {migrated to }",
+    "3" : "(1)  [advance_to]  <VBN_TO> {advanced to }",
+    "4" : "(1)  [appoint_chairman]  <VBN_NN> {appointed chairman }",
+    "5" : "(1)  [appoint_minister]  <VBN_NN> {appointed minister }",
+    "6" : "(1)  [briefly_chairman]  <RB_NN> {briefly chairman }",
+    "7" : "(1)  [closely_related]  <RB_JJ> {closely related }",
+    "8" : "(1)  [come_to]  <VBD_TO> {came to }",
+    "9" : "(1)  [elect_to]  <VBN_TO> {elected to }",
+    "10" : "(1)  [emigrate_to]  <VBD_TO> {emigrated to }"
+  },
+  "dbp:nominator" : {
+    "1" : "(1)  [appoint_lezaks]  <VBN_NNS> {appointed lezaks }",
+    "2" : "(1)  [nominate_by]  <VBN_IN> {nominated by }",
+    "3" : "(1)  [subsequently_resign]  <RB_VBN> {subsequently resigned }"
+  },
+  "dbp:occupation" : {
+    "1" : "(4)  [also]  <RB> {also }",
+    "2" : "(3)  [former]  <RB_JJ> {also former }",
+    "3" : "(3)  [serve]  <RB_VBN> {also served }",
+    "4" : "(2)  [chinese_pinyin]  <JJ_NN> {chinese pinyin }",
+    "5" : "(2)  [elect]  <VBN> {elected }",
+    "6" : "(2)  [serve_in]  <VBN_IN> {served in }",
+    "7" : "(1)  [active]  <JJ> {active }",
+    "8" : "(1)  [active_in]  <JJ_IN> {active in }",
+    "9" : "(1)  [appoint]  <VBN> {appointed }",
+    "10" : "(1)  [appoint_minister]  <VBN_NN> {appointed minister }"
+  },
+  "dbp:opponent" : {
+    "1" : "(2)  [lose_election]  <VBN_NN> {lost election }"
+  },
+  "dbp:organization" : {
+    "1" : "(1)  [know_for]  <VBN_IN> {known for }"
+  },
+  "dbp:parents" : {
+    "1" : "(3)  [son_of]  <NN_IN> {son of }",
+    "2" : "(1)  [daughter_of]  <NN_IN> {daughter of }",
+    "3" : "(1)  [eldest_son]  <JJ_NN> {eldest son }",
+    "4" : "(1)  [grandson_of]  <NN_IN> {grandson of }",
+    "5" : "(1)  [nearly_bear]  <RB_VBN> {nearly born }",
+    "6" : "(1)  [old_daughter]  <JJR_NN> {elder daughter }",
+    "7" : "(1)  [phelps]  <NNS> {phelps }"
   },
   "dbp:parliament" : {
-    "1" : "(12)  [elect_to]  <VBN_TO> {elected to }"
+    "1" : "(12)  [elect_to]  <VBN_TO> {elected to }",
+    "2" : "(4)  [first_elect]  <RB_VBN> {first elected }",
+    "3" : "(4)  [member_of]  <NN_IN> {member of }",
+    "4" : "(4)  [minister_for]  <NN_IN> {minister for }",
+    "5" : "(2)  [come_to]  <VBD_TO> {came to }",
+    "6" : "(2)  [current_member]  <JJ_NN> {current member }",
+    "7" : "(2)  [make_officer]  <VBN_NN> {made officer }",
+    "8" : "(2)  [serve_in]  <VBN_IN> {served in }",
+    "9" : "(2)  [serve_member]  <VBD_NN> {served member }",
+    "10" : "(1)  [author_of]  <NN_IN> {author of }"
+  },
+  "dbp:party" : {
+    "1" : "(2)  [left_office]  <JJ_NN> {left office }",
+    "2" : "(1)  [attempt_return]  <VBN_NN> {attempted return }",
+    "3" : "(1)  [belong_to]  <VBD_TO> {belonged to }",
+    "4" : "(1)  [left_marumalarchi]  <RB_NNS> {left marumalarchi }",
+    "5" : "(1)  [represent_electoral]  <VBZ_JJ> {represents electoral }",
+    "6" : "(1)  [run]  <RB_VBD> {also ran }",
+    "7" : "(1)  [sit]  <VBD> {sat }",
+    "8" : "(1)  [win_indian]  <VBD_JJ> {won indian }"
+  },
+  "dbp:partyLeader" : {
+    "1" : "(1)  [member_of]  <NN_IN> {member of }"
+  },
+  "dbp:placeOfBirth" : {
+    "1" : "(2)  [eldest_son]  <JJ_NN> {eldest son }"
+  },
+  "dbp:portal" : {
+    "1" : "(1)  [spend_his]  <VBD_PRP$> {spent his }"
+  },
+  "dbp:post" : {
+    "1" : "(3)  [serve_in]  <VBN_IN> {served in }",
+    "2" : "(1)  [appoint_british]  <VBN_JJ> {appointed british }",
+    "3" : "(1)  [cabinet]  <RB_NN> {also cabinet }",
+    "4" : "(1)  [longtime_liberal]  <JJ_NN> {longtime liberal }",
+    "5" : "(1)  [senior_member]  <JJ_NN> {senior member }",
+    "6" : "(1)  [serve]  <RB_VBN> {also served }",
+    "7" : "(1)  [serve_parliamentary]  <VBD_JJ> {served parliamentary }",
+    "8" : "(1)  [swear_in]  <VBN_IN> {sworn in }"
+  },
+  "dbp:preceded" : {
+    "1" : "(1)  [appoint_governor]  <VBN_NN> {appointed governor }",
+    "2" : "(1)  [appoint_marion]  <VBN_NN> {appointed marion }",
+    "3" : "(1)  [become_chairman]  <VBD_NN> {became chairman }",
+    "4" : "(1)  [defeat_incumbent]  <VBN_JJ> {defeated incumbent }",
+    "5" : "(1)  [elect_to]  <VBN_TO> {elected to }",
+    "6" : "(1)  [endorse_by]  <VBN_IN> {endorsed by }",
+    "7" : "(1)  [first_elect]  <RB_VBN> {first elected }",
+    "8" : "(1)  [sheriff_since]  <NN_IN> {sheriff since }"
   },
   "dbp:predecessor" : {
     "1" : "(12)  [first_elect]  <RB_VBN> {first elected }",
@@ -238,25 +747,135 @@
     "4" : "(8)  [elect_in]  <VBN_IN> {elected in }",
     "5" : "(7)  [defeat_by]  <VBN_IN> {defeated by }",
     "6" : "(6)  [son_of]  <NN_IN> {son of }",
-    "7" : "(5)  [replace]  <VBN> {replaced }"
+    "7" : "(5)  [replace]  <VBN> {replaced }",
+    "8" : "(3)  [defeat_incumbent]  <VBN_JJ> {defeated incumbent }",
+    "9" : "(3)  [enter_provincial]  <VBN_JJ> {entered provincial }",
+    "10" : "(3)  [lose_to]  <VBN_TO> {lost to }"
   },
   "dbp:premier" : {
-    "1" : "(5)  [serve_cabinet]  <VBD_NN> {served cabinet }"
+    "1" : "(5)  [serve_cabinet]  <VBD_NN> {served cabinet }",
+    "2" : "(3)  [serve_in]  <VBN_IN> {served in }",
+    "3" : "(2)  [appoint_minister]  <VBN_NN> {appointed minister }",
+    "4" : "(2)  [minister_in]  <NN_IN> {minister in }",
+    "5" : "(2)  [remain_on]  <VBN_IN> {remained on }",
+    "6" : "(1)  [appoint_parliamentary]  <VBN_JJ> {appointed parliamentary }",
+    "7" : "(1)  [cabinet]  <RB_NN> {also cabinet }",
+    "8" : "(1)  [cabinet_minister]  <NN_NN> {cabinet minister }",
+    "9" : "(1)  [decide_to]  <VBN_TO> {decided to }",
+    "10" : "(1)  [finish_second]  <VBN_RB> {finished second }"
+  },
+  "dbp:primeMinister" : {
+    "1" : "(1)  [vote_for]  <VBD_IN> {voted for }"
+  },
+  "dbp:profession" : {
+    "1" : "(3)  [elect]  <VBN> {elected }",
+    "2" : "(1)  [admit]  <VBN> {admitted }",
+    "3" : "(1)  [anglican]  <NN> {anglican }",
+    "4" : "(1)  [apprentice]  <VBD> {apprenticed }",
+    "5" : "(1)  [attend_suffolk]  <VBD_NN> {attended suffolk }",
+    "6" : "(1)  [become]  <VBD> {became }",
+    "7" : "(1)  [begin_his]  <VBD_PRP$> {began his }",
+    "8" : "(1)  [city]  <NN> {city }",
+    "9" : "(1)  [come_to]  <VBD_TO> {came to }",
+    "10" : "(1)  [obtain_degree]  <VBN_NN> {obtained degree }"
+  },
+  "dbp:rank" : {
+    "1" : "(3)  [serve]  <RB_VBN> {also served }",
+    "2" : "(1)  [attain_rank]  <VBN_NN> {attained rank }",
+    "3" : "(1)  [identify]  <VBN> {identified }",
+    "4" : "(1)  [name_lieutenant]  <VBN_NN> {named lieutenant }"
+  },
+  "dbp:region" : {
+    "1" : "(1)  [chief_executive]  <JJ_NN> {chief executive }"
+  },
+  "dbp:relatives" : {
+    "1" : "(1)  [scion_of]  <NN_IN> {scion of }"
+  },
+  "dbp:religion" : {
+    "1" : "(2)  [member_of]  <NN_IN> {member of }",
+    "2" : "(2)  [participate_in]  <VBD_IN> {participated in }",
+    "3" : "(1)  [announce_his]  <VBD_PRP$> {announced his }",
+    "4" : "(1)  [dedicated_himself]  <JJ_PRP> {dedicated himself }",
+    "5" : "(1)  [defeat_famous]  <VBN_JJ> {defeated famous }",
+    "6" : "(1)  [develope_many]  <VBD_JJ> {developed many }",
+    "7" : "(1)  [educate_at]  <VBN_IN> {educated at }",
+    "8" : "(1)  [elect_to]  <VBN_TO> {elected to }",
+    "9" : "(1)  [fight_for]  <VBN_IN> {fought for }",
+    "10" : "(1)  [first_deacon]  <RB_NN> {first deacon }"
+  },
+  "dbp:residence" : {
+    "1" : "(2)  [one_lay]  <CD_VBN> {one laid }",
+    "2" : "(1)  [first_female]  <RB_JJ> {first female }",
+    "3" : "(1)  [play_central]  <VBN_JJ> {played central }",
+    "4" : "(1)  [run_unsuccessfully]  <VBD_RB> {ran unsuccessfully }"
+  },
+  "dbp:restingPlace" : {
+    "1" : "(2)  [recognize_lead]  <VBN_VBG> {recognized leading }",
+    "2" : "(1)  [later_bury]  <RB_VBN> {later buried }",
+    "3" : "(1)  [lay_to]  <VBN_TO> {laid to }"
+  },
+  "dbp:riding" : {
+    "1" : "(4)  [elect_to]  <VBN_TO> {elected to }",
+    "2" : "(4)  [first_elect]  <RB_VBN> {first elected }",
+    "3" : "(4)  [represent_electoral]  <VBZ_JJ> {represents electoral }",
+    "4" : "(4)  [represent_ride]  <VBZ_VBG> {represents riding }",
+    "5" : "(1)  [currently_represent]  <RB_VBZ> {currently represents }",
+    "6" : "(1)  [elect_member]  <VBN_NN> {elected member }",
+    "7" : "(1)  [liberal_member]  <JJ_NN> {liberal member }",
+    "8" : "(1)  [municipal_politician]  <JJ_NN> {municipal politician }",
+    "9" : "(1)  [represent_british]  <VBN_JJ> {represented british }"
+  },
+  "dbp:spouse" : {
+    "1" : "(2)  [marry_to]  <VBN_TO> {married to }",
+    "2" : "(1)  [reside_in]  <VBD_IN> {resided in }"
   },
   "dbp:state" : {
     "1" : "(9)  [represent]  <VBN> {represented }",
     "2" : "(9)  [serve_in]  <VBN_IN> {served in }",
-    "3" : "(7)  [elect_to]  <VBN_TO> {elected to }"
+    "3" : "(7)  [elect_to]  <VBN_TO> {elected to }",
+    "4" : "(4)  [also]  <RB> {also }",
+    "5" : "(4)  [congressman_represent]  <NN_VBG> {congressman representing }",
+    "6" : "(4)  [currently_represent]  <RB_VBZ> {currently represents }",
+    "7" : "(4)  [evolve_into]  <VBD_IN> {evolved into }",
+    "8" : "(4)  [induct_into]  <VBN_IN> {inducted into }",
+    "9" : "(4)  [previously_serve]  <RB_VBN> {previously served }",
+    "10" : "(4)  [seek]  <RB_VBN> {also sought }"
+  },
+  "dbp:stateAssembly" : {
+    "1" : "(2)  [author_numerous]  <VBN_JJ> {authored numerous }",
+    "2" : "(2)  [chair_of]  <NN_IN> {chair of }",
+    "3" : "(2)  [defeat_in]  <VBN_IN> {defeated in }",
+    "4" : "(2)  [run_for]  <VB_IN> {run for }",
+    "5" : "(2)  [serve_five]  <VBD_CD> {served five }",
+    "6" : "(2)  [serve_on]  <VBN_IN> {served on }",
+    "7" : "(1)  [bear_october]  <VBN_NNP> {born october }",
+    "8" : "(1)  [fellow_republican]  <JJ_NN> {fellow republican }",
+    "9" : "(1)  [firstterm_republican]  <NN_NN> {firstterm republican }",
+    "10" : "(1)  [previously_member]  <RB_NN> {previously member }"
   },
   "dbp:stateDelegate" : {
     "1" : "(17)  [elect_to]  <VBN_TO> {elected to }",
     "2" : "(9)  [currently_serve]  <RB_VBZ> {currently serves }",
-    "3" : "(7)  [serve_in]  <VBN_IN> {served in }"
+    "3" : "(7)  [serve_in]  <VBN_IN> {served in }",
+    "4" : "(4)  [member_of]  <NN_IN> {member of }",
+    "5" : "(2)  [currently_represent]  <RB_VBZ> {currently represents }",
+    "6" : "(2)  [deputy_speaker]  <NN_NN> {deputy speaker }",
+    "7" : "(2)  [elect_in]  <VBN_IN> {elected in }",
+    "8" : "(2)  [serve_counsel]  <VBD_NN> {served counsel }",
+    "9" : "(1)  [currently_democratic]  <RB_JJ> {currently democratic }",
+    "10" : "(1)  [democratic_member]  <JJ_NN> {democratic member }"
   },
   "dbp:stateHouse" : {
     "1" : "(23)  [serve_in]  <VBN_IN> {served in }",
     "2" : "(13)  [member_of]  <NN_IN> {member of }",
-    "3" : "(6)  [elect_to]  <VBN_TO> {elected to }"
+    "3" : "(6)  [elect_to]  <VBN_TO> {elected to }",
+    "4" : "(4)  [elect_by]  <VBN_IN> {elected by }",
+    "5" : "(4)  [run_for]  <VB_IN> {run for }",
+    "6" : "(4)  [serve]  <RB_VBN> {also served }",
+    "7" : "(3)  [first_elect]  <RB_VBN> {first elected }",
+    "8" : "(3)  [serve_speaker]  <VBD_NN> {served speaker }",
+    "9" : "(2)  [currently_serve]  <RB_VBZ> {currently serves }",
+    "10" : "(2)  [degree_from]  <NN_IN> {degree from }"
   },
   "dbp:stateSenate" : {
     "1" : "(28)  [member_of]  <NN_IN> {member of }",
@@ -265,7 +884,36 @@
     "4" : "(17)  [currently_serve]  <RB_VBZ> {currently serves }",
     "5" : "(10)  [previously_serve]  <RB_VBN> {previously served }",
     "6" : "(8)  [serve_member]  <VBD_NN> {served member }",
-    "7" : "(5)  [serve]  <RB_VBN> {also served }"
+    "7" : "(5)  [serve]  <RB_VBN> {also served }",
+    "8" : "(4)  [run_for]  <VB_IN> {run for }",
+    "9" : "(3)  [first_elect]  <RB_VBN> {first elected }",
+    "10" : "(3)  [serve_on]  <VBN_IN> {served on }"
+  },
+  "dbp:succeeded" : {
+    "1" : "(4)  [defeat_for]  <VBN_IN> {defeated for }",
+    "2" : "(2)  [resign_newly]  <VBD_RB> {resigned newly }",
+    "3" : "(2)  [succeed_in]  <VBN_IN> {succeeded in }",
+    "4" : "(1)  [lose_his]  <VBD_PRP$> {lost his }",
+    "5" : "(1)  [succeed_by]  <VBN_IN> {succeeded by }",
+    "6" : "(1)  [usurped_power]  <JJ_NN> {usurped power }",
+    "7" : "(1)  [would_seek]  <MD_VB> {would seek }"
+  },
+  "dbp:successor" : {
+    "1" : "(2)  [currently_serve]  <RB_VBZ> {currently serves }",
+    "2" : "(2)  [see_possible]  <VBN_JJ> {seen possible }",
+    "3" : "(2)  [unable_to]  <JJ_TO> {unable to }",
+    "4" : "(2)  [would_seek]  <MD_VB> {would seek }",
+    "5" : "(1)  [announce_her]  <VBD_PRP$> {announced her }",
+    "6" : "(1)  [bribe_state]  <VBN_NN> {bribed state }",
+    "7" : "(1)  [easily_win]  <RB_VBN> {easily won }",
+    "8" : "(1)  [would_stand]  <MD_VB> {would stand }"
+  },
+  "dbp:termEnd" : {
+    "1" : "(2)  [would_seek]  <MD_VB> {would seek }",
+    "2" : "(1)  [elect]  <VBN> {elected }"
+  },
+  "dbp:termStart" : {
+    "1" : "(1)  [die]  <VBD> {died }"
   },
   "dbp:title" : {
     "1" : "(168)  [represent]  <VBN> {represented }",
@@ -277,16 +925,26 @@
     "7" : "(16)  [become]  <VBD> {became }",
     "8" : "(13)  [serve_in]  <VBN_IN> {served in }",
     "9" : "(12)  [move_to]  <VBN_TO> {moved to }",
-    "10" : "(10)  [serve_deputy]  <VBD_NN> {served deputy }",
-    "11" : "(9)  [bear_in]  <VBN_IN> {born in }",
-    "12" : "(8)  [create]  <VBN> {created }",
-    "13" : "(7)  [first]  <RB> {first }",
-    "14" : "(7)  [resign_from]  <VBN_IN> {resigned from }",
-    "15" : "(7)  [win]  <VBN> {won }",
-    "16" : "(6)  [appoint_to]  <VBN_TO> {appointed to }",
-    "17" : "(6)  [deputy_of]  <NN_IN> {deputy of }",
-    "18" : "(6)  [previously_serve]  <RB_VBN> {previously served }",
-    "19" : "(6)  [represent_electorate]  <VBN_NN> {represented electorate }",
-    "20" : "(6)  [son_of]  <NN_IN> {son of }"
+    "10" : "(10)  [serve_deputy]  <VBD_NN> {served deputy }"
+  },
+  "dbp:type" : {
+    "1" : "(1)  [first]  <RB> {first }",
+    "2" : "(1)  [serve_from]  <VBN_IN> {served from }"
+  },
+  "dbp:university" : {
+    "1" : "(1)  [graduate_from]  <VBN_IN> {graduated from }"
+  },
+  "dbp:vpState" : {
+    "1" : "(2)  [successfully_advocate]  <RB_VBN> {successfully advocated }"
+  },
+  "dbp:with" : {
+    "1" : "(2)  [elect_member]  <VBN_NN> {elected member }",
+    "2" : "(2)  [serve_alongside]  <VBD_IN> {served alongside }",
+    "3" : "(2)  [young_brother]  <JJR_NN> {younger brother }",
+    "4" : "(1)  [defeat_by]  <VBN_IN> {defeated by }",
+    "5" : "(1)  [son_of]  <NN_IN> {son of }"
+  },
+  "dbp:years" : {
+    "1" : "(2)  [die]  <VBD> {died }"
   }
 }

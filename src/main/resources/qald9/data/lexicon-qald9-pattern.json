@@ -12,7 +12,7 @@
     }, 
     {
         "word": "bear_in",
-        "pairs": ["dbo:birthPlace", "dbo:birthDate","dbp:date","dbo:deathPlace"],
+        "pairs": ["dbo:birthPlace"],
         "questions": {
             "3": "Which people were born in Heraklion?",
             "40": "Give all swimmers that were born in Moscow.",

@@ -1,4 +1,4 @@
-id=9  property=dbo:nationality  
+id=12  property=dbo:nationality  
 elect_to  VBN_TO  multiply=0.088196  P(elect_to|dbo:nationality)=0.165535  P(dbo:nationality|elect_to)=0.532796    
 member_of  NN_IN  multiply=0.00424  P(member_of|dbo:nationality)=0.031462  P(dbo:nationality|member_of)=0.134763    
 serve  RB_VBN  multiply=0.003094  P(serve|dbo:nationality)=0.041473  P(dbo:nationality|serve)=0.074598    

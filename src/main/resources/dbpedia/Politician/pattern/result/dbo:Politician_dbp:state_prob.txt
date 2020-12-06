@@ -1,5 +1,11 @@
-id=30  property=dbp:state  
+id=67  property=dbp:state  
+evolve_into  VBD_IN  multiply=0.002342  P(evolve_into|dbp:state)=0.002342  P(dbp:state|evolve_into)=1.0    
 serve_in  VBN_IN  multiply=0.001187  P(serve_in|dbp:state)=0.044496  P(dbp:state|serve_in)=0.026685    
+previously_serve  RB_VBN  multiply=0.00105  P(previously_serve|dbp:state)=0.035129  P(dbp:state|previously_serve)=0.02988    
+induct_into  VBN_IN  multiply=7.81E-4  P(induct_into|dbp:state)=0.002342  P(dbp:state|induct_into)=0.333333    
+seek  RB_VBN  multiply=7.27E-4  P(seek|dbp:state)=0.007026  P(dbp:state|seek)=0.103448    
+congressman_represent  NN_VBG  multiply=7.07E-4  P(congressman_represent|dbp:state)=0.025761  P(dbp:state|congressman_represent)=0.027431    
 elect_to  VBN_TO  multiply=6.9E-4  P(elect_to|dbp:state)=0.037471  P(dbp:state|elect_to)=0.018412    
+currently_represent  RB_VBZ  multiply=6.67E-4  P(currently_represent|dbp:state)=0.025761  P(dbp:state|currently_represent)=0.025882    
 represent  VBN  multiply=6.38E-4  P(represent|dbp:state)=0.037471  P(dbp:state|represent)=0.017039    
 

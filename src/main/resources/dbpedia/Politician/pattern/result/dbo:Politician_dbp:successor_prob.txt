@@ -1,0 +1,4 @@
+id=73  property=dbp:successor  
+currently_serve  RB_VBZ  multiply=0.007217  P(currently_serve|dbp:successor)=0.049829  P(dbp:successor|currently_serve)=0.144841    
+would_seek  MD_VB  multiply=5.12E-4  P(would_seek|dbp:successor)=0.002048  P(dbp:successor|would_seek)=0.25    
+

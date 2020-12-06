@@ -5,7 +5,6 @@
  */
 package citec.correlation.wikipedia.calculation;
 
-import citec.correlation.wikipedia.calculation.ContextWordConstants;
 import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.core.analyzer.LemmaAnalyzer;
 import citec.correlation.wikipedia.element.DBpediaEntityPattern;
@@ -24,12 +23,13 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
+import citec.correlation.wikipedia.parameters.PatternThresold;
 
 /**
  *
  * @author elahi
  */
-public class InterestingPatterns implements ContextWordConstants{
+public class InterestingPatterns implements PatternThresold{
 
     private Map<String, Map<Integer, String>> predicateSortedContextWordsMap = new TreeMap<String, Map<Integer, String>>();
     private Map<String, List<EntityPatternsOfAbstract.Pattern>> predicateContextWordsMap = new TreeMap<String, List<EntityPatternsOfAbstract.Pattern>>();

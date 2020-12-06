@@ -1,0 +1,3 @@
+id=34  property=dbp:birthDate  
+serve_minister  VBD_NN  multiply=0.001707  P(serve_minister|dbp:birthDate)=0.027599  P(dbp:birthDate|serve_minister)=0.061856    
+

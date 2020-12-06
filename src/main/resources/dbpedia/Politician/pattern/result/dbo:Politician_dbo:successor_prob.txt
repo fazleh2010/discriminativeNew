@@ -1,8 +1,12 @@
-id=21  property=dbo:successor  
+id=29  property=dbo:successor  
+serve_alongside  VBD_IN  multiply=0.038687  P(serve_alongside|dbo:successor)=0.054283  P(dbo:successor|serve_alongside)=0.712695    
 defeat_by  VBN_IN  multiply=0.007022  P(defeat_by|dbo:successor)=0.008312  P(dbo:successor|defeat_by)=0.844828    
 succeed_by  VBN_IN  multiply=0.004669  P(succeed_by|dbo:successor)=0.005768  P(dbo:successor|succeed_by)=0.809524    
 run_for  VB_IN  multiply=0.003393  P(run_for|dbo:successor)=0.006785  P(dbo:successor|run_for)=0.5    
 defeat_in  VBN_IN  multiply=0.003277  P(defeat_in|dbo:successor)=0.005428  P(dbo:successor|defeat_in)=0.603774    
+lose_his  VBD_PRP$  multiply=0.001895  P(lose_his|dbo:successor)=0.003053  P(dbo:successor|lose_his)=0.62069    
 replace_by  VBN_IN  multiply=0.001745  P(replace_by|dbo:successor)=0.002036  P(dbo:successor|replace_by)=0.857143    
 retire_from  VBN_IN  multiply=0.001024  P(retire_from|dbo:successor)=0.002205  P(dbo:successor|retire_from)=0.464286    
+lose_to  VBN_TO  multiply=7.75E-4  P(lose_to|dbo:successor)=0.001357  P(dbo:successor|lose_to)=0.571429    
+held_seat  JJ_NN  multiply=3.82E-4  P(held_seat|dbo:successor)=0.001018  P(dbo:successor|held_seat)=0.375    
 

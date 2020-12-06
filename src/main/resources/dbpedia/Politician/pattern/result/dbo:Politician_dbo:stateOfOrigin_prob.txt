@@ -1,3 +1,12 @@
-id=20  property=dbo:stateOfOrigin  
+id=28  property=dbo:stateOfOrigin  
+grandmother_of  NN_IN  multiply=0.021164  P(grandmother_of|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|grandmother_of)=0.666667    
+lok_sabha  NN_NN  multiply=0.015873  P(lok_sabha|dbo:stateOfOrigin)=0.015873  P(dbo:stateOfOrigin|lok_sabha)=1.0    
+general_secretary  JJ_NN  multiply=0.004884  P(general_secretary|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|general_secretary)=0.153846    
+name_to  VBN_TO  multiply=0.003342  P(name_to|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|name_to)=0.105263    
+later_work  RB_VBN  multiply=7.56E-4  P(later_work|dbo:stateOfOrigin)=0.015873  P(dbo:stateOfOrigin|later_work)=0.047619    
+minister  RB_NN  multiply=7.11E-4  P(minister|dbo:stateOfOrigin)=0.047619  P(dbo:stateOfOrigin|minister)=0.014925    
 member_of  NN_IN  multiply=6.08E-4  P(member_of|dbo:stateOfOrigin)=0.079365  P(dbo:stateOfOrigin|member_of)=0.007657    
+belong_to  VBD_TO  multiply=5.67E-4  P(belong_to|dbo:stateOfOrigin)=0.015873  P(dbo:stateOfOrigin|belong_to)=0.035714    
+die_at  VBD_IN  multiply=2.94E-4  P(die_at|dbo:stateOfOrigin)=0.015873  P(dbo:stateOfOrigin|die_at)=0.018519    
+elect_to  VBN_TO  multiply=7.3E-5  P(elect_to|dbo:stateOfOrigin)=0.031746  P(dbo:stateOfOrigin|elect_to)=0.002301    
 

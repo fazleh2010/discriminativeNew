@@ -5,11 +5,7 @@ import java.util.Map;
 
 import citec.correlation.wikipedia.utils.EvalutionUtil;
 
-/**
- * This class implements Mean reciprocal rank 
- * @author albarron
- * Qatar Computing Research Institute, 2016
- */
+
 public class MeanReciprocalRank {
 
   private static final int DEFAULT_RANKING_SIZE = 10;
@@ -21,40 +17,27 @@ public class MeanReciprocalRank {
     return getReciprocalRank(AveP.getKeysSortedByValue(ranking, AveP.DESCENDING), gold); 
   }
   
-  /**
-   * Compute the reciprocal rank for a given ranking. It is defined as 1/rank_i
-   * where rannk_i represents the first rank in which a relevant instance has been 
-   * positioned. 
-   * <br />
-   *  
-   * @param ranking list of documents in the ranking; should be ordered by 
-   *    relevance and all the identifiers must exist in the gold map. 
-   * @param gold Documents id with boolean values: whether their are relevant 
-   *    or not.
-   * @return  reciprocal rank (0 if none is correct)
-   */
-  public static double getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
+ 
+    public static double getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
 
-    /*EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold), 
-       "I cannot compute MRR");*/
-    
-    System.out.print(ranking);
+        /*EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold),
+                "I cannot compute MRR");*/
 
-    double reciprocalRank = 0;
-    for (int i=0; i<ranking.size(); i++) {  
-                
-      if (i==10) {
-        continue;
+        double reciprocalRank = 0;
+        for (int i = 0; i < ranking.size(); i++) {
+
+            if (i == 10) {
+                continue;
+            }
+            if (gold.containsKey(ranking.get(i))) {
+                if (gold.get(ranking.get(i))) {
+                    reciprocalRank = 1.0 / (i + 1);
+                    break;
+                }
+            }
         }
-      if (gold.get(ranking.get(i))) {
-          Integer textIndex=i;
-          String testString=ranking.get(i);
-        reciprocalRank = 1.0/(i+1);
-        break;
-      } 
+        return reciprocalRank;
     }
-    return reciprocalRank;
-  }
   
   /**
    * Compute the reciprocal rank for a set of rankings. See 

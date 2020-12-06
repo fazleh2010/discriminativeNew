@@ -1,3 +1,11 @@
-id=27  property=dbp:parliament  
+id=54  property=dbp:parliament  
+serve_in  VBN_IN  multiply=0.001463  P(serve_in|dbp:parliament)=0.040062  P(dbp:parliament|serve_in)=0.036517    
+member_of  NN_IN  multiply=0.001248  P(member_of|dbp:parliament)=0.035439  P(dbp:parliament|member_of)=0.035222    
 elect_to  VBN_TO  multiply=0.001199  P(elect_to|dbp:parliament)=0.040062  P(dbp:parliament|elect_to)=0.029919    
+minister_for  NN_IN  multiply=0.001174  P(minister_for|dbp:parliament)=0.006163  P(dbp:parliament|minister_for)=0.190476    
+serve_member  VBD_NN  multiply=9.21E-4  P(serve_member|dbp:parliament)=0.030817  P(dbp:parliament|serve_member)=0.029895    
+current_member  JJ_NN  multiply=5.87E-4  P(current_member|dbp:parliament)=0.006163  P(dbp:parliament|current_member)=0.095238    
+first_elect  RB_VBN  multiply=4.99E-4  P(first_elect|dbp:parliament)=0.013867  P(dbp:parliament|first_elect)=0.036    
+come_to  VBD_TO  multiply=2.57E-4  P(come_to|dbp:parliament)=0.003082  P(dbp:parliament|come_to)=0.083333    
+make_officer  VBN_NN  multiply=1.03E-4  P(make_officer|dbp:parliament)=0.001541  P(dbp:parliament|make_officer)=0.066667    
 

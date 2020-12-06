@@ -1,0 +1,3 @@
+id=36  property=dbp:candidate  
+run_for  VB_IN  multiply=6.02E-4  P(run_for|dbp:candidate)=0.016043  P(dbp:candidate|run_for)=0.0375    
+

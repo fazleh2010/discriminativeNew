@@ -1,12 +1,12 @@
-id=34  property=dbp:title  
+id=75  property=dbp:title  
 elect  VBN  multiply=0.038098  P(elect|dbp:title)=0.108928  P(dbp:title|elect)=0.34976    
 serve  RB_VBN  multiply=0.031183  P(serve|dbp:title)=0.095265  P(dbp:title|serve)=0.327331    
-represent_electorate  VBN_NN  multiply=0.018434  P(represent_electorate|dbp:title)=0.042111  P(dbp:title|represent_electorate)=0.437743    
 become  VBD  multiply=0.015371  P(become|dbp:title)=0.027138  P(dbp:title|become)=0.566406    
 serve_in  VBN_IN  multiply=0.015141  P(serve_in|dbp:title)=0.044919  P(dbp:title|serve_in)=0.337079    
-previously_serve  RB_VBN  multiply=0.014469  P(previously_serve|dbp:title)=0.036871  P(dbp:title|previously_serve)=0.39243    
 serve_deputy  VBD_NN  multiply=0.013256  P(serve_deputy|dbp:title)=0.034438  P(dbp:title|serve_deputy)=0.384937    
 elect_to  VBN_TO  multiply=0.0122  P(elect_to|dbp:title)=0.044544  P(dbp:title|elect_to)=0.273878    
 appoint  VBN  multiply=0.011718  P(appoint|dbp:title)=0.022459  P(dbp:title|appoint)=0.521739    
 member_of  NN_IN  multiply=0.011011  P(member_of|dbp:title)=0.036684  P(dbp:title|member_of)=0.300153    
+represent  VBN  multiply=0.008623  P(represent|dbp:title)=0.038929  P(dbp:title|represent)=0.221512    
+move_to  VBN_TO  multiply=0.004492  P(move_to|dbp:title)=0.008984  P(dbp:title|move_to)=0.5    
 

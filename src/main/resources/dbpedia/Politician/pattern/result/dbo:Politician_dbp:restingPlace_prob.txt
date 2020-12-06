@@ -1,0 +1,3 @@
+id=64  property=dbp:restingPlace  
+recognize_lead  VBN_VBG  multiply=0.001136  P(recognize_lead|dbp:restingPlace)=0.011364  P(dbp:restingPlace|recognize_lead)=0.1    
+

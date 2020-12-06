@@ -5,6 +5,8 @@
  */
 package citec.correlation.wikipedia.main;
 
+import citec.correlation.wikipedia.parameters.DirectoryLocation;
+import citec.correlation.wikipedia.parameters.MenuOptions;
 import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.wikipedia.calculation.WordCalculation;
 import citec.correlation.wikipedia.element.DbpediaClass;
@@ -51,61 +53,19 @@ import java.util.Collections;
 import java.util.LinkedHashSet;
 import java.util.TreeMap;
 import org.apache.commons.io.FileUtils;
+import citec.correlation.wikipedia.parameters.WordThresold;
 
 /**
  *
  * @author elahi
  */
-public class TableMain implements PropertyNotation,CategoryConstant {
+public class TableMain implements PropertyNotation,DirectoryLocation,MenuOptions,WordThresold {
     //Horrible codes..just a play ground for all kinds of work
-
-    private static String qald9Dir = "src/main/resources/qald9/data/";
-    private static String testJson = "qald-9-test-multilingual.json";
-    private static String trainingJson = "qald-9-train-multilingual.json";
-    private static String dbpediaDir = "src/main/resources/dbpedia/";
-    private static String dataDir = "data/";
-    private static String entityTable = "entityTable/";
-    private static String input = "input/";
-    private static String output = "output/";
-    //private static String inputJsonFile = dataDir + input + "results-100000000-1000-concretePO.json";
-    private static String inputJsonFile = dataDir + input + "results-100000000-100-concretePO.json";
-    
-
-    //rivate static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
-    private static String allPoliticianFile = dbpediaDir + input + "politicians.txt";
-    //private static String outputArff = dbpediaDir + output + "democratic.arff";
-    private static Set<String> freqClasses = new HashSet<String>();
-    //private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
-    private static final String WRITE = "WRITE";
-    private static final String PROPERTY_GENERATION = "PROPERTY_GENERATION";
-    private static final String INTERESRTING_WORD = "INTERESRTING_WORD";
-    private static final String WORD_CALCULATION = "WORD_CALCULATION";
-    private static final String QALD = "QALD";
-    private static final String WRITE_PATTERNS = "WRITE_PATTERNS";
-    private static final String PATTERN_CALCULATION = "PATTERN_CALCULATION";
-    
-    private static String patternDir="pattern/";
-
-
-
-    private static String nameEntityDir = "src/main/resources/nameEntiry/";
-    private static String anchors = "src/main/resources/dbpedia/anchors/";
-    private static String achorFileTsv = "anchors_sorted_by_frequency.tsv";
+    private static Set<String> freqClasses = new HashSet<String>();    
     private static Map<String, TreeMap<String, List<String>>> alphabetInfo = new TreeMap<String, TreeMap<String, List<String>>>();
-    private static NLPTools nlpTools = null;
 
     public static void main(String[] args) throws IOException, Exception {
-        nlpTools = new NLPTools();
-
-        Set<String> posTags = new HashSet<String>();
-        posTags.add(TextAnalyzer.NOUN);
-        posTags.add(TextAnalyzer.ADJECTIVE);
-        posTags.add(Analyzer.VERB);
-
-        //QALDMain qaldMain=new QALDMain (posTags,qald9Dir,trainingJson);
-        TableMain trainingTable = new TableMain();
         String type = MEAN_RECIPROCAL_PATTERN;
-        Tables tables = null;
         String dbo_ClassName = PropertyNotation.dbo_Politician;
         freqClasses.add(dbo_ClassName);
         String inputFile = allPoliticianFile;
@@ -113,24 +73,8 @@ public class TableMain implements PropertyNotation,CategoryConstant {
         String classDir = getClassDir(dbo_ClassName) + "/";
         String rawFiles = dbpediaDir + classDir + "rawFiles/";
 
-        /*Integer numberOfEntitiesrmSelected=100;
-            Integer wordFoundInNumberOfEntities=10;
-            Integer TopNwords=100;
-            Integer ObjectMinimumEntities=50;*/
-        //parameter for actor
-        Integer numberOfEntitiesrmSelected = 50;
-        Integer wordFoundInNumberOfEntities = 5;
-        Integer TopNwords = 100;
-        Integer ObjectMinimumEntities = 20;
-
-        Double wordGivenObjectThres = 0.1;
-        Double objectGivenWordThres = 0.1;
-        Integer topWordLimitToConsiderThres = 2;
-
-        InterestedWords interestedWords = null;
-
+     
         if (type.equals(WRITE)) {
-
             DbpediaClass dbpediaClass = new DbpediaClass(dbo_ClassName, inputFile, TextAnalyzer.POS_TAGGER_WORDS, fileType);
             makeClassDir(dbpediaDir + classDir);
 
@@ -138,7 +82,7 @@ public class TableMain implements PropertyNotation,CategoryConstant {
                 trainingTable.write(inputFile, rawFiles, dbpediaClass, checkProperties);
             } else*/
             if (fileType.contains(DbpediaClass.ALL)) {
-                trainingTable.write(inputFile, rawFiles, dbpediaClass, dbpediaClass.getPropertyEntities());
+                write(inputFile, rawFiles, dbpediaClass, dbpediaClass.getPropertyEntities());
             }
         }
         if (type.equals(PROPERTY_GENERATION)) {
@@ -151,16 +95,21 @@ public class TableMain implements PropertyNotation,CategoryConstant {
 
         if (type.equals(QALD)) {
             Qald qaldMain = new Qald(posTags, qald9Dir, trainingJson);
+
         }
         if (type.equals(MEAN_RECIPROCAL_WORD)) {
            String qaldFileName = qald9Dir + "JJ-qald9" + ".json";
            String conditionalFilename = qald9Dir + "lexicon-conditional-JJ" + ".json";
-           Comparision comparision = new Comparision(qald9Dir,qaldFileName, conditionalFilename,MEAN_RECIPROCAL_WORD);
+           Comparision comparision = new Comparision(qald9Dir,qaldFileName, conditionalFilename);
+           //comparision.comparisionsWords();
         }
         if (type.equals(MEAN_RECIPROCAL_PATTERN)) {
            String qaldFileName = qald9Dir + "lexicon-qald9-pattern" + ".json";
            String conditionalFilename = qald9Dir + "lexicon-conditional-pattern" + ".json";
-           Comparision comparision = new Comparision(qald9Dir,qaldFileName, conditionalFilename,MEAN_RECIPROCAL_PATTERN);
+           String outputFileName= qald9Dir +"meanReciprocal" + ".json";
+           Comparision comparision = new Comparision(qald9Dir,qaldFileName,conditionalFilename);
+           comparision.compersionsPattern();
+           FileFolderUtils.writeMeanResultsToJsonFile(comparision.getResults(), outputFileName);
         }
         if (type.equals(WRITE_PATTERNS)) {
             addPatterns(inputFile, rawFiles, dbo_ClassName, classDir);
@@ -354,7 +303,7 @@ public class TableMain implements PropertyNotation,CategoryConstant {
         }
         return entityTables;
     }*/
-    private void write(String inputJsonFile, String outputDir, DbpediaClass dbpediaClass, Map<String, LinkedHashSet<String>> propertyEntities) {
+    private static  void write(String inputJsonFile, String outputDir, DbpediaClass dbpediaClass, Map<String, LinkedHashSet<String>> propertyEntities) {
         Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
         try {
             tables.writingTable(dbpediaClass, propertyEntities);
