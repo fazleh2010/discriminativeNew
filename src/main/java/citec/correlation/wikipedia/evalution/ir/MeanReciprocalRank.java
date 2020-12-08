@@ -20,8 +20,8 @@ public class MeanReciprocalRank {
  
     public static double getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
 
-        /*EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold),
-                "I cannot compute MRR");*/
+        EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold),
+                "I cannot compute MRR");
 
         double reciprocalRank = 0;
         for (int i = 0; i < ranking.size(); i++) {

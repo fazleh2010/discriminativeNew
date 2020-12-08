@@ -123,7 +123,6 @@ public class TableMain implements PropertyNotation,DirectoryLocation,MenuOptions
             lexicon.prepareLexiconForEvalution(patternCalculation.getPatternEntities(),patternFileName);
         }
 
-        //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
     }
 
     private static void calculation(String inputFile, String classDir, String dbo_ClassName, Integer numberOfEntitiesrmSelected, Integer wordFoundInNumberOfEntities, Integer TopNwords, Integer ObjectMinimumEntities, Set<String> posTags, Double wordGivenObjectThres, Double objectGivenWordThres, Integer topWordLimitToConsiderThres) throws IOException, Exception {
