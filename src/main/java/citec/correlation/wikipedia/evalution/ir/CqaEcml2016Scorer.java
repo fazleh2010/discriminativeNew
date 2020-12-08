@@ -14,7 +14,7 @@ import org.apache.commons.cli.ParseException;
 
 import citec.correlation.wikipedia.evalution.ir.AveP;
 import citec.correlation.wikipedia.evalution.ir.MeanAvgPrecision;
-import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRank;
+import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRankResult;
 import citec.correlation.wikipedia.evalution.ir.PRFA;
 import citec.correlation.wikipedia.evalution.ir.Precision;
 
@@ -73,7 +73,7 @@ public class CqaEcml2016Scorer {
     for (String k : rankings.keySet()) {
       lRankings.add(rankings.get(k));
     }
-    return MeanReciprocalRank.computeWithMapRankings(lRankings, goldLabels);
+    return MeanReciprocalRankResult.computeWithMapRankings(lRankings, goldLabels);
   }
   
   public double getPatK(String file, int k) {

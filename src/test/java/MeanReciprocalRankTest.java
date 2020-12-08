@@ -1,5 +1,5 @@
 
-import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRank;
+import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRankResult;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -64,7 +64,7 @@ public class MeanReciprocalRankTest {
         qald_gold.add(goldRelevance);
 
      
-        Double meanReciprocalRank =MeanReciprocalRank.computeWithRankingMap(lexicon,qald_gold);
+        Double meanReciprocalRank =MeanReciprocalRankResult.computeWithRankingMap(lexicon,qald_gold);
         System.out.println(expectedMeanReciprocal+"   meanReciprocalRank: "+meanReciprocalRank);
         assertEquals(expectedMeanReciprocal, meanReciprocalRank);
 

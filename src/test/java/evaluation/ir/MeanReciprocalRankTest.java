@@ -1,7 +1,7 @@
 package evaluation.ir;
 
 import citec.correlation.wikipedia.evalution.ir.AveP;
-import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRank;
+import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRankResult;
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
@@ -147,7 +147,7 @@ public class MeanReciprocalRankTest extends IrAbstractTest {
         //The 1st-ranked is right. RR should be 1
         double expectedReciprocalRank = 1 / 1;
         double predictedReciprocalRank
-                = MeanReciprocalRank.getReciprocalRank(predict, goldRelevance);
+                = MeanReciprocalRankResult.getReciprocalRank(predict, goldRelevance);
         System.out.println(expectedReciprocalRank + " " + predictedReciprocalRank);
         assertEquals(expectedReciprocalRank, predictedReciprocalRank, delta);
 
@@ -156,14 +156,14 @@ public class MeanReciprocalRankTest extends IrAbstractTest {
         goldRelevance.put("Q268_R4", false);
         goldRelevance.put("Q268_R5", false);
         predictedReciprocalRank
-                = MeanReciprocalRank.getReciprocalRank(predict, goldRelevance);
+                = MeanReciprocalRankResult.getReciprocalRank(predict, goldRelevance);
         System.out.println(expectedReciprocalRank + " " + predictedReciprocalRank);
         assertEquals(expectedReciprocalRank, predictedReciprocalRank, delta);
     }
 
     @Test
     public void testComputeReciprocalRanks() {
-        double[] actual = MeanReciprocalRank.computeReciprocalRanks(
+        double[] actual = MeanReciprocalRankResult.computeReciprocalRanks(
                 predictionsLists, golds);
 //    System.out.println(actual);
         double[] expecteds = {1.0 / 1, 1.0 / 2, 1.0 / 3};
@@ -172,7 +172,7 @@ public class MeanReciprocalRankTest extends IrAbstractTest {
 
     @Test
     public void testComputeWithRankingList() {
-        double actual = MeanReciprocalRank.computeWithRankingList(
+        double actual = MeanReciprocalRankResult.computeWithRankingList(
                 predictionsLists, golds);
 //    System.out.println(actual);
         Assert.assertEquals(expected, actual, delta);
@@ -180,7 +180,7 @@ public class MeanReciprocalRankTest extends IrAbstractTest {
 
     @Test
     public void testComputeWithMapRankings() {
-        double actual = MeanReciprocalRank.computeWithMapRankings(predictionsMaps, allGolds);
+        double actual = MeanReciprocalRankResult.computeWithMapRankings(predictionsMaps, allGolds);
         Assert.assertEquals(expected, actual, delta);
     }
 
@@ -190,7 +190,7 @@ public class MeanReciprocalRankTest extends IrAbstractTest {
 //}
     @Test
     public void testComputeWithListRankings() {
-        double actual = MeanReciprocalRank.computeWithListRankings(
+        double actual = MeanReciprocalRankResult.computeWithListRankings(
                 predictionsLists, allGolds);
         Assert.assertEquals(expected, actual, 0.0001);
 
@@ -198,7 +198,7 @@ public class MeanReciprocalRankTest extends IrAbstractTest {
 
     @Test
     public void testComputeWithRankingMap() {
-        double actual = MeanReciprocalRank.computeWithRankingMap(predictionsMaps, golds);
+        double actual = MeanReciprocalRankResult.computeWithRankingMap(predictionsMaps, golds);
         Assert.assertEquals(expected, actual, delta);
     }
 }

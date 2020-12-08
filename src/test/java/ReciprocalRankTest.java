@@ -1,5 +1,5 @@
 
-import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRank;
+import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRankResult;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -38,7 +38,7 @@ public class ReciprocalRankTest {
         goldRelevance.put("catten", false);
       
         Double predictedReciprocalRank
-                = MeanReciprocalRank.getReciprocalRank(predict, goldRelevance);
+                = MeanReciprocalRankResult.getReciprocalRank(predict, goldRelevance);
         System.out.println("testReciprocalRankWhenNonZero :"+predictedReciprocalRank);
 
         assertEquals(expectedReciprocalRank, predictedReciprocalRank);
@@ -61,7 +61,7 @@ public class ReciprocalRankTest {
         goldRelevance.put("viruses", false);
 
         Double predictedReciprocalRank
-                = MeanReciprocalRank.getReciprocalRank(predict, goldRelevance);
+                = MeanReciprocalRankResult.getReciprocalRank(predict, goldRelevance);
         System.out.println("testReciprocalRankWhenZero :"+predictedReciprocalRank);
         
         assertEquals(expectedReciprocalRank, predictedReciprocalRank);

@@ -5,6 +5,7 @@
  */
 package citec.correlation.wikipedia.evalution;
 
+import citec.correlation.wikipedia.evalution.ir.IrAbstract;
 import citec.correlation.wikipedia.qald.Unit;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -17,13 +18,15 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import citec.correlation.wikipedia.evalution.ir.AveP;
-import citec.correlation.wikipedia.evalution.ir.MeanReciprocalRank;
 import citec.correlation.wikipedia.utils.FileFolderUtils;
 import java.util.HashSet;
 import org.javatuples.Pair;
 import citec.correlation.wikipedia.parameters.DirectoryLocation;
 import citec.correlation.wikipedia.parameters.MenuOptions;
+import citec.correlation.wikipedia.utils.EvalutionUtil;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.LinkedList;
 
 /**
  *
@@ -33,7 +36,8 @@ public class Comparision {
     
     private Map<String, LexiconUnit> lexiconDic = new TreeMap<String, LexiconUnit> ();
     private Map<String, Unit> qaldDic = new TreeMap<String, Unit>();
-    private List<ReciprocalRank> results = new ArrayList<ReciprocalRank>();
+    private List<ReciprocalResult> results = new ArrayList<ReciprocalResult>();
+  
 
     public Comparision(String qald9Dir, String qaldFileName, String methodFileName) throws IOException {
         this.lexiconDic = getLexicon(methodFileName);
@@ -43,13 +47,35 @@ public class Comparision {
     
     public void compersionsPattern() {
         //Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
+        List<Map<String, Double>> lexicon = new ArrayList<Map<String, Double>>();
+        List<Map<String, Boolean>> qald_gold = new ArrayList<Map<String, Boolean>>();
+        List<String> commonWords = this.getCommonWords();
+
+        for (String word : lexiconDic.keySet()) {
+            System.out.println(" word:" + word);
+            LexiconUnit lexiconElement = lexiconDic.get(word);
+            Map<String, Double> predict = this.getPredictMap(lexiconElement);
+            Map<String, Boolean> goldRelevance = this.getGoldRelevance(word, predict);
+            lexicon.add(this.getPredictMap(lexiconElement));
+            qald_gold.add(this.getGoldRelevance(word, predict));
+        }
+        Double meanReciprocalRank =ReciprocalResult.computeWithRankingMap(lexicon, qald_gold);
+        System.out.println("meanReciprocalRank:" + meanReciprocalRank);
+
+    }
+    
+    
+
+    
+    public void compersionsPattern2() {
+        //Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
         Set<String> intersection = Sets.intersection(qaldDic.keySet(), lexiconDic.keySet());
-        Map<String, ReciprocalRank> wordReciprocalRank = new TreeMap<String, ReciprocalRank>();
+        Map<String, ReciprocalResult> wordReciprocalRank = new TreeMap<String, ReciprocalResult>();
         List<String> commonWords = new ArrayList<String>(intersection);
         Double sum=0.0;
         for (String word : qaldDic.keySet()) {
             System.out.println("word:"+word);
-            ReciprocalRank reciprocalRank = null;
+            ReciprocalResult reciprocalRank = null;
             if (commonWords.contains(word)) {
                 Unit qaldElement = qaldDic.get(word);
                 LexiconUnit lexiconElement = lexiconDic.get(word);
@@ -57,11 +83,11 @@ public class Comparision {
                   if(reciprocalRank!=null)
                       System.out.println(word + " " + reciprocalRank);
                    else
-                      reciprocalRank = new ReciprocalRank("no matched predicate found for "+word,0,0.0);
+                      reciprocalRank = new ReciprocalResult("no matched predicate found for "+word,0,0.0);
 
             }
             else 
-               reciprocalRank = new ReciprocalRank(word+"  not found "+word,0,0.0);
+               reciprocalRank = new ReciprocalResult(word+"  not found "+word,0,0.0);
             sum+=reciprocalRank.getReciprocalRank();
         }
         Double meanReciprocal=sum/qaldDic.size();
@@ -69,7 +95,7 @@ public class Comparision {
         
     }
 
-     private ReciprocalRank compersionsPattern(Unit unit,LexiconUnit LexiconUnit) {
+     private ReciprocalResult compersionsPattern(Unit unit,LexiconUnit LexiconUnit) {
         Map<String, Boolean> goldRelevance = new HashMap<String, Boolean>();
         Map<String, Double> predict = new HashMap<String, Double>();
         List<String> rankpredicates=new ArrayList<String>();
@@ -132,7 +158,9 @@ public class Comparision {
                 }
 
             }
-            Double predictedReciprocalRank = this.calculateMeanReciprocal(predict, goldRelevance);
+            Double predictedReciprocalRank = 0.0;
+            //temporary closed
+                    //this.calculateMeanReciprocal(predict, goldRelevance);
             System.out.println(word + " predictedReciprocalRank: " + predictedReciprocalRank);
             index = index + 1;
 
@@ -153,7 +181,7 @@ public class Comparision {
         System.out.println("OthersumTest:"+sum);
         return sum;
     }*/
-   public ReciprocalRank  calculateMeanReciprocal(List<String> ranking, Map<String, Boolean> gold) {
+   public ReciprocalResult  calculateMeanReciprocal(List<String> ranking, Map<String, Boolean> gold) {
         double reciprocalRank = 0;
         Double meanReciprocal = 0.0;
         Map<Integer,String> reciprocalRankPairs = new TreeMap<Integer, String>();        
@@ -165,7 +193,7 @@ public class Comparision {
                 if (gold.get(ranking.get(index))) {
                     rank = index + 1;
                     reciprocalRank = 1.0 / (rank);
-                    return  new ReciprocalRank(predicate,rank,reciprocalRank);
+                    return  new ReciprocalResult(predicate,rank,reciprocalRank);
                     
                 }
             }
@@ -194,11 +222,11 @@ public class Comparision {
         return qald;
     }
 
-    private double calculateMeanReciprocal(Map<String, Double> predictMap, Map<String, Boolean> goldRelevance) {
+    /*private double calculateMeanReciprocal(Map<String, Double> predictMap, Map<String, Boolean> goldRelevance) {
         double predictedReciprocalRank
                 = MeanReciprocalRank.getReciprocalRank(predictMap, goldRelevance);
         return predictedReciprocalRank;
-    }
+    }*/
 
     
 
@@ -207,8 +235,51 @@ public class Comparision {
         return predicate;
     }
 
-    public List<ReciprocalRank> getResults() {
+    public List<ReciprocalResult> getResults() {
         return results;
+    }
+
+    private List<String> getCommonWords() {
+         Set<String> intersection = Sets.intersection(qaldDic.keySet(), lexiconDic.keySet());
+         return new ArrayList<String>(intersection);
+    }
+
+    private Map<String, Double> getPredictMap(LexiconUnit lexiconElement) {
+                Map<String, Double> predict = new HashMap<String, Double>();
+
+        for (Integer rank : lexiconElement.getEntityInfos().keySet()) {
+                List<String> pairs = lexiconElement.getEntityInfos().get(rank);
+                String key = pairs.get(0).split("=")[1];
+                key = this.getPredicate(key);
+                key=key.strip();
+                Double value = Double.parseDouble(pairs.get(1).split("=")[1]);
+                predict.put(key, value);
+            }
+        return predict;
+    }
+
+
+    private Map<String, Boolean> getGoldRelevance(String word, Map<String, Double> predict) {
+        Map<String, Boolean> goldRelevance = new HashMap<String, Boolean>();
+
+        if (qaldDic.containsKey(word)) {
+            Unit qaldElement = qaldDic.get(word);
+            List<String> qaldPredicates = new ArrayList<String>(qaldElement.getPairs());
+            for (String predicatePattern : predict.keySet()) {
+                if (qaldPredicates.contains(predicatePattern)) {
+                    goldRelevance.put(predicatePattern, Boolean.TRUE);
+                } else {
+                    goldRelevance.put(predicatePattern, Boolean.FALSE);
+                }
+            }
+            return goldRelevance;
+        } else {
+            for (String predicatePattern : predict.keySet()) {
+                goldRelevance.put(predicatePattern, Boolean.FALSE);
+            }
+            return goldRelevance;
+        }
+
     }
 
    

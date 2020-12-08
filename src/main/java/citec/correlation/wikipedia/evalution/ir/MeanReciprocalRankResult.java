@@ -6,7 +6,7 @@ import java.util.Map;
 import citec.correlation.wikipedia.utils.EvalutionUtil;
 
 
-public class MeanReciprocalRank {
+public class MeanReciprocalRankResult {
 
   private static final int DEFAULT_RANKING_SIZE = 10;
   
@@ -22,7 +22,6 @@ public class MeanReciprocalRank {
 
         EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold),
                 "I cannot compute MRR");
-
         double reciprocalRank = 0;
         for (int i = 0; i < ranking.size(); i++) {
 
@@ -30,7 +29,11 @@ public class MeanReciprocalRank {
                 continue;
             }
             if (gold.containsKey(ranking.get(i))) {
+
                 if (gold.get(ranking.get(i))) {
+                    System.out.println("ranking :" + ranking);
+                    System.out.println("gold :" + gold);
+                    System.out.println("match :" + ranking.get(i));
                     reciprocalRank = 1.0 / (i + 1);
                     break;
                 }
@@ -38,7 +41,7 @@ public class MeanReciprocalRank {
         }
         return reciprocalRank;
     }
-  
+
   /**
    * Compute the reciprocal rank for a set of rankings. See 
    * {@code computeReciprocalRank}.  

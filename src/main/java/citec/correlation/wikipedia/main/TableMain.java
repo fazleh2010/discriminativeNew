@@ -104,12 +104,12 @@ public class TableMain implements PropertyNotation,DirectoryLocation,MenuOptions
            //comparision.comparisionsWords();
         }
         if (type.equals(MEAN_RECIPROCAL_PATTERN)) {
-           String qaldFileName = qald9Dir + "lexicon-qald9-pattern" + ".json";
+           String qaldFileName = qald9Dir + "VB-qald9-pattern" + ".json";
            String conditionalFilename = qald9Dir + "lexicon-conditional-pattern" + ".json";
            String outputFileName= qald9Dir +"meanReciprocal" + ".json";
            Comparision comparision = new Comparision(qald9Dir,qaldFileName,conditionalFilename);
            comparision.compersionsPattern();
-           FileFolderUtils.writeMeanResultsToJsonFile(comparision.getResults(), outputFileName);
+           //FileFolderUtils.writeMeanResultsToJsonFile(comparision.getResults(), outputFileName);
         }
         if (type.equals(WRITE_PATTERNS)) {
             addPatterns(inputFile, rawFiles, dbo_ClassName, classDir);

@@ -43,7 +43,7 @@ public class IrAbstract {
    * @param gold gold collection to compare against
    * @return true if all the keys in ranking are in gold.
    */
-  protected static boolean 
+  public static boolean 
   GoldContainsAllinRanking(List<String> ranking, Map<String, Boolean> gold) {
     boolean correct = true;
 //    if (ranking.size() != gold.size()) {
