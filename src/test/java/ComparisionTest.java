@@ -49,10 +49,9 @@ public class ComparisionTest {
 
     @Test
     public void main() throws IOException, Exception {
-        Comparision comparision = new Comparision(qald9Dir, qaldFileName, conditionalFilename);
+        Comparision comparision = new Comparision(qald9Dir, qaldFileName, conditionalFilename,outputFileName);
         comparision.compersionsPattern();
-        //FileFolderUtils.writeMeanResultsToJsonFile(comparision.getResults(), outputFileName);
-
+      
     }
 
 }

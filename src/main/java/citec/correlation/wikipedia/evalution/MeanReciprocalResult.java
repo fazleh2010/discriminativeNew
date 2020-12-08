@@ -22,66 +22,63 @@ import org.javatuples.Pair;
  *
  * @author elahi
  */
-public class ReciprocalResult {
-
-    @JsonProperty("predicate")
-    private String predicate;
-    @JsonProperty("rank")
-    private Integer rank;
-    @JsonProperty("reciprocalRank")
-    private Double reciprocalRank = null;
+public class MeanReciprocalResult {
 
     @JsonIgnore
     public static final boolean ASCENDING = true;
     @JsonIgnore
     public static final boolean DESCENDING = false;
+    @JsonProperty("MeanReciProcalRank")
+    private Double meanReciprocalRank=null;
+    @JsonProperty("TotalPatternFound")
+    private Integer totalPatternFound=null;
+     @JsonProperty("TotalPatternNOTFound")
+    private Integer totalPatternNotFound=null;
+    @JsonProperty("ReciprocalRank")
+    private Map<String,ReciprocalElement> reciprocalElements=new  TreeMap<String,ReciprocalElement>();
+     @JsonProperty("PatternNotFound")
+    private Map<String,ReciprocalElement> reciprocalElementsNotFound=new  TreeMap<String,ReciprocalElement>();
 
-    public ReciprocalResult() {
-
+    public MeanReciprocalResult() {
+        
+    }
+  
+    public MeanReciprocalResult(List<Pair<String, Map<String, Double>>> rankings, List<Pair<String, Map<String, Boolean>>> gold) {
+        this.computeWithRankingMap(rankings,gold);
     }
 
-    public ReciprocalResult(String predicate, Integer rank, Double reciprocalRank) {
-        this.predicate = predicate;
-        this.rank = rank;
-        this.reciprocalRank = reciprocalRank;
-    }
-
-    public Integer getRank() {
-        return rank;
-    }
-
-    public Double getReciprocalRank() {
-        return reciprocalRank;
-    }
-
-    public Double getMeanReciprocal() {
-        return reciprocalRank;
-    }
-
-    @Override
-    public String toString() {
-        return "ReciprocalRank{" + "predicate=" + predicate + ", rank=" + rank + ", reciprocalRank=" + reciprocalRank + '}';
-    }
-
-    public static Double computeWithRankingMap(List<Map<String, Double>> rankings, List<Map<String, Boolean>> gold) {
+    public  void computeWithRankingMap(List<Pair<String, Map<String, Double>>> rankings, List<Pair<String, Map<String, Boolean>>> gold) {
         EvalutionUtil.ifFalseCrash(rankings.size() == gold.size(),
                 "The size of predictions and gold should be identical, Usually not found element are in FALSE marked in gold");
         double mrr = 0;
 
         for (int i = 0; i < rankings.size(); i++) {
-            Pair<Double, String> pair = getReciprocalRank(getKeysSortedByValue(rankings.get(i), DESCENDING),
-                    gold.get(i));
-            mrr += pair.getValue0();
+            Pair<String, Map<String, Double>> rankingsPredict = rankings.get(i);
+            Pair<String, Map<String, Boolean>> wordGold = gold.get(i);
+            String word = rankingsPredict.getValue0();
+            System.out.println("word:" + word);
+
+            ReciprocalElement reciprocalElement = getReciprocalRank(getKeysSortedByValue(rankingsPredict.getValue1(), DESCENDING),
+                    wordGold.getValue1());
+            if (reciprocalElement.getRank() > 0) {
+                 this.reciprocalElements.put(word, reciprocalElement);
+            }
+            else
+               reciprocalElementsNotFound.put(word, reciprocalElement);
+            
+            mrr += reciprocalElement.getReciprocalRank();
         }
 
         mrr /= rankings.size();
-        System.out.println("MRR = " + mrr);
 
-        return mrr;
+         this.meanReciprocalRank= mrr;
+         this.totalPatternFound=reciprocalElements.size();
+         this.totalPatternNotFound=reciprocalElementsNotFound.size();
+         
     }
 
-    private static Pair<Double, String> getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
-        Pair<Double, String> reciprocalRankPairs = new Pair<Double, String>(0.0, "0 0.0");
+    private static ReciprocalElement getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
+        ReciprocalElement reciprocalElement = new ReciprocalElement(ranking.toString(), 0, 0.0);
 
         EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold),
                 "I cannot compute MRR");
@@ -94,16 +91,17 @@ public class ReciprocalResult {
             if (gold.containsKey(ranking.get(i))) {
 
                 if (gold.get(ranking.get(i))) {
-                    System.out.println("ranking :" + ranking);
-                    System.out.println("gold :" + gold);
-                    System.out.println("match :" + ranking.get(i));
+                    //System.out.println("ranking :" + ranking);
+                    //System.out.println("gold :" + gold);
+                    //System.out.println("match :" + ranking.get(i));
+                    String predicate = ranking.get(i);
                     reciprocalRank = 1.0 / (i + 1);
                     Integer rank = (i + 1);
-                    return new Pair<Double, String>(reciprocalRank, rank.toString() + " " + reciprocalRank);
+                    return new ReciprocalElement(predicate, rank, reciprocalRank);
                 }
             }
         }
-        return reciprocalRankPairs;
+        return reciprocalElement;
     }
 
     private static List<String> getKeysSortedByValue(
@@ -129,4 +127,5 @@ public class ReciprocalResult {
         return sortedList;
     }
 
+   
 }
