@@ -3,13 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package  citec.correlation.wikipedia.qald;
+package  citec.correlation.wikipedia.dic.qald;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import java.util.ArrayList;
 import java.util.HashMap;
-
 import java.util.List;
 
 /**
@@ -17,18 +15,25 @@ import java.util.List;
  * @author elahi
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class Result {
+public class Answers {
 
-    @JsonProperty("bindings")
-    public List<Binding> binding;
+    @JsonProperty("head")
+    public HashMap<String, List> head = new HashMap<String, List>();
+
+    @JsonProperty("results")
+    public Result result;
 
     @Override
     public String toString() {
-        return "Result{" + "binding=" + binding + '}';
+        return "Answers{" + "head=" + head + ", result=" + result + '}';
     }
 
-    public List<Binding> getBinding() {
-        return binding;
+    public HashMap<String, List> getHead() {
+        return head;
+    }
+
+    public Result getResult() {
+        return result;
     }
 
 }

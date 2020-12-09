@@ -5,8 +5,10 @@
  */
 package citec.correlation.wikipedia.evalution;
 
+import citec.correlation.wikipedia.dic.lexicon.LexiconUnit;
+import citec.correlation.wikipedia.results.ReciprocalResult;
 import citec.correlation.wikipedia.evalution.ir.IrAbstract;
-import citec.correlation.wikipedia.qald.Unit;
+import citec.correlation.wikipedia.dic.qald.Unit;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.collect.Sets;
@@ -36,7 +38,7 @@ public class Comparision {
     
     private Map<String, LexiconUnit> lexiconDic = new TreeMap<String, LexiconUnit> ();
     private Map<String, Unit> qaldDic = new TreeMap<String, Unit>();
-    private List<MeanReciprocalResult> results = new ArrayList<MeanReciprocalResult>();
+    private List<MeanReciprocalCalculation> results = new ArrayList<MeanReciprocalCalculation>();
     private String outputFileName = null;
   
 
@@ -65,7 +67,7 @@ public class Comparision {
             lexicon.add(predictPair);
             qald_gold.add(goldRelevancePair);
         }
-        MeanReciprocalResult meanReciprocalResult =new MeanReciprocalResult(lexicon, qald_gold);
+        MeanReciprocalCalculation meanReciprocalResult =new MeanReciprocalCalculation(lexicon, qald_gold);
         //System.out.println("meanReciprocalRank:" + meanReciprocalResult.getMeanReciprocalElements());
         FileFolderUtils.writeMeanResultsToJsonFile(meanReciprocalResult, outputFileName);
 
@@ -77,12 +79,12 @@ public class Comparision {
     public void compersionsPattern2() {
         //Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
         Set<String> intersection = Sets.intersection(qaldDic.keySet(), lexiconDic.keySet());
-        Map<String, MeanReciprocalResult> wordReciprocalRank = new TreeMap<String, MeanReciprocalResult>();
+        Map<String, MeanReciprocalCalculation> wordReciprocalRank = new TreeMap<String, MeanReciprocalCalculation>();
         List<String> commonWords = new ArrayList<String>(intersection);
         Double sum=0.0;
         for (String word : qaldDic.keySet()) {
             System.out.println("word:"+word);
-            ReciprocalElement reciprocalElement = null;
+            ReciprocalResult reciprocalElement = null;
             if (commonWords.contains(word)) {
                 Unit qaldElement = qaldDic.get(word);
                 LexiconUnit lexiconElement = lexiconDic.get(word);
@@ -90,11 +92,11 @@ public class Comparision {
                   if(reciprocalElement!=null)
                       System.out.println(word + " " + reciprocalElement);
                    else
-                      reciprocalElement = new ReciprocalElement("no matched predicate found for "+word,0,0.0);
+                      reciprocalElement = new ReciprocalResult("no matched predicate found for "+word,0,0.0);
 
             }
             else 
-               reciprocalElement = new ReciprocalElement(word+"  not found "+word,0,0.0);
+               reciprocalElement = new ReciprocalResult(word+"  not found "+word,0,0.0);
             sum+=reciprocalElement.getReciprocalRank();
         }
         Double meanReciprocal=sum/qaldDic.size();
@@ -102,7 +104,7 @@ public class Comparision {
         
     }
 
-     private ReciprocalElement compersionsPattern(String word,Unit unit,LexiconUnit LexiconUnit) {
+     private ReciprocalResult compersionsPattern(String word,Unit unit,LexiconUnit LexiconUnit) {
         Map<String, Boolean> goldRelevance = new HashMap<String, Boolean>();
         Map<String, Double> predict = new HashMap<String, Double>();
         List<String> rankpredicates=new ArrayList<String>();
@@ -188,7 +190,7 @@ public class Comparision {
         System.out.println("OthersumTest:"+sum);
         return sum;
     }*/
-   public ReciprocalElement  calculateMeanReciprocal(String word,List<String> ranking, Map<String, Boolean> gold) {
+   public ReciprocalResult  calculateMeanReciprocal(String word,List<String> ranking, Map<String, Boolean> gold) {
         double reciprocalRank = 0;
         Double meanReciprocal = 0.0;
         Map<Integer,String> reciprocalRankPairs = new TreeMap<Integer, String>();        
@@ -200,7 +202,7 @@ public class Comparision {
                 if (gold.get(ranking.get(index))) {
                     rank = index + 1;
                     reciprocalRank = 1.0 / (rank);
-                    return  new ReciprocalElement(predicate,rank,reciprocalRank);
+                    return  new ReciprocalResult(predicate,rank,reciprocalRank);
                     
                 }
             }
@@ -242,7 +244,7 @@ public class Comparision {
         return predicate;
     }
 
-    public List<MeanReciprocalResult> getResults() {
+    public List<MeanReciprocalCalculation> getResults() {
         return results;
     }
 

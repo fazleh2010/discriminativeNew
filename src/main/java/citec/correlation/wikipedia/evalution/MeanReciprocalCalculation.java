@@ -5,6 +5,7 @@
  */
 package citec.correlation.wikipedia.evalution;
 
+import citec.correlation.wikipedia.results.ReciprocalResult;
 import citec.correlation.wikipedia.evalution.ir.IrAbstract;
 import citec.correlation.wikipedia.utils.EvalutionUtil;
 import com.fasterxml.jackson.annotation.JsonIgnore;
@@ -22,7 +23,7 @@ import org.javatuples.Pair;
  *
  * @author elahi
  */
-public class MeanReciprocalResult {
+public class MeanReciprocalCalculation {
 
     @JsonIgnore
     public static final boolean ASCENDING = true;
@@ -34,16 +35,16 @@ public class MeanReciprocalResult {
     private Integer totalPatternFound=null;
      @JsonProperty("TotalPatternNOTFound")
     private Integer totalPatternNotFound=null;
-    @JsonProperty("ReciprocalRank")
-    private Map<String,ReciprocalElement> reciprocalElements=new  TreeMap<String,ReciprocalElement>();
+    @JsonProperty("PatternFound")
+    private Map<String,ReciprocalResult> patternFound=new  TreeMap<String,ReciprocalResult>();
      @JsonProperty("PatternNotFound")
-    private Map<String,ReciprocalElement> reciprocalElementsNotFound=new  TreeMap<String,ReciprocalElement>();
+    private Map<String,ReciprocalResult> patternNotFound=new  TreeMap<String,ReciprocalResult>();
 
-    public MeanReciprocalResult() {
+    public MeanReciprocalCalculation() {
         
     }
   
-    public MeanReciprocalResult(List<Pair<String, Map<String, Double>>> rankings, List<Pair<String, Map<String, Boolean>>> gold) {
+    public MeanReciprocalCalculation(List<Pair<String, Map<String, Double>>> rankings, List<Pair<String, Map<String, Boolean>>> gold) {
         this.computeWithRankingMap(rankings,gold);
     }
 
@@ -56,15 +57,14 @@ public class MeanReciprocalResult {
             Pair<String, Map<String, Double>> rankingsPredict = rankings.get(i);
             Pair<String, Map<String, Boolean>> wordGold = gold.get(i);
             String word = rankingsPredict.getValue0();
-            System.out.println("word:" + word);
 
-            ReciprocalElement reciprocalElement = getReciprocalRank(getKeysSortedByValue(rankingsPredict.getValue1(), DESCENDING),
+            ReciprocalResult reciprocalElement = getReciprocalRank(getKeysSortedByValue(rankingsPredict.getValue1(), DESCENDING),
                     wordGold.getValue1());
             if (reciprocalElement.getRank() > 0) {
-                 this.reciprocalElements.put(word, reciprocalElement);
+                 this.patternFound.put(word, reciprocalElement);
             }
             else
-               reciprocalElementsNotFound.put(word, reciprocalElement);
+               patternNotFound.put(word, reciprocalElement);
             
             mrr += reciprocalElement.getReciprocalRank();
         }
@@ -72,13 +72,13 @@ public class MeanReciprocalResult {
         mrr /= rankings.size();
 
          this.meanReciprocalRank= mrr;
-         this.totalPatternFound=reciprocalElements.size();
-         this.totalPatternNotFound=reciprocalElementsNotFound.size();
+         this.totalPatternFound=patternFound.size();
+         this.totalPatternNotFound=patternNotFound.size();
          
     }
 
-    private static ReciprocalElement getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
-        ReciprocalElement reciprocalElement = new ReciprocalElement(ranking.toString(), 0, 0.0);
+    private static ReciprocalResult getReciprocalRank(final List<String> ranking, final Map<String, Boolean> gold) {
+        ReciprocalResult reciprocalElement = new ReciprocalResult(ranking, 0, 0.0);
 
         EvalutionUtil.ifFalseCrash(IrAbstract.GoldContainsAllinRanking(ranking, gold),
                 "I cannot compute MRR");
@@ -97,7 +97,7 @@ public class MeanReciprocalResult {
                     String predicate = ranking.get(i);
                     reciprocalRank = 1.0 / (i + 1);
                     Integer rank = (i + 1);
-                    return new ReciprocalElement(predicate, rank, reciprocalRank);
+                    return new ReciprocalResult(predicate, rank, reciprocalRank);
                 }
             }
         }

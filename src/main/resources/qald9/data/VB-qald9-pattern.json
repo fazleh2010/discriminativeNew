@@ -88,7 +88,7 @@
             "Sparql_36": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Illinois> <http://dbpedia.org/property/borderingstates> ?uri }"
         }
     }, {
-        "word": "born",
+        "word": "bear",
         "pairs": ["dbo:birthYear", "dbo:birthDate", "dbo:birthPlace"],
         "questions": {
             "243": "In which year was Rachel Stevens born? [born=dbo:birthYear]",
@@ -102,7 +102,7 @@
         }
     }, 
     {
-        "word": "born_in",
+        "word": "bear_in",
         "pairs": ["dbo:birthPlace", "dbo:birthDate"],
         "questions": {
             "3": "Which people were born in Heraklion? [born_in=dbo:birthPlace]",
@@ -128,7 +128,7 @@
         }
     },   
     {
-        "word": "born_in_X_die_in",
+        "word": "bear_in_X_die_in",
         "pairs": ["dbo:birthPlace"],
         "questions": {
             "179": "Give me all people that were born in Vienna and died in Berlin. [born_in=dbo:birthPlace]"
@@ -138,7 +138,7 @@
         }
     },
     {
-        "word": "born_on",
+        "word": "bear_on",
         "pairs": ["dbo:birthPlace", "dbo:birthDate", "dbo:birthYear", "dbo:birthDate"],
         "questions": {
             "79": "Show me everyone who was born on Halloween.[born_on=dbo:birthDate]",

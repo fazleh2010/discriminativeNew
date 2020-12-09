@@ -8,10 +8,10 @@ package citec.correlation.wikipedia.utils;
 import citec.correlation.wikipedia.results.PropertyDictionary;
 import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.element.DBpediaEntityPattern;
-import citec.correlation.wikipedia.qald.Unit;
+import citec.correlation.wikipedia.dic.qald.Unit;
 import citec.correlation.wikipedia.results.EntityResults;
 import citec.correlation.wikipedia.calculation.InterestingPatterns;
-import citec.correlation.wikipedia.evalution.MeanReciprocalResult;
+import citec.correlation.wikipedia.evalution.MeanReciprocalCalculation;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedReader;
@@ -390,7 +390,7 @@ public class FileFolderUtils {
         mapper.writeValue(Paths.get(filename).toFile(), entityResults);
     }
     
-    public static void writeMeanResultsToJsonFile(MeanReciprocalResult results, String filename) throws IOException {
+    public static void writeMeanResultsToJsonFile(MeanReciprocalCalculation results, String filename) throws IOException {
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename).toFile(), results);
     }

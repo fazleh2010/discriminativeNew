@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.evalution;
+package citec.correlation.wikipedia.dic.qald;
 
 import citec.correlation.core.analyzer.Analyzer;
-import citec.correlation.wikipedia.qald.DataUnit;
-import citec.correlation.wikipedia.qald.JsonReader;
-import citec.correlation.wikipedia.qald.Question;
-import citec.correlation.wikipedia.qald.QaldPosTagger;
-import citec.correlation.wikipedia.qald.Unit;
+import citec.correlation.wikipedia.dic.qald.DataUnit;
+import citec.correlation.wikipedia.dic.qald.JsonReader;
+import citec.correlation.wikipedia.dic.qald.Question;
+import citec.correlation.wikipedia.dic.qald.QaldPosTagger;
+import citec.correlation.wikipedia.dic.qald.Unit;
 import citec.correlation.wikipedia.utils.FileFolderUtils;
 import java.io.File;
 import java.io.FileInputStream;

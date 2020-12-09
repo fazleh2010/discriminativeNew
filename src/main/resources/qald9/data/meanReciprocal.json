@@ -1,969 +1,809 @@
 {
-  "MeanReciProcalRank" : 0.01875,
-  "TotalPatternFound" : 3,
-  "TotalPatternNOTFound" : 157,
-  "ReciprocalRank" : {
+  "MeanReciProcalRank" : 0.021875,
+  "TotalPatternFound" : 4,
+  "TotalPatternNOTFound" : 156,
+  "PatternFound" : {
     "attend" : {
-      "meanReciprocal" : 1.0,
-      "predicate" : "dbo:almaMater",
-      "rank" : 1,
-      "reciprocalRank" : 1.0
+      "Predicate" : [ "dbo:almaMater" ],
+      "Rank" : 1,
+      "ReciprocalRank" : 1.0
+    },
+    "bear_in" : {
+      "Predicate" : [ "dbo:birthPlace" ],
+      "Rank" : 2,
+      "ReciprocalRank" : 0.5
     },
     "die_in" : {
-      "meanReciprocal" : 1.0,
-      "predicate" : "dbo:deathPlace",
-      "rank" : 1,
-      "reciprocalRank" : 1.0
+      "Predicate" : [ "dbo:deathPlace" ],
+      "Rank" : 1,
+      "ReciprocalRank" : 1.0
     },
     "marry" : {
-      "meanReciprocal" : 1.0,
-      "predicate" : "dbo:spouse",
-      "rank" : 1,
-      "reciprocalRank" : 1.0
+      "Predicate" : [ "dbo:spouse" ],
+      "Rank" : 1,
+      "ReciprocalRank" : 1.0
     }
   },
   "PatternNotFound" : {
     "alumnus_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:almaMater]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:almaMater" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "appoint" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:title, dbp:honorificSuffix]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:title", "dbp:honorificSuffix" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "appoint_by" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:appointed]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:appointed" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "appoint_minister" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:premier, dbo:primeMinister]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:premier", "dbo:primeMinister" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "appoint_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:appointed, dbp:before, dbp:leader]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:appointed", "dbp:before", "dbp:leader" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "assume_office" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:predecessor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:predecessor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "attend_dalhousie" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:occupation]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:occupation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "author_numerous" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateAssembly]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
-    },
-    "bear_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:deathPlace, dbo:birthPlace, dbo:restingPlace, dbo:residence, dbo:nationality, dbp:education]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateAssembly" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "become" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:title, dbo:occupation, dbp:honorificPrefix]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:title", "dbo:occupation", "dbp:honorificPrefix" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "become_subject" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:primeMinister]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:primeMinister" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "belong_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:stateOfOrigin]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "chair_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateAssembly]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateAssembly" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "chairman" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:district]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:district" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "come_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:restingPlace, dbp:parliament]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:restingPlace", "dbp:parliament" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "congressman_represent" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:state]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:state" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "contest" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:homeTown]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:homeTown" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "criticise" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:primeMinister]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:primeMinister" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "current_member" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:parliament]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:parliament" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "currently_represent" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateDelegate, dbp:state]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateDelegate", "dbp:state" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "currently_serve" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:region, dbp:successor, dbp:stateSenate, dbp:stateDelegate, dbp:stateHouse]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:region", "dbp:successor", "dbp:stateSenate", "dbp:stateDelegate", "dbp:stateHouse" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "defeat_at" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:after, dbp:before]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:after", "dbp:before" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "defeat_by" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:successor, dbp:predecessor, dbp:after, dbo:nationality]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:successor", "dbp:predecessor", "dbp:after", "dbo:nationality" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "defeat_for" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:succeeded, dbp:after]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:succeeded", "dbp:after" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "defeat_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:successor, dbp:predecessor, dbp:stateAssembly, dbp:after]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:successor", "dbp:predecessor", "dbp:stateAssembly", "dbp:after" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "defeat_incumbent" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:predecessor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:predecessor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "degree_from" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateHouse]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateHouse" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "delegate_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:restingPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:restingPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "deputy_minister" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:primeMinister]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:primeMinister" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "deputy_prime" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:primeMinister]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:primeMinister" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "deputy_speaker" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateDelegate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateDelegate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "die" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:years]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:years" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "die_at" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:deathPlace, dbo:stateOfOrigin]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:deathPlace", "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "earn_degree" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:almaMater]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:almaMater" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "educate_at" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:country, dbo:almaMater]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:country", "dbo:almaMater" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "eldest_son" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:placeOfBirth]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:placeOfBirth" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "elect" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:party, dbp:title, dbp:occupation, dbo:occupation, dbp:honorificSuffix, dbp:profession, dbo:profession]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:party", "dbp:title", "dbp:occupation", "dbo:occupation", "dbp:honorificSuffix", "dbp:profession", "dbo:profession" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "elect_at" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:before, dbo:country]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:before", "dbo:country" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "elect_by" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateHouse]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateHouse" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "elect_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:predecessor, dbp:constituencyMp, dbp:stateDelegate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:predecessor", "dbp:constituencyMp", "dbp:stateDelegate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "elect_member" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:country, dbp:with, dbo:nationality, dbp:citizenship]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:country", "dbp:with", "dbo:nationality", "dbp:citizenship" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "elect_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:nationality, dbo:party, dbo:birthPlace, dbo:predecessor, dbo:region, dbp:title, dbo:residence, dbo:deathPlace, dbp:stateDelegate, dbp:honorificSuffix, dbp:honorificPrefix, dbp:stateSenate, dbp:parliament, dbo:country, dbp:state, dbp:constituencyMp, dbp:riding, dbp:electorate, dbp:stateHouse, dbo:stateOfOrigin]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:nationality", "dbo:party", "dbo:birthPlace", "dbo:predecessor", "dbo:region", "dbp:title", "dbo:residence", "dbo:deathPlace", "dbp:stateDelegate", "dbp:honorificSuffix", "dbp:honorificPrefix", "dbp:stateSenate", "dbp:parliament", "dbo:country", "dbp:state", "dbp:constituencyMp", "dbp:riding", "dbp:electorate", "dbp:stateHouse", "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "elect_unopposed" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:leader]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:leader" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "employ_associate" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:profession]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:profession" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "enter_house" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:electorate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:electorate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "enter_provincial" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:predecessor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:predecessor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "evolve_into" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:state]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:state" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "father_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:child]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:child" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "first_dominicanamerican" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:militaryUnit]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:militaryUnit" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "first_elect" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:party, dbp:predecessor, dbo:birthPlace, dbp:before, dbo:residence, dbp:honorificSuffix, dbp:honorificPrefix, dbp:stateSenate, dbp:constituencyMp, dbp:riding, dbp:parliament, dbp:stateHouse, dbo:spouse]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:party", "dbp:predecessor", "dbo:birthPlace", "dbp:before", "dbo:residence", "dbp:honorificSuffix", "dbp:honorificPrefix", "dbp:stateSenate", "dbp:constituencyMp", "dbp:riding", "dbp:parliament", "dbp:stateHouse", "dbo:spouse" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "former" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:region, dbo:orderInOffice, dbp:occupation, dbo:occupation]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:region", "dbo:orderInOffice", "dbp:occupation", "dbo:occupation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "four_son" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:birthPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "general_secretary" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:stateOfOrigin, dbo:nationality]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:stateOfOrigin", "dbo:nationality" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "graduate_from" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:almaMater, dbo:relation]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:almaMater", "dbo:relation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "graduate_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:almaMater]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:almaMater" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "graduate_with" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:almaMater]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:almaMater" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "grandmother_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:stateOfOrigin]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "held_seat" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:after, dbo:successor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:after", "dbo:successor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "his_brother" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:relation]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:relation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "hold_position" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:religion]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:religion" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "important_leader" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:homeTown]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:homeTown" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "imprison_for" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:birthPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "incumbent_minister" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:hometown]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:hometown" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "induct_into" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:state]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:state" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "instrumental_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:deathPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:deathPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "join" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:party, dbo:otherParty]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:party", "dbo:otherParty" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "judge_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:restingPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:restingPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "labour_member" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:country]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:country" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "later_work" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:stateOfOrigin]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "left_office" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:party]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:party" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "liberal" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:honorificSuffix]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:honorificSuffix" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "liberal_member" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:party]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:party" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "list_on" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:restingPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:restingPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "lok_sabha" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:stateOfOrigin]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "lose_election" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:opponent]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:opponent" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "lose_his" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:otherParty, dbp:after, dbo:successor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:otherParty", "dbp:after", "dbo:successor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "lose_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:successor, dbp:after]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:successor", "dbp:after" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "make" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:honorificSuffix]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:honorificSuffix" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "make_officer" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:parliament]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:parliament" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "marry_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:spouse, dbp:spouse, dbp:leader]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:spouse", "dbp:spouse", "dbp:leader" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "meet" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:spouse]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:spouse" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "member_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:party, dbo:birthPlace, dbo:residence, dbo:region, dbp:religion, dbp:title, dbo:deathPlace, dbo:religion, dbo:country, dbo:nationality, dbo:occupation, dbp:stateSenate, dbp:district, dbo:restingPlace, dbp:stateHouse, dbp:parliament, dbo:otherParty, dbp:nationality, dbo:stateOfOrigin, dbo:citizenship, dbp:stateDelegate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:party", "dbo:birthPlace", "dbo:residence", "dbo:region", "dbp:religion", "dbp:title", "dbo:deathPlace", "dbo:religion", "dbo:country", "dbo:nationality", "dbo:occupation", "dbp:stateSenate", "dbp:district", "dbo:restingPlace", "dbp:stateHouse", "dbp:parliament", "dbo:otherParty", "dbp:nationality", "dbo:stateOfOrigin", "dbo:citizenship", "dbp:stateDelegate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "migrate_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:nationality]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:nationality" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "minister" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:stateOfOrigin]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "minister_for" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:parliament]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:parliament" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "minister_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:premier]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:premier" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "minister_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:primeMinister, dbo:religion, dbo:birthPlace, dbo:nationality]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:primeMinister", "dbo:religion", "dbo:birthPlace", "dbo:nationality" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "mla" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:region]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:region" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "move_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:deathPlace, dbo:restingPlace, dbp:title, dbo:residence, dbo:country, dbp:deathPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:deathPlace", "dbo:restingPlace", "dbp:title", "dbo:residence", "dbo:country", "dbp:deathPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "name_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:stateOfOrigin]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "nominate_by" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:president]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:president" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "one_lay" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:deathPlace, dbp:residence]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:deathPlace", "dbp:residence" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "originally_belong" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:homeTown]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:homeTown" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "participate_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:religion]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:religion" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "place_2" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:predecessor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:predecessor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "play_significant" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:citizenship]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:citizenship" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "president_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:homeTown, dbo:occupation]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:homeTown", "dbo:occupation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "previously_represent" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:hometown]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:hometown" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "previously_serve" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:residence, dbo:primeMinister, dbp:stateSenate, dbp:state, dbp:kingdom]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:residence", "dbo:primeMinister", "dbp:stateSenate", "dbp:state", "dbp:kingdom" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "receive_his" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:almaMater]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:almaMater" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "recognize_lead" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:restingPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:restingPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "reelect" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:orderInOffice, dbo:office]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:orderInOffice", "dbo:office" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "reelect_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:after]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:after" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "reelect_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:house]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:house" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "related_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:electorate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:electorate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "remain_on" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:premier]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:premier" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "replace" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:predecessor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:predecessor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "replace_by" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:successor, dbp:after]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:successor", "dbp:after" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "represent" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:birthPlace, dbp:electorate, dbo:residence, dbo:office, dbo:deathPlace, dbo:region, dbp:title, dbp:district, dbp:constituencyMp, dbo:hometown, dbp:state]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:birthPlace", "dbp:electorate", "dbo:residence", "dbo:office", "dbo:deathPlace", "dbo:region", "dbp:title", "dbp:district", "dbp:constituencyMp", "dbo:hometown", "dbp:state" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "represent_city" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:electorate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:electorate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "represent_district" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:region]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:region" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "represent_electoral" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:party, dbo:birthPlace, dbo:residence, dbo:region, dbp:constituencyMp, dbp:riding]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:party", "dbo:birthPlace", "dbo:residence", "dbo:region", "dbp:constituencyMp", "dbp:riding" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "represent_electorate" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:electorate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:electorate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "represent_his" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:constituency]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:constituency" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "represent_ride" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:riding]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:riding" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "resign_from" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:otherParty]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:otherParty" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "resign_newly" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:succeeded]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:succeeded" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "retire" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:honorificPrefix]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:honorificPrefix" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "retire_from" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:successor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:successor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "return_to" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:country, dbo:profession]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:country", "dbo:profession" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "run_for" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:successor, dbp:stateHouse, dbp:stateSenate, dbp:stateAssembly, dbp:candidate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:successor", "dbp:stateHouse", "dbp:stateSenate", "dbp:stateAssembly", "dbp:candidate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "seek" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:state]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:state" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:birthPlace, dbo:party, dbo:orderInOffice, dbo:region, dbp:occupation, dbo:deathPlace, dbo:residence, dbp:title, dbp:stateSenate, dbp:stateHouse, dbo:country, dbo:restingPlace, dbo:occupation, dbp:rank, dbp:honorificSuffix, dbo:profession, dbo:nationality, dbo:otherParty, dbp:deathPlace, dbp:homeTown]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:birthPlace", "dbo:party", "dbo:orderInOffice", "dbo:region", "dbp:occupation", "dbo:deathPlace", "dbo:residence", "dbp:title", "dbp:stateSenate", "dbp:stateHouse", "dbo:country", "dbo:restingPlace", "dbo:occupation", "dbp:rank", "dbp:honorificSuffix", "dbo:profession", "dbo:nationality", "dbo:otherParty", "dbp:deathPlace", "dbp:homeTown" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_alongside" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:successor, dbo:associate, dbp:with, dbo:spouse]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:successor", "dbo:associate", "dbp:with", "dbo:spouse" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_cabinet" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:premier]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:premier" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_consul" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:citizenship]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:citizenship" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_counsel" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateDelegate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateDelegate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_deputy" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:title, dbp:birthPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:title", "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_five" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateAssembly]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateAssembly" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:birthPlace, dbo:region, dbo:party, dbp:occupation, dbo:deathPlace, dbp:title, dbp:post, dbp:stateHouse, dbp:premier, dbo:battle, dbo:country, dbp:stateSenate, dbo:militaryBranch, dbo:nationality, dbo:primeMinister, dbp:parliament, dbp:state, dbp:stateDelegate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:birthPlace", "dbo:region", "dbo:party", "dbp:occupation", "dbo:deathPlace", "dbp:title", "dbp:post", "dbp:stateHouse", "dbp:premier", "dbo:battle", "dbo:country", "dbp:stateSenate", "dbo:militaryBranch", "dbo:nationality", "dbo:primeMinister", "dbp:parliament", "dbp:state", "dbp:stateDelegate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_member" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:party, dbo:birthPlace, dbo:deathPlace, dbo:almaMater, dbp:stateSenate, dbp:parliament]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:party", "dbo:birthPlace", "dbo:deathPlace", "dbo:almaMater", "dbp:stateSenate", "dbp:parliament" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_minister" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:primeMinister, dbp:birthDate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:primeMinister", "dbp:birthDate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_on" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:residence, dbp:stateSenate, dbp:stateAssembly]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:residence", "dbp:stateSenate", "dbp:stateAssembly" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_president" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:birthPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_speaker" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:stateHouse]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:stateHouse" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "serve_trustee" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:restingPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:restingPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "sit" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:honorificSuffix]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:honorificSuffix" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "son_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:parents, dbo:relation, dbp:predecessor, dbo:child]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:parents", "dbo:relation", "dbp:predecessor", "dbo:child" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "state_minister" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:primeMinister, dbp:citizenship]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:primeMinister", "dbp:citizenship" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "student_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:citizenship]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:citizenship" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "study_at" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:almaMater]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:almaMater" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "succeed" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:predecessor, dbo:predecessor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:predecessor", "dbo:predecessor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "succeed_by" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:successor, dbp:before, dbp:1namedata]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:successor", "dbp:before", "dbp:1namedata" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "succeed_in" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:succeeded]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:succeeded" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "successfully_advocate" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:vpState]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:vpState" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "teacher" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:birthPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "unsuccessfully_contest" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:before]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:before" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "veteran_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:battle]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:battle" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "west" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:birthPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "widow_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:spouse]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:spouse" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "wife_of" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:spouse, dbo:predecessor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:spouse", "dbo:predecessor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "win" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:electorate]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:electorate" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "win_seat" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:before]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:before" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "win_ward" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:birthPlace]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "work" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbo:occupation]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbo:occupation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "would_seek" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:termEnd, dbp:successor]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:termEnd", "dbp:successor" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     },
     "young_brother" : {
-      "meanReciprocal" : 0.0,
-      "predicate" : "[dbp:with]",
-      "rank" : 0,
-      "reciprocalRank" : 0.0
+      "Predicate" : [ "dbp:with" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
     }
   }
 }

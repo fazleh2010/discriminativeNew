@@ -5,7 +5,7 @@
  */
 package citec.correlation.wikipedia.results;
 
-import citec.correlation.wikipedia.evalution.EntityInfo;
+import citec.correlation.wikipedia.dic.lexicon.EntityInfo;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.ArrayList;

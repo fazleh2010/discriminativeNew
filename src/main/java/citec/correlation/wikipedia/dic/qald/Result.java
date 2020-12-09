@@ -3,29 +3,32 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package  citec.correlation.wikipedia.qald;
+package  citec.correlation.wikipedia.dic.qald;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.ArrayList;
 import java.util.HashMap;
+
+import java.util.List;
 
 /**
  *
  * @author elahi
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class Query {
+public class Result {
 
-    @JsonProperty("sparql")
-    public HashMap<String, String> queries = new HashMap<String, String>();
+    @JsonProperty("bindings")
+    public List<Binding> binding;
 
     @Override
     public String toString() {
-        return "Query{" + "dataset=" + queries + '}';
+        return "Result{" + "binding=" + binding + '}';
     }
 
-    public HashMap<String, String> getQueries() {
-        return queries;
+    public List<Binding> getBinding() {
+        return binding;
     }
 
 }
