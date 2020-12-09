@@ -46,12 +46,9 @@ public class Comparision {
         this.lexiconDic = getLexicon(methodFileName);
         this.qaldDic = getQald(qaldFileName);
         this.outputFileName=outputFileName;
-       
-
     }
     
     public void compersionsPattern() throws IOException {
-        //Map<String, Double> meanReciprocal = new TreeMap<String, Double>();
         List<Pair<String,Map<String, Double>>> lexicon = new ArrayList<Pair<String,Map<String, Double>>>();
         List<Pair<String,Map<String, Boolean>>> qald_gold = new ArrayList<Pair<String,Map<String, Boolean>>>();
         List<String> commonWords = this.getCommonWords();

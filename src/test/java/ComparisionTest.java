@@ -20,7 +20,6 @@ import static citec.correlation.wikipedia.parameters.MenuOptions.QALD;
 import static citec.correlation.wikipedia.parameters.MenuOptions.WORD_CALCULATION;
 import static citec.correlation.wikipedia.parameters.MenuOptions.WRITE;
 import static citec.correlation.wikipedia.parameters.MenuOptions.WRITE_PATTERNS;
-import static citec.correlation.wikipedia.parameters.MenuOptions.posTags;
 import static citec.correlation.wikipedia.parameters.WordThresold.ObjectMinimumEntities;
 import static citec.correlation.wikipedia.parameters.WordThresold.TopNwords;
 import static citec.correlation.wikipedia.parameters.WordThresold.numberOfEntitiesrmSelected;
@@ -31,6 +30,10 @@ import static citec.correlation.wikipedia.parameters.WordThresold.wordGivenObjec
 import citec.correlation.wikipedia.utils.FileFolderUtils;
 import java.io.IOException;
 import org.junit.Test;
+import static citec.correlation.wikipedia.parameters.MenuOptions.POSTAGS;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -49,8 +52,14 @@ public class ComparisionTest {
 
     @Test
     public void main() throws IOException, Exception {
+        for(String postag:POSTAGS){
+        String qaldFileName = qald9Dir + postag+"-pattern-qald9" + ".json";
+        String conditionalFilename = qald9Dir + "lexicon-conditional-pattern" + ".json";
+        String outputFileName = qald9Dir + postag+ "-pattern-mean-reciprocal" + ".json";
         Comparision comparision = new Comparision(qald9Dir, qaldFileName, conditionalFilename,outputFileName);
-        comparision.compersionsPattern();
+        comparision.compersionsPattern();     
+        }
+       
       
     }
 

@@ -31,6 +31,8 @@ public class MeanReciprocalCalculation {
     public static final boolean DESCENDING = false;
     @JsonProperty("MeanReciProcalRank")
     private Double meanReciprocalRank=null;
+    @JsonProperty("TotalPattern")
+    private Integer totalPattern=null;
     @JsonProperty("TotalPatternFound")
     private Integer totalPatternFound=null;
      @JsonProperty("TotalPatternNOTFound")
@@ -74,6 +76,7 @@ public class MeanReciprocalCalculation {
          this.meanReciprocalRank= mrr;
          this.totalPatternFound=patternFound.size();
          this.totalPatternNotFound=patternNotFound.size();
+         this.totalPattern=patternFound.size()+patternNotFound.size();
          
     }
 

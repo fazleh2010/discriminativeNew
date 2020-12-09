@@ -90,11 +90,11 @@ public class TableMain implements PropertyNotation,DirectoryLocation,MenuOptions
         }
         if (type.equals(WORD_CALCULATION)) {
             //currently not working (out of memory)
-            calculation(inputFile, classDir, dbo_ClassName, numberOfEntitiesrmSelected, wordFoundInNumberOfEntities, TopNwords, ObjectMinimumEntities, posTags, wordGivenObjectThres, objectGivenWordThres, topWordLimitToConsiderThres);
+            calculation(inputFile, classDir, dbo_ClassName, numberOfEntitiesrmSelected, wordFoundInNumberOfEntities, TopNwords, ObjectMinimumEntities, POSTAGS, wordGivenObjectThres, objectGivenWordThres, topWordLimitToConsiderThres);
         }
 
         if (type.equals(QALD)) {
-            Qald qaldMain = new Qald(posTags, qald9Dir, trainingJson);
+            Qald qaldMain = new Qald(POSTAGS, qald9Dir, trainingJson);
 
         }
         if (type.equals(MEAN_RECIPROCAL_WORD)) {

@@ -26,6 +26,6 @@ public interface MenuOptions {
     public static final String QALD = "QALD";
     public static final String WRITE_PATTERNS = "WRITE_PATTERNS";
     public static final String PATTERN_CALCULATION = "PATTERN_CALCULATION";
-    public static final Set<String> posTags=new  HashSet<String>(Arrays.asList(TextAnalyzer.NOUN, TextAnalyzer.ADJECTIVE,TextAnalyzer.VERB));
+    public static final Set<String> POSTAGS=new  HashSet<String>(Arrays.asList(TextAnalyzer.NOUN, TextAnalyzer.ADJECTIVE,TextAnalyzer.VERB));
 
 }
