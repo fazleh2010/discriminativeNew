@@ -178,6 +178,26 @@
             "Sparql_175": "SELECT DISTINCT ?string WHERE { ?x <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Ramones> ; <http://dbpedia.org/ontology/bSide> ?string }"
         }
     }, {
+        "word": "NNP_big",
+        "pairs": ["dbo:areaTotal"],
+        "questions": {
+            "346": "Is Lake Baikal bigger than the Great Bear Lake?"
+        },
+        "Sparql": {
+            "Sparql_346": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Lake_Baikal dbo:areaTotal ?a1 . res:Great_Bear_Lake dbo:areaTotal ?a2 FILTER ( ?a1 > ?a2 ) }"
+        }
+    }, {
+        "word": "NNP_star",
+        "pairs": ["dbo:starring"],
+        "questions": {
+            "131": "Is Christian Bale starring in Batman Begins?",
+            "314": "Is Christian Bale starring in Velvet Goldmine?"
+        },
+        "Sparql": {
+            "Sparql_131": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Batman_Begins dbo:starring res:Christian_Bale }",
+            "Sparql_314": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Velvet_Goldmine dbo:starring res:Christian_Bale }"
+        }
+    }, {
         "word": "bandleaders_play",
         "pairs": ["dbo:occupation"],
         "questions": {
@@ -186,7 +206,34 @@
         "Sparql": {
             "Sparql_164": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Bandleader> ; <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Trumpet> }"
         }
-    },  {
+    }, {
+        "word": "NNP_end",
+        "pairs": ["dbo:activeYearsEndDate"],
+        "questions": {
+            "388": "When did Boris Becker end his active career?"
+        },
+        "Sparql": {
+            "Sparql_388": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?d WHERE { res:Boris_Becker dbo:activeYearsEndDate ?d }"
+        }
+    }, {
+        "word": "NNP_originate",
+        "pairs": ["dbo:origin"],
+        "questions": {
+            "80": "Which beer originated in Ireland?"
+        },
+        "Sparql": {
+            "Sparql_80": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Beer> ; <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/Beer_in_Ireland> }"
+        }
+    }, {
+        "word": "NNP_marry",
+        "pairs": ["dbp:spouse"],
+        "questions": {
+            "27": "Who is the daughter of Ingrid Bergman married to?"
+        },
+        "Sparql": {
+            "Sparql_27": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Ingrid_Bergman dbo:child ?child . ?child <http://dbpedia.org/property/spouse> ?uri }"
+        }
+    }, {
         "word": "birth_name",
         "pairs": ["dbp:birthName"],
         "questions": {
