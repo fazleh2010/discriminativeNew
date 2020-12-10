@@ -21,11 +21,11 @@ import java.util.TreeMap;
  */
 public class Unit {
 
-    @JsonProperty("word")
+    @JsonProperty("pattern")
     private String word;
     @JsonIgnore
     private List<String> qaldQuestionId = new ArrayList<String>();
-    @JsonProperty("pairs")
+    @JsonProperty("predicates")
     private List<String> pairs=new ArrayList<String>();
     @JsonProperty("questions")
     private LinkedHashMap<String, String> questions = new LinkedHashMap<String, String>();
