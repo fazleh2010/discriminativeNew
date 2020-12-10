@@ -186,7 +186,7 @@
         "Sparql": {
             "Sparql_164": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Bandleader> ; <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Trumpet> }"
         }
-    },  {
+    }, {
         "word": "birth_name",
         "pairs": ["dbp:birthName"],
         "questions": {
@@ -342,7 +342,18 @@
         "Sparql": {
             "Sparql_280": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?owner WHERE { ?owner dbo:owner dbr:Donald_Trump }"
         }
-    }, {
+    },
+    {
+        "word": "capital",
+        "pairs": ["dbo:capital"],
+        "questions": {
+            "55": "Give me the capitals of all countries that the Himalayas run through."
+        },
+        "Sparql": {
+            "Sparql_55": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Himalayas> <http://dbpedia.org/ontology/country> ?country . ?country <http://dbpedia.org/ontology/capital> ?uri }"
+        }
+    },    
+    {
         "word": "capital_of,",
         "pairs": ["dbo:capital"],
         "questions": {
@@ -356,15 +367,6 @@
             "Sparql_285": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:French_Polynesia dbo:capital ?x . ?x dbo:mayor ?uri }",
             "Sparql_317": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Cameroon dbo:capital ?uri }",
             "Sparql_380": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Canada dbo:capital ?uri }"
-        }
-    }, {
-        "word": "capital",
-        "pairs": ["dbo:capital"],
-        "questions": {
-            "55": "Give me the capitals of all countries that the Himalayas run through."
-        },
-        "Sparql": {
-            "Sparql_55": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Himalayas> <http://dbpedia.org/ontology/country> ?country . ?country <http://dbpedia.org/ontology/capital> ?uri }"
         }
     }, {
         "word": "career",
@@ -393,18 +395,8 @@
         "Sparql": {
             "Sparql_194": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Almamater WHERE { dbr:Angela_Merkel dbo:almaMater ?Almamater }"
         }
-    }, {
-        "word": "child_of",
-        "pairs": ["dbo:child"],
-        "questions": {
-            "320": "Who is the oldest child of Meryl Streep?",
-            "275": "List the children of Margaret Thatcher."
-        },
-        "Sparql": {
-            "Sparql_320": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Meryl_Streep dbo:child ?uri . ?uri dbo:birthDate ?d } ORDER BY ASC(?d) OFFSET 0 LIMIT 1",
-            "Sparql_275": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Margaret_Thatcher dbo:child ?uri }"
-        }
-    }, {
+    },
+    {
         "word": "child",
         "pairs": ["dbp:children", "dbo:child"],
         "questions": {
@@ -418,6 +410,18 @@
             "Sparql_308": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Che_Guevara dbo:child ?uri }",
             "Sparql_362": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { res:Benjamin_Franklin dbo:child ?uri }",
             "Sparql_375": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Elvis_Presley dbo:child ?uri }"
+        }
+    },     
+    {
+        "word": "child_of",
+        "pairs": ["dbo:child"],
+        "questions": {
+            "320": "Who is the oldest child of Meryl Streep?",
+            "275": "List the children of Margaret Thatcher."
+        },
+        "Sparql": {
+            "Sparql_320": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Meryl_Streep dbo:child ?uri . ?uri dbo:birthDate ?d } ORDER BY ASC(?d) OFFSET 0 LIMIT 1",
+            "Sparql_275": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Margaret_Thatcher dbo:child ?uri }"
         }
     }, {
         "word": "christmas",
@@ -505,34 +509,26 @@
             "Sparql_49": "SELECT DISTINCT ?string WHERE { <http://dbpedia.org/resource/University_of_Oxford> <http://dbpedia.org/ontology/officialSchoolColour> ?string }"
         }
     }, {
-        "word": "company_in,company,company_produce,company_found",
-        "pairs": ["subject=dbo:Company", "predicate=dbo:industry", "predicate=dbo:product", "predicate=dbo:foundationPlace"],
+        "word": "company_produce",
+        "pairs": ["dbo:foundationPlace"],
         "questions": {
-            "54": "Give me all companies in Munich.",
-            "62": "Which companies have more than 1 million employees?",
-            "97": "Give me all companies in the advertising industry.",
-            "253": "Which companies produce hovercrafts?",
+            "253": "Which companies produce hovercrafts?"
+        },
+        "Sparql": {
+            "Sparql_253": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Company ; dbo:product res:Hovercraft }"
+        }
+    }, 
+    {
+        "word": "company_found",
+        "pairs": ["dbo:foundationPlace"],
+        "questions": {
             "263": "Which electronics companies were founded in Beijing?"
         },
         "Sparql": {
-            "Sparql_54": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Company> { ?uri <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Munich> } UNION { ?uri <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Munich> } UNION { ?uri <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Munich> } }",
-            "Sparql_62": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Company> { ?uri <http://dbpedia.org/ontology/numberOfEmployees> ?n } UNION { ?uri <http://dbpedia.org/property/numEmployees> ?n } FILTER ( ?n > 1000000 ) }",
-            "Sparql_97": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri a <http://dbpedia.org/ontology/Company> { ?uri <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Advertising> } UNION { ?uri <http://dbpedia.org/ontology/industry> ?industry FILTER regex(?industry, \"advertising\", \"i\") } }",
-            "Sparql_253": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Company ; dbo:product res:Hovercraft }",
             "Sparql_263": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Company ; dbo:industry res:Electronics ; dbo:foundationPlace res:Beijing }"
         }
-    }, {
-        "word": "company_employ,company_manufacture",
-        "pairs": ["object=dbo:Company", "object=dbr:Ford_Motor_Company"],
-        "questions": {
-            "269": "Which Indian company has the most employees?",
-            "360": "Does the Ford Motor Company have a manufacturing plant in Malaysia?"
-        },
-        "Sparql": {
-            "Sparql_269": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Company ; dbo:location res:India ; dbo:numberOfEmployees ?n } ORDER BY DESC(?n) OFFSET 0 LIMIT 1",
-            "Sparql_360": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> ASK WHERE { ?uri dbo:assembly dbr:Malaysia ; dbo:manufacturer dbr:Ford_Motor_Company }"
-        }
-    }, {
+    }, 
+    {
         "word": "conflict",
         "pairs": ["dbo:battle"],
         "questions": {
@@ -542,56 +538,27 @@
             "Sparql_369": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:T._E._Lawrence dbo:battle ?uri }"
         }
     }, {
-        "word": "country_place,country_himalaya,country_adopt,country_cave,country_pay,country_Iran,country",
-        "pairs": ["object=dbo:Country", "predicate=dbo:country", "subject=dbo:country", "predicate=dbo:Country"],
+        "word": "country_place",
+        "pairs": ["dbo:location"],
         "questions": {
-            "6": "Which countries have places with more than two caves?",
-            "55": "Give me the capitals of all countries that the Himalayas run through.",
-            "81": "To which countries does the Himalayan mountain system extend?",
-            "102": "Which countries adopted the Euro?",
-            "134": "Which countries have more than two official languages?",
-            "135": "Which countries have more than ten caves?",
-            "147": "In which countries can you pay using the West African CFA franc?",
-            "262": "With how many countries Iran has borders?",
-            "406": "In which countries do people speak Japanese?"
+            "6": "Which countries have places with more than two caves?"
         },
         "Sparql": {
-            "Sparql_6": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?cave rdf:type dbo:Cave ; dbo:location ?uri . ?uri rdf:type dbo:Country } GROUP BY ?uri HAVING ( COUNT(?cave) > 2 )",
-            "Sparql_55": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Himalayas> <http://dbpedia.org/ontology/country> ?country . ?country <http://dbpedia.org/ontology/capital> ?uri }",
-            "Sparql_81": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Himalayas> <http://dbpedia.org/ontology/country> ?uri }",
-            "Sparql_102": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Country> { ?uri <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> } UNION { ?uri <http://dbpedia.org/property/currencyCode> \"EUR\"@en } }",
-            "Sparql_134": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Country> ; <http://dbpedia.org/ontology/officialLanguage> ?language } GROUP BY ?uri HAVING ( COUNT(?language) > 2 )",
-            "Sparql_135": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Country> . ?cave a <http://dbpedia.org/ontology/Cave> { ?cave <http://dbpedia.org/ontology/location> ?uri } UNION { ?cave <http://dbpedia.org/ontology/location> ?loc . ?loc <http://dbpedia.org/ontology/country> ?uri } } GROUP BY ?uri HAVING ( COUNT(?cave) > 10 )",
-            "Sparql_147": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/West_African_CFA_franc> }",
-            "Sparql_262": "PREFIX dbr: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT ?border WHERE { dbr:Geography_of_Iran dbp:borders ?border } LIMIT 8",
-            "Sparql_406": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Country ; dbo:language res:Japanese_language }"
+            "Sparql_6": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?cave rdf:type dbo:Cave ; dbo:location ?uri . ?uri rdf:type dbo:Country } GROUP BY ?uri HAVING ( COUNT(?cave) > 2 )"
         }
-    }, {
-        "word": "country_official,country_in,country_Nile,country_Mecca, country_creator",
-        "pairs": ["predicate=dbo:Country", "predicate=dbo:sourceCountry", "predicate=dbo:country", "predicate=dbo:creator", "predicate=dbo:foundationPlace", "object=dbo:Country", "predicate=dbo:sourceCountry"],
+    }, 
+
+    {
+        "word": "country_in",
+        "pairs": ["dbo:areaTotal"],
         "questions": {
-            "110": "Which country has the most official languages?",
-            "188": "What is the largest country in the world?",
-            "203": "In which country is Mecca located?",
-            "205": "In which country does the Nile start?",
-            "271": "Which country does the creator of Miffy come from?",
-            "294": "In which country is the Limerick Lake?",
-            "312": "What country is Sitecore from?",
-            "354": "What country is Mount Everest in?",
-            "395": "In which country does the Ganges start?"
+            "188": "What is the largest country in the world?"
         },
         "Sparql": {
-            "Sparql_110": "SELECT DISTINCT ?uri WHERE { ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> . ?uri <http://dbpedia.org/property/officialLanguages> ?language . } ORDER BY DESC(COUNT(?language)) OFFSET 0 LIMIT 1",
-            "Sparql_188": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Country ; dbo:areaTotal ?n } ORDER BY DESC(?n) OFFSET 0 LIMIT 1",
-            "Sparql_203": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Mecca dbo:country ?uri }",
-            "Sparql_205": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Nile dbo:sourceCountry ?uri }",
-            "Sparql_271": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Miffy dbo:creator ?x . ?x dbo:nationality ?uri }",
-            "Sparql_294": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Limerick_Lake dbo:country ?uri }",
-            "Sparql_312": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Sitecore dbo:foundationPlace ?uri }",
-            "Sparql_354": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Mount_Everest dbo:locatedInArea ?uri . ?uri rdf:type dbo:Country }",
-            "Sparql_395": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Ganges dbo:sourceCountry ?uri }"
+            "Sparql_188": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Country ; dbo:areaTotal ?n } ORDER BY DESC(?n) OFFSET 0 LIMIT 1"
         }
-    }, {
+    }, 
+    {
         "word": "creator_of",
         "pairs": ["dbo:creator"],
         "questions": {
@@ -612,53 +579,8 @@
             "Sparql_402": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:China dbo:currency ?uri }"
         }
     }, {
-        "word": "dan",
-        "pairs": [],
-        "questions": {
-            "236": "What is the last work of Dan Brown?"
-        },
-        "Sparql": {
-            "Sparql_236": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?book WHERE { { ?book dbo:author dbr:Dan_Brown . ?book dbp:releaseDate ?date } UNION { ?book dbo:author dbr:Dan_Brown . ?book dbo:publicationDate ?date} } ORDER BY DESC(xsd:date(?date)) LIMIT 1"
-        }
-    }, {
-        "word": "dancers",
-        "pairs": [],
-        "questions": {
-            "355": "To which artistic movement did the painter of The Three Dancers belong?"
-        },
-        "Sparql": {
-            "Sparql_355": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:The_Three_Dancers dbo:author ?person . ?person dbo:movement ?uri }"
-        }
-    }, {
-        "word": "danielle",
-        "pairs": [],
-        "questions": {
-            "109": "Give me all books written by Danielle Steel."
-        },
-        "Sparql": {
-            "Sparql_109": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Book> ; <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Danielle_Steel> }"
-        }
-    }, {
-        "word": "darth",
-        "pairs": [],
-        "questions": {
-            "180": "Is Darth Vader Luke’s father?"
-        },
-        "Sparql": {
-            "Sparql_180": "ASK WHERE { <http://dbpedia.org/resource/Darth_Vader> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Luke_Skywalker> }"
-        }
-    }, {
-        "word": "darts",
-        "pairs": [],
-        "questions": {
-            "222": "Who is the youngest Darts player?"
-        },
-        "Sparql": {
-            "Sparql_222": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:DartsPlayer ; dbo:birthDate ?date } ORDER BY DESC(?date) OFFSET 0 LIMIT 1"
-        }
-    }, {
         "word": "date_of",
-        "pairs": ["predicate=dbo:foundingDate"],
+        "pairs": ["dbo:foundingDate"],
         "questions": {
             "218": "when was the founding date of french fifth republic?"
         },
@@ -667,7 +589,7 @@
         }
     }, {
         "word": "daughter_of",
-        "pairs": ["predicate=dbo:child"],
+        "pairs": ["dbo:child"],
         "questions": {
             "27": "Who is the daughter of Ingrid Bergman married to?"
         },
@@ -675,57 +597,41 @@
             "Sparql_27": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Ingrid_Bergman dbo:child ?child . ?child <http://dbpedia.org/property/spouse> ?uri }"
         }
     }, {
-        "word": "dbpedia",
-        "pairs": ["subject=res:DBpedia "],
+        "word": "death",
+        "pairs": ["dbo:deathCause"],
         "questions": {
-            "212": "Who are the developers of DBpedia?"
+            "52": "What is the most frequent cause of death?"
         },
         "Sparql": {
-            "Sparql_212": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:DBpedia dbo:developer ?uri }"
+            "Sparql_52": "SELECT DISTINCT ?x WHERE { ?uri <http://dbpedia.org/ontology/deathCause> ?x . } ORDER BY DESC(COUNT(DISTINCT ?uri)) OFFSET 0 LIMIT 1"
         }
-    }, {
-        "word": "death, death_of, death_place",
-        "pairs": ["predicate=dbo:deathCause", "predicate=dbo:deathDate", "predicate=dbo:deathPlace"],
+    }, 
+
+    {
+        "word": "death_of",
+        "pairs": ["dbo:deathDate"],
         "questions": {
-            "52": "What is the most frequent cause of death?",
-            "239": "When was the death  of  Shakespeare?",
+            "239": "When was the death  of  Shakespeare?"
+        },
+        "Sparql": {
+            "Sparql_239": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?x WHERE { dbr:William_Shakespeare dbo:deathDate ?x } LIMIT 1"
+        }
+    }, 
+
+    {
+        "word": "death_place",
+        "pairs": ["dbo:deathPlace"],
+        "questions": {
             "374": "Does Abraham Lincoln's death place have a website?"
         },
         "Sparql": {
-            "Sparql_52": "SELECT DISTINCT ?x WHERE { ?uri <http://dbpedia.org/ontology/deathCause> ?x . } ORDER BY DESC(COUNT(DISTINCT ?uri)) OFFSET 0 LIMIT 1",
-            "Sparql_239": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?x WHERE { dbr:William_Shakespeare dbo:deathDate ?x } LIMIT 1",
             "Sparql_374": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Abraham_Lincoln dbo:deathPlace ?p . ?p dbo:website ?w }"
         }
-    }, {
-        "word": "del",
-        "pairs": [],
-        "questions": {
-            "345": "Who is starring in Spanish movies produced by Benicio del Toro?"
-        },
-        "Sparql": {
-            "Sparql_345": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?film rdf:type dbo:Film ; dbo:country res:Spain ; dbo:producer res:Benicio_del_Toro ; dbo:starring ?uri . ?uri rdf:type dbo:Person }"
-        }
-    }, {
-        "word": "democrat",
-        "pairs": ["object=res:Democratic_Party_(United_States)"],
-        "questions": {
-            "274": "Is Barack Obama a democrat?"
-        },
-        "Sparql": {
-            "Sparql_274": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Barack_Obama dbo:party <http://dbpedia.org/resource/Democratic_Party_(United_States)> }"
-        }
-    }, {
-        "word": "denmark",
-        "pairs": [],
-        "questions": {
-            "143": "Give me a list of all lakes in Denmark."
-        },
-        "Sparql": {
-            "Sparql_143": "SELECT DISTINCT ?uri WHERE { { ?uri a <http://dbpedia.org/ontology/Lake> ; <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> } UNION { ?uri a <http://dbpedia.org/class/yago/LakesOfDenmark> } }"
-        }
-    }, {
+    }, 
+
+    {
         "word": "density",
-        "pairs": ["predicate=dbp:densityrank"],
+        "pairs": ["dbp:densityrank"],
         "questions": {
             "16": "Which state of the USA has the highest population density?",
             "22": "Which state of the United States of America has the highest density?"
@@ -736,7 +642,7 @@
         }
     }, {
         "word": "designer_of",
-        "pairs": ["predicate=dbp:designer"],
+        "pairs": ["dbp:designer"],
         "questions": {
             "14": "Which other weapons did the designer of the Uzi develop?"
         },
@@ -745,7 +651,7 @@
         }
     }, {
         "word": "developer_of",
-        "pairs": ["predicate=dbo:developer"],
+        "pairs": ["dbo:developer"],
         "questions": {
             "212": "Who are the developers of DBpedia?"
         },
@@ -753,147 +659,8 @@
             "Sparql_212": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:DBpedia dbo:developer ?uri }"
         }
     }, {
-        "word": "dicaprio",
-        "pairs": [],
-        "questions": {
-            "106": "How many films did Leonardo DiCaprio star in?"
-        },
-        "Sparql": {
-            "Sparql_106": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Leonardo_DiCaprio> }"
-        }
-    }, {
-        "word": "disney",
-        "pairs": ["object=res:Walt_Disney"],
-        "questions": {
-            "321": "Which television shows were created by Walt Disney?"
-        },
-        "Sparql": {
-            "Sparql_321": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:TelevisionShow ; dbo:creator res:Walt_Disney }"
-        }
-    }, {
-        "word": "disorder",
-        "pairs": ["subject=<http://dbpedia.org/class/yago/WikicatEatingDisorders>"],
-        "questions": {
-            "103": "Give me all types of eating disorders."
-        },
-        "Sparql": {
-            "Sparql_103": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/class/yago/WikicatEatingDisorders> }"
-        }
-    }, {
-        "word": "dog",
-        "pairs": ["object=res:German_Shepherd>"],
-        "questions": {
-            "185": "Give me all breeds of the German Shepherd dog."
-        },
-        "Sparql": {
-            "Sparql_185": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/property/breed> <http://dbpedia.org/resource/German_Shepherd> }"
-        }
-    }, {
-        "word": "donald",
-        "pairs": [],
-        "questions": {
-            "280": "What is Donald Trump's main business?"
-        },
-        "Sparql": {
-            "Sparql_280": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?owner WHERE { ?owner dbo:owner dbr:Donald_Trump }"
-        }
-    }, {
-        "word": "dortmund",
-        "pairs": [],
-        "questions": {
-            "373": "Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?"
-        },
-        "Sparql": {
-            "Sparql_373": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Lufthansa dbo:subsidiary ?uri . ?uri dbo:targetAirport res:Dortmund_Airport ; dbo:targetAirport res:Berlin_Tegel_Airport }"
-        }
-    }, {
-        "word": "douglas",
-        "pairs": [],
-        "questions": {
-            "221": "Which awards did Douglas Hofstadter win?"
-        },
-        "Sparql": {
-            "Sparql_221": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Douglas_Hofstadter dbo:award ?uri }"
-        }
-    }, {
-        "word": "dream",
-        "pairs": ["subject=dbr:The_Interpretation_of_Dreams"],
-        "questions": {
-            "238": "Who is the author of the interpretation of dreams?"
-        },
-        "Sparql": {
-            "Sparql_238": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Author WHERE { dbr:The_Interpretation_of_Dreams dbo:author ?Author }"
-        }
-    }, {
-        "word": "driver_with",
-        "pairs": ["object=dbo:FormulaOneRacer"],
-        "questions": {
-            "311": "Who is the Formula 1 race driver with the most races?"
-        },
-        "Sparql": {
-            "Sparql_311": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:FormulaOneRacer ; dbo:races ?x } ORDER BY DESC(?x) OFFSET 0 LIMIT 1"
-        }
-    }, {
-        "word": "dutch",
-        "pairs": [],
-        "questions": {
-            "95": "In which city was the former Dutch queen Juliana buried?"
-        },
-        "Sparql": {
-            "Sparql_95": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Juliana_of_the_Netherlands> <http://dbpedia.org/property/burialPlace> ?uri . ?uri a <http://dbpedia.org/ontology/Settlement> }"
-        }
-    }, {
-        "word": "dynasty",
-        "pairs": [],
-        "questions": {
-            "368": "When did the Ming dynasty dissolve?"
-        },
-        "Sparql": {
-            "Sparql_368": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?date WHERE { res:Ming_dynasty dbo:dissolutionDate ?date }"
-        }
-    }, {
-        "word": "düsseldorf",
-        "pairs": [],
-        "questions": {
-            "216": "how much is the elevation of Düsseldorf Airport ?"
-        },
-        "Sparql": {
-            "Sparql_216": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?ele WHERE { dbr:Düsseldorf_Airport dbo:elevation ?ele } LIMIT 1"
-        }
-    }, {
-        "word": "earth",
-        "pairs": ["subject=res:The_Pillars_of_the_Earth", "subject=dbo:Mountain"],
-        "questions": {
-            "21": "Who wrote the book The pillars of the Earth?",
-            "165": "What is the second highest mountain on Earth?",
-            "335": "Who wrote the book The Pillars of the Earth?"
-        },
-        "Sparql": {
-            "Sparql_21": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT ?uri WHERE { res:The_Pillars_of_the_Earth dbo:author ?uri }",
-            "Sparql_165": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Mountain> ; <http://dbpedia.org/ontology/elevation> ?elevation } ORDER BY DESC(?elevation) OFFSET 1 LIMIT 1",
-            "Sparql_335": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:The_Pillars_of_the_Earth dbo:author ?uri }"
-        }
-    }, {
-        "word": "eastwood",
-        "pairs": [],
-        "questions": {
-            "124": "Which films starring Clint Eastwood did he direct himself?"
-        },
-        "Sparql": {
-            "Sparql_124": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Clint_Eastwood> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Clint_Eastwood> }"
-        }
-    }, {
-        "word": "eddie",
-        "pairs": [],
-        "questions": {
-            "144": "How many children does Eddie Murphy have?"
-        },
-        "Sparql": {
-            "Sparql_144": "SELECT DISTINCT ?n WHERE { <http://dbpedia.org/resource/Eddie_Murphy> <http://dbpedia.org/property/children> ?n }"
-        }
-    }, {
         "word": "editor_of",
-        "pairs": ["predicate=dbo:editor"],
+        "pairs": ["dbo:editor"],
         "questions": {
             "220": "Who is the editor of Forbes?"
         },
@@ -901,37 +668,8 @@
             "Sparql_220": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Forbes dbo:editor ?uri }"
         }
     }, {
-        "word": "eiffel",
-        "pairs": [],
-        "questions": {
-            "67": "Where did the architect of the Eiffel Tower study?"
-        },
-        "Sparql": {
-            "Sparql_67": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Eiffel_Tower> <http://dbpedia.org/ontology/architect> ?x . ?x <http://dbpedia.org/property/almaMater> ?uri }"
-        }
-    }, {
-        "word": "einstein",
-        "pairs": [],
-        "questions": {
-            "258": "How many theories did Albert Einstein come up with?",
-            "337": "Who was the doctoral supervisor of Albert Einstein?"
-        },
-        "Sparql": {
-            "Sparql_258": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT (COUNT(?uri) AS ?count) WHERE { dbr:Albert_Einstein dbo:knownFor ?uri }",
-            "Sparql_337": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Albert_Einstein dbo:doctoralAdvisor ?uri }"
-        }
-    }, {
-        "word": "eisenberg",
-        "pairs": [],
-        "questions": {
-            "39": "What movies does Jesse Eisenberg play in?"
-        },
-        "Sparql": {
-            "Sparql_39": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jesse_Eisenberg> }"
-        }
-    }, {
         "word": "electronics_company",
-        "pairs": ["predicate=dbo:industry", "predicate=dbo:Company"],
+        "pairs": ["dbo:industry"],
         "questions": {
             "263": "Which electronics companies were founded in Beijing?"
         },
@@ -940,7 +678,7 @@
         }
     }, {
         "word": "elephant_belong",
-        "pairs": ["predicate=dbp:species"],
+        "pairs": ["dbp:species"],
         "questions": {
             "255": "Which species does an elephant belong?"
         },
@@ -949,7 +687,7 @@
         }
     }, {
         "word": "elevation_of",
-        "pairs": ["predicate=dbo:elevation"],
+        "pairs": ["dbo:elevation"],
         "questions": {
             "216": "how much is the elevation of Düsseldorf Airport ?"
         },
@@ -966,54 +704,19 @@
             "Sparql_249": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Musical ; dbo:musicBy res:Elton_John }"
         }
     }, {
-        "word": "elvis",
-        "pairs": [],
+        "word": "employee",
+        "pairs": ["dbo:numberOfEmployees"],
         "questions": {
-            "130": "For which label did Elvis record his first album?",
-            "367": "Give me the grandchildren of Elvis Presley.",
-            "375": "Did Elvis Presley have children?"
+            "62": "Which companies have more than 1 million employees?"
         },
         "Sparql": {
-            "Sparql_130": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?x rdf:type dbo:Album ; dbo:artist res:Elvis_Presley ; dbo:releaseDate ?y ; dbo:recordLabel ?uri } ORDER BY ASC(?y) OFFSET 0 LIMIT 1",
-            "Sparql_367": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Elvis_Presley dbo:child ?child . ?child dbo:child ?uri }",
-            "Sparql_375": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Elvis_Presley dbo:child ?uri }"
+            "Sparql_62": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Company> { ?uri <http://dbpedia.org/ontology/numberOfEmployees> ?n } UNION { ?uri <http://dbpedia.org/property/numEmployees> ?n } FILTER ( ?n > 1000000 ) }"
         }
-    }, {
-        "word": "empire_pay",
-        "pairs": ["predicate=dbo:currency"],
-        "questions": {
-            "257": "In which ancient empire could you pay with cocoa beans?"
-        },
-        "Sparql": {
-            "Sparql_257": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:currency res:Cocoa_bean }"
-        }
-    }, {
-        "word": "employee,employee_google,employee_IBM",
-        "pairs": ["predicate=dbo:numberOfEmployees"],
-        "questions": {
-            "62": "Which companies have more than 1 million employees?",
-            "85": "How many employees does Google have?",
-            "157": "How many employees does IBM have?",
-            "269": "Which Indian company has the most employees?"
-        },
-        "Sparql": {
-            "Sparql_62": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Company> { ?uri <http://dbpedia.org/ontology/numberOfEmployees> ?n } UNION { ?uri <http://dbpedia.org/property/numEmployees> ?n } FILTER ( ?n > 1000000 ) }",
-            "Sparql_85": "SELECT DISTINCT ?num WHERE { <http://dbpedia.org/resource/Google> <http://dbpedia.org/ontology/numberOfEmployees> ?num }",
-            "Sparql_157": "SELECT DISTINCT ?number WHERE { <http://dbpedia.org/resource/IBM> <http://dbpedia.org/ontology/numberOfEmployees> ?number }",
-            "Sparql_269": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Company ; dbo:location res:India ; dbo:numberOfEmployees ?n } ORDER BY DESC(?n) OFFSET 0 LIMIT 1"
-        }
-    }, {
-        "word": "england",
-        "pairs": [],
-        "questions": {
-            "219": "Who was the first King of England?"
-        },
-        "Sparql": {
-            "Sparql_219": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Royalty ; rdf:type yago:WikicatEnglishMonarchs ; dbo:activeYearsStartYear ?date } ORDER BY ASC(?date) OFFSET 0 LIMIT 1"
-        }
-    }, {
+    }, 
+
+    {
         "word": "entrance",
-        "pairs": ["predicate=dbp:entranceCount"],
+        "pairs": ["dbp:entranceCount"],
         "questions": {
             "30": "Which caves have more than 3 entrances?"
         },
@@ -1022,163 +725,17 @@
         }
     }, {
         "word": "episode_of",
-        "pairs": ["predicate=dbo:completionDate"],
+        "pairs": ["dbo:series"],
         "questions": {
-            "226": "When was the last episode of the TV series Friends aired?"
+            "158": "List all episodes of the first season of the HBO television series The Sopranos!"
         },
         "Sparql": {
-            "Sparql_226": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?date WHERE { dbr:Friends dbo:completionDate ?date }"
+            "Sparql_158": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:series res:The_Sopranos ; dbo:seasonNumber 1 }"
         }
-    }, {
-        "word": "episode_of,episod_old,episod_first, episode_game",
-        "pairs": ["predicate=dbo:series", "predicate=dbo:numberOfEpisodes"],
-        "questions": {
-            "158": "List all episodes of the first season of the HBO television series The Sopranos!",
-            "160": "Does the new Battlestar Galactica series have more episodes than the old one?",
-            "331": "List all episodes of the first season of the HBO television series The Sopranos.",
-            "338": "Does Breaking Bad have more episodes than Game of Thrones?"
-        },
-        "Sparql": {
-            "Sparql_158": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:series res:The_Sopranos ; dbo:seasonNumber 1 }",
-            "Sparql_160": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { <http://dbpedia.org/resource/Battlestar_Galactica_%281978_TV_series%29> dbo:numberOfEpisodes ?x . <http://dbpedia.org/resource/Battlestar_Galactica_%282004_TV_series%29> dbo:numberOfEpisodes ?y FILTER ( ?y > ?x ) }",
-            "Sparql_331": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:series res:The_Sopranos ; dbo:seasonNumber 1 }",
-            "Sparql_338": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Breaking_Bad dbo:numberOfEpisodes ?x . res:Game_of_Thrones dbo:numberOfEpisodes ?y FILTER ( ?y > ?x ) }"
-        }
-    }, {
-        "word": "eritrea",
-        "pairs": [],
-        "questions": {
-            "398": "Who is the president of Eritrea?"
-        },
-        "Sparql": {
-            "Sparql_398": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Eritrea dbo:leader ?uri ; dbo:leaderTitle \"President\"@en }"
-        }
-    }, {
-        "word": "esa",
-        "pairs": [],
-        "questions": {
-            "73": "Give me all ESA astronauts."
-        },
-        "Sparql": {
-            "Sparql_73": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Astronaut> ; <http://dbpedia.org/property/type> <http://dbpedia.org/resource/European_Space_Agency> }"
-        }
-    }, {
-        "word": "estonia",
-        "pairs": [],
-        "questions": {
-            "187": "Which languages are spoken in Estonia?"
-        },
-        "Sparql": {
-            "Sparql_187": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Estonia> }"
-        }
-    }, {
-        "word": "eu",
-        "pairs": [],
-        "questions": {
-            "138": "When did Latvia join the EU?"
-        },
-        "Sparql": {
-            "Sparql_138": "SELECT DISTINCT ?date WHERE { <http://dbpedia.org/resource/Latvia> <http://dbpedia.org/property/accessioneudate> ?date }"
-        }
-    }, {
-        "word": "eurasia",
-        "pairs": [],
-        "questions": {
-            "351": "How many people live in Eurasia?"
-        },
-        "Sparql": {
-            "Sparql_351": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?population WHERE { res:Eurasia dbo:populationTotal ?population }"
-        }
-    }, {
-        "word": "euro",
-        "pairs": ["object=res:Euro"],
-        "questions": {
-            "102": "Which countries adopted the Euro?"
-        },
-        "Sparql": {
-            "Sparql_102": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Country> { ?uri <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> } UNION { ?uri <http://dbpedia.org/property/currencyCode> \"EUR\"@en } }"
-        }
-    }, {
-        "word": "eve",
-        "pairs": ["subject=res:Amazon_Eve"],
-        "questions": {
-            "392": "How tall is Amazon Eve?"
-        },
-        "Sparql": {
-            "Sparql_392": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?height WHERE { res:Amazon_Eve dbo:height ?height }"
-        }
-    }, {
-        "word": "everest",
-        "pairs": [],
-        "questions": {
-            "354": "What country is Mount Everest in?",
-            "384": "Who was the first to climb Mount Everest?"
-        },
-        "Sparql": {
-            "Sparql_354": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Mount_Everest dbo:locatedInArea ?uri . ?uri rdf:type dbo:Country }",
-            "Sparql_384": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Mount_Everest dbo:firstAscentPerson ?uri }"
-        }
-    }, {
-        "word": "everyone_who",
-        "pairs": ["subject=dbo:Person"],
-        "questions": {
-            "79": "Show me everyone who was born on Halloween."
-        },
-        "Sparql": {
-            "Sparql_79": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Person> { ?uri <http://dbpedia.org/ontology/birthDate> ?date } UNION { ?uri <http://dbpedia.org/property/birthDate> ?date } <http://dbpedia.org/resource/Halloween> <http://dbpedia.org/property/date> ?date }"
-        }
-    }, {
-        "word": "f.",
-        "pairs": [],
-        "questions": {
-            "264": "Who was the successor of John F. Kennedy?",
-            "270": "Who was John F. Kennedy's vice president?",
-            "399": "In which city did John F. Kennedy die?"
-        },
-        "Sparql": {
-            "Sparql_264": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:successor ?uri }",
-            "Sparql_270": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:vicePresident ?uri }",
-            "Sparql_399": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:deathPlace ?uri . ?uri rdf:type dbo:City }"
-        }
-    }, {
-        "word": "facebook",
-        "pairs": [],
-        "questions": {
-            "170": "Who is the owner of Facebook?"
-        },
-        "Sparql": {
-            "Sparql_170": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Facebook> <http://dbpedia.org/ontology/foundedBy> ?uri }"
-        }
-    }, {
-        "word": "falcons",
-        "pairs": [],
-        "questions": {
-            "31": "Who is the tallest player of the Atlanta Falcons?"
-        },
-        "Sparql": {
-            "Sparql_31": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Atlanta_Falcons> ; <http://dbpedia.org/ontology/height> ?h } ORDER BY DESC(?h) OFFSET 0 LIMIT 1"
-        }
-    }, {
-        "word": "family",
-        "pairs": [],
-        "questions": {
-            "365": "Who created Family Guy?"
-        },
-        "Sparql": {
-            "Sparql_365": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Family_Guy dbo:creator ?uri }"
-        }
-    }, {
-        "word": "farmers",
-        "pairs": [],
-        "questions": {
-            "401": "Who writes the Farmers' Almanac?"
-        },
-        "Sparql": {
-            "Sparql_401": "PREFIX dbp: <http://dbpedia.org/property/> SELECT ?uri WHERE { <http://dbpedia.org/resource/Farmers'_Almanac> dbp:editor ?uri }"
-        }
-    }, {
+    }, 
+    {
         "word": "father",
-        "pairs": ["predicate=dbo:child"],
+        "pairs": ["dbo:child"],
         "questions": {
             "180": "Is Darth Vader Luke’s father?"
         },
@@ -1186,160 +743,8 @@
             "Sparql_180": "ASK WHERE { <http://dbpedia.org/resource/Darth_Vader> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Luke_Skywalker> }"
         }
     }, {
-        "word": "fault",
-        "pairs": [],
-        "questions": {
-            "119": "What other books have been written by the author of The Fault in Our Stars?"
-        },
-        "Sparql": {
-            "Sparql_119": "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT ?books WHERE { ?books dbo:author <http://dbpedia.org/resource/John_Green_(author)> }"
-        }
-    }, {
-        "word": "fdny",
-        "pairs": [],
-        "questions": {
-            "111": "What is the total amount of men and women serving in the FDNY?"
-        },
-        "Sparql": {
-            "Sparql_111": "SELECT DISTINCT ?num WHERE { <http://dbpedia.org/resource/New_York_City_Fire_Department> <http://dbpedia.org/property/employees> ?num }"
-        }
-    }, {
-        "word": "fiction",
-        "pairs": [],
-        "questions": {
-            "342": "How much did Pulp Fiction cost?"
-        },
-        "Sparql": {
-            "Sparql_342": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?n WHERE { res:Pulp_Fiction dbo:budget ?n }"
-        }
-    }, {
-        "word": "fifa",
-        "pairs": [],
-        "questions": {
-            "105": "What was Brazil's lowest rank in the FIFA World Ranking?"
-        },
-        "Sparql": {
-            "Sparql_105": "SELECT DISTINCT ?n WHERE { <http://dbpedia.org/resource/Brazil_national_football_team> <http://dbpedia.org/property/fifaMin> ?n }"
-        }
-    }, {
-        "word": "films",
-        "pairs": ["subject=dbo:Film"],
-        "questions": {
-            "11": "Give me all Danish films.",
-            "50": "How many films did Hal Roach produce?",
-            "63": "In which films directed by Garry Marshall was Julia Roberts starring?",
-            "84": "Who produced the most films?",
-            "106": "How many films did Leonardo DiCaprio star in?",
-            "124": "Which films starring Clint Eastwood did he direct himself?",
-            "161": "Give me all films produced by Hal Roach.",
-            "182": "Give me all films produced by Steven Spielberg with a budget of at least $80 million.",
-            "184": "Who produced films starring Natalie Portman?",
-            "282": "Which films did Stanley Kubrick direct?",
-            "390": "In which films did Julia Roberts as well as Richard Gere play?",
-            "407": "Which of Tim Burton's films had the highest budget?"
-        },
-        "Sparql": {
-            "Sparql_11": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:country res:Denmark }",
-            "Sparql_50": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hal_Roach> }",
-            "Sparql_63": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Julia_Roberts> ; <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Garry_Marshall> }",
-            "Sparql_84": "SELECT DISTINCT ?uri WHERE { ?film <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> . ?film <http://dbpedia.org/ontology/producer> ?uri . } ORDER BY DESC(COUNT(?film)) OFFSET 0 LIMIT 1",
-            "Sparql_106": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Leonardo_DiCaprio> }",
-            "Sparql_124": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Clint_Eastwood> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Clint_Eastwood> }",
-            "Sparql_161": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hal_Roach> }",
-            "Sparql_182": "SELECT DISTINCT ?uri WHERE { ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> . ?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Steven_Spielberg> . ?uri <http://dbpedia.org/ontology/budget> ?b . FILTER( xsd:double(?b) >= 8.0E7 ) }",
-            "Sparql_184": "SELECT DISTINCT ?uri WHERE { ?film a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Natalie_Portman> ; <http://dbpedia.org/ontology/producer> ?uri }",
-            "Sparql_282": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:director res:Stanley_Kubrick }",
-            "Sparql_390": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Julia_Roberts ; dbo:starring res:Richard_Gere }",
-            "Sparql_407": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:director res:Tim_Burton ; dbo:budget ?b } ORDER BY ?b OFFSET 0 LIMIT 1"
-        }
-    }, {
-        "word": "finance",
-        "pairs": [],
-        "questions": {
-            "202": "Who is the current federal minister of finance in Germany?"
-        },
-        "Sparql": {
-            "Sparql_202": "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT ?leader WHERE { <http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)> dbo:leader ?leader }"
-        }
-    }, {
-        "word": "floors",
-        "pairs": [],
-        "questions": {
-            "340": "Which building after the Burj Khalifa has the most floors?"
-        },
-        "Sparql": {
-            "Sparql_340": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Burj_Khalifa dbo:floorCount ?burj . ?uri rdf:type dbo:Building ; dbo:floorCount ?proj FILTER ( ?proj < ?burj ) } ORDER BY DESC(?proj) LIMIT 1"
-        }
-    }, {
-        "word": "florida",
-        "pairs": [],
-        "questions": {
-            "353": "What is the total population of Melbourne, Florida?"
-        },
-        "Sparql": {
-            "Sparql_353": "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT ?uri WHERE { <http://dbpedia.org/resource/Melbourne,_Florida> dbo:populationTotal ?uri }"
-        }
-    }, {
-        "word": "flow",
-        "pairs": [],
-        "questions": {
-            "246": "Which cities does the Weser flow through?",
-            "268": "Does the Isar flow into a lake?"
-        },
-        "Sparql": {
-            "Sparql_246": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Weser dbo:city ?uri }",
-            "Sparql_268": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ASK WHERE { ?x dbo:inflow res:Isar ; rdf:type dbo:Lake }"
-        }
-    }, {
-        "word": "floyd",
-        "pairs": [],
-        "questions": {
-            "299": "Who are the writers of the Wall album of Pink Floyd?"
-        },
-        "Sparql": {
-            "Sparql_299": "PREFIX dbr: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT ?writers WHERE { dbr:The_Wall dbp:writer ?writers }"
-        }
-    }, {
-        "word": "fonda",
-        "pairs": [],
-        "questions": {
-            "244": "How often did Jane Fonda marry?"
-        },
-        "Sparql": {
-            "Sparql_244": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { res:Jane_Fonda dbo:spouse ?uri }"
-        }
-    }, {
-        "word": "football",
-        "pairs": [],
-        "questions": {
-            "281": "When will start the final match of the football world cup 2018?"
-        },
-        "Sparql": {
-            "Sparql_281": "PREFIX dbr: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT ?Date WHERE { dbr:2018_FIFA_World_Cup dbp:date ?Date } ORDER BY DESC(?Date) LIMIT 1"
-        }
-    }, {
-        "word": "forbes",
-        "pairs": [],
-        "questions": {
-            "220": "Who is the editor of Forbes?"
-        },
-        "Sparql": {
-            "Sparql_220": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Forbes dbo:editor ?uri }"
-        }
-    }, {
-        "word": "ford",
-        "pairs": [],
-        "questions": {
-            "213": "Give me all movies directed by Francis Ford Coppola.",
-            "360": "Does the Ford Motor Company have a manufacturing plant in Malaysia?"
-        },
-        "Sparql": {
-            "Sparql_213": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:director res:Francis_Ford_Coppola }",
-            "Sparql_360": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> ASK WHERE { ?uri dbo:assembly dbr:Malaysia ; dbo:manufacturer dbr:Ford_Motor_Company }"
-        }
-    }, {
-        "word": "form",
-        "pairs": [],
+        "word": "form_of",
+        "pairs": ["dbo:governmentType"],
         "questions": {
             "303": "What form of government is found in South Africa?",
             "382": "What form of government does Russia have?"
@@ -1350,7 +755,7 @@
         }
     }, {
         "word": "formula",
-        "pairs": [],
+        "pairs": ["dbo:FormulaOneRacer"],
         "questions": {
             "311": "Who is the Formula 1 race driver with the most races?"
         },
@@ -1358,26 +763,8 @@
             "Sparql_311": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:FormulaOneRacer ; dbo:races ?x } ORDER BY DESC(?x) OFFSET 0 LIMIT 1"
         }
     }, {
-        "word": "fort",
-        "pairs": [],
-        "questions": {
-            "172": "In which U.S. state is Fort Knox located?"
-        },
-        "Sparql": {
-            "Sparql_172": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?uri WHERE { res:Fort_Knox dbo:location ?uri . ?uri dbo:country res:United_States }"
-        }
-    }, {
-        "word": "foundation",
-        "pairs": [],
-        "questions": {
-            "347": "Show me all books in Asimov's Foundation series."
-        },
-        "Sparql": {
-            "Sparql_347": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:series res:Foundation_series }"
-        }
-    }, {
-        "word": "founder",
-        "pairs": [],
+        "word": "founder_of",
+        "pairs": ["dbo:founder"],
         "questions": {
             "396": "Who is the founder of Penguin Books?"
         },
@@ -1385,8 +772,8 @@
             "Sparql_396": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Penguin_Books dbo:founder ?uri }"
         }
     }, {
-        "word": "founding",
-        "pairs": [],
+        "word": "founding_date",
+        "pairs": ["dbo:foundingDate"],
         "questions": {
             "218": "when was the founding date of french fifth republic?"
         },
@@ -1394,132 +781,8 @@
             "Sparql_218": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?ff WHERE { dbr:French_Fifth_Republic dbo:foundingDate ?ff }"
         }
     }, {
-        "word": "franc",
-        "pairs": [],
-        "questions": {
-            "147": "In which countries can you pay using the West African CFA franc?"
-        },
-        "Sparql": {
-            "Sparql_147": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/West_African_CFA_franc> }"
-        }
-    }, {
-        "word": "france",
-        "pairs": [],
-        "questions": {
-            "387": "Where in France is sparkling wine produced?"
-        },
-        "Sparql": {
-            "Sparql_387": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:wineProduced res:Sparkling_wine ; dbo:location res:France }"
-        }
-    }, {
-        "word": "francis",
-        "pairs": [],
-        "questions": {
-            "213": "Give me all movies directed by Francis Ford Coppola."
-        },
-        "Sparql": {
-            "Sparql_213": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:director res:Francis_Ford_Coppola }"
-        }
-    }, {
-        "word": "frank",
-        "pairs": [],
-        "questions": {
-            "235": "Is Frank Herbert still alive?",
-            "313": "Give me the birth place of Frank Sinatra."
-        },
-        "Sparql": {
-            "Sparql_235": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { OPTIONAL { res:Frank_Herbert dbo:deathDate ?date } FILTER ( ! bound(?date) ) }",
-            "Sparql_313": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?place WHERE { res:Frank_Sinatra dbo:birthPlace ?place }"
-        }
-    }, {
-        "word": "franklin",
-        "pairs": [],
-        "questions": {
-            "117": "Which ships were called after Benjamin Franklin?",
-            "362": "How many children did Benjamin Franklin have?"
-        },
-        "Sparql": {
-            "Sparql_117": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/property/shipNamesake> <http://dbpedia.org/resource/Benjamin_Franklin> }",
-            "Sparql_362": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { res:Benjamin_Franklin dbo:child ?uri }"
-        }
-    }, {
-        "word": "freud",
-        "pairs": [],
-        "questions": {
-            "211": "Was Sigmund Freud married?"
-        },
-        "Sparql": {
-            "Sparql_211": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> ASK WHERE { dbr:Sigmund_Freud dbo:spouse ?uri }"
-        }
-    }, {
-        "word": "friends",
-        "pairs": [],
-        "questions": {
-            "226": "When was the last episode of the TV series Friends aired?"
-        },
-        "Sparql": {
-            "Sparql_226": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?date WHERE { dbr:Friends dbo:completionDate ?date }"
-        }
-    }, {
-        "word": "fring",
-        "pairs": [],
-        "questions": {
-            "204": "Who played Gus Fring in Breaking Bad?"
-        },
-        "Sparql": {
-            "Sparql_204": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Gus_Fring dbo:portrayer ?uri }"
-        }
-    }, {
-        "word": "frogs",
-        "pairs": [],
-        "questions": {
-            "214": "Are tree frogs a type of amphibian?"
-        },
-        "Sparql": {
-            "Sparql_214": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Hylidae dbo:class res:Amphibian }"
-        }
-    }, {
-        "word": "galactica",
-        "pairs": [],
-        "questions": {
-            "160": "Does the new Battlestar Galactica series have more episodes than the old one?"
-        },
-        "Sparql": {
-            "Sparql_160": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { <http://dbpedia.org/resource/Battlestar_Galactica_%281978_TV_series%29> dbo:numberOfEpisodes ?x . <http://dbpedia.org/resource/Battlestar_Galactica_%282004_TV_series%29> dbo:numberOfEpisodes ?y FILTER ( ?y > ?x ) }"
-        }
-    }, {
-        "word": "game_world,game_of,game_call",
-        "pairs": ["subject=res:World_of_Warcraft", "subject=res:Game_of_Thrones", "object=dbo:VideoGame"],
-        "questions": {
-            "232": "Who developed the video game World of Warcraft?",
-            "338": "Does Breaking Bad have more episodes than Game of Thrones?",
-            "358": "Is there a video game called Battle Chess?",
-            "397": "Who wrote the Game of Thrones theme?"
-        },
-        "Sparql": {
-            "Sparql_232": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:World_of_Warcraft dbo:developer ?uri }",
-            "Sparql_338": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Breaking_Bad dbo:numberOfEpisodes ?x . res:Game_of_Thrones dbo:numberOfEpisodes ?y FILTER ( ?y > ?x ) }",
-            "Sparql_358": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ASK WHERE { ?uri rdf:type dbo:VideoGame ; rdfs:label \"Battle Chess\"@en }",
-            "Sparql_397": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Game_of_Thrones dbo:composer ?uri }"
-        }
-    }, {
-        "word": "game_according,game,game_by,game_publish",
-        "pairs": ["subject=res:Category:Action_role-playing_video_games", "subject=res:The_Hunger_Games", "object=res:GMT_Games", "predicate=dbo:publisher"],
-        "questions": {
-            "32": "What are the top-10 action role-playing video games according to IGN?",
-            "129": "Who wrote The Hunger Games?",
-            "290": "List all games by GMT.",
-            "295": "Give me all video games published by Mean Hamster Software."
-        },
-        "Sparql": {
-            "Sparql_32": "SELECT DISTINCT ?uri WHERE { ?uri <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Action_role-playing_video_games> ; <http://dbpedia.org/property/ign> ?score } ORDER BY DESC(?score) LIMIT 10",
-            "Sparql_129": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Hunger_Games> <http://dbpedia.org/property/author> ?uri }",
-            "Sparql_290": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:publisher res:GMT_Games }",
-            "Sparql_295": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:VideoGame ; dbo:publisher res:Mean_Hamster_Software }"
-        }
-    }, {
         "word": "gange_start",
-        "pairs": ["predicate=dbo:sourceCountry"],
+        "pairs": ["dbo:sourceCountry"],
         "questions": {
             "395": "In which country does the Ganges start?"
         },
@@ -1527,94 +790,8 @@
             "Sparql_395": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Ganges dbo:sourceCountry ?uri }"
         }
     }, {
-        "word": "garry",
-        "pairs": [],
-        "questions": {
-            "63": "In which films directed by Garry Marshall was Julia Roberts starring?"
-        },
-        "Sparql": {
-            "Sparql_63": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Julia_Roberts> ; <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Garry_Marshall> }"
-        }
-    }, {
-        "word": "gere",
-        "pairs": [],
-        "questions": {
-            "390": "In which films did Julia Roberts as well as Richard Gere play?"
-        },
-        "Sparql": {
-            "Sparql_390": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Julia_Roberts ; dbo:starring res:Richard_Gere }"
-        }
-    }, {
-        "word": "germany",
-        "pairs": [],
-        "questions": {
-            "78": "Give me all federal chancellors of Germany.",
-            "82": "Which actors were born in Germany?",
-            "154": "What is the smallest city by area in Germany?",
-            "194": "What is the alma mater of the chancellor of Germany Angela Merkel?",
-            "201": "What is the highest mountain in Saxony Germany?",
-            "202": "Who is the current federal minister of finance in Germany?",
-            "288": "how much is the population densty rank of germany?"
-        },
-        "Sparql": {
-            "Sparql_78": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Person> { ?uri <http://dbpedia.org/ontology/office> \"Chancellor of Germany\" } UNION { ?uri <http://dbpedia.org/property/office> <http://dbpedia.org/resource/Chancellor_of_Germany> } }",
-            "Sparql_82": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Actor> { ?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Germany> } UNION { ?uri <http://dbpedia.org/ontology/birthPlace> ?place . ?place <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> } }",
-            "Sparql_154": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX skos: <http://www.w3.org/2004/02/skos/core#> PREFIX dbc: <http://dbpedia.org/resource/Category:> PREFIX dct: <http://purl.org/dc/terms/> SELECT ?city WHERE { ?m skos:broader dbc:Cities_in_Germany . ?city dct:subject ?m ; dbo:areaTotal ?area } ORDER BY ?area LIMIT 1",
-            "Sparql_194": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Almamater WHERE { dbr:Angela_Merkel dbo:almaMater ?Almamater }",
-            "Sparql_201": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?m WHERE { ?m dbo:mountainRange dbr:Ore_Mountains ; dbo:elevation ?height } ORDER BY DESC(?height) LIMIT 1",
-            "Sparql_202": "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT ?leader WHERE { <http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)> dbo:leader ?leader }",
-            "Sparql_288": "PREFIX dbr: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT ?rank WHERE { dbr:Germany dbp:populationDensityRank ?rank }"
-        }
-    }, {
-        "word": "gimp",
-        "pairs": [],
-        "questions": {
-            "247": "In which programming language is GIMP written?"
-        },
-        "Sparql": {
-            "Sparql_247": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:GIMP dbo:programmingLanguage ?uri }"
-        }
-    }, {
-        "word": "giza",
-        "pairs": [],
-        "questions": {
-            "359": "Who was buried in the Great Pyramid of Giza?"
-        },
-        "Sparql": {
-            "Sparql_359": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?uri WHERE { ?uri dbo:restingPlace dbr:Great_Pyramid_of_Giza }"
-        }
-    }, {
-        "word": "gmt",
-        "pairs": ["object=res:GMT_Games "],
-        "questions": {
-            "1": "List all boardgames by GMT.",
-            "290": "List all games by GMT."
-        },
-        "Sparql": {
-            "Sparql_1": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> SELECT ?uri WHERE { ?uri dbo:publisher res:GMT_Games }",
-            "Sparql_290": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:publisher res:GMT_Games }"
-        }
-    }, {
-        "word": "goethe",
-        "pairs": [],
-        "questions": {
-            "197": "Where is the birthplace of Goethe?"
-        },
-        "Sparql": {
-            "Sparql_197": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Goethe WHERE { dbr:Johann_Wolfgang_von_Goethe dbo:birthPlace ?Goethe }"
-        }
-    }, {
-        "word": "gogh",
-        "pairs": [],
-        "questions": {
-            "339": "Who was Vincent van Gogh inspired by?"
-        },
-        "Sparql": {
-            "Sparql_339": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:influenced res:Vincent_van_Gogh }"
-        }
-    }, {
         "word": "gold_mieral",
-        "pairs": ["predicate=dbp:mineral"],
+        "pairs": ["dbp:mineral"],
         "questions": {
             "26": "Which U.S. states possess gold minerals?"
         },
@@ -1622,44 +799,8 @@
             "Sparql_26": "PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type yago:WikicatStatesOfTheUnitedStates ; dbp:mineral ?mineral FILTER regex(?mineral, \"gold\", \"i\") }"
         }
     }, {
-        "word": "goldman",
-        "pairs": [],
-        "questions": {
-            "371": "Give me all books by William Goldman with more than 300 pages."
-        },
-        "Sparql": {
-            "Sparql_371": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Book ; dbo:author res:William_Goldman ; dbo:numberOfPages ?x FILTER ( ?x > 300 ) }"
-        }
-    }, {
-        "word": "goldmine",
-        "pairs": [],
-        "questions": {
-            "314": "Is Christian Bale starring in Velvet Goldmine?"
-        },
-        "Sparql": {
-            "Sparql_314": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Velvet_Goldmine dbo:starring res:Christian_Bale }"
-        }
-    }, {
-        "word": "goofy",
-        "pairs": ["subject=res:Goofy"],
-        "questions": {
-            "87": "Who created Goofy?"
-        },
-        "Sparql": {
-            "Sparql_87": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Goofy> <http://dbpedia.org/ontology/creator> ?uri }"
-        }
-    }, {
-        "word": "google",
-        "pairs": ["subject=res:Google"],
-        "questions": {
-            "85": "How many employees does Google have?"
-        },
-        "Sparql": {
-            "Sparql_85": "SELECT DISTINCT ?num WHERE { <http://dbpedia.org/resource/Google> <http://dbpedia.org/ontology/numberOfEmployees> ?num }"
-        }
-    }, {
-        "word": "government_find,government",
-        "pairs": ["predicate=dbo:governmentType"],
+        "word": "government",
+        "pairs": ["dbo:governmentType"],
         "questions": {
             "303": "What form of government is found in South Africa?",
             "382": "What form of government does Russia have?"
@@ -1670,7 +811,7 @@
         }
     }, {
         "word": "governor_of",
-        "pairs": ["predicate=dbp:governor"],
+        "pairs": ["dbp:governor"],
         "questions": {
             "66": "Who is the governor of Wyoming?"
         },
@@ -1678,17 +819,8 @@
             "Sparql_66": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Wyoming> <http://dbpedia.org/property/governor> ?uri }"
         }
     }, {
-        "word": "grand",
-        "pairs": [],
-        "questions": {
-            "309": "Did Kaurismäki ever win the Grand Prix at Cannes?"
-        },
-        "Sparql": {
-            "Sparql_309": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Aki_Kaurismäki dbo:award <http://dbpedia.org/resource/Grand_Prix_(Cannes_Film_Festival)> }"
-        }
-    }, {
         "word": "grandchildren_of",
-        "pairs": ["predicate=dbo:child"],
+        "pairs": ["dbo:child"],
         "questions": {
             "13": "Give me the grandchildren of Bruce Lee.",
             "367": "Give me the grandchildren of Elvis Presley."
@@ -1698,28 +830,8 @@
             "Sparql_367": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Elvis_Presley dbo:child ?child . ?child dbo:child ?uri }"
         }
     }, {
-        "word": "grape_grow",
-        "pairs": ["subject=res:Oregon_wine dbo:growingGrape"],
-        "questions": {
-            "323": "Which types of grapes grow in Oregon?"
-        },
-        "Sparql": {
-            "Sparql_323": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Oregon_wine dbo:growingGrape ?uri }"
-        }
-    }, {
-        "word": "great_bear, great_pyramid",
-        "pairs": ["subject=res:Great_Bear_Lake", "object=dbr:Great_Pyramid_of_Giza"],
-        "questions": {
-            "346": "Is Lake Baikal bigger than the Great Bear Lake?",
-            "359": "Who was buried in the Great Pyramid of Giza?"
-        },
-        "Sparql": {
-            "Sparql_346": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Lake_Baikal dbo:areaTotal ?a1 . res:Great_Bear_Lake dbo:areaTotal ?a2 FILTER ( ?a1 > ?a2 ) }",
-            "Sparql_359": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?uri WHERE { ?uri dbo:restingPlace dbr:Great_Pyramid_of_Giza }"
-        }
-    }, {
         "word": "group_live",
-        "pairs": ["predicate=dbo:ethnicGroup"],
+        "pairs": ["dbo:ethnicGroup"],
         "questions": {
             "316": "How many ethnic groups live in Slovenia?"
         },
@@ -1727,234 +839,8 @@
             "Sparql_316": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { res:Slovenia dbo:ethnicGroup ?uri }"
         }
     }, {
-        "word": "grunge_record",
-        "pairs": ["subject=res:Grunge"],
-        "questions": {
-            "394": "Give me all Canadian Grunge record labels."
-        },
-        "Sparql": {
-            "Sparql_394": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:RecordLabel ; dbo:genre res:Grunge ; dbo:country res:Canada }"
-        }
-    }, {
-        "word": "guevara",
-        "pairs": [],
-        "questions": {
-            "308": "Did Che Guevara have children?"
-        },
-        "Sparql": {
-            "Sparql_308": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Che_Guevara dbo:child ?uri }"
-        }
-    }, {
-        "word": "guinness",
-        "pairs": [],
-        "questions": {
-            "411": "What was the last movie with Alec Guinness?"
-        },
-        "Sparql": {
-            "Sparql_411": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Alec_Guinness ; dbo:releaseDate ?date } ORDER BY DESC(?date) LIMIT 1"
-        }
-    }, {
-        "word": "gus",
-        "pairs": [],
-        "questions": {
-            "204": "Who played Gus Fring in Breaking Bad?"
-        },
-        "Sparql": {
-            "Sparql_204": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Gus_Fring dbo:portrayer ?uri }"
-        }
-    }, {
-        "word": "guy",
-        "pairs": [],
-        "questions": {
-            "12": "Which movies starring Brad Pitt were directed by Guy Ritchie?",
-            "365": "Who created Family Guy?",
-            "389": "Which movies starring Mickey Rourke were directed by Guy Ritchie?"
-        },
-        "Sparql": {
-            "Sparql_12": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Brad_Pitt ; dbo:director res:Guy_Ritchie }",
-            "Sparql_365": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Family_Guy dbo:creator ?uri }",
-            "Sparql_389": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Mickey_Rourke ; dbo:director res:Guy_Ritchie }"
-        }
-    }, {
-        "word": "hal",
-        "pairs": [],
-        "questions": {
-            "50": "How many films did Hal Roach produce?",
-            "161": "Give me all films produced by Hal Roach."
-        },
-        "Sparql": {
-            "Sparql_50": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hal_Roach> }",
-            "Sparql_161": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hal_Roach> }"
-        }
-    }, {
-        "word": "halloween",
-        "pairs": ["subject=res:Halloween"],
-        "questions": {
-            "79": "Show me everyone who was born on Halloween."
-        },
-        "Sparql": {
-            "Sparql_79": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Person> { ?uri <http://dbpedia.org/ontology/birthDate> ?date } UNION { ?uri <http://dbpedia.org/property/birthDate> ?date } <http://dbpedia.org/resource/Halloween> <http://dbpedia.org/property/date> ?date }"
-        }
-    }, {
-        "word": "hamster_software",
-        "pairs": [],
-        "questions": {
-            "295": "Give me all video games published by Mean Hamster Software."
-        },
-        "Sparql": {
-            "Sparql_295": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:VideoGame ; dbo:publisher res:Mean_Hamster_Software }"
-        }
-    }, {
-        "word": "hanks",
-        "pairs": [],
-        "questions": {
-            "405": "Is Rita Wilson the wife of Tom Hanks?"
-        },
-        "Sparql": {
-            "Sparql_405": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Tom_Hanks dbo:spouse res:Rita_Wilson }"
-        }
-    }, {
-        "word": "harold",
-        "pairs": [],
-        "questions": {
-            "330": "Who composed the music for Harold and Maude?"
-        },
-        "Sparql": {
-            "Sparql_330": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Harold_and_Maude dbo:musicComposer ?uri }"
-        }
-    }, {
-        "word": "harris",
-        "pairs": [],
-        "questions": {
-            "91": "Give me all the TV shows with Neil Patrick Harris."
-        },
-        "Sparql": {
-            "Sparql_91": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/TelevisionShow> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Neil_Patrick_Harris> }"
-        }
-    }, {
-        "word": "harry",
-        "pairs": [],
-        "questions": {
-            "336": "Do Prince Harry and Prince William have the same parents?"
-        },
-        "Sparql": {
-            "Sparql_336": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { <http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge> dbo:parent ?x . res:Prince_Harry dbo:parent ?x }"
-        }
-    }, {
-        "word": "hbo",
-        "pairs": [],
-        "questions": {
-            "158": "List all episodes of the first season of the HBO television series The Sopranos!",
-            "331": "List all episodes of the first season of the HBO television series The Sopranos."
-        },
-        "Sparql": {
-            "Sparql_158": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:series res:The_Sopranos ; dbo:seasonNumber 1 }",
-            "Sparql_331": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:series res:The_Sopranos ; dbo:seasonNumber 1 }"
-        }
-    }, {
-        "word": "headquarter_of",
-        "pairs": ["subject=res:Secret_Intelligence_Service", "subject=res:Headquarters_of_the_United_Nations"],
-        "questions": {
-            "364": "In which UK city are the headquarters of the MI6?",
-            "404": "In which city are the headquarters of the United Nations?"
-        },
-        "Sparql": {
-            "Sparql_364": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Secret_Intelligence_Service dbo:headquarter ?uri . ?uri dbo:country res:United_Kingdom }",
-            "Sparql_404": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Headquarters_of_the_United_Nations dbo:location ?uri . ?uri rdf:type dbo:City }"
-        }
-    }, {
-        "word": "health_care",
-        "pairs": ["subject=res:UNC_Health_Care"],
-        "questions": {
-            "176": "What are the specialities of the UNC Health Care?"
-        },
-        "Sparql": {
-            "Sparql_176": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/UNC_Health_Care> <http://dbpedia.org/property/speciality> ?uri }"
-        }
-    }, {
-        "word": "heckler",
-        "pairs": [],
-        "questions": {
-            "153": "Which weapons did Heckler & Koch develop?"
-        },
-        "Sparql": {
-            "Sparql_153": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Weapon> ; <http://dbpedia.org/property/designer> <http://dbpedia.org/resource/Heckler_&_Koch> }"
-        }
-    }, {
-        "word": "heineken",
-        "pairs": [],
-        "questions": {
-            "273": "In what city is the Heineken brewery?"
-        },
-        "Sparql": {
-            "Sparql_273": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Heineken dbo:manufacturer ?x . ?x dbo:locationCity ?uri }"
-        }
-    }, {
-        "word": "hells",
-        "pairs": [],
-        "questions": {
-            "92": "When were the Hells Angels founded?"
-        },
-        "Sparql": {
-            "Sparql_92": "SELECT DISTINCT ?date WHERE { <http://dbpedia.org/resource/Hells_Angels> <http://dbpedia.org/property/founded> ?date }"
-        }
-    }, {
-        "word": "hemingway",
-        "pairs": [],
-        "questions": {
-            "391": "Show me Hemingway's autobiography."
-        },
-        "Sparql": {
-            "Sparql_391": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:author res:Ernest_Hemingway ; dbo:literaryGenre res:Autobiography }"
-        }
-    }, {
-        "word": "heraklion",
-        "pairs": [],
-        "questions": {
-            "3": "Which people were born in Heraklion?"
-        },
-        "Sparql": {
-            "Sparql_3": "PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX onto: <http://dbpedia.org/ontology/> SELECT DISTINCT ?uri WHERE { ?uri rdf:type onto:Person ; onto:birthPlace <http://dbpedia.org/resource/Heraklion>. }"
-        }
-    }, {
-        "word": "herbert",
-        "pairs": [],
-        "questions": {
-            "235": "Is Frank Herbert still alive?"
-        },
-        "Sparql": {
-            "Sparql_235": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { OPTIONAL { res:Frank_Herbert dbo:deathDate ?date } FILTER ( ! bound(?date) ) }"
-        }
-    }, {
-        "word": "heritage_site",
-        "pairs": ["object=dbo:WorldHeritageSite"],
-        "questions": {
-            "68": "Give me all world heritage sites designated within the past two years."
-        },
-        "Sparql": {
-            "Sparql_68": "SELECT DISTINCT ?uri WHERE { ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WorldHeritageSite> . { ?uri <http://dbpedia.org/property/year> '2013'^^xsd:integer . } UNION { ?uri <http://dbpedia.org/property/year> '2014'^^xsd:integer . } }"
-        }
-    }, {
-        "word": "hero",
-        "pairs": ["subject=res:Last_Action_Hero"],
-        "questions": {
-            "412": "Give me all actors starring in Last Action Hero."
-        },
-        "Sparql": {
-            "Sparql_412": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Last_Action_Hero dbo:starring ?uri }"
-        }
-    }, {
-        "word": "hillel",
-        "pairs": [],
-        "questions": {
-            "38": "Where did Hillel Slovak die?"
-        },
-        "Sparql": {
-            "Sparql_38": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/deathPlace> ?uri }"
-        }
-    }, {
         "word": "himalaya_run",
-        "pairs": ["predicate=dbo:country"],
+        "pairs": ["dbo:country"],
         "questions": {
             "55": "Give me the capitals of all countries that the Himalayas run through."
         },
@@ -1962,48 +848,8 @@
             "Sparql_55": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Himalayas> <http://dbpedia.org/ontology/country> ?country . ?country <http://dbpedia.org/ontology/capital> ?uri }"
         }
     }, {
-        "word": "hockey_team",
-        "pairs": ["object=res:Turkish_Ice_Hockey_First_League"],
-        "questions": {
-            "208": "Who is the coach of Ankara's ice hockey team?"
-        },
-        "Sparql": {
-            "Sparql_208": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?x dbo:city res:Ankara ; dbo:league res:Turkish_Ice_Hockey_First_League ; dbo:coach ?uri }"
-        }
-    }, {
-        "word": "hofstadter",
-        "pairs": [],
-        "questions": {
-            "221": "Which awards did Douglas Hofstadter win?"
-        },
-        "Sparql": {
-            "Sparql_221": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Douglas_Hofstadter dbo:award ?uri }"
-        }
-    }, {
-        "word": "holiday, holiday_celebrate",
-        "pairs": ["subject=res:Holiday", "object=dbo:Holiday"],
-        "questions": {
-            "94": "Give me all Swedish holidays.",
-            "148": "Which holidays are celebrated around the world?",
-            "305": "Which holidays are celebrated around the world? test2"
-        },
-        "Sparql": {
-            "Sparql_94": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Holiday> ; <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Sweden> }",
-            "Sparql_148": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Holiday }",
-            "Sparql_305": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Holiday }"
-        }
-    }, {
-        "word": "horse_racing",
-        "pairs": ["subject=dbr:Horse_racing"],
-        "questions": {
-            "223": "Is horse racing a sport?"
-        },
-        "Sparql": {
-            "Sparql_223": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ASK WHERE { dbr:Horse_racing rdf:type dbo:Sport }"
-        }
-    }, {
         "word": "host_of",
-        "pairs": ["predicate=dbo:presenter"],
+        "pairs": ["dbo:presenter"],
         "questions": {
             "352": "Who is the host of the BBC Wildlife Specials?"
         },
@@ -2011,134 +857,8 @@
             "Sparql_352": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:BBC_Wildlife_Specials dbo:presenter ?uri }"
         }
     }, {
-        "word": "hotel_california",
-        "pairs": ["subject=res:Hotel_California "],
-        "questions": {
-            "379": "Who wrote the song Hotel California?"
-        },
-        "Sparql": {
-            "Sparql_379": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Hotel_California dbo:writer ?uri }"
-        }
-    }, {
-        "word": "house_of",
-        "pairs": ["subject=res:Palace_of_Westminster"],
-        "questions": {
-            "215": "What is the location of the Houses of Parliament?"
-        },
-        "Sparql": {
-            "Sparql_215": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT ?uri WHERE { res:Palace_of_Westminster dbo:location ?uri }"
-        }
-    }, {
-        "word": "hovercrafts",
-        "pairs": ["object=res:Hovercraft"],
-        "questions": {
-            "253": "Which companies produce hovercrafts?"
-        },
-        "Sparql": {
-            "Sparql_253": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Company ; dbo:product res:Hovercraft }"
-        }
-    }, {
-        "word": "hunger",
-        "pairs": [],
-        "questions": {
-            "129": "Who wrote The Hunger Games?"
-        },
-        "Sparql": {
-            "Sparql_129": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Hunger_Games> <http://dbpedia.org/property/author> ?uri }"
-        }
-    }, {
-        "word": "ibm_have",
-        "pairs": ["object=dbo:numberOfEmployees"],
-        "questions": {
-            "157": "How many employees does IBM have?"
-        },
-        "Sparql": {
-            "Sparql_157": "SELECT DISTINCT ?number WHERE { <http://dbpedia.org/resource/IBM> <http://dbpedia.org/ontology/numberOfEmployees> ?number }"
-        }
-    }, {
-        "word": "ice_hockey",
-        "pairs": ["object=res:Turkish_Ice_Hockey_First_League"],
-        "questions": {
-            "208": "Who is the coach of Ankara's ice hockey team?"
-        },
-        "Sparql": {
-            "Sparql_208": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?x dbo:city res:Ankara ; dbo:league res:Turkish_Ice_Hockey_First_League ; dbo:coach ?uri }"
-        }
-    }, {
-        "word": "icro",
-        "pairs": [],
-        "questions": {
-            "159": "What does ICRO stand for?"
-        },
-        "Sparql": {
-            "Sparql_159": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/abbreviation> \"ICRO\" }"
-        }
-    }, {
-        "word": "ign",
-        "pairs": [],
-        "questions": {
-            "32": "What are the top-10 action role-playing video games according to IGN?"
-        },
-        "Sparql": {
-            "Sparql_32": "SELECT DISTINCT ?uri WHERE { ?uri <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Action_role-playing_video_games> ; <http://dbpedia.org/property/ign> ?score } ORDER BY DESC(?score) LIMIT 10"
-        }
-    }, {
-        "word": "ii",
-        "pairs": ["subject=res:Pope_John_Paul_II>"],
-        "questions": {
-            "72": "Which pope succeeded John Paul II?"
-        },
-        "Sparql": {
-            "Sparql_72": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Pope_John_Paul_II> <http://dbpedia.org/property/successor> ?uri }"
-        }
-    }, {
-        "word": "illinois",
-        "pairs": [],
-        "questions": {
-            "36": "Which states border Illinois?"
-        },
-        "Sparql": {
-            "Sparql_36": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Illinois> <http://dbpedia.org/property/borderingstates> ?uri }"
-        }
-    }, {
-        "word": "income_of",
-        "pairs": ["predicate=dbo:netIncome"],
-        "questions": {
-            "93": "What is the net income of Apple?"
-        },
-        "Sparql": {
-            "Sparql_93": "SELECT DISTINCT ?ni WHERE { <http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/netIncome> ?ni }"
-        }
-    }, {
-        "word": "industry",
-        "pairs": ["subject=dbo:industry>"],
-        "questions": {
-            "97": "Give me all companies in the advertising industry."
-        },
-        "Sparql": {
-            "Sparql_97": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri a <http://dbpedia.org/ontology/Company> { ?uri <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Advertising> } UNION { ?uri <http://dbpedia.org/ontology/industry> ?industry FILTER regex(?industry, \"advertising\", \"i\") } }"
-        }
-    }, {
-        "word": "ingredients",
-        "pairs": ["predicate=dbo:ingredient"],
-        "questions": {
-            "199": "Which ingredients do I need for carrot cake?"
-        },
-        "Sparql": {
-            "Sparql_199": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Carrot_cake dbo:ingredient ?uri }"
-        }
-    }, {
-        "word": "ingrid",
-        "pairs": [],
-        "questions": {
-            "27": "Who is the daughter of Ingrid Bergman married to?"
-        },
-        "Sparql": {
-            "Sparql_27": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Ingrid_Bergman dbo:child ?child . ?child <http://dbpedia.org/property/spouse> ?uri }"
-        }
-    }, {
         "word": "inhabitant",
-        "pairs": ["predicate=dbo:populationTotal"],
+        "pairs": ["dbo:populationTotal"],
         "questions": {
             "60": "How many inhabitants does Maribor have?",
             "173": "Give me all cities in New Jersey with more than 100000 inhabitants.",
@@ -2155,7 +875,7 @@
         }
     }, {
         "word": "instruments",
-        "pairs": ["predicate=dbo:instrument"],
+        "pairs": ["dbo:instrument"],
         "questions": {
             "126": "Which instruments does Cat Stevens play?"
         },
@@ -2163,172 +883,17 @@
             "Sparql_126": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Cat_Stevens> <http://dbpedia.org/ontology/instrument> ?uri }"
         }
     }, {
-        "word": "interpretation_of",
-        "pairs": ["subject=dbo:instrument"],
-        "questions": {
-            "238": "Who is the author of the interpretation of dreams?"
-        },
-        "Sparql": {
-            "Sparql_238": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Author WHERE { dbr:The_Interpretation_of_Dreams dbo:author ?Author }"
-        }
-    }, {
-        "word": "invasion",
-        "pairs": ["subject=res:Bay_of_Pigs_Invasion"],
-        "questions": {
-            "198": "Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?"
-        },
-        "Sparql": {
-            "Sparql_198": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Cuban_Missile_Crisis dbo:date ?x . res:Bay_of_Pigs_Invasion dbo:date ?y FILTER ( ?x < ?y ) }"
-        }
-    }, {
-        "word": "iran",
-        "pairs": [],
-        "questions": {
-            "262": "With how many countries Iran has borders?"
-        },
-        "Sparql": {
-            "Sparql_262": "PREFIX dbr: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT ?border WHERE { dbr:Geography_of_Iran dbp:borders ?border } LIMIT 8"
-        }
-    }, {
-        "word": "iraq",
-        "pairs": [],
-        "questions": {
-            "283": "how much is the population  Iraq?"
-        },
-        "Sparql": {
-            "Sparql_283": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?pIraq WHERE { dbr:Iraq dbo:populationTotal ?pIraq }"
-        }
-    }, {
-        "word": "ireland",
-        "pairs": [],
-        "questions": {
-            "80": "Which beer originated in Ireland?"
-        },
-        "Sparql": {
-            "Sparql_80": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Beer> ; <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/Beer_in_Ireland> }"
-        }
-    }, {
-        "word": "isar",
-        "pairs": [],
-        "questions": {
-            "268": "Does the Isar flow into a lake?"
-        },
-        "Sparql": {
-            "Sparql_268": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ASK WHERE { ?x dbo:inflow res:Isar ; rdf:type dbo:Lake }"
-        }
-    }, {
         "word": "island_belong",
-        "pairs": ["predicate=dbo:country"],
+        "pairs": ["dbo:country"],
         "questions": {
             "59": "Give me all islands that belong to Japan."
         },
         "Sparql": {
             "Sparql_59": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Island> ; <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Japan> }"
-        }
-    }, {
-        "word": "istanbul",
-        "pairs": [],
-        "questions": {
-            "100": "Which writers studied in Istanbul?"
-        },
-        "Sparql": {
-            "Sparql_100": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Writer> { ?uri <http://dbpedia.org/ontology/almaMater> ?x } UNION { ?uri <http://dbpedia.org/ontology/education> ?x } { ?x <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Istanbul> } UNION { ?x <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Istanbul> } }"
-        }
-    }, {
-        "word": "italy",
-        "pairs": [],
-        "questions": {
-            "289": "What is the highest mountain in Italy?"
-        },
-        "Sparql": {
-            "Sparql_289": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Mountain ; dbo:locatedInArea res:Italy ; dbo:elevation ?num } ORDER BY DESC(?num) OFFSET 0 LIMIT 1"
-        }
-    }, {
-        "word": "iycm",
-        "pairs": [],
-        "questions": {
-            "322": "What does IYCM stand for?"
-        },
-        "Sparql": {
-            "Sparql_322": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:abbreviation \"IYCM\" }"
-        }
-    }, {
-        "word": "jackson",
-        "pairs": [],
-        "questions": {
-            "324": "Was U.S. president Jackson involved in a war?"
-        },
-        "Sparql": {
-            "Sparql_324": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Andrew_Jackson dbo:battle ?battle }"
-        }
-    }, {
-        "word": "james",
-        "pairs": [],
-        "questions": {
-            "267": "Is James Bond married?"
-        },
-        "Sparql": {
-            "Sparql_267": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:James_Bond dbo:spouse ?uri }"
-        }
-    }, {
-        "word": "jane",
-        "pairs": [],
-        "questions": {
-            "244": "How often did Jane Fonda marry?"
-        },
-        "Sparql": {
-            "Sparql_244": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { res:Jane_Fonda dbo:spouse ?uri }"
-        }
-    }, {
-        "word": "japan",
-        "pairs": [],
-        "questions": {
-            "47": "Which volcanos in Japan erupted since 2000?",
-            "59": "Give me all islands that belong to Japan."
-        },
-        "Sparql": {
-            "Sparql_47": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Volcano> ; <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Japan> ; <http://dbpedia.org/ontology/eruptionYear> ?date FILTER ( year(?date) >= 2000 ) }",
-            "Sparql_59": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Island> ; <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Japan> }"
-        }
-    }, {
-        "word": "japanese",
-        "pairs": [],
-        "questions": {
-            "406": "In which countries do people speak Japanese?"
-        },
-        "Sparql": {
-            "Sparql_406": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Country ; dbo:language res:Japanese_language }"
-        }
-    }, {
-        "word": "javascript",
-        "pairs": ["object=res:JavaScript"],
-        "questions": {
-            "122": "Which programming languages influenced Javascript?"
-        },
-        "Sparql": {
-            "Sparql_122": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/ProgrammingLanguage> ; <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/JavaScript> }"
-        }
-    }, {
-        "word": "jersey",
-        "pairs": [],
-        "questions": {
-            "173": "Give me all cities in New Jersey with more than 100000 inhabitants."
-        },
-        "Sparql": {
-            "Sparql_173": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:City ; dbo:isPartOf res:New_Jersey ; dbo:populationTotal ?inhabitants FILTER ( ?inhabitants > 100000 ) }"
-        }
-    }, {
-        "word": "jesse",
-        "pairs": [],
-        "questions": {
-            "39": "What movies does Jesse Eisenberg play in?"
-        },
-        "Sparql": {
-            "Sparql_39": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jesse_Eisenberg> }"
         }
     }, {
         "word": "jew",
-        "pairs": ["predicate=dbp:ethnicity"],
+        "pairs": ["dbp:ethnicity"],
         "questions": {
             "104": "Was Marc Chagall a jew?"
         },
@@ -2336,136 +901,8 @@
             "Sparql_104": "ASK WHERE { <http://dbpedia.org/resource/Marc_Chagall> <http://dbpedia.org/property/ethnicity> \"Jewish\"@en }"
         }
     }, {
-        "word": "jfk",
-        "pairs": [],
-        "questions": {
-            "77": "Where was JFK assassinated?"
-        },
-        "Sparql": {
-            "Sparql_77": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/deathPlace> ?uri }"
-        }
-    }, {
-        "word": "john",
-        "pairs": [],
-        "questions": {
-            "72": "Which pope succeeded John Paul II?",
-            "99": "Who killed John Lennon?",
-            "137": "Which television shows were created by John Cleese?",
-            "249": "List all the musicals with music by Elton John.",
-            "252": "When was John Adams born?",
-            "264": "Who was the successor of John F. Kennedy?",
-            "270": "Who was John F. Kennedy's vice president?",
-            "399": "In which city did John F. Kennedy die?"
-        },
-        "Sparql": {
-            "Sparql_72": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Pope_John_Paul_II> <http://dbpedia.org/property/successor> ?uri }",
-            "Sparql_99": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Person> ; <http://dbpedia.org/property/conviction> <http://dbpedia.org/resource/Death_of_John_Lennon> }",
-            "Sparql_137": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/TelevisionShow> ; <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/John_Cleese> }",
-            "Sparql_249": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Musical ; dbo:musicBy res:Elton_John }",
-            "Sparql_252": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?date WHERE { res:John_Adams dbo:birthDate ?date }",
-            "Sparql_264": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:successor ?uri }",
-            "Sparql_270": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:vicePresident ?uri }",
-            "Sparql_399": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:deathPlace ?uri . ?uri rdf:type dbo:City }"
-        }
-    }, {
-        "word": "jordan",
-        "pairs": [],
-        "questions": {
-            "363": "How tall is Michael Jordan?"
-        },
-        "Sparql": {
-            "Sparql_363": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?num WHERE { res:Michael_Jordan dbo:height ?num }"
-        }
-    }, {
-        "word": "julia",
-        "pairs": [],
-        "questions": {
-            "63": "In which films directed by Garry Marshall was Julia Roberts starring?",
-            "390": "In which films did Julia Roberts as well as Richard Gere play?"
-        },
-        "Sparql": {
-            "Sparql_63": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Julia_Roberts> ; <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Garry_Marshall> }",
-            "Sparql_390": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Julia_Roberts ; dbo:starring res:Richard_Gere }"
-        }
-    }, {
-        "word": "juliana",
-        "pairs": [],
-        "questions": {
-            "95": "In which city was the former Dutch queen Juliana buried?"
-        },
-        "Sparql": {
-            "Sparql_95": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Juliana_of_the_Netherlands> <http://dbpedia.org/property/burialPlace> ?uri . ?uri a <http://dbpedia.org/ontology/Settlement> }"
-        }
-    }, {
-        "word": "jupiter",
-        "pairs": [],
-        "questions": {
-            "156": "How heavy is Jupiter's lightest moon?"
-        },
-        "Sparql": {
-            "Sparql_156": "SELECT DISTINCT ?n WHERE { ?uri <http://dbpedia.org/property/satelliteOf> <http://dbpedia.org/resource/Jupiter> ; <http://dbpedia.org/ontology/mass> ?n } ORDER BY ASC(?n) OFFSET 0 LIMIT 1"
-        }
-    }, {
-        "word": "kaurismäki",
-        "pairs": [],
-        "questions": {
-            "309": "Did Kaurismäki ever win the Grand Prix at Cannes?"
-        },
-        "Sparql": {
-            "Sparql_309": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Aki_Kaurismäki dbo:award <http://dbpedia.org/resource/Grand_Prix_(Cannes_Film_Festival)> }"
-        }
-    }, {
-        "word": "kazantzakis",
-        "pairs": [],
-        "questions": {
-            "292": "In which city did Nikos Kazantzakis die?"
-        },
-        "Sparql": {
-            "Sparql_292": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Nikos_Kazantzakis dbo:deathPlace ?uri . ?uri rdf:type dbo:Town }"
-        }
-    }, {
-        "word": "kennedy",
-        "pairs": [],
-        "questions": {
-            "264": "Who was the successor of John F. Kennedy?",
-            "270": "Who was John F. Kennedy's vice president?",
-            "399": "In which city did John F. Kennedy die?"
-        },
-        "Sparql": {
-            "Sparql_264": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:successor ?uri }",
-            "Sparql_270": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:vicePresident ?uri }",
-            "Sparql_399": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:John_F._Kennedy dbo:deathPlace ?uri . ?uri rdf:type dbo:City }"
-        }
-    }, {
-        "word": "kent",
-        "pairs": [],
-        "questions": {
-            "145": "Show me all English Gothic buildings in Kent."
-        },
-        "Sparql": {
-            "Sparql_145": "SELECT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Building> ; <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/English_Gothic_architecture> ; <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kent> }"
-        }
-    }, {
-        "word": "kerouac",
-        "pairs": [],
-        "questions": {
-            "378": "Which books by Kerouac were published by Viking Press?"
-        },
-        "Sparql": {
-            "Sparql_378": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Book ; dbo:publisher res:Viking_Press ; dbo:author res:Jack_Kerouac }"
-        }
-    }, {
-        "word": "khalifa",
-        "pairs": [],
-        "questions": {
-            "340": "Which building after the Burj Khalifa has the most floors?"
-        },
-        "Sparql": {
-            "Sparql_340": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Burj_Khalifa dbo:floorCount ?burj . ?uri rdf:type dbo:Building ; dbo:floorCount ?proj FILTER ( ?proj < ?burj ) } ORDER BY DESC(?proj) LIMIT 1"
-        }
-    }, {
         "word": "kind_of",
-        "pairs": ["predicate=dbo:genre"],
+        "pairs": ["dbo:genre"],
         "questions": {
             "44": "What kind of music did Lou Reed play?"
         },
@@ -2474,224 +911,85 @@
         }
     }, {
         "word": "king_of",
-        "pairs": ["predicate=dbo:leader", "object=dbo:Royalty"],
+        "pairs": ["dbo:leader", "dbo:title"],
         "questions": {
-            "192": "Who is the king of the Netherlands?",
-            "219": "Who was the first King of England?"
+            "178": "List the seven kings of Rome.",
+            "192": "Who is the king of the Netherlands?"
         },
         "Sparql": {
-            "Sparql_192": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Netherlands dbo:leader ?uri . ?uri rdf:type dbo:Royalty }",
-            "Sparql_219": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Royalty ; rdf:type yago:WikicatEnglishMonarchs ; dbo:activeYearsStartYear ?date } ORDER BY ASC(?date) OFFSET 0 LIMIT 1"
-        }
-    }, {
-        "word": "king_of",
-        "pairs": ["predicate=dbo:title"],
-        "questions": {
-            "178": "List the seven kings of Rome."
-        },
-        "Sparql": {
-            "Sparql_178": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/property/title> <http://dbpedia.org/resource/King_of_Rome> }"
-        }
-    }, {
-        "word": "knox",
-        "pairs": [],
-        "questions": {
-            "172": "In which U.S. state is Fort Knox located?"
-        },
-        "Sparql": {
-            "Sparql_172": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?uri WHERE { res:Fort_Knox dbo:location ?uri . ?uri dbo:country res:United_States }"
-        }
-    }, {
-        "word": "koch",
-        "pairs": [],
-        "questions": {
-            "153": "Which weapons did Heckler & Koch develop?"
-        },
-        "Sparql": {
-            "Sparql_153": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Weapon> ; <http://dbpedia.org/property/designer> <http://dbpedia.org/resource/Heckler_&_Koch> }"
-        }
-    }, {
-        "word": "kubrick",
-        "pairs": [],
-        "questions": {
-            "282": "Which films did Stanley Kubrick direct?"
-        },
-        "Sparql": {
-            "Sparql_282": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:director res:Stanley_Kubrick }"
-        }
-    }, {
-        "word": "label_his",
-        "pairs": ["predicate=dbo:recordLabel"],
-        "questions": {
-            "130": "For which label did Elvis record his first album?"
-        },
-        "Sparql": {
-            "Sparql_130": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?x rdf:type dbo:Album ; dbo:artist res:Elvis_Presley ; dbo:releaseDate ?y ; dbo:recordLabel ?uri } ORDER BY ASC(?y) OFFSET 0 LIMIT 1"
+            "Sparql_178": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/property/title> <http://dbpedia.org/resource/King_of_Rome> }",
+            "Sparql_192": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Netherlands dbo:leader ?uri . ?uri rdf:type dbo:Royalty }"
         }
     }, {
         "word": "label",
-        "pairs": ["object=dbo:RecordLabel"],
+        "pairs": ["dbo:recordLabel"],
         "questions": {
+            "130": "For which label did Elvis record his first album?",            
             "394": "Give me all Canadian Grunge record labels."
         },
         "Sparql": {
+            "Sparql_130": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?x rdf:type dbo:Album ; dbo:artist res:Elvis_Presley ; dbo:releaseDate ?y ; dbo:recordLabel ?uri } ORDER BY ASC(?y) OFFSET 0 LIMIT 1",
             "Sparql_394": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:RecordLabel ; dbo:genre res:Grunge ; dbo:country res:Canada }"
         }
     }, {
-        "word": "lake_Placid, lake",
-        "pairs": ["subject=res:Lake_Placid_(Texas)", "subject=dbo:Lake", "subject=res:Limerick_Lake", "subject=res:Lake_Baikal"],
+        "word": "language",
+        "pairs": ["dbo:programmingLanguage"],
         "questions": {
-            "28": "How deep is Lake Placid?",
-            "57": "Which rivers flow into a German lake?",
-            "268": "Does the Isar flow into a lake?",
-            "294": "In which country is the Limerick Lake?",
-            "346": "Is Lake Baikal bigger than the Great Bear Lake?"
+            "110": "Which country has the most official languages?",
+            "134": "Which countries have more than two official languages?",
+            "168": "How many programming languages are there?",
+            "247": "In which programming language is GIMP written?"
         },
         "Sparql": {
-            "Sparql_28": "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT DISTINCT ?n WHERE { <http://dbpedia.org/resource/Lake_Placid_(Texas)> dbo:maximumDepth ?n }",
-            "Sparql_57": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/River> . ?x <http://dbpedia.org/ontology/inflow> ?uri ; a <http://dbpedia.org/ontology/Lake> ; <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> }",
-            "Sparql_268": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ASK WHERE { ?x dbo:inflow res:Isar ; rdf:type dbo:Lake }",
-            "Sparql_294": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Limerick_Lake dbo:country ?uri }",
-            "Sparql_346": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Lake_Baikal dbo:areaTotal ?a1 . res:Great_Bear_Lake dbo:areaTotal ?a2 FILTER ( ?a1 > ?a2 ) }"
+            "Sparql_110": "SELECT DISTINCT ?uri WHERE { ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> . ?uri <http://dbpedia.org/property/officialLanguages> ?language . } ORDER BY DESC(COUNT(?language)) OFFSET 0 LIMIT 1",
+            "Sparql_134": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Country> ; <http://dbpedia.org/ontology/officialLanguage> ?language } GROUP BY ?uri HAVING ( COUNT(?language) > 2 )",
+            "Sparql_168": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri a <http://dbpedia.org/ontology/ProgrammingLanguage> }",
+            "Sparql_247": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:GIMP dbo:programmingLanguage ?uri }"
         }
-    }, {
-        "word": "lake_in",
-        "pairs": ["subject=dbo:Lake"],
+    }, 
+    {
+        "word": "language_of",
+        "pairs": ["dbo:officialLanguage"],
         "questions": {
-            "143": "Give me a list of all lakes in Denmark."
-        },
-        "Sparql": {
-            "Sparql_143": "SELECT DISTINCT ?uri WHERE { { ?uri a <http://dbpedia.org/ontology/Lake> ; <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> } UNION { ?uri a <http://dbpedia.org/class/yago/LakesOfDenmark> } }"
-        }
-    }, {
-        "word": "language,language_of",
-        "pairs": ["predicate=dbo:programmingLanguage", "predicate=dbo:officialLanguage"],
-        "questions": {
-            "247": "In which programming language is GIMP written?",
+            "10": "What are the official languages of the Philippines?",
             "291": "What is the official language of Suriname?"
         },
         "Sparql": {
-            "Sparql_247": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:GIMP dbo:programmingLanguage ?uri }",
+            "Sparql_10": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Philippines dbo:officialLanguage ?uri }",
             "Sparql_291": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Suriname dbo:officialLanguage ?uri }"
         }
-    }, {
-        "word": "language_of, language, language_influence, language_spoken",
-        "pairs": ["predicate=dbo:officialLanguage", " predicate=dbp:officialLanguages", "predicate=dbo:influencedBy", "predicate=dbo:language"],
+    }, 
+
+    {
+        "word": "language_influence",
+        "pairs": ["dbo:officialLanguage", " predicate=dbp:officialLanguages", "predicate=dbo:influencedBy", "predicate=dbo:language"],
         "questions": {
-            "10": "What are the official languages of the Philippines?",
-            "110": "Which country has the most official languages?",
             "114": "Which programming languages were influenced by Perl?",
-            "122": "Which programming languages influenced Javascript?",
-            "134": "Which countries have more than two official languages?",
-            "168": "How many programming languages are there?",
+            "122": "Which programming languages influenced Javascript?"
+        },
+        "Sparql": {
+            "Sparql_114": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/ProgrammingLanguage> { ?uri <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Perl> } UNION { <http://dbpedia.org/resource/Perl> <http://dbpedia.org/ontology/influenced> ?uri } }",
+            "Sparql_122": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/ProgrammingLanguage> ; <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/JavaScript> }"
+        }
+    }, 
+
+    {
+        "word": "language_speak",
+        "pairs": ["dbo:spokenIn", "dbo:language"],
+        "questions": {
             "187": "Which languages are spoken in Estonia?",
             "307": "How many languages are spoken in Turkmenistan?",
             "385": "How many languages are spoken in Colombia?"
         },
         "Sparql": {
-            "Sparql_10": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Philippines dbo:officialLanguage ?uri }",
-            "Sparql_110": "SELECT DISTINCT ?uri WHERE { ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> . ?uri <http://dbpedia.org/property/officialLanguages> ?language . } ORDER BY DESC(COUNT(?language)) OFFSET 0 LIMIT 1",
-            "Sparql_114": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/ProgrammingLanguage> { ?uri <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Perl> } UNION { <http://dbpedia.org/resource/Perl> <http://dbpedia.org/ontology/influenced> ?uri } }",
-            "Sparql_122": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/ProgrammingLanguage> ; <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/JavaScript> }",
-            "Sparql_134": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Country> ; <http://dbpedia.org/ontology/officialLanguage> ?language } GROUP BY ?uri HAVING ( COUNT(?language) > 2 )",
-            "Sparql_168": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri a <http://dbpedia.org/ontology/ProgrammingLanguage> }",
             "Sparql_187": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Estonia> }",
             "Sparql_307": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT (COUNT(DISTINCT ?x) AS ?c) WHERE { res:Turkmenistan dbo:language ?x }",
             "Sparql_385": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri rdf:type dbo:Language . res:Colombia dbo:language ?uri }"
         }
-    }, {
-        "word": "latvia",
-        "pairs": [],
-        "questions": {
-            "138": "When did Latvia join the EU?"
-        },
-        "Sparql": {
-            "Sparql_138": "SELECT DISTINCT ?date WHERE { <http://dbpedia.org/resource/Latvia> <http://dbpedia.org/property/accessioneudate> ?date }"
-        }
-    }, {
-        "word": "launch_pad",
-        "pairs": ["object=dbo:LaunchPad"],
-        "questions": {
-            "231": "Give me all launch pads operated by NASA."
-        },
-        "Sparql": {
-            "Sparql_231": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:LaunchPad ; dbo:operator res:NASA }"
-        }
-    }, {
-        "word": "lawrence_of",
-        "pairs": ["subject=res:T._E._Lawrence"],
-        "questions": {
-            "369": "In which military conflicts did Lawrence of Arabia participate?"
-        },
-        "Sparql": {
-            "Sparql_369": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:T._E._Lawrence dbo:battle ?uri }"
-        }
-    }, {
-        "word": "league",
-        "pairs": ["object=res:Premier_League>"],
-        "questions": {
-            "64": "Give me all soccer clubs in the Premier League."
-        },
-        "Sparql": {
-            "Sparql_64": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/SoccerClub> ; <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Premier_League> }"
-        }
-    }, {
-        "word": "lee",
-        "pairs": [],
-        "questions": {
-            "13": "Give me the grandchildren of Bruce Lee."
-        },
-        "Sparql": {
-            "Sparql_13": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Bruce_Lee dbo:child ?child . ?child <http://dbpedia.org/property/children> ?uri }"
-        }
-    }, {
-        "word": "lego",
-        "pairs": [],
-        "questions": {
-            "329": "How much did the Lego Movie cost?"
-        },
-        "Sparql": {
-            "Sparql_329": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?n WHERE { res:The_Lego_Movie dbo:budget ?n }"
-        }
-    }, {
-        "word": "lennon",
-        "pairs": [],
-        "questions": {
-            "99": "Who killed John Lennon?"
-        },
-        "Sparql": {
-            "Sparql_99": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Person> ; <http://dbpedia.org/property/conviction> <http://dbpedia.org/resource/Death_of_John_Lennon> }"
-        }
-    }, {
-        "word": "leonard",
-        "pairs": [],
-        "questions": {
-            "96": "List all the musicals with music by Leonard Bernstein."
-        },
-        "Sparql": {
-            "Sparql_96": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Musical> ; <http://dbpedia.org/ontology/musicBy> <http://dbpedia.org/resource/Leonard_Bernstein> }"
-        }
-    }, {
-        "word": "leonardo",
-        "pairs": [],
-        "questions": {
-            "106": "How many films did Leonardo DiCaprio star in?"
-        },
-        "Sparql": {
-            "Sparql_106": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Leonardo_DiCaprio> }"
-        }
-    }, {
-        "word": "les",
-        "pairs": [],
-        "questions": {
-            "195": "Who wrote the book Les Piliers de la terre?"
-        },
-        "Sparql": {
-            "Sparql_195": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:The_Pillars_of_the_Earth dbo:author ?uri }"
-        }
-    }, {
+    }, 
+    {
         "word": "liberty_build",
-        "pairs": ["predicate=dbp:beginningDate "],
+        "pairs": ["dbp:beginningDate "],
         "questions": {
             "35": "When was the Statue of Liberty built?"
         },
@@ -2699,92 +997,8 @@
             "Sparql_35": "SELECT DISTINCT ?date WHERE { <http://dbpedia.org/resource/Statue_of_Liberty> <http://dbpedia.org/property/beginningDate> ?date }"
         }
     }, {
-        "word": "library",
-        "pairs": ["subject=dbo:Library"],
-        "questions": {
-            "113": "Give me all libraries established earlier than 1400."
-        },
-        "Sparql": {
-            "Sparql_113": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Library> ; <http://dbpedia.org/property/established> ?year FILTER ( ?year < 1400 ) }"
-        }
-    }, {
-        "word": "lighthouse_in",
-        "pairs": ["subject=res:Colombo_Lighthouse "],
-        "questions": {
-            "298": "How high is the lighthouse in Colombo?"
-        },
-        "Sparql": {
-            "Sparql_298": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?num WHERE { res:Colombo_Lighthouse dbo:height ?num }"
-        }
-    }, {
-        "word": "limerick",
-        "pairs": [],
-        "questions": {
-            "294": "In which country is the Limerick Lake?"
-        },
-        "Sparql": {
-            "Sparql_294": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Limerick_Lake dbo:country ?uri }"
-        }
-    }, {
-        "word": "lincoln",
-        "pairs": [],
-        "questions": {
-            "7": "Where did Abraham Lincoln die?",
-            "245": "Was the wife of president Lincoln called Mary?",
-            "254": "Who was the wife of U.S. president Lincoln?",
-            "374": "Does Abraham Lincoln's death place have a website?"
-        },
-        "Sparql": {
-            "Sparql_7": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT ?uri WHERE { res:Abraham_Lincoln dbo:deathPlace ?uri. }",
-            "Sparql_245": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> ASK WHERE { res:Abraham_Lincoln dbo:spouse ?spouse . ?spouse rdfs:label ?name FILTER regex(?name, \"Mary\") }",
-            "Sparql_254": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Abraham_Lincoln dbo:spouse ?uri }",
-            "Sparql_374": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Abraham_Lincoln dbo:deathPlace ?p . ?p dbo:website ?w }"
-        }
-    }, {
-        "word": "lisbon",
-        "pairs": [],
-        "questions": {
-            "155": "What is the ruling party in Lisbon?"
-        },
-        "Sparql": {
-            "Sparql_155": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lisbon> <http://dbpedia.org/property/leaderParty> ?uri }"
-        }
-    }, {
-        "word": "list",
-        "pairs": [],
-        "questions": {
-            "24": "Give me a list of all trumpet players that were bandleaders.",
-            "46": "Show a list of soccer clubs that play in the Bundesliga.",
-            "143": "Give me a list of all lakes in Denmark.",
-            "164": "Give me a list of all bandleaders that play trumpet."
-        },
-        "Sparql": {
-            "Sparql_24": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:occupation res:Bandleader ; dbo:instrument res:Trumpet }",
-            "Sparql_46": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/SoccerClub> ; <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Bundesliga> }",
-            "Sparql_143": "SELECT DISTINCT ?uri WHERE { { ?uri a <http://dbpedia.org/ontology/Lake> ; <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> } UNION { ?uri a <http://dbpedia.org/class/yago/LakesOfDenmark> } }",
-            "Sparql_164": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Bandleader> ; <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Trumpet> }"
-        }
-    }, {
-        "word": "literature",
-        "pairs": ["object=res:Nobel_Prize_in_Literature"],
-        "questions": {
-            "33": "Give me all writers that won the Nobel Prize in literature."
-        },
-        "Sparql": {
-            "Sparql_33": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Writer> ; <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Prize_in_Literature> }"
-        }
-    }, {
-        "word": "liz",
-        "pairs": [],
-        "questions": {
-            "70": "Which movies star both Liz Taylor and Richard Burton?"
-        },
-        "Sparql": {
-            "Sparql_70": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Elizabeth_Taylor> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Richard_Burton> }"
-        }
-    }, {
         "word": "location_of",
-        "pairs": ["predicate=dbo:location"],
+        "pairs": ["dbo:location"],
         "questions": {
             "215": "What is the location of the Houses of Parliament?"
         },
@@ -2792,73 +1006,8 @@
             "Sparql_215": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT ?uri WHERE { res:Palace_of_Westminster dbo:location ?uri }"
         }
     }, {
-        "word": "london",
-        "pairs": [],
-        "questions": {
-            "29": "Show me all museums in London."
-        },
-        "Sparql": {
-            "Sparql_29": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Museum> ; <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/London> }"
-        }
-    }, {
-        "word": "lou",
-        "pairs": [],
-        "questions": {
-            "44": "What kind of music did Lou Reed play?"
-        },
-        "Sparql": {
-            "Sparql_44": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lou_Reed> <http://dbpedia.org/ontology/genre> ?uri }"
-        }
-    }, {
-        "word": "lufthansa",
-        "pairs": ["subject=res:Lufthansa"],
-        "questions": {
-            "373": "Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?"
-        },
-        "Sparql": {
-            "Sparql_373": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Lufthansa dbo:subsidiary ?uri . ?uri dbo:targetAirport res:Dortmund_Airport ; dbo:targetAirport res:Berlin_Tegel_Airport }"
-        }
-    }, {
-        "word": "luke",
-        "pairs": [],
-        "questions": {
-            "180": "Is Darth Vader Luke’s father?"
-        },
-        "Sparql": {
-            "Sparql_180": "ASK WHERE { <http://dbpedia.org/resource/Darth_Vader> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Luke_Skywalker> }"
-        }
-    }, {
-        "word": "madrid",
-        "pairs": [],
-        "questions": {
-            "146": "Who is the manager of Real Madrid?",
-            "334": "Does Neymar play for Real Madrid?"
-        },
-        "Sparql": {
-            "Sparql_146": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Real_Madrid_C.F.> <http://dbpedia.org/ontology/manager> ?uri }",
-            "Sparql_334": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Neymar dbo:team <http://dbpedia.org/resource/Real_Madrid_C.F.> }"
-        }
-    }, {
-        "word": "malaysia",
-        "pairs": [],
-        "questions": {
-            "360": "Does the Ford Motor Company have a manufacturing plant in Malaysia?"
-        },
-        "Sparql": {
-            "Sparql_360": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> ASK WHERE { ?uri dbo:assembly dbr:Malaysia ; dbo:manufacturer dbr:Ford_Motor_Company }"
-        }
-    }, {
-        "word": "malta",
-        "pairs": [],
-        "questions": {
-            "139": "Which soccer players were born on Malta?"
-        },
-        "Sparql": {
-            "Sparql_139": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/SoccerPlayer> ; <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Malta> }"
-        }
-    }, {
         "word": "manager_of",
-        "pairs": ["subject=dbo:manager"],
+        "pairs": ["dbo:manager"],
         "questions": {
             "146": "Who is the manager of Real Madrid?"
         },
@@ -2866,17 +1015,8 @@
             "Sparql_146": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Real_Madrid_C.F.> <http://dbpedia.org/ontology/manager> ?uri }"
         }
     }, {
-        "word": "manhattan",
-        "pairs": [],
-        "questions": {
-            "328": "Which scientist is known for the Manhattan Project and the Nobel Peace Prize?"
-        },
-        "Sparql": {
-            "Sparql_328": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri dbo:knownFor res:Manhattan_Project ; rdf:type dbo:Scientist ; dbo:knownFor res:Nobel_Peace_Prize }"
-        }
-    }, {
         "word": "manufacturing_plant",
-        "pairs": ["predicate=dbo:manufacturer"],
+        "pairs": ["dbo:manufacturer"],
         "questions": {
             "360": "Does the Ford Motor Company have a manufacturing plant in Malaysia?"
         },
@@ -2884,73 +1024,8 @@
             "Sparql_360": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> ASK WHERE { ?uri dbo:assembly dbr:Malaysia ; dbo:manufacturer dbr:Ford_Motor_Company }"
         }
     }, {
-        "word": "marc",
-        "pairs": [],
-        "questions": {
-            "104": "Was Marc Chagall a jew?"
-        },
-        "Sparql": {
-            "Sparql_104": "ASK WHERE { <http://dbpedia.org/resource/Marc_Chagall> <http://dbpedia.org/property/ethnicity> \"Jewish\"@en }"
-        }
-    }, {
-        "word": "margaret",
-        "pairs": [],
-        "questions": {
-            "107": "Was Margaret Thatcher a chemist?",
-            "275": "List the children of Margaret Thatcher."
-        },
-        "Sparql": {
-            "Sparql_107": "ASK WHERE { <http://dbpedia.org/resource/Margaret_Thatcher> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Chemist> }",
-            "Sparql_275": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Margaret_Thatcher dbo:child ?uri }"
-        }
-    }, {
-        "word": "maribor",
-        "pairs": [],
-        "questions": {
-            "60": "How many inhabitants does Maribor have?"
-        },
-        "Sparql": {
-            "Sparql_60": "SELECT DISTINCT ?num WHERE { <http://dbpedia.org/resource/Maribor> <http://dbpedia.org/ontology/populationTotal> ?num }"
-        }
-    }, {
-        "word": "marine",
-        "pairs": [],
-        "questions": {
-            "304": "How high is the Yokohama Marine Tower?"
-        },
-        "Sparql": {
-            "Sparql_304": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?num WHERE { res:Yokohama_Marine_Tower dbo:height ?num }"
-        }
-    }, {
-        "word": "marshall",
-        "pairs": [],
-        "questions": {
-            "63": "In which films directed by Garry Marshall was Julia Roberts starring?"
-        },
-        "Sparql": {
-            "Sparql_63": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Julia_Roberts> ; <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Garry_Marshall> }"
-        }
-    }, {
-        "word": "mary",
-        "pairs": [],
-        "questions": {
-            "245": "Was the wife of president Lincoln called Mary?"
-        },
-        "Sparql": {
-            "Sparql_245": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> ASK WHERE { res:Abraham_Lincoln dbo:spouse ?spouse . ?spouse rdfs:label ?name FILTER regex(?name, \"Mary\") }"
-        }
-    }, {
-        "word": "match_of",
-        "pairs": [],
-        "questions": {
-            "281": "When will start the final match of the football world cup 2018?"
-        },
-        "Sparql": {
-            "Sparql_281": "PREFIX dbr: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT ?Date WHERE { dbr:2018_FIFA_World_Cup dbp:date ?Date } ORDER BY DESC(?Date) LIMIT 1"
-        }
-    }, {
         "word": "mater_of",
-        "pairs": ["predicate=dbo:almaMater"],
+        "pairs": ["dbo:almaMater"],
         "questions": {
             "194": "What is the alma mater of the chancellor of Germany Angela Merkel?"
         },
@@ -2958,26 +1033,8 @@
             "Sparql_194": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Almamater WHERE { dbr:Angela_Merkel dbo:almaMater ?Almamater }"
         }
     }, {
-        "word": "matrix",
-        "pairs": [],
-        "questions": {
-            "162": "Who played Agent Smith in Matrix?"
-        },
-        "Sparql": {
-            "Sparql_162": "PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?uri WHERE { res:Agent_Smith <http://dbpedia.org/ontology/portrayer> ?uri }"
-        }
-    }, {
-        "word": "maude",
-        "pairs": [],
-        "questions": {
-            "330": "Who composed the music for Harold and Maude?"
-        },
-        "Sparql": {
-            "Sparql_330": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Harold_and_Maude dbo:musicComposer ?uri }"
-        }
-    }, {
         "word": "mayor_of",
-        "pairs": ["predicate=dbo:leaderName", "predicate=dbo:mayor"],
+        "pairs": ["dbo:leaderName", "dbo:mayor"],
         "questions": {
             "5": "Who is the mayor of New York City?",
             "265": "Who is the mayor of Paris?",
@@ -2994,54 +1051,10 @@
             "Sparql_310": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Paris dbo:mayor ?x . ?x dbo:party ?uri }",
             "Sparql_381": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Tel_Aviv dbo:leaderName ?uri }"
         }
-    }, {
-        "word": "mckinley",
-        "pairs": [],
-        "questions": {
-            "115": "In which U.S. state is Mount McKinley located?"
-        },
-        "Sparql": {
-            "Sparql_115": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mount_McKinley> dbo:wikiPageRedirects ?x . ?x <http://dbpedia.org/ontology/locatedInArea> ?uri. ?uri rdf:type yago:WikicatStatesOfTheUnitedStates }"
-        }
-    }, {
-        "word": "mean",
-        "pairs": ["object=res:Mean_Hamster_Software"],
-        "questions": {
-            "295": "Give me all video games published by Mean Hamster Software."
-        },
-        "Sparql": {
-            "Sparql_295": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:VideoGame ; dbo:publisher res:Mean_Hamster_Software }"
-        }
-    }, {
-        "word": "mecca",
-        "pairs": [],
-        "questions": {
-            "203": "In which country is Mecca located?"
-        },
-        "Sparql": {
-            "Sparql_203": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Mecca dbo:country ?uri }"
-        }
-    }, {
-        "word": "melbourne",
-        "pairs": [],
-        "questions": {
-            "353": "What is the total population of Melbourne, Florida?"
-        },
-        "Sparql": {
-            "Sparql_353": "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT ?uri WHERE { <http://dbpedia.org/resource/Melbourne,_Florida> dbo:populationTotal ?uri }"
-        }
-    }, {
-        "word": "melon",
-        "pairs": [],
-        "questions": {
-            "276": "From which region is the Melon de Bourgogne?"
-        },
-        "Sparql": {
-            "Sparql_276": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Melon_de_Bourgogne dbo:wineRegion ?uri }"
-        }
-    }, {
+    }, 
+    {
         "word": "member_of",
-        "pairs": ["predicate=dbo:alliance", "predicate=dbo:bandMember"],
+        "pairs": ["dbo:alliance", "dbo:bandMember"],
         "questions": {
             "127": "How many airlines are members of the Star Alliance?",
             "296": "Give me all members of Prodigy."
@@ -3050,49 +1063,10 @@
             "Sparql_127": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri a <http://dbpedia.org/ontology/Airline> ; <http://dbpedia.org/ontology/alliance> <http://dbpedia.org/resource/Star_Alliance> }",
             "Sparql_296": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:The_Prodigy dbo:bandMember ?uri }"
         }
-    }, {
-        "word": "men_woman",
-        "pairs": ["predicate=dbp:employees"],
-        "questions": {
-            "111": "What is the total amount of men and women serving in the FDNY?"
-        },
-        "Sparql": {
-            "Sparql_111": "SELECT DISTINCT ?num WHERE { <http://dbpedia.org/resource/New_York_City_Fire_Department> <http://dbpedia.org/property/employees> ?num }"
-        }
-    }, {
-        "word": "merkel",
-        "pairs": [],
-        "questions": {
-            "151": "What is the birth name of Angela Merkel?",
-            "194": "What is the alma mater of the chancellor of Germany Angela Merkel?",
-            "248": "Which university did Angela Merkel attend?"
-        },
-        "Sparql": {
-            "Sparql_151": "SELECT DISTINCT ?string WHERE { <http://dbpedia.org/resource/Angela_Merkel> <http://dbpedia.org/property/birthName> ?string }",
-            "Sparql_194": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Almamater WHERE { dbr:Angela_Merkel dbo:almaMater ?Almamater }",
-            "Sparql_248": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?university WHERE { res:Angela_Merkel dbo:almaMater ?university }"
-        }
-    }, {
-        "word": "meryl",
-        "pairs": [],
-        "questions": {
-            "320": "Who is the oldest child of Meryl Streep?"
-        },
-        "Sparql": {
-            "Sparql_320": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Meryl_Streep dbo:child ?uri . ?uri dbo:birthDate ?d } ORDER BY ASC(?d) OFFSET 0 LIMIT 1"
-        }
-    }, {
-        "word": "metalcore",
-        "pairs": [],
-        "questions": {
-            "101": "Give me all Australian metalcore bands."
-        },
-        "Sparql": {
-            "Sparql_101": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Band> ; <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Metalcore> { ?uri <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Australia> } UNION { ?uri <http://dbpedia.org/ontology/hometown> ?h . ?h <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Australia> } }"
-        }
-    }, {
+    }, 
+    {
         "word": "meter",
-        "pairs": ["predicate=dbo:height"],
+        "pairs": ["dbo:height"],
         "questions": {
             "34": "Show me all basketball players that are higher than 2 meters."
         },
@@ -3100,82 +1074,8 @@
             "Sparql_34": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/BasketballPlayer> ; <http://dbpedia.org/ontology/height> ?n FILTER ( ?n > 2.0 ) }"
         }
     }, {
-        "word": "metro",
-        "pairs": ["object=dbr:Rapid_transit"],
-        "questions": {
-            "349": "Which city has the oldest running metro?"
-        },
-        "Sparql": {
-            "Sparql_349": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT ?loc WHERE { ?uri dbo:type dbr:Rapid_transit ; dbo:openingYear ?date ; dbo:location ?loc . ?loc rdf:type dbo:City } ORDER BY ASC(?date) LIMIT 1"
-        }
-    }, {
-        "word": "mexico",
-        "pairs": [],
-        "questions": {
-            "327": "How many states are in Mexico?"
-        },
-        "Sparql": {
-            "Sparql_327": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT (COUNT(?uri) AS ?count) WHERE { ?uri dbo:type dbr:States_of_Mexico }"
-        }
-    }, {
-        "word": "mi6",
-        "pairs": [],
-        "questions": {
-            "364": "In which UK city are the headquarters of the MI6?"
-        },
-        "Sparql": {
-            "Sparql_364": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Secret_Intelligence_Service dbo:headquarter ?uri . ?uri dbo:country res:United_Kingdom }"
-        }
-    }, {
-        "word": "michael",
-        "pairs": [],
-        "questions": {
-            "363": "How tall is Michael Jordan?"
-        },
-        "Sparql": {
-            "Sparql_363": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?num WHERE { res:Michael_Jordan dbo:height ?num }"
-        }
-    }, {
-        "word": "michelle",
-        "pairs": [],
-        "questions": {
-            "227": "Is the wife of president Obama called Michelle?",
-            "376": "Is Michelle Obama the wife of Barack Obama?"
-        },
-        "Sparql": {
-            "Sparql_227": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> ASK WHERE { res:Barack_Obama dbo:spouse ?spouse . ?spouse rdfs:label ?name FILTER regex(?name, \"Michelle\") }",
-            "Sparql_376": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Barack_Obama dbo:spouse res:Michelle_Obama }"
-        }
-    }, {
-        "word": "mickey",
-        "pairs": [],
-        "questions": {
-            "389": "Which movies starring Mickey Rourke were directed by Guy Ritchie?"
-        },
-        "Sparql": {
-            "Sparql_389": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Mickey_Rourke ; dbo:director res:Guy_Ritchie }"
-        }
-    }, {
-        "word": "miffy",
-        "pairs": [],
-        "questions": {
-            "271": "Which country does the creator of Miffy come from?"
-        },
-        "Sparql": {
-            "Sparql_271": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Miffy dbo:creator ?x . ?x dbo:nationality ?uri }"
-        }
-    }, {
-        "word": "minecraft",
-        "pairs": [],
-        "questions": {
-            "37": "Who developed Minecraft?"
-        },
-        "Sparql": {
-            "Sparql_37": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/developer> ?uri }"
-        }
-    }, {
         "word": "mineral",
-        "pairs": ["predicate=dbp:mineral"],
+        "pairs": ["dbp:mineral"],
         "questions": {
             "26": "Which U.S. states possess gold minerals?"
         },
@@ -3183,55 +1083,8 @@
             "Sparql_26": "PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type yago:WikicatStatesOfTheUnitedStates ; dbp:mineral ?mineral FILTER regex(?mineral, \"gold\", \"i\") }"
         }
     }, {
-        "word": "ming",
-        "pairs": [],
-        "questions": {
-            "368": "When did the Ming dynasty dissolve?"
-        },
-        "Sparql": {
-            "Sparql_368": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?date WHERE { res:Ming_dynasty dbo:dissolutionDate ?date }"
-        }
-    }, {
-        "word": "minister_of",
-        "pairs": ["subject=http://dbpedia.org/resource/Prime_Minister_of_Spain", "subject=res:Federal_Ministry_of_Finance_(Germany)"],
-        "questions": {
-            "132": "Where is the residence of the prime minister of Spain?",
-            "202": "Who is the current federal minister of finance in Germany?"
-        },
-        "Sparql": {
-            "Sparql_132": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Prime_Minister_of_Spain> <http://dbpedia.org/property/residence> ?uri }",
-            "Sparql_202": "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT ?leader WHERE { <http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)> dbo:leader ?leader }"
-        }
-    }, {
-        "word": "missile_crisis",
-        "pairs": ["subject=res:Cuban_Missile_Crisis"],
-        "questions": {
-            "198": "Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?"
-        },
-        "Sparql": {
-            "Sparql_198": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> ASK WHERE { res:Cuban_Missile_Crisis dbo:date ?x . res:Bay_of_Pigs_Invasion dbo:date ?y FILTER ( ?x < ?y ) }"
-        }
-    }, {
-        "word": "mission",
-        "pairs": ["predicate=dbp:programme"],
-        "questions": {
-            "90": "How many missions does the Soyuz programme have?"
-        },
-        "Sparql": {
-            "Sparql_90": "SELECT (COUNT(DISTINCT ?uri) AS ?c) WHERE { ?uri <http://dbpedia.org/property/programme> <http://dbpedia.org/resource/Soyuz_programme> }"
-        }
-    }, {
-        "word": "monarch",
-        "pairs": ["object=dbo:Monarch"],
-        "questions": {
-            "17": "Which monarchs were married to a German?"
-        },
-        "Sparql": {
-            "Sparql_17": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Monarch ; dbo:spouse ?spouse { ?spouse dbo:birthPlace res:Germany } UNION { ?spouse dbo:birthPlace ?p . ?p dbo:country res:Germany } }"
-        }
-    }, {
         "word": "moon",
-        "pairs": ["predicate=dbp:satelliteOf"],
+        "pairs": ["dbp:satelliteOf"],
         "questions": {
             "156": "How heavy is Jupiter's lightest moon?"
         },
@@ -3239,58 +1092,17 @@
             "Sparql_156": "SELECT DISTINCT ?n WHERE { ?uri <http://dbpedia.org/property/satelliteOf> <http://dbpedia.org/resource/Jupiter> ; <http://dbpedia.org/ontology/mass> ?n } ORDER BY ASC(?n) OFFSET 0 LIMIT 1"
         }
     }, {
-        "word": "moscow",
-        "pairs": [],
+        "word": "mountain_in",
+        "pairs": ["dbo:mountainRange"],
         "questions": {
-            "40": "Give all swimmers that were born in Moscow."
+            "201": "What is the highest mountain in Saxony Germany?"
         },
         "Sparql": {
-            "Sparql_40": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Swimmer> ; <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Moscow> }"
-        }
-    }, {
-        "word": "motor_company",
-        "pairs": ["object=dbr:Ford_Motor_Company"],
-        "questions": {
-            "360": "Does the Ford Motor Company have a manufacturing plant in Malaysia?"
-        },
-        "Sparql": {
-            "Sparql_360": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> ASK WHERE { ?uri dbo:assembly dbr:Malaysia ; dbo:manufacturer dbr:Ford_Motor_Company }"
-        }
-    }, {
-        "word": "mount_mcKinley, mount_everest",
-        "pairs": ["subject=res:Mount_McKinley", "subject=res:Mount_Everest"],
-        "questions": {
-            "115": "In which U.S. state is Mount McKinley located?",
-            "354": "What country is Mount Everest in?",
-            "384": "Who was the first to climb Mount Everest?"
-        },
-        "Sparql": {
-            "Sparql_115": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mount_McKinley> dbo:wikiPageRedirects ?x . ?x <http://dbpedia.org/ontology/locatedInArea> ?uri. ?uri rdf:type yago:WikicatStatesOfTheUnitedStates }",
-            "Sparql_354": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Mount_Everest dbo:locatedInArea ?uri . ?uri rdf:type dbo:Country }",
-            "Sparql_384": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Mount_Everest dbo:firstAscentPerson ?uri }"
-        }
-    }, {
-        "word": "mountain_system, mountain_on,mountain_in",
-        "pairs": ["subject=res:Himalayas", "subject=dbo:Mountain", "predicate=dbo:mountainRange", "object=dbo:Mountain"],
-        "questions": {
-            "81": "To which countries does the Himalayan mountain system extend?",
-            "120": "What is the highest mountain?",
-            "165": "What is the second highest mountain on Earth?",
-            "201": "What is the highest mountain in Saxony Germany?",
-            "289": "What is the highest mountain in Italy?",
-            "400": "What is the highest mountain in Australia?"
-        },
-        "Sparql": {
-            "Sparql_81": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Himalayas> <http://dbpedia.org/ontology/country> ?uri }",
-            "Sparql_120": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Mountain> ; <http://dbpedia.org/ontology/elevation> ?elevation } ORDER BY DESC(?elevation) OFFSET 0 LIMIT 1",
-            "Sparql_165": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Mountain> ; <http://dbpedia.org/ontology/elevation> ?elevation } ORDER BY DESC(?elevation) OFFSET 1 LIMIT 1",
-            "Sparql_201": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?m WHERE { ?m dbo:mountainRange dbr:Ore_Mountains ; dbo:elevation ?height } ORDER BY DESC(?height) LIMIT 1",
-            "Sparql_289": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Mountain ; dbo:locatedInArea res:Italy ; dbo:elevation ?num } ORDER BY DESC(?num) OFFSET 0 LIMIT 1",
-            "Sparql_400": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Mountain ; dbo:locatedInArea res:Australia ; dbo:elevation ?elevation } ORDER BY DESC(?elevation) LIMIT 1"
+            "Sparql_201": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?m WHERE { ?m dbo:mountainRange dbr:Ore_Mountains ; dbo:elevation ?height } ORDER BY DESC(?height) LIMIT 1"
         }
     }, {
         "word": "mountain_high",
-        "pairs": ["predicate=dbp:elevationM"],
+        "pairs": ["dbp:elevationM"],
         "questions": {
             "174": "Which mountains are higher than the Nanga Parbat?"
         },
@@ -3298,123 +1110,127 @@
             "Sparql_174": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Nanga_Parbat> <http://dbpedia.org/ontology/elevation> ?elevation . ?uri a <http://dbpedia.org/ontology/Mountain> { ?uri <http://dbpedia.org/ontology/elevation> ?otherelevation } UNION { ?uri <http://dbpedia.org/property/elevationM> ?otherelevation } FILTER ( ?otherelevation > ?elevation ) }"
         }
     }, {
-        "word": "movement_painter",
-        "pairs": ["predicate=dbo:movement"],
+        "word": "movie_cost",
+        "pairs": ["dbo:budget"],
         "questions": {
-            "355": "To which artistic movement did the painter of The Three Dancers belong?"
+            "329": "How much did the Lego Movie cost?"
         },
         "Sparql": {
-            "Sparql_355": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:The_Three_Dancers dbo:author ?person . ?person dbo:movement ?uri }"
-        }
-    }, {
-        "word": "movie_cost,movie_with",
-        "pairs": ["predicate=dbo:budget", "object=dbo:Film"],
-        "questions": {
-            "329": "How much did the Lego Movie cost?",
-            "411": "What was the last movie with Alec Guinness?"
-        },
-        "Sparql": {
-            "Sparql_329": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?n WHERE { res:The_Lego_Movie dbo:budget ?n }",
-            "Sparql_411": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Alec_Guinness ; dbo:releaseDate ?date } ORDER BY DESC(?date) LIMIT 1"
+            "Sparql_329": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?n WHERE { res:The_Lego_Movie dbo:budget ?n }"
         }
     }, {
         "word": "movie_direct,movie_starring,movie,movie_park,movie_star,movie_with,movie_produce,",
-        "pairs": [],
+        "pairs": ["dbo:director"],
+        "questions": {
+            "9": "Give me all actors starring in movies directed by and starring William Shatner.",
+            "213": "Give me all movies directed by Francis Ford Coppola."
+        },
+        "Sparql": {
+            "Sparql_9": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?uri WHERE { ?x dbo:director res:William_Shatner ; dbo:starring res:William_Shatner { ?x dbo:starring ?uri } UNION { ?x dbp:starring ?uri } }",
+            "Sparql_213": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:director res:Francis_Ford_Coppola }"
+        }
+    }, 
+
+    {
+        "word": "movie_starring",
+        "pairs": ["dbo:starring"],
         "questions": {
             "9": "Give me all actors starring in movies directed by and starring William Shatner.",
             "12": "Which movies starring Brad Pitt were directed by Guy Ritchie?",
-            "39": "What movies does Jesse Eisenberg play in?",
-            "51": "Give me all Danish movies.",
-            "56": "How many movies did Park Chan-wook direct?",
-            "70": "Which movies star both Liz Taylor and Richard Burton?",
-            "133": "Which actor was casted in the most movies?",
-            "171": "Give me all movies with Tom Cruise.",
-            "213": "Give me all movies directed by Francis Ford Coppola.",
-            "286": "Give me all actors starring in movies directed by William Shatner.",
-            "345": "Who is starring in Spanish movies produced by Benicio del Toro?",
             "389": "Which movies starring Mickey Rourke were directed by Guy Ritchie?"
         },
         "Sparql": {
             "Sparql_9": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?uri WHERE { ?x dbo:director res:William_Shatner ; dbo:starring res:William_Shatner { ?x dbo:starring ?uri } UNION { ?x dbp:starring ?uri } }",
             "Sparql_12": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Brad_Pitt ; dbo:director res:Guy_Ritchie }",
-            "Sparql_39": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jesse_Eisenberg> }",
-            "Sparql_51": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> }",
-            "Sparql_56": "SELECT COUNT(DISTINCT ?uri AS ?uri) WHERE { ?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Park_Chan-wook> . }",
-            "Sparql_70": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Elizabeth_Taylor> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Richard_Burton> }",
-            "Sparql_133": "SELECT DISTINCT ?uri WHERE { ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor> . ?f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> . ?f <http://dbpedia.org/ontology/starring> ?uri . } ORDER BY DESC(COUNT(DISTINCT(?f))) OFFSET 0 LIMIT 1",
-            "Sparql_171": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tom_Cruise> }",
-            "Sparql_213": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:director res:Francis_Ford_Coppola }",
-            "Sparql_286": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?x dbo:director res:William_Shatner ; dbo:starring ?uri }",
-            "Sparql_345": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?film rdf:type dbo:Film ; dbo:country res:Spain ; dbo:producer res:Benicio_del_Toro ; dbo:starring ?uri . ?uri rdf:type dbo:Person }",
             "Sparql_389": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:starring res:Mickey_Rourke ; dbo:director res:Guy_Ritchie }"
         }
-    }, {
-        "word": "muhammad",
-        "pairs": [],
+    }, 
+
+    {
+        "word": "movie",
+        "pairs": ["dbo:director"],
         "questions": {
-            "383": "Show me the book that Muhammad Ali wrote."
+
+            "213": "Give me all movies directed by Francis Ford Coppola.",
+            "286": "Give me all actors starring in movies directed by William Shatner."
         },
         "Sparql": {
-            "Sparql_383": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Book ; dbo:author res:Muhammad_Ali }"
+            "Sparql_213": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:director res:Francis_Ford_Coppola }",
+            "Sparql_286": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?x dbo:director res:William_Shatner ; dbo:starring ?uri }"
         }
-    }, {
-        "word": "munich",
-        "pairs": [],
+    }, 
+
+    {
+        "word": "movie_with",
+        "pairs": ["dbo:starring"],
         "questions": {
-            "54": "Give me all companies in Munich."
+            "171": "Give me all movies with Tom Cruise."
         },
         "Sparql": {
-            "Sparql_54": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Company> { ?uri <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Munich> } UNION { ?uri <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Munich> } UNION { ?uri <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Munich> } }"
+            "Sparql_171": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tom_Cruise> }"
         }
-    }, {
-        "word": "murphy",
-        "pairs": [],
+    }, 
+
+    {
+        "word": "movie_direct",
+        "pairs": ["dbo:director"],
         "questions": {
-            "144": "How many children does Eddie Murphy have?"
+            "213": "Give me all movies directed by Francis Ford Coppola."
         },
         "Sparql": {
-            "Sparql_144": "SELECT DISTINCT ?n WHERE { <http://dbpedia.org/resource/Eddie_Murphy> <http://dbpedia.org/property/children> ?n }"
+            "Sparql_213": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Film ; dbo:director res:Francis_Ford_Coppola }"
         }
-    }, {
-        "word": "museum_in",
-        "pairs": ["object=dbo:Museum"],
+    }, 
+
+    {
+        "word": "movie_produce,",
+        "pairs": ["dbo:producer"],
         "questions": {
-            "408": "Which museum in New York has the most visitors?"
+            "345": "Who is starring in Spanish movies produced by Benicio del Toro?"
         },
         "Sparql": {
-            "Sparql_408": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Museum ; dbo:location res:New_York_City ; dbo:numberOfVisitors ?num } ORDER BY DESC(?num) OFFSET 0 LIMIT 1"
+            "Sparql_345": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?film rdf:type dbo:Film ; dbo:country res:Spain ; dbo:producer res:Benicio_del_Toro ; dbo:starring ?uri . ?uri rdf:type dbo:Person }"
         }
-    }, {
-        "word": "museum_in,museum",
-        "pairs": ["subject=dbo:Museum"],
+    }, 
+
+    {
+        "word": "music_album",
+        "pairs": ["dbo:album"],
         "questions": {
-            "29": "Show me all museums in London.",
-            "76": "How many museums does Paris have?"
+            "88": "Which music albums contain the song Last Christmas?"
         },
         "Sparql": {
-            "Sparql_29": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Museum> ; <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/London> }",
-            "Sparql_76": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Museum> ; <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Paris> }"
+            "Sparql_88": "SELECT DISTINCT ?uri WHERE { ?single <http://dbpedia.org/ontology/album> ?uri ; <http://www.w3.org/2000/01/rdf-schema#label> \"Last Christmas\"@en }"
         }
-    }, {
-        "word": "music, music_album,music_by,music_for",
-        "pairs": ["predicate:dbo:album", "predicate=dbo:musicBy", "predciate=dbo:musicComposer"],
+    }, 
+
+    {
+        "word": "music_by",
+        "pairs": ["dbo:musicBy", "predciate=dbo:musicComposer"],
         "questions": {
-            "44": "What kind of music did Lou Reed play?",
-            "88": "Which music albums contain the song Last Christmas?",
             "96": "List all the musicals with music by Leonard Bernstein.",
-            "249": "List all the musicals with music by Elton John.",
+            "249": "List all the musicals with music by Elton John."
+        },
+        "Sparql": {
+            "Sparql_96": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Musical> ; <http://dbpedia.org/ontology/musicBy> <http://dbpedia.org/resource/Leonard_Bernstein> }",
+            "Sparql_249": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Musical ; dbo:musicBy res:Elton_John }"
+        }
+    }, 
+
+    {
+        "word": "music_for",
+        "pairs": ["dbo:musicComposer"],
+        "questions": {
             "330": "Who composed the music for Harold and Maude?"
         },
         "Sparql": {
-            "Sparql_44": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lou_Reed> <http://dbpedia.org/ontology/genre> ?uri }",
-            "Sparql_88": "SELECT DISTINCT ?uri WHERE { ?single <http://dbpedia.org/ontology/album> ?uri ; <http://www.w3.org/2000/01/rdf-schema#label> \"Last Christmas\"@en }",
-            "Sparql_96": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Musical> ; <http://dbpedia.org/ontology/musicBy> <http://dbpedia.org/resource/Leonard_Bernstein> }",
-            "Sparql_249": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Musical ; dbo:musicBy res:Elton_John }",
             "Sparql_330": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Harold_and_Maude dbo:musicComposer ?uri }"
         }
-    }, {
+    }, 
+
+    {
         "word": "musical",
-        "pairs": ["predicate=dbo:Musical"],
+        "pairs": ["dbo:Musical"],
         "questions": {
             "96": "List all the musicals with music by Leonard Bernstein.",
             "249": "List all the musicals with music by Elton John."
@@ -3425,23 +1241,15 @@
         }
     }, {
         "word": "musician_wrote",
-        "pairs": ["predicate=dbo:author"],
+        "pairs": ["dbo:author"],
         "questions": {
             "123": "Which musician wrote the most books?"
         },
         "Sparql": {
             "Sparql_123": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Musician> . ?x <http://dbpedia.org/ontology/author> ?uri . ?x <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> . } ORDER BY DESC(COUNT(?x)) OFFSET 0 LIMIT 1"
         }
-    }, {
-        "word": "mvp",
-        "pairs": [],
-        "questions": {
-            "53": "Who are the four youngest MVP basketball players?"
-        },
-        "Sparql": {
-            "Sparql_53": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/BasketballPlayer> ; <http://dbpedia.org/ontology/birthDate> ?date ; <http://dbpedia.org/property/highlights> ?h FILTER regex(?h, \"MVP\") } ORDER BY DESC(?date) OFFSET 0 LIMIT 4"
-        }
-    }, {
+    }, 
+    {
         "word": "name_of",
         "pairs": ["predicate=dbo:birthName", "predicate=dbo:alias"],
         "questions": {
