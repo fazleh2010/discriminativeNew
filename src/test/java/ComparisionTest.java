@@ -52,6 +52,8 @@ public class ComparisionTest {
 
     @Test
     public void main() throws IOException, Exception {
+      Set<String> POSTAGS=new  HashSet<String>(Arrays.asList(TextAnalyzer.VERB));
+
         for(String postag:POSTAGS){
         String qaldFileName = qald9Dir + postag+"-pattern-qald9" + ".json";
         String conditionalFilename = qald9Dir + "lexicon-conditional-pattern" + ".json";
@@ -59,8 +61,6 @@ public class ComparisionTest {
         Comparision comparision = new Comparision(qald9Dir, qaldFileName, conditionalFilename,outputFileName);
         comparision.compersionsPattern();     
         }
-       
-      
     }
 
 }

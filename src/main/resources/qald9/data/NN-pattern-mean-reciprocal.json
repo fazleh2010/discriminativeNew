@@ -1,9 +1,15 @@
 {
-  "MeanReciProcalRank" : 0.0,
+  "MeanReciProcalRank" : 0.00625,
   "TotalPattern" : 160,
-  "TotalPatternFound" : 0,
-  "TotalPatternNOTFound" : 160,
-  "PatternFound" : { },
+  "TotalPatternFound" : 1,
+  "TotalPatternNOTFound" : 159,
+  "PatternFound" : {
+    "wife_of" : {
+      "Predicate" : [ "dbo:spouse" ],
+      "Rank" : 1,
+      "ReciprocalRank" : 1.0
+    }
+  },
   "PatternNotFound" : {
     "alumnus_of" : {
       "Predicate" : [ "dbo:almaMater" ],
@@ -767,11 +773,6 @@
     },
     "widow_of" : {
       "Predicate" : [ "dbo:spouse" ],
-      "Rank" : 0,
-      "ReciprocalRank" : 0.0
-    },
-    "wife_of" : {
-      "Predicate" : [ "dbo:spouse", "dbo:predecessor" ],
       "Rank" : 0,
       "ReciprocalRank" : 0.0
     },
