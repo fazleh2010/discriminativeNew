@@ -889,9 +889,9 @@
 }, {
   "word" : "son_of",
   "rank" : {
-    "1" : [ "pair=dbo:child ", "multiplyValue=0.002211" ],
+    "1" : [ "pair=dbo:child", "multiplyValue=0.002211" ],
     "2" : [ "pair=dbo:relation ", "multiplyValue=0.003156" ],
-    "3" : [ "pair=dbp:parents ", "multiplyValue=0.003478" ],
+    "3" : [ "pair=dbo:parent", "multiplyValue=0.003478" ],
     "4" : [ "pair=dbp:predecessor ", "multiplyValue=0.002537" ]
   }
 }, {
