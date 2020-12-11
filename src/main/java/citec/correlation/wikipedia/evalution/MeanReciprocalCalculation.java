@@ -33,13 +33,13 @@ public class MeanReciprocalCalculation {
     private Double meanReciprocalRank=null;
     @JsonProperty("TotalPattern")
     private Integer totalPattern=null;
-    @JsonProperty("TotalPatternFound")
-    private Integer totalPatternFound=null;
-     @JsonProperty("TotalPatternNOTFound")
-    private Integer totalPatternNotFound=null;
-    @JsonProperty("PatternFound")
+    @JsonProperty("NumberOfPatterrnFoundNonZeroRank")
+    private Integer numberOfPatterrnFoundNonZeroRank=0;
+     @JsonProperty("NumberOfPatterrnFoundZeroRank")
+    private Integer numberOfPatterrnFoundZeroRank=null;
+    @JsonProperty("PatterrnFoundNonZeroRank")
     private Map<String,ReciprocalResult> patternFound=new  TreeMap<String,ReciprocalResult>();
-     @JsonProperty("PatternNotFound")
+     @JsonProperty("PatterrnFoundZeroRank")
     private Map<String,ReciprocalResult> patternNotFound=new  TreeMap<String,ReciprocalResult>();
 
     public MeanReciprocalCalculation() {
@@ -74,8 +74,8 @@ public class MeanReciprocalCalculation {
         mrr /= rankings.size();
 
          this.meanReciprocalRank= mrr;
-         this.totalPatternFound=patternFound.size();
-         this.totalPatternNotFound=patternNotFound.size();
+         this.numberOfPatterrnFoundNonZeroRank=patternFound.size();
+         this.numberOfPatterrnFoundZeroRank=patternNotFound.size();
          this.totalPattern=patternFound.size()+patternNotFound.size();
          
     }

@@ -1,16 +1,16 @@
 {
   "MeanReciProcalRank" : 0.00625,
   "TotalPattern" : 160,
-  "TotalPatternFound" : 1,
-  "TotalPatternNOTFound" : 159,
-  "PatternFound" : {
+  "NumberOfPatterrnFoundNonZeroRank" : 1,
+  "NumberOfPatterrnFoundZeroRank" : 159,
+  "PatterrnFoundNonZeroRank" : {
     "wife_of" : {
       "Predicate" : [ "dbo:spouse" ],
       "Rank" : 1,
       "ReciprocalRank" : 1.0
     }
   },
-  "PatternNotFound" : {
+  "PatterrnFoundZeroRank" : {
     "alumnus_of" : {
       "Predicate" : [ "dbo:almaMater" ],
       "Rank" : 0,

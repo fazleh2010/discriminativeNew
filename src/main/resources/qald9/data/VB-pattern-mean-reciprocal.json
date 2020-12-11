@@ -1,9 +1,9 @@
 {
   "MeanReciProcalRank" : 0.028125,
   "TotalPattern" : 160,
-  "TotalPatternFound" : 5,
-  "TotalPatternNOTFound" : 155,
-  "PatternFound" : {
+  "NumberOfPatterrnFoundNonZeroRank" : 5,
+  "NumberOfPatterrnFoundZeroRank" : 155,
+  "PatterrnFoundNonZeroRank" : {
     "attend" : {
       "Predicate" : [ "dbo:almaMater" ],
       "Rank" : 1,
@@ -30,7 +30,7 @@
       "ReciprocalRank" : 1.0
     }
   },
-  "PatternNotFound" : {
+  "PatterrnFoundZeroRank" : {
     "alumnus_of" : {
       "Predicate" : [ "dbo:almaMater" ],
       "Rank" : 0,
