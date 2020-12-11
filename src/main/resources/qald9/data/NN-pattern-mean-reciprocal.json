@@ -1,14 +1,9 @@
 {
-  "MeanReciProcalRank" : 0.0125,
+  "MeanReciProcalRank" : 0.00625,
   "TotalPattern" : 160,
-  "NumberOfPatterrnFoundNonZeroRank" : 2,
-  "NumberOfPatterrnFoundZeroRank" : 158,
+  "NumberOfPatterrnFoundNonZeroRank" : 1,
+  "NumberOfPatterrnFoundZeroRank" : 159,
   "PatterrnFoundNonZeroRank" : {
-    "son_of" : {
-      "Predicate" : [ "dbo:parent" ],
-      "Rank" : 1,
-      "ReciprocalRank" : 1.0
-    },
     "wife_of" : {
       "Predicate" : [ "dbo:spouse" ],
       "Rank" : 1,
@@ -713,6 +708,11 @@
     },
     "sit" : {
       "Predicate" : [ "dbp:honorificSuffix" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "son_of" : {
+      "Predicate" : [ "dbp:parents", "dbo:relation", "dbp:predecessor", "dbo:child" ],
       "Rank" : 0,
       "ReciprocalRank" : 0.0
     },

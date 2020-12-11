@@ -1,55 +1,55 @@
 [ {
   "word" : "alumnus_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=5.07E-4" ]
   }
 }, {
   "word" : "appoint",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:honorificSuffix ", "multiplyValue=0.009841" ],
     "2" : [ "pair=dbp:title ", "multiplyValue=0.011718" ]
   }
 }, {
   "word" : "appoint_by",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:appointed ", "multiplyValue=2.1E-4" ]
   }
 }, {
   "word" : "appoint_minister",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:primeMinister ", "multiplyValue=0.002352" ],
     "2" : [ "pair=dbp:premier ", "multiplyValue=0.003624" ]
   }
 }, {
   "word" : "appoint_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:appointed ", "multiplyValue=0.004617" ],
     "2" : [ "pair=dbp:before ", "multiplyValue=0.003205" ],
     "3" : [ "pair=dbp:leader ", "multiplyValue=0.001891" ]
   }
 }, {
   "word" : "assume_office",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:predecessor ", "multiplyValue=1.94E-4" ]
   }
 }, {
   "word" : "attend",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=0.002201" ]
   }
 }, {
   "word" : "attend_dalhousie",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:occupation ", "multiplyValue=0.001255" ]
   }
 }, {
   "word" : "author_numerous",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:stateAssembly ", "multiplyValue=0.00625" ]
   }
 }, {
   "word" : "bear_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.042403" ],
     "2" : [ "pair=dbo:deathPlace ", "multiplyValue=0.052007" ],
     "3" : [ "pair=dbo:nationality ", "multiplyValue=0.001115" ],
@@ -59,66 +59,66 @@
   }
 }, {
   "word" : "become",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:occupation ", "multiplyValue=0.004414" ],
     "2" : [ "pair=dbp:honorificPrefix ", "multiplyValue=0.004275" ],
     "3" : [ "pair=dbp:title ", "multiplyValue=0.015371" ]
   }
 }, {
   "word" : "become_subject",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:primeMinister ", "multiplyValue=4.42E-4" ]
   }
 }, {
   "word" : "belong_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=5.67E-4" ]
   }
 }, {
   "word" : "chair_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:stateAssembly ", "multiplyValue=0.001563" ]
   }
 }, {
   "word" : "chairman",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:district ", "multiplyValue=0.001646" ]
   }
 }, {
   "word" : "come_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:restingPlace ", "multiplyValue=0.006224" ],
     "2" : [ "pair=dbp:parliament ", "multiplyValue=2.57E-4" ]
   }
 }, {
   "word" : "congressman_represent",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:state ", "multiplyValue=7.07E-4" ]
   }
 }, {
   "word" : "contest",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:homeTown ", "multiplyValue=9.07E-4" ]
   }
 }, {
   "word" : "criticise",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:primeMinister ", "multiplyValue=7.87E-4" ]
   }
 }, {
   "word" : "current_member",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:parliament ", "multiplyValue=5.87E-4" ]
   }
 }, {
   "word" : "currently_represent",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:state ", "multiplyValue=6.67E-4" ],
     "2" : [ "pair=dbp:stateDelegate ", "multiplyValue=0.003604" ]
   }
 }, {
   "word" : "currently_serve",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:region ", "multiplyValue=0.032267" ],
     "2" : [ "pair=dbp:stateDelegate ", "multiplyValue=0.001231" ],
     "3" : [ "pair=dbp:stateHouse ", "multiplyValue=9.14E-4" ],
@@ -127,13 +127,13 @@
   }
 }, {
   "word" : "defeat_at",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:after ", "multiplyValue=0.002565" ],
     "2" : [ "pair=dbp:before ", "multiplyValue=0.002556" ]
   }
 }, {
   "word" : "defeat_by",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:nationality ", "multiplyValue=6.16E-4" ],
     "2" : [ "pair=dbo:successor ", "multiplyValue=0.007022" ],
     "3" : [ "pair=dbp:after ", "multiplyValue=6.19E-4" ],
@@ -141,13 +141,13 @@
   }
 }, {
   "word" : "defeat_for",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:after ", "multiplyValue=0.001039" ],
     "2" : [ "pair=dbp:succeeded ", "multiplyValue=0.002627" ]
   }
 }, {
   "word" : "defeat_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:successor ", "multiplyValue=0.003277" ],
     "2" : [ "pair=dbp:after ", "multiplyValue=9.46E-4" ],
     "3" : [ "pair=dbp:predecessor ", "multiplyValue=0.003111" ],
@@ -155,71 +155,71 @@
   }
 }, {
   "word" : "defeat_incumbent",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:predecessor ", "multiplyValue=0.002871" ]
   }
 }, {
   "word" : "degree_from",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:stateHouse ", "multiplyValue=0.002304" ]
   }
 }, {
   "word" : "delegate_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:restingPlace ", "multiplyValue=8.74E-4" ]
   }
 }, {
   "word" : "deputy_minister",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:primeMinister ", "multiplyValue=5.25E-4" ]
   }
 }, {
   "word" : "deputy_prime",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:primeMinister ", "multiplyValue=0.003579" ]
   }
 }, {
   "word" : "deputy_speaker",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:stateDelegate ", "multiplyValue=0.001582" ]
   }
 }, {
   "word" : "die",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:years ", "multiplyValue=0.006859" ]
   }
 }, {
   "word" : "die_at",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:deathPlace ", "multiplyValue=0.010125" ],
     "2" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=2.94E-4" ]
   }
 }, {
   "word" : "die_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:deathPlace ", "multiplyValue=0.025946" ],
     "2" : [ "pair=dbo:nationality ", "multiplyValue=2.98E-4" ],
     "3" : [ "pair=dbo:restingPlace ", "multiplyValue=8.64E-4" ]
   }
 }, {
   "word" : "earn_degree",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=0.001577" ]
   }
 }, {
   "word" : "educate_at",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=0.002635" ],
     "2" : [ "pair=dbo:country ", "multiplyValue=0.002667" ]
   }
 }, {
   "word" : "eldest_son",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:placeOfBirth ", "multiplyValue=0.111111" ]
   }
 }, {
   "word" : "elect",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:occupation ", "multiplyValue=0.008137" ],
     "2" : [ "pair=dbo:party ", "multiplyValue=0.126914" ],
     "3" : [ "pair=dbo:profession ", "multiplyValue=0.001985" ],
@@ -230,25 +230,25 @@
   }
 }, {
   "word" : "elect_at",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:country ", "multiplyValue=0.010764" ],
     "2" : [ "pair=dbp:before ", "multiplyValue=0.013235" ]
   }
 }, {
   "word" : "elect_by",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:stateHouse ", "multiplyValue=3.4E-4" ]
   }
 }, {
   "word" : "elect_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:constituencyMp ", "multiplyValue=3.57E-4" ],
     "2" : [ "pair=dbp:predecessor ", "multiplyValue=0.008926" ],
     "3" : [ "pair=dbp:stateDelegate ", "multiplyValue=2.71E-4" ]
   }
 }, {
   "word" : "elect_member",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:country ", "multiplyValue=0.019111" ],
     "2" : [ "pair=dbo:nationality ", "multiplyValue=0.001023" ],
     "3" : [ "pair=dbp:citizenship ", "multiplyValue=6.12E-4" ],
@@ -256,7 +256,7 @@
   }
 }, {
   "word" : "elect_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.019161" ],
     "2" : [ "pair=dbo:country ", "multiplyValue=0.001005" ],
     "3" : [ "pair=dbo:deathPlace ", "multiplyValue=0.004837" ],
@@ -280,42 +280,42 @@
   }
 }, {
   "word" : "elect_unopposed",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:leader ", "multiplyValue=2.59E-4" ]
   }
 }, {
   "word" : "employ_associate",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:profession ", "multiplyValue=6.55E-4" ]
   }
 }, {
   "word" : "enter_house",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:electorate ", "multiplyValue=3.94E-4" ]
   }
 }, {
   "word" : "enter_provincial",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:predecessor ", "multiplyValue=0.001078" ]
   }
 }, {
   "word" : "evolve_into",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:state ", "multiplyValue=0.002342" ]
   }
 }, {
   "word" : "father_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:child ", "multiplyValue=0.025953" ]
   }
 }, {
   "word" : "first_dominicanamerican",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:militaryUnit ", "multiplyValue=4.89E-4" ]
   }
 }, {
   "word" : "first_elect",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.012711" ],
     "2" : [ "pair=dbo:party ", "multiplyValue=0.017309" ],
     "3" : [ "pair=dbo:residence ", "multiplyValue=0.006542" ],
@@ -332,7 +332,7 @@
   }
 }, {
   "word" : "former",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:occupation ", "multiplyValue=0.002332" ],
     "2" : [ "pair=dbo:orderInOffice ", "multiplyValue=0.003411" ],
     "3" : [ "pair=dbo:region ", "multiplyValue=0.00571" ],
@@ -340,171 +340,171 @@
   }
 }, {
   "word" : "four_son",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.003205" ]
   }
 }, {
   "word" : "general_secretary",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:nationality ", "multiplyValue=0.00176" ],
     "2" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=0.004884" ]
   }
 }, {
   "word" : "graduate_from",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=0.003286" ],
     "2" : [ "pair=dbo:relation ", "multiplyValue=3.7E-4" ]
   }
 }, {
   "word" : "graduate_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=0.00138" ]
   }
 }, {
   "word" : "graduate_with",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=0.002366" ]
   }
 }, {
   "word" : "grandmother_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=0.021164" ]
   }
 }, {
   "word" : "held_seat",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:successor ", "multiplyValue=3.82E-4" ],
     "2" : [ "pair=dbp:after ", "multiplyValue=0.001855" ]
   }
 }, {
   "word" : "his_brother",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:relation ", "multiplyValue=0.008889" ]
   }
 }, {
   "word" : "hold_position",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:religion ", "multiplyValue=2.84E-4" ]
   }
 }, {
   "word" : "important_leader",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:homeTown ", "multiplyValue=0.004386" ]
   }
 }, {
   "word" : "imprison_for",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.001603" ]
   }
 }, {
   "word" : "incumbent_minister",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:hometown ", "multiplyValue=0.018182" ]
   }
 }, {
   "word" : "induct_into",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:state ", "multiplyValue=7.81E-4" ]
   }
 }, {
   "word" : "instrumental_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:deathPlace ", "multiplyValue=6.5E-4" ]
   }
 }, {
   "word" : "join",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:otherParty ", "multiplyValue=8.54E-4" ],
     "2" : [ "pair=dbo:party ", "multiplyValue=0.008348" ]
   }
 }, {
   "word" : "judge_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:restingPlace ", "multiplyValue=0.005533" ]
   }
 }, {
   "word" : "labour_member",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:country ", "multiplyValue=0.002854" ]
   }
 }, {
   "word" : "later_work",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=7.56E-4" ]
   }
 }, {
   "word" : "left_office",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:party ", "multiplyValue=4.27E-4" ]
   }
 }, {
   "word" : "liberal",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:honorificSuffix ", "multiplyValue=0.007979" ]
   }
 }, {
   "word" : "liberal_member",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:party ", "multiplyValue=0.009478" ]
   }
 }, {
   "word" : "list_on",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:restingPlace ", "multiplyValue=0.020332" ]
   }
 }, {
   "word" : "lok_sabha",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=0.015873" ]
   }
 }, {
   "word" : "lose_election",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:opponent ", "multiplyValue=0.002825" ]
   }
 }, {
   "word" : "lose_his",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:otherParty ", "multiplyValue=0.002261" ],
     "2" : [ "pair=dbo:successor ", "multiplyValue=0.001895" ],
     "3" : [ "pair=dbp:after ", "multiplyValue=0.002006" ]
   }
 }, {
   "word" : "lose_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:successor ", "multiplyValue=7.75E-4" ],
     "2" : [ "pair=dbp:after ", "multiplyValue=5.3E-4" ]
   }
 }, {
   "word" : "make",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:honorificSuffix ", "multiplyValue=0.002091" ]
   }
 }, {
   "word" : "make_officer",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:parliament ", "multiplyValue=1.03E-4" ]
   }
 }, {
   "word" : "marry",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:spouse ", "multiplyValue=0.013031" ]
   }
 }, {
   "word" : "marry_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:spouse ", "multiplyValue=0.016117" ],
     "2" : [ "pair=dbp:leader ", "multiplyValue=9.0E-4" ],
     "3" : [ "pair=dbp:spouse ", "multiplyValue=9.15E-4" ]
   }
 }, {
   "word" : "meet",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:spouse ", "multiplyValue=7.97E-4" ]
   }
 }, {
   "word" : "member_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.027334" ],
     "2" : [ "pair=dbo:citizenship ", "multiplyValue=1.7E-4" ],
     "3" : [ "pair=dbo:country ", "multiplyValue=0.004312" ],
@@ -529,27 +529,27 @@
   }
 }, {
   "word" : "migrate_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:nationality ", "multiplyValue=0.001184" ]
   }
 }, {
   "word" : "minister",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=7.11E-4" ]
   }
 }, {
   "word" : "minister_for",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:parliament ", "multiplyValue=0.001174" ]
   }
 }, {
   "word" : "minister_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:premier ", "multiplyValue=5.1E-4" ]
   }
 }, {
   "word" : "minister_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.002926" ],
     "2" : [ "pair=dbo:nationality ", "multiplyValue=8.44E-4" ],
     "3" : [ "pair=dbo:primeMinister ", "multiplyValue=0.033458" ],
@@ -557,12 +557,12 @@
   }
 }, {
   "word" : "mla",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:region ", "multiplyValue=0.00295" ]
   }
 }, {
   "word" : "move_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:country ", "multiplyValue=0.001367" ],
     "2" : [ "pair=dbo:deathPlace ", "multiplyValue=0.007954" ],
     "3" : [ "pair=dbo:residence ", "multiplyValue=0.00356" ],
@@ -572,54 +572,54 @@
   }
 }, {
   "word" : "name_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=0.003342" ]
   }
 }, {
   "word" : "nominate_by",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:president ", "multiplyValue=0.001111" ]
   }
 }, {
   "word" : "one_lay",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:deathPlace ", "multiplyValue=9.75E-4" ],
     "2" : [ "pair=dbp:residence ", "multiplyValue=9.31E-4" ]
   }
 }, {
   "word" : "originally_belong",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:homeTown ", "multiplyValue=0.026316" ]
   }
 }, {
   "word" : "participate_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:religion ", "multiplyValue=9.56E-4" ]
   }
 }, {
   "word" : "place_2",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:predecessor ", "multiplyValue=2.33E-4" ]
   }
 }, {
   "word" : "play_significant",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:citizenship ", "multiplyValue=0.001678" ]
   }
 }, {
   "word" : "president_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:occupation ", "multiplyValue=2.27E-4" ],
     "2" : [ "pair=dbp:homeTown ", "multiplyValue=0.002567" ]
   }
 }, {
   "word" : "previously_represent",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:hometown ", "multiplyValue=0.003583" ]
   }
 }, {
   "word" : "previously_serve",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:primeMinister ", "multiplyValue=0.001961" ],
     "2" : [ "pair=dbo:residence ", "multiplyValue=0.011939" ],
     "3" : [ "pair=dbp:kingdom ", "multiplyValue=2.49E-4" ],
@@ -628,54 +628,54 @@
   }
 }, {
   "word" : "receive_his",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=6.17E-4" ]
   }
 }, {
   "word" : "recognize_lead",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:restingPlace ", "multiplyValue=0.001136" ]
   }
 }, {
   "word" : "reelect",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:office ", "multiplyValue=0.005962" ],
     "2" : [ "pair=dbo:orderInOffice ", "multiplyValue=0.006684" ]
   }
 }, {
   "word" : "reelect_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:after ", "multiplyValue=0.008273" ]
   }
 }, {
   "word" : "reelect_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:house ", "multiplyValue=5.76E-4" ]
   }
 }, {
   "word" : "related_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:electorate ", "multiplyValue=0.005128" ]
   }
 }, {
   "word" : "remain_on",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:premier ", "multiplyValue=0.003058" ]
   }
 }, {
   "word" : "replace",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:predecessor ", "multiplyValue=0.001622" ]
   }
 }, {
   "word" : "replace_by",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:successor ", "multiplyValue=0.001745" ],
     "2" : [ "pair=dbp:after ", "multiplyValue=0.001039" ]
   }
 }, {
   "word" : "represent",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.046027" ],
     "2" : [ "pair=dbo:deathPlace ", "multiplyValue=0.025819" ],
     "3" : [ "pair=dbo:hometown ", "multiplyValue=0.001549" ],
@@ -690,17 +690,17 @@
   }
 }, {
   "word" : "represent_city",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:electorate ", "multiplyValue=0.065967" ]
   }
 }, {
   "word" : "represent_district",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:region ", "multiplyValue=0.019677" ]
   }
 }, {
   "word" : "represent_electoral",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.028554" ],
     "2" : [ "pair=dbo:party ", "multiplyValue=0.035361" ],
     "3" : [ "pair=dbo:region ", "multiplyValue=0.018908" ],
@@ -710,48 +710,48 @@
   }
 }, {
   "word" : "represent_electorate",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:electorate ", "multiplyValue=0.053168" ]
   }
 }, {
   "word" : "represent_his",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:constituency ", "multiplyValue=4.5E-5" ]
   }
 }, {
   "word" : "represent_ride",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:riding ", "multiplyValue=0.001296" ]
   }
 }, {
   "word" : "resign_from",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:otherParty ", "multiplyValue=0.001214" ]
   }
 }, {
   "word" : "resign_newly",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:succeeded ", "multiplyValue=1.92E-4" ]
   }
 }, {
   "word" : "retire",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:honorificPrefix ", "multiplyValue=5.14E-4" ]
   }
 }, {
   "word" : "retire_from",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:successor ", "multiplyValue=0.001024" ]
   }
 }, {
   "word" : "return_to",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:country ", "multiplyValue=0.003562" ],
     "2" : [ "pair=dbo:profession ", "multiplyValue=1.46E-4" ]
   }
 }, {
   "word" : "run_for",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:successor ", "multiplyValue=0.003393" ],
     "2" : [ "pair=dbp:candidate ", "multiplyValue=6.02E-4" ],
     "3" : [ "pair=dbp:stateAssembly ", "multiplyValue=0.00125" ],
@@ -760,12 +760,12 @@
   }
 }, {
   "word" : "seek",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:state ", "multiplyValue=7.27E-4" ]
   }
 }, {
   "word" : "serve",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.08999" ],
     "2" : [ "pair=dbo:country ", "multiplyValue=0.006999" ],
     "3" : [ "pair=dbo:deathPlace ", "multiplyValue=0.044141" ],
@@ -789,7 +789,7 @@
   }
 }, {
   "word" : "serve_alongside",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:associate ", "multiplyValue=0.003479" ],
     "2" : [ "pair=dbo:spouse ", "multiplyValue=0.001044" ],
     "3" : [ "pair=dbo:successor ", "multiplyValue=0.038687" ],
@@ -797,33 +797,33 @@
   }
 }, {
   "word" : "serve_cabinet",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:premier ", "multiplyValue=0.006246" ]
   }
 }, {
   "word" : "serve_consul",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:citizenship ", "multiplyValue=1.35E-4" ]
   }
 }, {
   "word" : "serve_counsel",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:stateDelegate ", "multiplyValue=1.13E-4" ]
   }
 }, {
   "word" : "serve_deputy",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.002421" ],
     "2" : [ "pair=dbp:title ", "multiplyValue=0.013256" ]
   }
 }, {
   "word" : "serve_five",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:stateAssembly ", "multiplyValue=4.99E-4" ]
   }
 }, {
   "word" : "serve_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:battle ", "multiplyValue=0.00399" ],
     "2" : [ "pair=dbo:birthPlace ", "multiplyValue=0.04126" ],
     "3" : [ "pair=dbo:country ", "multiplyValue=0.003955" ],
@@ -845,7 +845,7 @@
   }
 }, {
   "word" : "serve_member",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=0.004669" ],
     "2" : [ "pair=dbo:birthPlace ", "multiplyValue=0.040797" ],
     "3" : [ "pair=dbo:deathPlace ", "multiplyValue=0.022917" ],
@@ -855,144 +855,144 @@
   }
 }, {
   "word" : "serve_minister",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:primeMinister ", "multiplyValue=0.004208" ],
     "2" : [ "pair=dbp:birthDate ", "multiplyValue=0.001707" ]
   }
 }, {
   "word" : "serve_on",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:residence ", "multiplyValue=0.012046" ],
     "2" : [ "pair=dbp:stateAssembly ", "multiplyValue=4.46E-4" ],
     "3" : [ "pair=dbp:stateSenate ", "multiplyValue=0.00106" ]
   }
 }, {
   "word" : "serve_president",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.002168" ]
   }
 }, {
   "word" : "serve_speaker",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:stateHouse ", "multiplyValue=9.97E-4" ]
   }
 }, {
   "word" : "serve_trustee",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:restingPlace ", "multiplyValue=0.004453" ]
   }
 }, {
   "word" : "sit",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:honorificSuffix ", "multiplyValue=0.001227" ]
   }
 }, {
   "word" : "son_of",
-  "rank" : {
-    "1" : [ "pair=dbo:child", "multiplyValue=0.002211" ],
+  "id" : {
+    "1" : [ "pair=dbo:child ", "multiplyValue=0.002211" ],
     "2" : [ "pair=dbo:relation ", "multiplyValue=0.003156" ],
-    "3" : [ "pair=dbo:parent", "multiplyValue=0.003478" ],
+    "3" : [ "pair=dbp:parents ", "multiplyValue=0.003478" ],
     "4" : [ "pair=dbp:predecessor ", "multiplyValue=0.002537" ]
   }
 }, {
   "word" : "state_minister",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:primeMinister ", "multiplyValue=0.007503" ],
     "2" : [ "pair=dbp:citizenship ", "multiplyValue=3.95E-4" ]
   }
 }, {
   "word" : "student_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:citizenship ", "multiplyValue=0.006711" ]
   }
 }, {
   "word" : "study_at",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:almaMater ", "multiplyValue=5.74E-4" ]
   }
 }, {
   "word" : "succeed",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:predecessor ", "multiplyValue=4.83E-4" ],
     "2" : [ "pair=dbp:predecessor ", "multiplyValue=0.003682" ]
   }
 }, {
   "word" : "succeed_by",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:successor ", "multiplyValue=0.004669" ],
     "2" : [ "pair=dbp:1namedata ", "multiplyValue=3.22E-4" ],
     "3" : [ "pair=dbp:before ", "multiplyValue=5.7E-4" ]
   }
 }, {
   "word" : "succeed_in",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:succeeded ", "multiplyValue=1.04E-4" ]
   }
 }, {
   "word" : "successfully_advocate",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:vpState ", "multiplyValue=0.25" ]
   }
 }, {
   "word" : "teacher",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:birthPlace ", "multiplyValue=3.21E-4" ]
   }
 }, {
   "word" : "unsuccessfully_contest",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:before ", "multiplyValue=7.26E-4" ]
   }
 }, {
   "word" : "veteran_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:battle ", "multiplyValue=0.003636" ]
   }
 }, {
   "word" : "west",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.001603" ]
   }
 }, {
   "word" : "widow_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:spouse ", "multiplyValue=0.004785" ]
   }
 }, {
   "word" : "wife_of",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:predecessor ", "multiplyValue=7.78E-4" ],
     "2" : [ "pair=dbo:spouse ", "multiplyValue=0.014354" ]
   }
 }, {
   "word" : "win",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:electorate ", "multiplyValue=0.003011" ]
   }
 }, {
   "word" : "win_seat",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:before ", "multiplyValue=8.45E-4" ]
   }
 }, {
   "word" : "win_ward",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:birthPlace ", "multiplyValue=6.11E-4" ]
   }
 }, {
   "word" : "work",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbo:occupation ", "multiplyValue=0.001652" ]
   }
 }, {
   "word" : "would_seek",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:successor ", "multiplyValue=5.12E-4" ],
     "2" : [ "pair=dbp:termEnd ", "multiplyValue=0.00147" ]
   }
 }, {
   "word" : "young_brother",
-  "rank" : {
+  "id" : {
     "1" : [ "pair=dbp:with ", "multiplyValue=3.27E-4" ]
   }
 } ]
