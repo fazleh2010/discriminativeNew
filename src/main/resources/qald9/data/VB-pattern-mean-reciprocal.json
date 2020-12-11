@@ -1,8 +1,8 @@
 {
-  "MeanReciProcalRank" : 0.028125,
+  "MeanReciProcalRank" : 0.034375,
   "TotalPattern" : 160,
-  "NumberOfPatterrnFoundNonZeroRank" : 5,
-  "NumberOfPatterrnFoundZeroRank" : 155,
+  "NumberOfPatterrnFoundNonZeroRank" : 6,
+  "NumberOfPatterrnFoundZeroRank" : 154,
   "PatterrnFoundNonZeroRank" : {
     "attend" : {
       "Predicate" : [ "dbo:almaMater" ],
@@ -16,6 +16,11 @@
     },
     "die_in" : {
       "Predicate" : [ "dbo:deathPlace" ],
+      "Rank" : 1,
+      "ReciprocalRank" : 1.0
+    },
+    "graduate_from" : {
+      "Predicate" : [ "dbo:almaMater" ],
       "Rank" : 1,
       "ReciprocalRank" : 1.0
     },
@@ -288,11 +293,6 @@
     },
     "general_secretary" : {
       "Predicate" : [ "dbo:stateOfOrigin", "dbo:nationality" ],
-      "Rank" : 0,
-      "ReciprocalRank" : 0.0
-    },
-    "graduate_from" : {
-      "Predicate" : [ "dbo:almaMater", "dbo:relation" ],
       "Rank" : 0,
       "ReciprocalRank" : 0.0
     },

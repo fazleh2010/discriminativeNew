@@ -52,7 +52,7 @@ public class ComparisionTest {
 
     @Test
     public void main() throws IOException, Exception {
-      Set<String> POSTAGS=new  HashSet<String>(Arrays.asList(TextAnalyzer.VERB));
+      Set<String> POSTAGS=new  HashSet<String>(Arrays.asList(TextAnalyzer.NOUN));
 
         for(String postag:POSTAGS){
         String qaldFileName = qald9Dir + postag+"-pattern-qald9" + ".json";
