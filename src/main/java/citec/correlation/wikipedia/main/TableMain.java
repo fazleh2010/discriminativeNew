@@ -65,8 +65,8 @@ public class TableMain implements PropertyNotation,DirectoryLocation,MenuOptions
     private static Map<String, TreeMap<String, List<String>>> alphabetInfo = new TreeMap<String, TreeMap<String, List<String>>>();
 
     public static void main(String[] args) throws IOException, Exception {
-        String type = MEAN_RECIPROCAL_PATTERN;
-        String dbo_ClassName = PropertyNotation.dbo_Politician;
+        String type = WRITE_PATTERNS;
+        String dbo_ClassName = PropertyNotation.dbo_Actor;
         freqClasses.add(dbo_ClassName);
         String inputFile = allPoliticianFile;
         String fileType = DbpediaClass.ALL;
