@@ -1,7 +1,6 @@
 package citec.correlation.wikipedia.utils;
 
-import citec.correlation.wikipedia.utils.FileFolderUtils;
-import citec.correlation.wikipedia.utils.FormatAndMatch;
+import citec.wikipedia.writer.utils.FormatAndMatch;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

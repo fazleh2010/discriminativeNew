@@ -1,0 +1,29 @@
+[ {
+  "entityIndex" : "entity11065",
+  "entityUrl" : "http://dbpedia.org/resource/(Get_to)_The_Point",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:completionDate" : [ "2013-04-04" ],
+    "dbo:format" : [ "http://dbpedia.org/resource/1080i", "http://dbpedia.org/resource/480i" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/New_York_City" ],
+    "dbo:network" : [ "http://dbpedia.org/resource/CNN" ],
+    "dbo:presenter" : [ "http://dbpedia.org/resource/Jason_Taylor_(American_football)", "http://dbpedia.org/resource/Margaret_Hoover", "http://dbpedia.org/resource/Rick_Reilly", "http://dbpedia.org/resource/Donny_Deutsch" ],
+    "dbo:runtime" : [ "60.0", "3600.0" ],
+    "dbo:wikiPageExternalLink" : [ "https://twitter.com/ThePointCNN" ],
+    "dbo:wikiPageID" : [ "41584482" ],
+    "dbo:wikiPageRevisionID" : [ "719880183" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:2010s_American_television_series", "http://dbpedia.org/resource/Jason_Taylor_(American_football)", "http://dbpedia.org/resource/Category:CNN_shows", "http://dbpedia.org/resource/Category:American_television_talk_shows", "http://dbpedia.org/resource/Category:English-language_television_programming", "http://dbpedia.org/resource/Standard-definition_television", "http://dbpedia.org/resource/1080i", "http://dbpedia.org/resource/Gay_rights_activist", "http://dbpedia.org/resource/CNN", "http://dbpedia.org/resource/Comedy_Central", "http://dbpedia.org/resource/Current_events", "http://dbpedia.org/resource/Margaret_Hoover", "http://dbpedia.org/resource/Category:2013_American_television_series_debuts", "http://dbpedia.org/resource/ESPN", "http://dbpedia.org/resource/Political_commentator", "http://dbpedia.org/resource/High-definition_television", "http://dbpedia.org/resource/New_York_City", "http://dbpedia.org/resource/Television_program", "http://dbpedia.org/resource/Rick_Reilly", "http://dbpedia.org/resource/Multi-camera", "http://dbpedia.org/resource/480i", "http://dbpedia.org/resource/NFL", "http://dbpedia.org/resource/Erin_Burnett_OutFront", "http://dbpedia.org/resource/Piers_Morgan_Live", "http://dbpedia.org/resource/Jon_Stewart", "http://dbpedia.org/resource/Category:2013_American_television_series_endings", "http://dbpedia.org/resource/Twitter", "http://dbpedia.org/resource/Television_personality", "http://dbpedia.org/resource/Donny_Deutsch", "http://dbpedia.org/resource/Columnist" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Erin_Burnett_OutFront" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Piers_Morgan_Live" ],
+    "dbp:camera" : [ "http://dbpedia.org/resource/Multi-camera" ],
+    "dbp:country" : [ "United States" ],
+    "dbp:firstAired" : [ "--04-01" ],
+    "dbp:language" : [ "English" ],
+    "dbp:title" : [ "CNN Weekday Lineup" ],
+    "dbp:years" : [ "10" ]
+  },
+  "words" : [ "``", "political", "discussion", "program", "advertising", "ESPN", "hosted", "executive", "NFL", "Jason", "different", "day", "events", "programming", "activist", "short-lived", "Taylor", "ridicule", "Initially", ",", "April", ".", "Deutsch", "panelist", "person", "Get", "attracted", "-RRB-", "CNN", "deal", "-LRB-", "week", "Twitter", "slot", "air", "Margaret", "current", "commentator", "billed", "personality", "Hoover", "rights", "consisted", "Rick", "Donny", "panel", "gay", "''", "columnist", "aired", "television", "filled", "Point", "Reilly", "great", "special", "2013", "analyst", "fifth", "time" ],
+  "adjectives" : [ "special", "current", "short-lived", "political", "fifth", "different", "great", "gay" ],
+  "nouns" : [ "CNN", "deal", "week", "Twitter", "discussion", "program", "advertising", "slot", "air", "ESPN", "executive", "Margaret", "commentator", "personality", "NFL", "Hoover", "rights", "Rick", "Jason", "panel", "Donny", "day", "events", "programming", "activist", "columnist", "Taylor", "television", "ridicule", "Point", "Reilly", "April", "Deutsch", "panelist", "person", "analyst", "time" ],
+  "text" : "(Get to) The Point was a short-lived current events discussion television program that aired on CNN in April 2013. Initially billed by CNN as \"a week of special programming\", the program was hosted by advertising executive and television personality Donny Deutsch with a panel that consisted of political commentator and gay rights activist Margaret Hoover, ESPN columnist Rick Reilly and ESPN NFL analyst Jason Taylor. A fifth panelist slot was filled by a different person each day. (Get to) The Point attracted a great deal of ridicule on Twitter during its time on air. Also during that time, the program averaged just 268,000 viewers with an average of merely 77,000 viewers in the 25-54 viewing demographic. It was also mocked by comedian Jon Stewart during his Comedy Central show. As a result of the low ratings, CNN's management decided not to continue with the show, cancelling (Get to) The Point after only a week of airtime."
+} ]

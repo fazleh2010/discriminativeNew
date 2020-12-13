@@ -5,9 +5,7 @@
  */
 package citec.correlation.wikipedia.element;
 
-import citec.correlation.core.analyzer.Analyzer;
-import citec.correlation.wikipedia.utils.StringMatcherUtil;
-import citec.correlation.wikipedia.element.DBpediaProperty;
+import citec.wikipedia.writer.table.DBpediaEntity;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;

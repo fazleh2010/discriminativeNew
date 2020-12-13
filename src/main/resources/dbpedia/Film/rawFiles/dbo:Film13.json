@@ -1,0 +1,121 @@
+[ {
+  "entityIndex" : "entity10803",
+  "entityUrl" : "http://dbpedia.org/resource/%22Crocodile%22_Dundee",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:budget" : [ "8800000.0" ],
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Russell_Boyd" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/Peter_Faiman" ],
+    "dbo:distributor" : [ "http://dbpedia.org/resource/20th_Century_Fox", "http://dbpedia.org/resource/Paramount_Pictures" ],
+    "dbo:gross" : [ "3.28E8" ],
+    "dbo:musicComposer" : [ "http://dbpedia.org/resource/Peter_Best_(composer)" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/John_Cornell" ],
+    "dbo:runtime" : [ "97.0", "104.0", "5820.0", "6240.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Mark_Blum", "http://dbpedia.org/resource/Linda_Kozlowski", "http://dbpedia.org/resource/David_Gulpilil", "http://dbpedia.org/resource/John_Meillon" ],
+    "dbo:wikiPageExternalLink" : [ "http://colsearch.nfsa.afc.gov.au/nfsa/search/display/display.w3p;adv=yes;group=;groupequals=;holdingType=;page=0;parentid=;query=272855;querytype=;rec=0;resCount=10", "http://www.ozmovies.com.au/movie/crocodile-dundee", "http://australianscreen.com.au/", "http://australianscreen.com.au/titles/crocodile-dundee/", "http://maps.google.com.au/maps?f=q&hl=en&geocode=&q=McKinlay&sll=-25.335448,135.745076&sspn=34.318345,65.917969&ie=UTF8&ll=-21.272219,141.290574&spn=0.017476,0.032187&z=15&iwloc=addr&layer=c&cbll=-21.272121,141.290404&panoid=aZKCpW3s-nrPcY-XQjnD8A&cbp=12,240.49304841107366,,0,-1.9171463247402956" ],
+    "dbo:wikiPageID" : [ "331586" ],
+    "dbo:wikiPageRevisionID" : [ "744245433" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:1980s_romantic_comedy_films", "http://dbpedia.org/resource/Category:Australian_romantic_comedy_films", "http://dbpedia.org/resource/Category:Films_shot_in_Sydney", "http://dbpedia.org/resource/Norm_(social)", "http://dbpedia.org/resource/1986_in_film", "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Motion_Picture_–_Musical_or_Comedy", "http://dbpedia.org/resource/Sequel", "http://dbpedia.org/resource/Top_Gun", "http://dbpedia.org/resource/Box_office", "http://dbpedia.org/resource/Paul_Greco", "http://dbpedia.org/resource/20th_Century_Fox", "http://dbpedia.org/resource/Rotten_Tomatoes", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Anne_Carlisle", "http://dbpedia.org/resource/Caitlin_Clarke", "http://dbpedia.org/resource/Category:1980s_adventure_films", "http://dbpedia.org/resource/Category:1986_films", "http://dbpedia.org/resource/Category:20th_Century_Fox_films", "http://dbpedia.org/resource/Category:APRA_Award_winners", "http://dbpedia.org/resource/Category:Australian_films", "http://dbpedia.org/resource/Category:Directorial_debut_films", "http://dbpedia.org/resource/Category:Films_featuring_a_Best_Musical_or_Comedy_Actor_Golden_Globe_winning_performance", "http://dbpedia.org/resource/Category:Films_set_in_New_York_City", "http://dbpedia.org/resource/Category:Films_shot_in_New_York_City", "http://dbpedia.org/resource/Category:Paramount_Pictures_films", "http://dbpedia.org/resource/Category:Transgender_in_film", "http://dbpedia.org/resource/Comedy_film", "http://dbpedia.org/resource/Kangaroo", "http://dbpedia.org/resource/Northern_Territory", "http://dbpedia.org/resource/Outback", "http://dbpedia.org/resource/Paramount_Pictures", "http://dbpedia.org/resource/Sydney", "http://dbpedia.org/resource/Box_Office_Mojo", "http://dbpedia.org/resource/Larrikin", "http://dbpedia.org/resource/Mark_Blum", "http://dbpedia.org/resource/Pimp", "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Supporting_Actress_–_Motion_Picture", "http://dbpedia.org/resource/Russell_Boyd", "http://dbpedia.org/resource/Saltwater_crocodile", "http://dbpedia.org/resource/Academy_Award_for_Best_Original_Screenplay", "http://dbpedia.org/resource/Linda_Kozlowski", "http://dbpedia.org/resource/Reginald_VelJohnson", "http://dbpedia.org/resource/Rod_Ansell", "http://dbpedia.org/resource/Kakadu_National_Park", "http://dbpedia.org/resource/BAFTA_Award_for_Best_Original_Screenplay", "http://dbpedia.org/resource/Hamlet_(place)", "http://dbpedia.org/resource/Category:%22Crocodile%22_Dundee_films", "http://dbpedia.org/resource/Category:Films_directed_by_Peter_Faiman", "http://dbpedia.org/resource/Steve_Rackman", "http://dbpedia.org/resource/Australians", "http://dbpedia.org/resource/Mores", "http://dbpedia.org/resource/New_York_City", "http://dbpedia.org/resource/Paul_Hogan", "http://dbpedia.org/resource/The_bush", "http://dbpedia.org/resource/Walkabout", "http://dbpedia.org/resource/Water_buffalo", "http://dbpedia.org/resource/Category:Adventure_comedy_films", "http://dbpedia.org/resource/Category:Australian_comedy_films", "http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts", "http://dbpedia.org/resource/Golden_Globe_Award", "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Actor_–_Motion_Picture_Musical_or_Comedy", "http://dbpedia.org/resource/Saturn_Award_for_Best_Fantasy_Film", "http://dbpedia.org/resource/BAFTA_Award_for_Best_Actor_in_a_Leading_Role", "http://dbpedia.org/resource/David_Gulpilil", "http://dbpedia.org/resource/Category:Australian_independent_films", "http://dbpedia.org/resource/Ned_Kelly", "http://dbpedia.org/resource/Category:Films_set_in_the_Northern_Territory", "http://dbpedia.org/resource/Ken_Shadie", "http://dbpedia.org/resource/Newsday", "http://dbpedia.org/resource/Ocker", "http://dbpedia.org/resource/Terry_Gill", "http://dbpedia.org/resource/Saturn_Awards", "http://dbpedia.org/resource/Peter_Faiman", "http://dbpedia.org/resource/Cloncurry", "http://dbpedia.org/resource/Australian_Outback", "http://dbpedia.org/resource/Bushrangers", "http://dbpedia.org/resource/%22Crocodile%22_Dundee_II", "http://dbpedia.org/resource/John_Snyder_(actor)", "http://dbpedia.org/resource/New_York_(state)", "http://dbpedia.org/resource/McKinlay,_Queensland", "http://dbpedia.org/resource/Peter_Best_(composer)", "http://dbpedia.org/resource/Crocodile_Dundee_in_Los_Angeles", "http://dbpedia.org/resource/John_Meillon", "http://dbpedia.org/resource/Billabong", "http://dbpedia.org/resource/John_Cornell", "http://dbpedia.org/resource/Michael_%22Crocodile%22_Dundee", "http://dbpedia.org/resource/Motion_Picture_Sound_Editors", "http://dbpedia.org/resource/Saturn_Award_for_Best_Writing", "http://dbpedia.org/resource/Anne_Francine", "http://dbpedia.org/resource/Academy_Award", "http://dbpedia.org/resource/Crocodile_Dundee_II", "http://dbpedia.org/resource/Gerry_Skilton", "http://dbpedia.org/resource/Australian_Aborigines", "http://dbpedia.org/resource/Golden_Screen", "http://dbpedia.org/resource/BMI_Film_&_TV_Awards" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Paul_Hogan", "http://dbpedia.org/resource/Ken_Shadie", "http://dbpedia.org/resource/John_Cornell" ],
+    "dbp:caption" : [ "Theatrical release poster by Dan Gouzee" ],
+    "dbp:editing" : [ "David Stiven" ],
+    "dbp:imageSize" : [ "215" ],
+    "dbp:language" : [ "English" ],
+    "dbp:story" : [ "Paul Hogan" ],
+    "dbp:studio" : [ "Rimfire Films" ]
+  },
+  "words" : [ "``", "Mick", "New", "commercial", "attempt", "would", "portrayed", "worldwide", "budget", "10", "Sue", "audience", "$", "comedy", "wife", "Rod", "made", "mainstream", "Dundee", "film", "City", "Charlton", "'s", ",", "weathered", ".", "1986", "Ansell", "million", "Kozlowski", "true", "American", "York", "phenomenon", "Paul", "Linda", "life", "exploits", "proved", "Outback", "Inspired", "Crocodile", "make", "''", "set", "Australian-American", "Hogan", "stars", "appeal", "Australian", "future", "deliberate" ],
+  "adjectives" : [ "commercial", "American", "Australian", "future", "true", "mainstream", "worldwide", "weathered", "deliberate" ],
+  "nouns" : [ "Mick", "New", "York", "phenomenon", "Paul", "attempt", "Linda", "life", "exploits", "Outback", "Crocodile", "budget", "Sue", "audience", "Australian-American", "comedy", "wife", "Rod", "Hogan", "Dundee", "film", "City", "Charlton", "Ansell", "Kozlowski" ],
+  "text" : "\"Crocodile\" Dundee is a 1986 Australian-American comedy film set in the Australian Outback and in New York City. It stars Paul Hogan as the weathered Mick Dundee. Hogan's future wife Linda Kozlowski portrayed Sue Charlton. Inspired by the true life exploits of Rod Ansell, the film was made on a budget of under $10 million as a deliberate attempt to make a commercial Australian film that would appeal to a mainstream American audience, but proved to be a worldwide phenomenon. Released on 30 April 1986 in Australia, and on 26 September 1986 in the United States, it was the second-highest-grossing film in the United States in that year and went on to become the second-highest grossing film worldwide at the box office as well, with an estimated 46 million tickets sold in the US. There are two versions of the film: the Australian version, and an international version, which had much of the Australian slang replaced with more commonly understood terms, and was slightly shorter. Although the film was a hit both in Australia and abroad, it became controversial with some Australian critics and audiences–who resented the image of Australians as being ocker. These views were largely put to rest as the unsophisticated \"larrikin bushman\" has long been firmly entrenched in Australian-related pop culture. The first scenes were filmed in the small town of McKinlay in Queensland. The hotel has beautiful original warped and polished hardwood floors. There are no crocodiles in the area as it's in the outback with no major water source. Crocodile Dundee was followed by two sequels: Crocodile Dundee II (1988) and Crocodile Dundee in Los Angeles (2001), although both films failed to match the critical success of the predecessor."
+}, {
+  "entityIndex" : "entity10804",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%80_Nous_la_Libert%C3%A9",
+  "dboClass" : "dbo:Film",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10805",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%80_Hauteur_d'homme",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10806",
+  "entityUrl" : "http://dbpedia.org/resource/%C2%A1Three_Amigos!",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10807",
+  "entityUrl" : "http://dbpedia.org/resource/%22Crocodile%22_Dundee_II",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:budget" : [ "1.4E7" ],
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Russell_Boyd" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Australia" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/John_Cornell" ],
+    "dbo:distributor" : [ "http://dbpedia.org/resource/Paramount_Pictures" ],
+    "dbo:gross" : [ "2.396E8" ],
+    "dbo:musicComposer" : [ "http://dbpedia.org/resource/Peter_Best_(composer)" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/John_Cornell" ],
+    "dbo:runtime" : [ "108.0", "6480.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Linda_Kozlowski", "http://dbpedia.org/resource/John_Meillon" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.ozornewzealand.com", "http://colsearch.nfsa.afc.gov.au/nfsa/search/display/display.w3p;adv=yes;group=;groupequals=;holdingType=;page=0;parentid=;query=276943;querytype=;rec=0;resCount=10", "http://www.ozmovies.com.au/movie/crocodile-dundee-ii", "http://www.ozornewzealand.com/crocodile-dundee-2.html" ],
+    "dbo:wikiPageID" : [ "1118809" ],
+    "dbo:wikiPageRevisionID" : [ "737300680" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Coming_to_America", "http://dbpedia.org/resource/The_New_York_Times", "http://dbpedia.org/resource/Dennis_Boutsikaris", "http://dbpedia.org/resource/Drug_cartel", "http://dbpedia.org/resource/Sequel", "http://dbpedia.org/resource/Bushfire", "http://dbpedia.org/resource/Adventure_film", "http://dbpedia.org/resource/Luis_Guzmán", "http://dbpedia.org/resource/Rotten_Tomatoes", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Category:Films_about_Colombian_drug_cartels", "http://dbpedia.org/resource/Bad,_Bad_Leroy_Brown", "http://dbpedia.org/resource/Gus_Mercurio", "http://dbpedia.org/resource/Juan_Fernández_de_Alarcon", "http://dbpedia.org/resource/Stephen_Root", "http://dbpedia.org/resource/Category:1980s_adventure_films", "http://dbpedia.org/resource/Category:1980s_comedy_films", "http://dbpedia.org/resource/Category:1980s_sequel_films", "http://dbpedia.org/resource/Category:1988_films", "http://dbpedia.org/resource/Category:Australian_films", "http://dbpedia.org/resource/Category:Directorial_debut_films", "http://dbpedia.org/resource/Category:English-language_films", "http://dbpedia.org/resource/Category:Films_about_drugs", "http://dbpedia.org/resource/Category:Films_set_in_New_York_City", "http://dbpedia.org/resource/Category:Paramount_Pictures_films", "http://dbpedia.org/resource/Colombia", "http://dbpedia.org/resource/Comedy_film", "http://dbpedia.org/resource/Northern_Territory", "http://dbpedia.org/resource/Paramount_Pictures", "http://dbpedia.org/resource/Rambo_III", "http://dbpedia.org/resource/Russell_Boyd", "http://dbpedia.org/resource/Linda_Kozlowski", "http://dbpedia.org/resource/Blast_fishing", "http://dbpedia.org/resource/Manhattan", "http://dbpedia.org/resource/United_States_dollar", "http://dbpedia.org/resource/Jim_Holt_(actor)", "http://dbpedia.org/resource/Category:%22Crocodile%22_Dundee_films", "http://dbpedia.org/resource/Steve_Rackman", "http://dbpedia.org/resource/%22Crocodile%22_Dundee", "http://dbpedia.org/resource/Australia", "http://dbpedia.org/resource/Indigenous_Australians", "http://dbpedia.org/resource/New_York_City", "http://dbpedia.org/resource/Paul_Hogan", "http://dbpedia.org/resource/Category:Adventure_comedy_films", "http://dbpedia.org/resource/Category:Australian_comedy_films", "http://dbpedia.org/resource/Colin_Quinn", "http://dbpedia.org/resource/Category:Films_set_in_the_Northern_Territory", "http://dbpedia.org/resource/Janet_Maslin", "http://dbpedia.org/resource/Ernie_Dingo", "http://dbpedia.org/resource/Peter_Best_(composer)", "http://dbpedia.org/resource/Charles_S._Dutton", "http://dbpedia.org/resource/Kenneth_Welsh", "http://dbpedia.org/resource/Crocodile_Dundee_in_Los_Angeles", "http://dbpedia.org/resource/John_Meillon", "http://dbpedia.org/resource/Colombian_drug_cartel", "http://dbpedia.org/resource/John_Cornell", "http://dbpedia.org/resource/Michael_%22Crocodile%22_Dundee", "http://dbpedia.org/resource/Susie_Essman", "http://dbpedia.org/resource/Category:Films_directed_by_John_Cornell", "http://dbpedia.org/resource/Gerry_Skilton", "http://dbpedia.org/resource/DEA", "http://dbpedia.org/resource/Wikt:bilong" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Paul_Hogan" ],
+    "dbp:caption" : [ "Theatrical release poster" ],
+    "dbp:editing" : [ "David Stiven" ],
+    "dbp:language" : [ "English" ]
+  },
+  "words" : [ "``", "Mick", "New", "York", "roles", "John", "Angeles", "respectively", "Paul", "Linda", "drug", "shot", "shown", "Crocodile", "Northern", "reprise", "sequel", "''", "II", "Sue", "opposing", "directed", "Territory", "Australian-American", "comedy", "Hogan", "2001", "Dundee", "Actors", "film", "Charlton", "City", ",", "'s", "followed", ".", "produced", "adventure", "1986", "Los", "Kozlowski", "Colombian", "Cornell", "location", ";", "cartel", "Australia", "1988" ],
+  "adjectives" : [ "Australian-American", "Colombian" ],
+  "nouns" : [ "Mick", "New", "York", "roles", "John", "Angeles", "Paul", "Linda", "drug", "Crocodile", "Northern", "sequel", "II", "Sue", "Territory", "comedy", "Hogan", "Dundee", "Actors", "film", "Charlton", "City", "adventure", "Los", "Kozlowski", "Cornell", "location", "cartel", "Australia" ],
+  "text" : "\"Crocodile\" Dundee II is a 1988 Australian-American adventure and comedy film. It is a sequel to the 1986 film \"Crocodile\" Dundee, and was followed by 2001's Crocodile Dundee in Los Angeles. Actors Paul Hogan and Linda Kozlowski reprise their roles as Mick Dundee and Sue Charlton, respectively; here shown opposing a Colombian drug cartel. The film was produced and directed by John Cornell, and shot on location in New York City and Northern Territory, Australia. It cost $14 million to make."
+}, {
+  "entityIndex" : "entity10808",
+  "entityUrl" : "http://dbpedia.org/resource/%22Pimpernel%22_Smith",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:director" : [ "http://dbpedia.org/resource/Leslie_Howard_(actor)" ],
+    "dbo:distributor" : [ "http://dbpedia.org/resource/United_Artists" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/Harold_Huth", "http://dbpedia.org/resource/Leslie_Howard_(actor)" ],
+    "dbo:runtime" : [ "120.0", "7200.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Leslie_Howard_(actor)", "http://dbpedia.org/resource/Mary_Morris", "http://dbpedia.org/resource/Francis_L._Sullivan" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.screenonline.org.uk/film/id/476656/", "http://www.blakeneymanor.com/spimages8.html" ],
+    "dbo:wikiPageID" : [ "1362990" ],
+    "dbo:wikiPageRevisionID" : [ "742643090" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Films_set_in_Germany", "http://dbpedia.org/resource/The_New_York_Times", "http://dbpedia.org/resource/Winston_Churchill", "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Arthur_Hambling", "http://dbpedia.org/resource/British_National_Films_Company", "http://dbpedia.org/resource/Hector_Abbas", "http://dbpedia.org/resource/Category:British_World_War_II_propaganda_films", "http://dbpedia.org/resource/Michael_Rennie", "http://dbpedia.org/resource/Harold_Huth", "http://dbpedia.org/resource/Philip_Friend", "http://dbpedia.org/resource/Emma_Orczy", "http://dbpedia.org/resource/Aubrey_Mallalieu", "http://dbpedia.org/resource/Battleship", "http://dbpedia.org/resource/Category:1941_films", "http://dbpedia.org/resource/Category:British_black-and-white_films", "http://dbpedia.org/resource/Category:British_films", "http://dbpedia.org/resource/Category:Films_set_in_the_1930s", "http://dbpedia.org/resource/Central_Europe", "http://dbpedia.org/resource/Franklin_D._Roosevelt", "http://dbpedia.org/resource/French_Revolution", "http://dbpedia.org/resource/Gestapo", "http://dbpedia.org/resource/Hungary", "http://dbpedia.org/resource/Newfoundland_and_Labrador", "http://dbpedia.org/resource/President_of_the_United_States", "http://dbpedia.org/resource/Thriller_(genre)", "http://dbpedia.org/resource/Aryan", "http://dbpedia.org/resource/Category:Screenplays_by_Anatole_de_Grunwald", "http://dbpedia.org/resource/Category:Screenplays_by_Ian_Dalrymple", "http://dbpedia.org/resource/Budapest", "http://dbpedia.org/resource/Chequers", "http://dbpedia.org/resource/Dennis_Arundell", "http://dbpedia.org/resource/Joan_Kemp-Welch", "http://dbpedia.org/resource/A._E._Matthews", "http://dbpedia.org/resource/Allan_Jeayes", "http://dbpedia.org/resource/Leslie_Howard_(actor)", "http://dbpedia.org/resource/Roland_Pertwee", "http://dbpedia.org/resource/United_Artists", "http://dbpedia.org/resource/Category:1940s_adventure_films", "http://dbpedia.org/resource/The_Scarlet_Pimpernel", "http://dbpedia.org/resource/Argentia", "http://dbpedia.org/resource/Sweden", "http://dbpedia.org/resource/University_of_Cambridge", "http://dbpedia.org/resource/HMS_Prince_of_Wales_(53)", "http://dbpedia.org/resource/Hugh_McDermott_(actor)", "http://dbpedia.org/resource/Manning_Whiley", "http://dbpedia.org/resource/Percy_Walsh", "http://dbpedia.org/resource/Hungarian_Jew", "http://dbpedia.org/resource/Raoul_Wallenberg", "http://dbpedia.org/resource/Raymond_Huntley", "http://dbpedia.org/resource/Anatole_de_Grunwald", "http://dbpedia.org/resource/Ian_Dalrymple", "http://dbpedia.org/resource/Scarecrow", "http://dbpedia.org/resource/Archaeologist", "http://dbpedia.org/resource/Film_poster", "http://dbpedia.org/resource/Category:Scarlet_Pimpernel_films", "http://dbpedia.org/resource/The_First_of_the_Few", "http://dbpedia.org/resource/Ben_Williams_(actor)", "http://dbpedia.org/resource/Mary_Morris", "http://dbpedia.org/resource/Roddy_Hughes", "http://dbpedia.org/resource/The_Scarlet_Pimpernel_(1934_film)", "http://dbpedia.org/resource/Francis_L._Sullivan", "http://dbpedia.org/resource/Charles_Paton", "http://dbpedia.org/resource/Neal_Arden", "http://dbpedia.org/resource/Category:Films_directed_by_Leslie_Howard", "http://dbpedia.org/resource/Peter_Gawthorne", "http://dbpedia.org/resource/Ernest_Butcher", "http://dbpedia.org/resource/List_of_films_in_the_public_domain", "http://dbpedia.org/resource/Anti-Nazi", "http://dbpedia.org/resource/David_Tomlinson_(actor)" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Anatole_de_Grunwald", "http://dbpedia.org/resource/Ian_Dalrymple" ],
+    "dbp:caption" : [ "Original theatrical poster" ],
+    "dbp:cinematography" : [ "Mutz Greenbaum" ],
+    "dbp:country" : [ "United Kingdom" ],
+    "dbp:editing" : [ "Sidney Cole" ],
+    "dbp:imageSize" : [ "200" ],
+    "dbp:language" : [ "English" ],
+    "dbp:music" : [ "John Greenwood" ],
+    "dbp:story" : [ "A.G. Macdonell", "Wolfgang Wilhelm" ],
+    "dbp:studio" : [ "http://dbpedia.org/resource/British_National_Films_Company" ],
+    "dbp:writer" : [ "A.G. Macdonell" ]
+  },
+  "words" : [ "``", "anti-Nazi", "Film", "saved", "United", "World", "facets", "Swedish", "States", "Howard", "helped", "released", "1934", "described", "months", "last", "Europe", "work", "Raoul", "Smith", "film", ",", "thousands", "mount", ".", "produced", "Budapest", "1941", "camps", "pre-Second", "Revolutionary", "-RRB-", "Leslie", "1945", "valuable", "tens", "-LRB-", "role", "War", "thriller", "updates", "real-life", "Wallenberg", "Jews", "V", "France", "Yearbook", "rescue", "''", "British", "directed", "Pimpernel", "star", "propaganda", "Nazi", "one", "Mister", "concentration", "Second", "inspire", "diplomat", "Hungarian", "Scarlet", "operation" ],
+  "adjectives" : [ "British", "anti-Nazi", "last", "Second", "Nazi", "Hungarian", "Scarlet", "valuable", "Swedish", "real-life" ],
+  "nouns" : [ "tens", "role", "Film", "United", "War", "thriller", "World", "updates", "facets", "States", "Wallenberg", "Howard", "Jews", "V", "France", "Yearbook", "rescue", "months", "star", "Pimpernel", "propaganda", "Europe", "work", "Raoul", "Smith", "Mister", "concentration", "film", "thousands", "Budapest", "camps", "pre-Second", "Revolutionary", "diplomat", "Leslie", "operation" ],
+  "text" : "\"Pimpernel\" Smith (released in the United States as Mister V) is a 1941 British anti-Nazi thriller, produced and directed by its star Leslie Howard, which updates his role in the 1934 The Scarlet Pimpernel from Revolutionary France to pre-Second World War Europe. The British Film Yearbook for 1945 described his work as \"one of the most valuable facets of British propaganda\". The film helped to inspire Swedish diplomat Raoul Wallenberg to mount his real-life rescue operation in Budapest that saved tens of thousands of Hungarian Jews from Nazi concentration camps during the last months of the Second World War."
+} ]

@@ -1,0 +1,2095 @@
+[ {
+  "entityIndex" : "entity15479",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABsuke_Iseya",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15480",
+  "entityUrl" : "http://dbpedia.org/resource/Yuri_Shiratori",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuri_Shiratori) dbo:birthDate o'<1968-08-20>",
+    "2" : "s(Yuri_Shiratori) dbo:birthDate o'<1968-8-20>",
+    "3" : "s(Yuri_Shiratori) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15481",
+  "entityUrl" : "http://dbpedia.org/resource/Yuen_Biao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuen_Biao) dbo:birthDate o'<1957-7-26>",
+    "2" : "s(Yuen_Biao) dbo:birthPlace o'<Nanjing>",
+    "3" : "s(Yuen_Biao) dbp:birthPlace o'<British_Hong_Kong>",
+    "4" : "s(Yuen_Biao) dbp:birthPlace o'<Castle_Peak_Road>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15482",
+  "entityUrl" : "http://dbpedia.org/resource/Yuriko_Yamaguchi_(voice_actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuriko_Yamaguchi_(voice_actress)) dbo:birthDate o'<1965-11-21>",
+    "2" : "s(Yuriko_Yamaguchi_(voice_actress)) dbo:birthPlace o'<Japan>",
+    "3" : "s(Yuriko_Yamaguchi_(voice_actress)) dbo:birthPlace o'<Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15483",
+  "entityUrl" : "http://dbpedia.org/resource/Yumiko_Kobayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumiko_Kobayashi) dbo:birthDate o'<1979-6-18>",
+    "2" : "s(Yumiko_Kobayashi) dbo:birthPlace o'<Chiba_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15484",
+  "entityUrl" : "http://dbpedia.org/resource/Yuko_Kobayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuko_Kobayashi) dbo:birthDate o'<1961-02-06>",
+    "2" : "s(Yuko_Kobayashi) dbo:birthDate o'<1961-2-6>",
+    "3" : "s(Yuko_Kobayashi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yuko_Kobayashi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15485",
+  "entityUrl" : "http://dbpedia.org/resource/Yukiko_Iwai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukiko_Iwai) dbo:birthDate o'<1972-1-13>",
+    "2" : "s(Yukiko_Iwai) dbo:birthPlace o'<Chiba,_Chiba>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15486",
+  "entityUrl" : "http://dbpedia.org/resource/Yuriko_Yamamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuriko_Yamamoto) dbo:birthDate o'<1960-02-13>",
+    "2" : "s(Yuriko_Yamamoto) dbo:birthDate o'<1959-2-13>",
+    "3" : "s(Yuriko_Yamamoto) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yuriko_Yamamoto) dbo:birthPlace o'<Hino,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15487",
+  "entityUrl" : "http://dbpedia.org/resource/Yuri_Mitsui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuri_Mitsui) dbo:birthDate o'<1972-1-1>",
+    "2" : "s(Yuri_Mitsui) dbo:birthPlace o'<Kashiwa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15488",
+  "entityUrl" : "http://dbpedia.org/resource/Yuko_Sasamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuko_Sasamoto) dbo:birthDate o'<1973-01-30>",
+    "2" : "s(Yuko_Sasamoto) dbo:birthDate o'<1973-1-30>",
+    "3" : "s(Yuko_Sasamoto) dbo:birthPlace o'<Chiba_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15489",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Shimada",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoko_Shimada) dbo:birthDate o'<1953-05-17>",
+    "2" : "s(Yoko_Shimada) dbo:birthDate o'<1953-5-17>",
+    "3" : "s(Yoko_Shimada) dbo:birthPlace o'<Kumamoto>",
+    "4" : "s(Yoko_Shimada) dbo:birthPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15490",
+  "entityUrl" : "http://dbpedia.org/resource/Yuen_Wah",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuen_Wah) dbo:birthDate o'<1950-9-2>",
+    "2" : "s(Yuen_Wah) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Yuen_Wah) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15491",
+  "entityUrl" : "http://dbpedia.org/resource/Yurina_Hase",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yurina_Hase) dbo:birthDate o'<1979-12-9>",
+    "2" : "s(Yurina_Hase) dbo:birthPlace o'<Izu,_Shizuoka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15492",
+  "entityUrl" : "http://dbpedia.org/resource/Yasuhiro_Takato",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yasuhiro_Takato) dbo:birthDate o'<1968-01-23>",
+    "2" : "s(Yasuhiro_Takato) dbo:birthDate o'<1968-1-23>",
+    "3" : "s(Yasuhiro_Takato) dbo:birthPlace o'<Okayama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15493",
+  "entityUrl" : "http://dbpedia.org/resource/Yumi_Takada",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumi_Takada) dbo:birthDate o'<1961-09-21>",
+    "2" : "s(Yumi_Takada) dbo:birthDate o'<1961-9-21>",
+    "3" : "s(Yumi_Takada) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yumi_Takada) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15494",
+  "entityUrl" : "http://dbpedia.org/resource/Yayoi_Jinguji",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yayoi_Jinguji) dbo:birthDate o'<1965-12-08>",
+    "2" : "s(Yayoi_Jinguji) dbo:birthDate o'<1965-12-8>",
+    "3" : "s(Yayoi_Jinguji) dbo:birthPlace o'<Hyōgo_Prefecture>",
+    "4" : "s(Yayoi_Jinguji) dbo:birthPlace o'<Hyogo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15495",
+  "entityUrl" : "http://dbpedia.org/resource/Yuki_Masuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuki_Masuda) dbo:birthDate o'<1973-2-9>",
+    "2" : "s(Yuki_Masuda) dbo:birthPlace o'<Atami,_Shizuoka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15496",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Nogiwa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15497",
+  "entityUrl" : "http://dbpedia.org/resource/Yuka_Nomura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuka_Nomura) dbo:birthDate o'<1984-3-20>",
+    "2" : "s(Yuka_Nomura) dbo:birthPlace o'<Yokohama>",
+    "3" : "s(Yuka_Nomura) dbp:name o'<Yuka Nomura>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15498",
+  "entityUrl" : "http://dbpedia.org/resource/Yuriko_Hishimi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuriko_Hishimi) dbo:birthDate o'<1947-6-10>",
+    "2" : "s(Yuriko_Hishimi) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Yuriko_Hishimi) dbp:name o'<Hishimi Yuriko>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15499",
+  "entityUrl" : "http://dbpedia.org/resource/Yumiko_Fujita",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumiko_Fujita) dbo:birthDate o'<1945-09-12>",
+    "2" : "s(Yumiko_Fujita) dbo:birthDate o'<1945-9-12>",
+    "3" : "s(Yumiko_Fujita) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yumiko_Fujita) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Yumiko_Fujita) dbo:birthPlace o'<Meguro>",
+    "6" : "s(Yumiko_Fujita) dbp:name o'<Yumiko Fujita>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15500",
+  "entityUrl" : "http://dbpedia.org/resource/Yumi_Adachi__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15501",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Akino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoko_Akino) dbo:birthDate o'<1957-1-18>",
+    "2" : "s(Yoko_Akino) dbo:birthPlace o'<Osaka>",
+    "3" : "s(Yoko_Akino) dbp:name o'<Yōko Akino>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15502",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABto_Kazama",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15503",
+  "entityUrl" : "http://dbpedia.org/resource/Yukiko_Okamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukiko_Okamoto) dbo:birthDate o'<1979-5-5>",
+    "2" : "s(Yukiko_Okamoto) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "3" : "s(Yukiko_Okamoto) dbp:name o'<Yukiko Okamoto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15504",
+  "entityUrl" : "http://dbpedia.org/resource/Yuki_Ninagawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuki_Ninagawa) dbo:birthDate o'<1960-08-18>",
+    "2" : "s(Yuki_Ninagawa) dbo:birthDate o'<1960-8-18>",
+    "3" : "s(Yuki_Ninagawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yuki_Ninagawa) dbo:birthPlace o'<Yokohama>",
+    "5" : "s(Yuki_Ninagawa) dbp:name o'<Yuki Ninagawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15505",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABko_Nagashima",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15506",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Matsuyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15507",
+  "entityUrl" : "http://dbpedia.org/resource/Yukimasa_Kishino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukimasa_Kishino) dbo:birthDate o'<1955-10-21>",
+    "2" : "s(Yukimasa_Kishino) dbo:birthPlace o'<Edogawa,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15508",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshiko_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshiko_Tanaka) dbo:birthDate o'<1956-04-08>",
+    "2" : "s(Yoshiko_Tanaka) dbo:birthDate o'<1956-4-8>",
+    "3" : "s(Yoshiko_Tanaka) dbo:birthPlace o'<Adachi,_Tokyo>",
+    "4" : "s(Yoshiko_Tanaka) dbo:deathDate o'<2011-04-21>",
+    "5" : "s(Yoshiko_Tanaka) dbo:deathDate o'<2011-4-21>",
+    "6" : "s(Yoshiko_Tanaka) dbo:deathPlace o'<Minato,_Tokyo>",
+    "7" : "s(Yoshiko_Tanaka) dbp:name o'<Yoshiko Tanaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15509",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Muzhi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuan_Muzhi) dbo:birthDate o'<1909-3-3>",
+    "2" : "s(Yuan_Muzhi) dbo:birthPlace o'<Ningbo>",
+    "3" : "s(Yuan_Muzhi) dbo:deathDate o'<1978-1-30>",
+    "4" : "s(Yuan_Muzhi) dbo:deathPlace o'<Beijing>",
+    "5" : "s(Yuan_Muzhi) dbp:birthPlace o'<Zhejiang>",
+    "6" : "s(Yuan_Muzhi) dbp:birthPlace o'<Ningbo>",
+    "7" : "s(Yuan_Muzhi) dbp:deathPlace o'<Beijing>",
+    "8" : "s(Yuan_Muzhi) dbp:name o'<Yuan Muzhi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15510",
+  "entityUrl" : "http://dbpedia.org/resource/Yukari_Tachibana",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukari_Tachibana) dbo:birthDate o'<1965-10-8>",
+    "2" : "s(Yukari_Tachibana) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Yukari_Tachibana) dbp:name o'<Yukari Tachibana>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15511",
+  "entityUrl" : "http://dbpedia.org/resource/Yuriko_Ishida",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuriko_Ishida) dbo:birthDate o'<1969-10-03>",
+    "2" : "s(Yuriko_Ishida) dbo:birthDate o'<1969-10-3>",
+    "3" : "s(Yuriko_Ishida) dbo:birthPlace o'<Nagoya>",
+    "4" : "s(Yuriko_Ishida) dbo:birthPlace o'<Nagoya,_Aichi>",
+    "5" : "s(Yuriko_Ishida) dbp:name o'<Ishida Yuriko>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15512",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshino_Kimura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshino_Kimura) dbo:birthDate o'<1976-04-10>",
+    "2" : "s(Yoshino_Kimura) dbo:birthDate o'<1976-4-10>",
+    "3" : "s(Yoshino_Kimura) dbo:birthPlace o'<England>",
+    "4" : "s(Yoshino_Kimura) dbo:birthPlace o'<London>",
+    "5" : "s(Yoshino_Kimura) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Yoshino_Kimura) dbo:height o'<167.0>",
+    "7" : "s(Yoshino_Kimura) dbp:name o'<Kimura Yoshino>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15513",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Moriguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoko_Moriguchi) dbo:birthDate o'<1966-08-05>",
+    "2" : "s(Yoko_Moriguchi) dbo:birthDate o'<1966-8-5>",
+    "3" : "s(Yoko_Moriguchi) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Yoko_Moriguchi) dbo:height o'<164.0>",
+    "5" : "s(Yoko_Moriguchi) dbp:name o'<Yoko Moriguchi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15514",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABji_Kishi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15515",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8D_Inoue",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15516",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABko_Sat%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15517",
+  "entityUrl" : "http://dbpedia.org/resource/Yumi_Shimura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumi_Shimura) dbo:birthDate o'<1982-11-30>",
+    "2" : "s(Yumi_Shimura) dbo:birthPlace o'<Yamanashi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15518",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshiko_Yamaguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshiko_Yamaguchi) dbo:birthDate o'<1920-2-12>",
+    "2" : "s(Yoshiko_Yamaguchi) dbo:birthPlace o'<Fushun>",
+    "3" : "s(Yoshiko_Yamaguchi) dbo:deathDate o'<2014-9-7>",
+    "4" : "s(Yoshiko_Yamaguchi) dbo:deathPlace o'<Tokyo>",
+    "5" : "s(Yoshiko_Yamaguchi) dbp:birthPlace o'<Fushun, Manchuria, China>",
+    "6" : "s(Yoshiko_Yamaguchi) dbp:deathPlace o'<Japan>",
+    "7" : "s(Yoshiko_Yamaguchi) dbp:deathPlace o'<Tokyo>",
+    "8" : "s(Yoshiko_Yamaguchi) dbp:name o'<Shirley Yamaguchi>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(yoshiko yamaguchi=Yoshiko_Yamaguchi) [appeared in japanese movies under ] o'<shirley yamaguchi=Shirley_Yamaguchi>"
+  },
+  "abstract" : {
+    "4" : "after the war, yoshiko yamaguchi<Yoshiko_Yamaguchi> appeared in japanese movies under her real name, as well as in several english-language movies under the stage name shirley yamaguchi<Shirley_Yamaguchi>\n"
+  }
+}, {
+  "entityIndex" : "entity15519",
+  "entityUrl" : "http://dbpedia.org/resource/Yasunori_Masutani",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yasunori_Masutani) dbo:birthDate o'<1961-07-05>",
+    "2" : "s(Yasunori_Masutani) dbo:birthDate o'<1961-1-1>",
+    "3" : "s(Yasunori_Masutani) dbo:birthPlace o'<Sapporo>",
+    "4" : "s(Yasunori_Masutani) dbo:birthPlace o'<Hokkaidō>",
+    "5" : "s(Yasunori_Masutani) dbo:birthPlace o'<Japan>",
+    "6" : "s(Yasunori_Masutani) dbp:name o'<Yasunori Masutani>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15520",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshimi_Iwasaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshimi_Iwasaki) dbo:birthDate o'<1961-6-15>",
+    "2" : "s(Yoshimi_Iwasaki) dbo:birthPlace o'<Koto,_Tokyo>",
+    "3" : "s(Yoshimi_Iwasaki) dbp:name o'<Iwasaki Yoshimi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15521",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Natsuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15522",
+  "entityUrl" : "http://dbpedia.org/resource/Yukiji_Asaoka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukiji_Asaoka) dbo:birthDate o'<1935-7-23>",
+    "2" : "s(Yukiji_Asaoka) dbo:birthPlace o'<Chūō,_Tokyo>",
+    "3" : "s(Yukiji_Asaoka) dbp:name o'<Yukiji Asaoka>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(yukiji asaoka=Yukiji_Asaoka) [  asaoka yukiji born ] o'<chūō=Chūō,_Tokyo>"
+  },
+  "abstract" : {
+    "1" : "yukiji asaoka<Yukiji_Asaoka> (朝丘 雪路 asaoka yukiji, born 23 july 1935) is a japanese singer and an actress from chūō<Chūō,_Tokyo>, tokyo"
+  }
+}, {
+  "entityIndex" : "entity15523",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABz%C5%8D_Kayama",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15524",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Schaloske",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yvonne_Schaloske) dbo:birthDate o'<1951-8-23>",
+    "2" : "s(Yvonne_Schaloske) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15525",
+  "entityUrl" : "http://dbpedia.org/resource/Youki_Kudoh",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Youki_Kudoh) dbo:birthDate o'<1971-01-17>",
+    "2" : "s(Youki_Kudoh) dbo:birthDate o'<1971-1-17>",
+    "3" : "s(Youki_Kudoh) dbo:birthPlace o'<Japan>",
+    "4" : "s(Youki_Kudoh) dbo:birthPlace o'<Hachiōji,_Tokyo>",
+    "5" : "s(Youki_Kudoh) dbp:name o'<Youki Kudoh>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15526",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Yung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yvonne_Yung) dbo:birthDate o'<1968-9-17>",
+    "2" : "s(Yvonne_Yung) dbp:birthPlace o'<China>",
+    "3" : "s(Yvonne_Yung) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Yvonne_Yung) dbp:name o'<Yvonne Yung Hung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15527",
+  "entityUrl" : "http://dbpedia.org/resource/Yoku_Shioya",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoku_Shioya) dbo:birthDate o'<1958-06-24>",
+    "2" : "s(Yoku_Shioya) dbo:birthDate o'<1958-6-24>",
+    "3" : "s(Yoku_Shioya) dbo:birthPlace o'<Kagoshima_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15528",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABji_Machi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15529",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshino_Takamori",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshino_Takamori) dbo:birthDate o'<1963-11-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15530",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABna_Inamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15531",
+  "entityUrl" : "http://dbpedia.org/resource/Yukari_Fukui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukari_Fukui) dbo:birthDate o'<1982-10-28>",
+    "2" : "s(Yukari_Fukui) dbo:birthPlace o'<Hiratsuka,_Kanagawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15532",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABya_Yagira",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15533",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Asada",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15534",
+  "entityUrl" : "http://dbpedia.org/resource/Yutaka_Takenouchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yutaka_Takenouchi) dbo:birthDate o'<1971-01-02>",
+    "2" : "s(Yutaka_Takenouchi) dbo:birthDate o'<1971-1-2>",
+    "3" : "s(Yutaka_Takenouchi) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Yutaka_Takenouchi) dbo:height o'<179.0>",
+    "5" : "s(Yutaka_Takenouchi) dbp:birthPlace o'<Tokyo, Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15535",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABki_Masuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15536",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Maki_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15537",
+  "entityUrl" : "http://dbpedia.org/resource/Yukimasa_Obi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukimasa_Obi) dbo:birthDate o'<1978-9-22>",
+    "2" : "s(Yukimasa_Obi) dbo:birthPlace o'<Abashiri,_Hokkaido>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15538",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABta_Hiraoka",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15539",
+  "entityUrl" : "http://dbpedia.org/resource/Yukiko_Kashiwagi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukiko_Kashiwagi) dbo:birthDate o'<1947-12-24>",
+    "2" : "s(Yukiko_Kashiwagi) dbo:birthPlace o'<Setagaya>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15540",
+  "entityUrl" : "http://dbpedia.org/resource/Yui_Ichikawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yui_Ichikawa) dbo:birthDate o'<1986-02-10>",
+    "2" : "s(Yui_Ichikawa) dbo:birthDate o'<1986-2-10>",
+    "3" : "s(Yui_Ichikawa) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Yui_Ichikawa) dbp:birthPlace o'<Tokyo, Japan>",
+    "5" : "s(Yui_Ichikawa) dbp:name o'<Yui Ichikawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15541",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABsuke_Numata",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15542",
+  "entityUrl" : "http://dbpedia.org/resource/Yumiko_Kokonoe__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumiko_Kokonoe__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15543",
+  "entityUrl" : "http://dbpedia.org/resource/Yuuki_Matsuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuuki_Matsuda) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15544",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Asagami",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15545",
+  "entityUrl" : "http://dbpedia.org/resource/Yuka_Koyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15546",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dichi_Masukawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15547",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshio_Kawai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshio_Kawai) dbo:birthDate o'<1954-3-27>",
+    "2" : "s(Yoshio_Kawai) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Yoshio_Kawai) dbp:name o'<Yoshio Kawai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15548",
+  "entityUrl" : "http://dbpedia.org/resource/Yukari_Nozawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukari_Nozawa) dbo:birthDate o'<1957-10-9>",
+    "2" : "s(Yukari_Nozawa) dbo:birthPlace o'<Niigata_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15549",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Mi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yang_Mi) dbo:birthDate o'<1986-9-12>",
+    "2" : "s(Yang_Mi) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Yang_Mi) dbp:birthPlace o'<Beijing, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15550",
+  "entityUrl" : "http://dbpedia.org/resource/Yorke_Sherwood",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yorke_Sherwood) dbo:birthDate o'<1873-12-14>",
+    "2" : "s(Yorke_Sherwood) dbo:country o'<England>",
+    "3" : "s(Yorke_Sherwood) dbo:deathDate o'<1956-9-27>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(yorke sherwood=Yorke_Sherwood) [born on 14 december ] o'<england=England>"
+  },
+  "abstract" : {
+    "2" : "yorke sherwood<Yorke_Sherwood> was born on 14 december 1873 in england<England>, and died on 27 september 1956 in hollywood, california\n"
+  }
+}, {
+  "entityIndex" : "entity15551",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Yaguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15552",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshiko_Kuga",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshiko_Kuga) dbo:birthDate o'<1931-01-21>",
+    "2" : "s(Yoshiko_Kuga) dbo:birthDate o'<1931-1-21>",
+    "3" : "s(Yoshiko_Kuga) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Yoshiko_Kuga) dbp:name o'<Yoshiko Kuga>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15553",
+  "entityUrl" : "http://dbpedia.org/resource/Yura_Hinata",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15554",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshie_Taira",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshie_Taira) dbo:birthDate o'<1954-10-10>",
+    "2" : "s(Yoshie_Taira) dbo:birthPlace o'<Obihiro,_Hokkaido>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15555",
+  "entityUrl" : "http://dbpedia.org/resource/Yumi_Asou",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumi_Asou) dbo:birthDate o'<1963-08-15>",
+    "2" : "s(Yumi_Asou) dbo:birthDate o'<1963-8-15>",
+    "3" : "s(Yumi_Asou) dbo:birthPlace o'<Osaka>",
+    "4" : "s(Yumi_Asou) dbo:birthPlace o'<Osaka_Prefecture>",
+    "5" : "s(Yumi_Asou) dbo:height o'<161.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15556",
+  "entityUrl" : "http://dbpedia.org/resource/Yutaka_Matsushige",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yutaka_Matsushige) dbo:birthDate o'<1963-01-19>",
+    "2" : "s(Yutaka_Matsushige) dbo:birthDate o'<1963-1-19>",
+    "3" : "s(Yutaka_Matsushige) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yutaka_Matsushige) dbo:birthPlace o'<Fukuoka_Prefecture>",
+    "5" : "s(Yutaka_Matsushige) dbo:height o'<188.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15557",
+  "entityUrl" : "http://dbpedia.org/resource/Yoyo_Mung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoyo_Mung) dbo:birthDate o'<1973-8-3>",
+    "2" : "s(Yoyo_Mung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15558",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Asaji",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15559",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshio_Inaba",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshio_Inaba) dbo:birthDate o'<1920-07-15>",
+    "2" : "s(Yoshio_Inaba) dbo:birthDate o'<1920-7-15>",
+    "3" : "s(Yoshio_Inaba) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yoshio_Inaba) dbo:birthPlace o'<Narita,_Chiba>",
+    "5" : "s(Yoshio_Inaba) dbo:birthPlace o'<Chiba_Prefecture>",
+    "6" : "s(Yoshio_Inaba) dbo:deathDate o'<1998-04-20>",
+    "7" : "s(Yoshio_Inaba) dbo:deathDate o'<1998-4-20>",
+    "8" : "s(Yoshio_Inaba) dbo:deathPlace o'<Suginami>",
+    "9" : "s(Yoshio_Inaba) dbp:name o'<Yoshio Inaba>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15560",
+  "entityUrl" : "http://dbpedia.org/resource/Yuna_Nishimura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuna_Nishimura) dbo:birthDate o'<1993-12-20>",
+    "2" : "s(Yuna_Nishimura) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15561",
+  "entityUrl" : "http://dbpedia.org/resource/Yoriko_Douguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoriko_Douguchi) dbo:wikiPageRedirects o'<Yoriko_Dōguchi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15562",
+  "entityUrl" : "http://dbpedia.org/resource/Yui_Kano",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yui_Kano) dbo:birthDate o'<1983-12-22>",
+    "2" : "s(Yui_Kano) dbo:birthPlace o'<Sumida,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15563",
+  "entityUrl" : "http://dbpedia.org/resource/Yukiko_Takaguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukiko_Takaguchi) dbo:birthDate o'<1974-11-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15564",
+  "entityUrl" : "http://dbpedia.org/resource/You_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(You_(actress)) dbo:birthDate o'<1964-08-29>",
+    "2" : "s(You_(actress)) dbo:birthDate o'<1964-8-29>",
+    "3" : "s(You_(actress)) dbo:birthPlace o'<Japan>",
+    "4" : "s(You_(actress)) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(You_(actress)) dbp:name o'<You>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15565",
+  "entityUrl" : "http://dbpedia.org/resource/Yuki_Sato_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuki_Sato_(actor)) dbo:wikiPageRedirects o'<Jin_Sato_(actor)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15566",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshizawa_Ayame",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15567",
+  "entityUrl" : "http://dbpedia.org/resource/Yukie_Maeda",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15568",
+  "entityUrl" : "http://dbpedia.org/resource/Yam_Kim-fai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yam_Kim-fai) dbo:birthDate o'<1912-12-29>",
+    "2" : "s(Yam_Kim-fai) dbo:birthPlace o'<Nanhai_District>",
+    "3" : "s(Yam_Kim-fai) dbo:deathDate o'<1989-11-29>",
+    "4" : "s(Yam_Kim-fai) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Yam_Kim-fai) dbp:birthPlace o'<Nanhai_District>",
+    "6" : "s(Yam_Kim-fai) dbp:birthPlace o'<Foshan>",
+    "7" : "s(Yam_Kim-fai) dbp:birthPlace o'<Republic_of_China_(1912-1949)>",
+    "8" : "s(Yam_Kim-fai) dbp:deathPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15569",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABji_Takada",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15570",
+  "entityUrl" : "http://dbpedia.org/resource/Yuki_Matsunaga",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15571",
+  "entityUrl" : "http://dbpedia.org/resource/Yasuo_Iwata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yasuo_Iwata) dbo:birthDate o'<1942-1-19>",
+    "2" : "s(Yasuo_Iwata) dbo:birthPlace o'<Iwate_Prefecture>",
+    "3" : "s(Yasuo_Iwata) dbo:deathDate o'<2009-10-24>",
+    "4" : "s(Yasuo_Iwata) dbo:deathPlace o'<Musashino,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15572",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%AB_Sugimoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15573",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABji_Fujishiro",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15574",
+  "entityUrl" : "http://dbpedia.org/resource/Yukiko_Amano",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15575",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshiko_Asai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshiko_Asai) dbo:birthDate o'<1941-03-21>",
+    "2" : "s(Yoshiko_Asai) dbo:birthDate o'<1941-3-21>",
+    "3" : "s(Yoshiko_Asai) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15576",
+  "entityUrl" : "http://dbpedia.org/resource/Yasuhiko_Imai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yasuhiko_Imai) dbo:birthDate o'<1965-11-22>",
+    "2" : "s(Yasuhiko_Imai) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15577",
+  "entityUrl" : "http://dbpedia.org/resource/Ya_Chang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ya_Chang) dbo:birthPlace o'<Japan>",
+    "2" : "s(Ya_Chang) dbo:birthPlace o'<Gunma_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15578",
+  "entityUrl" : "http://dbpedia.org/resource/You_Yong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(You_Yong) dbo:birthDate o'<1963-12-13>",
+    "2" : "s(You_Yong) dbo:birthPlace o'<Xi'an>",
+    "3" : "s(You_Yong) dbp:birthPlace o'<China>",
+    "4" : "s(You_Yong) dbp:birthPlace o'<Xi'an>",
+    "5" : "s(You_Yong) dbp:birthPlace o'<Shaanxi>",
+    "6" : "s(You_Yong) dbp:name o'<You Yong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15579",
+  "entityUrl" : "http://dbpedia.org/resource/Yukari_Mizuno",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukari_Mizuno) dbo:birthDate o'<1986-10-5>",
+    "2" : "s(Yukari_Mizuno) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15580",
+  "entityUrl" : "http://dbpedia.org/resource/Yurika_Hino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yurika_Hino) dbo:birthDate o'<1963-01-16>",
+    "2" : "s(Yurika_Hino) dbo:birthDate o'<1963-1-1>",
+    "3" : "s(Yurika_Hino) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yurika_Hino) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15581",
+  "entityUrl" : "http://dbpedia.org/resource/Yu_Haoming",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yu_Haoming) dbo:birthDate o'<1987-11-14>",
+    "2" : "s(Yu_Haoming) dbp:birthPlace o'<Guangzhou>",
+    "3" : "s(Yu_Haoming) dbp:birthPlace o'<Guangdong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15582",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshimasa_Kondo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshimasa_Kondo) dbo:birthDate o'<1961-8-13>",
+    "2" : "s(Yoshimasa_Kondo) dbo:birthPlace o'<Mizuho-ku,_Nagoya>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15583",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshie_Hayasaka__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshie_Hayasaka__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15584",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABya_Uchida",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15585",
+  "entityUrl" : "http://dbpedia.org/resource/Yuka_Hirata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuka_Hirata) dbo:birthDate o'<1983-09-15>",
+    "2" : "s(Yuka_Hirata) dbo:birthDate o'<1983-9-15>",
+    "3" : "s(Yuka_Hirata) dbo:birthPlace o'<Sapporo>",
+    "4" : "s(Yuka_Hirata) dbo:birthPlace o'<Hokkaido>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15586",
+  "entityUrl" : "http://dbpedia.org/resource/Yngve_Nordwall",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yngve_Nordwall) dbo:birthDate o'<1908-04-13>",
+    "2" : "s(Yngve_Nordwall) dbo:birthDate o'<1908-4-13>",
+    "3" : "s(Yngve_Nordwall) dbo:birthPlace o'<Uppsala>",
+    "4" : "s(Yngve_Nordwall) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Yngve_Nordwall) dbo:deathDate o'<1994-01-23>",
+    "6" : "s(Yngve_Nordwall) dbo:deathDate o'<1994-1-23>",
+    "7" : "s(Yngve_Nordwall) dbo:deathPlace o'<Gothenburg>",
+    "8" : "s(Yngve_Nordwall) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15587",
+  "entityUrl" : "http://dbpedia.org/resource/Yumiko_Hosono",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumiko_Hosono) dbo:birthDate o'<1981-6-3>",
+    "2" : "s(Yumiko_Hosono) dbo:birthPlace o'<Saitama_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15588",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%AB_Kamonomiya",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15589",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshifumi_Tajima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshifumi_Tajima) dbo:birthDate o'<1918-8-4>",
+    "2" : "s(Yoshifumi_Tajima) dbo:birthPlace o'<Kobe>",
+    "3" : "s(Yoshifumi_Tajima) dbo:deathDate o'<2009-9-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15590",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshimitsu_Shimoyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshimitsu_Shimoyama) dbo:birthDate o'<1976-05-06>",
+    "2" : "s(Yoshimitsu_Shimoyama) dbo:birthDate o'<1976-5-6>",
+    "3" : "s(Yoshimitsu_Shimoyama) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15591",
+  "entityUrl" : "http://dbpedia.org/resource/Yui_Itsuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yui_Itsuki) dbo:birthPlace o'<Aichi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15592",
+  "entityUrl" : "http://dbpedia.org/resource/Yuki_Matsuzaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuki_Matsuzaki) dbo:birthDate o'<1981-09-24>",
+    "2" : "s(Yuki_Matsuzaki) dbo:birthDate o'<1981-9-12>",
+    "3" : "s(Yuki_Matsuzaki) dbo:birthPlace o'<Miyazaki,_Japan>",
+    "4" : "s(Yuki_Matsuzaki) dbo:birthPlace o'<Miyazaki_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15593",
+  "entityUrl" : "http://dbpedia.org/resource/Yukari_Kokubun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukari_Kokubun) dbo:birthDate o'<1983-2-8>",
+    "2" : "s(Yukari_Kokubun) dbo:birthPlace o'<Saitama_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15594",
+  "entityUrl" : "http://dbpedia.org/resource/Yao_Wenlong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yao_Wenlong) dbo:birthDate o'<1970-11-14>",
+    "2" : "s(Yao_Wenlong) dbp:birthPlace o'<Johor, Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15595",
+  "entityUrl" : "http://dbpedia.org/resource/Yukio_Hashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukio_Hashi) dbo:birthDate o'<1943-5-3>",
+    "2" : "s(Yukio_Hashi) dbo:birthPlace o'<Arakawa,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15596",
+  "entityUrl" : "http://dbpedia.org/resource/Yuma_Ishigaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuma_Ishigaki) dbo:birthDate o'<1982-08-28>",
+    "2" : "s(Yuma_Ishigaki) dbo:birthDate o'<1982-8-28>",
+    "3" : "s(Yuma_Ishigaki) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yuma_Ishigaki) dbo:birthPlace o'<Gifu_Prefecture>",
+    "5" : "s(Yuma_Ishigaki) dbo:height o'<173.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15597",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABki_Tai",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15598",
+  "entityUrl" : "http://dbpedia.org/resource/Yumiko_Nakajima",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15599",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dji_Ueda",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15600",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Lim",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yvonne_Lim) dbo:birthDate o'<1976-9-28>",
+    "2" : "s(Yvonne_Lim) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15601",
+  "entityUrl" : "http://dbpedia.org/resource/Yu_Nan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yu_Nan) dbo:birthDate o'<1978-9-5>",
+    "2" : "s(Yu_Nan) dbo:birthPlace o'<Dalian>",
+    "3" : "s(Yu_Nan) dbp:birthPlace o'<Dalian>",
+    "4" : "s(Yu_Nan) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15602",
+  "entityUrl" : "http://dbpedia.org/resource/Yuto_Nakano",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuto_Nakano) dbo:birthDate o'<1967-06-04>",
+    "2" : "s(Yuto_Nakano) dbo:birthDate o'<1967-6-4>",
+    "3" : "s(Yuto_Nakano) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yuto_Nakano) dbo:birthPlace o'<Chiba_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15603",
+  "entityUrl" : "http://dbpedia.org/resource/Yuki_Ito_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuki_Ito_(actor)) dbo:birthDate o'<1985-1-24>",
+    "2" : "s(Yuki_Ito_(actor)) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15604",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Minamida",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15605",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Lombard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yvonne_Lombard) dbo:birthDate o'<1929-5-28>",
+    "2" : "s(Yvonne_Lombard) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Yvonne_Lombard) dbo:imdbId o'<0518337>",
+    "4" : "s(Yvonne_Lombard) dbo:nationality o'<Sweden>",
+    "5" : "s(Yvonne_Lombard) dbp:name o'<Yvonne Lombard>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15606",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8D_Kitazawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15607",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dichir%C5%8D_Morikawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15608",
+  "entityUrl" : "http://dbpedia.org/resource/Yasuhisa_Furuhara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yasuhisa_Furuhara) dbo:birthDate o'<1986-08-13>",
+    "2" : "s(Yasuhisa_Furuhara) dbo:birthDate o'<1986-8-13>",
+    "3" : "s(Yasuhisa_Furuhara) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yasuhisa_Furuhara) dbo:birthPlace o'<Kyoto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15609",
+  "entityUrl" : "http://dbpedia.org/resource/Yuta_Kanai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuta_Kanai) dbo:birthDate o'<1985-4-24>",
+    "2" : "s(Yuta_Kanai) dbo:birthPlace o'<Fussa,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15610",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_de_Bray",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yvonne_de_Bray) dbo:birthDate o'<1889-05-12>",
+    "2" : "s(Yvonne_de_Bray) dbo:birthDate o'<1887-5-12>",
+    "3" : "s(Yvonne_de_Bray) dbo:birthPlace o'<Paris>",
+    "4" : "s(Yvonne_de_Bray) dbo:deathDate o'<1954-02-01>",
+    "5" : "s(Yvonne_de_Bray) dbo:deathDate o'<1954-2-1>",
+    "6" : "s(Yvonne_de_Bray) dbp:birthPlace o'<Paris, France>",
+    "7" : "s(Yvonne_de_Bray) dbp:deathPlace o'<Paris, France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15611",
+  "entityUrl" : "http://dbpedia.org/resource/Yumi_Shirakawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumi_Shirakawa) dbo:birthDate o'<1936-11-21>",
+    "2" : "s(Yumi_Shirakawa) dbo:birthPlace o'<Shinagawa,_Tokyo>",
+    "3" : "s(Yumi_Shirakawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yumi_Shirakawa) dbo:birthPlace o'<Shinagawa>",
+    "5" : "s(Yumi_Shirakawa) dbo:deathDate o'<2016-06-14>",
+    "6" : "s(Yumi_Shirakawa) dbo:deathDate o'<2016-6-15>",
+    "7" : "s(Yumi_Shirakawa) dbo:deathPlace o'<Meguro,_Tokyo>",
+    "8" : "s(Yumi_Shirakawa) dbo:deathPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15612",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABji_Mikimoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15613",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshinori_Okada",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshinori_Okada) dbo:birthDate o'<1977-03-19>",
+    "2" : "s(Yoshinori_Okada) dbo:birthDate o'<1977-3-19>",
+    "3" : "s(Yoshinori_Okada) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yoshinori_Okada) dbo:birthPlace o'<Ōno,_Gifu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15614",
+  "entityUrl" : "http://dbpedia.org/resource/Yuka_Hoshaku",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuka_Hoshaku) dbo:birthDate o'<1975-7-6>",
+    "2" : "s(Yuka_Hoshaku) dbo:birthPlace o'<Hokkaido>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15615",
+  "entityUrl" : "http://dbpedia.org/resource/Yuko_Ito",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuko_Ito) dbo:birthDate o'<1974-04-18>",
+    "2" : "s(Yuko_Ito) dbo:birthDate o'<1974-4-18>",
+    "3" : "s(Yuko_Ito) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Yuko_Ito) dbo:birthPlace o'<Setagaya>",
+    "5" : "s(Yuko_Ito) dbo:height o'<165.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15616",
+  "entityUrl" : "http://dbpedia.org/resource/Yammie_Lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yammie_Lam) dbo:birthDate o'<1964-4-27>",
+    "2" : "s(Yammie_Lam) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Yammie_Lam) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15617",
+  "entityUrl" : "http://dbpedia.org/resource/Yuka_Nishigaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuka_Nishigaki) dbo:birthDate o'<1982-9-3>",
+    "2" : "s(Yuka_Nishigaki) dbo:birthPlace o'<Tottori_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15618",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshiyuki_Kono",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshiyuki_Kono) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15619",
+  "entityUrl" : "http://dbpedia.org/resource/Yuen_Cheung-yan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuen_Cheung-yan) dbo:birthPlace o'<Guangzhou>",
+    "2" : "s(Yuen_Cheung-yan) dbp:birthPlace o'<Guangzhou>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15620",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABki_Tokiwa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15621",
+  "entityUrl" : "http://dbpedia.org/resource/Yukio_Yamagata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yukio_Yamagata) dbo:birthDate o'<1957-3-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15622",
+  "entityUrl" : "http://dbpedia.org/resource/Yoichi_Numata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoichi_Numata) dbo:birthDate o'<1924-07-19>",
+    "2" : "s(Yoichi_Numata) dbo:birthDate o'<1924-7-19>",
+    "3" : "s(Yoichi_Numata) dbo:birthPlace o'<Okayama>",
+    "4" : "s(Yoichi_Numata) dbo:birthPlace o'<Japan>",
+    "5" : "s(Yoichi_Numata) dbo:deathDate o'<2006-04-29>",
+    "6" : "s(Yoichi_Numata) dbo:deathDate o'<2006-4-29>",
+    "7" : "s(Yoichi_Numata) dbo:deathPlace o'<Japan>",
+    "8" : "s(Yoichi_Numata) dbo:deathPlace o'<Saitama_Prefecture>",
+    "9" : "s(Yoichi_Numata) dbo:deathPlace o'<Tokorozawa,_Saitama>",
+    "10" : "s(Yoichi_Numata) dbo:deathPlace o'<Tokorozawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15623",
+  "entityUrl" : "http://dbpedia.org/resource/Yatar%C5%8D_Kurokawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15624",
+  "entityUrl" : "http://dbpedia.org/resource/Yoyo_Chen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoyo_Chen) dbo:birthDate o'<1981-8-27>",
+    "2" : "s(Yoyo_Chen) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15625",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshi_Amao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshi_Amao) dbo:birthPlace o'<Osaka>",
+    "2" : "s(Yoshi_Amao) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(yoshi amao=Yoshi_Amao) [emcee for ] o'<japan=Japan>"
+  },
+  "abstract" : {
+    "2" : "yoshi amao<Yoshi_Amao> is the emcee for the hit reality tv game show big in japan<Japan> on air throughout europe\n"
+  }
+}, {
+  "entityIndex" : "entity15626",
+  "entityUrl" : "http://dbpedia.org/resource/Yan_Ni",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yan_Ni) dbo:birthDate o'<1971-3-10>",
+    "2" : "s(Yan_Ni) dbo:birthPlace o'<Xi'an>",
+    "3" : "s(Yan_Ni) dbp:birthPlace o'<China>",
+    "4" : "s(Yan_Ni) dbp:birthPlace o'<Xi'an>",
+    "5" : "s(Yan_Ni) dbp:birthPlace o'<Shaanxi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15627",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshi_Kat%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15628",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Mihara",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15629",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshikatsu_Fujiki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshikatsu_Fujiki) dbo:birthDate o'<1964-01-20>",
+    "2" : "s(Yoshikatsu_Fujiki) dbo:birthDate o'<1964-1-20>",
+    "3" : "s(Yoshikatsu_Fujiki) dbo:birthPlace o'<Toyama_Prefecture>",
+    "4" : "s(Yoshikatsu_Fujiki) dbo:birthPlace o'<Toyama_prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15630",
+  "entityUrl" : "http://dbpedia.org/resource/Yumeji_Tsukioka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumeji_Tsukioka) dbo:birthDate o'<1922-10-14>",
+    "2" : "s(Yumeji_Tsukioka) dbo:birthPlace o'<Japan>",
+    "3" : "s(Yumeji_Tsukioka) dbo:birthPlace o'<Hiroshima>",
+    "4" : "s(Yumeji_Tsukioka) dbp:name o'<Tsukioka Yumeji>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15631",
+  "entityUrl" : "http://dbpedia.org/resource/Yngve_Gamlin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yngve_Gamlin) dbo:birthDate o'<1926-03-17>",
+    "2" : "s(Yngve_Gamlin) dbo:birthDate o'<1926-3-17>",
+    "3" : "s(Yngve_Gamlin) dbo:birthPlace o'<Strömsund>",
+    "4" : "s(Yngve_Gamlin) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Yngve_Gamlin) dbo:deathDate o'<1995-02-01>",
+    "6" : "s(Yngve_Gamlin) dbo:deathDate o'<1995-2-1>",
+    "7" : "s(Yngve_Gamlin) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Yngve_Gamlin) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15632",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Ishino",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15633",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Lina",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yang_Lina) dbo:activeYearsEndYear o'<2000>",
+    "2" : "s(Yang_Lina) dbo:activeYearsStartYear o'<1984>",
+    "3" : "s(Yang_Lina) dbo:alias o'<Lina Yang>",
+    "4" : "s(Yang_Lina) dbo:birthDate o'<1962-0-0>",
+    "5" : "s(Yang_Lina) dbo:country o'<People's_Republic_of_China>",
+    "6" : "s(Yang_Lina) dbo:deathDate o'<2010-3-20>",
+    "7" : "s(Yang_Lina) dbo:occupation o'<Actress>",
+    "8" : "s(Yang_Lina) dbp:birthPlace o'<Singapore>",
+    "9" : "s(Yang_Lina) dbp:children o'<2>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(yang lina=Yang_Lina) [attended acting class ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "4" : "yang lina<Yang_Lina> had attended an acting class with her sister, actress<Actress> yang libing, and then joined the singapore<Singapore> broadcasting corporation, which is now part of mediacorp\n"
+  }
+}, {
+  "entityIndex" : "entity15634",
+  "entityUrl" : "http://dbpedia.org/resource/Yasuko_Tomita",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yasuko_Tomita) dbo:birthDate o'<1969-02-27>",
+    "2" : "s(Yasuko_Tomita) dbo:birthDate o'<1969-2-27>",
+    "3" : "s(Yasuko_Tomita) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yasuko_Tomita) dbo:birthPlace o'<Fukuoka_Prefecture>",
+    "5" : "s(Yasuko_Tomita) dbo:birthPlace o'<Kasuya_District,_Fukuoka>",
+    "6" : "s(Yasuko_Tomita) dbo:birthPlace o'<Shime,_Fukuoka>",
+    "7" : "s(Yasuko_Tomita) dbp:name o'<Yasuko Tomita>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15635",
+  "entityUrl" : "http://dbpedia.org/resource/Yu_Chenghui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yu_Chenghui) dbo:birthDate o'<1939-8-16>",
+    "2" : "s(Yu_Chenghui) dbo:birthPlace o'<Qingdao>",
+    "3" : "s(Yu_Chenghui) dbo:deathDate o'<2015-7-5>",
+    "4" : "s(Yu_Chenghui) dbp:birthPlace o'<Shangdong>",
+    "5" : "s(Yu_Chenghui) dbp:birthPlace o'<China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15636",
+  "entityUrl" : "http://dbpedia.org/resource/Yu_Rongguang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yu_Rongguang) dbo:birthDate o'<1958-8-30>",
+    "2" : "s(Yu_Rongguang) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Yu_Rongguang) dbp:birthPlace o'<Beijing, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15637",
+  "entityUrl" : "http://dbpedia.org/resource/Yorie_Terauchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yorie_Terauchi) dbo:birthDate o'<1953-01-29>",
+    "2" : "s(Yorie_Terauchi) dbo:birthDate o'<1953-1-29>",
+    "3" : "s(Yorie_Terauchi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15638",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Pei-An",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yang_Pei-An) dbo:birthDate o'<1971-6-5>",
+    "2" : "s(Yang_Pei-An) dbp:birthPlace o'<Kaohsiung>",
+    "3" : "s(Yang_Pei-An) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15639",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Tsukasa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoko_Tsukasa) dbo:birthDate o'<1934-08-20>",
+    "2" : "s(Yoko_Tsukasa) dbo:birthDate o'<1934-8-20>",
+    "3" : "s(Yoko_Tsukasa) dbo:birthPlace o'<Tottori_Prefecture>",
+    "4" : "s(Yoko_Tsukasa) dbp:name o'<Yôko Tsukasa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15640",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABko_Mochizuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15641",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Wenqing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuan_Wenqing) dbo:activeYearsStartYear o'<1975>",
+    "2" : "s(Yuan_Wenqing) dbo:country o'<People's_Republic_of_China>",
+    "3" : "s(Yuan_Wenqing) dbp:imagesize o'<200>",
+    "4" : "s(Yuan_Wenqing) dbp:occupation o'<Actor>",
+    "5" : "s(Yuan_Wenqing) dbp:occupation o'<Martial artist>",
+    "6" : "s(Yuan_Wenqing) dbp:occupation o'<Coach>",
+    "7" : "s(Yuan_Wenqing) dbp:team o'<Shanxi Professional Team>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(yuan wenqing=Yuan_Wenqing) [considered by many ] o'<martial arts=Martial_artist>",
+    "5" : "s(yuan wenqing=Yuan_Wenqing) [former shanxi wushu ] o'<coaches=Coach>"
+  },
+  "abstract" : {
+    "4" : "yuan wenqing<Yuan_Wenqing> is considered by many as a bridge between traditional chinese martial arts<Martial_artist> and modern wushu for his successful integration of traditional and modern techniques at a level of fluidity, technique, and explosiveness that had not been seen before, and which has yet to have been matched today\n",
+    "5" : "yuan wenqing<Yuan_Wenqing> is a former shanxi wushu team athlete trained by the coaches<Coach> pang lin tai and zhang ling mei\n"
+  }
+}, {
+  "entityIndex" : "entity15642",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABki_Mizuhara",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15643",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Aki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoko_Aki) dbo:birthDate o'<1945-05-01>",
+    "2" : "s(Yoko_Aki) dbo:birthDate o'<1945-5-1>",
+    "3" : "s(Yoko_Aki) dbo:birthPlace o'<Nagano,_Nagano>",
+    "4" : "s(Yoko_Aki) dbo:birthPlace o'<Japan>",
+    "5" : "s(Yoko_Aki) dbo:birthPlace o'<Nagano_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15644",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABko_Asano",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15645",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABko_Nakamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15646",
+  "entityUrl" : "http://dbpedia.org/resource/Yasuko_Sawaguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yasuko_Sawaguchi) dbo:birthDate o'<1965-6-11>",
+    "2" : "s(Yasuko_Sawaguchi) dbo:birthPlace o'<Osaka>",
+    "3" : "s(Yasuko_Sawaguchi) dbp:name o'<Yasuko Sawaguchi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15647",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Owen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yvonne_Owen) dbo:birthDate o'<1923-7-28>",
+    "2" : "s(Yvonne_Owen) dbo:deathDate o'<1990-12-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15648",
+  "entityUrl" : "http://dbpedia.org/resource/Yui_Koike__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yui_Koike__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15649",
+  "entityUrl" : "http://dbpedia.org/resource/Yuki_Yamada",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuki_Yamada) dbo:birthDate o'<1990-09-18>",
+    "2" : "s(Yuki_Yamada) dbo:birthDate o'<1990-9-18>",
+    "3" : "s(Yuki_Yamada) dbo:birthPlace o'<Aichi_Prefecture>",
+    "4" : "s(Yuki_Yamada) dbo:height o'<177.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15650",
+  "entityUrl" : "http://dbpedia.org/resource/Yurin_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yurin_(actress)) dbo:birthDate o'<1981-06-18>",
+    "2" : "s(Yurin_(actress)) dbo:birthDate o'<1981-6-18>",
+    "3" : "s(Yurin_(actress)) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yurin_(actress)) dbo:birthPlace o'<Kure,_Hiroshima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15651",
+  "entityUrl" : "http://dbpedia.org/resource/Yao_Chen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yao_Chen) dbo:birthDate o'<1979-10-5>",
+    "2" : "s(Yao_Chen) dbo:birthPlace o'<Shishi,_Fujian>",
+    "3" : "s(Yao_Chen) dbp:birthPlace o'<China>",
+    "4" : "s(Yao_Chen) dbp:birthPlace o'<Fujian>",
+    "5" : "s(Yao_Chen) dbp:birthPlace o'<Shishi_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15652",
+  "entityUrl" : "http://dbpedia.org/resource/Yu_Lan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yu_Lan) dbo:birthDate o'<1921-6-3>",
+    "2" : "s(Yu_Lan) dbo:birthPlace o'<Xiuyan_Manchu_Autonomous_County>",
+    "3" : "s(Yu_Lan) dbp:birthPlace o'<Xiuyan>",
+    "4" : "s(Yu_Lan) dbp:birthPlace o'<Liaoning>",
+    "5" : "s(Yu_Lan) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15653",
+  "entityUrl" : "http://dbpedia.org/resource/Yukijir%C5%8D_Hotaru",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15654",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshitsugu_Matsuoka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yoshitsugu_Matsuoka) dbo:birthDate o'<1986-09-17>",
+    "2" : "s(Yoshitsugu_Matsuoka) dbo:birthDate o'<1986-9-17>",
+    "3" : "s(Yoshitsugu_Matsuoka) dbo:birthPlace o'<Hokkaido>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15655",
+  "entityUrl" : "http://dbpedia.org/resource/Yasufumi_Terawaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yasufumi_Terawaki) dbo:birthDate o'<1962-02-25>",
+    "2" : "s(Yasufumi_Terawaki) dbo:birthDate o'<1962-2-25>",
+    "3" : "s(Yasufumi_Terawaki) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yasufumi_Terawaki) dbo:birthPlace o'<Osaka_Prefecture>",
+    "5" : "s(Yasufumi_Terawaki) dbo:birthPlace o'<Sakai,_Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15656",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Hong_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuan_Hong_(actor)) dbo:birthDate o'<1982-8-23>",
+    "2" : "s(Yuan_Hong_(actor)) dbp:birthPlace o'<Wuhan, Hubei, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15657",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshino_Nanj%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15658",
+  "entityUrl" : "http://dbpedia.org/resource/Yan_Yikuan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yan_Yikuan) dbo:birthDate o'<1979-1-24>",
+    "2" : "s(Yan_Yikuan) dbp:birthPlace o'<China>",
+    "3" : "s(Yan_Yikuan) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15659",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Dko_Tepp%C5%8Dzuka",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15660",
+  "entityUrl" : "http://dbpedia.org/resource/Yuriko_Hanabusa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuriko_Hanabusa) dbo:birthDate o'<1900-03-07>",
+    "2" : "s(Yuriko_Hanabusa) dbo:birthDate o'<1900-3-7>",
+    "3" : "s(Yuriko_Hanabusa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yuriko_Hanabusa) dbo:birthPlace o'<Kure,_Hiroshima>",
+    "5" : "s(Yuriko_Hanabusa) dbo:deathDate o'<1970-02-07>",
+    "6" : "s(Yuriko_Hanabusa) dbo:deathDate o'<1970-2-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15661",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Shuai_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuan_Shuai_(actor)) dbp:birthPlace o'<China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15662",
+  "entityUrl" : "http://dbpedia.org/resource/Yan_Bingliang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yan_Bingliang) dbo:activeYearsEndYear o'<2010>",
+    "2" : "s(Yan_Bingliang) dbo:activeYearsStartYear o'<1984>",
+    "3" : "s(Yan_Bingliang) dbo:alias o'<Alvin Giam>",
+    "4" : "s(Yan_Bingliang) dbo:country o'<People's_Republic_of_China>",
+    "5" : "s(Yan_Bingliang) dbp:birthName o'<Giam Ping Leong>",
+    "6" : "s(Yan_Bingliang) dbp:birthPlace o'<Singapore>",
+    "7" : "s(Yan_Bingliang) dbp:occupation o'<Actor, host, producer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15663",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Libing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yang_Libing) dbo:activeYearsEndYear o'<2000>",
+    "2" : "s(Yang_Libing) dbo:activeYearsStartYear o'<1984>",
+    "3" : "s(Yang_Libing) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Yang_Libing) dbo:spouse o'<Li_Nanxing>",
+    "5" : "s(Yang_Libing) dbp:birthDate o'<1964>",
+    "6" : "s(Yang_Libing) dbp:birthPlace o'<Singapore>",
+    "7" : "s(Yang_Libing) dbp:occupation o'<Actress>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(yang libing=Yang_Libing) [starred in longrunning hit ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "4" : "yang libing<Yang_Libing> starred in the long-running hit drama wok of life and won the best supporting actress<Actress> award at the star awards 1999\n"
+  }
+}, {
+  "entityIndex" : "entity15664",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABichi_Iguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15665",
+  "entityUrl" : "http://dbpedia.org/resource/Yumi_Uchiyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yumi_Uchiyama) dbo:birthDate o'<1987-10-30>",
+    "2" : "s(Yumi_Uchiyama) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15666",
+  "entityUrl" : "http://dbpedia.org/resource/Yudai_Chiba",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yudai_Chiba) dbo:birthDate o'<1989-03-09>",
+    "2" : "s(Yudai_Chiba) dbo:birthDate o'<1989-3-9>",
+    "3" : "s(Yudai_Chiba) dbo:birthPlace o'<Miyagi_Prefecture>",
+    "4" : "s(Yudai_Chiba) dbo:height o'<173.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15667",
+  "entityUrl" : "http://dbpedia.org/resource/Yuka_%C5%8Ctsubo",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15668",
+  "entityUrl" : "http://dbpedia.org/resource/Yuiko_Tatsumi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuiko_Tatsumi) dbo:birthDate o'<1987-09-17>",
+    "2" : "s(Yuiko_Tatsumi) dbo:birthDate o'<1987-9-17>",
+    "3" : "s(Yuiko_Tatsumi) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15669",
+  "entityUrl" : "http://dbpedia.org/resource/Yuko_Takayama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yuko_Takayama) dbo:birthDate o'<1992-10-13>",
+    "2" : "s(Yuko_Takayama) dbo:birthPlace o'<Niigata_Prefecture>",
+    "3" : "s(Yuko_Takayama) dbo:height o'<167.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15670",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%ABki_Kaneko",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15671",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Li-hua",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yang_Li-hua) dbo:birthDate o'<1944-10-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15672",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%AB_Shimamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15673",
+  "entityUrl" : "http://dbpedia.org/resource/Yu_Feihong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yu_Feihong) dbo:wikiPageRedirects o'<Faye_Yu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15674",
+  "entityUrl" : "http://dbpedia.org/resource/Yako_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yako_Chan) dbo:birthDate o'<1988-4-11>",
+    "2" : "s(Yako_Chan) dbp:birthPlace o'<Taiwan_Province>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15675",
+  "entityUrl" : "http://dbpedia.org/resource/Yao_Yao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yao_Yao) dbo:birthDate o'<1990-7-18>",
+    "2" : "s(Yao_Yao) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15676",
+  "entityUrl" : "http://dbpedia.org/resource/Yohanna_Idha",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yohanna_Idha) dbo:birthDate o'<1978-05-06>",
+    "2" : "s(Yohanna_Idha) dbo:birthDate o'<1978-5-6>",
+    "3" : "s(Yohanna_Idha) dbo:birthPlace o'<Eskilstuna>",
+    "4" : "s(Yohanna_Idha) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Yohanna_Idha) dbo:birthYear o'<1978>",
+    "6" : "s(Yohanna_Idha) dbo:nationality o'<Sweden>",
+    "7" : "s(Yohanna_Idha) dbo:occupation o'<Yohanna_Idha__1>",
+    "8" : "s(Yohanna_Idha) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(yohanna idha=Yohanna_Idha) [nominated for guldbagge ] o'<film=Actor>",
+    "3" : "s(yohanna idha=Yohanna_Idha) [nominated to lreal ] o'<star=Actor>"
+  },
+  "abstract" : {
+    "2" : "yohanna idha<Yohanna_Idha> was nominated for a guldbagge award in 2013 for her role as linda in the film<Actor> katinkas kalas\n",
+    "3" : "in 2011 yohanna idha<Yohanna_Idha> was nominated to the lóreal paris rising star<Actor> award 2011\n"
+  }
+}, {
+  "entityIndex" : "entity15677",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Yang_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yang_Yang_(actor)) dbo:birthDate o'<1991-9-9>",
+    "2" : "s(Yang_Yang_(actor)) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Yang_Yang_(actor)) dbp:birthPlace o'<China>",
+    "4" : "s(Yang_Yang_(actor)) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15678",
+  "entityUrl" : "http://dbpedia.org/resource/Yat-fei_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Yat-fei_Wong) dbo:wikiPageRedirects o'<Wong_Yat-fei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

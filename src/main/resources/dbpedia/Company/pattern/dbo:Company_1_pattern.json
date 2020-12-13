@@ -1,0 +1,133 @@
+[ {
+  "entityIndex" : "entity10813",
+  "entityUrl" : "http://dbpedia.org/resource/1worldspace",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(1worldspace) dbo:foundingYear o'<1990>",
+    "2" : "s(1worldspace) dbo:keyPerson o'<Noah_A._Samara>",
+    "3" : "s(1worldspace) dbo:location o'<Silver_Spring,_Maryland>",
+    "4" : "s(1worldspace) dbo:netIncome o'<1.6951E8>",
+    "5" : "s(1worldspace) dbo:numberOfEmployees o'<40>",
+    "6" : "s(1worldspace) dbo:product o'<Satellite_Radio>",
+    "7" : "s(1worldspace) dbo:revenue o'<1.378E7>",
+    "8" : "s(1worldspace) dbp:industry o'<Broadcasting – Radio>",
+    "9" : "s(1worldspace) dbp:marketCap o'<$7.7 million USD>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10814",
+  "entityUrl" : "http://dbpedia.org/resource/1-UP_Studio",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(1-UP_Studio) dbo:industry o'<Video_game_industry>",
+    "2" : "s(1-UP_Studio) dbo:keyPerson o'<Yoshiaki_Koizumi>",
+    "3" : "s(1-UP_Studio) dbo:locationCity o'<Tokyo>",
+    "4" : "s(1-UP_Studio) dbo:locationCountry o'<Japan>",
+    "5" : "s(1-UP_Studio) dbo:numberOfEmployees o'<30>",
+    "6" : "s(1-UP_Studio) dbo:parentCompany o'<Nintendo>",
+    "7" : "s(1-UP_Studio) dbo:product o'<Mana_(series)>",
+    "8" : "s(1-UP_Studio) dbo:product o'<Mother_3>",
+    "9" : "s(1-UP_Studio) dbo:product o'<Super_Mario_(series)>",
+    "10" : "s(1-UP_Studio) dbo:type o'<Subsidiary>",
+    "11" : "s(1-UP_Studio) dbp:formerName o'<Brownie Brown>",
+    "12" : "s(1-UP_Studio) dbp:founder o'<Kameoka Shinichi>",
+    "13" : "s(1-UP_Studio) dbp:founder o'<Kouji Tsuda>",
+    "14" : "s(1-UP_Studio) dbp:nativeName o'<1>",
+    "15" : "s(1-UP_Studio) dbp:nativeNameLang o'<jp>",
+    "16" : "s(1-UP_Studio) dbp:romanizedName o'<1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10815",
+  "entityUrl" : "http://dbpedia.org/resource/12_Yard",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(12_Yard) dbo:foundedBy o'<David_Young_(TV_producer)>",
+    "2" : "s(12_Yard) dbo:foundingYear o'<2001>",
+    "3" : "s(12_Yard) dbo:genre o'<Production_company>",
+    "4" : "s(12_Yard) dbo:industry o'<Television>",
+    "5" : "s(12_Yard) dbo:owner o'<ITV_plc>",
+    "6" : "s(12_Yard) dbo:owningCompany o'<ITV_plc>",
+    "7" : "s(12_Yard) dbo:parentCompany o'<ITV_Studios>",
+    "8" : "s(12_Yard) dbp:locationCity o'<London>",
+    "9" : "s(12_Yard) dbp:locationCountry o'<UK>",
+    "10" : "s(12_Yard) dbp:logo o'<12.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10816",
+  "entityUrl" : "http://dbpedia.org/resource/1-800-Flowers",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(1-800-Flowers) dbo:assets o'<2.86E8>",
+    "2" : "s(1-800-Flowers) dbo:equity o'<1.34E8>",
+    "3" : "s(1-800-Flowers) dbo:foundingYear o'<1976>",
+    "4" : "s(1-800-Flowers) dbo:industry o'<Retail>",
+    "5" : "s(1-800-Flowers) dbo:keyPerson o'<James_McCann_(businessman)>",
+    "6" : "s(1-800-Flowers) dbo:location o'<United_States>",
+    "7" : "s(1-800-Flowers) dbo:location o'<Carle_Place,_New_York>",
+    "8" : "s(1-800-Flowers) dbo:netIncome o'<-9.84E7>",
+    "9" : "s(1-800-Flowers) dbo:numberOfEmployees o'<4000>",
+    "10" : "s(1-800-Flowers) dbo:operatingIncome o'<-7.22E7>",
+    "11" : "s(1-800-Flowers) dbo:product o'<Flower>",
+    "12" : "s(1-800-Flowers) dbo:revenue o'<7.14E8>",
+    "13" : "s(1-800-Flowers) dbo:type o'<Public_company>",
+    "14" : "s(1-800-Flowers) dbp:companySlogan o'<Your florist of choice.pop.pp....p.p..p.p.p.p..p.>",
+    "15" : "s(1-800-Flowers) dbp:logo o'<220>",
+    "16" : "s(1-800-Flowers) dbp:marketCap o'<$119 Million USD>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10817",
+  "entityUrl" : "http://dbpedia.org/resource/1-800_Contacts",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(1-800_Contacts) dbo:foundingYear o'<1995>",
+    "2" : "s(1-800_Contacts) dbo:industry o'<Contact_lens>",
+    "3" : "s(1-800_Contacts) dbo:keyPerson o'<CFO>",
+    "4" : "s(1-800_Contacts) dbo:keyPerson o'<General_Counsel>",
+    "5" : "s(1-800_Contacts) dbo:keyPerson o'<Entrepreneur>",
+    "6" : "s(1-800_Contacts) dbo:keyPerson o'<Chief_Executive_Officer>",
+    "7" : "s(1-800_Contacts) dbo:keyPerson o'<Jonathan_C._Coon>",
+    "8" : "s(1-800_Contacts) dbo:location o'<Draper,_Utah>",
+    "9" : "s(1-800_Contacts) dbo:netIncome o'<2600000.0>",
+    "10" : "s(1-800_Contacts) dbo:numberOfEmployees o'<680>",
+    "11" : "s(1-800_Contacts) dbo:operatingIncome o'<5700000.0>",
+    "12" : "s(1-800_Contacts) dbo:owner o'<AEA_Investors>",
+    "13" : "s(1-800_Contacts) dbo:owner o'<Thomas_H._Lee_Partners>",
+    "14" : "s(1-800_Contacts) dbo:owningCompany o'<AEA_Investors>",
+    "15" : "s(1-800_Contacts) dbo:owningCompany o'<Thomas_H._Lee_Partners>",
+    "16" : "s(1-800_Contacts) dbo:product o'<Contact_lens>",
+    "17" : "s(1-800_Contacts) dbo:revenue o'<2.37E8>",
+    "18" : "s(1-800_Contacts) dbo:type o'<Subsidiary>",
+    "19" : "s(1-800_Contacts) dbp:slogan o'<The World's Largest Contacts Lens Store.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10818",
+  "entityUrl" : "http://dbpedia.org/resource/1-800-GOT-JUNK%3F",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(1-800-GOT-JUNK%3F) dbo:foundingYear o'<1989>",
+    "2" : "s(1-800-GOT-JUNK%3F) dbo:keyPerson o'<Brian_Scudamore>",
+    "3" : "s(1-800-GOT-JUNK%3F) dbo:keyPerson o'<Chief_Executive_Officer>",
+    "4" : "s(1-800-GOT-JUNK%3F) dbo:location o'<British_Columbia>",
+    "5" : "s(1-800-GOT-JUNK%3F) dbo:location o'<Vancouver>",
+    "6" : "s(1-800-GOT-JUNK%3F) dbo:location o'<Canada>",
+    "7" : "s(1-800-GOT-JUNK%3F) dbo:numberOfLocations o'<159>",
+    "8" : "s(1-800-GOT-JUNK%3F) dbo:revenue o'<1.538E8>",
+    "9" : "s(1-800-GOT-JUNK%3F) dbo:type o'<Private_Company>",
+    "10" : "s(1-800-GOT-JUNK%3F) dbp:formerName o'<The Rubbish Guys Disposal Service>",
+    "11" : "s(1-800-GOT-JUNK%3F) dbp:industry o'<Junk Removal>",
+    "12" : "s(1-800-GOT-JUNK%3F) dbp:logo o'<230>",
+    "13" : "s(1-800-GOT-JUNK%3F) dbp:owner o'<O2E Brands>",
+    "14" : "s(1-800-GOT-JUNK%3F) dbp:products o'<Junk Removal Services>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

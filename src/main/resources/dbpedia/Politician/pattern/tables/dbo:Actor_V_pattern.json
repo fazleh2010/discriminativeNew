@@ -1,0 +1,778 @@
+[ {
+  "entityIndex" : "entity15324",
+  "entityUrl" : "http://dbpedia.org/resource/Vanness_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vanness_Wu) dbo:birthDate o'<1978-8-7>",
+    "2" : "s(Vanness_Wu) dbo:birthPlace o'<Santa_Monica,_California>",
+    "3" : "s(Vanness_Wu) dbp:birthPlace o'<United_States>",
+    "4" : "s(Vanness_Wu) dbp:birthPlace o'<California>",
+    "5" : "s(Vanness_Wu) dbp:birthPlace o'<Santa_Monica,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15325",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Winter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincent_Winter) dbo:birthDate o'<1947-12-29>",
+    "2" : "s(Vincent_Winter) dbo:birthPlace o'<Aberdeen>",
+    "3" : "s(Vincent_Winter) dbo:birthPlace o'<Scotland>",
+    "4" : "s(Vincent_Winter) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Vincent_Winter) dbo:deathDate o'<1998-11-02>",
+    "6" : "s(Vincent_Winter) dbo:deathDate o'<1998-11-2>",
+    "7" : "s(Vincent_Winter) dbo:deathPlace o'<England>",
+    "8" : "s(Vincent_Winter) dbo:deathPlace o'<United_Kingdom>",
+    "9" : "s(Vincent_Winter) dbo:deathPlace o'<Chertsey>",
+    "10" : "s(Vincent_Winter) dbp:name o'<Vincent Winter>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15326",
+  "entityUrl" : "http://dbpedia.org/resource/Vivian_Hsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vivian_Hsu) dbo:birthDate o'<1975-3-19>",
+    "2" : "s(Vivian_Hsu) dbo:birthPlace o'<Taichung>",
+    "3" : "s(Vivian_Hsu) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Vivian_Hsu) dbp:birthPlace o'<Taichung>",
+    "5" : "s(Vivian_Hsu) dbp:name o'<Vivian Hsu>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(vivian hsu=Vivian_Hsu) [chinese  pinyin x ruxun ] o'<taichung=Taichung>"
+  },
+  "abstract" : {
+    "1" : "vivian hsu<Vivian_Hsu> (chinese: 徐若瑄; pinyin: xú ruòxuān; wade–giles: hsu jo-hsüan; pe̍h-ōe-jī: chhî jio̍k-soan; japanese: ビビアン・スー bibian sū), born march 19, 1975 in taichung<Taichung>, is a taiwanese<Taiwan> singer, actress, and model who has gained remarkable popularity in east asia, mainly in taiwan<Taiwan> and japan"
+  }
+}, {
+  "entityIndex" : "entity15327",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Lindon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincent_Lindon) dbo:birthDate o'<1959-07-15>",
+    "2" : "s(Vincent_Lindon) dbo:birthDate o'<1959-7-15>",
+    "3" : "s(Vincent_Lindon) dbo:birthPlace o'<Hauts-de-Seine>",
+    "4" : "s(Vincent_Lindon) dbo:birthPlace o'<Boulogne-Billancourt>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15328",
+  "entityUrl" : "http://dbpedia.org/resource/Virginie_D%C3%A9jazet",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15329",
+  "entityUrl" : "http://dbpedia.org/resource/Vanessa_Demouy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vanessa_Demouy) dbo:birthDate o'<1973-04-05>",
+    "2" : "s(Vanessa_Demouy) dbo:birthDate o'<1973-4-5>",
+    "3" : "s(Vanessa_Demouy) dbo:birthPlace o'<Moulins,_Allier>",
+    "4" : "s(Vanessa_Demouy) dbo:birthPlace o'<France>",
+    "5" : "s(Vanessa_Demouy) dbp:name o'<Vanessa Demouy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15330",
+  "entityUrl" : "http://dbpedia.org/resource/Veronica_Carlson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Veronica_Carlson) dbo:birthDate o'<1944-09-18>",
+    "2" : "s(Veronica_Carlson) dbo:birthDate o'<1944-9-18>",
+    "3" : "s(Veronica_Carlson) dbo:birthPlace o'<Yorkshire>",
+    "4" : "s(Veronica_Carlson) dbp:name o'<Veronica Carlson>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(veronica carlson=Veronica_Carlson) [born 18 september 1944 in ] o'<yorkshire=Yorkshire>"
+  },
+  "abstract" : {
+    "1" : "veronica carlson<Veronica_Carlson> (born 18 september 1944 in yorkshire<Yorkshire>, england) is an english model and actress, famous for her roles in hammer horror films"
+  }
+}, {
+  "entityIndex" : "entity15331",
+  "entityUrl" : "http://dbpedia.org/resource/Vivian_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vivian_Wu) dbo:birthDate o'<1966-2-5>",
+    "2" : "s(Vivian_Wu) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Vivian_Wu) dbp:birthPlace o'<China>",
+    "4" : "s(Vivian_Wu) dbp:birthPlace o'<Shanghai>",
+    "5" : "s(Vivian_Wu) dbp:name o'<Vivian Wu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15332",
+  "entityUrl" : "http://dbpedia.org/resource/Vivian_Chow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vivian_Chow) dbo:birthDate o'<1967-11-10>",
+    "2" : "s(Vivian_Chow) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Vivian_Chow) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15333",
+  "entityUrl" : "http://dbpedia.org/resource/Vahina_Giocante",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vahina_Giocante) dbo:birthDate o'<1981-06-30>",
+    "2" : "s(Vahina_Giocante) dbo:birthDate o'<1981-6-30>",
+    "3" : "s(Vahina_Giocante) dbo:birthPlace o'<Pithiviers>",
+    "4" : "s(Vahina_Giocante) dbo:birthPlace o'<Orléans,_France>",
+    "5" : "s(Vahina_Giocante) dbp:name o'<Vahina Giocante>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15334",
+  "entityUrl" : "http://dbpedia.org/resource/Vickery_Turner",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vickery_Turner) dbo:birthDate o'<1945-04-03>",
+    "2" : "s(Vickery_Turner) dbo:birthDate o'<1945-4-3>",
+    "3" : "s(Vickery_Turner) dbo:birthPlace o'<England>",
+    "4" : "s(Vickery_Turner) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Vickery_Turner) dbo:birthPlace o'<Sunbury-on-Thames>",
+    "6" : "s(Vickery_Turner) dbo:birthPlace o'<Surrey>",
+    "7" : "s(Vickery_Turner) dbo:birthYear o'<1945>",
+    "8" : "s(Vickery_Turner) dbo:country o'<England>",
+    "9" : "s(Vickery_Turner) dbo:deathDate o'<2006-04-04>",
+    "10" : "s(Vickery_Turner) dbo:deathDate o'<2006-4-4>",
+    "11" : "s(Vickery_Turner) dbo:deathPlace o'<United_States>",
+    "12" : "s(Vickery_Turner) dbo:deathPlace o'<California>",
+    "13" : "s(Vickery_Turner) dbo:deathPlace o'<Los_Angeles>",
+    "14" : "s(Vickery_Turner) dbo:deathYear o'<2006>",
+    "15" : "s(Vickery_Turner) dbo:imdbId o'<0877929>",
+    "16" : "s(Vickery_Turner) dbo:occupation o'<Playwright>",
+    "17" : "s(Vickery_Turner) dbo:occupation o'<Author>",
+    "18" : "s(Vickery_Turner) dbo:occupation o'<Television_writer>",
+    "19" : "s(Vickery_Turner) dbo:occupation o'<Vickery_Turner__1>",
+    "20" : "s(Vickery_Turner) dbo:occupation o'<Theatre_director>",
+    "21" : "s(Vickery_Turner) dbo:occupation o'<Actor>",
+    "22" : "s(Vickery_Turner) dbo:spouse o'<Warren_Oates>",
+    "23" : "s(Vickery_Turner) dbp:name o'<Vickery Turner>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(vickery turner=Vickery_Turner) [3 april 1945 in ] o'<sunbury-on-thames=Sunbury-on-Thames>",
+    "2" : "s(vickery turner=Vickery_Turner) [started out on ] o'<stage=Theatre_director>",
+    "3" : "s(vickery turner=Vickery_Turner) [received clarence derwent award ] o'<performance=Actor>",
+    "5" : "s(vickery turner=Vickery_Turner) [acted in many of ] o'<plays=Playwright>",
+    "6" : "s(vickery turner=Vickery_Turner) [wrote for bbcs thirtyminute ] o'<theatre=Theatre_director>",
+    "9" : "s(vickery turner=Vickery_Turner) [met ] o'<warren oates=Warren_Oates>",
+    "11" : "s(vickery turner=Vickery_Turner) [successful ] o'<novelist=Author>"
+  },
+  "abstract" : {
+    "1" : "vickery turner<Vickery_Turner> (3 april 1945 in sunbury-on-thames<Sunbury-on-Thames>, surrey<Surrey> – 4 april 2006) was a british actress<England>, playwright<Playwright>, sunbury-on-thames<Sunbury-on-Thames>5 and theatre director<Theatre_director>",
+    "2" : "vickery turner<Vickery_Turner> started out on stage<Theatre_director> and her first breakthrough role was in the first production of the prime of miss jean brodie opposite vanessa redgrave\n",
+    "3" : "for that role turner<Vickery_Turner> received the clarence derwent award for the best supporting performance<Actor> and the london<United_Kingdom> critics award for the most promising newcomer",
+    "5" : "vickery turner<Vickery_Turner> acted in many of the more famous british plays<Playwright> of the 1960s\n",
+    "6" : "the plays<Playwright> vickery turner<Vickery_Turner> wrote for the bbc's thirty-minute theatre<Theatre_director> series were \"keep on running\" and \"magnolia summer\" and for the wednesday play \"kippers & curtains\"\n",
+    "9" : "in 1969 vickery turner<Vickery_Turner> met warren oates<Warren_Oates> while filming crooks and coronets and they married\n",
+    "11" : "vickery turner<Vickery_Turner> was also a successful novelist<Author> and her published novels included focussing, lovers of africa (love & hunger in the usa), the testimony of daniel pagels and delicate matters\n"
+  }
+}, {
+  "entityIndex" : "entity15335",
+  "entityUrl" : "http://dbpedia.org/resource/Valerie_Van_Ost",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Valerie_Van_Ost) dbo:birthDate o'<1944-07-25>",
+    "2" : "s(Valerie_Van_Ost) dbo:birthDate o'<1944-7-25>",
+    "3" : "s(Valerie_Van_Ost) dbo:birthPlace o'<UK>",
+    "4" : "s(Valerie_Van_Ost) dbo:birthPlace o'<England>",
+    "5" : "s(Valerie_Van_Ost) dbo:birthPlace o'<Hertfordshire>",
+    "6" : "s(Valerie_Van_Ost) dbo:birthPlace o'<Berkhamstead>",
+    "7" : "s(Valerie_Van_Ost) dbo:birthPlace o'<Berkhamsted>",
+    "8" : "s(Valerie_Van_Ost) dbo:birthYear o'<1944>",
+    "9" : "s(Valerie_Van_Ost) dbo:country o'<England>",
+    "10" : "s(Valerie_Van_Ost) dbo:imdbId o'<0887660>",
+    "11" : "s(Valerie_Van_Ost) dbo:occupation o'<Actress>",
+    "12" : "s(Valerie_Van_Ost) dbo:occupation o'<Valerie_Van_Ost__1>",
+    "13" : "s(Valerie_Van_Ost) dbp:date o'<March 2009>",
+    "14" : "s(Valerie_Van_Ost) dbp:name o'<Valerie Van Ost>",
+    "15" : "s(Valerie_Van_Ost) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(valerie van ost=Valerie_Van_Ost) [born 25 july 1944 ] o'<berkhamsted=Berkhamsted>",
+    "3" : "s(valerie van ost=Valerie_Van_Ost) [became youngest adult dancer ] o'<london=UK>"
+  },
+  "abstract" : {
+    "1" : "valerie van ost<Valerie_Van_Ost> (born 25 july 1944, berkhamsted<Berkhamsted>, hertfordshire<Hertfordshire>, england) is an english actress<Actress>",
+    "3" : "at school valerie van ost<Valerie_Van_Ost> became the youngest adult dancer at the london<UK> palladium before moving into films and television at age 18\n"
+  }
+}, {
+  "entityIndex" : "entity15336",
+  "entityUrl" : "http://dbpedia.org/resource/Valen_Hsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Valen_Hsu) dbo:birthDate o'<1974-9-20>",
+    "2" : "s(Valen_Hsu) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Valen_Hsu) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Valen_Hsu) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15337",
+  "entityUrl" : "http://dbpedia.org/resource/Vivien_Yeo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vivien_Yeo) dbo:birthDate o'<1984-7-20>",
+    "2" : "s(Vivien_Yeo) dbp:birthPlace o'<Johor_Bahru>",
+    "3" : "s(Vivien_Yeo) dbp:birthPlace o'<Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15338",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Woodward",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victoria_Woodward) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15339",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Plucknett",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victoria_Plucknett) dbo:country o'<United_Kingdom>",
+    "2" : "s(Victoria_Plucknett) dbo:imdbId o'<0687533>",
+    "3" : "s(Victoria_Plucknett) dbp:day o'<5>",
+    "4" : "s(Victoria_Plucknett) dbp:help o'<off>",
+    "5" : "s(Victoria_Plucknett) dbp:month o'<October>",
+    "6" : "s(Victoria_Plucknett) dbp:name o'<Victoria Plucknett>",
+    "7" : "s(Victoria_Plucknett) dbp:page o'<Victoria Plucknett>",
+    "8" : "s(Victoria_Plucknett) dbp:substed o'<yes>",
+    "9" : "s(Victoria_Plucknett) dbp:timestamp o'<20161005024536>",
+    "10" : "s(Victoria_Plucknett) dbp:year o'<2016>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15340",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Huang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victor_Huang) dbo:birthDate o'<1971-10-21>",
+    "2" : "s(Victor_Huang) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Victor_Huang) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Victor_Huang) dbp:birthPlace o'<Taipei>",
+    "5" : "s(Victor_Huang) dbp:name o'<Huang Wei-De>",
+    "6" : "s(Victor_Huang) dbp:name o'<Weide Huang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15341",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Gould",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victoria_Gould) dbo:activeYearsStartYear o'<1997>",
+    "2" : "s(Victoria_Gould) dbo:country o'<United_Kingdom>",
+    "3" : "s(Victoria_Gould) dbo:imdbId o'<0332510>",
+    "4" : "s(Victoria_Gould) dbo:occupation o'<Actress>",
+    "5" : "s(Victoria_Gould) dbo:occupation o'<Victoria_Gould__1>",
+    "6" : "s(Victoria_Gould) dbp:name o'<Victoria Gould>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(victoria gould=Victoria_Gould) [british ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "1" : "victoria gould<Victoria_Gould> is a british actress<Actress>, best known for playing the character of journalist polly becker on the bbc television soap opera eastenders from 1997 to 1998"
+  }
+}, {
+  "entityIndex" : "entity15342",
+  "entityUrl" : "http://dbpedia.org/resource/V%C3%A9ronique_Jannot",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15343",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Davies",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincent_Davies) dbo:activeYearsStartYear o'<1993>",
+    "2" : "s(Vincent_Davies) dbo:birthDate o'<1968-07-14>",
+    "3" : "s(Vincent_Davies) dbo:birthDate o'<1968-7-14>",
+    "4" : "s(Vincent_Davies) dbo:birthName o'<Vincent Paul Davies>",
+    "5" : "s(Vincent_Davies) dbo:birthPlace o'<England>",
+    "6" : "s(Vincent_Davies) dbo:birthPlace o'<Manchester>",
+    "7" : "s(Vincent_Davies) dbo:birthYear o'<1968>",
+    "8" : "s(Vincent_Davies) dbo:country o'<England>",
+    "9" : "s(Vincent_Davies) dbp:imagesize o'<150>",
+    "10" : "s(Vincent_Davies) dbp:notableRole o'<Vernon in Northern Lights>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15344",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_O'Keefe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victoria_O'Keefe) dbo:activeYearsEndYear o'<1990>",
+    "2" : "s(Victoria_O'Keefe) dbo:activeYearsStartYear o'<1983>",
+    "3" : "s(Victoria_O'Keefe) dbo:birthDate o'<1969-03-27>",
+    "4" : "s(Victoria_O'Keefe) dbo:birthDate o'<1969-3-27>",
+    "5" : "s(Victoria_O'Keefe) dbo:birthPlace o'<Dewsbury>",
+    "6" : "s(Victoria_O'Keefe) dbo:birthPlace o'<West_Yorkshire>",
+    "7" : "s(Victoria_O'Keefe) dbo:birthYear o'<1969>",
+    "8" : "s(Victoria_O'Keefe) dbo:deathDate o'<1990-04-18>",
+    "9" : "s(Victoria_O'Keefe) dbo:deathDate o'<1990-4-18>",
+    "10" : "s(Victoria_O'Keefe) dbo:deathYear o'<1990>",
+    "11" : "s(Victoria_O'Keefe) dbo:occupation o'<Victoria_O'Keefe__1>",
+    "12" : "s(Victoria_O'Keefe) dbp:deathPlace o'<Merseyside, England, UK>",
+    "13" : "s(Victoria_O'Keefe) dbp:imageSize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15345",
+  "entityUrl" : "http://dbpedia.org/resource/Vincenzo_Pellegrino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincenzo_Pellegrino) dbo:activeYearsEndYear o'<2004>",
+    "2" : "s(Vincenzo_Pellegrino) dbo:activeYearsStartYear o'<1997>",
+    "3" : "s(Vincenzo_Pellegrino) dbo:birthDate o'<1967-0-0>",
+    "4" : "s(Vincenzo_Pellegrino) dbo:birthPlace o'<UK>",
+    "5" : "s(Vincenzo_Pellegrino) dbo:birthPlace o'<England>",
+    "6" : "s(Vincenzo_Pellegrino) dbo:birthPlace o'<Liverpool>",
+    "7" : "s(Vincenzo_Pellegrino) dbo:birthPlace o'<Lancashire>",
+    "8" : "s(Vincenzo_Pellegrino) dbo:birthYear o'<1967>",
+    "9" : "s(Vincenzo_Pellegrino) dbo:country o'<England>",
+    "10" : "s(Vincenzo_Pellegrino) dbo:occupation o'<Vincenzo_Pellegrino__1>",
+    "11" : "s(Vincenzo_Pellegrino) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15346",
+  "entityUrl" : "http://dbpedia.org/resource/Viviane_Ventura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Viviane_Ventura) dbo:birthDate o'<1947-12-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15347",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Travers",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victor_Travers) dbo:activeYearsEndYear o'<1948>",
+    "2" : "s(Victor_Travers) dbo:activeYearsStartYear o'<1938>",
+    "3" : "s(Victor_Travers) dbo:birthDate o'<1884-1-1>",
+    "4" : "s(Victor_Travers) dbo:birthPlace o'<England>",
+    "5" : "s(Victor_Travers) dbo:birthPlace o'<Bradford>",
+    "6" : "s(Victor_Travers) dbo:birthYear o'<1884>",
+    "7" : "s(Victor_Travers) dbo:deathDate o'<1948-05-26>",
+    "8" : "s(Victor_Travers) dbo:deathDate o'<1948-5-26>",
+    "9" : "s(Victor_Travers) dbo:deathPlace o'<United_States>",
+    "10" : "s(Victor_Travers) dbo:deathPlace o'<Glendale,_California>",
+    "11" : "s(Victor_Travers) dbo:deathYear o'<1948>",
+    "12" : "s(Victor_Travers) dbo:restingPlace o'<Hollywood_Forever_Cemetery>",
+    "13" : "s(Victor_Travers) dbp:imagesize o'<225>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15348",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Kok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincent_Kok) dbo:birthDate o'<1965-8-15>",
+    "2" : "s(Vincent_Kok) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Vincent_Kok) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15349",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Zhao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincent_Zhao) dbo:birthDate o'<1972-4-10>",
+    "2" : "s(Vincent_Zhao) dbp:birthPlace o'<Heilongjiang>",
+    "3" : "s(Vincent_Zhao) dbp:birthPlace o'<China>",
+    "4" : "s(Vincent_Zhao) dbp:birthPlace o'<Harbin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15350",
+  "entityUrl" : "http://dbpedia.org/resource/Val%C3%A9rie_Bonnier",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15351",
+  "entityUrl" : "http://dbpedia.org/resource/Valerie_Taylor_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Valerie_Taylor_(actress)) dbo:wikiPageRedirects o'<Valerie_Taylor_(actor)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15352",
+  "entityUrl" : "http://dbpedia.org/resource/Vanilla_Yamazaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vanilla_Yamazaki) dbo:birthDate o'<1978-1-15>",
+    "2" : "s(Vanilla_Yamazaki) dbo:birthPlace o'<Miyagi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15353",
+  "entityUrl" : "http://dbpedia.org/resource/Vivian_Lai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vivian_Lai) dbo:birthDate o'<1976-12-18>",
+    "2" : "s(Vivian_Lai) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15354",
+  "entityUrl" : "http://dbpedia.org/resource/Vin_Choi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vin_Choi) dbo:birthDate o'<1984-5-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15355",
+  "entityUrl" : "http://dbpedia.org/resource/Valerie_Lilley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Valerie_Lilley) dbo:activeYearsStartYear o'<1973>",
+    "2" : "s(Valerie_Lilley) dbo:birthDate o'<1939-04-14>",
+    "3" : "s(Valerie_Lilley) dbo:birthDate o'<1939-4-14>",
+    "4" : "s(Valerie_Lilley) dbo:birthPlace o'<Larne>",
+    "5" : "s(Valerie_Lilley) dbo:birthYear o'<1939>",
+    "6" : "s(Valerie_Lilley) dbo:country o'<United_Kingdom>",
+    "7" : "s(Valerie_Lilley) dbo:imdbId o'<0510370>",
+    "8" : "s(Valerie_Lilley) dbo:occupation o'<Valerie_Lilley__1>",
+    "9" : "s(Valerie_Lilley) dbp:name o'<Valerie Lilley>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(valerie lilley=Valerie_Lilley) [spent many years ] o'<the uk=United_Kingdom>"
+  },
+  "abstract" : {
+    "4" : "valerie lilley<Valerie_Lilley> spent many years as a stage actress throughout the uk<United_Kingdom>\n"
+  }
+}, {
+  "entityIndex" : "entity15356",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Song",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victoria_Song) dbo:birthDate o'<1987-2-2>",
+    "2" : "s(Victoria_Song) dbo:birthPlace o'<Qingdao>",
+    "3" : "s(Victoria_Song) dbp:birthPlace o'<Qingdao, Shandong, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15357",
+  "entityUrl" : "http://dbpedia.org/resource/Valentine_Nonyela",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Valentine_Nonyela) dbo:activeYearsStartYear o'<1986>",
+    "2" : "s(Valentine_Nonyela) dbo:birthDate o'<1970-09-23>",
+    "3" : "s(Valentine_Nonyela) dbo:birthDate o'<1969-9-23>",
+    "4" : "s(Valentine_Nonyela) dbo:birthPlace o'<Nigeria>",
+    "5" : "s(Valentine_Nonyela) dbo:birthYear o'<1970>",
+    "6" : "s(Valentine_Nonyela) dbo:country o'<United_Kingdom>",
+    "7" : "s(Valentine_Nonyela) dbo:occupation o'<Valentine_Nonyela__1>",
+    "8" : "s(Valentine_Nonyela) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(valentine nonyela=Valentine_Nonyela) [appeared in many tv programmes ] o'<television=Actor>"
+  },
+  "abstract" : {
+    "2" : "valentine nonyela<Valentine_Nonyela> appeared in many tv programmes of the late 1980s and 1990s, including bbc television<Actor> series south of the border, the bill, london's burning, holby city and a touch of frost\n"
+  }
+}, {
+  "entityIndex" : "entity15358",
+  "entityUrl" : "http://dbpedia.org/resource/Van_Fan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Van_Fan) dbo:birthDate o'<1978-11-3>",
+    "2" : "s(Van_Fan) dbp:birthPlace o'<Taiwan>",
+    "3" : "s(Van_Fan) dbp:birthPlace o'<Taitung_County>",
+    "4" : "s(Van_Fan) dbp:birthPlace o'<Donghe,_Taitung>",
+    "5" : "s(Van_Fan) dbp:name o'<Van Fan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15359",
+  "entityUrl" : "http://dbpedia.org/resource/Vic_Chou",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vic_Chou) dbo:birthDate o'<1981-6-9>",
+    "2" : "s(Vic_Chou) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Vic_Chou) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Vic_Chou) dbp:birthPlace o'<Yilan_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15360",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincent_Wong) dbo:wikiPageDisambiguates o'<Vincent_Wong_(Hong_Kong_actor)>",
+    "2" : "s(Vincent_Wong) dbo:wikiPageDisambiguates o'<Vincent_Wong_(UK_actor)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15361",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Brooks",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victor_Brooks) dbo:wikiPageDisambiguates o'<Victor_Brooks_(actor)>",
+    "2" : "s(Victor_Brooks) dbo:wikiPageDisambiguates o'<Victor_Brooks_(athlete)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15362",
+  "entityUrl" : "http://dbpedia.org/resource/Valda_Setterfield",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Valda_Setterfield) dbo:birthDate o'<1934-09-17>",
+    "2" : "s(Valda_Setterfield) dbo:birthDate o'<1934-9-17>",
+    "3" : "s(Valda_Setterfield) dbo:birthPlace o'<Kent>",
+    "4" : "s(Valda_Setterfield) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Valda_Setterfield) dbo:birthPlace o'<Margate>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15363",
+  "entityUrl" : "http://dbpedia.org/resource/Viola_Compton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Viola_Compton) dbo:birthDate o'<1886-11-26>",
+    "2" : "s(Viola_Compton) dbo:birthPlace o'<London>",
+    "3" : "s(Viola_Compton) dbo:birthPlace o'<Fulham>",
+    "4" : "s(Viola_Compton) dbo:deathDate o'<1971-04-07>",
+    "5" : "s(Viola_Compton) dbo:deathDate o'<1971-4-7>",
+    "6" : "s(Viola_Compton) dbo:deathPlace o'<Kent>",
+    "7" : "s(Viola_Compton) dbo:deathPlace o'<Birchington-on-Sea>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15364",
+  "entityUrl" : "http://dbpedia.org/resource/Vida_Hope",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vida_Hope) dbo:birthDate o'<1918-12-16>",
+    "2" : "s(Vida_Hope) dbo:birthPlace o'<Liverpool>",
+    "3" : "s(Vida_Hope) dbo:deathDate o'<1963-12-23>",
+    "4" : "s(Vida_Hope) dbo:deathPlace o'<Chelmsford>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15365",
+  "entityUrl" : "http://dbpedia.org/resource/Vera_Day",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vera_Day) dbo:birthDate o'<1935-8-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15366",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Stanley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victor_Stanley) dbo:birthDate o'<1892-0-0>",
+    "2" : "s(Victor_Stanley) dbo:deathDate o'<1939-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15367",
+  "entityUrl" : "http://dbpedia.org/resource/Veronica_Rose",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Veronica_Rose) dbo:birthDate o'<1911-07-08>",
+    "2" : "s(Veronica_Rose) dbo:birthDate o'<1911-6-8>",
+    "3" : "s(Veronica_Rose) dbo:birthPlace o'<Edinburgh>",
+    "4" : "s(Veronica_Rose) dbo:birthPlace o'<Scotland>",
+    "5" : "s(Veronica_Rose) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Veronica_Rose) dbo:deathDate o'<1968-01-25>",
+    "7" : "s(Veronica_Rose) dbo:deathDate o'<1968-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15368",
+  "entityUrl" : "http://dbpedia.org/resource/Valia",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Valia) dbo:birthDate o'<1899-12-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15369",
+  "entityUrl" : "http://dbpedia.org/resource/Vi_Kaley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vi_Kaley) dbo:birthPlace o'<Amersham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15370",
+  "entityUrl" : "http://dbpedia.org/resource/Vera_Cornish",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15371",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincent_Ng) dbo:birthDate o'<1975-12-6>",
+    "2" : "s(Vincent_Ng) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15372",
+  "entityUrl" : "http://dbpedia.org/resource/Vicki_Carpenter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vicki_Carpenter) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15373",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Carling",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Victoria_Carling) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(victoria carling=Victoria_Carling) [ma in ] o'<english=United_Kingdom>",
+    "7" : "s(victoria carling=Victoria_Carling) [appeared with dawn french in ] o'<royal=United_Kingdom>",
+    "8" : "s(victoria carling=Victoria_Carling) [nominated for best actress ] o'<royal=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "victoria carling<Victoria_Carling> has an ma in english<United_Kingdom> from cambridge and graduated from bristol old vic in 1987, winning the carleton hobbs award (with stephen tompkinson) in the same year\n",
+    "7" : "in 1991, victoria carling<Victoria_Carling> appeared with dawn french in ben elton's silly cow at the theatre royal<United_Kingdom> haymarket\n",
+    "8" : "other work includes a one-woman show after their loving in 1990 (for which victoria carling<Victoria_Carling> was nominated for best actress in the charrington fringe awards), kafka's dick at watford palace theatre and appearances at the chichester festival theatre and the manchester royal<United_Kingdom> exchange\n"
+  }
+}, {
+  "entityIndex" : "entity15374",
+  "entityUrl" : "http://dbpedia.org/resource/Val%C3%A9rie_Bonneton",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15375",
+  "entityUrl" : "http://dbpedia.org/resource/Valter_Skarsg%C3%A5rd",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15376",
+  "entityUrl" : "http://dbpedia.org/resource/Violet_Graham",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Violet_Graham) dbo:birthDate o'<1890-11-09>",
+    "2" : "s(Violet_Graham) dbo:birthDate o'<1890-0-0>",
+    "3" : "s(Violet_Graham) dbo:birthPlace o'<England>",
+    "4" : "s(Violet_Graham) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Violet_Graham) dbo:deathDate o'<1967-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15377",
+  "entityUrl" : "http://dbpedia.org/resource/Vic_Polizos",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vic_Polizos) dbo:activeYearsStartYear o'<1980>",
+    "2" : "s(Vic_Polizos) dbo:birthDate o'<1947-08-12>",
+    "3" : "s(Vic_Polizos) dbo:birthDate o'<1947-8-12>",
+    "4" : "s(Vic_Polizos) dbo:birthYear o'<1947>",
+    "5" : "s(Vic_Polizos) dbo:occupation o'<Vic_Polizos__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15378",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Chiao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vincent_Chiao) dbo:birthDate o'<1967-11-7>",
+    "2" : "s(Vincent_Chiao) dbo:birthPlace o'<Chiayi>",
+    "3" : "s(Vincent_Chiao) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Vincent_Chiao) dbp:birthPlace o'<Chiayi_City>",
+    "5" : "s(Vincent_Chiao) dbp:name o'<En-chun Chiao>",
+    "6" : "s(Vincent_Chiao) dbp:name o'<Vincent Chiu Yan-Jun>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15379",
+  "entityUrl" : "http://dbpedia.org/resource/Valentine_Tessier",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Valentine_Tessier) dbo:birthDate o'<1892-08-05>",
+    "2" : "s(Valentine_Tessier) dbo:birthDate o'<1892-8-5>",
+    "3" : "s(Valentine_Tessier) dbo:birthPlace o'<Paris>",
+    "4" : "s(Valentine_Tessier) dbo:birthPlace o'<France>",
+    "5" : "s(Valentine_Tessier) dbo:deathDate o'<1981-08-11>",
+    "6" : "s(Valentine_Tessier) dbo:deathDate o'<1981-8-11>",
+    "7" : "s(Valentine_Tessier) dbo:deathPlace o'<Vallauris>",
+    "8" : "s(Valentine_Tessier) dbo:deathPlace o'<Alpes-Maritimes>",
+    "9" : "s(Valentine_Tessier) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15380",
+  "entityUrl" : "http://dbpedia.org/resource/Vivienne_Chatterton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Vivienne_Chatterton) dbo:deathDate o'<1974-01-01>",
+    "2" : "s(Vivienne_Chatterton) dbo:deathDate o'<1974-1-1>",
+    "3" : "s(Vivienne_Chatterton) dbo:deathYear o'<1974>",
+    "4" : "s(Vivienne_Chatterton) dbo:occupation o'<Vivienne_Chatterton__1>",
+    "5" : "s(Vivienne_Chatterton) dbp:imdbId o'<154185>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15381",
+  "entityUrl" : "http://dbpedia.org/resource/Val%C3%A9rie_Vogt",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

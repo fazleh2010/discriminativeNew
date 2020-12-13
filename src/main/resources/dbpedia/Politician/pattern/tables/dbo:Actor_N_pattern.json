@@ -1,0 +1,2048 @@
+[ {
+  "entityIndex" : "entity14032",
+  "entityUrl" : "http://dbpedia.org/resource/Nobuko_Miyamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nobuko_Miyamoto) dbo:birthDate o'<1945-03-27>",
+    "2" : "s(Nobuko_Miyamoto) dbo:birthDate o'<1945-3-27>",
+    "3" : "s(Nobuko_Miyamoto) dbo:birthPlace o'<Otaru>",
+    "4" : "s(Nobuko_Miyamoto) dbo:birthPlace o'<Otaru,_Hokkaidō>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(nobuko miyamoto=Nobuko_Miyamoto) [born in ] o'<otaru=Otaru>"
+  },
+  "abstract" : {
+    "2" : "nobuko miyamoto<Nobuko_Miyamoto> was born in otaru<Otaru>, hokkaidō, and raised in nagoya\n"
+  }
+}, {
+  "entityIndex" : "entity14033",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Tse",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_Tse) dbo:birthDate o'<1980-8-29>",
+    "2" : "s(Nicholas_Tse) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Nicholas_Tse) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "9" : "s(nicholas tse=Nicholas_Tse) [made his film debut in ] o'<hong kong=Hong_Kong>",
+    "12" : "s(nicholas tse=Nicholas_Tse) [won award for ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "9" : "nicholas tse<Nicholas_Tse> made his film debut in 1998 with the crime film young and dangerous: the prequel, for which tse received the hong kong<Hong_Kong> film award for his performance in the best new performer category\n",
+    "12" : "in 2011, nicholas tse<Nicholas_Tse> won the award for hong kong<Hong_Kong> film award for best actor\n"
+  }
+}, {
+  "entityIndex" : "entity14034",
+  "entityUrl" : "http://dbpedia.org/resource/Nozomu_Sasaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nozomu_Sasaki) dbo:birthDate o'<1967-01-25>",
+    "2" : "s(Nozomu_Sasaki) dbo:birthDate o'<1967-1-25>",
+    "3" : "s(Nozomu_Sasaki) dbo:birthPlace o'<Hiroshima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14035",
+  "entityUrl" : "http://dbpedia.org/resource/Nagisa_Katahira",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nagisa_Katahira) dbo:birthDate o'<1959-1-1>",
+    "2" : "s(Nagisa_Katahira) dbo:birthPlace o'<Ōta,_Tokyo>",
+    "3" : "s(Nagisa_Katahira) dbp:name o'<Nagisa Katahira>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14036",
+  "entityUrl" : "http://dbpedia.org/resource/Naomi_Zaizen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naomi_Zaizen) dbo:birthDate o'<1966-01-10>",
+    "2" : "s(Naomi_Zaizen) dbo:birthDate o'<1966-1-10>",
+    "3" : "s(Naomi_Zaizen) dbo:birthPlace o'<Ōita,_Ōita>",
+    "4" : "s(Naomi_Zaizen) dbp:name o'<Zaizen Naomi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14037",
+  "entityUrl" : "http://dbpedia.org/resource/Naomi_Nagasawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naomi_Nagasawa) dbo:birthDate o'<1971-05-12>",
+    "2" : "s(Naomi_Nagasawa) dbo:birthDate o'<1971-5-12>",
+    "3" : "s(Naomi_Nagasawa) dbo:birthPlace o'<Toyonaka,_Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14038",
+  "entityUrl" : "http://dbpedia.org/resource/Naozumi_Takahashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naozumi_Takahashi) dbo:birthDate o'<1971-12-06>",
+    "2" : "s(Naozumi_Takahashi) dbo:birthDate o'<1971-12-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14039",
+  "entityUrl" : "http://dbpedia.org/resource/Naomi_Hosokawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naomi_Hosokawa) dbo:birthDate o'<1974-1-1>",
+    "2" : "s(Naomi_Hosokawa) dbo:birthPlace o'<Totsuka-ku,_Yokohama>",
+    "3" : "s(Naomi_Hosokawa) dbp:name o'<Naomi Hosokawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14040",
+  "entityUrl" : "http://dbpedia.org/resource/Narimi_Arimori",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Narimi_Arimori) dbo:birthDate o'<1967-12-10>",
+    "2" : "s(Narimi_Arimori) dbo:birthPlace o'<Japan>",
+    "3" : "s(Narimi_Arimori) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "4" : "s(Narimi_Arimori) dbo:birthPlace o'<Yokohama>",
+    "5" : "s(Narimi_Arimori) dbp:name o'<Narimi Arimori>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14041",
+  "entityUrl" : "http://dbpedia.org/resource/Narumi_Yasuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Narumi_Yasuda) dbo:birthDate o'<1966-11-28>",
+    "2" : "s(Narumi_Yasuda) dbo:birthPlace o'<Japan>",
+    "3" : "s(Narumi_Yasuda) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Narumi_Yasuda) dbp:name o'<Narumi Yasuda>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(narumi yasuda=Narumi_Yasuda) [  yasuda narumi born ] o'<tokyo=Tokyo>"
+  },
+  "abstract" : {
+    "1" : "narumi yasuda<Narumi_Yasuda> (安田 成美 yasuda narumi, born 28 november 1966 in tokyo<Tokyo>, japan) is a japanese<Japan> actress"
+  }
+}, {
+  "entityIndex" : "entity14042",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Watanabe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Watanabe) dbo:birthDate o'<1965-07-22>",
+    "2" : "s(Noriko_Watanabe) dbo:birthDate o'<1965-7-22>",
+    "3" : "s(Noriko_Watanabe) dbo:birthPlace o'<Japan>",
+    "4" : "s(Noriko_Watanabe) dbo:birthPlace o'<Ōita_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14043",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Ogawa_(singer)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Ogawa_(singer)) dbo:birthDate o'<1973-1-1>",
+    "2" : "s(Noriko_Ogawa_(singer)) dbo:birthPlace o'<Tachikawa,_Tokyo>",
+    "3" : "s(Noriko_Ogawa_(singer)) dbp:name o'<Ogawa Noriko>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14044",
+  "entityUrl" : "http://dbpedia.org/resource/Natsuko_Yamamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natsuko_Yamamoto) dbo:birthDate o'<1965-1-31>",
+    "2" : "s(Natsuko_Yamamoto) dbo:birthPlace o'<Chiba_Prefecture>",
+    "3" : "s(Natsuko_Yamamoto) dbp:name o'<Natsuko Yamamoto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14045",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Higashide",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Higashide) dbo:birthDate o'<1963-7-22>",
+    "2" : "s(Noriko_Higashide) dbo:birthPlace o'<Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14046",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_Evans",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norman_Evans) dbo:birthDate o'<1901-6-11>",
+    "2" : "s(Norman_Evans) dbo:birthPlace o'<Rochdale>",
+    "3" : "s(Norman_Evans) dbo:deathDate o'<1962-11-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14047",
+  "entityUrl" : "http://dbpedia.org/resource/Noname_Jane",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noname_Jane) dbo:birthDate o'<1977-03-27>",
+    "2" : "s(Noname_Jane) dbo:birthDate o'<1977-3-27>",
+    "3" : "s(Noname_Jane) dbo:birthPlace o'<United_States>",
+    "4" : "s(Noname_Jane) dbo:birthPlace o'<Aberdeen,_Washington>",
+    "5" : "s(Noname_Jane) dbo:height o'<160.02>",
+    "6" : "s(Noname_Jane) dbo:weight o'<47.628>",
+    "7" : "s(Noname_Jane) dbp:name o'<Noname Jane>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14048",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Patrick_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nick_Patrick_(actor)) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14049",
+  "entityUrl" : "http://dbpedia.org/resource/Norito_Yashima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norito_Yashima) dbo:birthDate o'<1970-9-27>",
+    "2" : "s(Norito_Yashima) dbo:birthPlace o'<Nara,_Nara>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14050",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_Fitzwiliam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Neil_Fitzwiliam) dbo:country o'<England>",
+    "2" : "s(Neil_Fitzwiliam) dbo:imdbId o'<0280666>",
+    "3" : "s(Neil_Fitzwiliam) dbp:name o'<Neil Fitzwiliam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14051",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Conway",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nick_Conway) dbo:activeYearsEndYear o'<2014>",
+    "2" : "s(Nick_Conway) dbo:activeYearsStartYear o'<1982>",
+    "3" : "s(Nick_Conway) dbo:birthDate o'<1962-12-25>",
+    "4" : "s(Nick_Conway) dbo:birthDate o'<1962-12-26>",
+    "5" : "s(Nick_Conway) dbo:birthName o'<Nicholas Campbell>",
+    "6" : "s(Nick_Conway) dbo:birthPlace o'<England>",
+    "7" : "s(Nick_Conway) dbo:birthPlace o'<Shropshire>",
+    "8" : "s(Nick_Conway) dbo:birthPlace o'<Shrewsbury>",
+    "9" : "s(Nick_Conway) dbo:birthYear o'<1962>",
+    "10" : "s(Nick_Conway) dbo:country o'<England>",
+    "11" : "s(Nick_Conway) dbo:imdbId o'<0176748>",
+    "12" : "s(Nick_Conway) dbo:nationality o'<British_nationality_law>",
+    "13" : "s(Nick_Conway) dbo:occupation o'<Disc_jockey>",
+    "14" : "s(Nick_Conway) dbo:occupation o'<Actor>",
+    "15" : "s(Nick_Conway) dbo:occupation o'<Nick_Conway__1>",
+    "16" : "s(Nick_Conway) dbo:stateOfOrigin o'<British_nationality_law>",
+    "17" : "s(Nick_Conway) dbp:name o'<Nick Conway>",
+    "18" : "s(Nick_Conway) dbp:television o'<Coronation_Street>",
+    "19" : "s(Nick_Conway) dbp:television o'<Doctors_(soap_opera)>",
+    "20" : "s(Nick_Conway) dbp:television o'<Juliet_Bravo>",
+    "21" : "s(Nick_Conway) dbp:television o'<Bread_(TV_series)>",
+    "22" : "s(Nick_Conway) dbp:television o'<''>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(nick conway=Nick_Conway) [born ] o'<nicholas campbell=Nicholas_Campbell>",
+    "2" : "s(nick conway=Nick_Conway) [played billy boswell in carla ] o'<bread=Bread_(TV_series)>",
+    "3" : "s(nick conway=Nick_Conway) [appeared in starting ] o'<coronation street=Coronation_Street>",
+    "4" : "s(nick conway=Nick_Conway) [featured in many theatre ] o'<dj=Disc_jockey>",
+    "5" : "s(nick conway=Nick_Conway) [appeared on ] o'<coronation street=Coronation_Street>"
+  },
+  "abstract" : {
+    "1" : "nick conway<Nick_Conway> (born nicholas campbell<Nicholas_Campbell> on 25 december 1962) is an english actor<Actor>",
+    "2" : "nick conway<Nick_Conway> played billy boswell in carla lane's popular bbc comedy series bread<Bread_(TV_series)>\n",
+    "3" : "nick conway<Nick_Conway> has also appeared in starting out, thank you mrs clinkscales, when saturday comes, coronation street<Coronation_Street>, keep on running and juliet bravo<Juliet_Bravo>\n",
+    "4" : "nick conway<Nick_Conway> has featured in many theatre productions and currently runs a theatre school, nick conway<Nick_Conway> is also a dj<Disc_jockey> and teacher\n",
+    "5" : "in november 2010 nick conway<Nick_Conway> appeared on coronation street<Coronation_Street>\n"
+  }
+}, {
+  "entityIndex" : "entity14052",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Burns_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_Burns_(actor)) dbo:activeYearsStartYear o'<2002>",
+    "2" : "s(Nicholas_Burns_(actor)) dbo:birthDate o'<1977-1-1>",
+    "3" : "s(Nicholas_Burns_(actor)) dbo:birthPlace o'<Derbyshire>",
+    "4" : "s(Nicholas_Burns_(actor)) dbo:country o'<England>",
+    "5" : "s(Nicholas_Burns_(actor)) dbo:occupation o'<Nicholas_Burns_(actor)__1>",
+    "6" : "s(Nicholas_Burns_(actor)) dbp:children o'<Sons>",
+    "7" : "s(Nicholas_Burns_(actor)) dbp:imagesize o'<150>",
+    "8" : "s(Nicholas_Burns_(actor)) dbp:spouse o'<Louise>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14053",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_Edmond__England-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Neil_Edmond__England-actor-stub__1) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14054",
+  "entityUrl" : "http://dbpedia.org/resource/Ning_Jing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ning_Jing) dbo:birthDate o'<1972-4-27>",
+    "2" : "s(Ning_Jing) dbo:birthPlace o'<Guiyang>",
+    "3" : "s(Ning_Jing) dbp:birthPlace o'<Guiyang, Guizhou, China>",
+    "4" : "s(Ning_Jing) dbp:name o'<Jing Ning>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14055",
+  "entityUrl" : "http://dbpedia.org/resource/Niki_Chow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Niki_Chow) dbo:birthDate o'<1979-8-30>",
+    "2" : "s(Niki_Chow) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Niki_Chow) dbp:birthPlace o'<Hong_Kong,_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14056",
+  "entityUrl" : "http://dbpedia.org/resource/Nanako_Matsushima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nanako_Matsushima) dbo:birthDate o'<1973-10-13>",
+    "2" : "s(Nanako_Matsushima) dbo:birthPlace o'<Japan>",
+    "3" : "s(Nanako_Matsushima) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "4" : "s(Nanako_Matsushima) dbo:birthPlace o'<Yokohama>",
+    "5" : "s(Nanako_Matsushima) dbo:birthPlace o'<Yokohama,_Kanagawa>",
+    "6" : "s(Nanako_Matsushima) dbo:height o'<172.0>",
+    "7" : "s(Nanako_Matsushima) dbo:weight o'<54.8856>",
+    "8" : "s(Nanako_Matsushima) dbp:name o'<Nanako Matsushima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14057",
+  "entityUrl" : "http://dbpedia.org/resource/Ng_Man-tat",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ng_Man-tat) dbo:birthDate o'<1952-1-2>",
+    "2" : "s(Ng_Man-tat) dbo:birthPlace o'<Xiamen>",
+    "3" : "s(Ng_Man-tat) dbp:birthPlace o'<China>",
+    "4" : "s(Ng_Man-tat) dbp:birthPlace o'<Xiamen>",
+    "5" : "s(Ng_Man-tat) dbp:birthPlace o'<Fujian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14058",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Uemura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Uemura) dbo:birthDate o'<1963-07-15>",
+    "2" : "s(Noriko_Uemura) dbo:birthDate o'<1963-7-15>",
+    "3" : "s(Noriko_Uemura) dbo:birthPlace o'<Fukuoka_Prefecture>",
+    "4" : "s(Noriko_Uemura) dbo:birthPlace o'<Chūō-ku,_Fukuoka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14059",
+  "entityUrl" : "http://dbpedia.org/resource/Narumi_Tsunoda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Narumi_Tsunoda) dbo:birthDate o'<1962-3-14>",
+    "2" : "s(Narumi_Tsunoda) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14060",
+  "entityUrl" : "http://dbpedia.org/resource/Nanae_Kat%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14061",
+  "entityUrl" : "http://dbpedia.org/resource/Naoki_Yanagi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naoki_Yanagi) dbo:birthDate o'<1972-11-1>",
+    "2" : "s(Naoki_Yanagi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14062",
+  "entityUrl" : "http://dbpedia.org/resource/Nils_Poppe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nils_Poppe) dbo:birthDate o'<1908-05-31>",
+    "2" : "s(Nils_Poppe) dbo:birthDate o'<1908-5-31>",
+    "3" : "s(Nils_Poppe) dbo:birthPlace o'<Malmö>",
+    "4" : "s(Nils_Poppe) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Nils_Poppe) dbo:deathDate o'<2000-06-28>",
+    "6" : "s(Nils_Poppe) dbo:deathDate o'<2000-6-28>",
+    "7" : "s(Nils_Poppe) dbo:deathPlace o'<Helsingborg>",
+    "8" : "s(Nils_Poppe) dbo:deathPlace o'<Sweden>",
+    "9" : "s(Nils_Poppe) dbp:name o'<Nils Poppe>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14063",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Fry",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nina_Fry) dbo:country o'<United_Kingdom>",
+    "2" : "s(Nina_Fry) dbo:imdbId o'<1544203>",
+    "3" : "s(Nina_Fry) dbp:name o'<Nina Fry>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14064",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Rikimaru",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Rikimaru) dbo:birthDate o'<1976-1-20>",
+    "2" : "s(Noriko_Rikimaru) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14065",
+  "entityUrl" : "http://dbpedia.org/resource/Nigel_Humphreys",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nigel_Humphreys) dbo:birthDate o'<1951-0-0>",
+    "2" : "s(Nigel_Humphreys) dbo:country o'<United_Kingdom>",
+    "3" : "s(Nigel_Humphreys) dbo:imdbId o'<0402014>",
+    "4" : "s(Nigel_Humphreys) dbp:name o'<Nigel Humphreys>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14066",
+  "entityUrl" : "http://dbpedia.org/resource/Naoko_Kouda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naoko_Kouda) dbo:birthDate o'<1959-3-22>",
+    "2" : "s(Naoko_Kouda) dbo:birthPlace o'<Hokkaido>",
+    "3" : "s(Naoko_Kouda) dbp:name o'<Naoko Kouda>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14067",
+  "entityUrl" : "http://dbpedia.org/resource/Natsumi_Yanase",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natsumi_Yanase) dbo:birthDate o'<1971-5-10>",
+    "2" : "s(Natsumi_Yanase) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Natsumi_Yanase) dbp:name o'<Natsumi Yanase>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14068",
+  "entityUrl" : "http://dbpedia.org/resource/Norm_Grabowski",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norm_Grabowski) dbo:birthDate o'<1933-02-05>",
+    "2" : "s(Norm_Grabowski) dbo:birthDate o'<1933-2-5>",
+    "3" : "s(Norm_Grabowski) dbo:deathDate o'<2012-10-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14069",
+  "entityUrl" : "http://dbpedia.org/resource/Nicole_Sheridan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicole_Sheridan) dbo:birthDate o'<1975-05-07>",
+    "2" : "s(Nicole_Sheridan) dbo:birthDate o'<1975-5-7>",
+    "3" : "s(Nicole_Sheridan) dbo:birthPlace o'<Pennsylvania>",
+    "4" : "s(Nicole_Sheridan) dbo:birthPlace o'<Clarks_Summit,_Pennsylvania>",
+    "5" : "s(Nicole_Sheridan) dbo:height o'<177.8>",
+    "6" : "s(Nicole_Sheridan) dbo:weight o'<56.7>",
+    "7" : "s(Nicole_Sheridan) dbp:name o'<Nicole Sheridan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14070",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Kumagaya",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nina_Kumagaya) dbo:birthDate o'<1963-7-18>",
+    "2" : "s(Nina_Kumagaya) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14071",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_Wooland",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norman_Wooland) dbo:birthDate o'<1910-03-16>",
+    "2" : "s(Norman_Wooland) dbo:birthDate o'<1910-3-16>",
+    "3" : "s(Norman_Wooland) dbo:birthPlace o'<Germany>",
+    "4" : "s(Norman_Wooland) dbo:birthPlace o'<Düsseldorf>",
+    "5" : "s(Norman_Wooland) dbo:deathDate o'<1989-04-03>",
+    "6" : "s(Norman_Wooland) dbo:deathDate o'<1989-4-3>",
+    "7" : "s(Norman_Wooland) dbo:deathPlace o'<UK>",
+    "8" : "s(Norman_Wooland) dbo:deathPlace o'<England>",
+    "9" : "s(Norman_Wooland) dbo:deathPlace o'<Kent>",
+    "10" : "s(Norman_Wooland) dbo:deathPlace o'<Staplehurst>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14072",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Teo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_Teo) dbo:birthDate o'<1981-11-29>",
+    "2" : "s(Nicholas_Teo) dbo:birthPlace o'<Kuching>",
+    "3" : "s(Nicholas_Teo) dbp:birthPlace o'<Kuching, Sarawak, Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14073",
+  "entityUrl" : "http://dbpedia.org/resource/Nicky_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicky_Wu) dbo:birthDate o'<1970-10-31>",
+    "2" : "s(Nicky_Wu) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Nicky_Wu) dbp:birthPlace o'<Taipei, Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14074",
+  "entityUrl" : "http://dbpedia.org/resource/Nicola_Stephenson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicola_Stephenson) dbo:birthDate o'<1971-07-05>",
+    "2" : "s(Nicola_Stephenson) dbo:birthDate o'<1971-7-5>",
+    "3" : "s(Nicola_Stephenson) dbo:birthPlace o'<Oldham>",
+    "4" : "s(Nicola_Stephenson) dbo:birthYear o'<1971>",
+    "5" : "s(Nicola_Stephenson) dbo:country o'<England>",
+    "6" : "s(Nicola_Stephenson) dbo:imdbId o'<0827296>",
+    "7" : "s(Nicola_Stephenson) dbo:nationality o'<English_people>",
+    "8" : "s(Nicola_Stephenson) dbo:occupation o'<Nicola_Stephenson__1>",
+    "9" : "s(Nicola_Stephenson) dbo:stateOfOrigin o'<English_people>",
+    "10" : "s(Nicola_Stephenson) dbp:children o'<2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14075",
+  "entityUrl" : "http://dbpedia.org/resource/Natalis_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natalis_Chan) dbo:birthDate o'<1950-12-3>",
+    "2" : "s(Natalis_Chan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Natalis_Chan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14076",
+  "entityUrl" : "http://dbpedia.org/resource/Naoko_Watanabe_(voice_actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naoko_Watanabe_(voice_actress)) dbo:birthDate o'<1959-11-21>",
+    "2" : "s(Naoko_Watanabe_(voice_actress)) dbo:birthDate o'<1959-11-22>",
+    "3" : "s(Naoko_Watanabe_(voice_actress)) dbo:birthPlace o'<Suginami>",
+    "4" : "s(Naoko_Watanabe_(voice_actress)) dbo:birthPlace o'<Suginami,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14077",
+  "entityUrl" : "http://dbpedia.org/resource/Naomi_Kawashima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naomi_Kawashima) dbo:birthDate o'<1960-11-10>",
+    "2" : "s(Naomi_Kawashima) dbo:birthPlace o'<Moriyama-ku,_Nagoya>",
+    "3" : "s(Naomi_Kawashima) dbo:deathDate o'<2015-9-24>",
+    "4" : "s(Naomi_Kawashima) dbo:deathPlace o'<Tokyo>",
+    "5" : "s(Naomi_Kawashima) dbp:name o'<Naomi Kawashima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14078",
+  "entityUrl" : "http://dbpedia.org/resource/Neville_Smith_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Neville_Smith_(actor)) dbo:birthDate o'<1940-1-1>",
+    "2" : "s(Neville_Smith_(actor)) dbo:birthPlace o'<England>",
+    "3" : "s(Neville_Smith_(actor)) dbo:birthPlace o'<Liverpool>",
+    "4" : "s(Neville_Smith_(actor)) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Neville_Smith_(actor)) dbo:birthYear o'<1940>",
+    "6" : "s(Neville_Smith_(actor)) dbo:country o'<United_Kingdom>",
+    "7" : "s(Neville_Smith_(actor)) dbo:imdbId o'<0809447>",
+    "8" : "s(Neville_Smith_(actor)) dbo:nationality o'<United_Kingdom>",
+    "9" : "s(Neville_Smith_(actor)) dbo:stateOfOrigin o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14079",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Audsley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_Audsley) dbo:birthDate o'<1982-02-06>",
+    "2" : "s(Nicholas_Audsley) dbo:birthDate o'<1982-2-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14080",
+  "entityUrl" : "http://dbpedia.org/resource/Nozomi_Masu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nozomi_Masu) dbo:birthDate o'<1980-7-26>",
+    "2" : "s(Nozomi_Masu) dbo:birthPlace o'<Saitama_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14081",
+  "entityUrl" : "http://dbpedia.org/resource/Naruki_Matsukawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naruki_Matsukawa) dbo:birthDate o'<1991-09-20>",
+    "2" : "s(Naruki_Matsukawa) dbo:birthDate o'<1991-9-20>",
+    "3" : "s(Naruki_Matsukawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Naruki_Matsukawa) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14082",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Ohara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Ohara) dbo:birthDate o'<1935-10-2>",
+    "2" : "s(Noriko_Ohara) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14083",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Li_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nina_Li_(actress)) dbo:birthDate o'<1961-12-31>",
+    "2" : "s(Nina_Li_(actress)) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Nina_Li_(actress)) dbp:birthPlace o'<Shanghai, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14084",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_McGaughey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_McGaughey) dbo:birthPlace o'<England>",
+    "2" : "s(Nicholas_McGaughey) dbo:birthPlace o'<Portsmouth>",
+    "3" : "s(Nicholas_McGaughey) dbo:country o'<United_Kingdom>",
+    "4" : "s(Nicholas_McGaughey) dbo:imdbId o'<0568988>",
+    "5" : "s(Nicholas_McGaughey) dbp:name o'<Nicholas McGaughey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14085",
+  "entityUrl" : "http://dbpedia.org/resource/Norma_West",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norma_West) dbo:birthDate o'<1943-11-19>",
+    "2" : "s(Norma_West) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14086",
+  "entityUrl" : "http://dbpedia.org/resource/Ninia_Benjamin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ninia_Benjamin) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14087",
+  "entityUrl" : "http://dbpedia.org/resource/Nadia_Far%C3%A8s",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14088",
+  "entityUrl" : "http://dbpedia.org/resource/Naho_Toda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naho_Toda) dbo:birthDate o'<1974-03-13>",
+    "2" : "s(Naho_Toda) dbo:birthDate o'<1974-3-13>",
+    "3" : "s(Naho_Toda) dbo:birthPlace o'<Japan>",
+    "4" : "s(Naho_Toda) dbo:birthPlace o'<Hiroshima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14089",
+  "entityUrl" : "http://dbpedia.org/resource/Natsuki_Okamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natsuki_Okamoto) dbo:birthDate o'<1989-9-13>",
+    "2" : "s(Natsuki_Okamoto) dbo:birthPlace o'<Mie_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14090",
+  "entityUrl" : "http://dbpedia.org/resource/Nikolai_Kinski",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nikolai_Kinski) dbo:birthDate o'<1976-07-30>",
+    "2" : "s(Nikolai_Kinski) dbo:birthDate o'<1976-7-30>",
+    "3" : "s(Nikolai_Kinski) dbo:birthPlace o'<Paris>",
+    "4" : "s(Nikolai_Kinski) dbo:birthPlace o'<France>",
+    "5" : "s(Nikolai_Kinski) dbp:name o'<Nikolai Kinski>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14091",
+  "entityUrl" : "http://dbpedia.org/resource/Nobuyuki_Kobushi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nobuyuki_Kobushi) dbo:birthDate o'<1974-1-1>",
+    "2" : "s(Nobuyuki_Kobushi) dbo:birthPlace o'<Kyoto_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14092",
+  "entityUrl" : "http://dbpedia.org/resource/Natalie_Tong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natalie_Tong) dbo:birthDate o'<1981-5-3>",
+    "2" : "s(Natalie_Tong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14093",
+  "entityUrl" : "http://dbpedia.org/resource/Nathalie_Cardone__France-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nathalie_Cardone__France-actor-stub__1) dbo:country o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14094",
+  "entityUrl" : "http://dbpedia.org/resource/Natasha_Williams_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natasha_Williams_(actress)) dbo:birthDate o'<1971-07-18>",
+    "2" : "s(Natasha_Williams_(actress)) dbo:birthDate o'<1971-7-18>",
+    "3" : "s(Natasha_Williams_(actress)) dbo:birthPlace o'<Trelawny_Parish>",
+    "4" : "s(Natasha_Williams_(actress)) dbo:birthPlace o'<Trelawny,_Jamaica>",
+    "5" : "s(Natasha_Williams_(actress)) dbo:birthYear o'<1971>",
+    "6" : "s(Natasha_Williams_(actress)) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14095",
+  "entityUrl" : "http://dbpedia.org/resource/Nigel_Betts",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nigel_Betts) dbo:country o'<United_Kingdom>",
+    "2" : "s(Nigel_Betts) dbo:imdbId o'<0079451>",
+    "3" : "s(Nigel_Betts) dbp:name o'<Nigel Betts>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14096",
+  "entityUrl" : "http://dbpedia.org/resource/Nami_Kurokawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nami_Kurokawa) dbo:birthDate o'<1980-01-25>",
+    "2" : "s(Nami_Kurokawa) dbo:birthDate o'<1980-1-25>",
+    "3" : "s(Nami_Kurokawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Nami_Kurokawa) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14097",
+  "entityUrl" : "http://dbpedia.org/resource/Nao_%C5%8Cmori",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14098",
+  "entityUrl" : "http://dbpedia.org/resource/Ngo_Ka-nin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ngo_Ka-nin) dbo:birthDate o'<1976-9-26>",
+    "2" : "s(Ngo_Ka-nin) dbo:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14099",
+  "entityUrl" : "http://dbpedia.org/resource/Nozomi_Sasaki_(voice_actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nozomi_Sasaki_(voice_actress)) dbo:birthDate o'<1983-02-19>",
+    "2" : "s(Nozomi_Sasaki_(voice_actress)) dbo:birthDate o'<1983-1-19>",
+    "3" : "s(Nozomi_Sasaki_(voice_actress)) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14100",
+  "entityUrl" : "http://dbpedia.org/resource/Nicky_Ladanowski",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicky_Ladanowski) dbo:birthPlace o'<Cheshire>",
+    "2" : "s(Nicky_Ladanowski) dbo:birthPlace o'<London>",
+    "3" : "s(Nicky_Ladanowski) dbo:birthPlace o'<Frodsham>",
+    "4" : "s(Nicky_Ladanowski) dbo:country o'<England>",
+    "5" : "s(Nicky_Ladanowski) dbo:imdbId o'<1241656>",
+    "6" : "s(Nicky_Ladanowski) dbp:name o'<Nicky Ladanowski>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14101",
+  "entityUrl" : "http://dbpedia.org/resource/Nicole_Barber-Lane",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicole_Barber-Lane) dbo:birthPlace o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14102",
+  "entityUrl" : "http://dbpedia.org/resource/Naomi_Wakabayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naomi_Wakabayashi) dbo:birthDate o'<1975-11-02>",
+    "2" : "s(Naomi_Wakabayashi) dbo:birthDate o'<1975-11-2>",
+    "3" : "s(Naomi_Wakabayashi) dbo:birthPlace o'<Tottori,_Tottori>",
+    "4" : "s(Naomi_Wakabayashi) dbo:birthPlace o'<Kōfu,_Tottori>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14103",
+  "entityUrl" : "http://dbpedia.org/resource/Nana_Yamaguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nana_Yamaguchi) dbo:birthDate o'<1938-08-10>",
+    "2" : "s(Nana_Yamaguchi) dbo:birthDate o'<1938-8-10>",
+    "3" : "s(Nana_Yamaguchi) dbo:birthPlace o'<Tokyo_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14104",
+  "entityUrl" : "http://dbpedia.org/resource/Nicola_Reynolds",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicola_Reynolds) dbo:birthDate o'<1972-1-1>",
+    "2" : "s(Nicola_Reynolds) dbo:birthPlace o'<Pontypridd>",
+    "3" : "s(Nicola_Reynolds) dbo:birthPlace o'<Wales>",
+    "4" : "s(Nicola_Reynolds) dbp:name o'<Nicola Reynolds>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14105",
+  "entityUrl" : "http://dbpedia.org/resource/Nobuyo_%C5%8Cyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14106",
+  "entityUrl" : "http://dbpedia.org/resource/Naemi_Briese",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naemi_Briese) dbo:birthDate o'<1908-03-04>",
+    "2" : "s(Naemi_Briese) dbo:birthDate o'<1908-3-4>",
+    "3" : "s(Naemi_Briese) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Naemi_Briese) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Naemi_Briese) dbo:deathDate o'<1980-08-20>",
+    "6" : "s(Naemi_Briese) dbo:deathDate o'<1980-8-20>",
+    "7" : "s(Naemi_Briese) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Naemi_Briese) dbo:deathPlace o'<Sweden>",
+    "9" : "s(Naemi_Briese) dbp:name o'<Naemi Briese>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14107",
+  "entityUrl" : "http://dbpedia.org/resource/Namewee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Namewee) dbo:birthDate o'<1983-5-6>",
+    "2" : "s(Namewee) dbp:birthPlace o'<Muar, Johor, Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14108",
+  "entityUrl" : "http://dbpedia.org/resource/Nomura_Mansai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nomura_Mansai) dbo:wikiPageRedirects o'<Mansai_Nomura>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14109",
+  "entityUrl" : "http://dbpedia.org/resource/Nao_Matsushita__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14110",
+  "entityUrl" : "http://dbpedia.org/resource/Nana_Ozaki_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nana_Ozaki_(actress)) dbo:birthDate o'<1948-7-28>",
+    "2" : "s(Nana_Ozaki_(actress)) dbo:birthPlace o'<Ikeda,_Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14111",
+  "entityUrl" : "http://dbpedia.org/resource/Nathalie_Matti",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14112",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nick_Cheung) dbo:birthDate o'<1967-12-2>",
+    "2" : "s(Nick_Cheung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Nick_Cheung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14113",
+  "entityUrl" : "http://dbpedia.org/resource/Nathalie_Lunghi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nathalie_Lunghi) dbo:birthDate o'<1986-08-26>",
+    "2" : "s(Nathalie_Lunghi) dbo:birthDate o'<1986-8-26>",
+    "3" : "s(Nathalie_Lunghi) dbo:birthName o'<Natalie-Kathleen Mary Lunghi-Joffé>",
+    "4" : "s(Nathalie_Lunghi) dbo:birthPlace o'<London>",
+    "5" : "s(Nathalie_Lunghi) dbo:birthPlace o'<London,_England>",
+    "6" : "s(Nathalie_Lunghi) dbo:birthYear o'<1986>",
+    "7" : "s(Nathalie_Lunghi) dbo:country o'<England>",
+    "8" : "s(Nathalie_Lunghi) dbo:occupation o'<Actress>",
+    "9" : "s(Nathalie_Lunghi) dbo:occupation o'<Nathalie_Lunghi__1>",
+    "10" : "s(Nathalie_Lunghi) dbo:parent o'<Cherie_Lunghi>",
+    "11" : "s(Nathalie_Lunghi) dbo:parent o'<Roland_Joffé>",
+    "12" : "s(Nathalie_Lunghi) dbo:relative o'<Rowan_Joffé>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14114",
+  "entityUrl" : "http://dbpedia.org/resource/Nanaho_Katsuragi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nanaho_Katsuragi) dbo:birthDate o'<1966-12-20>",
+    "2" : "s(Nanaho_Katsuragi) dbo:birthPlace o'<Japan>",
+    "3" : "s(Nanaho_Katsuragi) dbo:birthPlace o'<Nagoya>",
+    "4" : "s(Nanaho_Katsuragi) dbo:birthPlace o'<Aichi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14115",
+  "entityUrl" : "http://dbpedia.org/resource/Naomi_Radcliffe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naomi_Radcliffe) dbo:activeYearsStartYear o'<1995>",
+    "2" : "s(Naomi_Radcliffe) dbo:birthDate o'<1971-1-1>",
+    "3" : "s(Naomi_Radcliffe) dbo:birthPlace o'<Oldham>",
+    "4" : "s(Naomi_Radcliffe) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Naomi_Radcliffe) dbo:birthYear o'<1971>",
+    "6" : "s(Naomi_Radcliffe) dbo:country o'<England>",
+    "7" : "s(Naomi_Radcliffe) dbo:imdbId o'<0705370>",
+    "8" : "s(Naomi_Radcliffe) dbo:occupation o'<Actress>",
+    "9" : "s(Naomi_Radcliffe) dbo:occupation o'<Naomi_Radcliffe__1>",
+    "10" : "s(Naomi_Radcliffe) dbp:name o'<Naomi Radcliffe>",
+    "11" : "s(Naomi_Radcliffe) dbp:parents o'<Albert Radcliffe>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(naomi radcliffe=Naomi_Radcliffe) [born 1971 english ] o'<actress=Actress>",
+    "2" : "s(naomi radcliffe=Naomi_Radcliffe) [born in ] o'<oldham=Oldham>",
+    "3" : "s(naomi radcliffe=Naomi_Radcliffe) [educated at blue coats ] o'<oldham=Oldham>"
+  },
+  "abstract" : {
+    "1" : "naomi radcliffe<Naomi_Radcliffe> (born 1971) is an english actress<Actress>",
+    "2" : "naomi radcliffe<Naomi_Radcliffe> was born in oldham<Oldham>, lancashire<Lancashire> to albert radcliffe—a canon of manchester cathedral—and petrina, a teacher\n",
+    "3" : "naomi radcliffe<Naomi_Radcliffe> was educated at blue coats school in oldham<Oldham> and the royal welsh college of music and drama, having not been accepted on her first attempt\n"
+  }
+}, {
+  "entityIndex" : "entity14116",
+  "entityUrl" : "http://dbpedia.org/resource/Nobuo_Nakamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nobuo_Nakamura) dbo:birthDate o'<1908-09-14>",
+    "2" : "s(Nobuo_Nakamura) dbo:birthDate o'<1908-9-14>",
+    "3" : "s(Nobuo_Nakamura) dbo:birthPlace o'<Japan>",
+    "4" : "s(Nobuo_Nakamura) dbo:birthPlace o'<Otaru>",
+    "5" : "s(Nobuo_Nakamura) dbo:birthPlace o'<Hokkaido>",
+    "6" : "s(Nobuo_Nakamura) dbo:deathDate o'<1991-07-05>",
+    "7" : "s(Nobuo_Nakamura) dbo:deathDate o'<1991-7-5>",
+    "8" : "s(Nobuo_Nakamura) dbp:name o'<Nobuo Nakamura>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14117",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Vanna",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nina_Vanna) dbo:birthDate o'<1899-9-27>",
+    "2" : "s(Nina_Vanna) dbo:deathDate o'<1953-11-8>",
+    "3" : "s(Nina_Vanna) dbp:name o'<Nina Vanna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14118",
+  "entityUrl" : "http://dbpedia.org/resource/Noel_Coleman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noel_Coleman) dbo:birthDate o'<1919-11-26>",
+    "2" : "s(Noel_Coleman) dbo:birthName o'<Noel Philip Coleman>",
+    "3" : "s(Noel_Coleman) dbo:birthPlace o'<England>",
+    "4" : "s(Noel_Coleman) dbo:birthPlace o'<Leicester>",
+    "5" : "s(Noel_Coleman) dbo:birthYear o'<1919>",
+    "6" : "s(Noel_Coleman) dbo:country o'<England>",
+    "7" : "s(Noel_Coleman) dbo:deathDate o'<2007-10-12>",
+    "8" : "s(Noel_Coleman) dbo:deathPlace o'<England>",
+    "9" : "s(Noel_Coleman) dbo:deathYear o'<2007>",
+    "10" : "s(Noel_Coleman) dbo:imdbId o'<0171168>",
+    "11" : "s(Noel_Coleman) dbo:occupation o'<Noel_Coleman__1>",
+    "12" : "s(Noel_Coleman) dbp:name o'<Noel Coleman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14119",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Nakagoshi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Nakagoshi) dbo:birthDate o'<1979-12-31>",
+    "2" : "s(Noriko_Nakagoshi) dbo:birthPlace o'<Saga_Prefecture>",
+    "3" : "s(Noriko_Nakagoshi) dbp:name o'<Noriko Nakagoshi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14120",
+  "entityUrl" : "http://dbpedia.org/resource/Nana_Katase",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nana_Katase) dbo:birthDate o'<1981-11-07>",
+    "2" : "s(Nana_Katase) dbo:birthDate o'<1981-11-7>",
+    "3" : "s(Nana_Katase) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Nana_Katase) dbo:height o'<172.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14121",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Le_Prevost",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_Le_Prevost) dbo:birthDate o'<1947-3-18>",
+    "2" : "s(Nicholas_Le_Prevost) dbo:birthPlace o'<Wiltshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14122",
+  "entityUrl" : "http://dbpedia.org/resource/Nat_Ho",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nat_Ho) dbo:birthDate o'<1984-8-23>",
+    "2" : "s(Nat_Ho) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14123",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Duvauchelle",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicolas_Duvauchelle) dbo:birthDate o'<1980-03-27>",
+    "2" : "s(Nicolas_Duvauchelle) dbo:birthDate o'<1980-3-27>",
+    "3" : "s(Nicolas_Duvauchelle) dbo:birthPlace o'<Paris>",
+    "4" : "s(Nicolas_Duvauchelle) dbp:name o'<Nicolas Duvauchelle>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14124",
+  "entityUrl" : "http://dbpedia.org/resource/Nobuaki_Sekine",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nobuaki_Sekine) dbo:birthDate o'<1934-1-1>",
+    "2" : "s(Nobuaki_Sekine) dbo:birthPlace o'<Tokyo_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14125",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Iriyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Iriyama) dbo:birthDate o'<1985-08-01>",
+    "2" : "s(Noriko_Iriyama) dbo:birthDate o'<1985-8-1>",
+    "3" : "s(Noriko_Iriyama) dbo:birthPlace o'<Saitama_Prefecture>",
+    "4" : "s(Noriko_Iriyama) dbo:height o'<168.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14126",
+  "entityUrl" : "http://dbpedia.org/resource/Nana_Yanagisawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nana_Yanagisawa) dbo:birthDate o'<1987-01-03>",
+    "2" : "s(Nana_Yanagisawa) dbo:birthDate o'<1987-1-3>",
+    "3" : "s(Nana_Yanagisawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Nana_Yanagisawa) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "5" : "s(Nana_Yanagisawa) dbo:birthPlace o'<Yokohama>",
+    "6" : "s(Nana_Yanagisawa) dbp:name o'<Nana Yanagisawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14127",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nancy_Wu) dbo:birthDate o'<1981-9-9>",
+    "2" : "s(Nancy_Wu) dbp:birthPlace o'<Hong_kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14128",
+  "entityUrl" : "http://dbpedia.org/resource/Nils_Hallberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nils_Hallberg) dbo:birthDate o'<1921-09-18>",
+    "2" : "s(Nils_Hallberg) dbo:birthDate o'<1921-9-18>",
+    "3" : "s(Nils_Hallberg) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Nils_Hallberg) dbo:deathDate o'<2010-10-08>",
+    "5" : "s(Nils_Hallberg) dbo:deathDate o'<2010-10-8>",
+    "6" : "s(Nils_Hallberg) dbo:deathPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14129",
+  "entityUrl" : "http://dbpedia.org/resource/Nicklas_S%C3%B6derblom",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14130",
+  "entityUrl" : "http://dbpedia.org/resource/Noel_Leung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noel_Leung) dbo:birthDate o'<1969-12-29>",
+    "2" : "s(Noel_Leung) dbp:birthPlace o'<Macau>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14131",
+  "entityUrl" : "http://dbpedia.org/resource/Nagisa_Abe__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nagisa_Abe__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14132",
+  "entityUrl" : "http://dbpedia.org/resource/Naoki_Kawano",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naoki_Kawano) dbo:birthDate o'<1982-02-22>",
+    "2" : "s(Naoki_Kawano) dbo:birthDate o'<1982-2-22>",
+    "3" : "s(Naoki_Kawano) dbo:birthPlace o'<Mobara>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14133",
+  "entityUrl" : "http://dbpedia.org/resource/Nobuko_Otowa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nobuko_Otowa) dbo:birthDate o'<1924-10-01>",
+    "2" : "s(Nobuko_Otowa) dbo:birthDate o'<1924-10-1>",
+    "3" : "s(Nobuko_Otowa) dbo:birthPlace o'<Yonago,_Tottori>",
+    "4" : "s(Nobuko_Otowa) dbo:birthPlace o'<Japan>",
+    "5" : "s(Nobuko_Otowa) dbo:birthPlace o'<Tottori_Prefecture>",
+    "6" : "s(Nobuko_Otowa) dbo:deathDate o'<1994-12-22>",
+    "7" : "s(Nobuko_Otowa) dbo:deathPlace o'<Q7473516>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14134",
+  "entityUrl" : "http://dbpedia.org/resource/Nanami_Sakuraba",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nanami_Sakuraba) dbo:birthDate o'<1992-10-17>",
+    "2" : "s(Nanami_Sakuraba) dbo:birthPlace o'<Izumi,_Kagoshima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14135",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Honma",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Honma) dbo:birthDate o'<1911-11-29>",
+    "2" : "s(Noriko_Honma) dbo:birthPlace o'<Hokkaidō>",
+    "3" : "s(Noriko_Honma) dbo:birthPlace o'<Japan>",
+    "4" : "s(Noriko_Honma) dbo:birthPlace o'<Hokkaido>",
+    "5" : "s(Noriko_Honma) dbo:birthPlace o'<Yūbari,_Hokkaidō>",
+    "6" : "s(Noriko_Honma) dbp:name o'<Noriko Honma>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14136",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Toussaint-White",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nina_Toussaint-White) dbo:birthDate o'<1985-0-0>",
+    "2" : "s(Nina_Toussaint-White) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14137",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Hayami",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Hayami) dbo:birthDate o'<1959-09-20>",
+    "2" : "s(Noriko_Hayami) dbo:birthDate o'<1959-9-20>",
+    "3" : "s(Noriko_Hayami) dbo:birthPlace o'<Japan>",
+    "4" : "s(Noriko_Hayami) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14138",
+  "entityUrl" : "http://dbpedia.org/resource/Nine-Christine_J%C3%B6nsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14139",
+  "entityUrl" : "http://dbpedia.org/resource/Nils_Ahr%C3%A9n",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14140",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Saputra",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_Saputra) dbo:activeYearsStartYear o'<2002>",
+    "2" : "s(Nicholas_Saputra) dbo:almaMater o'<University_of_Indonesia>",
+    "3" : "s(Nicholas_Saputra) dbo:birthDate o'<1984-02-24>",
+    "4" : "s(Nicholas_Saputra) dbo:birthDate o'<1984-2-24>",
+    "5" : "s(Nicholas_Saputra) dbo:birthName o'<Nicholas Saputra>",
+    "6" : "s(Nicholas_Saputra) dbo:birthPlace o'<Indonesia>",
+    "7" : "s(Nicholas_Saputra) dbo:birthPlace o'<Jakarta>",
+    "8" : "s(Nicholas_Saputra) dbo:birthYear o'<1984>",
+    "9" : "s(Nicholas_Saputra) dbo:height o'<178.0>",
+    "10" : "s(Nicholas_Saputra) dbo:height o'<1.78>",
+    "11" : "s(Nicholas_Saputra) dbo:occupation o'<Nicholas_Saputra__1>",
+    "12" : "s(Nicholas_Saputra) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(nicholas saputra=Nicholas_Saputra) [born february 24 1984 ] o'<actor=Actor>",
+    "6" : "s(nicholas saputra=Nicholas_Saputra) [won best leading role ] o'<actor=Actor>"
+  },
+  "abstract" : {
+    "1" : "nicholas saputra<Nicholas_Saputra> (born february 24, 1984) is an indonesian actor<Actor>, model and television<Actor> personality",
+    "6" : "nicholas saputra<Nicholas_Saputra> won best leading role actor<Actor> in indonesian movie awards for his role in janji joni and citra award for best leading actor<Actor> in indonesian film<Actor> festival 2005 for his role in gie\n"
+  }
+}, {
+  "entityIndex" : "entity14141",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Sengoku",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Sengoku) dbo:birthDate o'<1922-04-29>",
+    "2" : "s(Noriko_Sengoku) dbo:birthDate o'<1922-4-29>",
+    "3" : "s(Noriko_Sengoku) dbo:birthPlace o'<Japan>",
+    "4" : "s(Noriko_Sengoku) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Noriko_Sengoku) dbo:deathDate o'<2012-12-27>",
+    "6" : "s(Noriko_Sengoku) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14142",
+  "entityUrl" : "http://dbpedia.org/resource/Ng_Hui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ng_Hui) dbo:birthDate o'<1979-7-22>",
+    "2" : "s(Ng_Hui) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14143",
+  "entityUrl" : "http://dbpedia.org/resource/Natasha_Gray",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natasha_Gray) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14144",
+  "entityUrl" : "http://dbpedia.org/resource/No%C3%A9mie_Lvovsky",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14145",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Phipps",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_Phipps) dbo:birthDate o'<1913-06-23>",
+    "2" : "s(Nicholas_Phipps) dbo:birthDate o'<1913-6-23>",
+    "3" : "s(Nicholas_Phipps) dbo:birthPlace o'<UK>",
+    "4" : "s(Nicholas_Phipps) dbo:birthPlace o'<England>",
+    "5" : "s(Nicholas_Phipps) dbo:birthPlace o'<London>",
+    "6" : "s(Nicholas_Phipps) dbo:deathDate o'<1980-04-11>",
+    "7" : "s(Nicholas_Phipps) dbo:deathDate o'<1980-4-11>",
+    "8" : "s(Nicholas_Phipps) dbo:deathPlace o'<England>",
+    "9" : "s(Nicholas_Phipps) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14146",
+  "entityUrl" : "http://dbpedia.org/resource/Nakamura_Nakazo_I",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nakamura_Nakazo_I) dbo:birthDate o'<1736-1-1>",
+    "2" : "s(Nakamura_Nakazo_I) dbo:birthPlace o'<Edo>",
+    "3" : "s(Nakamura_Nakazo_I) dbo:deathDate o'<1790-06-06>",
+    "4" : "s(Nakamura_Nakazo_I) dbo:deathDate o'<1790-6-6>",
+    "5" : "s(Nakamura_Nakazo_I) dbo:deathPlace o'<Edo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14147",
+  "entityUrl" : "http://dbpedia.org/resource/Nene_Otsuka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nene_Otsuka) dbo:birthDate o'<1968-06-14>",
+    "2" : "s(Nene_Otsuka) dbo:birthDate o'<1968-6-14>",
+    "3" : "s(Nene_Otsuka) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14148",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Giraud",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicolas_Giraud) dbo:birthDate o'<1978-11-12>",
+    "2" : "s(Nicolas_Giraud) dbo:birthPlace o'<Saintes,_Charente-Maritime>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14149",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_Bourguiba",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14150",
+  "entityUrl" : "http://dbpedia.org/resource/Nathan_Stewart-Jarrett",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nathan_Stewart-Jarrett) dbo:birthDate o'<1985-12-04>",
+    "2" : "s(Nathan_Stewart-Jarrett) dbo:birthDate o'<1985-12-4>",
+    "3" : "s(Nathan_Stewart-Jarrett) dbo:birthPlace o'<London>",
+    "4" : "s(Nathan_Stewart-Jarrett) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Nathan_Stewart-Jarrett) dbo:birthPlace o'<Wandsworth>",
+    "6" : "s(Nathan_Stewart-Jarrett) dbp:name o'<Nathan Stewart-Jarrett>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14151",
+  "entityUrl" : "http://dbpedia.org/resource/Nakamura_Utaemon_I",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nakamura_Utaemon_I) dbo:birthDate o'<1714-1-1>",
+    "2" : "s(Nakamura_Utaemon_I) dbo:deathDate o'<1791-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14152",
+  "entityUrl" : "http://dbpedia.org/resource/Nakamura_Utaemon_II",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nakamura_Utaemon_II) dbo:birthDate o'<1752-1-1>",
+    "2" : "s(Nakamura_Utaemon_II) dbo:deathDate o'<1798-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14153",
+  "entityUrl" : "http://dbpedia.org/resource/Nathalie_Cox__England-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nathalie_Cox__England-actor-stub__1) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14154",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Zanjani",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nina_Zanjani) dbo:birthDate o'<1981-09-01>",
+    "2" : "s(Nina_Zanjani) dbo:birthDate o'<1981-9-1>",
+    "3" : "s(Nina_Zanjani) dbo:birthPlace o'<Iran>",
+    "4" : "s(Nina_Zanjani) dbo:birthPlace o'<Stockholm>",
+    "5" : "s(Nina_Zanjani) dbo:birthPlace o'<Tehran>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14155",
+  "entityUrl" : "http://dbpedia.org/resource/Naruhito_Iguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naruhito_Iguchi) dbo:birthDate o'<1951-01-15>",
+    "2" : "s(Naruhito_Iguchi) dbo:birthDate o'<1951-1-1>",
+    "3" : "s(Naruhito_Iguchi) dbo:birthPlace o'<Minamiuonuma>",
+    "4" : "s(Naruhito_Iguchi) dbo:birthPlace o'<Minamiuonuma,_Niigata>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14156",
+  "entityUrl" : "http://dbpedia.org/resource/Nenji_Kobayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nenji_Kobayashi) dbo:birthDate o'<1943-02-07>",
+    "2" : "s(Nenji_Kobayashi) dbo:birthDate o'<1943-2-7>",
+    "3" : "s(Nenji_Kobayashi) dbo:birthPlace o'<Katsuragi,_Wakayama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14157",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Raggett",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14158",
+  "entityUrl" : "http://dbpedia.org/resource/Nie_Yuan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nie_Yuan) dbo:birthDate o'<1978-3-17>",
+    "2" : "s(Nie_Yuan) dbo:birthPlace o'<Zhenyuan_County,_Guizhou>",
+    "3" : "s(Nie_Yuan) dbp:birthPlace o'<Guizhou>",
+    "4" : "s(Nie_Yuan) dbp:birthPlace o'<Zhenyuan_County,_Guizhou>",
+    "5" : "s(Nie_Yuan) dbp:birthPlace o'<China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14159",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_Ettlinger",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norman_Ettlinger) dbo:birthDate o'<1920-01-20>",
+    "2" : "s(Norman_Ettlinger) dbo:birthDate o'<1920-1-1>",
+    "3" : "s(Norman_Ettlinger) dbo:birthYear o'<1920>",
+    "4" : "s(Norman_Ettlinger) dbo:country o'<United_Kingdom>",
+    "5" : "s(Norman_Ettlinger) dbo:occupation o'<Actor>",
+    "6" : "s(Norman_Ettlinger) dbo:occupation o'<Norman_Ettlinger__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(norman ettlinger=Norman_Ettlinger) [played many roles ] o'<stage=Actor>"
+  },
+  "abstract" : {
+    "2" : "norman ettlinger<Norman_Ettlinger> also played many other roles, both on stage<Actor> and screen\n"
+  }
+}, {
+  "entityIndex" : "entity14160",
+  "entityUrl" : "http://dbpedia.org/resource/Nelson_Keys",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nelson_Keys) dbo:birthDate o'<1886-4-7>",
+    "2" : "s(Nelson_Keys) dbo:deathDate o'<1939-4-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14161",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Burne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nancy_Burne) dbo:birthDate o'<1907-12-23>",
+    "2" : "s(Nancy_Burne) dbo:birthDate o'<1912-12-23>",
+    "3" : "s(Nancy_Burne) dbo:birthPlace o'<England>",
+    "4" : "s(Nancy_Burne) dbo:birthPlace o'<London>",
+    "5" : "s(Nancy_Burne) dbo:birthPlace o'<Chorlton-cum-Hardy>",
+    "6" : "s(Nancy_Burne) dbo:birthPlace o'<Lancashire>",
+    "7" : "s(Nancy_Burne) dbo:deathDate o'<1954-3-25>",
+    "8" : "s(Nancy_Burne) dbo:deathPlace o'<England>",
+    "9" : "s(Nancy_Burne) dbo:deathPlace o'<Kent>",
+    "10" : "s(Nancy_Burne) dbo:deathPlace o'<Maidstone>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14162",
+  "entityUrl" : "http://dbpedia.org/resource/Nadia_Barentin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nadia_Barentin) dbo:birthDate o'<1936-10-17>",
+    "2" : "s(Nadia_Barentin) dbo:birthPlace o'<Paris>",
+    "3" : "s(Nadia_Barentin) dbo:birthPlace o'<Paris,_France>",
+    "4" : "s(Nadia_Barentin) dbo:deathDate o'<2011-03-22>",
+    "5" : "s(Nadia_Barentin) dbo:deathDate o'<2011-3-22>",
+    "6" : "s(Nadia_Barentin) dbo:deathPlace o'<Paris>",
+    "7" : "s(Nadia_Barentin) dbp:name o'<Nadia Barentin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14163",
+  "entityUrl" : "http://dbpedia.org/resource/Naomi_Chance",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naomi_Chance) dbo:birthDate o'<1930-1-1>",
+    "2" : "s(Naomi_Chance) dbo:birthPlace o'<England>",
+    "3" : "s(Naomi_Chance) dbo:birthPlace o'<Bath,_Somerset>",
+    "4" : "s(Naomi_Chance) dbo:birthYear o'<1930>",
+    "5" : "s(Naomi_Chance) dbo:deathDate o'<2003-1-1>",
+    "6" : "s(Naomi_Chance) dbo:deathPlace o'<England>",
+    "7" : "s(Naomi_Chance) dbo:occupation o'<Actress>",
+    "8" : "s(Naomi_Chance) dbo:occupation o'<Naomi_Chance__1>",
+    "9" : "s(Naomi_Chance) dbo:spouse o'<Guy_Hamilton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14164",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Selby",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicholas_Selby) dbo:activeYearsEndYear o'<1999>",
+    "2" : "s(Nicholas_Selby) dbo:activeYearsStartYear o'<1970>",
+    "3" : "s(Nicholas_Selby) dbo:birthDate o'<1925-09-13>",
+    "4" : "s(Nicholas_Selby) dbo:birthDate o'<1925-9-13>",
+    "5" : "s(Nicholas_Selby) dbo:birthPlace o'<London>",
+    "6" : "s(Nicholas_Selby) dbo:birthPlace o'<United_Kingdom>",
+    "7" : "s(Nicholas_Selby) dbo:birthYear o'<1925>",
+    "8" : "s(Nicholas_Selby) dbo:country o'<United_Kingdom>",
+    "9" : "s(Nicholas_Selby) dbo:deathDate o'<2010-09-14>",
+    "10" : "s(Nicholas_Selby) dbo:deathDate o'<2011-4-15>",
+    "11" : "s(Nicholas_Selby) dbo:deathPlace o'<London>",
+    "12" : "s(Nicholas_Selby) dbo:deathPlace o'<United_Kingdom>",
+    "13" : "s(Nicholas_Selby) dbo:deathYear o'<2010>",
+    "14" : "s(Nicholas_Selby) dbo:occupation o'<Nicholas_Selby__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(nicholas selby=Nicholas_Selby) [served in ] o'<british army=United_Kingdom>",
+    "10" : "s(nicholas selby=Nicholas_Selby) [followed peter hall to ] o'<london=LONDON>"
+  },
+  "abstract" : {
+    "5" : "nicholas selby<Nicholas_Selby> served in the british army<United_Kingdom> during world war ii, making his stage debut in dangerous corner at preston, lancashire, for the forces' entertainment organisation ensa\n",
+    "10" : "his association with the company lasted for ten years, until nicholas selby<Nicholas_Selby> followed peter hall to the new national theatre in london<LONDON> in 1976\n"
+  }
+}, {
+  "entityIndex" : "entity14165",
+  "entityUrl" : "http://dbpedia.org/resource/Nigel_Barrie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nigel_Barrie) dbo:birthDate o'<1889-02-05>",
+    "2" : "s(Nigel_Barrie) dbo:birthDate o'<1889-2-5>",
+    "3" : "s(Nigel_Barrie) dbo:birthPlace o'<Kolkata>",
+    "4" : "s(Nigel_Barrie) dbo:birthPlace o'<British_India>",
+    "5" : "s(Nigel_Barrie) dbo:birthPlace o'<Calcutta>",
+    "6" : "s(Nigel_Barrie) dbo:deathDate o'<1971-10-08>",
+    "7" : "s(Nigel_Barrie) dbo:deathDate o'<1971-10-8>",
+    "8" : "s(Nigel_Barrie) dbo:deathPlace o'<England>",
+    "9" : "s(Nigel_Barrie) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14166",
+  "entityUrl" : "http://dbpedia.org/resource/Nora_Arnezeder",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nora_Arnezeder) dbo:birthDate o'<1989-05-08>",
+    "2" : "s(Nora_Arnezeder) dbo:birthDate o'<1989-5-8>",
+    "3" : "s(Nora_Arnezeder) dbo:birthPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14167",
+  "entityUrl" : "http://dbpedia.org/resource/Natasha_Parry",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natasha_Parry) dbo:birthDate o'<1930-12-02>",
+    "2" : "s(Natasha_Parry) dbo:birthDate o'<1930-12-2>",
+    "3" : "s(Natasha_Parry) dbo:birthPlace o'<London>",
+    "4" : "s(Natasha_Parry) dbo:deathDate o'<2015-07-22>",
+    "5" : "s(Natasha_Parry) dbo:deathDate o'<2015-7-22>",
+    "6" : "s(Natasha_Parry) dbo:deathPlace o'<Saint-Nazaire>",
+    "7" : "s(Natasha_Parry) dbo:deathPlace o'<La_Baule>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14168",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_Page",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norman_Page) dbo:birthPlace o'<England>",
+    "2" : "s(Norman_Page) dbo:birthPlace o'<Nottingham>",
+    "3" : "s(Norman_Page) dbo:birthPlace o'<Nottinghamshire>",
+    "4" : "s(Norman_Page) dbo:deathDate o'<1935-07-04>",
+    "5" : "s(Norman_Page) dbo:deathDate o'<1935-7-4>",
+    "6" : "s(Norman_Page) dbo:deathPlace o'<England>",
+    "7" : "s(Norman_Page) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14169",
+  "entityUrl" : "http://dbpedia.org/resource/Ni_Ping",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ni_Ping) dbo:birthDate o'<1959-2-15>",
+    "2" : "s(Ni_Ping) dbp:birthPlace o'<Shandong>",
+    "3" : "s(Ni_Ping) dbp:birthPlace o'<Qingdao>",
+    "4" : "s(Ni_Ping) dbp:birthPlace o'<People's_Republic_of_China>",
+    "5" : "s(Ni_Ping) dbp:name o'<Ping Ni>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14170",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Sevening",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14171",
+  "entityUrl" : "http://dbpedia.org/resource/Norah_Howard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norah_Howard) dbo:birthDate o'<1900-1-1>",
+    "2" : "s(Norah_Howard) dbo:birthPlace o'<Fulham>",
+    "3" : "s(Norah_Howard) dbo:deathDate o'<1968-1-1>",
+    "4" : "s(Norah_Howard) dbo:deathPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(norah howard=Norah_Howard) [born norah lilian emily ] o'<fulham=Fulham>"
+  },
+  "abstract" : {
+    "2" : "norah howard<Norah_Howard> was born norah lilian emily smeed on the 12th of december 1900 in fulham<Fulham>, london, england\n"
+  }
+}, {
+  "entityIndex" : "entity14172",
+  "entityUrl" : "http://dbpedia.org/resource/Naoki_Sugiura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naoki_Sugiura) dbo:birthDate o'<1931-12-08>",
+    "2" : "s(Naoki_Sugiura) dbo:birthDate o'<1931-12-8>",
+    "3" : "s(Naoki_Sugiura) dbo:birthPlace o'<Aichi_Prefecture>",
+    "4" : "s(Naoki_Sugiura) dbo:birthPlace o'<Okazaki,_Aichi>",
+    "5" : "s(Naoki_Sugiura) dbo:deathDate o'<2011-09-21>",
+    "6" : "s(Naoki_Sugiura) dbo:deathDate o'<2011-9-21>",
+    "7" : "s(Naoki_Sugiura) dbo:deathPlace o'<Tokyo,_Japan>",
+    "8" : "s(Naoki_Sugiura) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14173",
+  "entityUrl" : "http://dbpedia.org/resource/Natsuna_Watanabe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Natsuna_Watanabe) dbo:birthDate o'<1989-05-23>",
+    "2" : "s(Natsuna_Watanabe) dbo:birthDate o'<1989-5-23>",
+    "3" : "s(Natsuna_Watanabe) dbo:birthPlace o'<Saitama_Prefecture>",
+    "4" : "s(Natsuna_Watanabe) dbo:height o'<165.0>",
+    "5" : "s(Natsuna_Watanabe) dbp:name o'<Natsuna Watanabe>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14174",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_Pierce",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norman_Pierce) dbo:birthDate o'<1900-09-05>",
+    "2" : "s(Norman_Pierce) dbo:birthDate o'<1900-9-5>",
+    "3" : "s(Norman_Pierce) dbo:birthPlace o'<England>",
+    "4" : "s(Norman_Pierce) dbo:birthPlace o'<Southport>",
+    "5" : "s(Norman_Pierce) dbo:birthPlace o'<Lancashire>",
+    "6" : "s(Norman_Pierce) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "7" : "s(Norman_Pierce) dbo:deathDate o'<1968-03-22>",
+    "8" : "s(Norman_Pierce) dbo:deathDate o'<1968-3-22>",
+    "9" : "s(Norman_Pierce) dbo:deathPlace o'<Helions_Bumpstead>",
+    "10" : "s(Norman_Pierce) dbo:deathPlace o'<Essex>",
+    "11" : "s(Norman_Pierce) dbo:deathPlace o'<England>",
+    "12" : "s(Norman_Pierce) dbo:deathPlace o'<United_Kingdom_of_Great_Britain_and_Northern_Ireland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14175",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Bedos",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicolas_Bedos) dbo:birthDate o'<1980-04-21>",
+    "2" : "s(Nicolas_Bedos) dbo:birthDate o'<1980-4-21>",
+    "3" : "s(Nicolas_Bedos) dbo:birthPlace o'<Hauts-de-Seine>",
+    "4" : "s(Nicolas_Bedos) dbo:birthPlace o'<Neuilly-sur-Seine>",
+    "5" : "s(Nicolas_Bedos) dbo:birthPlace o'<France>",
+    "6" : "s(Nicolas_Bedos) dbp:name o'<Nicolas Bedos>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14176",
+  "entityUrl" : "http://dbpedia.org/resource/Ni_Ni",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ni_Ni) dbo:birthDate o'<1988-8-8>",
+    "2" : "s(Ni_Ni) dbo:birthPlace o'<Nanjing>",
+    "3" : "s(Ni_Ni) dbp:birthPlace o'<China>",
+    "4" : "s(Ni_Ni) dbp:birthPlace o'<Nanjing>",
+    "5" : "s(Ni_Ni) dbp:birthPlace o'<Jiangsu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14177",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas-M%C3%A9dard_Audinot",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14178",
+  "entityUrl" : "http://dbpedia.org/resource/Nahoko_Kinoshita",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nahoko_Kinoshita) dbo:birthDate o'<1980-11-13>",
+    "2" : "s(Nahoko_Kinoshita) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14179",
+  "entityUrl" : "http://dbpedia.org/resource/Nobunaga_Shimazaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nobunaga_Shimazaki) dbo:birthDate o'<1988-12-06>",
+    "2" : "s(Nobunaga_Shimazaki) dbo:birthDate o'<1988-12-6>",
+    "3" : "s(Nobunaga_Shimazaki) dbo:birthPlace o'<Miyagi_Prefecture>",
+    "4" : "s(Nobunaga_Shimazaki) dbo:birthPlace o'<Shiogama,_Miyagi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14180",
+  "entityUrl" : "http://dbpedia.org/resource/Norah_Gorsen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Norah_Gorsen) dbo:birthDate o'<1933-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14181",
+  "entityUrl" : "http://dbpedia.org/resource/Nils_Moritz",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nils_Moritz) dbo:birthDate o'<1943-05-05>",
+    "2" : "s(Nils_Moritz) dbo:birthDate o'<1943-5-5>",
+    "3" : "s(Nils_Moritz) dbo:birthPlace o'<Tallinn>",
+    "4" : "s(Nils_Moritz) dbo:birthPlace o'<Estonia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14182",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Bataille",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicolas_Bataille) dbo:birthDate o'<1924-3-14>",
+    "2" : "s(Nicolas_Bataille) dbo:birthPlace o'<Paris>",
+    "3" : "s(Nicolas_Bataille) dbo:deathDate o'<2008-10-28>",
+    "4" : "s(Nicolas_Bataille) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14183",
+  "entityUrl" : "http://dbpedia.org/resource/Nobuo_Kaneko",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nobuo_Kaneko) dbo:birthDate o'<1923-03-27>",
+    "2" : "s(Nobuo_Kaneko) dbo:birthDate o'<1923-3-27>",
+    "3" : "s(Nobuo_Kaneko) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Nobuo_Kaneko) dbo:deathDate o'<1995-01-20>",
+    "5" : "s(Nobuo_Kaneko) dbo:deathDate o'<1995-1-20>",
+    "6" : "s(Nobuo_Kaneko) dbo:deathPlace o'<Chiyoda,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14184",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Shen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nick_Shen) dbo:birthDate o'<1975-8-26>",
+    "2" : "s(Nick_Shen) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14185",
+  "entityUrl" : "http://dbpedia.org/resource/Nikita_Ramsey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nikita_Ramsey) dbo:birthDate o'<1988-02-10>",
+    "2" : "s(Nikita_Ramsey) dbo:birthDate o'<1988-2-10>",
+    "3" : "s(Nikita_Ramsey) dbo:birthPlace o'<England>",
+    "4" : "s(Nikita_Ramsey) dbo:birthPlace o'<Dorset>",
+    "5" : "s(Nikita_Ramsey) dbo:birthPlace o'<Bournemouth>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14186",
+  "entityUrl" : "http://dbpedia.org/resource/Nako_Mizusawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nako_Mizusawa) dbo:birthDate o'<1993-10-01>",
+    "2" : "s(Nako_Mizusawa) dbo:birthDate o'<1993-10-1>",
+    "3" : "s(Nako_Mizusawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Nako_Mizusawa) dbo:birthPlace o'<Aichi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14187",
+  "entityUrl" : "http://dbpedia.org/resource/Nadine_Marshall",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nadine_Marshall) dbo:birthDate o'<1972-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14188",
+  "entityUrl" : "http://dbpedia.org/resource/Naoki_Kuwata__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Naoki_Kuwata__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14189",
+  "entityUrl" : "http://dbpedia.org/resource/Nicola_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicola_Cheung) dbo:birthDate o'<1976-5-31>",
+    "2" : "s(Nicola_Cheung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14190",
+  "entityUrl" : "http://dbpedia.org/resource/Nozomi_Yamamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nozomi_Yamamoto) dbo:birthDate o'<1988-08-09>",
+    "2" : "s(Nozomi_Yamamoto) dbo:birthDate o'<1988-8-9>",
+    "3" : "s(Nozomi_Yamamoto) dbo:birthPlace o'<Japan>",
+    "4" : "s(Nozomi_Yamamoto) dbo:birthPlace o'<Misawa,_Aomori>",
+    "5" : "s(Nozomi_Yamamoto) dbo:birthPlace o'<Aomori_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14191",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Chou",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nick_Chou) dbo:birthDate o'<1988-8-2>",
+    "2" : "s(Nick_Chou) dbp:birthPlace o'<Taiwan>",
+    "3" : "s(Nick_Chou) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14192",
+  "entityUrl" : "http://dbpedia.org/resource/Nike_Arrighi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nike_Arrighi) dbo:birthDate o'<1947-03-09>",
+    "2" : "s(Nike_Arrighi) dbo:birthDate o'<1947-3-9>",
+    "3" : "s(Nike_Arrighi) dbo:birthPlace o'<Alpes-Maritimes>",
+    "4" : "s(Nike_Arrighi) dbo:birthPlace o'<Nice>",
+    "5" : "s(Nike_Arrighi) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14193",
+  "entityUrl" : "http://dbpedia.org/resource/Noriko_Eguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noriko_Eguchi) dbo:birthDate o'<1980-4-28>",
+    "2" : "s(Noriko_Eguchi) dbo:birthPlace o'<Himeji,_Hyōgo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14194",
+  "entityUrl" : "http://dbpedia.org/resource/Nils_Eklund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nils_Eklund) dbo:activeYearsStartYear o'<1952>",
+    "2" : "s(Nils_Eklund) dbo:birthDate o'<1927-01-17>",
+    "3" : "s(Nils_Eklund) dbo:birthDate o'<1927-1-17>",
+    "4" : "s(Nils_Eklund) dbo:birthPlace o'<Stockholm>",
+    "5" : "s(Nils_Eklund) dbo:birthYear o'<1927>",
+    "6" : "s(Nils_Eklund) dbo:nationality o'<Sweden>",
+    "7" : "s(Nils_Eklund) dbo:occupation o'<Nils_Eklund__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14195",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Gunke",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nina_Gunke) dbo:birthDate o'<1955-07-12>",
+    "2" : "s(Nina_Gunke) dbo:birthDate o'<1955-7-12>",
+    "3" : "s(Nina_Gunke) dbo:birthPlace o'<Lidingö>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14196",
+  "entityUrl" : "http://dbpedia.org/resource/Nicole_Calfan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nicole_Calfan) dbo:birthDate o'<1947-03-04>",
+    "2" : "s(Nicole_Calfan) dbo:birthDate o'<1947-3-4>",
+    "3" : "s(Nicole_Calfan) dbo:birthPlace o'<Paris>",
+    "4" : "s(Nicole_Calfan) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14197",
+  "entityUrl" : "http://dbpedia.org/resource/Nico_Tatarowicz",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nico_Tatarowicz) dbo:birthDate o'<1974-04-23>",
+    "2" : "s(Nico_Tatarowicz) dbo:birthDate o'<1980-6-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14198",
+  "entityUrl" : "http://dbpedia.org/resource/Noom_Diawara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Noom_Diawara) dbo:birthDate o'<1978-12-26>",
+    "2" : "s(Noom_Diawara) dbo:birthPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14199",
+  "entityUrl" : "http://dbpedia.org/resource/Nami_Tsukamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Nami_Tsukamoto) dbo:birthDate o'<1979-9-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

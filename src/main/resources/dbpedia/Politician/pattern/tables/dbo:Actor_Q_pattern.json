@@ -1,0 +1,114 @@
+[ {
+  "entityIndex" : "entity14394",
+  "entityUrl" : "http://dbpedia.org/resource/Qi_Yuwu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Qi_Yuwu) dbo:birthDate o'<1976-11-28>",
+    "2" : "s(Qi_Yuwu) dbo:birthPlace o'<Guangzhou>",
+    "3" : "s(Qi_Yuwu) dbp:birthPlace o'<Guangzhou, Guangdong, China>",
+    "4" : "s(Qi_Yuwu) dbp:name o'<Qi Yuwu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14395",
+  "entityUrl" : "http://dbpedia.org/resource/Queenie_Chu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Queenie_Chu) dbo:birthDate o'<1981-4-22>",
+    "2" : "s(Queenie_Chu) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Queenie_Chu) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14396",
+  "entityUrl" : "http://dbpedia.org/resource/Qin_Hao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Qin_Hao) dbo:birthDate o'<1978-5-19>",
+    "2" : "s(Qin_Hao) dbo:birthPlace o'<Shenyang>",
+    "3" : "s(Qin_Hao) dbp:birthPlace o'<Shandong>",
+    "4" : "s(Qin_Hao) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14397",
+  "entityUrl" : "http://dbpedia.org/resource/Quan_Yi_Fong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Quan_Yi_Fong) dbo:activeYearsStartYear o'<1992>",
+    "2" : "s(Quan_Yi_Fong) dbo:birthDate o'<1974-1-3>",
+    "3" : "s(Quan_Yi_Fong) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Quan_Yi_Fong) dbp:birthDate o'<1974-03-01>",
+    "5" : "s(Quan_Yi_Fong) dbp:birthPlace o'<Taiwan>",
+    "6" : "s(Quan_Yi_Fong) dbp:children o'<Eleanor Lee Kai Xin>",
+    "7" : "s(Quan_Yi_Fong) dbp:occupation o'<Host, actress>",
+    "8" : "s(Quan_Yi_Fong) dbp:spouse o'<Peter Yu>",
+    "9" : "s(Quan_Yi_Fong) dbp:w o'<Ch'üan I Feng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14398",
+  "entityUrl" : "http://dbpedia.org/resource/Qin_Yi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Qin_Yi) dbo:birthDate o'<1922-1-31>",
+    "2" : "s(Qin_Yi) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Qin_Yi) dbp:birthPlace o'<Shanghai>",
+    "4" : "s(Qin_Yi) dbp:birthPlace o'<Republic_of_China_(1912-1949)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14399",
+  "entityUrl" : "http://dbpedia.org/resource/Queenie_Thomas",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Queenie_Thomas) dbo:birthDate o'<1898-6-18>",
+    "2" : "s(Queenie_Thomas) dbo:birthPlace o'<Wales>",
+    "3" : "s(Queenie_Thomas) dbo:deathDate o'<1977-10-11>",
+    "4" : "s(Queenie_Thomas) dbo:deathPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14400",
+  "entityUrl" : "http://dbpedia.org/resource/Qiao_Zhenyu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Qiao_Zhenyu) dbo:birthDate o'<1978-11-1>",
+    "2" : "s(Qiao_Zhenyu) dbo:birthPlace o'<Guilin>",
+    "3" : "s(Qiao_Zhenyu) dbp:birthPlace o'<China>",
+    "4" : "s(Qiao_Zhenyu) dbp:birthPlace o'<Guilin>",
+    "5" : "s(Qiao_Zhenyu) dbp:birthPlace o'<Guangxi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14401",
+  "entityUrl" : "http://dbpedia.org/resource/Qian_Zhijun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Qian_Zhijun) dbo:birthDate o'<1987-7-15>",
+    "2" : "s(Qian_Zhijun) dbp:birthPlace o'<China>",
+    "3" : "s(Qian_Zhijun) dbp:birthPlace o'<Shanghai>",
+    "4" : "s(Qian_Zhijun) dbp:birthPlace o'<Jinshan_District>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14402",
+  "entityUrl" : "http://dbpedia.org/resource/Qin_Lan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Qin_Lan) dbo:birthDate o'<1981-7-17>",
+    "2" : "s(Qin_Lan) dbp:birthPlace o'<Liaoning>",
+    "3" : "s(Qin_Lan) dbp:birthPlace o'<China>",
+    "4" : "s(Qin_Lan) dbp:birthPlace o'<Shenyang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

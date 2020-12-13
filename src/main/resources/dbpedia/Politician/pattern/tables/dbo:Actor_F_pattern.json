@@ -1,0 +1,1571 @@
+[ {
+  "entityIndex" : "entity11897",
+  "entityUrl" : "http://dbpedia.org/resource/Faye_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Faye_Wong) dbo:birthDate o'<1969-8-8>",
+    "2" : "s(Faye_Wong) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Faye_Wong) dbp:birthPlace o'<China>",
+    "4" : "s(Faye_Wong) dbp:birthPlace o'<Beijing>",
+    "5" : "s(Faye_Wong) dbp:name o'<Faye Wong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(faye wong=Faye_Wong) [born 8 august 1969 ] o'<chinese=China>",
+    "3" : "s(faye wong=Faye_Wong) [moved to british ] o'<hong kong=China>"
+  },
+  "abstract" : {
+    "1" : "faye wong<Faye_Wong> (born 8 august 1969) is a chinese<China> singer-songwriter and actress, often referred to as a \"diva\" (chinese<China>: 天后; literally: \"heavenly queen\") in chinese<China>-language media",
+    "3" : "born in beijing<Beijing>, faye wong<Faye_Wong> moved to british hong kong<China> in 1987 and came to public attention in the early 1990s by singing ballads in cantonese\n"
+  }
+}, {
+  "entityIndex" : "entity11898",
+  "entityUrl" : "http://dbpedia.org/resource/Fann_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fann_Wong) dbo:birthDate o'<1971-1-27>",
+    "2" : "s(Fann_Wong) dbo:birthPlace o'<Singapore>",
+    "3" : "s(Fann_Wong) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11899",
+  "entityUrl" : "http://dbpedia.org/resource/Fukumi_Kuroda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fukumi_Kuroda) dbo:birthDate o'<1956-06-21>",
+    "2" : "s(Fukumi_Kuroda) dbo:birthDate o'<1956-6-21>",
+    "3" : "s(Fukumi_Kuroda) dbo:birthPlace o'<Japan>",
+    "4" : "s(Fukumi_Kuroda) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Fukumi_Kuroda) dbo:birthPlace o'<Itabashi>",
+    "6" : "s(Fukumi_Kuroda) dbp:name o'<Kuroda Fukumi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11900",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Emney",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fred_Emney) dbo:birthDate o'<1900-02-12>",
+    "2" : "s(Fred_Emney) dbo:birthDate o'<1900-2-12>",
+    "3" : "s(Fred_Emney) dbo:birthPlace o'<England>",
+    "4" : "s(Fred_Emney) dbo:birthPlace o'<Prescot>",
+    "5" : "s(Fred_Emney) dbo:birthPlace o'<Lancashire>",
+    "6" : "s(Fred_Emney) dbo:deathDate o'<1980-12-25>",
+    "7" : "s(Fred_Emney) dbo:deathPlace o'<England>",
+    "8" : "s(Fred_Emney) dbo:deathPlace o'<Bognor_Regis>",
+    "9" : "s(Fred_Emney) dbo:deathPlace o'<Sussex>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11901",
+  "entityUrl" : "http://dbpedia.org/resource/Fritha_Goodey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fritha_Goodey) dbo:birthDate o'<1972-10-23>",
+    "2" : "s(Fritha_Goodey) dbo:birthPlace o'<England>",
+    "3" : "s(Fritha_Goodey) dbo:birthPlace o'<Kingston_upon_Thames>",
+    "4" : "s(Fritha_Goodey) dbo:birthPlace o'<Surrey>",
+    "5" : "s(Fritha_Goodey) dbo:deathDate o'<2004-09-07>",
+    "6" : "s(Fritha_Goodey) dbo:deathDate o'<2004-9-7>",
+    "7" : "s(Fritha_Goodey) dbo:deathPlace o'<England>",
+    "8" : "s(Fritha_Goodey) dbo:deathPlace o'<London>",
+    "9" : "s(Fritha_Goodey) dbo:deathPlace o'<Notting_Hill>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11902",
+  "entityUrl" : "http://dbpedia.org/resource/Fumi_Hirano",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fumi_Hirano) dbo:birthDate o'<1955-04-23>",
+    "2" : "s(Fumi_Hirano) dbo:birthDate o'<1955-4-23>",
+    "3" : "s(Fumi_Hirano) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11903",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Oxby",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frederick_Oxby) dbo:birthDate o'<1987-2-6>",
+    "2" : "s(Frederick_Oxby) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11904",
+  "entityUrl" : "http://dbpedia.org/resource/Fujiko_Takimoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fujiko_Takimoto) dbo:birthDate o'<1967-11-06>",
+    "2" : "s(Fujiko_Takimoto) dbo:birthDate o'<1967-11-6>",
+    "3" : "s(Fujiko_Takimoto) dbo:birthPlace o'<Osaka>",
+    "4" : "s(Fujiko_Takimoto) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11905",
+  "entityUrl" : "http://dbpedia.org/resource/Femi_Taylor",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Femi_Taylor) dbp:name o'<Femi Taylor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11906",
+  "entityUrl" : "http://dbpedia.org/resource/Felix_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Felix_Wong) dbo:birthDate o'<1961-9-4>",
+    "2" : "s(Felix_Wong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11907",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7ois_Jules_Edmond_Got",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11908",
+  "entityUrl" : "http://dbpedia.org/resource/Feng_Xiaogang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Feng_Xiaogang) dbo:birthDate o'<1958-3-18>",
+    "2" : "s(Feng_Xiaogang) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Feng_Xiaogang) dbp:birthPlace o'<Beijing, China>",
+    "4" : "s(Feng_Xiaogang) dbp:name o'<Feng Xiaogang>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(feng xiaogang=Feng_Xiaogang) [simplified chinese  traditional chinese ] o'<beijing=Beijing>"
+  },
+  "abstract" : {
+    "2" : ") feng xiaogang<Feng_Xiaogang> (simplified chinese: 冯小刚; traditional chinese: 馮小剛; pinyin: féng xiǎogāng; born 1958 in beijing<Beijing>, china) is a chinese film director, screenwriter and actor"
+  }
+}, {
+  "entityIndex" : "entity11909",
+  "entityUrl" : "http://dbpedia.org/resource/Fubuki_Takane",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fubuki_Takane) dbo:birthDate o'<1965-12-04>",
+    "2" : "s(Fubuki_Takane) dbo:birthDate o'<1965-12-4>",
+    "3" : "s(Fubuki_Takane) dbo:birthPlace o'<Japan>",
+    "4" : "s(Fubuki_Takane) dbo:birthPlace o'<Kyoto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11910",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Hendley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fiona_Hendley) dbo:imdbId o'<0376669>",
+    "2" : "s(Fiona_Hendley) dbp:name o'<Fiona Hendley>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11911",
+  "entityUrl" : "http://dbpedia.org/resource/Fylgia_Zadig",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fylgia_Zadig) dbo:activeYearsEndYear o'<1991>",
+    "2" : "s(Fylgia_Zadig) dbo:activeYearsStartYear o'<1943>",
+    "3" : "s(Fylgia_Zadig) dbo:birthDate o'<1921-11-03>",
+    "4" : "s(Fylgia_Zadig) dbo:birthDate o'<1921-11-3>",
+    "5" : "s(Fylgia_Zadig) dbo:birthName o'<Fylgia Ester Zadig>",
+    "6" : "s(Fylgia_Zadig) dbo:birthPlace o'<Malmö>",
+    "7" : "s(Fylgia_Zadig) dbo:birthYear o'<1921>",
+    "8" : "s(Fylgia_Zadig) dbo:child o'<Klas_Eklund>",
+    "9" : "s(Fylgia_Zadig) dbo:deathDate o'<1994-09-03>",
+    "10" : "s(Fylgia_Zadig) dbo:deathDate o'<1994-9-3>",
+    "11" : "s(Fylgia_Zadig) dbo:deathPlace o'<Vejbystrand>",
+    "12" : "s(Fylgia_Zadig) dbo:deathYear o'<1994>",
+    "13" : "s(Fylgia_Zadig) dbo:imdbId o'<0951737>",
+    "14" : "s(Fylgia_Zadig) dbo:nationality o'<Sweden>",
+    "15" : "s(Fylgia_Zadig) dbo:relative o'<Fredrik_Eklund>",
+    "16" : "s(Fylgia_Zadig) dbo:relative o'<Sigge_Eklund>",
+    "17" : "s(Fylgia_Zadig) dbo:spouse o'<Bengt_Eklund>",
+    "18" : "s(Fylgia_Zadig) dbo:stateOfOrigin o'<Sweden>",
+    "19" : "s(Fylgia_Zadig) dbp:day o'<16>",
+    "20" : "s(Fylgia_Zadig) dbp:month o'<October>",
+    "21" : "s(Fylgia_Zadig) dbp:name o'<Fylgia Zadig>",
+    "22" : "s(Fylgia_Zadig) dbp:page o'<Fylgia Zadig>",
+    "23" : "s(Fylgia_Zadig) dbp:substed o'<yes>",
+    "24" : "s(Fylgia_Zadig) dbp:timestamp o'<20161016183908>",
+    "25" : "s(Fylgia_Zadig) dbp:year o'<2016>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(fylgia zadig=Fylgia_Zadig) [married to actor ] o'<bengt eklund=Bengt_Eklund>"
+  },
+  "abstract" : {
+    "4" : "fylgia zadig<Fylgia_Zadig> was married to actor bengt eklund<Bengt_Eklund> and is the mother of economist klas eklund<Klas_Eklund> and grandmother to novelist sigge eklund<Sigge_Eklund> and real estate broker fredrik eklund<Fredrik_Eklund>\n"
+  }
+}, {
+  "entityIndex" : "entity11912",
+  "entityUrl" : "http://dbpedia.org/resource/Felicia_Chin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Felicia_Chin) dbo:birthDate o'<1984-10-24>",
+    "2" : "s(Felicia_Chin) dbp:birthPlace o'<Singapore>",
+    "3" : "s(Felicia_Chin) dbp:name o'<Felicia Chin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11913",
+  "entityUrl" : "http://dbpedia.org/resource/Flora_Finch",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Flora_Finch) dbo:birthDate o'<1867-06-17>",
+    "2" : "s(Flora_Finch) dbo:birthDate o'<1867-6-17>",
+    "3" : "s(Flora_Finch) dbo:birthPlace o'<England>",
+    "4" : "s(Flora_Finch) dbo:birthPlace o'<London>",
+    "5" : "s(Flora_Finch) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Flora_Finch) dbo:deathDate o'<1940-01-04>",
+    "7" : "s(Flora_Finch) dbo:deathDate o'<1940-1-4>",
+    "8" : "s(Flora_Finch) dbo:deathPlace o'<United_States>",
+    "9" : "s(Flora_Finch) dbo:deathPlace o'<California>",
+    "10" : "s(Flora_Finch) dbo:deathPlace o'<Los_Angeles>",
+    "11" : "s(Flora_Finch) dbp:name o'<Flora Finch>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11914",
+  "entityUrl" : "http://dbpedia.org/resource/Fraser_Ayres",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fraser_Ayres) dbo:birthDate o'<1980-1-1>",
+    "2" : "s(Fraser_Ayres) dbo:birthName o'<Fraser Stuart Ayres>",
+    "3" : "s(Fraser_Ayres) dbo:birthPlace o'<Leicester>",
+    "4" : "s(Fraser_Ayres) dbo:birthYear o'<1980>",
+    "5" : "s(Fraser_Ayres) dbo:country o'<England>",
+    "6" : "s(Fraser_Ayres) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11915",
+  "entityUrl" : "http://dbpedia.org/resource/Frances_White",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frances_White) dbo:birthDate o'<1938-11-01>",
+    "2" : "s(Frances_White) dbo:birthDate o'<1938-11-1>",
+    "3" : "s(Frances_White) dbo:birthPlace o'<England>",
+    "4" : "s(Frances_White) dbo:birthPlace o'<Leeds>",
+    "5" : "s(Frances_White) dbo:birthPlace o'<West_Yorkshire>",
+    "6" : "s(Frances_White) dbo:birthYear o'<1938>",
+    "7" : "s(Frances_White) dbo:country o'<United_Kingdom>",
+    "8" : "s(Frances_White) dbo:imdbId o'<0924788>",
+    "9" : "s(Frances_White) dbo:occupation o'<Actor>",
+    "10" : "s(Frances_White) dbo:occupation o'<Frances_White__1>",
+    "11" : "s(Frances_White) dbp:name o'<Frances White>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(frances white=Frances_White) [born 1 november 1938 leeds ] o'<british actress=England>",
+    "6" : "s(frances white=Frances_White) [resides in village ] o'<home=England>"
+  },
+  "abstract" : {
+    "1" : "frances white<Frances_White> (born 1 november 1938, leeds) is a british actress<England>, perhaps best known for her roles as kate hamilton in crossroads and as miss flood in the bbc sitcom may to december",
+    "6" : "frances white<Frances_White> currently resides in a village just outside the home<England> counties dormitory town of berkhamsted, in the county of hertfordshire, where frances white<Frances_White> grows prize turnips\n"
+  }
+}, {
+  "entityIndex" : "entity11916",
+  "entityUrl" : "http://dbpedia.org/resource/Franz_Gruber_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Franz_Gruber_(actor)) dbp:name o'<Franz Graber>",
+    "2" : "s(Franz_Gruber_(actor)) dbp:name o'<Franz Gruber>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11917",
+  "entityUrl" : "http://dbpedia.org/resource/Faith_Brook",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Faith_Brook) dbo:birthDate o'<1922-02-16>",
+    "2" : "s(Faith_Brook) dbo:birthDate o'<1922-2-16>",
+    "3" : "s(Faith_Brook) dbo:birthPlace o'<England>",
+    "4" : "s(Faith_Brook) dbo:birthPlace o'<York>",
+    "5" : "s(Faith_Brook) dbo:deathDate o'<2012-03-11>",
+    "6" : "s(Faith_Brook) dbo:deathDate o'<2012-3-11>",
+    "7" : "s(Faith_Brook) dbo:deathPlace o'<England>",
+    "8" : "s(Faith_Brook) dbo:deathPlace o'<London>",
+    "9" : "s(Faith_Brook) dbp:name o'<Faith Brook>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11918",
+  "entityUrl" : "http://dbpedia.org/resource/F%C3%A9licit%C3%A9_Du_Jeu",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11919",
+  "entityUrl" : "http://dbpedia.org/resource/Fumika_Suzuki__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fumika_Suzuki__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11920",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Sit",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fiona_Sit) dbo:birthDate o'<1981-8-11>",
+    "2" : "s(Fiona_Sit) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Fiona_Sit) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11921",
+  "entityUrl" : "http://dbpedia.org/resource/Feng_Gong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Feng_Gong) dbo:birthDate o'<1957-1-1>",
+    "2" : "s(Feng_Gong) dbp:birthPlace o'<China>",
+    "3" : "s(Feng_Gong) dbp:birthPlace o'<Tianjin>",
+    "4" : "s(Feng_Gong) dbp:name o'<Feng Gong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11922",
+  "entityUrl" : "http://dbpedia.org/resource/Fan_Bingbing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fan_Bingbing) dbo:birthDate o'<1981-9-16>",
+    "2" : "s(Fan_Bingbing) dbo:birthPlace o'<Qingdao>",
+    "3" : "s(Fan_Bingbing) dbp:birthPlace o'<Qingdao, Shandong, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11923",
+  "entityUrl" : "http://dbpedia.org/resource/Francine_Brody",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Francine_Brody) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11924",
+  "entityUrl" : "http://dbpedia.org/resource/Fleur_Bennett",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fleur_Bennett) dbo:birthDate o'<1968-6-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11925",
+  "entityUrl" : "http://dbpedia.org/resource/Fillip_Williams",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fillip_Williams) dbo:birthDate o'<1984-2-6>",
+    "2" : "s(Fillip_Williams) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(fillip williams=Fillip_Williams) [came third in ] o'<swedish=Sweden>"
+  },
+  "abstract" : {
+    "2" : "fillip williams<Fillip_Williams> came third in the swedish<Sweden> idol 2004 contest on tv4\n"
+  }
+}, {
+  "entityIndex" : "entity11926",
+  "entityUrl" : "http://dbpedia.org/resource/Flora_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Flora_Chan) dbo:birthDate o'<1971-5-30>",
+    "2" : "s(Flora_Chan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Flora_Chan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(flora chan=Flora_Chan) [american actress active ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : "flora chan<Flora_Chan> is an american actress active primarily in hong kong<Hong_Kong> television and film\n"
+  }
+}, {
+  "entityIndex" : "entity11927",
+  "entityUrl" : "http://dbpedia.org/resource/Fares_Fares",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fares_Fares) dbo:birthDate o'<1973-04-29>",
+    "2" : "s(Fares_Fares) dbo:birthDate o'<1973-4-29>",
+    "3" : "s(Fares_Fares) dbo:birthPlace o'<Lebanon>",
+    "4" : "s(Fares_Fares) dbo:birthPlace o'<Beirut>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11928",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Hall_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frederick_Hall_(actor)) dbo:country o'<United_Kingdom>",
+    "2" : "s(Frederick_Hall_(actor)) dbo:deathDate o'<1996-1-1>",
+    "3" : "s(Frederick_Hall_(actor)) dbo:imdbId o'<0355584>",
+    "4" : "s(Frederick_Hall_(actor)) dbp:name o'<Frederick Hall>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11929",
+  "entityUrl" : "http://dbpedia.org/resource/Fredric_Lehne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fredric_Lehne) dbo:birthDate o'<1959-02-03>",
+    "2" : "s(Fredric_Lehne) dbo:birthDate o'<1959-2-3>",
+    "3" : "s(Fredric_Lehne) dbo:birthPlace o'<Buffalo,_New_York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11930",
+  "entityUrl" : "http://dbpedia.org/resource/Frida_Hallgren",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frida_Hallgren) dbo:birthDate o'<1974-12-16>",
+    "2" : "s(Frida_Hallgren) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Frida_Hallgren) dbp:name o'<Frida Hallgren>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11931",
+  "entityUrl" : "http://dbpedia.org/resource/Fernanda_Marlowe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fernanda_Marlowe) dbo:birthDate o'<1942-1-1>",
+    "2" : "s(Fernanda_Marlowe) dbo:birthYear o'<1942>",
+    "3" : "s(Fernanda_Marlowe) dbo:country o'<United_Kingdom>",
+    "4" : "s(Fernanda_Marlowe) dbo:imdbId o'<1528084>",
+    "5" : "s(Fernanda_Marlowe) dbo:occupation o'<Actress>",
+    "6" : "s(Fernanda_Marlowe) dbo:occupation o'<Fernanda_Marlowe__1>",
+    "7" : "s(Fernanda_Marlowe) dbp:name o'<Fernanda Marlowe>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(fernanda marlowe=Fernanda_Marlowe) [born 1942 british ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "1" : "fernanda marlowe<Fernanda_Marlowe> (born 1942) is a british actress<Actress>, best known for her role as corporal bell in the doctor who stories; the claws of axos (1971); and the mind of evil (1971)"
+  }
+}, {
+  "entityIndex" : "entity11932",
+  "entityUrl" : "http://dbpedia.org/resource/Fala_Chen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fala_Chen) dbo:birthDate o'<1982-2-24>",
+    "2" : "s(Fala_Chen) dbo:birthPlace o'<Fenghua_District>",
+    "3" : "s(Fala_Chen) dbp:birthPlace o'<China>",
+    "4" : "s(Fala_Chen) dbp:birthPlace o'<Chengdu>",
+    "5" : "s(Fala_Chen) dbp:birthPlace o'<Sichuan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11933",
+  "entityUrl" : "http://dbpedia.org/resource/Filip_Berg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Filip_Berg) dbo:birthDate o'<1986-10-02>",
+    "2" : "s(Filip_Berg) dbo:birthDate o'<1986-10-2>",
+    "3" : "s(Filip_Berg) dbo:birthPlace o'<Stockholm_County>",
+    "4" : "s(Filip_Berg) dbo:birthPlace o'<Danderyd_Municipality>",
+    "5" : "s(Filip_Berg) dbo:birthPlace o'<Sweden>",
+    "6" : "s(Filip_Berg) dbp:name o'<Filip Berg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11934",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Yule",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fred_Yule) dbo:birthDate o'<1893-0-0>",
+    "2" : "s(Fred_Yule) dbo:country o'<England>",
+    "3" : "s(Fred_Yule) dbo:deathDate o'<1982-12-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11935",
+  "entityUrl" : "http://dbpedia.org/resource/Frances_Tomelty",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frances_Tomelty) dbo:birthDate o'<1948-10-6>",
+    "2" : "s(Frances_Tomelty) dbo:birthPlace o'<Belfast>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11936",
+  "entityUrl" : "http://dbpedia.org/resource/Freddie_Cunliffe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Freddie_Cunliffe) dbo:birthDate o'<1981-1-1>",
+    "2" : "s(Freddie_Cunliffe) dbp:name o'<Freddie Cunliffe>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11937",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7oise_Yip",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11938",
+  "entityUrl" : "http://dbpedia.org/resource/Frankie_Lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frankie_Lam) dbo:birthDate o'<1967-12-19>",
+    "2" : "s(Frankie_Lam) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Frankie_Lam) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11939",
+  "entityUrl" : "http://dbpedia.org/resource/Fuyumi_Shiraishi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fuyumi_Shiraishi) dbo:birthDate o'<1941-10-14>",
+    "2" : "s(Fuyumi_Shiraishi) dbo:birthPlace o'<Reorganized_National_Government_of_China>",
+    "3" : "s(Fuyumi_Shiraishi) dbo:birthPlace o'<Beijing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11940",
+  "entityUrl" : "http://dbpedia.org/resource/Freddie_Boath",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Freddie_Boath) dbo:birthDate o'<1991-05-06>",
+    "2" : "s(Freddie_Boath) dbo:birthDate o'<1991-5-6>",
+    "3" : "s(Freddie_Boath) dbo:birthPlace o'<London>",
+    "4" : "s(Freddie_Boath) dbp:name o'<Freddie Boath>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11941",
+  "entityUrl" : "http://dbpedia.org/resource/Fumina_Hara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fumina_Hara) dbo:birthDate o'<1981-5-22>",
+    "2" : "s(Fumina_Hara) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11942",
+  "entityUrl" : "http://dbpedia.org/resource/Frances_Lima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frances_Lima) dbo:country o'<United_Kingdom>",
+    "2" : "s(Frances_Lima) dbo:imdbId o'<0510660>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11943",
+  "entityUrl" : "http://dbpedia.org/resource/Felix_Drake",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Felix_Drake) dbo:birthDate o'<1992-6-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11944",
+  "entityUrl" : "http://dbpedia.org/resource/Fushigi_Yamada",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fushigi_Yamada) dbo:birthDate o'<1959-11-11>",
+    "2" : "s(Fushigi_Yamada) dbo:birthPlace o'<Fuchū,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11945",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_McLean",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fiona_McLean) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11946",
+  "entityUrl" : "http://dbpedia.org/resource/Fridolf_Rhudin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fridolf_Rhudin) dbo:birthDate o'<1895-10-10>",
+    "2" : "s(Fridolf_Rhudin) dbo:birthPlace o'<Munkfors>",
+    "3" : "s(Fridolf_Rhudin) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Fridolf_Rhudin) dbo:birthPlace o'<Värmland>",
+    "5" : "s(Fridolf_Rhudin) dbo:deathDate o'<1935-03-06>",
+    "6" : "s(Fridolf_Rhudin) dbo:deathDate o'<1935-3-6>",
+    "7" : "s(Fridolf_Rhudin) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Fridolf_Rhudin) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11947",
+  "entityUrl" : "http://dbpedia.org/resource/Fuyuka_%C5%8Cura",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11948",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Conroy_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frank_Conroy_(actor)) dbo:birthDate o'<1890-10-14>",
+    "2" : "s(Frank_Conroy_(actor)) dbo:birthPlace o'<Derby>",
+    "3" : "s(Frank_Conroy_(actor)) dbo:birthPlace o'<Derby,_Derbyshire>",
+    "4" : "s(Frank_Conroy_(actor)) dbo:deathDate o'<1964-02-24>",
+    "5" : "s(Frank_Conroy_(actor)) dbo:deathDate o'<1964-2-24>",
+    "6" : "s(Frank_Conroy_(actor)) dbo:deathPlace o'<Paramus,_New_Jersey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11949",
+  "entityUrl" : "http://dbpedia.org/resource/Francesca_Kingdon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Francesca_Kingdon) dbo:country o'<United_Kingdom>",
+    "2" : "s(Francesca_Kingdon) dbo:imdbId o'<1671405>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11950",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Birch",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frank_Birch) dbo:wikiPageRedirects o'<Francis_Birch_(cryptographer)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11951",
+  "entityUrl" : "http://dbpedia.org/resource/Frankie_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frankie_Chan) dbo:birthDate o'<1951-11-30>",
+    "2" : "s(Frankie_Chan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Frankie_Chan) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Frankie_Chan) dbp:name o'<Frankie Chan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11952",
+  "entityUrl" : "http://dbpedia.org/resource/Fumie_Kusachi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fumie_Kusachi) dbo:birthDate o'<1969-1-1>",
+    "2" : "s(Fumie_Kusachi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11953",
+  "entityUrl" : "http://dbpedia.org/resource/Forbes_Collins",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Forbes_Collins) dbo:country o'<United_Kingdom>",
+    "2" : "s(Forbes_Collins) dbo:imdbId o'<0172310>",
+    "3" : "s(Forbes_Collins) dbp:name o'<Forbes Collins>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11954",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Pyne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frederick_Pyne) dbo:birthDate o'<1936-12-30>",
+    "2" : "s(Frederick_Pyne) dbo:birthPlace o'<London>",
+    "3" : "s(Frederick_Pyne) dbo:birthYear o'<1936>",
+    "4" : "s(Frederick_Pyne) dbo:country o'<England>",
+    "5" : "s(Frederick_Pyne) dbo:imdbId o'<0701540>",
+    "6" : "s(Frederick_Pyne) dbo:knownFor o'<Matt_Skilbeck>",
+    "7" : "s(Frederick_Pyne) dbo:occupation o'<Frederick_Pyne__1>",
+    "8" : "s(Frederick_Pyne) dbp:birthPlace o'<London, England>",
+    "9" : "s(Frederick_Pyne) dbp:name o'<Frederick Pyne>",
+    "10" : "s(Frederick_Pyne) dbp:nationality o'<United Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(frederick pyne=Frederick_Pyne) [born ] o'<london=London,_England>",
+    "3" : "s(frederick pyne=Frederick_Pyne) [worked farmer before ] o'<royal=United_Kingdom>",
+    "5" : "s(frederick pyne=Frederick_Pyne) [became ] o'<matt skilbeck=Matt_Skilbeck>"
+  },
+  "abstract" : {
+    "1" : "frederick pyne<Frederick_Pyne> (born london<London,_England> 30 december 1936) is an actor best known for his role as matt skilbeck<Matt_Skilbeck> on the itv soap emmerdale farm from 1972–1989",
+    "3" : "frederick pyne<Frederick_Pyne> worked as a farmer before serving in the royal<United_Kingdom> air force, frederick pyne<Frederick_Pyne> then went to rada for training as an actor\n",
+    "5" : "his television appearances include crossroads, dixon of dock green an affair of honour, the three princes, talking to a stranger and r3 before frederick pyne<Frederick_Pyne> became matt skilbeck<Matt_Skilbeck> on emmerdale farm from 1972 to 1989\n"
+  }
+}, {
+  "entityIndex" : "entity11955",
+  "entityUrl" : "http://dbpedia.org/resource/Fuyukichi_Maki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fuyukichi_Maki) dbo:birthDate o'<1930-1-1>",
+    "2" : "s(Fuyukichi_Maki) dbo:birthPlace o'<Akita_Prefecture>",
+    "3" : "s(Fuyukichi_Maki) dbo:deathDate o'<1998-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11956",
+  "entityUrl" : "http://dbpedia.org/resource/Fanny_Valette",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fanny_Valette) dbo:birthDate o'<1986-07-04>",
+    "2" : "s(Fanny_Valette) dbo:birthDate o'<1986-7-4>",
+    "3" : "s(Fanny_Valette) dbo:birthPlace o'<Arles>",
+    "4" : "s(Fanny_Valette) dbo:birthPlace o'<Bouches-du-Rhône>",
+    "5" : "s(Fanny_Valette) dbo:birthPlace o'<France>",
+    "6" : "s(Fanny_Valette) dbp:name o'<Fanny Valette>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11957",
+  "entityUrl" : "http://dbpedia.org/resource/Fortesa_Hoti",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fortesa_Hoti) dbo:birthDate o'<1988-12-6>",
+    "2" : "s(Fortesa_Hoti) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(fortesa hoti=Fortesa_Hoti) [best known for ] o'<swedish=Sweden>",
+    "6" : "s(fortesa hoti=Fortesa_Hoti) [arrived in ] o'<sweden=Sweden>"
+  },
+  "abstract" : {
+    "2" : "fortesa hoti<Fortesa_Hoti> is best known for her role as roxana nilsson in the swedish<Sweden> television svt’s drama series andra avenyn (2007)\n",
+    "6" : "fortesa hoti<Fortesa_Hoti> arrived in sweden<Sweden> with her family in 1992 and now lives in gothenburg\n"
+  }
+}, {
+  "entityIndex" : "entity11958",
+  "entityUrl" : "http://dbpedia.org/resource/Florence_Kwok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Florence_Kwok) dbo:birthDate o'<1968-8-25>",
+    "2" : "s(Florence_Kwok) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11959",
+  "entityUrl" : "http://dbpedia.org/resource/Farid_Chopel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Farid_Chopel) dbo:birthDate o'<1952-12-4>",
+    "2" : "s(Farid_Chopel) dbo:birthPlace o'<Paris>",
+    "3" : "s(Farid_Chopel) dbo:deathDate o'<2008-4-20>",
+    "4" : "s(Farid_Chopel) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11960",
+  "entityUrl" : "http://dbpedia.org/resource/Florence_Gill",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Florence_Gill) dbo:birthDate o'<1877-7-27>",
+    "2" : "s(Florence_Gill) dbo:birthPlace o'<London>",
+    "3" : "s(Florence_Gill) dbo:deathDate o'<1965-2-19>",
+    "4" : "s(Florence_Gill) dbo:deathPlace o'<Los_Angeles>",
+    "5" : "s(Florence_Gill) dbp:name o'<Florence Gill>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11961",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Perrin_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Francis_Perrin_(actor)) dbo:birthDate o'<1947-10-10>",
+    "2" : "s(Francis_Perrin_(actor)) dbo:birthPlace o'<Versailles,_Yvelines>",
+    "3" : "s(Francis_Perrin_(actor)) dbo:birthPlace o'<Versailles_(city)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11962",
+  "entityUrl" : "http://dbpedia.org/resource/Franklin_Dyall",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Franklin_Dyall) dbo:birthDate o'<1870-02-03>",
+    "2" : "s(Franklin_Dyall) dbo:birthDate o'<1874-2-3>",
+    "3" : "s(Franklin_Dyall) dbo:birthPlace o'<Liverpool>",
+    "4" : "s(Franklin_Dyall) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Franklin_Dyall) dbo:deathDate o'<1950-05-08>",
+    "6" : "s(Franklin_Dyall) dbo:deathDate o'<1950-5-8>",
+    "7" : "s(Franklin_Dyall) dbo:deathPlace o'<Worthing>",
+    "8" : "s(Franklin_Dyall) dbo:deathPlace o'<Sussex>",
+    "9" : "s(Franklin_Dyall) dbp:name o'<Franklin Dyall>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11963",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Mollison",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fiona_Mollison) dbo:activeYearsStartYear o'<1977>",
+    "2" : "s(Fiona_Mollison) dbo:birthDate o'<1954-01-09>",
+    "3" : "s(Fiona_Mollison) dbo:birthDate o'<1954-1-9>",
+    "4" : "s(Fiona_Mollison) dbo:birthPlace o'<Indonesia>",
+    "5" : "s(Fiona_Mollison) dbo:birthPlace o'<Java>",
+    "6" : "s(Fiona_Mollison) dbo:birthYear o'<1954>",
+    "7" : "s(Fiona_Mollison) dbo:country o'<United_Kingdom>",
+    "8" : "s(Fiona_Mollison) dbp:spouse o'<David Gilmore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11964",
+  "entityUrl" : "http://dbpedia.org/resource/Felix_Lok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Felix_Lok) dbo:birthDate o'<1953-1-1>",
+    "2" : "s(Felix_Lok) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11965",
+  "entityUrl" : "http://dbpedia.org/resource/Fritiof_Billquist",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fritiof_Billquist) dbo:activeYearsEndYear o'<1969>",
+    "2" : "s(Fritiof_Billquist) dbo:activeYearsStartYear o'<1931>",
+    "3" : "s(Fritiof_Billquist) dbo:birthDate o'<1901-05-05>",
+    "4" : "s(Fritiof_Billquist) dbo:birthDate o'<1901-5-5>",
+    "5" : "s(Fritiof_Billquist) dbo:birthPlace o'<Malmö>",
+    "6" : "s(Fritiof_Billquist) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Fritiof_Billquist) dbo:birthYear o'<1901>",
+    "8" : "s(Fritiof_Billquist) dbo:deathDate o'<1972-04-21>",
+    "9" : "s(Fritiof_Billquist) dbo:deathDate o'<1972-4-21>",
+    "10" : "s(Fritiof_Billquist) dbo:deathYear o'<1972>",
+    "11" : "s(Fritiof_Billquist) dbo:nationality o'<Sweden>",
+    "12" : "s(Fritiof_Billquist) dbo:occupation o'<Fritiof_Billquist__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11966",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Xie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fiona_Xie) dbo:birthDate o'<1982-1-24>",
+    "2" : "s(Fiona_Xie) dbo:birthPlace o'<Singapore>",
+    "3" : "s(Fiona_Xie) dbp:birthPlace o'<Singapore>",
+    "4" : "s(Fiona_Xie) dbp:name o'<Fiona Xie>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11967",
+  "entityUrl" : "http://dbpedia.org/resource/Fine_Time_Fontayne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fine_Time_Fontayne) dbo:birthDate o'<1951-1-1>",
+    "2" : "s(Fine_Time_Fontayne) dbo:birthName o'<Ian Crossley>",
+    "3" : "s(Fine_Time_Fontayne) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "4" : "s(Fine_Time_Fontayne) dbo:birthPlace o'<UK>",
+    "5" : "s(Fine_Time_Fontayne) dbo:birthPlace o'<England>",
+    "6" : "s(Fine_Time_Fontayne) dbo:birthPlace o'<Wombwell>",
+    "7" : "s(Fine_Time_Fontayne) dbo:birthYear o'<1951>",
+    "8" : "s(Fine_Time_Fontayne) dbo:country o'<England>",
+    "9" : "s(Fine_Time_Fontayne) dbo:occupation o'<Fine_Time_Fontayne__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11968",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7ois_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11969",
+  "entityUrl" : "http://dbpedia.org/resource/Folke_Sundquist",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Folke_Sundquist) dbo:birthDate o'<1925-11-04>",
+    "2" : "s(Folke_Sundquist) dbo:birthDate o'<1925-11-4>",
+    "3" : "s(Folke_Sundquist) dbo:birthPlace o'<Falun>",
+    "4" : "s(Folke_Sundquist) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Folke_Sundquist) dbo:deathDate o'<2009-01-13>",
+    "6" : "s(Folke_Sundquist) dbo:deathDate o'<2009-1-13>",
+    "7" : "s(Folke_Sundquist) dbo:deathPlace o'<Malmö>",
+    "8" : "s(Folke_Sundquist) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11970",
+  "entityUrl" : "http://dbpedia.org/resource/Fujiko_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fujiko_(actress)) dbo:birthDate o'<1980-3-5>",
+    "2" : "s(Fujiko_(actress)) dbo:birthPlace o'<Imari,_Saga>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11971",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7oise_Pitel",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11972",
+  "entityUrl" : "http://dbpedia.org/resource/Firmine_Richard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Firmine_Richard) dbo:birthDate o'<1947-09-25>",
+    "2" : "s(Firmine_Richard) dbo:birthDate o'<1947-9-25>",
+    "3" : "s(Firmine_Richard) dbo:birthPlace o'<Guadeloupe>",
+    "4" : "s(Firmine_Richard) dbo:birthPlace o'<Pointe-à-Pitre>",
+    "5" : "s(Firmine_Richard) dbo:birthPlace o'<France>",
+    "6" : "s(Firmine_Richard) dbp:name o'<Firmine Richard>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11973",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Goodwins",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fred_Goodwins) dbo:birthDate o'<1891-02-26>",
+    "2" : "s(Fred_Goodwins) dbo:birthDate o'<1891-2-26>",
+    "3" : "s(Fred_Goodwins) dbo:birthPlace o'<London>",
+    "4" : "s(Fred_Goodwins) dbo:deathDate o'<1923-4-1>",
+    "5" : "s(Fred_Goodwins) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11974",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7oise_Lebrun",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11975",
+  "entityUrl" : "http://dbpedia.org/resource/Fan_Wei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fan_Wei) dbo:birthDate o'<1962-9-2>",
+    "2" : "s(Fan_Wei) dbp:birthPlace o'<Liaoning>",
+    "3" : "s(Fan_Wei) dbp:birthPlace o'<China>",
+    "4" : "s(Fan_Wei) dbp:birthPlace o'<Shenyang>",
+    "5" : "s(Fan_Wei) dbp:name o'<Fan Wei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11976",
+  "entityUrl" : "http://dbpedia.org/resource/Fredrik_Gunnarsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fredrik_Gunnarsson) dbo:birthDate o'<1965-09-04>",
+    "2" : "s(Fredrik_Gunnarsson) dbo:birthDate o'<1965-9-4>",
+    "3" : "s(Fredrik_Gunnarsson) dbo:birthPlace o'<Oxelösund>",
+    "4" : "s(Fredrik_Gunnarsson) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11977",
+  "entityUrl" : "http://dbpedia.org/resource/Fillie_Lyckow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fillie_Lyckow) dbo:birthDate o'<1934-10-31>",
+    "2" : "s(Fillie_Lyckow) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Fillie_Lyckow) dbo:deathDate o'<2015-4-2>",
+    "4" : "s(Fillie_Lyckow) dbo:deathPlace o'<Mariefred>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11978",
+  "entityUrl" : "http://dbpedia.org/resource/Figge_Norling",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Figge_Norling) dbo:birthDate o'<1965-5-1>",
+    "2" : "s(Figge_Norling) dbo:birthPlace o'<Lycksele>",
+    "3" : "s(Figge_Norling) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11979",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Lister",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Francis_Lister) dbo:birthDate o'<1899-04-02>",
+    "2" : "s(Francis_Lister) dbo:birthDate o'<1899-4-2>",
+    "3" : "s(Francis_Lister) dbo:birthPlace o'<England>",
+    "4" : "s(Francis_Lister) dbo:birthPlace o'<London>",
+    "5" : "s(Francis_Lister) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Francis_Lister) dbo:deathDate o'<1951-10-28>",
+    "7" : "s(Francis_Lister) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11980",
+  "entityUrl" : "http://dbpedia.org/resource/Feng_Shaofeng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Feng_Shaofeng) dbo:birthDate o'<1978-10-7>",
+    "2" : "s(Feng_Shaofeng) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Feng_Shaofeng) dbp:birthPlace o'<China>",
+    "4" : "s(Feng_Shaofeng) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11981",
+  "entityUrl" : "http://dbpedia.org/resource/Fumie_Kashiyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fumie_Kashiyama) dbo:birthDate o'<1941-08-13>",
+    "2" : "s(Fumie_Kashiyama) dbo:birthDate o'<1941-8-13>",
+    "3" : "s(Fumie_Kashiyama) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11982",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Culley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frederick_Culley) dbo:activeYearsEndYear o'<1943>",
+    "2" : "s(Frederick_Culley) dbo:activeYearsStartYear o'<1914>",
+    "3" : "s(Frederick_Culley) dbo:alias o'<Frederick William Culley>",
+    "4" : "s(Frederick_Culley) dbo:birthDate o'<1879-03-08>",
+    "5" : "s(Frederick_Culley) dbo:birthDate o'<1879-3-8>",
+    "6" : "s(Frederick_Culley) dbo:birthPlace o'<Devon>",
+    "7" : "s(Frederick_Culley) dbo:birthPlace o'<Plymouth>",
+    "8" : "s(Frederick_Culley) dbo:birthPlace o'<United_Kingdom>",
+    "9" : "s(Frederick_Culley) dbo:birthYear o'<1879>",
+    "10" : "s(Frederick_Culley) dbo:deathDate o'<1942-11-03>",
+    "11" : "s(Frederick_Culley) dbo:deathDate o'<1942-11-3>",
+    "12" : "s(Frederick_Culley) dbo:deathPlace o'<London>",
+    "13" : "s(Frederick_Culley) dbo:deathPlace o'<United_Kingdom>",
+    "14" : "s(Frederick_Culley) dbo:deathYear o'<1942>",
+    "15" : "s(Frederick_Culley) dbo:occupation o'<Frederick_Culley__1>",
+    "16" : "s(Frederick_Culley) dbo:occupation o'<Film_actor>",
+    "17" : "s(Frederick_Culley) dbp:imdbId o'<191544>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11983",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Burtwell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frederick_Burtwell) dbo:birthDate o'<1894-12-23>",
+    "2" : "s(Frederick_Burtwell) dbo:birthDate o'<1900-12-23>",
+    "3" : "s(Frederick_Burtwell) dbo:birthName o'<Augustus Frederick Burtwell>",
+    "4" : "s(Frederick_Burtwell) dbo:birthPlace o'<England>",
+    "5" : "s(Frederick_Burtwell) dbo:birthPlace o'<London>",
+    "6" : "s(Frederick_Burtwell) dbo:birthPlace o'<Bermondsey>",
+    "7" : "s(Frederick_Burtwell) dbo:birthPlace o'<South_London>",
+    "8" : "s(Frederick_Burtwell) dbo:birthYear o'<1894>",
+    "9" : "s(Frederick_Burtwell) dbo:country o'<England>",
+    "10" : "s(Frederick_Burtwell) dbo:deathDate o'<1948-11-16>",
+    "11" : "s(Frederick_Burtwell) dbo:deathPlace o'<England>",
+    "12" : "s(Frederick_Burtwell) dbo:deathPlace o'<Hendon>",
+    "13" : "s(Frederick_Burtwell) dbo:deathPlace o'<Middlesex>",
+    "14" : "s(Frederick_Burtwell) dbo:deathYear o'<1948>",
+    "15" : "s(Frederick_Burtwell) dbo:occupation o'<Frederick_Burtwell__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11984",
+  "entityUrl" : "http://dbpedia.org/resource/Freya_Wilson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Freya_Wilson) dbo:activeYearsEndYear o'<2010>",
+    "2" : "s(Freya_Wilson) dbo:activeYearsStartYear o'<2010>",
+    "3" : "s(Freya_Wilson) dbo:birthDate o'<1998-11-28>",
+    "4" : "s(Freya_Wilson) dbo:birthDate o'<1999-1-1>",
+    "5" : "s(Freya_Wilson) dbo:birthYear o'<1998>",
+    "6" : "s(Freya_Wilson) dbo:occupation o'<Freya_Wilson__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11985",
+  "entityUrl" : "http://dbpedia.org/resource/Fredrik_Ohlsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fredrik_Ohlsson) dbo:birthDate o'<1931-06-12>",
+    "2" : "s(Fredrik_Ohlsson) dbo:birthDate o'<1931-6-12>",
+    "3" : "s(Fredrik_Ohlsson) dbo:birthPlace o'<Ulricehamn>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11986",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Lloyd",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frederick_Lloyd) dbo:birthDate o'<1880-1-15>",
+    "2" : "s(Frederick_Lloyd) dbo:deathDate o'<1949-11-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11987",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Perfitt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frank_Perfitt) dbo:birthPlace o'<Norwich>",
+    "2" : "s(Frank_Perfitt) dbo:deathDate o'<1958-0-0>",
+    "3" : "s(Frank_Perfitt) dbo:deathPlace o'<Surrey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11988",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Lewis",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fiona_Lewis) dbo:birthDate o'<1946-9-28>",
+    "2" : "s(Fiona_Lewis) dbo:birthPlace o'<Westcliff-on-Sea>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11989",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Dane",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11990",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Raynham",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11991",
+  "entityUrl" : "http://dbpedia.org/resource/Fang_Shu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fang_Shu) dbo:birthDate o'<1957-9-8>",
+    "2" : "s(Fang_Shu) dbp:birthPlace o'<Tianjin>",
+    "3" : "s(Fang_Shu) dbp:birthPlace o'<People's_Republic_of_China>",
+    "4" : "s(Fang_Shu) dbp:name o'<Shu Fang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11992",
+  "entityUrl" : "http://dbpedia.org/resource/Fewlass_Llewellyn",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fewlass_Llewellyn) dbo:birthDate o'<1886-3-5>",
+    "2" : "s(Fewlass_Llewellyn) dbo:deathDate o'<1941-6-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11993",
+  "entityUrl" : "http://dbpedia.org/resource/Franklyn_Bellamy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Franklyn_Bellamy) dbo:birthDate o'<1886-0-0>",
+    "2" : "s(Franklyn_Bellamy) dbo:deathDate o'<1977-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11994",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Petley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frank_Petley) dbo:birthDate o'<1872-1-1>",
+    "2" : "s(Frank_Petley) dbo:deathDate o'<1945-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11995",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Morgan_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fred_Morgan_(actor)) dbo:birthDate o'<1878-1-1>",
+    "2" : "s(Fred_Morgan_(actor)) dbo:deathDate o'<1941-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11996",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Tennant",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11997",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Groves_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fred_Groves_(actor)) dbo:birthDate o'<1880-08-08>",
+    "2" : "s(Fred_Groves_(actor)) dbo:birthDate o'<1880-8-8>",
+    "3" : "s(Fred_Groves_(actor)) dbo:birthPlace o'<England>",
+    "4" : "s(Fred_Groves_(actor)) dbo:birthPlace o'<London>",
+    "5" : "s(Fred_Groves_(actor)) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Fred_Groves_(actor)) dbo:deathDate o'<1955-06-04>",
+    "7" : "s(Fred_Groves_(actor)) dbo:deathDate o'<1955-6-4>",
+    "8" : "s(Fred_Groves_(actor)) dbo:deathPlace o'<England>",
+    "9" : "s(Fred_Groves_(actor)) dbo:deathPlace o'<London>",
+    "10" : "s(Fred_Groves_(actor)) dbo:deathPlace o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11998",
+  "entityUrl" : "http://dbpedia.org/resource/Fredrik_Dolk",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fredrik_Dolk) dbo:birthDate o'<1961-12-14>",
+    "2" : "s(Fredrik_Dolk) dbo:birthPlace o'<Solna_Municipality>",
+    "3" : "s(Fredrik_Dolk) dbo:birthYear o'<1961>",
+    "4" : "s(Fredrik_Dolk) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11999",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Hampton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fiona_Hampton) dbo:activeYearsStartYear o'<2006>",
+    "2" : "s(Fiona_Hampton) dbo:imdbId o'<4290017>",
+    "3" : "s(Fiona_Hampton) dbo:occupation o'<Fiona_Hampton__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12000",
+  "entityUrl" : "http://dbpedia.org/resource/Fumi_Dan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fumi_Dan) dbo:birthDate o'<1954-06-05>",
+    "2" : "s(Fumi_Dan) dbo:birthDate o'<1954-6-5>",
+    "3" : "s(Fumi_Dan) dbo:birthPlace o'<Japan>",
+    "4" : "s(Fumi_Dan) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Fumi_Dan) dbo:birthPlace o'<Nerima>",
+    "6" : "s(Fumi_Dan) dbo:birthPlace o'<Nerima,_Tokyo>",
+    "7" : "s(Fumi_Dan) dbo:height o'<170.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12001",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Rains",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fred_Rains) dbo:birthDate o'<1860-1-1>",
+    "2" : "s(Fred_Rains) dbo:birthPlace o'<London>",
+    "3" : "s(Fred_Rains) dbo:deathDate o'<1945-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12002",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Cochrane",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frank_Cochrane) dbo:birthDate o'<1882-10-28>",
+    "2" : "s(Frank_Cochrane) dbo:deathDate o'<1962-5-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12003",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Atkinson_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frank_Atkinson_(actor)) dbo:birthDate o'<1893-3-19>",
+    "2" : "s(Frank_Atkinson_(actor)) dbo:birthPlace o'<Blackpool>",
+    "3" : "s(Frank_Atkinson_(actor)) dbo:deathDate o'<1963-2-23>",
+    "4" : "s(Frank_Atkinson_(actor)) dbo:deathPlace o'<Pinner>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12004",
+  "entityUrl" : "http://dbpedia.org/resource/Fay_Helm",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fay_Helm) dbo:activeYearsEndYear o'<1946>",
+    "2" : "s(Fay_Helm) dbo:activeYearsStartYear o'<1936>",
+    "3" : "s(Fay_Helm) dbo:birthDate o'<1909-04-09>",
+    "4" : "s(Fay_Helm) dbo:birthDate o'<1909-4-9>",
+    "5" : "s(Fay_Helm) dbo:birthPlace o'<Bakersfield,_California>",
+    "6" : "s(Fay_Helm) dbo:birthYear o'<1909>",
+    "7" : "s(Fay_Helm) dbo:deathDate o'<2003-09-27>",
+    "8" : "s(Fay_Helm) dbo:deathDate o'<2003-9-27>",
+    "9" : "s(Fay_Helm) dbo:deathPlace o'<Santa_Monica,_California>",
+    "10" : "s(Fay_Helm) dbo:deathYear o'<2003>",
+    "11" : "s(Fay_Helm) dbo:occupation o'<Fay_Helm__1>",
+    "12" : "s(Fay_Helm) dbp:spouse o'<Jack Hardy>",
+    "13" : "s(Fay_Helm) dbp:spouse o'<Albert O. Farmer ; 1 child>",
+    "14" : "s(Fay_Helm) dbp:spouse o'<Norman Main>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12005",
+  "entityUrl" : "http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Pottecher",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12006",
+  "entityUrl" : "http://dbpedia.org/resource/Fumio_Watanabe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fumio_Watanabe) dbo:birthDate o'<1929-10-31>",
+    "2" : "s(Fumio_Watanabe) dbo:birthPlace o'<Q7473516>",
+    "3" : "s(Fumio_Watanabe) dbo:deathDate o'<2004-8-4>",
+    "4" : "s(Fumio_Watanabe) dbo:deathPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12007",
+  "entityUrl" : "http://dbpedia.org/resource/Fernand_Charpin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fernand_Charpin) dbo:birthDate o'<1887-05-30>",
+    "2" : "s(Fernand_Charpin) dbo:birthDate o'<1887-6-1>",
+    "3" : "s(Fernand_Charpin) dbo:birthPlace o'<Marseille>",
+    "4" : "s(Fernand_Charpin) dbo:birthPlace o'<France>",
+    "5" : "s(Fernand_Charpin) dbo:deathDate o'<1944-11-06>",
+    "6" : "s(Fernand_Charpin) dbo:deathDate o'<1944-11-6>",
+    "7" : "s(Fernand_Charpin) dbo:deathPlace o'<Paris>",
+    "8" : "s(Fernand_Charpin) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12008",
+  "entityUrl" : "http://dbpedia.org/resource/Frederic_Abbott",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frederic_Abbott) dbo:birthDate o'<1928-10-16>",
+    "2" : "s(Frederic_Abbott) dbo:birthName o'<Fredrick William Abbott>",
+    "3" : "s(Frederic_Abbott) dbo:birthPlace o'<Sydney>",
+    "4" : "s(Frederic_Abbott) dbo:birthPlace o'<Australia>",
+    "5" : "s(Frederic_Abbott) dbo:birthYear o'<1928>",
+    "6" : "s(Frederic_Abbott) dbo:country o'<United_Kingdom>",
+    "7" : "s(Frederic_Abbott) dbo:deathDate o'<1996-1-1>",
+    "8" : "s(Frederic_Abbott) dbo:deathPlace o'<Australia>",
+    "9" : "s(Frederic_Abbott) dbo:deathPlace o'<Cherrybrook,_New_South_Wales>",
+    "10" : "s(Frederic_Abbott) dbo:imdbId o'<0007969>",
+    "11" : "s(Frederic_Abbott) dbp:date o'<March 2013>",
+    "12" : "s(Frederic_Abbott) dbp:name o'<Frederic Abbott>",
+    "13" : "s(Frederic_Abbott) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12009",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7ois_Chaumette",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12010",
+  "entityUrl" : "http://dbpedia.org/resource/Fan_Hung-hsuan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fan_Hung-hsuan) dbo:birthDate o'<1946-9-5>",
+    "2" : "s(Fan_Hung-hsuan) dbp:birthPlace o'<Republic_of_China>",
+    "3" : "s(Fan_Hung-hsuan) dbp:birthPlace o'<Sichuan>",
+    "4" : "s(Fan_Hung-hsuan) dbp:birthPlace o'<Lu_County>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12011",
+  "entityUrl" : "http://dbpedia.org/resource/Florence_Tan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Florence_Tan) dbo:birthDate o'<1977-6-30>",
+    "2" : "s(Florence_Tan) dbp:birthPlace o'<Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12012",
+  "entityUrl" : "http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Gorny",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12013",
+  "entityUrl" : "http://dbpedia.org/resource/Fernando_Muylaert",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fernando_Muylaert) dbo:birthDate o'<1976-7-6>",
+    "2" : "s(Fernando_Muylaert) dbo:birthPlace o'<São_Paulo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12014",
+  "entityUrl" : "http://dbpedia.org/resource/Freddie_Popplewell",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12015",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Sundstr%C3%B6m",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12016",
+  "entityUrl" : "http://dbpedia.org/resource/Frej_Lindqvist",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frej_Lindqvist) dbo:activeYearsStartYear o'<1961>",
+    "2" : "s(Frej_Lindqvist) dbo:birthDate o'<1937-10-13>",
+    "3" : "s(Frej_Lindqvist) dbo:birthPlace o'<Finland>",
+    "4" : "s(Frej_Lindqvist) dbo:birthPlace o'<Helsinki>",
+    "5" : "s(Frej_Lindqvist) dbo:birthYear o'<1937>",
+    "6" : "s(Frej_Lindqvist) dbo:nationality o'<Sweden>",
+    "7" : "s(Frej_Lindqvist) dbo:occupation o'<Frej_Lindqvist__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12017",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Chalmers",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fiona_Chalmers) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12018",
+  "entityUrl" : "http://dbpedia.org/resource/Florence_Marly",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Florence_Marly) dbo:birthDate o'<1919-06-02>",
+    "2" : "s(Florence_Marly) dbo:birthDate o'<1919-6-2>",
+    "3" : "s(Florence_Marly) dbo:birthPlace o'<Obrnice>",
+    "4" : "s(Florence_Marly) dbo:birthPlace o'<Czechoslovakia>",
+    "5" : "s(Florence_Marly) dbo:deathDate o'<1978-11-09>",
+    "6" : "s(Florence_Marly) dbo:deathDate o'<1978-11-9>",
+    "7" : "s(Florence_Marly) dbo:deathPlace o'<Glendale,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12019",
+  "entityUrl" : "http://dbpedia.org/resource/Figaro_Tseng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Figaro_Tseng) dbo:birthDate o'<1981-11-18>",
+    "2" : "s(Figaro_Tseng) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Figaro_Tseng) dbp:birthPlace o'<Kaohsiung>",
+    "4" : "s(Figaro_Tseng) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12020",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Wood_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fred_Wood_(actor)) dbo:activeYearsEndYear o'<1996>",
+    "2" : "s(Fred_Wood_(actor)) dbo:activeYearsStartYear o'<1946>",
+    "3" : "s(Fred_Wood_(actor)) dbo:birthDate o'<1922-10-26>",
+    "4" : "s(Fred_Wood_(actor)) dbo:birthPlace o'<London>",
+    "5" : "s(Fred_Wood_(actor)) dbo:birthPlace o'<Rotherhithe>",
+    "6" : "s(Fred_Wood_(actor)) dbo:birthYear o'<1922>",
+    "7" : "s(Fred_Wood_(actor)) dbo:country o'<England>",
+    "8" : "s(Fred_Wood_(actor)) dbo:occupation o'<Fred_Wood_(actor)__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12021",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Singuineau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Frank_Singuineau) dbo:birthDate o'<1913-4-8>",
+    "2" : "s(Frank_Singuineau) dbo:deathDate o'<1992-9-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12022",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Cheng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Fred_Cheng) dbo:birthDate o'<1983-11-10>",
+    "2" : "s(Fred_Cheng) dbp:birthPlace o'<Vancouver>",
+    "3" : "s(Fred_Cheng) dbp:birthPlace o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12023",
+  "entityUrl" : "http://dbpedia.org/resource/Frida_R%C3%B6hl",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

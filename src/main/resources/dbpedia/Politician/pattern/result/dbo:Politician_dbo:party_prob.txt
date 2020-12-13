@@ -1,12 +1,12 @@
-id=17  property=dbo:party  
-elect  VBN  multiply=0.126914  P(elect|dbo:party)=0.142596  P(dbo:party|elect)=0.890024    
-serve  RB_VBN  multiply=0.086654  P(serve|dbo:party)=0.113903  P(dbo:party|serve)=0.760772    
+id=19  property=dbo:party  
+elect  VBN  multiply=0.126761  P(elect|dbo:party)=0.142596  P(dbo:party|elect)=0.888956    
+serve  RB_VBN  multiply=0.086321  P(serve|dbo:party)=0.113903  P(dbo:party|serve)=0.757848    
 elect_to  VBN_TO  multiply=0.068276  P(elect_to|dbo:party)=0.075583  P(dbo:party|elect_to)=0.903337    
-member_of  NN_IN  multiply=0.049773  P(member_of|dbo:party)=0.055941  P(dbo:party|member_of)=0.88974    
+member_of  NN_IN  multiply=0.04947  P(member_of|dbo:party)=0.055941  P(dbo:party|member_of)=0.884323    
 serve_member  VBD_NN  multiply=0.043695  P(serve_member|dbo:party)=0.053052  P(dbo:party|serve_member)=0.823617    
-serve_in  VBN_IN  multiply=0.036848  P(serve_in|dbo:party)=0.05026  P(dbo:party|serve_in)=0.733146    
-represent_electoral  VBZ_JJ  multiply=0.035361  P(represent_electoral|dbo:party)=0.048045  P(dbo:party|represent_electoral)=0.735988    
+serve_in  VBN_IN  multiply=0.036693  P(serve_in|dbo:party)=0.05026  P(dbo:party|serve_in)=0.73007    
+represent_electoral  VBZ_JJ  multiply=0.035309  P(represent_electoral|dbo:party)=0.048045  P(dbo:party|represent_electoral)=0.734904    
 first_elect  RB_VBN  multiply=0.017309  P(first_elect|dbo:party)=0.020412  P(dbo:party|first_elect)=0.848    
 liberal_member  JJ_NN  multiply=0.009478  P(liberal_member|dbo:party)=0.01011  P(dbo:party|liberal_member)=0.9375    
-join  VBD  multiply=0.008348  P(join|dbo:party)=0.009821  P(dbo:party|join)=0.85    
+join  VBD  multiply=0.008078  P(join|dbo:party)=0.009821  P(dbo:party|join)=0.822581    
 

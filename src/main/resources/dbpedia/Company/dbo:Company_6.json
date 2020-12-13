@@ -1,0 +1,123 @@
+[ {
+  "entityIndex" : "entity10843",
+  "entityUrl" : "http://dbpedia.org/resource/615_Music",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundingYear" : [ "1984" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/Tennessee", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Nashville,_Tennessee" ],
+    "dbo:owner" : [ "http://dbpedia.org/resource/Warner_Music_Group" ],
+    "dbo:owningCompany" : [ "http://dbpedia.org/resource/Warner_Music_Group" ],
+    "dbo:parentCompany" : [ "http://dbpedia.org/resource/Warner/Chappell_Music" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.615music.com", "http://www.615music.com/" ],
+    "dbo:wikiPageID" : [ "8707042" ],
+    "dbo:wikiPageRevisionID" : [ "710407984" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Television_production_companies_of_the_United_States", "http://dbpedia.org/resource/Fox_Broadcasting_Company", "http://dbpedia.org/resource/National_Broadcasting_Company", "http://dbpedia.org/resource/Tennessee", "http://dbpedia.org/resource/UPN", "http://dbpedia.org/resource/Today_(NBC_program)", "http://dbpedia.org/resource/In-Sink", "http://dbpedia.org/resource/Propulsion_(TV_news_music)", "http://dbpedia.org/resource/Trailer_music", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Viacom", "http://dbpedia.org/resource/Warner_Music_Group", "http://dbpedia.org/resource/Back_Home_Again_in_Indiana", "http://dbpedia.org/resource/Atlanta_Braves", "http://dbpedia.org/resource/Category:Companies_based_in_Nashville,_Tennessee", "http://dbpedia.org/resource/NBC", "http://dbpedia.org/resource/Nashville,_Tennessee", "http://dbpedia.org/resource/KTVA", "http://dbpedia.org/resource/WLEX-TV", "http://dbpedia.org/resource/Area_Code", "http://dbpedia.org/resource/NBC_chimes", "http://dbpedia.org/resource/WGN-TV", "http://dbpedia.org/resource/WRAL-TV", "http://dbpedia.org/resource/WSB-TV", "http://dbpedia.org/resource/KTLA", "http://dbpedia.org/resource/KTVU", "http://dbpedia.org/resource/WISH-TV", "http://dbpedia.org/resource/WKYC", "http://dbpedia.org/resource/WSFL-TV", "http://dbpedia.org/resource/James_Otto", "http://dbpedia.org/resource/Television_news_music_package", "http://dbpedia.org/resource/Belo_Corporation", "http://dbpedia.org/resource/Belo", "http://dbpedia.org/resource/Sinclair_Broadcast_Group", "http://dbpedia.org/resource/Frank_Gari", "http://dbpedia.org/resource/2007_in_film", "http://dbpedia.org/resource/Cleveland,_Ohio", "http://dbpedia.org/resource/Live_Free_or_Die_Hard", "http://dbpedia.org/resource/Los_Angeles,_California", "http://dbpedia.org/resource/Gannett", "http://dbpedia.org/resource/Warner/Chappell_Music", "http://dbpedia.org/resource/Move_Closer_to_Your_World", "http://dbpedia.org/resource/The_WB_Television_Network", "http://dbpedia.org/resource/The_One_for_All" ],
+    "dbp:industry" : [ "Broadcast Music Production" ],
+    "dbp:type" : [ "Subsidiary" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-company-noun-1" ]
+  },
+  "words" : [ "broadcast", "-LRB-", "production", "operates", "Tennessee", "comes", "Angeles", "networks", "around", "music", "world", "campaigns", "615", "company", "news", "based", "image", "television", "composes", "custom", "Nashville", "also", ",", "packages", "many", "'s", "Code", ".", "Los", "Area", "Music", "name", "-RRB-" ],
+  "adjectives" : [ "many" ],
+  "nouns" : [ "broadcast", "news", "image", "production", "Tennessee", "television", "custom", "Nashville", "Angeles", "packages", "networks", "Code", "Los", "Area", "music", "world", "campaigns", "Music", "name", "company" ],
+  "text" : "615 Music is a broadcast production music company based in Nashville, Tennessee. 615 Music composes television news music packages and custom image campaigns for many television networks around the world. 615 Music also operates out of Los Angeles. The name 615 Music comes from Nashville's Area Code (615), which is where the company is based. The company composed the last three image campaigns for NBC's Today morning news/entertainment program: \"Live for Today\" (2005–2006), \"It's a New Day\" (2006–2007), and \"Why I Love Today\" (2008). The \"Live for Today\" theme was nominated for an Emmy. 615 Music also has a production music library. The company, along with other composers of news music such as Gari Communications, have seen a surge in business since the third quarter of 2006. This is because licensing companies had raised the prices of licensing. In 2007, 615 Music signed a deal with Belo Corporation making them the exclusive provider of news music for the station group. The company's music has also been licensed for use in movie trailers. Their track \"Goth\" was used in the domestic trailer for the critically acclaimed 2007 action film, Live Free or Die Hard. 615 Music also produced the new official theme song for the Atlanta Braves, \"The Braves Play Here\" by James Otto. On December 10, 2010, Warner Music Group announced its Warner/Chappell publishing division had acquired 615 Music."
+}, {
+  "entityIndex" : "entity10844",
+  "entityUrl" : "http://dbpedia.org/resource/6GMOBILE",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:industry" : [ "http://dbpedia.org/resource/Telecommunications" ],
+    "dbo:locationCity" : [ "http://dbpedia.org/resource/Amsterdam" ],
+    "dbo:regionServed" : [ "http://dbpedia.org/resource/Netherlands" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.6gmobile.nl", "http://www.btgtm.com/BTGlobalTelecomNewsEurope/Article.asp?ArticleCode=43582131", "http://www.kruidvat.nl/domains/kruidvat/pages/pageobjectpage/S2/mobiel-homepage-2010.aspx?navigationid=12980000000326&parentid=12980000000322&token=-1/", "http://www.tringg.nl/", "http://www.ajax.nl/Ajax-Mobile.htm", "http://www.6gmobile.com" ],
+    "dbo:wikiPageID" : [ "25554662" ],
+    "dbo:wikiPageRevisionID" : [ "728932071" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Ajax_Amsterdam", "http://dbpedia.org/resource/Amsterdam", "http://dbpedia.org/resource/BT_Group", "http://dbpedia.org/resource/Bankruptcy", "http://dbpedia.org/resource/Category:BT_Group", "http://dbpedia.org/resource/Category:Defunct_brands", "http://dbpedia.org/resource/Category:Dutch_brands", "http://dbpedia.org/resource/GSM", "http://dbpedia.org/resource/Netherlands", "http://dbpedia.org/resource/Kruidvat", "http://dbpedia.org/resource/Telecommunications", "http://dbpedia.org/resource/KPN", "http://dbpedia.org/resource/3G", "http://dbpedia.org/resource/Category:Mobile_phone_companies_of_the_Netherlands", "http://dbpedia.org/resource/Category:Mobile_virtual_network_operators", "http://dbpedia.org/resource/Fair_Use_Policy", "http://dbpedia.org/resource/SMS", "http://dbpedia.org/resource/6G_Internet", "http://dbpedia.org/resource/File:6GMOBILE_logo.jpg" ],
+    "dbp:logo" : [ "200" ],
+    "dbp:products" : [ "Mobile telecommunications" ]
+  },
+  "words" : [ "de", "C'est", "téléphonie", "-LRB-", "6GMOBILE", "qui", "MVNE", "aux", "opérationnel", "télécommunications", "mobiles", "les", "seul", "néerlandais", "combine", "fixe", "GSM", "en", ",", "réseau", "Pays-Bas", ".", "et", "technologies", "opérateur", "-RRB-", "Internet" ],
+  "adjectives" : [ "opérateur" ],
+  "nouns" : [ "GSM", "technologies", "C'est", "téléphonie", "MVNE", "mobiles", "Internet", "seul", "réseau", "Pays-Bas", "opérationnel", "fixe" ],
+  "text" : "6GMOBILE est un opérateur de télécommunications néerlandais qui combine les technologies mobiles (GSM), téléphonie fixe et Internet en un seul réseau. C'est un opérateur MVNE GSM opérationnel aux Pays-Bas."
+}, {
+  "entityIndex" : "entity10845",
+  "entityUrl" : "http://dbpedia.org/resource/6126_(clothing_line)",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundedBy" : [ "http://dbpedia.org/resource/Lindsay_Lohan" ],
+    "dbo:foundingDate" : [ "2008-07-11" ],
+    "dbo:foundingYear" : [ "2008" ],
+    "dbo:locationCity" : [ "http://dbpedia.org/resource/New_York_City", "http://dbpedia.org/resource/New_York_(state)" ],
+    "dbo:type" : [ "http://dbpedia.org/resource/Subsidiary" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.6126byLindsayLohan.com" ],
+    "dbo:wikiPageID" : [ "27188850" ],
+    "dbo:wikiPageRevisionID" : [ "737642496" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Blazer", "http://dbpedia.org/resource/Neiman_Marcus", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Category:American_companies_established_in_2008", "http://dbpedia.org/resource/Marilyn_Monroe", "http://dbpedia.org/resource/Lindsay_Lohan", "http://dbpedia.org/resource/Leggings", "http://dbpedia.org/resource/Bossy_(Lindsay_Lohan_song)", "http://dbpedia.org/resource/Subsidiary", "http://dbpedia.org/resource/Pencil_skirt", "http://dbpedia.org/resource/Kourtney_Kardashian", "http://dbpedia.org/resource/Kim_Kardashian", "http://dbpedia.org/resource/Khloé_Kardashian", "http://dbpedia.org/resource/Bloomingdale's", "http://dbpedia.org/resource/New_York_City", "http://dbpedia.org/resource/Nordstrom", "http://dbpedia.org/resource/Category:Clothing_brands_of_the_United_States", "http://dbpedia.org/resource/Category:Lindsay_Lohan", "http://dbpedia.org/resource/Universal_Music_Group", "http://dbpedia.org/resource/New_York_(state)", "http://dbpedia.org/resource/Save_the_Children", "http://dbpedia.org/resource/Fred_Segal", "http://dbpedia.org/resource/2010_Haiti_earthquake", "http://dbpedia.org/resource/D-A-S-H", "http://dbpedia.org/resource/File:6126_Collection_by_Lindsay_Lohan_(logo).jpg" ],
+    "dbp:locationCountry" : [ "U.S." ],
+    "dbp:logo" : [ "http://dbpedia.org/resource/File:6126_Collection_by_Lindsay_Lohan_(logo).jpg" ]
+  },
+  "words" : [ "date", "expanding", "June", "American", "line", "influenced", "Marilyn", "represents", "admires", "Kristi", "said", "leggings", "actress", "6126", "created", "Kaylor", "birth", "Monroe", "collection", ",", ".", "Lohan", "1", "collaboration", "name", "clothing", "Lindsay", "1926", "full" ],
+  "adjectives" : [ "American", "full" ],
+  "nouns" : [ "date", "actress", "June", "line", "Kaylor", "birth", "Monroe", "collection", "Marilyn", "Lohan", "Kristi", "collaboration", "name", "clothing", "Lindsay", "leggings" ],
+  "text" : "6126 was a clothing line created by American actress Lindsay Lohan, in collaboration with Kristi Kaylor. The line was a leggings line, before being expanding to a full clothing collection. The name of the collection represents the June 1, 1926 birth date of Marilyn Monroe, whom Lohan has said she admires and has been influenced by."
+}, {
+  "entityIndex" : "entity10846",
+  "entityUrl" : "http://dbpedia.org/resource/6WIND",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundingYear" : [ "2000" ],
+    "dbo:locationCity" : [ "http://dbpedia.org/resource/Montigny-le-Bretonneux" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.6wind.com", "http://www.ietf.org/", "http://www.canonical.com/", "http://www.dpdk.org/", "http://www.kalrayinc.com/", "http://www.telecomtv.com/articles/network-innovation/sdn-nfv-wars-cisco-tries-to-put-the-breeze-up-hp-by-blowing-money-into-french-company-6wind-12617/", "https://www.alcatel-lucent.com/press/2015/alcatel-lucent-signs-agreements-red-hat-advantech-and-6wind-accelerate-delivery-virtualized-radio", "https://www.sdxcentral.com/", "https://www.sdxcentral.com/articles/featured/6wind-speed-series-performance-report/2015/09/?utm_source=sdnc_slider&utm_medium=link&utm_campaign=links", "http://www.systematic-paris-region.org/en/", "http://news.softpedia.com/news/canonical-partners-with-6wind-to-accelerate-the-growth-of-ubuntu-cloud-networking-497042.shtml", "http://www.prweb.com/releases/2013/4/prweb10612220.htm", "http://www.finanznachrichten.de/nachrichten-2016-04/37048640-kalray-and-6wind-announce-new-partnership-008.htm", "http://www.lightreading.com/carrier-sdn/sdn-technology/italian-sp-deploys-homemade-sdn-appliance/d/d-id/713802", "http://www.lightreading.com/nfv/nfv-tests-and-trials/radware-6wind-team-on-virtual-acceleration/d/d-id/722781", "http://www.fiercewireless.com/tech/story/dell-introduces-new-nfv-platform-starter-kits/2014-10-14", "https://globenewswire.com/news-release/2016/04/26/832716/0/en/Radware-s-Virtual-Alteon-ADC-Achieves-Industry-Highest-Performance-in-OpenStack-Environment.html", "http://packetpushers.net/6wind-offering-accelerated-l3-virtual-appliances/", "http://www.broadcastnewsroom.com/article/6WIND-Turbo-IPsec-Performance-Certified-on-Hewlett-Packard-Enterprise-ProLiant-Servers-for-Cost-effective-Security-Gateway-Solutions-for-All-Size-Networks-4273845", "http://www.excellence.oseo.fr/" ],
+    "dbo:wikiPageID" : [ "33069395" ],
+    "dbo:wikiPageRevisionID" : [ "719852227" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Software_companies_of_France", "http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard", "http://dbpedia.org/resource/Cloud_computing", "http://dbpedia.org/resource/Montigny-le-Bretonneux", "http://dbpedia.org/resource/Thomson-CSF", "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Japan", "http://dbpedia.org/resource/Paris", "http://dbpedia.org/resource/Red_Hat", "http://dbpedia.org/resource/South_Korea", "http://dbpedia.org/resource/Emerson_Network_Power", "http://dbpedia.org/resource/OpenStack", "http://dbpedia.org/resource/Data_Plane_Development_Kit", "http://dbpedia.org/resource/Dell", "http://dbpedia.org/resource/Red_Hat_Enterprise_Linux", "http://dbpedia.org/resource/Cisco_Systems", "http://dbpedia.org/resource/Hewlett-Packard", "http://dbpedia.org/resource/Wind_River_Systems", "http://dbpedia.org/resource/Network_function_virtualization", "http://dbpedia.org/resource/Thales_Group", "http://dbpedia.org/resource/VMware", "http://dbpedia.org/resource/Light_Reading", "http://dbpedia.org/resource/ProLiant", "http://dbpedia.org/resource/Linux", "http://dbpedia.org/resource/Radware", "http://dbpedia.org/resource/Mirantis", "http://dbpedia.org/resource/Alcatel-Lucent", "http://dbpedia.org/resource/4G", "http://dbpedia.org/resource/Packet_processing", "http://dbpedia.org/resource/Network_Functions_Virtualization" ],
+    "dbp:founder" : [ "Eric Carmès" ],
+    "dbp:industry" : [ "Software" ],
+    "dbp:locationCountry" : [ "France" ],
+    "dbp:locations" : [ "China, Japan, South Korea and the United States" ],
+    "dbp:products" : [ "6" ]
+  },
+  "words" : [ "virtual", "software", "held", "offices", "networking", "networks", "sales", "network", "high", "French", "China", "provides", "specializing", "worldwide", "company", "presence", "physical", "privately", "US", "6WIND", "Korea", "area", "West", "Japan", "center", "South", "technology", ",", "packet", ".", "subsidiary", "R&D", "performance", "Montigny-Le-Bretonneux", "Linux", "headquartered", "processing", "10x", "delivers", "support", "Paris", "applications" ],
+  "adjectives" : [ "high", "virtual", "French", "worldwide", "physical" ],
+  "nouns" : [ "software", "offices", "networking", "networks", "sales", "network", "China", "company", "presence", "US", "6WIND", "Korea", "area", "West", "Japan", "center", "South", "technology", "packet", "subsidiary", "R&D", "performance", "Montigny-Le-Bretonneux", "Linux", "processing", "support", "Paris", "applications" ],
+  "text" : "6WIND is a French technology company specializing in high performance networking software. The company is privately held and headquartered in the West Paris area, in Montigny-Le-Bretonneux. 6WIND presence is worldwide with a US subsidiary, sales and support offices in Japan and South Korea, and an R&D center in China. The company provides packet processing software that delivers 10x the network performance for physical and virtual Linux networks applications. Its offerings historically include source code networking stacks, but most recently Network Functions Virtualization (NFV) solutions."
+}, {
+  "entityIndex" : "entity10847",
+  "entityUrl" : "http://dbpedia.org/resource/6fusion",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:numberOfEmployees" : [ "35" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.6fusion.com/", "http://www.interop.com/", "http://aonetwork.com/", "http://console.6fusion.com/", "http://www.linkedin.com/company/6fusion-usa?trk=top_nav_home", "http://www.techtrailblazers.com/" ],
+    "dbo:wikiPageID" : [ "36030712" ],
+    "dbo:wikiPageRevisionID" : [ "720708945" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Virtual_machine", "http://dbpedia.org/resource/Cloud_computing", "http://dbpedia.org/resource/Information_technology_management", "http://dbpedia.org/resource/Category:Cloud_computing_providers", "http://dbpedia.org/resource/Category:Companies_based_in_Raleigh,_North_Carolina", "http://dbpedia.org/resource/Raleigh,_North_Carolina", "http://dbpedia.org/resource/Information_technology", "http://dbpedia.org/resource/Category:Cloud_infrastructure", "http://dbpedia.org/resource/Grotech_Ventures", "http://dbpedia.org/resource/Intersouth_Partners" ],
+    "dbp:industry" : [ "Cloud Services Brokerage", "Cloud computing", "Infrastructure-as-a-Service" ],
+    "dbp:location" : [ "Raleigh, NC, U.S." ],
+    "dbp:owners" : [ "Grotech Ventures", "Intersouth Ventures" ],
+    "dbp:products" : [ "Cloud Resource Meter, Enterprise iNode, iNode Network" ],
+    "dbp:type" : [ "Privately owned" ]
+  },
+  "words" : [ "Platform", "called", "benchmarking", "helping", "accuracy", "baselining", "cloud", "Utility", "view", "optimization", "North", "dynamic", "vendors", "--", "Consumption", "level", "Carolina", "real", "underlying", ",", "'s", ".", "market", "unit", "measure", "TCC", "end-users", "Approach", "transparency", "-RRB-", "WAC", "agility", "standardizing", "higher", "providing", "-LRB-", "achieve", "global", "Cost", "measurement", "across", "Allocation", "common", "provides", "agnostic", "supports", "company", "decisions", "make", "enables", "informed", "execution", "cost", "Raleigh", "business", "strategies", "forecasting", "UC6", "consumption", "services", "technology", "budgeting", "manage", "Workload", "better", "single", "patented", "headquartered", "Cube", "infrastructure", "service", "Total", "organizations", "uses", "venues", "time", "dataservices", "economic", "6fusion" ],
+  "adjectives" : [ "better", "single", "patented", "common", "Total", "agnostic", "global", "dynamic", "real", "dataservices", "economic", "higher" ],
+  "nouns" : [ "Platform", "benchmarking", "accuracy", "baselining", "Cost", "measurement", "cloud", "Utility", "view", "Allocation", "optimization", "company", "North", "decisions", "vendors", "Consumption", "execution", "cost", "Raleigh", "business", "level", "strategies", "forecasting", "Carolina", "UC6", "consumption", "services", "technology", "budgeting", "Workload", "market", "unit", "measure", "TCC", "Cube", "infrastructure", "end-users", "service", "Approach", "transparency", "organizations", "WAC", "venues", "time", "agility", "6fusion" ],
+  "text" : "6fusion is a dataservices company headquartered in Raleigh, North Carolina that enables a Utility Approach to IT—standardizing the economic measurement of IT infrastructure and cloud services, providing IT economic transparency to the global market, and helping end-users make better informed infrastructure decisions. With 6fusion’s UC6 Platform, organizations can view and manage the Total Cost of Consumption (TCC) of their business services in real time and achieve a higher level of cost optimization, forecasting accuracy and business agility. 6fusion uses a patented single unit of measure of IT infrastructure called the Workload Allocation Cube (WAC) that provides a common view of IT consumption, agnostic of underlying technology or vendors. 6fusion enables baselining, benchmarking and budgeting of business service consumption across execution venues, and supports dynamic cost optimization strategies. 6fusion's products metering, analytics and reporting tools are used by Enterprise organizations, IT service providers, and cloud brokers."
+}, {
+  "entityIndex" : "entity10848",
+  "entityUrl" : "http://dbpedia.org/resource/6G_Internet_(company)",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:industry" : [ "http://dbpedia.org/resource/Telecommunications" ],
+    "dbo:locationCity" : [ "http://dbpedia.org/resource/Burnley" ],
+    "dbo:product" : [ "http://dbpedia.org/resource/Wireless_Internet" ],
+    "dbo:regionServed" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.6ginternet.com" ],
+    "dbo:wikiPageID" : [ "41730042" ],
+    "dbo:wikiPageRevisionID" : [ "741661013" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Wireless_Internet", "http://dbpedia.org/resource/Category:Internet_service_providers_of_the_United_Kingdom", "http://dbpedia.org/resource/United_Kingdom", "http://dbpedia.org/resource/Burnley", "http://dbpedia.org/resource/Telecommunications", "http://dbpedia.org/resource/Access_network", "http://dbpedia.org/resource/Radio_technology", "http://dbpedia.org/resource/Radio_frequencies", "http://dbpedia.org/resource/Communications_technology", "http://dbpedia.org/resource/Wireless_internet" ],
+    "dbp:logo" : [ "6" ]
+  },
+  "words" : [ "transmits", "access", "line", "United", "deliver", "media", "air", "speed", "network", "radio", "6G", "rolling", "communications", "introduced", "Fibre", "company", "offers", "10Mbit/s", "technology", "Air", "services", ".", "users", "residential", "Kingdom", "broadband", "300Mbit/s", "claims", "garnered", "attention", "wireless", "Internet", "receives", "fibre", "internet" ],
+  "adjectives" : [ "residential", "wireless" ],
+  "nouns" : [ "access", "10Mbit/s", "line", "United", "technology", "Air", "air", "media", "services", "speed", "users", "network", "radio", "6G", "communications", "Kingdom", "broadband", "300Mbit/s", "attention", "Fibre", "company", "Internet", "fibre", "internet" ],
+  "text" : "6G Internet is communications technology company that offers wireless internet access with 6G Air fibre technology in the United Kingdom. The company garnered media attention when they introduced 6G broadband services by rolling out its Air Fibre network that transmits and receives internet through the air. 6G Internet claims to deliver speed of up to 10Mbit/s to 300Mbit/s to residential users with their radio technology by 6G line."
+} ]

@@ -1,12 +1,12 @@
-id=20  property=dbo:primeMinister  
+id=22  property=dbo:primeMinister  
 minister_of  NN_IN  multiply=0.033458  P(minister_of|dbo:primeMinister)=0.056693  P(dbo:primeMinister|minister_of)=0.590164    
 state_minister  NN_NN  multiply=0.007503  P(state_minister|dbo:primeMinister)=0.014173  P(dbo:primeMinister|state_minister)=0.529412    
 serve_minister  VBD_NN  multiply=0.004208  P(serve_minister|dbo:primeMinister)=0.056693  P(dbo:primeMinister|serve_minister)=0.074227    
 deputy_prime  JJ_JJ  multiply=0.003579  P(deputy_prime|dbo:primeMinister)=0.007874  P(dbo:primeMinister|deputy_prime)=0.454545    
 appoint_minister  VBN_NN  multiply=0.002352  P(appoint_minister|dbo:primeMinister)=0.017323  P(dbo:primeMinister|appoint_minister)=0.135802    
 previously_serve  RB_VBN  multiply=0.001961  P(previously_serve|dbo:primeMinister)=0.03937  P(dbo:primeMinister|previously_serve)=0.049801    
-serve_in  VBN_IN  multiply=0.001612  P(serve_in|dbo:primeMinister)=0.04252  P(dbo:primeMinister|serve_in)=0.037921    
+serve_in  VBN_IN  multiply=0.001606  P(serve_in|dbo:primeMinister)=0.04252  P(dbo:primeMinister|serve_in)=0.037762    
 criticise  VBN  multiply=7.87E-4  P(criticise|dbo:primeMinister)=0.001575  P(dbo:primeMinister|criticise)=0.5    
 deputy_minister  NN_NN  multiply=5.25E-4  P(deputy_minister|dbo:primeMinister)=0.00315  P(dbo:primeMinister|deputy_minister)=0.166667    
-become_subject  VBD_JJ  multiply=4.42E-4  P(become_subject|dbo:primeMinister)=0.006299  P(dbo:primeMinister|become_subject)=0.070175    
+become_subject  VBD_JJ  multiply=4.34E-4  P(become_subject|dbo:primeMinister)=0.006299  P(dbo:primeMinister|become_subject)=0.068966    
 

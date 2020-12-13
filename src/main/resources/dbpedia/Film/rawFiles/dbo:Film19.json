@@ -1,0 +1,27 @@
+[ {
+  "entityIndex" : "entity10821",
+  "entityUrl" : "http://dbpedia.org/resource/-30-_(film)",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Edward_Colman_(cinematographer)" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/Jack_Webb" ],
+    "dbo:editing" : [ "http://dbpedia.org/resource/Robert_M._Leeds" ],
+    "dbo:musicComposer" : [ "http://dbpedia.org/resource/Ray_Heindorf" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/Jack_Webb" ],
+    "dbo:runtime" : [ "88.0", "5280.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/William_Conrad", "http://dbpedia.org/resource/Jack_Webb", "http://dbpedia.org/resource/Whitney_Blake" ],
+    "dbo:wikiPageID" : [ "2627813" ],
+    "dbo:wikiPageRevisionID" : [ "716748152" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:1959_films", "http://dbpedia.org/resource/Joe_Flynn_(US_actor)", "http://dbpedia.org/resource/Mark_Scott_(actor)", "http://dbpedia.org/resource/William_Conrad", "http://dbpedia.org/resource/James_Bell_(actor)", "http://dbpedia.org/resource/William_Bowers", "http://dbpedia.org/resource/Dick_Whittinghill", "http://dbpedia.org/resource/Category:1950s_drama_films", "http://dbpedia.org/resource/Category:American_drama_films", "http://dbpedia.org/resource/Category:American_films", "http://dbpedia.org/resource/Category:English-language_films", "http://dbpedia.org/resource/Category:Films_about_journalists", "http://dbpedia.org/resource/Los_Angeles_Herald-Examiner", "http://dbpedia.org/resource/David_Nelson_(actor)", "http://dbpedia.org/resource/John_Nolan_(American_actor)", "http://dbpedia.org/resource/Jack_Webb", "http://dbpedia.org/resource/News_release", "http://dbpedia.org/resource/Whitney_Blake", "http://dbpedia.org/resource/Ronnie_Dapo", "http://dbpedia.org/resource/William_Tracy", "http://dbpedia.org/resource/Howard_Culver", "http://dbpedia.org/resource/List_of_American_films_of_1959", "http://dbpedia.org/resource/Category:Mark_VII_Limited_films", "http://dbpedia.org/resource/Phil_Gordon_(actor)", "http://dbpedia.org/resource/Ray_Heindorf", "http://dbpedia.org/resource/Fay_McKenzie", "http://dbpedia.org/resource/Richard_Bakalyan", "http://dbpedia.org/resource/Robert_M._Leeds", "http://dbpedia.org/resource/Olan_Soule", "http://dbpedia.org/resource/Richard_Deacon_(actor)", "http://dbpedia.org/resource/Los_Angeles,_California", "http://dbpedia.org/resource/Edward_Colman_(cinematographer)", "http://dbpedia.org/resource/Dick_Cathcart", "http://dbpedia.org/resource/-30-" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/William_Bowers" ],
+    "dbp:caption" : [ "Film Poster" ],
+    "dbp:country" : [ "United States" ],
+    "dbp:distributor" : [ "Warner Bros. Pictures" ],
+    "dbp:language" : [ "English" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1" ]
+  },
+  "words" : [ "newspaper", "-LRB-", "city", "now-defunct", "Webb", "-30", "respectively", "Angeles", "real-life", "UK", "Conrad", "1959", "Jack", "Herald-Examiner", "released", "editor", "based", "Deadline", "night", "fictional", "film", "William", ",", "-", ".", "Los", "loosely", "-RRB-", "starring", "managing", "Midnight" ],
+  "adjectives" : [ "now-defunct", "fictional", "real-life" ],
+  "nouns" : [ "newspaper", "editor", "city", "night", "Deadline", "Webb", "Angeles", "film", "William", "Los", "UK", "Conrad", "Midnight", "Jack", "Herald-Examiner" ],
+  "text" : "-30- (released as Deadline Midnight in the UK) is a 1959 film starring Jack Webb and William Conrad as night managing editor and night city editor, respectively, of a fictional Los Angeles newspaper, loosely based on the real-life (and now-defunct) Los Angeles Herald-Examiner."
+} ]

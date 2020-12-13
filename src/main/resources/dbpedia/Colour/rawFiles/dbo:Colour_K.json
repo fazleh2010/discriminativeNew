@@ -1,0 +1,85 @@
+[ {
+  "entityIndex" : "entity10924",
+  "entityUrl" : "http://dbpedia.org/resource/Khaki",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "F0E68C" ],
+    "dbo:hsvCoordinateHue" : [ "54" ],
+    "dbo:hsvCoordinateSaturation" : [ "41" ],
+    "dbo:hsvCoordinateValue" : [ "94" ],
+    "dbo:rgbCoordinateBlue" : [ "140" ],
+    "dbo:rgbCoordinateGreen" : [ "230" ],
+    "dbo:rgbCoordinateRed" : [ "240" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Khaki82.jpg?width=300" ],
+    "dbo:wikiPageID" : [ "192398" ],
+    "dbo:wikiPageRevisionID" : [ "737438752" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Shades_of_brown", "http://dbpedia.org/resource/Category:Shades_of_yellow", "http://dbpedia.org/resource/Cotton", "http://dbpedia.org/resource/Linen", "http://dbpedia.org/resource/Second_Boer_War", "http://dbpedia.org/resource/United_States_Army", "http://dbpedia.org/resource/Urdu", "http://dbpedia.org/resource/Tewodros_II_of_Ethiopia", "http://dbpedia.org/resource/Harry_Burnett_Lumsden", "http://dbpedia.org/resource/Khaki_drill", "http://dbpedia.org/resource/Mahdist_War", "http://dbpedia.org/resource/Olive_drab", "http://dbpedia.org/resource/Drab_(color)", "http://dbpedia.org/resource/British_Army", "http://dbpedia.org/resource/Camouflage", "http://dbpedia.org/resource/Canadian_English", "http://dbpedia.org/resource/Hindi", "http://dbpedia.org/resource/Persian_language", "http://dbpedia.org/resource/Spanish–American_War", "http://dbpedia.org/resource/Mulberry", "http://dbpedia.org/resource/United_States_Marine_Corps", "http://dbpedia.org/resource/William_Stephen_Raikes_Hodson", "http://dbpedia.org/resource/Service_Dress_(British_Army)", "http://dbpedia.org/resource/Ethiopian_Empire", "http://dbpedia.org/resource/Peshawar", "http://dbpedia.org/resource/Hindustani_language", "http://dbpedia.org/resource/Tan_(color)", "http://dbpedia.org/resource/Loanword", "http://dbpedia.org/resource/Web_color", "http://dbpedia.org/resource/Khaki_election", "http://dbpedia.org/resource/Chinos", "http://dbpedia.org/resource/Khaki_University", "http://dbpedia.org/resource/Web_colors", "http://dbpedia.org/resource/X11_color_names", "http://dbpedia.org/resource/Nannorrhops", "http://dbpedia.org/resource/Chino_cloth", "http://dbpedia.org/resource/British_India", "http://dbpedia.org/resource/British_Indian_Army", "http://dbpedia.org/resource/Smart_casual", "http://dbpedia.org/resource/World_War_I", "http://dbpedia.org/resource/Sir_Robert_Napier", "http://dbpedia.org/resource/United_States_Navy", "http://dbpedia.org/resource/1868_Expedition_to_Abyssinia", "http://dbpedia.org/resource/Corps_of_Guides_(British_India)", "http://dbpedia.org/resource/File:Khaki82.jpg", "http://dbpedia.org/resource/File:33rd_Punjabi_Army_(Commander_Punjabi_Subadar)_by_A_C_Lovett.jpg", "http://dbpedia.org/resource/File:Chennai_City_Mounted_Police.jpg" ],
+    "dbp:source" : [ "http://dbpedia.org/resource/Web_colors" ]
+  },
+  "words" : [ "``", "drab", "-LSB-", "armies", "called", "yellow-brown", "خاک", "used", "via", "introduced", "UK", "incorporated", "meaning", "khaki", "Hindi", "military", "US", "--", "Army", "including", "Khâk", "Urdu", "literally", "ˈkɑːkiː", "shade", "originally", ",", ".", "/", "India", "Canada", "Khaki", "light", "-RRB-", "name", ":", "ख़ाकी", "since", "-LRB-", "color", "Hindustani", "Persian", "xɒːk", "soil", "around", "uniform", "world", "soil-colored", "came", "خاکی", "camouflage", "derived", "''", "British", "loanword", "ˈkækiː", "uniforms", "light-brown", "many", "English", "translation", "-RSB-", "Indian", "1848", "first" ],
+  "adjectives" : [ "drab", "British", "light", "yellow-brown", "soil-colored", "ˈkækiː", "ˈkɑːkiː", "Indian", "military", "light-brown", "many" ],
+  "nouns" : [ "color", "armies", "Hindustani", "Persian", "xɒːk", "soil", "uniform", "world", "UK", "meaning", "khaki", "Hindi", "camouflage", "US", "British", "Army", "loanword", "Khâk", "Urdu", "shade", "uniforms", "India", "Canada", "English", "Khaki", "name", "translation" ],
+  "text" : "Khaki (UK /ˈkɑːkiː/, Canada and US /ˈkækiː/) is a color, a light shade of yellow-brown. Khaki is a loanword incorporated from Hindustani (Urdu or Hindi) ख़ाकी/خاکی (meaning \"soil-colored\") and is originally derived from the Persian: خاک [xɒːk] (Khâk, literally meaning \"soil\"), which came to English from British India via the British Indian Army. Khaki has been used by many armies around the world for uniforms, including camouflage. It has been used as a color name in English since 1848 when it was first introduced as a military uniform, and was called both drab and khaki—khaki being a translation of the English drab light-brown color. A khaki uniform is often referred to as khakis. In Western fashion, it is a standard color for smart casual dress trousers for civilians, which are also often called khakis."
+}, {
+  "entityIndex" : "entity10925",
+  "entityUrl" : "http://dbpedia.org/resource/Khaki__HTML/CSS__1",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "C3B091" ],
+    "dbo:hsvCoordinateHue" : [ "37" ],
+    "dbo:hsvCoordinateSaturation" : [ "26" ],
+    "dbo:hsvCoordinateValue" : [ "76" ],
+    "dbo:rgbCoordinateBlue" : [ "145" ],
+    "dbo:rgbCoordinateGreen" : [ "176" ],
+    "dbo:rgbCoordinateRed" : [ "195" ],
+    "dbo:variantOf" : [ "http://dbpedia.org/resource/Khaki" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10926",
+  "entityUrl" : "http://dbpedia.org/resource/Khaki__Dark_Khaki__1",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "BDB76B" ],
+    "dbo:hsvCoordinateHue" : [ "56" ],
+    "dbo:hsvCoordinateSaturation" : [ "43" ],
+    "dbo:hsvCoordinateValue" : [ "74" ],
+    "dbo:rgbCoordinateBlue" : [ "107" ],
+    "dbo:rgbCoordinateGreen" : [ "183" ],
+    "dbo:rgbCoordinateRed" : [ "189" ],
+    "dbo:variantOf" : [ "http://dbpedia.org/resource/Khaki" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10927",
+  "entityUrl" : "http://dbpedia.org/resource/Kobicha",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:cmykCoordinateBlack" : [ "58" ],
+    "dbo:cmykCoordinateCyanic" : [ "0" ],
+    "dbo:cmykCoordinateMagenta" : [ "36" ],
+    "dbo:cmykCoordinateYellow" : [ "67" ],
+    "dbo:colourHexCode" : [ "6B4423" ],
+    "dbo:hsvCoordinateHue" : [ "28" ],
+    "dbo:hsvCoordinateSaturation" : [ "67" ],
+    "dbo:hsvCoordinateValue" : [ "42" ],
+    "dbo:rgbCoordinateBlue" : [ "35" ],
+    "dbo:rgbCoordinateGreen" : [ "68" ],
+    "dbo:rgbCoordinateRed" : [ "107" ],
+    "dbo:wikiPageID" : [ "41472544" ],
+    "dbo:wikiPageRevisionID" : [ "593423572" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Shades_of_brown", "http://dbpedia.org/resource/Japanese_language", "http://dbpedia.org/resource/Kimono", "http://dbpedia.org/resource/Dyes", "http://dbpedia.org/resource/List_of_colors", "http://dbpedia.org/resource/Traditional_colors_of_Japan" ],
+    "dbp:source" : [ "http://dbpedia.org/resource/Traditional_colors_of_Japan" ],
+    "dbp:textcolor" : [ "white" ]
+  },
+  "words" : [ "異性に媚びるような艶っぽい色", "、", "。", "という意味の", "（", "）", "元の名を昆布茶", "「", "」", "は", "やや黒ずんだ黄褐色", "こびちゃ", "といい", "江戸時代の流行色の1つ", "こぶちゃ", "媚茶", "の字を当てられて流行した", "海藻のコンブの色を写したものだが" ],
+  "adjectives" : [ ],
+  "nouns" : [ "、", "。", "媚茶", "（", "）", "「" ],
+  "text" : "媚茶（こびちゃ）は、江戸時代の流行色の1つ。やや黒ずんだ黄褐色。 元の名を昆布茶（こぶちゃ）といい、海藻のコンブの色を写したものだが、「異性に媚びるような艶っぽい色」という意味の「媚茶」の字を当てられて流行した。"
+} ]

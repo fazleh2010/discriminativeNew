@@ -1,0 +1,1027 @@
+[ {
+  "entityIndex" : "entity12450",
+  "entityUrl" : "http://dbpedia.org/resource/Ikue_Kimura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ikue_Kimura) dbo:birthDate o'<1978-12-10>",
+    "2" : "s(Ikue_Kimura) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12451",
+  "entityUrl" : "http://dbpedia.org/resource/Iris_Tree__England-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Iris_Tree__England-actor-stub__1) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12452",
+  "entityUrl" : "http://dbpedia.org/resource/Inuko_Inuyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Inuko_Inuyama) dbo:birthDate o'<1965-12-16>",
+    "2" : "s(Inuko_Inuyama) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12453",
+  "entityUrl" : "http://dbpedia.org/resource/Issei_Miyazaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Issei_Miyazaki) dbo:birthDate o'<1971-1-1>",
+    "2" : "s(Issei_Miyazaki) dbo:birthPlace o'<Asaminami-ku,_Hiroshima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12454",
+  "entityUrl" : "http://dbpedia.org/resource/Idy_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Idy_Chan) dbo:birthDate o'<1960-3-25>",
+    "2" : "s(Idy_Chan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Idy_Chan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12455",
+  "entityUrl" : "http://dbpedia.org/resource/Itsumi_Osawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Itsumi_Osawa) dbo:birthDate o'<1966-03-23>",
+    "2" : "s(Itsumi_Osawa) dbo:birthDate o'<1966-3-23>",
+    "3" : "s(Itsumi_Osawa) dbo:birthPlace o'<Sapporo>",
+    "4" : "s(Itsumi_Osawa) dbo:birthPlace o'<Hokkaidō>",
+    "5" : "s(Itsumi_Osawa) dbo:birthPlace o'<Japan>",
+    "6" : "s(Itsumi_Osawa) dbp:name o'<Osawa Itsumi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12456",
+  "entityUrl" : "http://dbpedia.org/resource/India_Fisher",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(India_Fisher) dbo:birthDate o'<1974-1-1>",
+    "2" : "s(India_Fisher) dbo:birthName o'<India Fisher>",
+    "3" : "s(India_Fisher) dbo:birthPlace o'<England>",
+    "4" : "s(India_Fisher) dbo:birthPlace o'<London>",
+    "5" : "s(India_Fisher) dbo:country o'<England>",
+    "6" : "s(India_Fisher) dbo:employer o'<BBC>",
+    "7" : "s(India_Fisher) dbo:ethnicity o'<English_people>",
+    "8" : "s(India_Fisher) dbo:hometown o'<England>",
+    "9" : "s(India_Fisher) dbo:hometown o'<Stoke-on-Trent>",
+    "10" : "s(India_Fisher) dbo:hometown o'<Staffordshire>",
+    "11" : "s(India_Fisher) dbo:imdbId o'<1518491>",
+    "12" : "s(India_Fisher) dbo:knownFor o'<MasterChef_(UK_TV_series)>",
+    "13" : "s(India_Fisher) dbo:nationality o'<United_Kingdom>",
+    "14" : "s(India_Fisher) dbo:occupation o'<Presenter>",
+    "15" : "s(India_Fisher) dbo:occupation o'<India_Fisher__1>",
+    "16" : "s(India_Fisher) dbo:residence o'<England>",
+    "17" : "s(India_Fisher) dbo:residence o'<London>",
+    "18" : "s(India_Fisher) dbo:stateOfOrigin o'<United_Kingdom>",
+    "19" : "s(India_Fisher) dbp:imageSize o'<200>",
+    "20" : "s(India_Fisher) dbp:name o'<India Fisher>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(india fisher=India_Fisher) [stepsister of ] o'<actress=English_people>",
+    "4" : "s(india fisher=India_Fisher) [appeared in television ] o'<the bbc=BBC>",
+    "7" : "s(india fisher=India_Fisher) [narrates ] o'<bbc=BBC>",
+    "8" : "s(india fisher=India_Fisher) [appeared in several ] o'<bbc radio=BBC>"
+  },
+  "abstract" : {
+    "3" : "india fisher<India_Fisher> is also the stepsister of musician crispin hunt and of actress<English_people> francesca hunt, who appears with her in the play other lives\n",
+    "4" : "india fisher<India_Fisher> has appeared in the television series dead ringers and provided the voice for the character of sophia winchell in the bbc<BBC>\n",
+    "7" : "india fisher<India_Fisher> narrates bbc<BBC> one's cookery programme masterchef—and also performs voiceovers for television advertisements\n",
+    "8" : "india fisher<India_Fisher> has also appeared in several episodes of the bbc radio<BBC> 4 comedy series elephants to catch eels\n"
+  }
+}, {
+  "entityIndex" : "entity12457",
+  "entityUrl" : "http://dbpedia.org/resource/Izumi_Aki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Izumi_Aki) dbo:birthDate o'<1960-05-15>",
+    "2" : "s(Izumi_Aki) dbo:birthDate o'<1960-5-15>",
+    "3" : "s(Izumi_Aki) dbo:birthPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12458",
+  "entityUrl" : "http://dbpedia.org/resource/Inger_Nilsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Inger_Nilsson) dbo:birthDate o'<1959-05-04>",
+    "2" : "s(Inger_Nilsson) dbo:birthDate o'<1959-5-4>",
+    "3" : "s(Inger_Nilsson) dbo:birthPlace o'<Kisa,_Sweden>",
+    "4" : "s(Inger_Nilsson) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12459",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Hogg_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Hogg_(actor)) dbo:birthDate o'<1937-08-01>",
+    "2" : "s(Ian_Hogg_(actor)) dbo:birthDate o'<1937-8-1>",
+    "3" : "s(Ian_Hogg_(actor)) dbo:birthPlace o'<UK>",
+    "4" : "s(Ian_Hogg_(actor)) dbo:birthPlace o'<England>",
+    "5" : "s(Ian_Hogg_(actor)) dbo:birthPlace o'<Newcastle_upon_Tyne>",
+    "6" : "s(Ian_Hogg_(actor)) dbo:birthPlace o'<Northumberland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12460",
+  "entityUrl" : "http://dbpedia.org/resource/Ivy_Lee_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ivy_Lee_(actress)) dbo:activeYearsEndYear o'<2009>",
+    "2" : "s(Ivy_Lee_(actress)) dbo:activeYearsStartYear o'<1993>",
+    "3" : "s(Ivy_Lee_(actress)) dbo:birthDate o'<1973-7-16>",
+    "4" : "s(Ivy_Lee_(actress)) dbo:country o'<People's_Republic_of_China>",
+    "5" : "s(Ivy_Lee_(actress)) dbo:imdbId o'<1165892>",
+    "6" : "s(Ivy_Lee_(actress)) dbo:occupation o'<Actress>",
+    "7" : "s(Ivy_Lee_(actress)) dbp:birthDate o'<1973-07-16>",
+    "8" : "s(Ivy_Lee_(actress)) dbp:birthPlace o'<Singapore>",
+    "9" : "s(Ivy_Lee_(actress)) dbp:children o'<4>",
+    "10" : "s(Ivy_Lee_(actress)) dbp:name o'<Ivy Lee>",
+    "11" : "s(Ivy_Lee_(actress)) dbp:p o'<Lǐ Jǐnméi>",
+    "12" : "s(Ivy_Lee_(actress)) dbp:spouse o'<1997>",
+    "13" : "s(Ivy_Lee_(actress)) dbp:spouse o'<Raymond Choy>",
+    "14" : "s(Ivy_Lee_(actress)) dbp:t o'<李錦梅>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ivy lee (actress)=Ivy_Lee_(actress)) [threetime winner of ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "2" : "ivy lee (actress)<Ivy_Lee_(actress)> is a three-time winner of the star awards for best actress<Actress>\n"
+  }
+}, {
+  "entityIndex" : "entity12461",
+  "entityUrl" : "http://dbpedia.org/resource/Inday_Ba",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Inday_Ba) dbo:birthDate o'<1972-08-10>",
+    "2" : "s(Inday_Ba) dbo:birthDate o'<1972-8-10>",
+    "3" : "s(Inday_Ba) dbo:birthPlace o'<Gothenburg>",
+    "4" : "s(Inday_Ba) dbo:deathDate o'<2005-04-20>",
+    "5" : "s(Inday_Ba) dbo:deathDate o'<2005-4-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12462",
+  "entityUrl" : "http://dbpedia.org/resource/Ivy_Ling_Po",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ivy_Ling_Po) dbo:birthDate o'<1939-11-16>",
+    "2" : "s(Ivy_Ling_Po) dbp:birthPlace o'<Republic_of_China_(1912–49)>",
+    "3" : "s(Ivy_Ling_Po) dbp:birthPlace o'<Shantou>",
+    "4" : "s(Ivy_Ling_Po) dbp:birthPlace o'<Guangdong>",
+    "5" : "s(Ivy_Ling_Po) dbp:name o'<Ivy Ling Po>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12463",
+  "entityUrl" : "http://dbpedia.org/resource/Ivana_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ivana_Wong) dbo:birthDate o'<1979-6-18>",
+    "2" : "s(Ivana_Wong) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Ivana_Wong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ivana wong=Ivana_Wong) [won best supporting actress ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : "in 2015, ivana wong<Ivana_Wong> won the best supporting actress and best new performer awards in the 34th hong kong<Hong_Kong> film award for her act in the film golden chicken 3\n"
+  }
+}, {
+  "entityIndex" : "entity12464",
+  "entityUrl" : "http://dbpedia.org/resource/Issey_Ogata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Issey_Ogata) dbo:birthDate o'<1952-2-22>",
+    "2" : "s(Issey_Ogata) dbo:birthPlace o'<Fukuoka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12465",
+  "entityUrl" : "http://dbpedia.org/resource/Ikuo_Nishikawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ikuo_Nishikawa) dbo:birthDate o'<1940-09-11>",
+    "2" : "s(Ikuo_Nishikawa) dbo:birthDate o'<1940-9-11>",
+    "3" : "s(Ikuo_Nishikawa) dbo:birthPlace o'<Ehime_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12466",
+  "entityUrl" : "http://dbpedia.org/resource/Ittoku_Kishibe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ittoku_Kishibe) dbo:birthDate o'<1947-01-09>",
+    "2" : "s(Ittoku_Kishibe) dbo:birthDate o'<1947-1-9>",
+    "3" : "s(Ittoku_Kishibe) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ittoku_Kishibe) dbo:birthPlace o'<Kyoto>",
+    "5" : "s(Ittoku_Kishibe) dbp:name o'<Ittoku Kishibe>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12467",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Barritt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Barritt) dbo:birthDate o'<1944-1-1>",
+    "2" : "s(Ian_Barritt) dbo:birthPlace o'<England>",
+    "3" : "s(Ian_Barritt) dbo:birthPlace o'<Burnley>",
+    "4" : "s(Ian_Barritt) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Ian_Barritt) dbo:birthYear o'<1944>",
+    "6" : "s(Ian_Barritt) dbo:country o'<United_Kingdom>",
+    "7" : "s(Ian_Barritt) dbo:imdbId o'<0057598>",
+    "8" : "s(Ian_Barritt) dbp:name o'<Ian Barritt>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12468",
+  "entityUrl" : "http://dbpedia.org/resource/Ishia_Bennison",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ishia_Bennison) dbp:name o'<Ishia Bennison>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12469",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Collier",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Collier) dbo:birthDate o'<1943-01-25>",
+    "2" : "s(Ian_Collier) dbo:birthDate o'<1943-1-25>",
+    "3" : "s(Ian_Collier) dbo:birthName o'<Ian Gordon Arthur Collier>",
+    "4" : "s(Ian_Collier) dbo:birthYear o'<1943>",
+    "5" : "s(Ian_Collier) dbo:country o'<England>",
+    "6" : "s(Ian_Collier) dbo:deathDate o'<2008-10-01>",
+    "7" : "s(Ian_Collier) dbo:deathDate o'<2008-10-1>",
+    "8" : "s(Ian_Collier) dbo:deathPlace o'<England>",
+    "9" : "s(Ian_Collier) dbo:deathPlace o'<London>",
+    "10" : "s(Ian_Collier) dbo:deathYear o'<2008>",
+    "11" : "s(Ian_Collier) dbo:occupation o'<Ian_Collier__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ian collier=Ian_Collier) [appeared on stage in hamlet ] o'<city=London>"
+  },
+  "abstract" : {
+    "2" : "ian collier<Ian_Collier> appeared on stage in \"hamlet\" in 1969 at the lunt-fontanne theater in new york city<London>\n"
+  }
+}, {
+  "entityIndex" : "entity12470",
+  "entityUrl" : "http://dbpedia.org/resource/Ikuya_Sawaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ikuya_Sawaki) dbo:birthDate o'<1951-08-25>",
+    "2" : "s(Ikuya_Sawaki) dbo:birthDate o'<1951-8-25>",
+    "3" : "s(Ikuya_Sawaki) dbo:birthPlace o'<Kashiwa>",
+    "4" : "s(Ikuya_Sawaki) dbo:birthPlace o'<Chiba_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12471",
+  "entityUrl" : "http://dbpedia.org/resource/Ichir%C5%8D_Arishima",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12472",
+  "entityUrl" : "http://dbpedia.org/resource/Isao_Kimura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isao_Kimura) dbo:birthDate o'<1923-07-22>",
+    "2" : "s(Isao_Kimura) dbo:birthDate o'<1923-6-22>",
+    "3" : "s(Isao_Kimura) dbo:birthPlace o'<Japan>",
+    "4" : "s(Isao_Kimura) dbo:birthPlace o'<Hiroshima>",
+    "5" : "s(Isao_Kimura) dbo:birthPlace o'<Naka-ku,_Hiroshima>",
+    "6" : "s(Isao_Kimura) dbo:deathDate o'<1981-06-04>",
+    "7" : "s(Isao_Kimura) dbo:deathDate o'<1981-7-4>",
+    "8" : "s(Isao_Kimura) dbo:deathPlace o'<Japan>",
+    "9" : "s(Isao_Kimura) dbo:deathPlace o'<Tokyo>",
+    "10" : "s(Isao_Kimura) dbp:name o'<Isao Kimura>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12473",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Kelsey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Kelsey) dbo:birthDate o'<1966-12-17>",
+    "2" : "s(Ian_Kelsey) dbo:birthPlace o'<York>",
+    "3" : "s(Ian_Kelsey) dbo:birthPlace o'<Yorkshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12474",
+  "entityUrl" : "http://dbpedia.org/resource/Izumi_%C5%8Cgami",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12475",
+  "entityUrl" : "http://dbpedia.org/resource/Ingrid_Janbell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ingrid_Janbell) dbo:birthDate o'<1955-8-4>",
+    "2" : "s(Ingrid_Janbell) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12476",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Aspinall",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Aspinall) dbo:birthDate o'<1961-1-1>",
+    "2" : "s(Ian_Aspinall) dbo:birthPlace o'<Bolton>",
+    "3" : "s(Ian_Aspinall) dbp:name o'<Ian Aspinall>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12477",
+  "entityUrl" : "http://dbpedia.org/resource/Irma_Schultz_Keller__Sweden-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Irma_Schultz_Keller__Sweden-actor-stub__1) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12478",
+  "entityUrl" : "http://dbpedia.org/resource/Isabelle_Nanty",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isabelle_Nanty) dbo:birthDate o'<1962-01-21>",
+    "2" : "s(Isabelle_Nanty) dbo:birthDate o'<1962-1-21>",
+    "3" : "s(Isabelle_Nanty) dbo:birthPlace o'<Verdun>",
+    "4" : "s(Isabelle_Nanty) dbo:birthPlace o'<Meuse_(department)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12479",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Whyte_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Whyte_(actor)) dbo:birthDate o'<1971-09-17>",
+    "2" : "s(Ian_Whyte_(actor)) dbo:birthDate o'<1971-9-17>",
+    "3" : "s(Ian_Whyte_(actor)) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(Ian_Whyte_(actor)) dbo:birthPlace o'<Bangor,_Gwynedd>",
+    "5" : "s(Ian_Whyte_(actor)) dbo:birthPlace o'<North_Wales>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12480",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Paul_Cassidy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Paul_Cassidy) dbo:birthDate o'<1964-11-04>",
+    "2" : "s(Ian_Paul_Cassidy) dbo:birthDate o'<1964-11-4>",
+    "3" : "s(Ian_Paul_Cassidy) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "4" : "s(Ian_Paul_Cassidy) dbo:birthPlace o'<England>",
+    "5" : "s(Ian_Paul_Cassidy) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Ian_Paul_Cassidy) dbo:birthPlace o'<Harrogate>",
+    "7" : "s(Ian_Paul_Cassidy) dbo:birthYear o'<1964>",
+    "8" : "s(Ian_Paul_Cassidy) dbo:country o'<England>",
+    "9" : "s(Ian_Paul_Cassidy) dbo:imdbId o'<0144195>",
+    "10" : "s(Ian_Paul_Cassidy) dbp:name o'<Ian Paul Cassidy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12481",
+  "entityUrl" : "http://dbpedia.org/resource/Inga_Landgr%C3%A9",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12482",
+  "entityUrl" : "http://dbpedia.org/resource/Inga_Gill",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Inga_Gill) dbo:birthDate o'<1925-05-02>",
+    "2" : "s(Inga_Gill) dbo:birthDate o'<1925-5-2>",
+    "3" : "s(Inga_Gill) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Inga_Gill) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Inga_Gill) dbo:deathDate o'<2000-10-18>",
+    "6" : "s(Inga_Gill) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Inga_Gill) dbo:deathPlace o'<Sweden>",
+    "8" : "s(Inga_Gill) dbp:name o'<Inga Gill>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12483",
+  "entityUrl" : "http://dbpedia.org/resource/Iain_McKee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Iain_McKee) dbo:activeYearsStartYear o'<2001>",
+    "2" : "s(Iain_McKee) dbo:birthName o'<Iain McKee>",
+    "3" : "s(Iain_McKee) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(Iain_McKee) dbo:country o'<England>",
+    "5" : "s(Iain_McKee) dbp:imagesize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(iain mckee=Iain_McKee) [originally from bolton ] o'<london=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "iain mckee<Iain_McKee> is originally from bolton and now lives in north london<United_Kingdom>, uk<United_Kingdom>\n"
+  }
+}, {
+  "entityIndex" : "entity12484",
+  "entityUrl" : "http://dbpedia.org/resource/Ix_Shen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ix_Shen) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12485",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Gouw",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Gouw) dbo:birthDate o'<1997-4-9>",
+    "2" : "s(Ian_Gouw) dbp:name o'<King-to Ng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12486",
+  "entityUrl" : "http://dbpedia.org/resource/Ikue_Sakakibara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ikue_Sakakibara) dbo:birthDate o'<1959-05-08>",
+    "2" : "s(Ikue_Sakakibara) dbo:birthDate o'<1959-5-8>",
+    "3" : "s(Ikue_Sakakibara) dbo:birthPlace o'<Kawasaki,_Kanagawa>",
+    "4" : "s(Ikue_Sakakibara) dbo:birthPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12487",
+  "entityUrl" : "http://dbpedia.org/resource/Ingrid_Luterkort",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ingrid_Luterkort) dbo:birthDate o'<1910-06-28>",
+    "2" : "s(Ingrid_Luterkort) dbo:birthDate o'<1910-6-28>",
+    "3" : "s(Ingrid_Luterkort) dbo:birthPlace o'<Lund,_Sweden>",
+    "4" : "s(Ingrid_Luterkort) dbo:birthPlace o'<Lund>",
+    "5" : "s(Ingrid_Luterkort) dbo:deathDate o'<2011-08-03>",
+    "6" : "s(Ingrid_Luterkort) dbo:deathDate o'<2011-8-3>",
+    "7" : "s(Ingrid_Luterkort) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Ingrid_Luterkort) dbp:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12488",
+  "entityUrl" : "http://dbpedia.org/resource/Irma_Christenson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Irma_Christenson) dbo:birthDate o'<1915-01-14>",
+    "2" : "s(Irma_Christenson) dbo:birthDate o'<1915-1-14>",
+    "3" : "s(Irma_Christenson) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Irma_Christenson) dbo:birthYear o'<1915>",
+    "5" : "s(Irma_Christenson) dbo:deathDate o'<1993-02-21>",
+    "6" : "s(Irma_Christenson) dbo:deathDate o'<1993-2-21>",
+    "7" : "s(Irma_Christenson) dbo:deathPlace o'<Sweden>",
+    "8" : "s(Irma_Christenson) dbo:deathYear o'<1993>",
+    "9" : "s(Irma_Christenson) dbo:imdbId o'<0159943>",
+    "10" : "s(Irma_Christenson) dbo:nationality o'<Sweden>",
+    "11" : "s(Irma_Christenson) dbo:occupation o'<Actor>",
+    "12" : "s(Irma_Christenson) dbo:occupation o'<Irma_Christenson__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(irma christenson=Irma_Christenson) [married writer pererik rundquist ] o'<actor=Actor>"
+  },
+  "abstract" : {
+    "4" : "irma christenson<Irma_Christenson> married the writer per-erik rundquist and with him got the son mikael rundquist, also an actor<Actor>\n"
+  }
+}, {
+  "entityIndex" : "entity12489",
+  "entityUrl" : "http://dbpedia.org/resource/Isao_Tamagawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isao_Tamagawa) dbo:birthDate o'<1922-1-1>",
+    "2" : "s(Isao_Tamagawa) dbo:birthPlace o'<Shinjuku>",
+    "3" : "s(Isao_Tamagawa) dbo:deathDate o'<2004-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12490",
+  "entityUrl" : "http://dbpedia.org/resource/Irene_Sunters",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Irene_Sunters) dbo:birthDate o'<1928-02-29>",
+    "2" : "s(Irene_Sunters) dbo:birthDate o'<1928-2-29>",
+    "3" : "s(Irene_Sunters) dbo:birthName o'<Camillo Irene Sunters>",
+    "4" : "s(Irene_Sunters) dbo:birthPlace o'<Scotland>",
+    "5" : "s(Irene_Sunters) dbo:birthPlace o'<Gorbals>",
+    "6" : "s(Irene_Sunters) dbo:birthYear o'<1928>",
+    "7" : "s(Irene_Sunters) dbo:country o'<United_Kingdom>",
+    "8" : "s(Irene_Sunters) dbo:deathDate o'<2005-9-1>",
+    "9" : "s(Irene_Sunters) dbo:deathPlace o'<Scotland>",
+    "10" : "s(Irene_Sunters) dbo:deathPlace o'<Glasgow>",
+    "11" : "s(Irene_Sunters) dbo:deathYear o'<2005>",
+    "12" : "s(Irene_Sunters) dbo:imdbId o'<0839383>",
+    "13" : "s(Irene_Sunters) dbp:name o'<Irene Sunters>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12491",
+  "entityUrl" : "http://dbpedia.org/resource/Isabelle_Amyes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isabelle_Amyes) dbo:activeYearsStartYear o'<1975>",
+    "2" : "s(Isabelle_Amyes) dbo:alias o'<Isabelle Amyles>",
+    "3" : "s(Isabelle_Amyes) dbo:birthDate o'<1950-06-13>",
+    "4" : "s(Isabelle_Amyes) dbo:birthDate o'<1950-6-13>",
+    "5" : "s(Isabelle_Amyes) dbo:birthName o'<Isabelle Amyes>",
+    "6" : "s(Isabelle_Amyes) dbo:birthPlace o'<England>",
+    "7" : "s(Isabelle_Amyes) dbo:birthPlace o'<Grappenhall>",
+    "8" : "s(Isabelle_Amyes) dbo:birthPlace o'<Warrington>",
+    "9" : "s(Isabelle_Amyes) dbo:birthYear o'<1950>",
+    "10" : "s(Isabelle_Amyes) dbo:country o'<England>",
+    "11" : "s(Isabelle_Amyes) dbo:occupation o'<Writer>",
+    "12" : "s(Isabelle_Amyes) dbo:occupation o'<Isabelle_Amyes__1>",
+    "13" : "s(Isabelle_Amyes) dbo:occupation o'<Actress>",
+    "14" : "s(Isabelle_Amyes) dbp:imagesize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(isabelle amyes=Isabelle_Amyes) [born 13 june 1950 ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "1" : "isabelle amyes<Isabelle_Amyes> (born 13 june 1950) is an english actress<Actress> best known for her role as barbara 'babs' hunt in the british tv drama bad girls from 2000–03"
+  }
+}, {
+  "entityIndex" : "entity12492",
+  "entityUrl" : "http://dbpedia.org/resource/Ingrid_Oliver",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ingrid_Oliver) dbo:birthDate o'<1977-11-26>",
+    "2" : "s(Ingrid_Oliver) dbo:birthPlace o'<England>",
+    "3" : "s(Ingrid_Oliver) dbp:name o'<Ingrid Oliver>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12493",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Davidson_(scriptwriter)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Davidson_(scriptwriter)) dbo:country o'<United_Kingdom>",
+    "2" : "s(Ian_Davidson_(scriptwriter)) dbo:imdbId o'<0203349>",
+    "3" : "s(Ian_Davidson_(scriptwriter)) dbp:name o'<Ian Davidson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12494",
+  "entityUrl" : "http://dbpedia.org/resource/Isabelle_Corey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isabelle_Corey) dbo:birthDate o'<1939-5-29>",
+    "2" : "s(Isabelle_Corey) dbo:birthPlace o'<Metz>",
+    "3" : "s(Isabelle_Corey) dbo:deathDate o'<2011-2-6>",
+    "4" : "s(Isabelle_Corey) dbo:deathPlace o'<Crozon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12495",
+  "entityUrl" : "http://dbpedia.org/resource/Inga_Brooksby",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Inga_Brooksby) dbo:birthDate o'<1988-10-29>",
+    "2" : "s(Inga_Brooksby) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12496",
+  "entityUrl" : "http://dbpedia.org/resource/Isa_Quensel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isa_Quensel) dbo:birthDate o'<1905-9-21>",
+    "2" : "s(Isa_Quensel) dbo:birthPlace o'<Gothenburg>",
+    "3" : "s(Isa_Quensel) dbo:deathDate o'<1981-11-3>",
+    "4" : "s(Isa_Quensel) dbo:deathPlace o'<Solna_Municipality>",
+    "5" : "s(Isa_Quensel) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(isa quensel=Isa_Quensel) [created title role in ] o'<swedish=Sweden>"
+  },
+  "abstract" : {
+    "2" : "in 1939 isa quensel<Isa_Quensel> created the title role in the world premiere of erich wolfgang korngold's die kathrin at the royal swedish<Sweden> opera\n"
+  }
+}, {
+  "entityIndex" : "entity12497",
+  "entityUrl" : "http://dbpedia.org/resource/Iain_Mitchell",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12498",
+  "entityUrl" : "http://dbpedia.org/resource/Ingrid_Backlin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ingrid_Backlin) dbo:activeYearsEndYear o'<1983>",
+    "2" : "s(Ingrid_Backlin) dbo:activeYearsStartYear o'<1940>",
+    "3" : "s(Ingrid_Backlin) dbo:birthDate o'<1920-05-16>",
+    "4" : "s(Ingrid_Backlin) dbo:birthDate o'<1920-5-16>",
+    "5" : "s(Ingrid_Backlin) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Ingrid_Backlin) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Ingrid_Backlin) dbo:birthYear o'<1920>",
+    "8" : "s(Ingrid_Backlin) dbo:deathDate o'<2013-02-24>",
+    "9" : "s(Ingrid_Backlin) dbo:deathDate o'<2013-2-24>",
+    "10" : "s(Ingrid_Backlin) dbo:deathPlace o'<Sweden>",
+    "11" : "s(Ingrid_Backlin) dbo:deathYear o'<2013>",
+    "12" : "s(Ingrid_Backlin) dbo:nationality o'<Sweden>",
+    "13" : "s(Ingrid_Backlin) dbo:occupation o'<Actress>",
+    "14" : "s(Ingrid_Backlin) dbo:occupation o'<Ingrid_Backlin__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ingrid backlin=Ingrid_Backlin) [married to ] o'<actor=Actress>"
+  },
+  "abstract" : {
+    "3" : "ingrid backlin<Ingrid_Backlin> was married to actor<Actress> stig järrel, and is the mother of former member of parliament henrik s\n"
+  }
+}, {
+  "entityIndex" : "entity12499",
+  "entityUrl" : "http://dbpedia.org/resource/Isabelle_Sadoyan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isabelle_Sadoyan) dbo:birthDate o'<1928-05-12>",
+    "2" : "s(Isabelle_Sadoyan) dbo:birthDate o'<1928-5-12>",
+    "3" : "s(Isabelle_Sadoyan) dbo:birthPlace o'<Lyon>",
+    "4" : "s(Isabelle_Sadoyan) dbo:birthPlace o'<Lyon,_France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12500",
+  "entityUrl" : "http://dbpedia.org/resource/Isao_Yamagata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isao_Yamagata) dbo:birthDate o'<1915-07-25>",
+    "2" : "s(Isao_Yamagata) dbo:birthDate o'<1915-7-25>",
+    "3" : "s(Isao_Yamagata) dbo:birthPlace o'<London>",
+    "4" : "s(Isao_Yamagata) dbo:deathDate o'<1996-06-28>",
+    "5" : "s(Isao_Yamagata) dbo:deathDate o'<1996-6-28>",
+    "6" : "s(Isao_Yamagata) dbo:deathPlace o'<Fuchū,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12501",
+  "entityUrl" : "http://dbpedia.org/resource/Iain_Rattray",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Iain_Rattray) dbo:country o'<United_Kingdom>",
+    "2" : "s(Iain_Rattray) dbo:imdbId o'<0711922>",
+    "3" : "s(Iain_Rattray) dbp:name o'<Iain Rattray>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12502",
+  "entityUrl" : "http://dbpedia.org/resource/Ivar_K%C3%A5ge",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12503",
+  "entityUrl" : "http://dbpedia.org/resource/Itsuji_Itao__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Itsuji_Itao__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12504",
+  "entityUrl" : "http://dbpedia.org/resource/Iori_Nomizu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Iori_Nomizu) dbo:birthDate o'<1985-10-18>",
+    "2" : "s(Iori_Nomizu) dbo:birthPlace o'<Sapporo>",
+    "3" : "s(Iori_Nomizu) dbo:birthPlace o'<Sapporo,_Hokkaidō>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12505",
+  "entityUrl" : "http://dbpedia.org/resource/Ingvar_Kjellson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ingvar_Kjellson) dbo:birthDate o'<1923-5-20>",
+    "2" : "s(Ingvar_Kjellson) dbo:birthPlace o'<Kärna>",
+    "3" : "s(Ingvar_Kjellson) dbo:deathDate o'<2014-12-18>",
+    "4" : "s(Ingvar_Kjellson) dbo:deathPlace o'<Djursholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12506",
+  "entityUrl" : "http://dbpedia.org/resource/Irene_Lindh",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Irene_Lindh) dbo:birthDate o'<1945-10-13>",
+    "2" : "s(Irene_Lindh) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Irene_Lindh) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12507",
+  "entityUrl" : "http://dbpedia.org/resource/Ina_Clare",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ina_Clare) dbo:activeYearsEndYear o'<2010>",
+    "2" : "s(Ina_Clare) dbo:activeYearsStartYear o'<1972>",
+    "3" : "s(Ina_Clare) dbo:birthDate o'<1932-0-0>",
+    "4" : "s(Ina_Clare) dbo:birthPlace o'<England>",
+    "5" : "s(Ina_Clare) dbo:birthPlace o'<Windsor,_Berkshire>",
+    "6" : "s(Ina_Clare) dbo:birthYear o'<1932>",
+    "7" : "s(Ina_Clare) dbo:country o'<United_Kingdom>",
+    "8" : "s(Ina_Clare) dbo:deathDate o'<2010-10-30>",
+    "9" : "s(Ina_Clare) dbo:deathYear o'<2010>",
+    "10" : "s(Ina_Clare) dbo:occupation o'<Ina_Clare__1>",
+    "11" : "s(Ina_Clare) dbp:imagesize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ina clare=Ina_Clare) [born in ] o'<windsor=Windsor,_Berkshire>"
+  },
+  "abstract" : {
+    "3" : "ina clare<Ina_Clare> was born in windsor<Windsor,_Berkshire>, berkshire<Windsor,_Berkshire>, and got her first job as a dancer in a pantomime at the theatre royal<United_Kingdom> in windsor<Windsor,_Berkshire> at the age of sixteen\n"
+  }
+}, {
+  "entityIndex" : "entity12508",
+  "entityUrl" : "http://dbpedia.org/resource/Isako_Washio",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isako_Washio) dbo:birthDate o'<1967-04-01>",
+    "2" : "s(Isako_Washio) dbo:birthDate o'<1967-4-1>",
+    "3" : "s(Isako_Washio) dbo:birthPlace o'<Japan>",
+    "4" : "s(Isako_Washio) dbo:birthPlace o'<Niigata_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12509",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_Hempstead-Wright",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isaac_Hempstead-Wright) dbo:wikiPageRedirects o'<Isaac_Hempstead_Wright>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12510",
+  "entityUrl" : "http://dbpedia.org/resource/Ivy_Duke",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ivy_Duke) dbo:birthDate o'<1896-06-09>",
+    "2" : "s(Ivy_Duke) dbo:birthDate o'<1896-6-9>",
+    "3" : "s(Ivy_Duke) dbo:birthPlace o'<London>",
+    "4" : "s(Ivy_Duke) dbo:birthPlace o'<Kensington>",
+    "5" : "s(Ivy_Duke) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Ivy_Duke) dbo:deathDate o'<1937-11-08>",
+    "7" : "s(Ivy_Duke) dbo:deathDate o'<1937-11-8>",
+    "8" : "s(Ivy_Duke) dbo:deathPlace o'<London>",
+    "9" : "s(Ivy_Duke) dbo:deathPlace o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12511",
+  "entityUrl" : "http://dbpedia.org/resource/Isla_Bevan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isla_Bevan) dbo:birthDate o'<1910-1-1>",
+    "2" : "s(Isla_Bevan) dbo:deathDate o'<1976-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12512",
+  "entityUrl" : "http://dbpedia.org/resource/Ivy_Close",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ivy_Close) dbo:birthDate o'<1890-06-15>",
+    "2" : "s(Ivy_Close) dbo:birthDate o'<1890-6-15>",
+    "3" : "s(Ivy_Close) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(Ivy_Close) dbo:birthPlace o'<County_Durham>",
+    "5" : "s(Ivy_Close) dbo:birthPlace o'<Stockton-on-Tees>",
+    "6" : "s(Ivy_Close) dbo:deathDate o'<1968-12-04>",
+    "7" : "s(Ivy_Close) dbo:deathDate o'<1968-12-4>",
+    "8" : "s(Ivy_Close) dbo:deathPlace o'<Goring>",
+    "9" : "s(Ivy_Close) dbo:deathPlace o'<United_Kingdom>",
+    "10" : "s(Ivy_Close) dbo:deathPlace o'<Goring-on-Thames>",
+    "11" : "s(Ivy_Close) dbo:deathPlace o'<Oxfordshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12513",
+  "entityUrl" : "http://dbpedia.org/resource/Irene_Tripod",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12514",
+  "entityUrl" : "http://dbpedia.org/resource/Ivo_Dawson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ivo_Dawson) dbo:birthDate o'<1879-10-13>",
+    "2" : "s(Ivo_Dawson) dbo:deathDate o'<1934-3-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12515",
+  "entityUrl" : "http://dbpedia.org/resource/Ivy_Chen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ivy_Chen) dbo:birthDate o'<1982-11-12>",
+    "2" : "s(Ivy_Chen) dbo:birthPlace o'<New_Taipei_City>",
+    "3" : "s(Ivy_Chen) dbp:birthPlace o'<Taipei, Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12516",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Wilson_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Wilson_(actor)) dbo:activeYearsEndYear o'<1973>",
+    "2" : "s(Ian_Wilson_(actor)) dbo:activeYearsStartYear o'<1914>",
+    "3" : "s(Ian_Wilson_(actor)) dbo:birthDate o'<1901-07-02>",
+    "4" : "s(Ian_Wilson_(actor)) dbo:birthDate o'<1901-7-2>",
+    "5" : "s(Ian_Wilson_(actor)) dbo:birthName o'<Ian Macrae Hamish Wilson>",
+    "6" : "s(Ian_Wilson_(actor)) dbo:birthPlace o'<England>",
+    "7" : "s(Ian_Wilson_(actor)) dbo:birthPlace o'<London>",
+    "8" : "s(Ian_Wilson_(actor)) dbo:birthPlace o'<Hampstead>",
+    "9" : "s(Ian_Wilson_(actor)) dbo:birthYear o'<1901>",
+    "10" : "s(Ian_Wilson_(actor)) dbo:deathDate o'<1987-12-1>",
+    "11" : "s(Ian_Wilson_(actor)) dbo:deathPlace o'<Devon>",
+    "12" : "s(Ian_Wilson_(actor)) dbo:deathPlace o'<England>",
+    "13" : "s(Ian_Wilson_(actor)) dbo:deathPlace o'<Exeter>",
+    "14" : "s(Ian_Wilson_(actor)) dbo:deathYear o'<1987>",
+    "15" : "s(Ian_Wilson_(actor)) dbo:occupation o'<Ian_Wilson_(actor)__1>",
+    "16" : "s(Ian_Wilson_(actor)) dbp:imdbId o'<933509>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12517",
+  "entityUrl" : "http://dbpedia.org/resource/Iwa_Boman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Iwa_Boman) dbo:birthDate o'<1944-11-23>",
+    "2" : "s(Iwa_Boman) dbo:birthPlace o'<Sundsvall>",
+    "3" : "s(Iwa_Boman) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12518",
+  "entityUrl" : "http://dbpedia.org/resource/Ichiro_Sugai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ichiro_Sugai) dbo:birthDate o'<1907-07-25>",
+    "2" : "s(Ichiro_Sugai) dbo:birthDate o'<1907-7-25>",
+    "3" : "s(Ichiro_Sugai) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ichiro_Sugai) dbo:birthPlace o'<Kyoto>",
+    "5" : "s(Ichiro_Sugai) dbo:deathDate o'<1973-08-11>",
+    "6" : "s(Ichiro_Sugai) dbo:deathDate o'<1973-8-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12519",
+  "entityUrl" : "http://dbpedia.org/resource/Isidor_Torkar",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isidor_Torkar) dbo:birthDate o'<1960-8-17>",
+    "2" : "s(Isidor_Torkar) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12520",
+  "entityUrl" : "http://dbpedia.org/resource/Isabelle_Mergault",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Isabelle_Mergault) dbo:birthDate o'<1958-05-11>",
+    "2" : "s(Isabelle_Mergault) dbo:birthDate o'<1958-5-11>",
+    "3" : "s(Isabelle_Mergault) dbo:birthPlace o'<Aubervilliers>",
+    "4" : "s(Isabelle_Mergault) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12521",
+  "entityUrl" : "http://dbpedia.org/resource/Izumi_Kitta",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Izumi_Kitta) dbo:birthDate o'<1984-11-27>",
+    "2" : "s(Izumi_Kitta) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12522",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Hallard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Hallard) dbo:birthDate o'<1974-11-09>",
+    "2" : "s(Ian_Hallard) dbo:birthDate o'<1974-11-9>",
+    "3" : "s(Ian_Hallard) dbo:birthPlace o'<West_Midlands_(county)>",
+    "4" : "s(Ian_Hallard) dbo:birthPlace o'<Birmingham>",
+    "5" : "s(Ian_Hallard) dbp:name o'<Ian Hallard>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12523",
+  "entityUrl" : "http://dbpedia.org/resource/Ikumi_Hayama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ikumi_Hayama) dbo:birthDate o'<1984-11-17>",
+    "2" : "s(Ikumi_Hayama) dbo:birthPlace o'<Japan>",
+    "3" : "s(Ikumi_Hayama) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12524",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Saynor",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Saynor) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ian saynor=Ian_Saynor) [appeared in various tv ] o'<wales=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "ian saynor<Ian_Saynor> has appeared in various tv dramas set in wales<United_Kingdom>, including the film the corn is green and episodes of the district nurse, but is best known for playing merak in the 1979 doctor who serial the armageddon factor\n"
+  }
+}, {
+  "entityIndex" : "entity12525",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Fang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ian_Fang) dbo:birthDate o'<1989-12-13>",
+    "2" : "s(Ian_Fang) dbo:country o'<People's_Republic_of_China>",
+    "3" : "s(Ian_Fang) dbp:birthDate o'<1989-12-13>",
+    "4" : "s(Ian_Fang) dbp:birthName o'<Fang Wei Jie>",
+    "5" : "s(Ian_Fang) dbp:birthPlace o'<Shanghai, China>",
+    "6" : "s(Ian_Fang) dbp:occupation o'<Actor>",
+    "7" : "s(Ian_Fang) dbp:origin o'<China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12526",
+  "entityUrl" : "http://dbpedia.org/resource/Islah_Abdur_Rahman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Islah_Abdur_Rahman) dbo:wikiPageRedirects o'<Islah_Abdur-Rahman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

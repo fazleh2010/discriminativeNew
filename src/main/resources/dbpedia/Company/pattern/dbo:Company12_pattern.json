@@ -1,0 +1,19 @@
+[ {
+  "entityIndex" : "entity10808",
+  "entityUrl" : "http://dbpedia.org/resource/+Beryll",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(+Beryll) dbo:foundationPlace o'<Santa_Monica,_California>",
+    "2" : "s(+Beryll) dbo:foundedBy o'<Sigmar_Berg>",
+    "3" : "s(+Beryll) dbo:foundingYear o'<2006>",
+    "4" : "s(+Beryll) dbo:industry o'<Fashion_accessory>",
+    "5" : "s(+Beryll) dbo:numberOfLocations o'<500>",
+    "6" : "s(+Beryll) dbo:product o'<Designer_sunglasses>",
+    "7" : "s(+Beryll) dbo:product o'<Luxury_good>",
+    "8" : "s(+Beryll) dbo:type o'<Private_company>",
+    "9" : "s(+Beryll) dbp:keyPeople o'<Sigmar Berg – Chief Designer>",
+    "10" : "s(+Beryll) dbp:logo o'<130>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

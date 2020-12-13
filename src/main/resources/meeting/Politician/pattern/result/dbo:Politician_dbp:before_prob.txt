@@ -1,4 +1,0 @@
-id=23  property=dbp:before  
-first_elect  RB_VBN  multiply=0.008345  P(first_elect|dbp:before)=0.024837  P(dbp:before|first_elect)=0.336    
-defeat_at  VBN_IN  multiply=0.002556  P(defeat_at|dbp:before)=0.003253  P(dbp:before|defeat_at)=0.785714    
-

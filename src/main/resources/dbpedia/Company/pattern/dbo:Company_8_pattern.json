@@ -1,0 +1,101 @@
+[ {
+  "entityIndex" : "entity10855",
+  "entityUrl" : "http://dbpedia.org/resource/8x8",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(8x8) dbo:locationCity o'<San_Jose,_CA>",
+    "2" : "s(8x8) dbo:numberOfEmployees o'<800>",
+    "3" : "s(8x8) dbo:revenue o'<2.093E8>",
+    "4" : "s(8x8) dbo:type o'<Public_company>",
+    "5" : "s(8x8) dbp:industry o'<Cloud-based Business Communications Services>",
+    "6" : "s(8x8) dbp:keyPeople o'<CEO: Vikram Verma>",
+    "7" : "s(8x8) dbp:locationCountry o'<USA>",
+    "8" : "s(8x8) dbp:logo o'<File:8x8logo.png>",
+    "9" : "s(8x8) dbp:products o'<Business VoIP Phone Service>",
+    "10" : "s(8x8) dbp:products o'<Hosted Contact Centers>",
+    "11" : "s(8x8) dbp:products o'<Unified Communications>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10856",
+  "entityUrl" : "http://dbpedia.org/resource/84_Lumber",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(84_Lumber) dbo:industry o'<Retail>",
+    "2" : "s(84_Lumber) dbo:industry o'<Building_material>",
+    "3" : "s(84_Lumber) dbo:keyPerson o'<Joseph_A._Hardy_III>",
+    "4" : "s(84_Lumber) dbo:location o'<Eighty_Four,_Pennsylvania>",
+    "5" : "s(84_Lumber) dbo:revenue o'<2.5E9>",
+    "6" : "s(84_Lumber) dbo:type o'<Privately_held>",
+    "7" : "s(84_Lumber) dbp:bot o'<medic>",
+    "8" : "s(84_Lumber) dbp:date o'<June 2016>",
+    "9" : "s(84_Lumber) dbp:logo o'<File:84lumber.png>",
+    "10" : "s(84_Lumber) dbp:numEmployees o'<->",
+    "11" : "s(84_Lumber) dbp:products o'<Building materials and supplies>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10857",
+  "entityUrl" : "http://dbpedia.org/resource/888_Holdings",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(888_Holdings) dbo:foundingYear o'<1997>",
+    "2" : "s(888_Holdings) dbo:industry o'<Gambling>",
+    "3" : "s(888_Holdings) dbo:keyPerson o'<CEO>",
+    "4" : "s(888_Holdings) dbo:keyPerson o'<Chair_(official)>",
+    "5" : "s(888_Holdings) dbo:location o'<Gibraltar>",
+    "6" : "s(888_Holdings) dbo:netIncome o'<5.69E7>",
+    "7" : "s(888_Holdings) dbo:operatingIncome o'<8.0E7>",
+    "8" : "s(888_Holdings) dbo:revenue o'<4.547E8>",
+    "9" : "s(888_Holdings) dbo:type o'<Public_company>",
+    "10" : "s(888_Holdings) dbp:logo o'<150>",
+    "11" : "s(888_Holdings) dbp:subsid o'<Dragonfish>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10858",
+  "entityUrl" : "http://dbpedia.org/resource/80/20_Thinking",
+  "dboClass" : "dbo:Company",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10859",
+  "entityUrl" : "http://dbpedia.org/resource/85C_Bakery_Cafe",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(85C_Bakery_Cafe) dbo:foundingYear o'<2004>",
+    "2" : "s(85C_Bakery_Cafe) dbo:industry o'<Food>",
+    "3" : "s(85C_Bakery_Cafe) dbo:location o'<Taiwan>",
+    "4" : "s(85C_Bakery_Cafe) dbo:location o'<Taichung>",
+    "5" : "s(85C_Bakery_Cafe) dbp:keyPeople o'<Wu Cheng-Hsueh, President and Founder>",
+    "6" : "s(85C_Bakery_Cafe) dbp:p o'<85>",
+    "7" : "s(85C_Bakery_Cafe) dbp:products o'<Bread, cake, coffee, tea>",
+    "8" : "s(85C_Bakery_Cafe) dbp:slogan o'<\"Low Price Luxury\">",
+    "9" : "s(85C_Bakery_Cafe) dbp:t o'<85>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10860",
+  "entityUrl" : "http://dbpedia.org/resource/8-4",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(8-4) dbo:foundingDate o'<2005-10-05>",
+    "2" : "s(8-4) dbo:foundingYear o'<2005>",
+    "3" : "s(8-4) dbo:industry o'<Video_game_industry>",
+    "4" : "s(8-4) dbo:keyPerson o'<Chief_operating_officer>",
+    "5" : "s(8-4) dbo:keyPerson o'<Chief_executive_officer>",
+    "6" : "s(8-4) dbo:location o'<Japan>",
+    "7" : "s(8-4) dbo:location o'<Shibuya,_Tokyo>",
+    "8" : "s(8-4) dbo:numberOfEmployees o'<5>",
+    "9" : "s(8-4) dbo:service o'<Game_localization>",
+    "10" : "s(8-4) dbo:type o'<Limited_company>",
+    "11" : "s(8-4) dbp:logo o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

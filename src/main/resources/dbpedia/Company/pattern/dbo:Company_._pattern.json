@@ -1,0 +1,18 @@
+[ {
+  "entityIndex" : "entity10809",
+  "entityUrl" : "http://dbpedia.org/resource/...instore",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(...instore) dbo:extinctionYear o'<2009>",
+    "2" : "s(...instore) dbo:foundingYear o'<2003>",
+    "3" : "s(...instore) dbo:location o'<England>",
+    "4" : "s(...instore) dbo:location o'<United_Kingdom>",
+    "5" : "s(...instore) dbo:location o'<Huddersfield>",
+    "6" : "s(...instore) dbo:numberOfEmployees o'<5000>",
+    "7" : "s(...instore) dbo:type o'<Retail>",
+    "8" : "s(...instore) dbp:companySlogan o'<Shop Smart, Live Well>",
+    "9" : "s(...instore) dbp:logo o'<File:Instore-logo.png>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

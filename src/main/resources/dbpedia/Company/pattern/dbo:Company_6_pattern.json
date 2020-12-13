@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity10843",
+  "entityUrl" : "http://dbpedia.org/resource/615_Music",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(615_Music) dbo:foundingYear o'<1984>",
+    "2" : "s(615_Music) dbo:location o'<Tennessee>",
+    "3" : "s(615_Music) dbo:location o'<United_States>",
+    "4" : "s(615_Music) dbo:location o'<Nashville,_Tennessee>",
+    "5" : "s(615_Music) dbo:owner o'<Warner_Music_Group>",
+    "6" : "s(615_Music) dbo:owningCompany o'<Warner_Music_Group>",
+    "7" : "s(615_Music) dbo:parentCompany o'<Chappell_Music>",
+    "8" : "s(615_Music) dbp:industry o'<Broadcast Music Production>",
+    "9" : "s(615_Music) dbp:type o'<Subsidiary>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10844",
+  "entityUrl" : "http://dbpedia.org/resource/6GMOBILE",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(6GMOBILE) dbo:industry o'<Telecommunications>",
+    "2" : "s(6GMOBILE) dbo:locationCity o'<Amsterdam>",
+    "3" : "s(6GMOBILE) dbo:regionServed o'<Netherlands>",
+    "4" : "s(6GMOBILE) dbp:logo o'<200>",
+    "5" : "s(6GMOBILE) dbp:products o'<Mobile telecommunications>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10845",
+  "entityUrl" : "http://dbpedia.org/resource/6126_(clothing_line)",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(6126_(clothing_line)) dbo:foundedBy o'<Lindsay_Lohan>",
+    "2" : "s(6126_(clothing_line)) dbo:foundingDate o'<2008-07-11>",
+    "3" : "s(6126_(clothing_line)) dbo:foundingYear o'<2008>",
+    "4" : "s(6126_(clothing_line)) dbo:locationCity o'<New_York_City>",
+    "5" : "s(6126_(clothing_line)) dbo:locationCity o'<New_York_(state)>",
+    "6" : "s(6126_(clothing_line)) dbo:type o'<Subsidiary>",
+    "7" : "s(6126_(clothing_line)) dbp:locationCountry o'<U.S.>",
+    "8" : "s(6126_(clothing_line)) dbp:logo o'<File:6126_Collection_by_Lindsay_Lohan_(logo).jpg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10846",
+  "entityUrl" : "http://dbpedia.org/resource/6WIND",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(6WIND) dbo:foundingYear o'<2000>",
+    "2" : "s(6WIND) dbo:locationCity o'<Montigny-le-Bretonneux>",
+    "3" : "s(6WIND) dbp:founder o'<Eric Carmès>",
+    "4" : "s(6WIND) dbp:industry o'<Software>",
+    "5" : "s(6WIND) dbp:locationCountry o'<France>",
+    "6" : "s(6WIND) dbp:locations o'<China, Japan, South Korea and the United States>",
+    "7" : "s(6WIND) dbp:products o'<6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10847",
+  "entityUrl" : "http://dbpedia.org/resource/6fusion",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(6fusion) dbo:numberOfEmployees o'<35>",
+    "2" : "s(6fusion) dbp:industry o'<Cloud Services Brokerage>",
+    "3" : "s(6fusion) dbp:industry o'<Cloud computing>",
+    "4" : "s(6fusion) dbp:industry o'<Infrastructure-as-a-Service>",
+    "5" : "s(6fusion) dbp:location o'<Raleigh, NC, U.S.>",
+    "6" : "s(6fusion) dbp:owners o'<Grotech Ventures>",
+    "7" : "s(6fusion) dbp:owners o'<Intersouth Ventures>",
+    "8" : "s(6fusion) dbp:products o'<Cloud Resource Meter, Enterprise iNode, iNode Network>",
+    "9" : "s(6fusion) dbp:type o'<Privately owned>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10848",
+  "entityUrl" : "http://dbpedia.org/resource/6G_Internet_(company)",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(6G_Internet_(company)) dbo:industry o'<Telecommunications>",
+    "2" : "s(6G_Internet_(company)) dbo:locationCity o'<Burnley>",
+    "3" : "s(6G_Internet_(company)) dbo:product o'<Wireless_Internet>",
+    "4" : "s(6G_Internet_(company)) dbo:regionServed o'<United_Kingdom>",
+    "5" : "s(6G_Internet_(company)) dbp:logo o'<6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

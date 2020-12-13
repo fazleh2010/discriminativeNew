@@ -1,0 +1,2663 @@
+[ {
+  "entityIndex" : "entity11527",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Chatto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Chatto) dbo:birthDate o'<1957-04-22>",
+    "2" : "s(Daniel_Chatto) dbo:birthDate o'<1957-4-22>",
+    "3" : "s(Daniel_Chatto) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11528",
+  "entityUrl" : "http://dbpedia.org/resource/David_Dixon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Dixon) dbo:birthDate o'<1947-10-28>",
+    "2" : "s(David_Dixon) dbo:birthPlace o'<Derby>",
+    "3" : "s(David_Dixon) dbp:name o'<David Dixon>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(david dixon=David_Dixon) [born in nightingale ] o'<derby=Derby>"
+  },
+  "abstract" : {
+    "2" : "david dixon<David_Dixon> was born in the nightingale maternity home, derby<Derby>, near his father's shop in london road and brought up there before the family moved to normanton in 1959\n"
+  }
+}, {
+  "entityIndex" : "entity11529",
+  "entityUrl" : "http://dbpedia.org/resource/Deep_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Deep_Ng) dbo:birthDate o'<1983-6-13>",
+    "2" : "s(Deep_Ng) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Deep_Ng) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(deep ng=Deep_Ng) [winner of ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : "deep ng<Deep_Ng> is the winner of the 21st annual new talent singing awards hong kong<Hong_Kong> regional finals\n"
+  }
+}, {
+  "entityIndex" : "entity11530",
+  "entityUrl" : "http://dbpedia.org/resource/Doreen_Mantle",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Doreen_Mantle) dbo:birthDate o'<1930-1-1>",
+    "2" : "s(Doreen_Mantle) dbo:birthPlace o'<South_Africa>",
+    "3" : "s(Doreen_Mantle) dbo:country o'<United_Kingdom>",
+    "4" : "s(Doreen_Mantle) dbo:imdbId o'<0544140>",
+    "5" : "s(Doreen_Mantle) dbp:name o'<Doreen Mantle>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(doreen mantle=Doreen_Mantle) [born 1926doreen mendel in cape ] o'<union=United_Kingdom>",
+    "5" : "s(doreen mantle=Doreen_Mantle) [toured ] o'<britain=United_Kingdom>"
+  },
+  "abstract" : {
+    "1" : "doreen mantle<Doreen_Mantle> (born 1926,doreen mendel in cape town, cape province, union<United_Kingdom> of south<South_Africa> africa) is a south african-born<South_Africa> english<United_Kingdom> actress who is probably best known for her role as mrs jean warboys in one foot in the grave (1990–2000)",
+    "5" : "doreen mantle<Doreen_Mantle> also toured britain<United_Kingdom> in billy liar in the role of florence boothroyd and performed at the national<South_Africa> theatre in the voysey inheritance\n"
+  }
+}, {
+  "entityIndex" : "entity11531",
+  "entityUrl" : "http://dbpedia.org/resource/Danny_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Danny_Chan) dbo:birthDate o'<1958-9-7>",
+    "2" : "s(Danny_Chan) dbo:deathDate o'<1993-10-25>",
+    "3" : "s(Danny_Chan) dbp:birthPlace o'<British_Hong_Kong>",
+    "4" : "s(Danny_Chan) dbp:deathPlace o'<Queen_Mary_Hospital_(Hong_Kong)>",
+    "5" : "s(Danny_Chan) dbp:deathPlace o'<Pok_Fu_Lam>",
+    "6" : "s(Danny_Chan) dbp:deathPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11532",
+  "entityUrl" : "http://dbpedia.org/resource/Daiki_Nakamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daiki_Nakamura) dbo:birthDate o'<1962-12-15>",
+    "2" : "s(Daiki_Nakamura) dbo:birthDate o'<1962-12-25>",
+    "3" : "s(Daiki_Nakamura) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11533",
+  "entityUrl" : "http://dbpedia.org/resource/Dominic_Colenso",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dominic_Colenso) dbo:birthDate o'<1981-8-27>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11534",
+  "entityUrl" : "http://dbpedia.org/resource/Donnie_Yen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Donnie_Yen) dbo:birthDate o'<1963-7-27>",
+    "2" : "s(Donnie_Yen) dbo:birthPlace o'<Guangzhou>",
+    "3" : "s(Donnie_Yen) dbp:birthPlace o'<China>",
+    "4" : "s(Donnie_Yen) dbp:birthPlace o'<Guangzhou>",
+    "5" : "s(Donnie_Yen) dbp:birthPlace o'<Guangdong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11535",
+  "entityUrl" : "http://dbpedia.org/resource/Dyanne_Thorne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dyanne_Thorne) dbo:birthDate o'<1943-10-14>",
+    "2" : "s(Dyanne_Thorne) dbo:birthPlace o'<Connecticut>",
+    "3" : "s(Dyanne_Thorne) dbo:birthPlace o'<Greenwich>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11536",
+  "entityUrl" : "http://dbpedia.org/resource/Denise_Coffey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Denise_Coffey) dbo:birthDate o'<1936-12-12>",
+    "2" : "s(Denise_Coffey) dbo:birthPlace o'<England>",
+    "3" : "s(Denise_Coffey) dbo:birthPlace o'<Hampshire>",
+    "4" : "s(Denise_Coffey) dbo:birthPlace o'<Aldershot>",
+    "5" : "s(Denise_Coffey) dbo:birthYear o'<1936>",
+    "6" : "s(Denise_Coffey) dbo:country o'<England>",
+    "7" : "s(Denise_Coffey) dbo:imdbId o'<0168856>",
+    "8" : "s(Denise_Coffey) dbo:occupation o'<Denise_Coffey__1>",
+    "9" : "s(Denise_Coffey) dbp:name o'<Denise Coffey>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(denise coffey=Denise_Coffey) [born 12 december 1936 ] o'<aldershot=Aldershot>"
+  },
+  "abstract" : {
+    "1" : "denise coffey<Denise_Coffey> (born 12 december 1936, aldershot<Aldershot>, hampshire) is an english actress, director and playwright"
+  }
+}, {
+  "entityIndex" : "entity11537",
+  "entityUrl" : "http://dbpedia.org/resource/Daphne_Heard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daphne_Heard) dbo:birthDate o'<1904-08-01>",
+    "2" : "s(Daphne_Heard) dbo:birthDate o'<1904-8-1>",
+    "3" : "s(Daphne_Heard) dbo:birthName o'<Delia Phyllis Daphne Heard>",
+    "4" : "s(Daphne_Heard) dbo:birthPlace o'<Devon>",
+    "5" : "s(Daphne_Heard) dbo:birthPlace o'<Plymouth>",
+    "6" : "s(Daphne_Heard) dbo:birthYear o'<1904>",
+    "7" : "s(Daphne_Heard) dbo:country o'<England>",
+    "8" : "s(Daphne_Heard) dbo:deathDate o'<1983-06-22>",
+    "9" : "s(Daphne_Heard) dbo:deathDate o'<1983-6-22>",
+    "10" : "s(Daphne_Heard) dbo:deathPlace o'<Bristol>",
+    "11" : "s(Daphne_Heard) dbo:deathYear o'<1983>",
+    "12" : "s(Daphne_Heard) dbo:imdbId o'<0372444>",
+    "13" : "s(Daphne_Heard) dbo:occupation o'<Actress>",
+    "14" : "s(Daphne_Heard) dbo:occupation o'<Daphne_Heard__1>",
+    "15" : "s(Daphne_Heard) dbp:name o'<Daphne Heard>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(daphne heard=Daphne_Heard) [1 august 1904  22 ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "1" : "daphne heard<Daphne_Heard> (1 august 1904 – 22 june 1983) was an english actress<Actress>"
+  }
+}, {
+  "entityIndex" : "entity11538",
+  "entityUrl" : "http://dbpedia.org/resource/David_Horovitch",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Horovitch) dbo:birthDate o'<1945-08-11>",
+    "2" : "s(David_Horovitch) dbo:birthDate o'<1945-8-11>",
+    "3" : "s(David_Horovitch) dbo:birthPlace o'<UK>",
+    "4" : "s(David_Horovitch) dbo:birthPlace o'<England>",
+    "5" : "s(David_Horovitch) dbo:birthPlace o'<London>",
+    "6" : "s(David_Horovitch) dbo:birthYear o'<1945>",
+    "7" : "s(David_Horovitch) dbo:country o'<England>",
+    "8" : "s(David_Horovitch) dbo:education o'<St_Christopher_School,_Letchworth>",
+    "9" : "s(David_Horovitch) dbo:education o'<Central_School_of_Speech_and_Drama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11539",
+  "entityUrl" : "http://dbpedia.org/resource/Donnelly_Rhodes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Donnelly_Rhodes) dbo:birthDate o'<1937-12-04>",
+    "2" : "s(Donnelly_Rhodes) dbo:birthDate o'<1937-12-4>",
+    "3" : "s(Donnelly_Rhodes) dbo:birthPlace o'<Manitoba>",
+    "4" : "s(Donnelly_Rhodes) dbo:birthPlace o'<Winnipeg>",
+    "5" : "s(Donnelly_Rhodes) dbo:birthPlace o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11540",
+  "entityUrl" : "http://dbpedia.org/resource/Dorris_Bowdon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dorris_Bowdon) dbo:birthDate o'<1914-12-27>",
+    "2" : "s(Dorris_Bowdon) dbo:birthPlace o'<Coldwater,_Mississippi>",
+    "3" : "s(Dorris_Bowdon) dbo:birthPlace o'<Mississippi>",
+    "4" : "s(Dorris_Bowdon) dbo:deathDate o'<2005-08-09>",
+    "5" : "s(Dorris_Bowdon) dbo:deathDate o'<2005-8-9>",
+    "6" : "s(Dorris_Bowdon) dbo:deathPlace o'<Los_Angeles>",
+    "7" : "s(Dorris_Bowdon) dbo:deathPlace o'<Los_Angeles,_California>",
+    "8" : "s(Dorris_Bowdon) dbp:name o'<Dorris Bowdon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11541",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Wu) dbo:birthDate o'<1974-9-30>",
+    "2" : "s(Daniel_Wu) dbo:birthPlace o'<Berkeley,_California>",
+    "3" : "s(Daniel_Wu) dbp:birthPlace o'<Berkeley, California, United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11542",
+  "entityUrl" : "http://dbpedia.org/resource/Deborah_Grant",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Deborah_Grant) dbo:birthDate o'<1947-02-22>",
+    "2" : "s(Deborah_Grant) dbo:birthDate o'<1947-2-22>",
+    "3" : "s(Deborah_Grant) dbo:birthPlace o'<London>",
+    "4" : "s(Deborah_Grant) dbo:birthPlace o'<London,_England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(deborah grant=Deborah_Grant) [trained at central school ] o'<london=London,_England>"
+  },
+  "abstract" : {
+    "2" : "deborah grant<Deborah_Grant> trained at the central school of speech and drama and appeared on stage at the bristol old vic and in the west end of london<London,_England>\n"
+  }
+}, {
+  "entityIndex" : "entity11543",
+  "entityUrl" : "http://dbpedia.org/resource/Danny_Chan_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Danny_Chan_(actor)) dbo:wikiPageRedirects o'<Danny_Chan_(disambiguation)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11544",
+  "entityUrl" : "http://dbpedia.org/resource/David_Raven_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Raven_(actor)) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11545",
+  "entityUrl" : "http://dbpedia.org/resource/Dicky_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dicky_Cheung) dbo:birthDate o'<1965-2-8>",
+    "2" : "s(Dicky_Cheung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Dicky_Cheung) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11546",
+  "entityUrl" : "http://dbpedia.org/resource/Denise_Perrier",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Denise_Perrier) dbo:birthDate o'<1935-1-1>",
+    "2" : "s(Denise_Perrier) dbo:birthPlace o'<Lyon>",
+    "3" : "s(Denise_Perrier) dbp:name o'<Denise Perrier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11547",
+  "entityUrl" : "http://dbpedia.org/resource/Denise_Ho",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Denise_Ho) dbo:birthDate o'<1977-0-0>",
+    "2" : "s(Denise_Ho) dbo:birthPlace o'<British_Hong_Kong>",
+    "3" : "s(Denise_Ho) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Denise_Ho) dbp:name o'<Denise Ho>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11548",
+  "entityUrl" : "http://dbpedia.org/resource/Dayo_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dayo_Wong) dbo:birthDate o'<1960-9-5>",
+    "2" : "s(Dayo_Wong) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Dayo_Wong) dbp:birthPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(dayo wong=Dayo_Wong) [began his career in ] o'<hong kong=Hong_Kong>",
+    "23" : "s(dayo wong=Dayo_Wong) [introduced stand up comedy to ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "4" : "dayo wong<Dayo_Wong> began his career in the entertainment industry in hong kong<Hong_Kong> in 1984, but dayo wong<Dayo_Wong> is best known for his works in live stand-up comedy which dayo wong<Dayo_Wong> started performing regularly since 1990\n",
+    "23" : "dayo wong<Dayo_Wong> introduced stand up comedy to hong kong<Hong_Kong>\n"
+  }
+}, {
+  "entityIndex" : "entity11549",
+  "entityUrl" : "http://dbpedia.org/resource/Daphne_Rye",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daphne_Rye) dbo:birthDate o'<1916-0-0>",
+    "2" : "s(Daphne_Rye) dbo:country o'<England>",
+    "3" : "s(Daphne_Rye) dbo:deathDate o'<1992-11-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11550",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Ekborg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dan_Ekborg) dbo:birthDate o'<1955-11-23>",
+    "2" : "s(Dan_Ekborg) dbo:birthName o'<Dan Peder Clemens Ekborg>",
+    "3" : "s(Dan_Ekborg) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Dan_Ekborg) dbo:birthYear o'<1955>",
+    "5" : "s(Dan_Ekborg) dbo:nationality o'<Sweden>",
+    "6" : "s(Dan_Ekborg) dbo:occupation o'<Dan_Ekborg__1>",
+    "7" : "s(Dan_Ekborg) dbo:occupation o'<Actor>",
+    "8" : "s(Dan_Ekborg) dbo:parent o'<Lars_Ekborg>",
+    "9" : "s(Dan_Ekborg) dbo:relative o'<Anders_Ekborg>",
+    "10" : "s(Dan_Ekborg) dbo:stateOfOrigin o'<Sweden>",
+    "11" : "s(Dan_Ekborg) dbp:children o'<4>",
+    "12" : "s(Dan_Ekborg) dbp:spouse o'<1988>",
+    "13" : "s(Dan_Ekborg) dbp:spouse o'<1991>",
+    "14" : "s(Dan_Ekborg) dbp:spouse o'<1992>",
+    "15" : "s(Dan_Ekborg) dbp:spouse o'<1995>",
+    "16" : "s(Dan_Ekborg) dbp:spouse o'<1996>",
+    "17" : "s(Dan_Ekborg) dbp:spouse o'<1999>",
+    "18" : "s(Dan_Ekborg) dbp:spouse o'<2016>",
+    "19" : "s(Dan_Ekborg) dbp:spouse o'<Die Asplund>",
+    "20" : "s(Dan_Ekborg) dbp:spouse o'<Emma Svedlund>",
+    "21" : "s(Dan_Ekborg) dbp:spouse o'<Kao Lindström>",
+    "22" : "s(Dan_Ekborg) dbp:spouse o'<Malin Svensson>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(dan ekborg=Dan_Ekborg) [son of ] o'<actor=Actor>",
+    "3" : "s(dan ekborg=Dan_Ekborg) [starred in many of ] o'<swedish=Sweden>"
+  },
+  "abstract" : {
+    "2" : "dan ekborg<Dan_Ekborg> is the son of actor<Actor> lars ekborg<Lars_Ekborg> and older brother of actor<Actor> anders ekborg<Anders_Ekborg>\n",
+    "3" : "dan ekborg<Dan_Ekborg> has starred in many of the swedish<Sweden> jönssonligan films\n"
+  }
+}, {
+  "entityIndex" : "entity11551",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_King",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dennis_King) dbo:birthDate o'<1897-11-02>",
+    "2" : "s(Dennis_King) dbo:birthDate o'<1897-11-2>",
+    "3" : "s(Dennis_King) dbo:birthPlace o'<England>",
+    "4" : "s(Dennis_King) dbo:birthPlace o'<Warwickshire>",
+    "5" : "s(Dennis_King) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "6" : "s(Dennis_King) dbo:birthPlace o'<Coventry,_Warwickshire>",
+    "7" : "s(Dennis_King) dbo:deathDate o'<1971-05-21>",
+    "8" : "s(Dennis_King) dbo:deathDate o'<1971-5-21>",
+    "9" : "s(Dennis_King) dbo:deathPlace o'<New_York_City>",
+    "10" : "s(Dennis_King) dbo:deathPlace o'<New_York_City,_New_York,_USA>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11552",
+  "entityUrl" : "http://dbpedia.org/resource/Dany_Verissimo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dany_Verissimo) dbo:birthDate o'<1982-06-27>",
+    "2" : "s(Dany_Verissimo) dbo:birthDate o'<1982-6-27>",
+    "3" : "s(Dany_Verissimo) dbo:birthPlace o'<Vitry-sur-Seine>",
+    "4" : "s(Dany_Verissimo) dbo:birthPlace o'<France>",
+    "5" : "s(Dany_Verissimo) dbo:height o'<160.0>",
+    "6" : "s(Dany_Verissimo) dbp:name o'<Dany Verissimo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11553",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Seale",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Douglas_Seale) dbo:birthDate o'<1913-10-28>",
+    "2" : "s(Douglas_Seale) dbo:birthPlace o'<England>",
+    "3" : "s(Douglas_Seale) dbo:birthPlace o'<London>",
+    "4" : "s(Douglas_Seale) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Douglas_Seale) dbo:deathDate o'<1999-06-13>",
+    "6" : "s(Douglas_Seale) dbo:deathDate o'<1999-6-13>",
+    "7" : "s(Douglas_Seale) dbo:deathPlace o'<United_States>",
+    "8" : "s(Douglas_Seale) dbo:deathPlace o'<New_York_City>",
+    "9" : "s(Douglas_Seale) dbo:deathPlace o'<New_York_(state)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11554",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Emilfork",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Emilfork) dbo:birthDate o'<1924-04-07>",
+    "2" : "s(Daniel_Emilfork) dbo:birthDate o'<1924-4-7>",
+    "3" : "s(Daniel_Emilfork) dbo:birthPlace o'<Providencia,_Chile>",
+    "4" : "s(Daniel_Emilfork) dbo:deathDate o'<2006-10-17>",
+    "5" : "s(Daniel_Emilfork) dbo:deathPlace o'<Paris>",
+    "6" : "s(Daniel_Emilfork) dbo:deathPlace o'<Paris,_France>",
+    "7" : "s(Daniel_Emilfork) dbp:name o'<Daniel Emilfork>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11555",
+  "entityUrl" : "http://dbpedia.org/resource/Deric_Wan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Deric_Wan) dbo:birthDate o'<1964-11-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11556",
+  "entityUrl" : "http://dbpedia.org/resource/Dany_Robin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dany_Robin) dbo:birthDate o'<1927-04-14>",
+    "2" : "s(Dany_Robin) dbo:birthDate o'<1927-4-14>",
+    "3" : "s(Dany_Robin) dbo:birthPlace o'<Hauts-de-Seine>",
+    "4" : "s(Dany_Robin) dbo:birthPlace o'<Clamart>",
+    "5" : "s(Dany_Robin) dbo:birthPlace o'<France>",
+    "6" : "s(Dany_Robin) dbo:birthPlace o'<Île-de-France_(region)>",
+    "7" : "s(Dany_Robin) dbo:deathDate o'<1995-05-25>",
+    "8" : "s(Dany_Robin) dbo:deathDate o'<1995-5-25>",
+    "9" : "s(Dany_Robin) dbo:deathPlace o'<Paris>",
+    "10" : "s(Dany_Robin) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11557",
+  "entityUrl" : "http://dbpedia.org/resource/David_Ross_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Ross_(actor)) dbo:activeYearsStartYear o'<1974>",
+    "2" : "s(David_Ross_(actor)) dbo:birthDate o'<1945-1-1>",
+    "3" : "s(David_Ross_(actor)) dbo:birthPlace o'<Blackburn>",
+    "4" : "s(David_Ross_(actor)) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(David_Ross_(actor)) dbo:birthYear o'<1945>",
+    "6" : "s(David_Ross_(actor)) dbo:country o'<England>",
+    "7" : "s(David_Ross_(actor)) dbo:imdbId o'<0743335>",
+    "8" : "s(David_Ross_(actor)) dbo:occupation o'<David_Ross_(actor)__1>",
+    "9" : "s(David_Ross_(actor)) dbp:name o'<David Ross>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11558",
+  "entityUrl" : "http://dbpedia.org/resource/David_Dencik",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Dencik) dbo:birthDate o'<1974-10-31>",
+    "2" : "s(David_Dencik) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(David_Dencik) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11559",
+  "entityUrl" : "http://dbpedia.org/resource/David_Brett",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Brett) dbo:birthPlace o'<Coalville>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11560",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Kok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Kok) dbo:birthDate o'<1964-11-18>",
+    "2" : "s(Derek_Kok) dbp:birthPlace o'<Panyu_District>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11561",
+  "entityUrl" : "http://dbpedia.org/resource/David_Gooderson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Gooderson) dbo:birthDate o'<1941-02-24>",
+    "2" : "s(David_Gooderson) dbo:birthDate o'<1941-2-24>",
+    "3" : "s(David_Gooderson) dbo:birthPlace o'<Lahore>",
+    "4" : "s(David_Gooderson) dbo:birthPlace o'<British_India>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11562",
+  "entityUrl" : "http://dbpedia.org/resource/Dru_Berrymore",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dru_Berrymore) dbo:birthDate o'<1969-08-11>",
+    "2" : "s(Dru_Berrymore) dbo:birthDate o'<1969-8-11>",
+    "3" : "s(Dru_Berrymore) dbo:birthPlace o'<Berlin>",
+    "4" : "s(Dru_Berrymore) dbo:birthPlace o'<East_Berlin>",
+    "5" : "s(Dru_Berrymore) dbo:birthPlace o'<East_Germany>",
+    "6" : "s(Dru_Berrymore) dbo:height o'<170.18>",
+    "7" : "s(Dru_Berrymore) dbo:weight o'<49.896>",
+    "8" : "s(Dru_Berrymore) dbp:name o'<Dru Berrymore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11563",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Boulanger",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Boulanger) dbo:birthDate o'<1922-1-24>",
+    "2" : "s(Daniel_Boulanger) dbo:birthPlace o'<Compiègne>",
+    "3" : "s(Daniel_Boulanger) dbo:deathDate o'<2014-10-27>",
+    "4" : "s(Daniel_Boulanger) dbo:deathPlace o'<Senlis>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11564",
+  "entityUrl" : "http://dbpedia.org/resource/Diana_Pang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Diana_Pang) dbo:birthDate o'<1972-11-10>",
+    "2" : "s(Diana_Pang) dbo:birthPlace o'<Changsha>",
+    "3" : "s(Diana_Pang) dbp:birthPlace o'<Hunan>",
+    "4" : "s(Diana_Pang) dbp:birthPlace o'<Changsha>",
+    "5" : "s(Diana_Pang) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(diana pang=Diana_Pang) [member of ] o'<beijing=People's_Republic_of_China>",
+    "4" : "s(diana pang=Diana_Pang) [won miss ] o'<china=People's_Republic_of_China>",
+    "5" : "s(diana pang=Diana_Pang) [moved to ] o'<mainland china=People's_Republic_of_China>"
+  },
+  "abstract" : {
+    "2" : "diana pang<Diana_Pang> was a member of beijing<People's_Republic_of_China> ballet troupe for three years (1990)\n",
+    "4" : "diana pang<Diana_Pang> won miss china<People's_Republic_of_China> usa\n",
+    "5" : "diana pang<Diana_Pang> moved to mainland china<People's_Republic_of_China> and starred in a canadian film chinese chocolate (1994), then moved to hong kong, with her debut film being wong jing's 1995 the saint of the gamblers\n"
+  }
+}, {
+  "entityIndex" : "entity11565",
+  "entityUrl" : "http://dbpedia.org/resource/David_Michaels_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Michaels_(actor)) dbo:birthDate o'<1964-1-1>",
+    "2" : "s(David_Michaels_(actor)) dbo:birthPlace o'<Manchester>",
+    "3" : "s(David_Michaels_(actor)) dbo:country o'<England>",
+    "4" : "s(David_Michaels_(actor)) dbo:imdbId o'<0584315>",
+    "5" : "s(David_Michaels_(actor)) dbp:name o'<David Michaels>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11566",
+  "entityUrl" : "http://dbpedia.org/resource/Darry_Cowl",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Darry_Cowl) dbo:birthDate o'<1925-8-27>",
+    "2" : "s(Darry_Cowl) dbo:birthPlace o'<Vittel>",
+    "3" : "s(Darry_Cowl) dbo:deathDate o'<2006-2-14>",
+    "4" : "s(Darry_Cowl) dbo:deathPlace o'<Neuilly-sur-Seine>",
+    "5" : "s(Darry_Cowl) dbp:name o'<Darry Cowl>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11567",
+  "entityUrl" : "http://dbpedia.org/resource/Dasmond_Koh",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dasmond_Koh) dbo:activeYearsStartYear o'<1997>",
+    "2" : "s(Dasmond_Koh) dbo:alias o'<荣少>",
+    "3" : "s(Dasmond_Koh) dbo:birthDate o'<1972-2-22>",
+    "4" : "s(Dasmond_Koh) dbo:country o'<People's_Republic_of_China>",
+    "5" : "s(Dasmond_Koh) dbo:occupation o'<Radio_DJ>",
+    "6" : "s(Dasmond_Koh) dbp:birthDate o'<1972-02-22>",
+    "7" : "s(Dasmond_Koh) dbp:birthName o'<Koh Chin Eng>",
+    "8" : "s(Dasmond_Koh) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11568",
+  "entityUrl" : "http://dbpedia.org/resource/Dion_Lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dion_Lam) dbp:name o'<Dion Lam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11569",
+  "entityUrl" : "http://dbpedia.org/resource/Debby_Bishop",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Debby_Bishop) dbo:country o'<United_Kingdom>",
+    "2" : "s(Debby_Bishop) dbo:imdbId o'<0084033>",
+    "3" : "s(Debby_Bishop) dbp:name o'<Debby Bishop>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(debby bishop=Debby_Bishop) [started professional acting career ] o'<london=United_Kingdom>",
+    "12" : "s(debby bishop=Debby_Bishop) [patron of ] o'<london=United_Kingdom>"
+  },
+  "abstract" : {
+    "3" : "debby bishop<Debby_Bishop> started her professional acting career at the original albany empire theatre in deptford, south london<United_Kingdom> in 1978 where debby bishop<Debby_Bishop> first appeared on stage in a number of shows produced by \"the combination\" which was the resident theatre company there\n",
+    "12" : "debby bishop<Debby_Bishop> has been a patron of montage theatre arts in london<United_Kingdom> since 2005, along with fellow british actress sylvestra le touzel\n"
+  }
+}, {
+  "entityIndex" : "entity11570",
+  "entityUrl" : "http://dbpedia.org/resource/David_Frankham",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Frankham) dbo:birthDate o'<1926-02-16>",
+    "2" : "s(David_Frankham) dbo:birthDate o'<1926-2-16>",
+    "3" : "s(David_Frankham) dbo:birthPlace o'<Gillingham,_Kent>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11571",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Newark",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Newark) dbo:activeYearsEndYear o'<1996>",
+    "2" : "s(Derek_Newark) dbo:activeYearsStartYear o'<1961>",
+    "3" : "s(Derek_Newark) dbo:birthDate o'<1933-06-08>",
+    "4" : "s(Derek_Newark) dbo:birthDate o'<1933-6-8>",
+    "5" : "s(Derek_Newark) dbo:birthName o'<Derek John Newark>",
+    "6" : "s(Derek_Newark) dbo:birthPlace o'<England>",
+    "7" : "s(Derek_Newark) dbo:birthPlace o'<Great_Yarmouth>",
+    "8" : "s(Derek_Newark) dbo:birthPlace o'<Norfolk>",
+    "9" : "s(Derek_Newark) dbo:birthYear o'<1933>",
+    "10" : "s(Derek_Newark) dbo:deathCause o'<Liver_failure>",
+    "11" : "s(Derek_Newark) dbo:deathDate o'<1998-08-11>",
+    "12" : "s(Derek_Newark) dbo:deathDate o'<1998-8-11>",
+    "13" : "s(Derek_Newark) dbo:deathPlace o'<England>",
+    "14" : "s(Derek_Newark) dbo:deathPlace o'<London>",
+    "15" : "s(Derek_Newark) dbo:deathYear o'<1998>",
+    "16" : "s(Derek_Newark) dbo:occupation o'<Derek_Newark__1>",
+    "17" : "s(Derek_Newark) dbo:occupation o'<Actor>",
+    "18" : "s(Derek_Newark) dbp:imagesize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11572",
+  "entityUrl" : "http://dbpedia.org/resource/Deborah_Manship",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Deborah_Manship) dbo:birthDate o'<1953-9-25>",
+    "2" : "s(Deborah_Manship) dbo:country o'<United_Kingdom>",
+    "3" : "s(Deborah_Manship) dbo:imdbId o'<1524102>",
+    "4" : "s(Deborah_Manship) dbp:name o'<Deborah Manship>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11573",
+  "entityUrl" : "http://dbpedia.org/resource/Dean_Harris",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dean_Harris) dbo:birthName o'<Dean Harris>",
+    "2" : "s(Dean_Harris) dbo:country o'<United_Kingdom>",
+    "3" : "s(Dean_Harris) dbo:imdbId o'<0364603>",
+    "4" : "s(Dean_Harris) dbo:knownFor o'<Acting>",
+    "5" : "s(Dean_Harris) dbo:partner o'<Katy_Manning>",
+    "6" : "s(Dean_Harris) dbp:children o'<Beau Franklin-Harris>",
+    "7" : "s(Dean_Harris) dbp:children o'<Jonathan Manning-Harris, Georgina Manning-Harris>",
+    "8" : "s(Dean_Harris) dbp:name o'<Dean Harris>",
+    "9" : "s(Dean_Harris) dbp:nationality o'<English>",
+    "10" : "s(Dean_Harris) dbp:spouse o'<Karen Harris>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(dean harris=Dean_Harris) [began his acting career in ] o'<the united kingdom=United_Kingdom>"
+  },
+  "abstract" : {
+    "1" : "dean harris<Dean_Harris> began his acting career in 1966; the early years spent working 'in the round', in weekly and fortnightly repertory theatres, canadian stock, touring the united kingdom<United_Kingdom>, canada and zimbabwe"
+  }
+}, {
+  "entityIndex" : "entity11574",
+  "entityUrl" : "http://dbpedia.org/resource/Dai_Matsumoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dai_Matsumoto) dbo:birthDate o'<1959-06-01>",
+    "2" : "s(Dai_Matsumoto) dbo:birthDate o'<1959-6-1>",
+    "3" : "s(Dai_Matsumoto) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11575",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Coonan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Coonan) dbo:birthDate o'<1974-11-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11576",
+  "entityUrl" : "http://dbpedia.org/resource/Devang_Patel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Devang_Patel) dbo:birthDate o'<1970-1-1>",
+    "2" : "s(Devang_Patel) dbp:birthPlace o'<Gujarat,_India>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11577",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Li",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Don_Li) dbo:birthDate o'<1982-1-25>",
+    "2" : "s(Don_Li) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11578",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Cunningham",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dan_Cunningham) dbo:birthDate o'<1917-1-1>",
+    "2" : "s(Dan_Cunningham) dbo:deathDate o'<2001-9-1>",
+    "3" : "s(Dan_Cunningham) dbo:imdbId o'<0192278>",
+    "4" : "s(Dan_Cunningham) dbp:name o'<Dan Cunningham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11579",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Deadman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Deadman) dbo:birthDate o'<1940-03-11>",
+    "2" : "s(Derek_Deadman) dbo:birthDate o'<1940-5-1>",
+    "3" : "s(Derek_Deadman) dbo:birthPlace o'<London>",
+    "4" : "s(Derek_Deadman) dbo:birthPlace o'<Fulham>",
+    "5" : "s(Derek_Deadman) dbo:deathDate o'<2014-11-22>",
+    "6" : "s(Derek_Deadman) dbo:deathPlace o'<France>",
+    "7" : "s(Derek_Deadman) dbo:deathPlace o'<Frespech>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11580",
+  "entityUrl" : "http://dbpedia.org/resource/David_Verrey",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11581",
+  "entityUrl" : "http://dbpedia.org/resource/Daizen_Shishido",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daizen_Shishido) dbo:birthDate o'<1929-11-24>",
+    "2" : "s(Daizen_Shishido) dbo:birthPlace o'<Fukushima_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11582",
+  "entityUrl" : "http://dbpedia.org/resource/Deborah_Norton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Deborah_Norton) dbo:birthDate o'<1943-1-1>",
+    "2" : "s(Deborah_Norton) dbo:birthPlace o'<London>",
+    "3" : "s(Deborah_Norton) dbo:birthPlace o'<Croydon>",
+    "4" : "s(Deborah_Norton) dbp:name o'<Deborah Norton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11583",
+  "entityUrl" : "http://dbpedia.org/resource/Dave_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dave_Wong) dbo:wikiPageRedirects o'<Dave_Wang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11584",
+  "entityUrl" : "http://dbpedia.org/resource/Declan_Mulholland",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Declan_Mulholland) dbo:birthDate o'<1932-12-06>",
+    "2" : "s(Declan_Mulholland) dbo:birthDate o'<1932-12-6>",
+    "3" : "s(Declan_Mulholland) dbo:birthPlace o'<Belfast>",
+    "4" : "s(Declan_Mulholland) dbo:birthPlace o'<Northern_Ireland>",
+    "5" : "s(Declan_Mulholland) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Declan_Mulholland) dbo:deathDate o'<1999-06-29>",
+    "7" : "s(Declan_Mulholland) dbo:deathDate o'<1999-6-29>",
+    "8" : "s(Declan_Mulholland) dbo:deathPlace o'<England>",
+    "9" : "s(Declan_Mulholland) dbo:deathPlace o'<London>",
+    "10" : "s(Declan_Mulholland) dbo:deathPlace o'<United_Kingdom>",
+    "11" : "s(Declan_Mulholland) dbp:name o'<Declan Mulholland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11585",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Knight_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Don_Knight_(actor)) dbo:birthDate o'<1933-02-16>",
+    "2" : "s(Don_Knight_(actor)) dbo:birthDate o'<1933-2-16>",
+    "3" : "s(Don_Knight_(actor)) dbo:birthPlace o'<England>",
+    "4" : "s(Don_Knight_(actor)) dbo:birthPlace o'<Manchester>",
+    "5" : "s(Don_Knight_(actor)) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Don_Knight_(actor)) dbo:birthPlace o'<Lancashire>",
+    "7" : "s(Don_Knight_(actor)) dbo:deathDate o'<1997-08-18>",
+    "8" : "s(Don_Knight_(actor)) dbo:deathDate o'<1997-8-18>",
+    "9" : "s(Don_Knight_(actor)) dbo:deathPlace o'<United_States>",
+    "10" : "s(Don_Knight_(actor)) dbo:deathPlace o'<Squaw_Valley,_Fresno_County,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11586",
+  "entityUrl" : "http://dbpedia.org/resource/Dale_Meeks",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dale_Meeks) dbo:activeYearsStartYear o'<1990>",
+    "2" : "s(Dale_Meeks) dbo:birthDate o'<1975-1-1>",
+    "3" : "s(Dale_Meeks) dbo:birthName o'<Dale Meeks>",
+    "4" : "s(Dale_Meeks) dbo:birthPlace o'<UK>",
+    "5" : "s(Dale_Meeks) dbo:birthPlace o'<England>",
+    "6" : "s(Dale_Meeks) dbo:birthPlace o'<South_Shields>",
+    "7" : "s(Dale_Meeks) dbo:birthPlace o'<Tyne_and_Wear>",
+    "8" : "s(Dale_Meeks) dbo:birthYear o'<1975>",
+    "9" : "s(Dale_Meeks) dbo:country o'<United_Kingdom>",
+    "10" : "s(Dale_Meeks) dbo:imdbId o'<0576137>",
+    "11" : "s(Dale_Meeks) dbo:occupation o'<Production_designer>",
+    "12" : "s(Dale_Meeks) dbo:occupation o'<Dale_Meeks__1>",
+    "13" : "s(Dale_Meeks) dbo:occupation o'<Actor>",
+    "14" : "s(Dale_Meeks) dbp:imagesize o'<200>",
+    "15" : "s(Dale_Meeks) dbp:name o'<Dale Meeks>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(dale meeks=Dale_Meeks) [born 1975 english ] o'<television=Actor>"
+  },
+  "abstract" : {
+    "1" : "dale meeks<Dale_Meeks> (born 1975) is an english television<Actor> and theatre actor<Actor>"
+  }
+}, {
+  "entityIndex" : "entity11587",
+  "entityUrl" : "http://dbpedia.org/resource/Danielle_Lyndon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Danielle_Lyndon) dbo:wikiPageRedirects o'<Danielle_Lydon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11588",
+  "entityUrl" : "http://dbpedia.org/resource/Dick_Rivers__France-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dick_Rivers__France-actor-stub__1) dbo:country o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11589",
+  "entityUrl" : "http://dbpedia.org/resource/Dawn_Acton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dawn_Acton) dbo:birthDate o'<1977-03-15>",
+    "2" : "s(Dawn_Acton) dbo:birthDate o'<1977-3-15>",
+    "3" : "s(Dawn_Acton) dbo:birthPlace o'<Ashton-under-Lyne>",
+    "4" : "s(Dawn_Acton) dbo:birthYear o'<1977>",
+    "5" : "s(Dawn_Acton) dbo:country o'<England>",
+    "6" : "s(Dawn_Acton) dbo:imdbId o'<0010315>",
+    "7" : "s(Dawn_Acton) dbo:knownFor o'<Tracy_Barlow>",
+    "8" : "s(Dawn_Acton) dbo:knownFor o'<Coronation_Street>",
+    "9" : "s(Dawn_Acton) dbo:occupation o'<Dawn_Acton__1>",
+    "10" : "s(Dawn_Acton) dbo:occupation o'<Actress>",
+    "11" : "s(Dawn_Acton) dbp:name o'<Dawn Acton>",
+    "12" : "s(Dawn_Acton) dbp:nationality o'<United Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(dawn acton=Dawn_Acton) [attended stamford high school in ] o'<ashton-under-lyne=Ashton-under-Lyne>"
+  },
+  "abstract" : {
+    "2" : "as a child dawn acton<Dawn_Acton> attended stamford high school in ashton-under-lyne<Ashton-under-Lyne> and trained at the oldham theatre workshop\n"
+  }
+}, {
+  "entityIndex" : "entity11590",
+  "entityUrl" : "http://dbpedia.org/resource/David_Chiang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Chiang) dbo:birthDate o'<1947-6-29>",
+    "2" : "s(David_Chiang) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(David_Chiang) dbp:birthPlace o'<Republic_of_China_(1912–49)>",
+    "4" : "s(David_Chiang) dbp:birthPlace o'<Shanghai>",
+    "5" : "s(David_Chiang) dbp:name o'<David Chiang Da-Wei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11591",
+  "entityUrl" : "http://dbpedia.org/resource/Donna_Edwards_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Donna_Edwards_(actress)) dbo:birthPlace o'<Merthyr_Tydfil>",
+    "2" : "s(Donna_Edwards_(actress)) dbo:birthPlace o'<Wales>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11592",
+  "entityUrl" : "http://dbpedia.org/resource/David_Gale_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Gale_(actor)) dbo:birthDate o'<1936-10-02>",
+    "2" : "s(David_Gale_(actor)) dbo:birthDate o'<1936-10-2>",
+    "3" : "s(David_Gale_(actor)) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(David_Gale_(actor)) dbo:birthPlace o'<Wimbledon,_London>",
+    "5" : "s(David_Gale_(actor)) dbo:birthPlace o'<Wimbledon,_England>",
+    "6" : "s(David_Gale_(actor)) dbo:deathDate o'<1991-08-18>",
+    "7" : "s(David_Gale_(actor)) dbo:deathDate o'<1991-8-18>",
+    "8" : "s(David_Gale_(actor)) dbo:deathPlace o'<United_States>",
+    "9" : "s(David_Gale_(actor)) dbo:deathPlace o'<Los_Angeles>",
+    "10" : "s(David_Gale_(actor)) dbo:deathPlace o'<Los_Angeles,_California>",
+    "11" : "s(David_Gale_(actor)) dbp:name o'<David Gale>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11593",
+  "entityUrl" : "http://dbpedia.org/resource/Danny_Lopes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Danny_Lopes) dbo:birthDate o'<1982-08-06>",
+    "2" : "s(Danny_Lopes) dbo:birthDate o'<1982-8-6>",
+    "3" : "s(Danny_Lopes) dbo:birthPlace o'<Livingston,_New_Jersey>",
+    "4" : "s(Danny_Lopes) dbo:occupation o'<Model_(person)>",
+    "5" : "s(Danny_Lopes) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(danny lopes=Danny_Lopes) [15 years old lopes ] o'<film=Actor>",
+    "4" : "s(danny lopes=Danny_Lopes) [received acting certificate from ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "2" : "when danny lopes<Danny_Lopes> was 15 years old, lopes was chosen to play the role of bobby in desecration, the first feature-length film<Actor> by dante tomaselli\n",
+    "4" : "danny lopes<Danny_Lopes> received an acting certificate from the new york film<Actor> academy and recently portrayed an autistic teenager in tomaselli's satan's playground, which also stars late-1970s and early-1980s horror icons ellen sandweiss, edwin neal (the texas chain saw massacre) and felissa rose (sleepaway camp)\n"
+  }
+}, {
+  "entityIndex" : "entity11594",
+  "entityUrl" : "http://dbpedia.org/resource/Dora_S%C3%B6derberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11595",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_Fletcher",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Diane_Fletcher) dbo:birthDate o'<1944-4-17>",
+    "2" : "s(Diane_Fletcher) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(diane fletcher=Diane_Fletcher) [appeared in one ] o'<royal=United_Kingdom>"
+  },
+  "abstract" : {
+    "4" : "in 1971 diane fletcher<Diane_Fletcher> appeared in no one was saved at the royal<United_Kingdom> court theatre schools scheme\n"
+  }
+}, {
+  "entityIndex" : "entity11596",
+  "entityUrl" : "http://dbpedia.org/resource/David_Ellison_(British_actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Ellison_(British_actor)) dbo:birthDate o'<1939-0-0>",
+    "2" : "s(David_Ellison_(British_actor)) dbo:country o'<United_Kingdom>",
+    "3" : "s(David_Ellison_(British_actor)) dbo:deathDate o'<2010-6-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11597",
+  "entityUrl" : "http://dbpedia.org/resource/David_Buck",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Buck) dbo:birthDate o'<1949-3-31>",
+    "2" : "s(David_Buck) dbo:birthPlace o'<London>",
+    "3" : "s(David_Buck) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(David_Buck) dbo:birthPlace o'<London,_England>",
+    "5" : "s(David_Buck) dbo:deathDate o'<1989-01-27>",
+    "6" : "s(David_Buck) dbo:deathDate o'<1989-1-27>",
+    "7" : "s(David_Buck) dbo:deathPlace o'<England>",
+    "8" : "s(David_Buck) dbo:deathPlace o'<United_Kingdom>",
+    "9" : "s(David_Buck) dbo:deathPlace o'<Esher>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11598",
+  "entityUrl" : "http://dbpedia.org/resource/David_Crellin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Crellin) dbo:birthDate o'<1961-6-2>",
+    "2" : "s(David_Crellin) dbo:birthName o'<David Crellin>",
+    "3" : "s(David_Crellin) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "4" : "s(David_Crellin) dbo:birthPlace o'<UK>",
+    "5" : "s(David_Crellin) dbo:birthPlace o'<England>",
+    "6" : "s(David_Crellin) dbo:birthPlace o'<Sheffield>",
+    "7" : "s(David_Crellin) dbo:birthYear o'<1961>",
+    "8" : "s(David_Crellin) dbo:country o'<United_Kingdom>",
+    "9" : "s(David_Crellin) dbo:imdbId o'<0187327>",
+    "10" : "s(David_Crellin) dbo:occupation o'<Actor>",
+    "11" : "s(David_Crellin) dbo:occupation o'<David_Crellin__1>",
+    "12" : "s(David_Crellin) dbp:name o'<David Crellin>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(david crellin=David_Crellin) [born 1961 english ] o'<actor=Actor>"
+  },
+  "abstract" : {
+    "1" : "david crellin<David_Crellin> (born 1961) is an english actor<Actor>"
+  }
+}, {
+  "entityIndex" : "entity11599",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Tullis_Jr.",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dan_Tullis_Jr.) dbo:birthDate o'<1951-07-08>",
+    "2" : "s(Dan_Tullis_Jr.) dbo:birthDate o'<1951-7-8>",
+    "3" : "s(Dan_Tullis_Jr.) dbp:birthPlace o'<Oxnard, California, U.S.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11600",
+  "entityUrl" : "http://dbpedia.org/resource/Daisy_Beaumont",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daisy_Beaumont) dbo:birthDate o'<1974-05-05>",
+    "2" : "s(Daisy_Beaumont) dbo:birthDate o'<1973-6-29>",
+    "3" : "s(Daisy_Beaumont) dbo:birthPlace o'<UK>",
+    "4" : "s(Daisy_Beaumont) dbo:birthPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11601",
+  "entityUrl" : "http://dbpedia.org/resource/David_Weatherley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Weatherley) dbo:birthDate o'<1939-03-01>",
+    "2" : "s(David_Weatherley) dbo:birthDate o'<1939-3-1>",
+    "3" : "s(David_Weatherley) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11602",
+  "entityUrl" : "http://dbpedia.org/resource/David_Thwaites",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Thwaites) dbo:activeYearsStartYear o'<1989>",
+    "2" : "s(David_Thwaites) dbo:birthDate o'<1976-06-16>",
+    "3" : "s(David_Thwaites) dbo:birthDate o'<1976-6-16>",
+    "4" : "s(David_Thwaites) dbo:birthName o'<David Barry Thwaites>",
+    "5" : "s(David_Thwaites) dbo:birthPlace o'<UK>",
+    "6" : "s(David_Thwaites) dbo:birthPlace o'<England>",
+    "7" : "s(David_Thwaites) dbo:birthPlace o'<London>",
+    "8" : "s(David_Thwaites) dbo:birthPlace o'<Wandsworth>",
+    "9" : "s(David_Thwaites) dbo:birthYear o'<1976>",
+    "10" : "s(David_Thwaites) dbo:country o'<United_Kingdom>",
+    "11" : "s(David_Thwaites) dbo:occupation o'<David_Thwaites__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11603",
+  "entityUrl" : "http://dbpedia.org/resource/Daisuke_Ryu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daisuke_Ryu) dbo:birthDate o'<1957-2-14>",
+    "2" : "s(Daisuke_Ryu) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11604",
+  "entityUrl" : "http://dbpedia.org/resource/Danson_Tang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Danson_Tang) dbo:birthDate o'<1984-9-2>",
+    "2" : "s(Danson_Tang) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Danson_Tang) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Danson_Tang) dbp:birthPlace o'<Keelung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11605",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_Beck",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11606",
+  "entityUrl" : "http://dbpedia.org/resource/Debbie_Kurup",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Debbie_Kurup) dbo:birthDate o'<1979-07-03>",
+    "2" : "s(Debbie_Kurup) dbo:birthDate o'<1979-7-3>",
+    "3" : "s(Debbie_Kurup) dbo:birthName o'<Debbie Kurup>",
+    "4" : "s(Debbie_Kurup) dbo:birthPlace o'<City_of_Sunderland>",
+    "5" : "s(Debbie_Kurup) dbo:birthPlace o'<Sunderland,_England>",
+    "6" : "s(Debbie_Kurup) dbo:birthYear o'<1979>",
+    "7" : "s(Debbie_Kurup) dbo:country o'<England>",
+    "8" : "s(Debbie_Kurup) dbo:occupation o'<Debbie_Kurup__1>",
+    "9" : "s(Debbie_Kurup) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(debbie kurup=Debbie_Kurup) [born 3 july 1979 ] o'<actress=Actor>"
+  },
+  "abstract" : {
+    "1" : "debbie kurup<Debbie_Kurup> (born 3 july 1979) is an english actress<Actor>"
+  }
+}, {
+  "entityIndex" : "entity11607",
+  "entityUrl" : "http://dbpedia.org/resource/Dudley_Foster",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dudley_Foster) dbo:birthDate o'<1924-08-07>",
+    "2" : "s(Dudley_Foster) dbo:birthDate o'<1924-8-7>",
+    "3" : "s(Dudley_Foster) dbo:birthName o'<Frank Dudley Foster>",
+    "4" : "s(Dudley_Foster) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "5" : "s(Dudley_Foster) dbo:birthPlace o'<Brighouse>",
+    "6" : "s(Dudley_Foster) dbo:birthYear o'<1924>",
+    "7" : "s(Dudley_Foster) dbo:country o'<England>",
+    "8" : "s(Dudley_Foster) dbo:deathDate o'<1973-01-08>",
+    "9" : "s(Dudley_Foster) dbo:deathDate o'<1973-1-8>",
+    "10" : "s(Dudley_Foster) dbo:deathYear o'<1973>",
+    "11" : "s(Dudley_Foster) dbo:imdbId o'<0287783>",
+    "12" : "s(Dudley_Foster) dbo:occupation o'<Dudley_Foster__1>",
+    "13" : "s(Dudley_Foster) dbp:deathPlace o'<London, England>",
+    "14" : "s(Dudley_Foster) dbp:name o'<Dudley Foster>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "14" : "s(dudley foster=Dudley_Foster) [appeared in films ] o'<home=England>",
+    "18" : "s(dudley foster=Dudley_Foster) [provided voiceover for ] o'<great britain=England>",
+    "19" : "s(dudley foster=Dudley_Foster) [died in ] o'<london=London,_England>"
+  },
+  "abstract" : {
+    "14" : "in 1965 dudley foster<Dudley_Foster> appeared in the films the little ones as superintendent carter alongside derek newark and in a study in terror as home<England> secretary henry matthews\n",
+    "18" : "in 1970 dudley foster<Dudley_Foster> provided the voice-over for an edition of the bbc documentary series chronicle: \"the great iron ship\", about the salvage and return from the falkland islands of the isambard kingdom brunel ship ss great britain<England>\n",
+    "19" : "dudley foster<Dudley_Foster> died in london<London,_England>"
+  }
+}, {
+  "entityIndex" : "entity11608",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Law_(film_director)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dennis_Law_(film_director)) dbo:birthDate o'<1963-1-1>",
+    "2" : "s(Dennis_Law_(film_director)) dbo:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11609",
+  "entityUrl" : "http://dbpedia.org/resource/Debbie_Russ",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Debbie_Russ) dbo:birthDate o'<1960-08-02>",
+    "2" : "s(Debbie_Russ) dbo:birthDate o'<1960-8-2>",
+    "3" : "s(Debbie_Russ) dbo:birthPlace o'<England>",
+    "4" : "s(Debbie_Russ) dbo:birthYear o'<1960>",
+    "5" : "s(Debbie_Russ) dbo:country o'<United_Kingdom>",
+    "6" : "s(Debbie_Russ) dbo:occupation o'<Debbie_Russ__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(debbie russ=Debbie_Russ) [mainly known for playing ] o'<the uk=United_Kingdom>",
+    "4" : "s(debbie russ=Debbie_Russ) [works news presenter ] o'<london=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "debbie russ<Debbie_Russ> is mainly known for playing tiger in the uk<United_Kingdom> television show here come the double deckers (1970–71), and also appeared in itc adventure shows including the adventurer and the protectors\n",
+    "4" : "debbie russ<Debbie_Russ> works as a news presenter on radio jackie in southwest london<United_Kingdom>\n"
+  }
+}, {
+  "entityIndex" : "entity11610",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Simmonds",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Douglas_Simmonds) dbo:birthDate o'<1958-02-18>",
+    "2" : "s(Douglas_Simmonds) dbo:birthDate o'<1958-2-18>",
+    "3" : "s(Douglas_Simmonds) dbo:birthPlace o'<England>",
+    "4" : "s(Douglas_Simmonds) dbo:birthYear o'<1958>",
+    "5" : "s(Douglas_Simmonds) dbo:country o'<United_Kingdom>",
+    "6" : "s(Douglas_Simmonds) dbo:deathDate o'<2011-03-15>",
+    "7" : "s(Douglas_Simmonds) dbo:deathDate o'<2011-3-15>",
+    "8" : "s(Douglas_Simmonds) dbo:deathYear o'<2011>",
+    "9" : "s(Douglas_Simmonds) dbo:occupation o'<Douglas_Simmonds__1>",
+    "10" : "s(Douglas_Simmonds) dbp:imagesize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11611",
+  "entityUrl" : "http://dbpedia.org/resource/Doris_Svedlund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Doris_Svedlund) dbo:birthDate o'<1926-12-11>",
+    "2" : "s(Doris_Svedlund) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Doris_Svedlund) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Doris_Svedlund) dbo:deathDate o'<1985-09-07>",
+    "5" : "s(Doris_Svedlund) dbo:deathDate o'<1985-9-7>",
+    "6" : "s(Doris_Svedlund) dbo:deathPlace o'<Gothenburg>",
+    "7" : "s(Doris_Svedlund) dbo:deathPlace o'<Sweden>",
+    "8" : "s(Doris_Svedlund) dbp:name o'<Doris Svedlund>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11612",
+  "entityUrl" : "http://dbpedia.org/resource/Daisuke_Nakamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daisuke_Nakamura) dbo:birthDate o'<1985-09-21>",
+    "2" : "s(Daisuke_Nakamura) dbo:birthDate o'<1985-9-21>",
+    "3" : "s(Daisuke_Nakamura) dbo:birthPlace o'<Chiba_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11613",
+  "entityUrl" : "http://dbpedia.org/resource/Danny_O'Dea",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Danny_O'Dea) dbo:activeYearsEndYear o'<2002>",
+    "2" : "s(Danny_O'Dea) dbo:activeYearsStartYear o'<1970>",
+    "3" : "s(Danny_O'Dea) dbo:birthDate o'<1910-12-22>",
+    "4" : "s(Danny_O'Dea) dbo:birthPlace o'<Durrington,_Wiltshire>",
+    "5" : "s(Danny_O'Dea) dbo:birthYear o'<1910>",
+    "6" : "s(Danny_O'Dea) dbo:country o'<United_Kingdom>",
+    "7" : "s(Danny_O'Dea) dbo:deathDate o'<2003-04-16>",
+    "8" : "s(Danny_O'Dea) dbo:deathDate o'<2003-4-1>",
+    "9" : "s(Danny_O'Dea) dbo:deathPlace o'<England>",
+    "10" : "s(Danny_O'Dea) dbo:deathPlace o'<Dewsbury>",
+    "11" : "s(Danny_O'Dea) dbo:deathPlace o'<Hartshead>",
+    "12" : "s(Danny_O'Dea) dbo:deathPlace o'<Yorkshire>",
+    "13" : "s(Danny_O'Dea) dbo:deathYear o'<2003>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(danny o'dea=Danny_O'Dea) [died in ] o'<hartshead=Hartshead>"
+  },
+  "abstract" : {
+    "5" : "danny o'dea<Danny_O'Dea> died in hartshead<Hartshead>, yorkshire<Yorkshire>\n"
+  }
+}, {
+  "entityIndex" : "entity11614",
+  "entityUrl" : "http://dbpedia.org/resource/Damian_Lau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Damian_Lau) dbo:birthDate o'<1949-10-14>",
+    "2" : "s(Damian_Lau) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Damian_Lau) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11615",
+  "entityUrl" : "http://dbpedia.org/resource/Deborah_Findlay",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Deborah_Findlay) dbo:birthDate o'<1947-1-1>",
+    "2" : "s(Deborah_Findlay) dbo:birthPlace o'<Surrey>",
+    "3" : "s(Deborah_Findlay) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(deborah findlay=Deborah_Findlay) [portrayed ] o'<home=England>"
+  },
+  "abstract" : {
+    "5" : "deborah findlay<Deborah_Findlay> portrayed home<England> secretary denise riley in torchwood's 2009 third series children of earth and featured as lawyer gemma king in one episode of the bbc1 series silent witness in january 2010\n"
+  }
+}, {
+  "entityIndex" : "entity11616",
+  "entityUrl" : "http://dbpedia.org/resource/Diana_Davies_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Diana_Davies_(actress)) dbo:birthDate o'<1936-07-20>",
+    "2" : "s(Diana_Davies_(actress)) dbo:birthDate o'<1936-7-20>",
+    "3" : "s(Diana_Davies_(actress)) dbo:birthPlace o'<UK>",
+    "4" : "s(Diana_Davies_(actress)) dbo:birthPlace o'<England>",
+    "5" : "s(Diana_Davies_(actress)) dbo:birthPlace o'<Manchester>",
+    "6" : "s(Diana_Davies_(actress)) dbo:birthPlace o'<Lancashire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11617",
+  "entityUrl" : "http://dbpedia.org/resource/Dong_Jie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dong_Jie) dbo:birthDate o'<1980-4-19>",
+    "2" : "s(Dong_Jie) dbp:birthPlace o'<Dalian, Liaoning, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11618",
+  "entityUrl" : "http://dbpedia.org/resource/Dulice_Liecier",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dulice_Liecier) dbo:country o'<United_Kingdom>",
+    "2" : "s(Dulice_Liecier) dbo:imdbId o'<0509548>",
+    "3" : "s(Dulice_Liecier) dbp:name o'<Dulice Liecier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11619",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Mananta",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Mananta) dbo:activeYearsStartYear o'<2003>",
+    "2" : "s(Daniel_Mananta) dbo:alias o'<VJ Daniel>",
+    "3" : "s(Daniel_Mananta) dbo:birthDate o'<1981-08-14>",
+    "4" : "s(Daniel_Mananta) dbo:birthDate o'<1981-8-14>",
+    "5" : "s(Daniel_Mananta) dbo:birthPlace o'<Indonesia>",
+    "6" : "s(Daniel_Mananta) dbo:birthPlace o'<Jakarta>",
+    "7" : "s(Daniel_Mananta) dbo:birthYear o'<1981>",
+    "8" : "s(Daniel_Mananta) dbo:occupation o'<VJ_(media_personality)>",
+    "9" : "s(Daniel_Mananta) dbo:occupation o'<Actor>",
+    "10" : "s(Daniel_Mananta) dbo:occupation o'<Daniel_Mananta__1>",
+    "11" : "s(Daniel_Mananta) dbp:instagram o'<vjdaniel>",
+    "12" : "s(Daniel_Mananta) dbp:parents o'<Donny Mananta and Anawaty Angkasa>",
+    "13" : "s(Daniel_Mananta) dbp:religion o'<Catholic>",
+    "14" : "s(Daniel_Mananta) dbp:twitter o'<vjdaniel>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11620",
+  "entityUrl" : "http://dbpedia.org/resource/Dee_Hsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dee_Hsu) dbo:birthDate o'<1978-6-14>",
+    "2" : "s(Dee_Hsu) dbo:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11621",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Milne",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11622",
+  "entityUrl" : "http://dbpedia.org/resource/Dario_Coates",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dario_Coates) dbo:birthDate o'<1992-04-25>",
+    "2" : "s(Dario_Coates) dbo:birthDate o'<1991-9-11>",
+    "3" : "s(Dario_Coates) dbo:birthPlace o'<England>",
+    "4" : "s(Dario_Coates) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Dario_Coates) dbo:birthPlace o'<Hebden_Bridge>",
+    "6" : "s(Dario_Coates) dbo:birthPlace o'<Yorkshire>",
+    "7" : "s(Dario_Coates) dbo:birthYear o'<1992>",
+    "8" : "s(Dario_Coates) dbo:country o'<England>",
+    "9" : "s(Dario_Coates) dbo:occupation o'<Character_actor>",
+    "10" : "s(Dario_Coates) dbo:occupation o'<Dario_Coates__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(dario coates=Dario_Coates) [auditioned for coronation street in ] o'<actor=Character_actor>"
+  },
+  "abstract" : {
+    "5" : "dario coates<Dario_Coates> auditioned for coronation street in november 2007 and dario coates<Dario_Coates> told his local newspaper, \"i've always wanted to be an actor<Character_actor>, but i never dreamed that i would get a part on tv at this stage\n"
+  }
+}, {
+  "entityIndex" : "entity11623",
+  "entityUrl" : "http://dbpedia.org/resource/David_Niven,_Jr.",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Niven,_Jr.) dbo:birthDate o'<1942-12-15>",
+    "2" : "s(David_Niven,_Jr.) dbo:birthPlace o'<England>",
+    "3" : "s(David_Niven,_Jr.) dbo:birthPlace o'<London>",
+    "4" : "s(David_Niven,_Jr.) dbo:birthYear o'<1942>",
+    "5" : "s(David_Niven,_Jr.) dbo:imdbId o'<0633114>",
+    "6" : "s(David_Niven,_Jr.) dbp:imageSize o'<150>",
+    "7" : "s(David_Niven,_Jr.) dbp:name o'<David Niven, Jr.>",
+    "8" : "s(David_Niven,_Jr.) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11624",
+  "entityUrl" : "http://dbpedia.org/resource/Dystin_Johnson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dystin_Johnson) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11625",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Lord",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Lord) dbo:birthDate o'<1947-4-23>",
+    "2" : "s(Derek_Lord) dbo:birthPlace o'<Belfast>",
+    "3" : "s(Derek_Lord) dbo:birthPlace o'<Northern_Ireland>",
+    "4" : "s(Derek_Lord) dbo:country o'<United_Kingdom>",
+    "5" : "s(Derek_Lord) dbo:occupation o'<Derek_Lord__1>",
+    "6" : "s(Derek_Lord) dbp:children o'<Barry>",
+    "7" : "s(Derek_Lord) dbp:spouse o'<Lana>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11626",
+  "entityUrl" : "http://dbpedia.org/resource/Dallas_Campbell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dallas_Campbell) dbo:birthDate o'<1970-09-17>",
+    "2" : "s(Dallas_Campbell) dbo:birthDate o'<1970-9-17>",
+    "3" : "s(Dallas_Campbell) dbo:birthPlace o'<Scotland>",
+    "4" : "s(Dallas_Campbell) dbo:birthPlace o'<Kilmacolm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11627",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Chan) dbo:birthDate o'<1975-9-3>",
+    "2" : "s(Daniel_Chan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Daniel_Chan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11628",
+  "entityUrl" : "http://dbpedia.org/resource/Dominic_Lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dominic_Lam) dbo:birthDate o'<1957-4-2>",
+    "2" : "s(Dominic_Lam) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Dominic_Lam) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11629",
+  "entityUrl" : "http://dbpedia.org/resource/David_Gwillim",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Gwillim) dbo:activeYearsEndYear o'<2011>",
+    "2" : "s(David_Gwillim) dbo:activeYearsStartYear o'<1971>",
+    "3" : "s(David_Gwillim) dbo:birthDate o'<1948-12-15>",
+    "4" : "s(David_Gwillim) dbo:birthPlace o'<England>",
+    "5" : "s(David_Gwillim) dbo:birthPlace o'<Plymouth>",
+    "6" : "s(David_Gwillim) dbo:birthYear o'<1948>",
+    "7" : "s(David_Gwillim) dbo:country o'<England>",
+    "8" : "s(David_Gwillim) dbo:occupation o'<David_Gwillim__1>",
+    "9" : "s(David_Gwillim) dbo:occupation o'<Actor>",
+    "10" : "s(David_Gwillim) dbp:imagesize o'<190>",
+    "11" : "s(David_Gwillim) dbp:spouse o'<Deirdra Morris>",
+    "12" : "s(David_Gwillim) dbp:spouse o'<Lynn Dearth>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11630",
+  "entityUrl" : "http://dbpedia.org/resource/David_Westhead",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Westhead) dbo:birthDate o'<1963-06-01>",
+    "2" : "s(David_Westhead) dbo:birthDate o'<1963-3-18>",
+    "3" : "s(David_Westhead) dbo:birthPlace o'<Cambridgeshire>",
+    "4" : "s(David_Westhead) dbo:birthPlace o'<England>",
+    "5" : "s(David_Westhead) dbo:birthPlace o'<London>",
+    "6" : "s(David_Westhead) dbo:birthPlace o'<United_Kingdom>",
+    "7" : "s(David_Westhead) dbo:birthPlace o'<Ely,_Cambridgeshire>",
+    "8" : "s(David_Westhead) dbp:name o'<David Westhead>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11631",
+  "entityUrl" : "http://dbpedia.org/resource/David_Lloyd_Meredith",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Lloyd_Meredith) dbo:birthDate o'<1933-10-30>",
+    "2" : "s(David_Lloyd_Meredith) dbo:birthPlace o'<UK>",
+    "3" : "s(David_Lloyd_Meredith) dbo:birthPlace o'<London>",
+    "4" : "s(David_Lloyd_Meredith) dbo:birthYear o'<1933>",
+    "5" : "s(David_Lloyd_Meredith) dbo:country o'<United_Kingdom>",
+    "6" : "s(David_Lloyd_Meredith) dbo:deathDate o'<2008-10-22>",
+    "7" : "s(David_Lloyd_Meredith) dbo:deathPlace o'<UK>",
+    "8" : "s(David_Lloyd_Meredith) dbo:deathPlace o'<Cheshire>",
+    "9" : "s(David_Lloyd_Meredith) dbo:deathPlace o'<England>",
+    "10" : "s(David_Lloyd_Meredith) dbo:deathPlace o'<Chester>",
+    "11" : "s(David_Lloyd_Meredith) dbo:deathYear o'<2008>",
+    "12" : "s(David_Lloyd_Meredith) dbo:occupation o'<David_Lloyd_Meredith__1>",
+    "13" : "s(David_Lloyd_Meredith) dbo:occupation o'<Actor>",
+    "14" : "s(David_Lloyd_Meredith) dbp:spouse o'<Daphne Lloyd Meredith>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(david lloyd meredith=David_Lloyd_Meredith) [came from ] o'<welsh=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "david lloyd meredith<David_Lloyd_Meredith> came from a welsh<United_Kingdom> family background, but was born in london<LONDON>\n"
+  }
+}, {
+  "entityIndex" : "entity11632",
+  "entityUrl" : "http://dbpedia.org/resource/Danny_Green_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Danny_Green_(actor)) dbo:birthDate o'<1903-05-26>",
+    "2" : "s(Danny_Green_(actor)) dbo:birthDate o'<1903-5-26>",
+    "3" : "s(Danny_Green_(actor)) dbo:birthPlace o'<England>",
+    "4" : "s(Danny_Green_(actor)) dbo:birthPlace o'<London>",
+    "5" : "s(Danny_Green_(actor)) dbo:deathDate o'<1973-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11633",
+  "entityUrl" : "http://dbpedia.org/resource/David_King-Wood",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_King-Wood) dbo:birthDate o'<1913-09-12>",
+    "2" : "s(David_King-Wood) dbo:birthDate o'<1913-9-12>",
+    "3" : "s(David_King-Wood) dbo:birthName o'<Oliver David King-Wood>",
+    "4" : "s(David_King-Wood) dbo:birthPlace o'<Tehran>",
+    "5" : "s(David_King-Wood) dbo:birthPlace o'<Tehran,_Iran>",
+    "6" : "s(David_King-Wood) dbo:birthYear o'<1913>",
+    "7" : "s(David_King-Wood) dbo:deathDate o'<2003-09-03>",
+    "8" : "s(David_King-Wood) dbo:deathDate o'<2003-9-3>",
+    "9" : "s(David_King-Wood) dbo:deathYear o'<2003>",
+    "10" : "s(David_King-Wood) dbo:nationality o'<Great_Britain>",
+    "11" : "s(David_King-Wood) dbo:stateOfOrigin o'<Great_Britain>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(david king-wood=David_King-Wood) [born in ] o'<tehran=Tehran>",
+    "13" : "s(david king-wood=David_King-Wood) [ended his professional life teaching ] o'<english=Great_Britain>"
+  },
+  "abstract" : {
+    "2" : "david king-wood<David_King-Wood> was born in tehran<Tehran>, iran (then persia), the youngest of four children\n",
+    "13" : "david king-wood<David_King-Wood> ended his professional life teaching english<Great_Britain> and french at st\n"
+  }
+}, {
+  "entityIndex" : "entity11634",
+  "entityUrl" : "http://dbpedia.org/resource/David_Aldous_(actor_and_broadcaster)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Aldous_(actor_and_broadcaster)) dbo:wikiPageRedirects o'<David_Aldous_(actor)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11635",
+  "entityUrl" : "http://dbpedia.org/resource/Debbie_Rush",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Debbie_Rush) dbo:birthDate o'<1966-0-0>",
+    "2" : "s(Debbie_Rush) dbo:birthPlace o'<England>",
+    "3" : "s(Debbie_Rush) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(Debbie_Rush) dbo:birthPlace o'<Castleton,_Derbyshire>",
+    "5" : "s(Debbie_Rush) dbo:birthPlace o'<Derbyshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11636",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_H%C3%A5ge",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11637",
+  "entityUrl" : "http://dbpedia.org/resource/Darren_John_Langford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Darren_John_Langford) dbo:birthDate o'<1982-4-1>",
+    "2" : "s(Darren_John_Langford) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11638",
+  "entityUrl" : "http://dbpedia.org/resource/Diana_Hardcastle",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Diana_Hardcastle) dbo:birthPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11639",
+  "entityUrl" : "http://dbpedia.org/resource/Dagny_Lind",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dagny_Lind) dbo:activeYearsEndYear o'<1977>",
+    "2" : "s(Dagny_Lind) dbo:activeYearsStartYear o'<1923>",
+    "3" : "s(Dagny_Lind) dbo:birthDate o'<1902-11-07>",
+    "4" : "s(Dagny_Lind) dbo:birthDate o'<1902-11-7>",
+    "5" : "s(Dagny_Lind) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Dagny_Lind) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Dagny_Lind) dbo:birthYear o'<1902>",
+    "8" : "s(Dagny_Lind) dbo:deathDate o'<1992-01-13>",
+    "9" : "s(Dagny_Lind) dbo:deathDate o'<1992-1-13>",
+    "10" : "s(Dagny_Lind) dbo:deathPlace o'<Malmö>",
+    "11" : "s(Dagny_Lind) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Dagny_Lind) dbo:deathYear o'<1992>",
+    "13" : "s(Dagny_Lind) dbo:nationality o'<Sweden>",
+    "14" : "s(Dagny_Lind) dbo:occupation o'<Dagny_Lind__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11640",
+  "entityUrl" : "http://dbpedia.org/resource/Dagmar_Olsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dagmar_Olsson) dbo:birthDate o'<1908-09-27>",
+    "2" : "s(Dagmar_Olsson) dbo:birthDate o'<1908-9-27>",
+    "3" : "s(Dagmar_Olsson) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Dagmar_Olsson) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Dagmar_Olsson) dbo:deathDate o'<1980-12-20>",
+    "6" : "s(Dagmar_Olsson) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Dagmar_Olsson) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11641",
+  "entityUrl" : "http://dbpedia.org/resource/Dagmar_Ebbesen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dagmar_Ebbesen) dbo:birthDate o'<1891-10-01>",
+    "2" : "s(Dagmar_Ebbesen) dbo:birthDate o'<1891-10-1>",
+    "3" : "s(Dagmar_Ebbesen) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Dagmar_Ebbesen) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Dagmar_Ebbesen) dbo:deathDate o'<1954-11-06>",
+    "6" : "s(Dagmar_Ebbesen) dbo:deathDate o'<1954-11-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11642",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Farr",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Farr) dbo:birthDate o'<1912-02-07>",
+    "2" : "s(Derek_Farr) dbo:birthDate o'<1912-2-7>",
+    "3" : "s(Derek_Farr) dbo:birthName o'<Derrick Capel Farr>",
+    "4" : "s(Derek_Farr) dbo:birthPlace o'<London>",
+    "5" : "s(Derek_Farr) dbo:birthYear o'<1912>",
+    "6" : "s(Derek_Farr) dbo:deathDate o'<1986-03-22>",
+    "7" : "s(Derek_Farr) dbo:deathDate o'<1986-3-22>",
+    "8" : "s(Derek_Farr) dbo:deathPlace o'<London>",
+    "9" : "s(Derek_Farr) dbo:deathYear o'<1986>",
+    "10" : "s(Derek_Farr) dbo:occupation o'<Derek_Farr__1>",
+    "11" : "s(Derek_Farr) dbo:occupation o'<Actor>",
+    "12" : "s(Derek_Farr) dbo:spouse o'<Muriel_Pavlow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11643",
+  "entityUrl" : "http://dbpedia.org/resource/Dylan_Kuo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dylan_Kuo) dbo:birthDate o'<1977-6-8>",
+    "2" : "s(Dylan_Kuo) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Dylan_Kuo) dbp:birthPlace o'<Taipei, Taiwan>",
+    "4" : "s(Dylan_Kuo) dbp:careerOrigin o'<Republic of China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11644",
+  "entityUrl" : "http://dbpedia.org/resource/Dexter_Young",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dexter_Young) dbo:birthDate o'<1975-3-25>",
+    "2" : "s(Dexter_Young) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11645",
+  "entityUrl" : "http://dbpedia.org/resource/Dave_Carter_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dave_Carter_(actor)) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11646",
+  "entityUrl" : "http://dbpedia.org/resource/Deborah_Cornelius",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Deborah_Cornelius) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(deborah cornelius=Deborah_Cornelius) [appeared in ] o'<uk=United_Kingdom>"
+  },
+  "abstract" : {
+    "4" : "deborah cornelius<Deborah_Cornelius> has also appeared in a number of high profile tv dramas including a dance to the music of time, agatha christie's poirot, take a girl like you, the trail of gemma lang, silent witness, hidden, law and order uk<United_Kingdom>, wire in the blood, lewis, jekyll, and a civil arrangement\n"
+  }
+}, {
+  "entityIndex" : "entity11647",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Mio",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Mio) dbo:birthDate o'<1982-1-1>",
+    "2" : "s(Derek_Mio) dbp:name o'<Derek Mio>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11648",
+  "entityUrl" : "http://dbpedia.org/resource/Denmei_Suzuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Denmei_Suzuki) dbo:birthDate o'<1900-03-01>",
+    "2" : "s(Denmei_Suzuki) dbo:birthDate o'<1900-3-1>",
+    "3" : "s(Denmei_Suzuki) dbo:birthPlace o'<Ueno>",
+    "4" : "s(Denmei_Suzuki) dbo:deathDate o'<1985-05-13>",
+    "5" : "s(Denmei_Suzuki) dbo:deathDate o'<1985-5-13>",
+    "6" : "s(Denmei_Suzuki) dbp:birthPlace o'<Tokyo>",
+    "7" : "s(Denmei_Suzuki) dbp:name o'<Suzuki Denmei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11649",
+  "entityUrl" : "http://dbpedia.org/resource/Diana_Magness",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Diana_Magness) dbo:birthDate o'<1981-7-20>",
+    "2" : "s(Diana_Magness) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11650",
+  "entityUrl" : "http://dbpedia.org/resource/Desmond_Jeans",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Desmond_Jeans) dbo:birthDate o'<1903-11-14>",
+    "2" : "s(Desmond_Jeans) dbo:birthPlace o'<Shimla>",
+    "3" : "s(Desmond_Jeans) dbo:birthPlace o'<British_India>",
+    "4" : "s(Desmond_Jeans) dbo:deathDate o'<1974-12-1>",
+    "5" : "s(Desmond_Jeans) dbo:deathPlace o'<Halifax,_West_Yorkshire>",
+    "6" : "s(Desmond_Jeans) dbo:deathPlace o'<Halifax,_Yorkshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11651",
+  "entityUrl" : "http://dbpedia.org/resource/Drusilla_Wills",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Drusilla_Wills) dbo:birthDate o'<1884-11-14>",
+    "2" : "s(Drusilla_Wills) dbo:birthPlace o'<London>",
+    "3" : "s(Drusilla_Wills) dbo:deathDate o'<1951-08-06>",
+    "4" : "s(Drusilla_Wills) dbo:deathDate o'<1951-8-6>",
+    "5" : "s(Drusilla_Wills) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11652",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Fathers",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Fathers) dbo:birthDate o'<1966-03-23>",
+    "2" : "s(Daniel_Fathers) dbo:birthDate o'<1966-3-23>",
+    "3" : "s(Daniel_Fathers) dbo:birthPlace o'<England>",
+    "4" : "s(Daniel_Fathers) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11653",
+  "entityUrl" : "http://dbpedia.org/resource/Du_Chun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Du_Chun) dbo:birthDate o'<1981-5-22>",
+    "2" : "s(Du_Chun) dbp:birthPlace o'<China>",
+    "3" : "s(Du_Chun) dbp:birthPlace o'<Beijing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11654",
+  "entityUrl" : "http://dbpedia.org/resource/David_Siu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Siu) dbo:birthDate o'<1964-2-24>",
+    "2" : "s(David_Siu) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11655",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_Eccles",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Donald_Eccles) dbo:birthDate o'<1908-04-26>",
+    "2" : "s(Donald_Eccles) dbo:birthDate o'<1908-4-26>",
+    "3" : "s(Donald_Eccles) dbo:birthName o'<Donald Yarrow Eccles>",
+    "4" : "s(Donald_Eccles) dbo:birthPlace o'<England>",
+    "5" : "s(Donald_Eccles) dbo:birthPlace o'<Yorkshire>",
+    "6" : "s(Donald_Eccles) dbo:birthPlace o'<Nafferton>",
+    "7" : "s(Donald_Eccles) dbo:birthYear o'<1908>",
+    "8" : "s(Donald_Eccles) dbo:country o'<England>",
+    "9" : "s(Donald_Eccles) dbo:deathDate o'<1986-02-02>",
+    "10" : "s(Donald_Eccles) dbo:deathDate o'<1986-2-2>",
+    "11" : "s(Donald_Eccles) dbo:deathPlace o'<England>",
+    "12" : "s(Donald_Eccles) dbo:deathPlace o'<Haywards_Heath>",
+    "13" : "s(Donald_Eccles) dbo:deathPlace o'<Sussex>",
+    "14" : "s(Donald_Eccles) dbo:deathYear o'<1986>",
+    "15" : "s(Donald_Eccles) dbo:occupation o'<Donald_Eccles__1>",
+    "16" : "s(Donald_Eccles) dbp:nationality o'<United Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(donald eccles=Donald_Eccles) [made his stage debut in ] o'<york=Yorkshire>"
+  },
+  "abstract" : {
+    "4" : "donald eccles<Donald_Eccles> made his stage debut in new york<Yorkshire> city in 1930, and later became known as a member of the royal<United_Kingdom> shakespeare company\n"
+  }
+}, {
+  "entityIndex" : "entity11656",
+  "entityUrl" : "http://dbpedia.org/resource/Davina_Craig",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Davina_Craig) dbo:birthDate o'<1914-04-20>",
+    "2" : "s(Davina_Craig) dbo:birthDate o'<1914-4-20>",
+    "3" : "s(Davina_Craig) dbo:birthPlace o'<Bedford_Park,_London>",
+    "4" : "s(Davina_Craig) dbo:deathDate o'<1983-07-19>",
+    "5" : "s(Davina_Craig) dbo:deathDate o'<1983-1-1>",
+    "6" : "s(Davina_Craig) dbo:deathPlace o'<Opotiki>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11657",
+  "entityUrl" : "http://dbpedia.org/resource/Denyse_Alexander",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Denyse_Alexander) dbo:activeYearsStartYear o'<1958>",
+    "2" : "s(Denyse_Alexander) dbo:birthDate o'<1931-06-28>",
+    "3" : "s(Denyse_Alexander) dbo:birthDate o'<1931-6-28>",
+    "4" : "s(Denyse_Alexander) dbo:birthYear o'<1931>",
+    "5" : "s(Denyse_Alexander) dbo:occupation o'<Denyse_Alexander__1>",
+    "6" : "s(Denyse_Alexander) dbo:occupation o'<Film_actor>",
+    "7" : "s(Denyse_Alexander) dbp:imdbId o'<534206>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(denyse alexander=Denyse_Alexander) [married to ] o'<film=Film_actor>"
+  },
+  "abstract" : {
+    "2" : "denyse alexander<Denyse_Alexander> was married to the film<Film_actor> and television director jack gold from 1957 until his death in august 2015\n"
+  }
+}, {
+  "entityIndex" : "entity11658",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Ware_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Ware_(actor)) dbo:birthDate o'<1938-02-27>",
+    "2" : "s(Derek_Ware_(actor)) dbo:birthDate o'<1938-2-27>",
+    "3" : "s(Derek_Ware_(actor)) dbo:birthName o'<Derek Arthur Ware>",
+    "4" : "s(Derek_Ware_(actor)) dbo:birthPlace o'<England>",
+    "5" : "s(Derek_Ware_(actor)) dbo:birthPlace o'<Manchester>",
+    "6" : "s(Derek_Ware_(actor)) dbo:birthPlace o'<Lancashire>",
+    "7" : "s(Derek_Ware_(actor)) dbo:birthYear o'<1938>",
+    "8" : "s(Derek_Ware_(actor)) dbo:deathDate o'<2015-09-22>",
+    "9" : "s(Derek_Ware_(actor)) dbo:deathDate o'<2015-10-9>",
+    "10" : "s(Derek_Ware_(actor)) dbo:deathPlace o'<England>",
+    "11" : "s(Derek_Ware_(actor)) dbo:deathPlace o'<East_Sussex>",
+    "12" : "s(Derek_Ware_(actor)) dbo:deathPlace o'<Eastbourne>",
+    "13" : "s(Derek_Ware_(actor)) dbo:deathYear o'<2015>",
+    "14" : "s(Derek_Ware_(actor)) dbo:occupation o'<Derek_Ware_(actor)__1>",
+    "15" : "s(Derek_Ware_(actor)) dbo:occupation o'<Stuntman>",
+    "16" : "s(Derek_Ware_(actor)) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11659",
+  "entityUrl" : "http://dbpedia.org/resource/D%C3%A9borah_Perret",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11660",
+  "entityUrl" : "http://dbpedia.org/resource/David_Quilter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Quilter) dbo:birthDate o'<1942-06-11>",
+    "2" : "s(David_Quilter) dbo:birthDate o'<1942-6-11>",
+    "3" : "s(David_Quilter) dbo:birthPlace o'<England>",
+    "4" : "s(David_Quilter) dbo:birthPlace o'<London>",
+    "5" : "s(David_Quilter) dbo:birthPlace o'<Northwood,_London>",
+    "6" : "s(David_Quilter) dbo:birthYear o'<1942>",
+    "7" : "s(David_Quilter) dbo:country o'<England>",
+    "8" : "s(David_Quilter) dbo:imdbId o'<0703629>",
+    "9" : "s(David_Quilter) dbo:occupation o'<Actor>",
+    "10" : "s(David_Quilter) dbo:occupation o'<David_Quilter__1>",
+    "11" : "s(David_Quilter) dbp:name o'<David Quilter>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(david quilter=David_Quilter) [born 11 june 1942 ] o'<actor=Actor>",
+    "2" : "s(david quilter=David_Quilter) [born in ] o'<northwood=Northwood,_London>",
+    "3" : "s(david quilter=David_Quilter) [made his ] o'<stage=Actor>",
+    "5" : "s(david quilter=David_Quilter) [appeared in ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "1" : "david quilter<David_Quilter> (born 11 june 1942) is an english actor<Actor> who has made numerous appearances in british television<Actor> plays and series since the mid-1960s",
+    "2" : "david quilter<David_Quilter> was born in northwood<Northwood,_London>, london<LONDON>, and attended bryanston school, dorset\n",
+    "3" : "david quilter<David_Quilter> made his stage<Actor> debut in amateur dramatic productions and then appeared in repertory theatre\n",
+    "5" : "david quilter<David_Quilter> also appeared in the film<Actor> the battle of britain<England> (1969) as a pilot and in jinnah (1998)\n"
+  }
+}, {
+  "entityIndex" : "entity11661",
+  "entityUrl" : "http://dbpedia.org/resource/Denys_Graham",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Denys_Graham) dbo:birthPlace o'<UK>",
+    "2" : "s(Denys_Graham) dbo:birthPlace o'<Wales>",
+    "3" : "s(Denys_Graham) dbo:birthPlace o'<Monmouthshire_(historic)>",
+    "4" : "s(Denys_Graham) dbo:birthPlace o'<Newport,_Wales>",
+    "5" : "s(Denys_Graham) dbo:country o'<United_Kingdom>",
+    "6" : "s(Denys_Graham) dbo:occupation o'<Actor>",
+    "7" : "s(Denys_Graham) dbo:occupation o'<Denys_Graham__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(denys graham=Denys_Graham) [played range of ] o'<stage=Actor>",
+    "3" : "s(denys graham=Denys_Graham) [educated at new college ] o'<royal=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "denys graham<Denys_Graham> also played a range of other roles on stage<Actor> and screen\n",
+    "3" : "denys graham<Denys_Graham> was educated at new college, oxford and trained at the royal<United_Kingdom> academy of dramatic art\n"
+  }
+}, {
+  "entityIndex" : "entity11662",
+  "entityUrl" : "http://dbpedia.org/resource/David_Squire",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11663",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Young",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dan_Young) dbo:birthDate o'<1899-4-19>",
+    "2" : "s(Dan_Young) dbo:deathDate o'<1970-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11664",
+  "entityUrl" : "http://dbpedia.org/resource/David_Keir",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Keir) dbo:birthDate o'<1884-1-1>",
+    "2" : "s(David_Keir) dbo:deathDate o'<1971-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11665",
+  "entityUrl" : "http://dbpedia.org/resource/Dodo_Watts",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dodo_Watts) dbo:birthDate o'<1911-12-27>",
+    "2" : "s(Dodo_Watts) dbo:deathDate o'<1990-12-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11666",
+  "entityUrl" : "http://dbpedia.org/resource/David_Hutcheson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Hutcheson) dbo:birthDate o'<1905-06-14>",
+    "2" : "s(David_Hutcheson) dbo:birthDate o'<1905-6-14>",
+    "3" : "s(David_Hutcheson) dbo:birthPlace o'<Scotland>",
+    "4" : "s(David_Hutcheson) dbo:birthPlace o'<Isle_of_Bute>",
+    "5" : "s(David_Hutcheson) dbo:deathDate o'<1976-2-18>",
+    "6" : "s(David_Hutcheson) dbo:deathPlace o'<England>",
+    "7" : "s(David_Hutcheson) dbo:deathPlace o'<London>",
+    "8" : "s(David_Hutcheson) dbo:deathPlace o'<Berkshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11667",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Arundell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dennis_Arundell) dbo:birthDate o'<1898-7-22>",
+    "2" : "s(Dennis_Arundell) dbo:deathDate o'<1988-12-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11668",
+  "entityUrl" : "http://dbpedia.org/resource/D._J._Williams_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(D._J._Williams_(actor)) dbo:birthDate o'<1868-1-1>",
+    "2" : "s(D._J._Williams_(actor)) dbo:deathDate o'<1949-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11669",
+  "entityUrl" : "http://dbpedia.org/resource/Diana_Beaumont",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Diana_Beaumont) dbo:birthDate o'<1909-5-8>",
+    "2" : "s(Diana_Beaumont) dbo:deathDate o'<1964-6-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11670",
+  "entityUrl" : "http://dbpedia.org/resource/Dani%C3%A8le_G%C3%A9gauff",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11671",
+  "entityUrl" : "http://dbpedia.org/resource/Dorothy_Bartlam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dorothy_Bartlam) dbo:birthDate o'<1907-1-1>",
+    "2" : "s(Dorothy_Bartlam) dbo:deathDate o'<1991-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11672",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Stannard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Don_Stannard) dbo:birthDate o'<1916-1-1>",
+    "2" : "s(Don_Stannard) dbo:deathDate o'<1949-7-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11673",
+  "entityUrl" : "http://dbpedia.org/resource/Dora_De_Winton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dora_De_Winton) dbo:birthDate o'<1874-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11674",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Gorst",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Gorst) dbo:birthDate o'<1903-1-1>",
+    "2" : "s(Derek_Gorst) dbo:deathDate o'<1981-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11675",
+  "entityUrl" : "http://dbpedia.org/resource/Dorinea_Shirley",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11676",
+  "entityUrl" : "http://dbpedia.org/resource/Daisy_Campbell",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11677",
+  "entityUrl" : "http://dbpedia.org/resource/David_Oxley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Oxley) dbo:birthDate o'<1920-11-07>",
+    "2" : "s(David_Oxley) dbo:birthDate o'<1920-11-7>",
+    "3" : "s(David_Oxley) dbo:birthPlace o'<UK>",
+    "4" : "s(David_Oxley) dbo:birthPlace o'<England>",
+    "5" : "s(David_Oxley) dbo:birthPlace o'<Somerset>",
+    "6" : "s(David_Oxley) dbo:birthPlace o'<Wellington,_Somerset>",
+    "7" : "s(David_Oxley) dbo:deathDate o'<1985-10-30>",
+    "8" : "s(David_Oxley) dbo:deathPlace o'<Spain>",
+    "9" : "s(David_Oxley) dbo:deathPlace o'<Málaga>",
+    "10" : "s(David_Oxley) dbp:name o'<David Oxley>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11678",
+  "entityUrl" : "http://dbpedia.org/resource/Dorothy_Seacombe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dorothy_Seacombe) dbo:birthDate o'<1906-03-22>",
+    "2" : "s(Dorothy_Seacombe) dbo:birthDate o'<1905-1-1>",
+    "3" : "s(Dorothy_Seacombe) dbo:birthPlace o'<England>",
+    "4" : "s(Dorothy_Seacombe) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Dorothy_Seacombe) dbo:birthPlace o'<Bolton>",
+    "6" : "s(Dorothy_Seacombe) dbo:deathDate o'<1994-12-1>",
+    "7" : "s(Dorothy_Seacombe) dbo:deathPlace o'<England>",
+    "8" : "s(Dorothy_Seacombe) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11679",
+  "entityUrl" : "http://dbpedia.org/resource/Daisy_Cordell",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11680",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Payne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Douglas_Payne) dbo:birthDate o'<1875-0-0>",
+    "2" : "s(Douglas_Payne) dbo:deathDate o'<1965-8-3>",
+    "3" : "s(Douglas_Payne) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11681",
+  "entityUrl" : "http://dbpedia.org/resource/Dallas_Cairns",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dallas_Cairns) dbo:birthDate o'<1881-0-0>",
+    "2" : "s(Dallas_Cairns) dbo:deathDate o'<1941-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11682",
+  "entityUrl" : "http://dbpedia.org/resource/Dorothy_Foster",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11683",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_Grayson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Diane_Grayson) dbo:birthDate o'<1948-1-1>",
+    "2" : "s(Diane_Grayson) dbp:date o'<January 2014>",
+    "3" : "s(Diane_Grayson) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11684",
+  "entityUrl" : "http://dbpedia.org/resource/Denise_Grey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Denise_Grey) dbo:birthDate o'<1896-09-17>",
+    "2" : "s(Denise_Grey) dbo:birthDate o'<1896-9-17>",
+    "3" : "s(Denise_Grey) dbo:birthPlace o'<Italy>",
+    "4" : "s(Denise_Grey) dbo:birthPlace o'<Châtillon,_Aosta_Valley>",
+    "5" : "s(Denise_Grey) dbo:deathDate o'<1996-01-13>",
+    "6" : "s(Denise_Grey) dbo:deathDate o'<1996-1-13>",
+    "7" : "s(Denise_Grey) dbo:deathPlace o'<Paris>",
+    "8" : "s(Denise_Grey) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11685",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Munro_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Douglas_Munro_(actor)) dbo:birthDate o'<1866-1-1>",
+    "2" : "s(Douglas_Munro_(actor)) dbo:deathDate o'<1924-1-27>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11686",
+  "entityUrl" : "http://dbpedia.org/resource/Duncan_McRae_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Duncan_McRae_(actor)) dbo:birthDate o'<1873-1-1>",
+    "2" : "s(Duncan_McRae_(actor)) dbo:deathDate o'<1931-2-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11687",
+  "entityUrl" : "http://dbpedia.org/resource/DeObia_Oparei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(DeObia_Oparei) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(DeObia_Oparei) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11688",
+  "entityUrl" : "http://dbpedia.org/resource/Dick_Webb",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11689",
+  "entityUrl" : "http://dbpedia.org/resource/Dallas_Anderson_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dallas_Anderson_(actress)) dbo:birthDate o'<1874-1-1>",
+    "2" : "s(Dallas_Anderson_(actress)) dbo:deathDate o'<1934-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11690",
+  "entityUrl" : "http://dbpedia.org/resource/Dorothy_Bramhall",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11691",
+  "entityUrl" : "http://dbpedia.org/resource/Dorothy_Gordon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dorothy_Gordon) dbo:birthDate o'<1924-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11692",
+  "entityUrl" : "http://dbpedia.org/resource/Dawson_Millward",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dawson_Millward) dbo:birthDate o'<1870-1-1>",
+    "2" : "s(Dawson_Millward) dbo:deathDate o'<1926-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11693",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Muir_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Douglas_Muir_(actor)) dbo:birthDate o'<1914-1-1>",
+    "2" : "s(Douglas_Muir_(actor)) dbo:deathDate o'<1966-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11694",
+  "entityUrl" : "http://dbpedia.org/resource/David_Sterne",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11695",
+  "entityUrl" : "http://dbpedia.org/resource/Didier_Bienaim%C3%A9",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11696",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Chew",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dennis_Chew) dbo:activeYearsStartYear o'<1980>",
+    "2" : "s(Dennis_Chew) dbo:birthDate o'<1973-8-15>",
+    "3" : "s(Dennis_Chew) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Dennis_Chew) dbo:occupation o'<Radio_deejay>",
+    "5" : "s(Dennis_Chew) dbp:birthDate o'<1973-08-15>",
+    "6" : "s(Dennis_Chew) dbp:birthName o'<Dennis Chew Chong Kheng>",
+    "7" : "s(Dennis_Chew) dbp:birthPlace o'<Singapore>",
+    "8" : "s(Dennis_Chew) dbp:otherName o'<Auntie Lucy>",
+    "9" : "s(Dennis_Chew) dbp:otherName(s)_ o'<Aunty Lucy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11697",
+  "entityUrl" : "http://dbpedia.org/resource/Dominique_Darel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dominique_Darel) dbo:birthDate o'<1950-1-1>",
+    "2" : "s(Dominique_Darel) dbo:country o'<France>",
+    "3" : "s(Dominique_Darel) dbo:deathDate o'<1978-6-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11698",
+  "entityUrl" : "http://dbpedia.org/resource/Diana_Ser",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Diana_Ser) dbo:activeYearsEndYear o'<2008>",
+    "2" : "s(Diana_Ser) dbo:activeYearsStartYear o'<1990>",
+    "3" : "s(Diana_Ser) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Diana_Ser) dbo:occupation o'<Journalist>",
+    "5" : "s(Diana_Ser) dbo:spouse o'<James_Lye>",
+    "6" : "s(Diana_Ser) dbp:birthName o'<Ser Siew Yien>",
+    "7" : "s(Diana_Ser) dbp:birthPlace o'<Singapore>",
+    "8" : "s(Diana_Ser) dbp:children o'<3>",
+    "9" : "s(Diana_Ser) dbp:p o'<Xú Xiùyíng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11699",
+  "entityUrl" : "http://dbpedia.org/resource/Dylan_Ryan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dylan_Ryan) dbo:birthDate o'<1986-04-21>",
+    "2" : "s(Dylan_Ryan) dbo:birthDate o'<1986-4-6>",
+    "3" : "s(Dylan_Ryan) dbo:birthPlace o'<United_States>",
+    "4" : "s(Dylan_Ryan) dbo:birthPlace o'<San_Francisco>",
+    "5" : "s(Dylan_Ryan) dbo:height o'<152.4>",
+    "6" : "s(Dylan_Ryan) dbo:weight o'<61.6896>",
+    "7" : "s(Dylan_Ryan) dbp:name o'<Dylan Ryan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11700",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Johansson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Douglas_Johansson) dbo:birthDate o'<1960-01-31>",
+    "2" : "s(Douglas_Johansson) dbo:birthDate o'<1960-1-31>",
+    "3" : "s(Douglas_Johansson) dbo:birthPlace o'<Stockholm_County>",
+    "4" : "s(Douglas_Johansson) dbo:birthPlace o'<Solna_Municipality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11701",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Duval",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Duval) dbo:birthDate o'<1944-11-28>",
+    "2" : "s(Daniel_Duval) dbo:birthPlace o'<Vitry-sur-Seine>",
+    "3" : "s(Daniel_Duval) dbo:birthPlace o'<France>",
+    "4" : "s(Daniel_Duval) dbo:deathDate o'<2013-10-10>",
+    "5" : "s(Daniel_Duval) dbo:deathPlace o'<Paris>",
+    "6" : "s(Daniel_Duval) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11702",
+  "entityUrl" : "http://dbpedia.org/resource/Dominique_Hourani",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dominique_Hourani) dbo:birthDate o'<1985-08-07>",
+    "2" : "s(Dominique_Hourani) dbo:birthDate o'<1985-8-7>",
+    "3" : "s(Dominique_Hourani) dbo:birthPlace o'<Beirut>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11703",
+  "entityUrl" : "http://dbpedia.org/resource/Du_Zhiguo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Du_Zhiguo) dbo:birthDate o'<1954-9-29>",
+    "2" : "s(Du_Zhiguo) dbp:birthPlace o'<China>",
+    "3" : "s(Du_Zhiguo) dbp:birthPlace o'<Hebei>",
+    "4" : "s(Du_Zhiguo) dbp:name o'<Zhiguo Du>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11704",
+  "entityUrl" : "http://dbpedia.org/resource/Dai_Xiangyu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dai_Xiangyu) dbo:birthDate o'<1984-12-27>",
+    "2" : "s(Dai_Xiangyu) dbp:birthPlace o'<China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11705",
+  "entityUrl" : "http://dbpedia.org/resource/Desmond_Tan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Desmond_Tan) dbo:birthDate o'<1986-8-19>",
+    "2" : "s(Desmond_Tan) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11706",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Tsang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Derek_Tsang) dbo:birthDate o'<1979-11-8>",
+    "2" : "s(Derek_Tsang) dbo:birthPlace o'<Guangdong>",
+    "3" : "s(Derek_Tsang) dbp:birthPlace o'<Wuhua_County,_Meizhou>",
+    "4" : "s(Derek_Tsang) dbp:birthPlace o'<China>",
+    "5" : "s(Derek_Tsang) dbp:birthPlace o'<Guangdong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11707",
+  "entityUrl" : "http://dbpedia.org/resource/Darryl_Yong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Darryl_Yong) dbo:birthDate o'<1985-4-26>",
+    "2" : "s(Darryl_Yong) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11708",
+  "entityUrl" : "http://dbpedia.org/resource/Darren_Lim",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Darren_Lim) dbo:birthDate o'<1972-9-30>",
+    "2" : "s(Darren_Lim) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11709",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Portman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daniel_Portman) dbo:birthDate o'<1992-02-13>",
+    "2" : "s(Daniel_Portman) dbo:birthDate o'<1992-2-13>",
+    "3" : "s(Daniel_Portman) dbo:birthPlace o'<Glasgow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11710",
+  "entityUrl" : "http://dbpedia.org/resource/Debbie_Goh",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Debbie_Goh) dbo:birthDate o'<1978-11-8>",
+    "2" : "s(Debbie_Goh) dbp:birthPlace o'<Johor_Bahru>",
+    "3" : "s(Debbie_Goh) dbp:birthPlace o'<Johor>",
+    "4" : "s(Debbie_Goh) dbp:birthPlace o'<Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11711",
+  "entityUrl" : "http://dbpedia.org/resource/Dave_O'Toole",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dave_O'Toole) dbo:birthDate o'<1871-0-0>",
+    "2" : "s(Dave_O'Toole) dbo:deathDate o'<1951-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11712",
+  "entityUrl" : "http://dbpedia.org/resource/Dominique_Davray",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dominique_Davray) dbo:birthDate o'<1919-1-27>",
+    "2" : "s(Dominique_Davray) dbo:birthPlace o'<Paris>",
+    "3" : "s(Dominique_Davray) dbo:deathDate o'<1998-8-16>",
+    "4" : "s(Dominique_Davray) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11713",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_To",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dennis_To) dbo:birthDate o'<1981-1-1>",
+    "2" : "s(Dennis_To) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11714",
+  "entityUrl" : "http://dbpedia.org/resource/David_Caves",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(David_Caves) dbo:height o'<189.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11715",
+  "entityUrl" : "http://dbpedia.org/resource/Dylan_Ryder",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dylan_Ryder) dbo:birthDate o'<1981-02-23>",
+    "2" : "s(Dylan_Ryder) dbo:birthDate o'<1981-2-23>",
+    "3" : "s(Dylan_Ryder) dbo:birthPlace o'<Fresno>",
+    "4" : "s(Dylan_Ryder) dbo:birthPlace o'<California>",
+    "5" : "s(Dylan_Ryder) dbo:birthPlace o'<Fresno,_California>",
+    "6" : "s(Dylan_Ryder) dbo:height o'<175.26>",
+    "7" : "s(Dylan_Ryder) dbo:weight o'<61.6896>",
+    "8" : "s(Dylan_Ryder) dbp:name o'<Dylan Ryder>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11716",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Fielding",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Douglas_Fielding) dbo:birthDate o'<1946-06-06>",
+    "2" : "s(Douglas_Fielding) dbo:birthDate o'<1946-6-6>",
+    "3" : "s(Douglas_Fielding) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11717",
+  "entityUrl" : "http://dbpedia.org/resource/Denise_Legeay",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Denise_Legeay) dbo:birthDate o'<1898-01-22>",
+    "2" : "s(Denise_Legeay) dbo:birthDate o'<1898-1-22>",
+    "3" : "s(Denise_Legeay) dbo:birthPlace o'<Courdemanche,_Sarthe>",
+    "4" : "s(Denise_Legeay) dbo:birthPlace o'<France>",
+    "5" : "s(Denise_Legeay) dbo:deathDate o'<1968-05-27>",
+    "6" : "s(Denise_Legeay) dbo:deathDate o'<1968-5-27>",
+    "7" : "s(Denise_Legeay) dbo:deathPlace o'<Paris>",
+    "8" : "s(Denise_Legeay) dbo:deathPlace o'<France>",
+    "9" : "s(Denise_Legeay) dbp:name o'<Denise Legeay>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11718",
+  "entityUrl" : "http://dbpedia.org/resource/Deborah_Makepeace",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Deborah_Makepeace) dbo:birthDate o'<1957-1-1>",
+    "2" : "s(Deborah_Makepeace) dbo:country o'<United_Kingdom>",
+    "3" : "s(Deborah_Makepeace) dbo:deathDate o'<1999-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11719",
+  "entityUrl" : "http://dbpedia.org/resource/Dag_Malmberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dag_Malmberg) dbo:birthDate o'<1953-01-18>",
+    "2" : "s(Dag_Malmberg) dbo:birthDate o'<1953-1-18>",
+    "3" : "s(Dag_Malmberg) dbo:birthPlace o'<Gävle>",
+    "4" : "s(Dag_Malmberg) dbp:name o'<Dag Malmberg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11720",
+  "entityUrl" : "http://dbpedia.org/resource/Daisy_Cakes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daisy_Cakes) dbo:wikiPageRedirects o'<Daisy_Waite>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11721",
+  "entityUrl" : "http://dbpedia.org/resource/Dada_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dada_Chan) dbo:birthDate o'<1989-3-22>",
+    "2" : "s(Dada_Chan) dbo:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11722",
+  "entityUrl" : "http://dbpedia.org/resource/Daisuke_Kikuta",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Daisuke_Kikuta) dbo:birthDate o'<1988-12-01>",
+    "2" : "s(Daisuke_Kikuta) dbo:birthDate o'<1988-12-1>",
+    "3" : "s(Daisuke_Kikuta) dbo:birthPlace o'<Japan>",
+    "4" : "s(Daisuke_Kikuta) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11723",
+  "entityUrl" : "http://dbpedia.org/resource/Dubbing_Janaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Dubbing_Janaki) dbo:birthDate o'<1949-08-28>",
+    "2" : "s(Dubbing_Janaki) dbo:birthDate o'<1949-8-28>",
+    "3" : "s(Dubbing_Janaki) dbo:birthName o'<Janaki>",
+    "4" : "s(Dubbing_Janaki) dbo:birthPlace o'<Andhra_Pradesh>",
+    "5" : "s(Dubbing_Janaki) dbo:birthPlace o'<India>",
+    "6" : "s(Dubbing_Janaki) dbo:birthPlace o'<Peddapuram>",
+    "7" : "s(Dubbing_Janaki) dbo:imdbId o'<0417309>",
+    "8" : "s(Dubbing_Janaki) dbp:notableRole o'<Sagara_Sangamam>",
+    "9" : "s(Dubbing_Janaki) dbp:notableRole o'<Geethanjali>",
+    "10" : "s(Dubbing_Janaki) dbp:notableRole o'<Swati Mutyam>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(dubbing janaki=Dubbing_Janaki) [acted in ] o'<south indian=India>"
+  },
+  "abstract" : {
+    "2" : "dubbing janaki<Dubbing_Janaki> acted in south indian<India> languages\n"
+  }
+}, {
+  "entityIndex" : "entity11724",
+  "entityUrl" : "http://dbpedia.org/resource/Doug_Cockle",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Doug_Cockle) dbo:birthDate o'<1970-09-16>",
+    "2" : "s(Doug_Cockle) dbo:birthDate o'<1970-9-16>",
+    "3" : "s(Doug_Cockle) dbo:birthPlace o'<California>",
+    "4" : "s(Doug_Cockle) dbo:birthPlace o'<Twentynine_Palms,_California>",
+    "5" : "s(Doug_Cockle) dbo:birthPlace o'<Twentynine_Palms>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

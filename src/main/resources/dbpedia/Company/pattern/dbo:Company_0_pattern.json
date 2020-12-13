@@ -1,0 +1,59 @@
+[ {
+  "entityIndex" : "entity10810",
+  "entityUrl" : "http://dbpedia.org/resource/07th_Expansion",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(07th_Expansion) dbo:industry o'<Visual_novel>",
+    "2" : "s(07th_Expansion) dbo:industry o'<Video_game_industry>",
+    "3" : "s(07th_Expansion) dbo:industry o'<Interactive_entertainment>",
+    "4" : "s(07th_Expansion) dbo:location o'<Japan>",
+    "5" : "s(07th_Expansion) dbo:product o'<Higurashi_When_They_Cry>",
+    "6" : "s(07th_Expansion) dbo:product o'<Umineko:_When_They_Cry>",
+    "7" : "s(07th_Expansion) dbo:product o'<Rose_Guns_Days>",
+    "8" : "s(07th_Expansion) dbo:product o'<Higanbana_no_Saku_Yoru_ni>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10811",
+  "entityUrl" : "http://dbpedia.org/resource/0verflow",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(0verflow) dbo:foundingYear o'<1997>",
+    "2" : "s(0verflow) dbo:genre o'<Eroge>",
+    "3" : "s(0verflow) dbo:industry o'<Interactive_entertainment>",
+    "4" : "s(0verflow) dbo:keyPerson o'<CEO>",
+    "5" : "s(0verflow) dbo:locationCity o'<Kanda,_Tokyo>",
+    "6" : "s(0verflow) dbo:locationCity o'<Tokyo>",
+    "7" : "s(0verflow) dbo:locationCity o'<Chiyoda,_Tokyo>",
+    "8" : "s(0verflow) dbo:numberOfEmployees o'<12>",
+    "9" : "s(0verflow) dbo:parentCompany o'<Stack_Ltd.>",
+    "10" : "s(0verflow) dbo:product o'<Summer_Days>",
+    "11" : "s(0verflow) dbo:product o'<Cross_Days>",
+    "12" : "s(0verflow) dbo:product o'<School_Days_(visual_novel)>",
+    "13" : "s(0verflow) dbo:type o'<Privately_held_company>",
+    "14" : "s(0verflow) dbp:areaServed o'<Japan>",
+    "15" : "s(0verflow) dbp:founder o'<Akio Ōnuma>",
+    "16" : "s(0verflow) dbp:locationCountry o'<Japan>",
+    "17" : "s(0verflow) dbp:logo o'<File:0verflowlogo.png>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10812",
+  "entityUrl" : "http://dbpedia.org/resource/01_Communique",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(01_Communique) dbo:foundingYear o'<1992>",
+    "2" : "s(01_Communique) dbo:industry o'<Software>",
+    "3" : "s(01_Communique) dbo:location o'<Ontario>",
+    "4" : "s(01_Communique) dbo:location o'<Mississauga>",
+    "5" : "s(01_Communique) dbo:numberOfEmployees o'<15>",
+    "6" : "s(01_Communique) dbp:keyPeople o'<Andrew Cheung, President>",
+    "7" : "s(01_Communique) dbp:logo o'<1>",
+    "8" : "s(01_Communique) dbp:products o'<Remote Access Software, Online Help Desk Support Software>",
+    "9" : "s(01_Communique) dbp:type o'<Public Listed Company>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

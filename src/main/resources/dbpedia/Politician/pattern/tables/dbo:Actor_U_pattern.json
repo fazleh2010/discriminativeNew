@@ -1,0 +1,194 @@
+[ {
+  "entityIndex" : "entity15311",
+  "entityUrl" : "http://dbpedia.org/resource/Umi_Tenjin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Umi_Tenjin) dbo:birthPlace o'<Tochigi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15312",
+  "entityUrl" : "http://dbpedia.org/resource/Ui_Miyazaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ui_Miyazaki) dbo:birthDate o'<1981-08-23>",
+    "2" : "s(Ui_Miyazaki) dbo:birthDate o'<1981-8-23>",
+    "3" : "s(Ui_Miyazaki) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ui_Miyazaki) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15313",
+  "entityUrl" : "http://dbpedia.org/resource/Ulla_Jacobsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ulla_Jacobsson) dbo:birthDate o'<1929-05-23>",
+    "2" : "s(Ulla_Jacobsson) dbo:birthDate o'<1929-5-23>",
+    "3" : "s(Ulla_Jacobsson) dbo:birthPlace o'<Gothenburg>",
+    "4" : "s(Ulla_Jacobsson) dbo:birthPlace o'<Mölndal>",
+    "5" : "s(Ulla_Jacobsson) dbo:birthPlace o'<Västra_Götalands_län>",
+    "6" : "s(Ulla_Jacobsson) dbo:deathDate o'<1982-08-20>",
+    "7" : "s(Ulla_Jacobsson) dbo:deathDate o'<1982-8-20>",
+    "8" : "s(Ulla_Jacobsson) dbo:deathPlace o'<Vienna>",
+    "9" : "s(Ulla_Jacobsson) dbo:deathPlace o'<Austria>",
+    "10" : "s(Ulla_Jacobsson) dbp:name o'<Ulla Jacobsson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15314",
+  "entityUrl" : "http://dbpedia.org/resource/Ulf_Palme",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ulf_Palme) dbo:birthDate o'<1920-10-18>",
+    "2" : "s(Ulf_Palme) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Ulf_Palme) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Ulf_Palme) dbo:deathDate o'<1993-05-12>",
+    "5" : "s(Ulf_Palme) dbo:deathDate o'<1993-5-12>",
+    "6" : "s(Ulf_Palme) dbo:deathPlace o'<Ingarö>",
+    "7" : "s(Ulf_Palme) dbo:deathPlace o'<Sweden>",
+    "8" : "s(Ulf_Palme) dbp:name o'<Ulf Palme>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15315",
+  "entityUrl" : "http://dbpedia.org/resource/Ulla_Akselson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ulla_Akselson) dbo:birthDate o'<1924-11-23>",
+    "2" : "s(Ulla_Akselson) dbo:birthPlace o'<Stockholm_County>",
+    "3" : "s(Ulla_Akselson) dbo:birthPlace o'<Solna_Municipality>",
+    "4" : "s(Ulla_Akselson) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Ulla_Akselson) dbo:deathDate o'<2007-02-20>",
+    "6" : "s(Ulla_Akselson) dbo:deathDate o'<2007-2-20>",
+    "7" : "s(Ulla_Akselson) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15316",
+  "entityUrl" : "http://dbpedia.org/resource/Ulla_Sj%C3%B6blom",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15317",
+  "entityUrl" : "http://dbpedia.org/resource/Ulf_Larsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ulf_Larsson) dbo:birthDate o'<1956-07-01>",
+    "2" : "s(Ulf_Larsson) dbo:birthDate o'<1956-7-1>",
+    "3" : "s(Ulf_Larsson) dbo:birthPlace o'<Bromma>",
+    "4" : "s(Ulf_Larsson) dbo:birthPlace o'<Q926728>",
+    "5" : "s(Ulf_Larsson) dbo:deathDate o'<2009-09-28>",
+    "6" : "s(Ulf_Larsson) dbo:deathDate o'<2009-9-28>",
+    "7" : "s(Ulf_Larsson) dbo:deathPlace o'<Solna,_Sweden>",
+    "8" : "s(Ulf_Larsson) dbo:deathPlace o'<Solna_Municipality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15318",
+  "entityUrl" : "http://dbpedia.org/resource/Umeka_Sh%C5%8Dji",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15319",
+  "entityUrl" : "http://dbpedia.org/resource/Ulf_Brunnberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ulf_Brunnberg) dbo:birthDate o'<1947-04-07>",
+    "2" : "s(Ulf_Brunnberg) dbo:birthDate o'<1947-4-7>",
+    "3" : "s(Ulf_Brunnberg) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Ulf_Brunnberg) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15320",
+  "entityUrl" : "http://dbpedia.org/resource/Umewaka_Minoru_I",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Umewaka_Minoru_I) dbo:birthDate o'<1828-07-07>",
+    "2" : "s(Umewaka_Minoru_I) dbo:birthDate o'<1828-7-7>",
+    "3" : "s(Umewaka_Minoru_I) dbo:birthPlace o'<Edo>",
+    "4" : "s(Umewaka_Minoru_I) dbo:deathDate o'<1909-01-19>",
+    "5" : "s(Umewaka_Minoru_I) dbo:deathDate o'<1909-1-1>",
+    "6" : "s(Umewaka_Minoru_I) dbo:deathPlace o'<Tokyo>",
+    "7" : "s(Umewaka_Minoru_I) dbp:deathPlace o'<Tokyo, Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15321",
+  "entityUrl" : "http://dbpedia.org/resource/Ulf_Johanson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ulf_Johanson) dbo:activeYearsEndYear o'<1946>",
+    "2" : "s(Ulf_Johanson) dbo:activeYearsStartYear o'<1946>",
+    "3" : "s(Ulf_Johanson) dbo:birthDate o'<1922-02-03>",
+    "4" : "s(Ulf_Johanson) dbo:birthDate o'<1922-2-3>",
+    "5" : "s(Ulf_Johanson) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Ulf_Johanson) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Ulf_Johanson) dbo:birthYear o'<1922>",
+    "8" : "s(Ulf_Johanson) dbo:deathDate o'<1990-02-15>",
+    "9" : "s(Ulf_Johanson) dbo:deathDate o'<1990-2-15>",
+    "10" : "s(Ulf_Johanson) dbo:deathPlace o'<Stockholm>",
+    "11" : "s(Ulf_Johanson) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Ulf_Johanson) dbo:deathYear o'<1990>",
+    "13" : "s(Ulf_Johanson) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15322",
+  "entityUrl" : "http://dbpedia.org/resource/Ulla_Skoog",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ulla_Skoog) dbo:activeYearsEndYear o'<1981>",
+    "2" : "s(Ulla_Skoog) dbo:activeYearsStartYear o'<1981>",
+    "3" : "s(Ulla_Skoog) dbo:birthDate o'<1951-02-23>",
+    "4" : "s(Ulla_Skoog) dbo:birthDate o'<1951-2-23>",
+    "5" : "s(Ulla_Skoog) dbo:birthName o'<Ulla Marie Skoog>",
+    "6" : "s(Ulla_Skoog) dbo:birthPlace o'<Sävedalen>",
+    "7" : "s(Ulla_Skoog) dbo:birthPlace o'<Partille_Municipality>",
+    "8" : "s(Ulla_Skoog) dbo:birthPlace o'<Sweden>",
+    "9" : "s(Ulla_Skoog) dbo:birthYear o'<1951>",
+    "10" : "s(Ulla_Skoog) dbo:nationality o'<Sweden>",
+    "11" : "s(Ulla_Skoog) dbo:occupation o'<Comedian>",
+    "12" : "s(Ulla_Skoog) dbo:occupation o'<Film_director>",
+    "13" : "s(Ulla_Skoog) dbo:occupation o'<Ulla_Skoog__1>",
+    "14" : "s(Ulla_Skoog) dbo:occupation o'<Actor>",
+    "15" : "s(Ulla_Skoog) dbp:nationality o'<Swedish>",
+    "16" : "s(Ulla_Skoog) dbp:partner o'<Ronny Carlsson>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ulla skoog=Ulla_Skoog) [works ] o'<director=Film_director>"
+  },
+  "abstract" : {
+    "2" : "ulla skoog<Ulla_Skoog> also works as director<Film_director> in tv and at stockholm city theatre\n"
+  }
+}, {
+  "entityIndex" : "entity15323",
+  "entityUrl" : "http://dbpedia.org/resource/Ulf_Eklund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ulf_Eklund) dbo:activeYearsStartYear o'<1980>",
+    "2" : "s(Ulf_Eklund) dbo:birthDate o'<1951-04-23>",
+    "3" : "s(Ulf_Eklund) dbo:birthDate o'<1951-4-23>",
+    "4" : "s(Ulf_Eklund) dbo:birthPlace o'<Stockholm>",
+    "5" : "s(Ulf_Eklund) dbo:birthPlace o'<Sweden>",
+    "6" : "s(Ulf_Eklund) dbo:birthPlace o'<Brännkyrka>",
+    "7" : "s(Ulf_Eklund) dbo:birthYear o'<1951>",
+    "8" : "s(Ulf_Eklund) dbo:nationality o'<Sweden>",
+    "9" : "s(Ulf_Eklund) dbo:occupation o'<Ulf_Eklund__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

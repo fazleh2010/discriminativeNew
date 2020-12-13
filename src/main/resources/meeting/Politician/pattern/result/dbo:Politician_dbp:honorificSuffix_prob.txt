@@ -1,8 +1,0 @@
-id=26  property=dbp:honorificSuffix  
-appoint  VBN  multiply=0.009841  P(appoint|dbp:honorificSuffix)=0.048156  P(dbp:honorificSuffix|appoint)=0.204348    
-liberal  JJ  multiply=0.007979  P(liberal|dbp:honorificSuffix)=0.029713  P(dbp:honorificSuffix|liberal)=0.268519    
-serve  RB_VBN  multiply=0.005577  P(serve|dbp:honorificSuffix)=0.094262  P(dbp:honorificSuffix|serve)=0.059164    
-elect  VBN  multiply=0.004449  P(elect|dbp:honorificSuffix)=0.08709  P(dbp:honorificSuffix|elect)=0.051082    
-elect_to  VBN_TO  multiply=0.002388  P(elect_to|dbp:honorificSuffix)=0.046107  P(dbp:honorificSuffix|elect_to)=0.051784    
-first_elect  RB_VBN  multiply=0.001807  P(first_elect|dbp:honorificSuffix)=0.021516  P(dbp:honorificSuffix|first_elect)=0.084    
-

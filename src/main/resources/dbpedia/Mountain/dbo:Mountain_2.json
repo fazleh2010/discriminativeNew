@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity10794",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%BDumberak",
+  "dboClass" : "dbo:Mountain",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10795",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%98%C3%ADp_Mountain",
+  "dboClass" : "dbo:Mountain",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10796",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%8Cvrsnica",
+  "dboClass" : "dbo:Mountain",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10797",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%9Cetliberg",
+  "dboClass" : "dbo:Mountain",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-mountain-noun-1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10798",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%8Eumbier",
+  "dboClass" : "dbo:Mountain",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-mountain-noun-1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10799",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81hkk%C3%A1",
+  "dboClass" : "dbo:Mountain",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-mountain-noun-1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

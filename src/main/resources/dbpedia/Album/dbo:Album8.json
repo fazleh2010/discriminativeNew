@@ -1,0 +1,33 @@
+[ {
+  "entityIndex" : "entity10833",
+  "entityUrl" : "http://dbpedia.org/resource/-Fa-Tal-_Gal_a_Todo_Vapor",
+  "dboClass" : "dbo:Album",
+  "properties" : {
+    "dbo:artist" : [ "http://dbpedia.org/resource/Gal_Costa" ],
+    "dbo:genre" : [ "http://dbpedia.org/resource/Música_popular_brasileira", "http://dbpedia.org/resource/Psychedelic_rock" ],
+    "dbo:previousWork" : [ "http://dbpedia.org/resource/Legal_(Gal_Costa_album)" ],
+    "dbo:recordLabel" : [ "http://dbpedia.org/resource/Philips_Records" ],
+    "dbo:runtime" : [ "67.6", "4056.0" ],
+    "dbo:subsequentWork" : [ "http://dbpedia.org/resource/Índia_(Gal_Costa_album)" ],
+    "dbo:wikiPageID" : [ "43678055" ],
+    "dbo:wikiPageRevisionID" : [ "742282560" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Gal_Costa_albums", "http://dbpedia.org/resource/Erasmo_Carlos", "http://dbpedia.org/resource/Category:1971_live_albums", "http://dbpedia.org/resource/Música_popular_brasileira", "http://dbpedia.org/resource/Roberto_Carlos_(singer)", "http://dbpedia.org/resource/Waly_Salomão", "http://dbpedia.org/resource/Psychedelic_rock", "http://dbpedia.org/resource/Rolling_Stone", "http://dbpedia.org/resource/Gal_Costa", "http://dbpedia.org/resource/Legal_(Gal_Costa_album)", "http://dbpedia.org/resource/Índia_(Gal_Costa_album)", "http://dbpedia.org/resource/Luiz_Gonzaga", "http://dbpedia.org/resource/Ismael_Silva", "http://dbpedia.org/resource/Jards_Macalé", "http://dbpedia.org/resource/Caetano_Veloso", "http://dbpedia.org/resource/Jorge_Ben_Jor", "http://dbpedia.org/resource/Philips_Records", "http://dbpedia.org/resource/Luiz_Melodia", "http://dbpedia.org/resource/Humberto_Teixeira", "http://dbpedia.org/resource/Category:Philips_Records_live_albums", "http://dbpedia.org/resource/Allmusic" ],
+    "dbp:cover" : [ "-Fa-Tal- Gal a Todo Vapor.jpg" ],
+    "dbp:headline" : [ "Side one", "Side two", "Side four", "Side three" ],
+    "dbp:length" : [ "244.0", "270.0", "272.0", "285.0", "302.0", "324.0", "66.0", "119.0", "166.0", "225.0", "229.0", "246.0", "39.0", "45.0", "69.0", "337.0", "26.0", "518.0" ],
+    "dbp:noprose" : [ "yes" ],
+    "dbp:note" : [ "previously titled \"Chuva, Suor e Cerveja\" by Caetano Veloso" ],
+    "dbp:producer" : [ "Roberto Menescal" ],
+    "dbp:released" : [ "1971" ],
+    "dbp:rev" : [ "http://dbpedia.org/resource/Allmusic" ],
+    "dbp:thisAlbum" : [ "-Fa-Tal- Gal a Todo Vapor" ],
+    "dbp:title" : [ "Falsa Baiana", "Hotel das Estrelas", "Coração Vagabundo", "Maria Bethânia", "Assum Preto", "Charles Anjo 45", "Antonico", "Bota a Mão nas Cadeiras", "Como 2 e 2", "Dê um Rolê", "Fruta Gogoia", "Luz do Sol", "Mal Secreto", "Não Se Esqueça de Mim", "Pérola Negra", "Sua Estupidez", "Vapor Barato" ],
+    "dbp:type" : [ "Live album" ],
+    "dbp:writer" : [ "http://dbpedia.org/resource/Erasmo_Carlos", "http://dbpedia.org/resource/Roberto_Carlos_(singer)", "http://dbpedia.org/resource/Waly_Salomão", "http://dbpedia.org/resource/Luiz_Gonzaga", "http://dbpedia.org/resource/Ismael_Silva", "http://dbpedia.org/resource/Jards_Macalé", "http://dbpedia.org/resource/Caetano_Veloso", "http://dbpedia.org/resource/Jorge_Ben_Jor", "http://dbpedia.org/resource/Luiz_Melodia", "http://dbpedia.org/resource/Humberto_Teixeira", "Geraldo Pereira", "Jards Macalé, Duda Machado", "(folk song)", "Moraes Moreira, Luiz Galvão", "Waly Salomão, Carlos Pinto" ],
+    "dbp:writingCredits" : [ "yes" ]
+  },
+  "words" : [ "Todo", "Vapor", "lançado", "em", "é", "cantora", ",", "-", "ao", ".", "Costa", "Fa-Tal", "Gal", "1971", "um", "álbum", "vivo", "brasileira", "da" ],
+  "adjectives" : [ "Fa-Tal" ],
+  "nouns" : [ "Costa", "lançado", "Todo", "Vapor", "Gal", "um", "em", "cantora", "é", "álbum", "brasileira", "da" ],
+  "text" : "Fa-Tal - Gal a Todo Vapor é um álbum ao vivo da cantora brasileira Gal Costa, lançado em 1971."
+} ]

@@ -1,9 +1,8 @@
-id=35  property=dbp:birthPlace  
-four_son  CD_NNS  multiply=0.003205  P(four_son|dbp:birthPlace)=0.003205  P(dbp:birthPlace|four_son)=1.0    
-serve_deputy  VBD_NN  multiply=0.002421  P(serve_deputy|dbp:birthPlace)=0.060897  P(dbp:birthPlace|serve_deputy)=0.039749    
-serve_president  VBD_NN  multiply=0.002168  P(serve_president|dbp:birthPlace)=0.057692  P(dbp:birthPlace|serve_president)=0.037578    
-west  RB_NN  multiply=0.001603  P(west|dbp:birthPlace)=0.003205  P(dbp:birthPlace|west)=0.5    
-imprison_for  VBN_IN  multiply=0.001603  P(imprison_for|dbp:birthPlace)=0.003205  P(dbp:birthPlace|imprison_for)=0.5    
-win_ward  VBD_NN  multiply=6.11E-4  P(win_ward|dbp:birthPlace)=0.00641  P(dbp:birthPlace|win_ward)=0.095238    
-teacher  NN  multiply=3.21E-4  P(teacher|dbp:birthPlace)=0.003205  P(dbp:birthPlace|teacher)=0.1    
+id=37  property=dbp:birthPlace  
+under_contract  IN_NN  multiply=6.28E-4  P(under_contract|dbp:birthPlace)=0.001571  P(dbp:birthPlace|under_contract)=0.4    
+winner_of  NN_IN  multiply=3.37E-4  P(winner_of|dbp:birthPlace)=0.002357  P(dbp:birthPlace|winner_of)=0.142857    
+enter  VBN  multiply=2.46E-4  P(enter|dbp:birthPlace)=0.003142  P(dbp:birthPlace|enter)=0.078431    
+elect_one  VBN_CD  multiply=2.24E-4  P(elect_one|dbp:birthPlace)=0.004713  P(dbp:birthPlace|elect_one)=0.047619    
+bear_in  VBN_IN  multiply=2.23E-4  P(bear_in|dbp:birthPlace)=0.009427  P(dbp:birthPlace|bear_in)=0.023622    
+become_first  VBD_RB  multiply=1.44E-4  P(become_first|dbp:birthPlace)=0.003142  P(dbp:birthPlace|become_first)=0.045977    
 

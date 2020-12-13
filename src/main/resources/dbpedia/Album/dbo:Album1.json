@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "entity10801",
+  "entityUrl" : "http://dbpedia.org/resource/!!!_(album)",
+  "dboClass" : "dbo:Album",
+  "properties" : {
+    "dbo:artist" : [ "http://dbpedia.org/resource/!!!" ],
+    "dbo:genre" : [ "http://dbpedia.org/resource/Dance-punk", "http://dbpedia.org/resource/Post-punk_revival" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/!!!", "http://dbpedia.org/resource/Justin_Van_Der_Volgen" ],
+    "dbo:recordLabel" : [ "http://dbpedia.org/resource/Gold_Standard_Laboratories" ],
+    "dbo:releaseDate" : [ "2001-06-19" ],
+    "dbo:runtime" : [ "45.45", "2727.0" ],
+    "dbo:subsequentWork" : [ "http://dbpedia.org/resource/Louden_Up_Now" ],
+    "dbo:wikiPageID" : [ "2556962" ],
+    "dbo:wikiPageRevisionID" : [ "738251976" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:2001_debut_albums", "http://dbpedia.org/resource/Nic_Offer", "http://dbpedia.org/resource/Category:!!!_albums", "http://dbpedia.org/resource/Category:Gold_Standard_Laboratories_albums", "http://dbpedia.org/resource/Category:English-language_albums", "http://dbpedia.org/resource/Rock_music", "http://dbpedia.org/resource/Studio_album", "http://dbpedia.org/resource/Stylus_Magazine", "http://dbpedia.org/resource/!!!", "http://dbpedia.org/resource/Gold_Standard_Laboratories", "http://dbpedia.org/resource/Justin_Van_Der_Volgen", "http://dbpedia.org/resource/AllMusic", "http://dbpedia.org/resource/Dance-punk", "http://dbpedia.org/resource/Louden_Up_Now", "http://dbpedia.org/resource/Post-punk_revival" ],
+    "dbp:cover" : [ "!!! - !!! album cover.jpg" ],
+    "dbp:headline" : [ "Side one", "Side two" ],
+    "dbp:id" : [ "e2e3f68e-4b21-3296-88f5-39d50f53cc72" ],
+    "dbp:language" : [ "English" ],
+    "dbp:length" : [ "304.0", "446.0", "414.0", "529.0", "315.0", "348.0", "368.0" ],
+    "dbp:name" : [ "!!!" ],
+    "dbp:rev" : [ "http://dbpedia.org/resource/Stylus_Magazine", "http://dbpedia.org/resource/AllMusic" ],
+    "dbp:rev2score" : [ "B-" ],
+    "dbp:thisAlbum" : [ "!!!" ],
+    "dbp:title" : [ "Hammerhead", "Feel Good Hit of the Fall", "Intensify", "KooKooKa Fuk-U", "Storm the Legion", "The Step", "There's No Fucking Rules, Dude" ],
+    "dbp:type" : [ "Album" ]
+  },
+  "words" : [ "``", "!!!", "de", "californiano", "-LRB-", "Laboratories", "Chk", "grupo", "del", "Standard", "pronunciado", "debut", "por", "Fue", "sello", "publicado", "como", "''", "Gold", "el", "homónimo", "2001", "en", "normalmente", "es", ".", "underground", "-RRB-", "álbum" ],
+  "adjectives" : [ "underground", "Standard" ],
+  "nouns" : [ "como", "Gold", "californiano", "Laboratories", "Chk", "el", "homónimo", "normalmente", "es", "pronunciado", "debut", "por", "Fue", "sello", "publicado" ],
+  "text" : "!!! es el álbum de debut homónimo del grupo !!! (pronunciado normalmente como «Chk Chk Chk»). Fue publicado en 2001 por el sello underground californiano Gold Standard Laboratories."
+}, {
+  "entityIndex" : "entity10802",
+  "entityUrl" : "http://dbpedia.org/resource/!_(album)",
+  "dboClass" : "dbo:Album",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49860890" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/!_(disambiguation)" ],
+    "dbo:wikiPageRevisionID" : [ "737582795" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/!_(disambiguation)" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10803",
+  "entityUrl" : "http://dbpedia.org/resource/!!Destroy-Oh-Boy!!",
+  "dboClass" : "dbo:Album",
+  "properties" : {
+    "dbo:artist" : [ "http://dbpedia.org/resource/New_Bomb_Turks" ],
+    "dbo:genre" : [ "http://dbpedia.org/resource/Garage_punk" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/Mike_Mariconda" ],
+    "dbo:recordLabel" : [ "http://dbpedia.org/resource/Crypt_Records" ],
+    "dbo:subsequentWork" : [ "http://dbpedia.org/resource/Information_Highway_Revisited" ],
+    "dbo:wikiPageID" : [ "16381751" ],
+    "dbo:wikiPageRevisionID" : [ "713714389" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Wire_(band)", "http://dbpedia.org/resource/Crypt_Records", "http://dbpedia.org/resource/Robert_Grey_(musician)", "http://dbpedia.org/resource/Category:1993_debut_albums", "http://dbpedia.org/resource/Category:Crypt_Records_albums", "http://dbpedia.org/resource/Bass_guitar", "http://dbpedia.org/resource/Category:English-language_albums", "http://dbpedia.org/resource/Drum_kit", "http://dbpedia.org/resource/Guitar", "http://dbpedia.org/resource/Punk_rock", "http://dbpedia.org/resource/Colin_Newman", "http://dbpedia.org/resource/Audio_engineer", "http://dbpedia.org/resource/Brooklyn", "http://dbpedia.org/resource/United_Kingdom", "http://dbpedia.org/resource/Singing", "http://dbpedia.org/resource/Record_producer", "http://dbpedia.org/resource/Spin_(magazine)", "http://dbpedia.org/resource/Alternative_Press", "http://dbpedia.org/resource/New_Bomb_Turks", "http://dbpedia.org/resource/Pink_Flag", "http://dbpedia.org/resource/Bruce_Gilbert", "http://dbpedia.org/resource/Graham_Lewis", "http://dbpedia.org/resource/Garage_punk", "http://dbpedia.org/resource/AllMusic", "http://dbpedia.org/resource/Category:New_Bomb_Turks_albums", "http://dbpedia.org/resource/Information_Highway_Revisited", "http://dbpedia.org/resource/Mike_Mariconda", "http://dbpedia.org/resource/Albert_Caiati", "http://dbpedia.org/resource/Bill_Randt", "http://dbpedia.org/resource/Coyote_Studios", "http://dbpedia.org/resource/Eric_Davidson_(musician)", "http://dbpedia.org/resource/Matt_Reber", "http://dbpedia.org/resource/Jim_Weber" ],
+    "dbp:allLyrics" : [ "Eric Davidson, except where noted" ],
+    "dbp:allMusic" : [ "The New Bomb Turk" ],
+    "dbp:cover" : [ "Destroyrohboy.jpg" ],
+    "dbp:length" : [ "123.0", "126.0", "144.0", "206.0", "210.0", "106.0", "131.0", "146.0", "153.0", "154.0", "177.0", "215.0", "61.0", "97.0" ],
+    "dbp:note" : [ "http://dbpedia.org/resource/Robert_Grey_(musician)", "http://dbpedia.org/resource/Colin_Newman", "http://dbpedia.org/resource/Bruce_Gilbert", "http://dbpedia.org/resource/Graham_Lewis" ],
+    "dbp:released" : [ "1993" ],
+    "dbp:thisAlbum" : [ "!!Destroy-Oh-Boy!!" ],
+    "dbp:title" : [ "Sucker Punch", "Mr. Suit", "Runnin' on Go", "Born Toulouse-Lautrec", "Cryin' into the Beer of a Drunk Man", "Dragstrip Riot", "I Want My Baby...Dead?", "I'm Weak", "Lone Gone Sister", "Tail Crush", "Tattooed Apathetic Boys", "Tryin' to Get By", "Up for a Downslide", "We Give a Rat's Ass" ],
+    "dbp:type" : [ "Album" ]
+  },
+  "words" : [ "!!", "`", "New", "l'album", "Destroy-Oh-Boy", "di", "è", "dei", "Crypt", ",", ".", "Turks", "dall", "nel", "etichetta", "1993", "Bomb", "prodotto", "debutto" ],
+  "adjectives" : [ "New", "Destroy-Oh-Boy" ],
+  "nouns" : [ "!!", "l'album", "dall", "nel", "è", "Bomb", "prodotto", "Turks" ],
+  "text" : "!!Destroy-Oh-Boy!! è l'album di debutto dei New Bomb Turks, prodotto nel 1993 dall'etichetta Crypt."
+} ]

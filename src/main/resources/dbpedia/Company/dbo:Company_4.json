@@ -1,0 +1,121 @@
+[ {
+  "entityIndex" : "entity10831",
+  "entityUrl" : "http://dbpedia.org/resource/4Licensing_Corporation",
+  "dboClass" : "dbo:Company",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10832",
+  "entityUrl" : "http://dbpedia.org/resource/40_Acres_and_a_Mule_Filmworks",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundedBy" : [ "http://dbpedia.org/resource/Spike_Lee" ],
+    "dbo:foundingYear" : [ "1979" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/Fort_Greene,_Brooklyn", "http://dbpedia.org/resource/New_York_(state)" ],
+    "dbo:regionServed" : [ "http://dbpedia.org/resource/World" ],
+    "dbo:service" : [ "http://dbpedia.org/resource/Film_production", "http://dbpedia.org/resource/Television_production" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/40_Acres_&_A_Mule_Filmworks_by_David_Shankbone.jpg?width=300" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.40acres.com" ],
+    "dbo:wikiPageID" : [ "949961" ],
+    "dbo:wikiPageRevisionID" : [ "737324445" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Companies_established_in_1986", "http://dbpedia.org/resource/Georgia_(U.S._state)", "http://dbpedia.org/resource/Mule", "http://dbpedia.org/resource/William_Tecumseh_Sherman", "http://dbpedia.org/resource/World", "http://dbpedia.org/resource/Abraham_Lincoln", "http://dbpedia.org/resource/Andrew_Johnson", "http://dbpedia.org/resource/Category:Film_production_companies_of_the_United_States", "http://dbpedia.org/resource/Category:Media_companies_based_in_New_York_City", "http://dbpedia.org/resource/Category:Spike_Lee", "http://dbpedia.org/resource/Spike_Lee", "http://dbpedia.org/resource/Super_Bowl", "http://dbpedia.org/resource/Forty_acres_and_a_mule", "http://dbpedia.org/resource/Production_company", "http://dbpedia.org/resource/Brooklyn", "http://dbpedia.org/resource/Sherman's_Special_Field_Orders,_No._15", "http://dbpedia.org/resource/Peabody_Award", "http://dbpedia.org/resource/New_York_City", "http://dbpedia.org/resource/Nike,_Inc.", "http://dbpedia.org/resource/Fort_Greene,_Brooklyn", "http://dbpedia.org/resource/Fort_Greene", "http://dbpedia.org/resource/Lay's", "http://dbpedia.org/resource/Do_The_Right_Thing", "http://dbpedia.org/resource/Malcolm_X_(1992_film)", "http://dbpedia.org/resource/New_York_(state)", "http://dbpedia.org/resource/Category:African-American_cinema", "http://dbpedia.org/resource/Film_production", "http://dbpedia.org/resource/Television_production", "http://dbpedia.org/resource/Eckō", "http://dbpedia.org/resource/Reconstruction_era_of_the_United_States", "http://dbpedia.org/resource/If_God_Is_Willing_and_Da_Creek_Don't_Rise" ],
+    "dbp:caption" : [ "40" ],
+    "dbp:company" : [ "40" ],
+    "dbp:id" : [ "29134" ],
+    "dbp:imageSize" : [ "220" ]
+  },
+  "words" : [ "``", "named", "episode", "owners", "revoked", "President", "Special", "issued", "Lincoln", "order", "Spike", "Order", "took", "slaves", "15", "Andrew", "distributed", "Filmworks", "freed", ",", "filmmaker", ".", "army", "1865", "coast", "-RRB-", "General", "acres", "Georgia", "-LRB-", "away", "American", "mules", "production", "distribution", "Field", "Sherman", "land", "company", "Acres", "early", "160,000", "Reconstruction", "''", "ordered", "famous", "assassinated", "Johnson", "surplus", "previous", "Mule", "m2", "black", "also", "families", "Lee", "noted", "lots", "40", "returned" ],
+  "adjectives" : [ "famous", "American", "previous", "Special", "black", "early" ],
+  "nouns" : [ "mules", "production", "episode", "owners", "distribution", "Field", "President", "Sherman", "land", "company", "Acres", "Lincoln", "order", "Spike", "Reconstruction", "Order", "slaves", "Johnson", "surplus", "Mule", "m2", "Andrew", "Filmworks", "families", "Lee", "filmmaker", "army", "lots", "coast", "General", "Georgia", "acres" ],
+  "text" : "40 Acres and a Mule Filmworks is the production company of noted American filmmaker Spike Lee. The company is named after a famous episode of early Reconstruction. In 1865, General Sherman issued \"Special Field Order 15\", which ordered the distribution of lots of 40 acres (160,000 m2) to some freed black families on the Georgia coast, and also distributed some surplus army mules. After President Lincoln was assassinated, President Andrew Johnson revoked the order, took the land away from the freed slaves, and returned it to the previous owners. After the success of films such as Do The Right Thing and Malcolm X, Lee expanded the 40 Acres brand by opening small clothing stores with merchandise that bore the 40 Acres emblem. Lee has also done several collaborations with clothing companies such as Nike, Eckō and Brooklyn Denim. 40 Acres and a Mule Filmworks also has an advertising division with DDB called Spike DDB located in New York. They have done several famous Super Bowl, Nike and Lay's potato chip commercial spots. They have produced hundreds of commercials and music videos in addition to Lee's famous films. In 2004, 40 Acres and a Mule Filmworks moved all of its operations to New York City with headquarters in Spike Lee's native borough of Brooklyn. 40 Acres and a Mule Filmworks headquarters is located on South Elliott Place in the Fort Greene neighborhood of Brooklyn. The production company won a Peabody Award in 2010 for If God Is Willing and Da Creek Don't Rise."
+}, {
+  "entityIndex" : "entity10833",
+  "entityUrl" : "http://dbpedia.org/resource/4Frontiers_Corporation",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundingYear" : [ "2005" ],
+    "dbo:industry" : [ "http://dbpedia.org/resource/NewSpace", "http://dbpedia.org/resource/Aerospace_engineering", "http://dbpedia.org/resource/Mars" ],
+    "dbo:keyPerson" : [ "http://dbpedia.org/resource/Joseph_E._Palaia,_IV", "http://dbpedia.org/resource/Mark_Homnick" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Florida", "http://dbpedia.org/resource/New_Port_Richey" ],
+    "dbo:numberOfEmployees" : [ "3" ],
+    "dbo:product" : [ "http://dbpedia.org/resource/Consultant", "http://dbpedia.org/resource/Informative_entertainment", "http://dbpedia.org/resource/Space_&_Mars_settlement_research_&_development" ],
+    "dbo:type" : [ "http://dbpedia.org/resource/Private_company" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.4FrontiersCorp.com/", "http://www.wired.com/news/space/0,2697,68739,00.html?tw=wn_tophead_2", "http://www.space.com/news/050908_four_frontiers.html", "http://www.sptimes.com/2006/12/04/Business/Like_no_place_on_Eart.shtml" ],
+    "dbo:wikiPageID" : [ "2652794" ],
+    "dbo:wikiPageRevisionID" : [ "629168077" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Consultant", "http://dbpedia.org/resource/NewSpace", "http://dbpedia.org/resource/Category:Companies_established_in_2005", "http://dbpedia.org/resource/Private_company", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Ben_Bova", "http://dbpedia.org/resource/CEO", "http://dbpedia.org/resource/Category:Space_colonization", "http://dbpedia.org/resource/Space", "http://dbpedia.org/resource/Flashline_Mars_Arctic_Research_Station", "http://dbpedia.org/resource/New_Port_Richey,_Florida", "http://dbpedia.org/resource/Space_Coast_Regional_Airport", "http://dbpedia.org/resource/Christopher_McKay", "http://dbpedia.org/resource/Florida", "http://dbpedia.org/resource/Buzz_Aldrin", "http://dbpedia.org/resource/Aerospace_engineering", "http://dbpedia.org/resource/Mars", "http://dbpedia.org/resource/Private_placement", "http://dbpedia.org/resource/New_Port_Richey", "http://dbpedia.org/resource/St._Petersburg_Times", "http://dbpedia.org/resource/Management_&_Organizational_History", "http://dbpedia.org/resource/Colonization_of_Mars", "http://dbpedia.org/resource/Exploration_of_Mars", "http://dbpedia.org/resource/Mars_Analogue_Research_Station_Programme", "http://dbpedia.org/resource/Informative_entertainment", "http://dbpedia.org/resource/Joseph_E._Palaia,_IV", "http://dbpedia.org/resource/Mark_Homnick", "http://dbpedia.org/resource/Space_&_Mars_settlement_research_&_development", "http://dbpedia.org/resource/INTERSPACE_Florida", "http://dbpedia.org/resource/Vice-President_of_R&D", "http://dbpedia.org/resource/Marianne_Dyson" ],
+    "dbp:areaServed" : [ "Worldwide" ]
+  },
+  "words" : [ "Corporation", "American", "2005", "4Frontiers", "founded", "company", "commerce", ",", "space", "." ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "Corporation", "4Frontiers", "company", "commerce", "space" ],
+  "text" : "4Frontiers Corporation is an American space commerce company, founded in 2005."
+}, {
+  "entityIndex" : "entity10834",
+  "entityUrl" : "http://dbpedia.org/resource/40/40_Club",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:owner" : [ "http://dbpedia.org/resource/Jay-Z" ],
+    "dbo:owningCompany" : [ "http://dbpedia.org/resource/Jay-Z" ],
+    "dbo:type" : [ "http://dbpedia.org/resource/Sports_bar" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.the4040club.com", "http://the4040club.com/" ],
+    "dbo:wikiPageID" : [ "3852884" ],
+    "dbo:wikiPageRevisionID" : [ "734935990" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Jay-Z", "http://dbpedia.org/resource/Category:Drinking_establishments_in_Manhattan", "http://dbpedia.org/resource/Baseball", "http://dbpedia.org/resource/Kurt_Angle", "http://dbpedia.org/resource/Category:2003_establishments_in_New_York", "http://dbpedia.org/resource/Brooklyn", "http://dbpedia.org/resource/Hartsfield–Jackson_Atlanta_International_Airport", "http://dbpedia.org/resource/Barclays_Center", "http://dbpedia.org/resource/Las_Vegas_Valley", "http://dbpedia.org/resource/Category:Jay_Z", "http://dbpedia.org/resource/Dirt_Off_Your_Shoulder", "http://dbpedia.org/resource/Major_League_Baseball", "http://dbpedia.org/resource/Fight_of_the_Century", "http://dbpedia.org/resource/Sports_bar", "http://dbpedia.org/resource/Atlantic_City", "http://dbpedia.org/resource/40–40_club", "http://dbpedia.org/resource/File:40-40_Club_Logo.svg" ],
+    "dbp:areaServed" : [ "New York City" ],
+    "dbp:logo" : [ "http://dbpedia.org/resource/File:40-40_Club_Logo.svg" ]
+  },
+  "words" : [ "``", "de", "propriétaires", "fait", "Jay-Z", "établissement", "saison", "des", "Gonzalez", "renvoie", "sont", "rappeur", "Le", "les", "40/40", "40-40", "joueurs", "ayant", "lounge", "en", "majeure", ",", "dans", ".", "et", "marque", "américaine", "ligue", "baseball", "qui", "sportifs", "nom", "bases", "chaîne", "clubs", "''", "expression", "Perez", "une", "bars", "home", "stolen", "la", "Club", "le", "Les", "Juan", "Desiree", "40", "rangeait", "runs" ],
+  "adjectives" : [ "rappeur", "une" ],
+  "nouns" : [ "qui", "sportifs", "fait", "Jay-Z", "bases", "chaîne", "établissement", "saison", "Gonzalez", "renvoie", "sont", "clubs", "Le", "ayant", "expression", "lounge", "Perez", "dans", "bars", "marque", "home", "américaine", "Club", "baseball", "Les", "Juan", "Desiree", "rangeait", "runs" ],
+  "text" : "Le 40/40 Club est une chaîne américaine de bars sportifs et clubs \"lounge\". Les propriétaires de la marque sont le rappeur Jay-Z, Desiree Gonzalez et Juan Perez. Le nom des établissement renvoie à une expression dans la ligue majeure de baseball qui \"rangeait\" dans le 40-40 Club les joueurs ayant fait 40 home runs et 40 stolen bases en une saison."
+}, {
+  "entityIndex" : "entity10835",
+  "entityUrl" : "http://dbpedia.org/resource/4K_Media_Inc.",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundingYear" : [ "1992", "2012" ],
+    "dbo:industry" : [ "http://dbpedia.org/resource/Anime_industry" ],
+    "dbo:locationCity" : [ "http://dbpedia.org/resource/New_York_City" ],
+    "dbo:locationCountry" : [ "http://dbpedia.org/resource/United_States" ],
+    "dbo:owner" : [ "http://dbpedia.org/resource/4Licensing_Corporation", "http://dbpedia.org/resource/Konami" ],
+    "dbo:owningCompany" : [ "http://dbpedia.org/resource/4Licensing_Corporation", "http://dbpedia.org/resource/Konami" ],
+    "dbo:product" : [ "http://dbpedia.org/resource/Anime", "http://dbpedia.org/resource/Cartoons" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/4K_Media_Inc._logo.svg?width=300" ],
+    "dbo:type" : [ "http://dbpedia.org/resource/Subsidiary" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.yugioh.com/" ],
+    "dbo:wikiPageID" : [ "5053829" ],
+    "dbo:wikiPageRevisionID" : [ "744291640" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Anime_companies", "http://dbpedia.org/resource/Yu-Gi-Oh!:_Bonds_Beyond_Time", "http://dbpedia.org/resource/Yu-Gi-Oh!_5D's", "http://dbpedia.org/resource/Yu-Gi-Oh!_Arc-V", "http://dbpedia.org/resource/Yu-Gi-Oh!_Capsule_Monsters", "http://dbpedia.org/resource/Yu-Gi-Oh!_Duel_Monsters", "http://dbpedia.org/resource/Yu-Gi-Oh!_Zexal", "http://dbpedia.org/resource/The_Pokémon_Company_International", "http://dbpedia.org/resource/Viva_Piñata_(TV_series)", "http://dbpedia.org/resource/4Licensing_Corporation", "http://dbpedia.org/resource/Rare_Ltd.", "http://dbpedia.org/resource/Kirby:_Right_Back_at_Ya!", "http://dbpedia.org/resource/G.I._Joe:_Sigma_6", "http://dbpedia.org/resource/Mirage_Studios", "http://dbpedia.org/resource/One_Piece", "http://dbpedia.org/resource/Rainbow_S.r.l.", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Yu-Gi-Oh!", "http://dbpedia.org/resource/Viz_Media", "http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)", "http://dbpedia.org/resource/Anime", "http://dbpedia.org/resource/Category:Media_companies_based_in_New_York_City", "http://dbpedia.org/resource/Dubbing_(filmmaking)", "http://dbpedia.org/resource/Nintendo", "http://dbpedia.org/resource/Yu-Gi-Oh!_GX", "http://dbpedia.org/resource/Subsidiary", "http://dbpedia.org/resource/Pokémon:_The_Movie_2000", "http://dbpedia.org/resource/Anime_industry", "http://dbpedia.org/resource/Tai_Chi_Chasers", "http://dbpedia.org/resource/Kikoriki", "http://dbpedia.org/resource/Sega", "http://dbpedia.org/resource/HAL_Laboratory", "http://dbpedia.org/resource/Shaman_King", "http://dbpedia.org/resource/Category:Companies_established_in_1992", "http://dbpedia.org/resource/Miramax", "http://dbpedia.org/resource/Shonen_Jump_(magazine)", "http://dbpedia.org/resource/New_York_City", "http://dbpedia.org/resource/The_Summit_Media_Group", "http://dbpedia.org/resource/Toei_Animation", "http://dbpedia.org/resource/Konami", "http://dbpedia.org/resource/Pokémon_(anime)", "http://dbpedia.org/resource/Sonic_X", "http://dbpedia.org/resource/Tokyo_Mew_Mew", "http://dbpedia.org/resource/Kinnikuman", "http://dbpedia.org/resource/Pokémon:_Destiny_Deoxys", "http://dbpedia.org/resource/Ojamajo_Doremi", "http://dbpedia.org/resource/Pokémon:_Jirachi_Wish_Maker", "http://dbpedia.org/resource/Pokémon:_Lucario_and_the_Mystery_of_Mew", "http://dbpedia.org/resource/Pokémon_4Ever", "http://dbpedia.org/resource/Pokémon_Heroes", "http://dbpedia.org/resource/Tama_and_Friends", "http://dbpedia.org/resource/Winx_Club", "http://dbpedia.org/resource/Yu-Gi-Oh!_The_Movie:_Pyramid_of_Light", "http://dbpedia.org/resource/Category:4Kids_Entertainment", "http://dbpedia.org/resource/TMS_Entertainment", "http://dbpedia.org/resource/Fighting_Foodons", "http://dbpedia.org/resource/Cubix", "http://dbpedia.org/resource/The_Incredible_Crash_Dummies", "http://dbpedia.org/resource/Warner_Bros._Family_Entertainment", "http://dbpedia.org/resource/Pokémon_3:_The_Movie", "http://dbpedia.org/resource/WMAC_Masters", "http://dbpedia.org/resource/Ancient_Ruler_Dinosaur_King_DKidz_Adventure", "http://dbpedia.org/resource/Category:Konami", "http://dbpedia.org/resource/F-Zero", "http://dbpedia.org/resource/Turtles_Forever", "http://dbpedia.org/resource/Yu-Gi-Oh!:_The_Dark_Side_of_Dimensions", "http://dbpedia.org/resource/Hasbro_Studios", "http://dbpedia.org/resource/Chaotic", "http://dbpedia.org/resource/Chaotic_(TV_series)", "http://dbpedia.org/resource/Norman_J._Grossfeld", "http://dbpedia.org/resource/Pokémon_Chronicles", "http://dbpedia.org/resource/Pokémon:_The_First_Movie", "http://dbpedia.org/resource/Cartoons", "http://dbpedia.org/resource/TokyoPop", "http://dbpedia.org/resource/Ultraman_Tiga", "http://dbpedia.org/resource/Bardel_Entertainment", "http://dbpedia.org/resource/List_of_4Licensing_Corporation_licenses_and_productions", "http://dbpedia.org/resource/The_Illusionauts", "http://dbpedia.org/resource/Psycho_Squad" ],
+    "dbp:keyPeople" : [ "Jennifer Coleman" ],
+    "dbp:logo" : [ "4" ],
+    "dbp:logoPadding" : [ "15" ]
+  },
+  "words" : [ "Entertainment", "Pokémon", "language", "dubs", "Inc.", "4K", "action", "others", "episodes", "!", "development", "adapting", "Media", ",", "Japanese", ".", "subsidiary", "Productions", "Concepts", "1700", "Leisure", "among", "Yu-Gi-Oh", "name", "animated", "programs", "4Kids", "American", "production", "2012", "Sonic", "predecessor", "WMAC", "total", "1995", "producing", "adapatation", "1992", "responsible", "Konami", "X", "overseen", "company", "live", "Masters", "original", "English", "currently", "owned", "well", "formerly", "anime" ],
+  "adjectives" : [ "English", "total", "original", "American", "responsible", "Sonic", "animated", "Japanese", "live" ],
+  "nouns" : [ "4Kids", "Entertainment", "Pokémon", "production", "language", "predecessor", "WMAC", "Inc.", "adapatation", "Konami", "X", "action", "company", "others", "episodes", "Masters", "development", "Media", "subsidiary", "Productions", "Concepts", "Leisure", "Yu-Gi-Oh", "name", "programs", "anime" ],
+  "text" : "4K Media Inc. is an American production company currently owned by Konami. It was formerly a subsidiary of 4Kids Entertainment from 1995 to 2012 and its predecessor Leisure Concepts from 1992 to 1995 under the name 4Kids Productions, and was responsible for adapting and producing English language dubs of Japanese anime such as Pokémon, Yu-Gi-Oh!, and Sonic X among others, as well as producing original live action programs such as WMAC Masters. In total the company has overseen development and adapatation of over 1700 animated episodes. The company was shut down by 4Kids Entertainment on June 30, 2012, due to continued lack of profitability, but the production office was acquired by Konami and renamed \"4K Media\" later that year. The company is currently dedicated to the licensing, sales, and distribution of the Yu-Gi-Oh! brand in the United States, including Yu-Gi-Oh! Duel Monsters and its spinoffs. The office produced dubbed episodes of Yu-Gi-Oh! Zexal, from 2012 onward, and currently produces the dub for Yu-Gi-Oh! Arc-V."
+}, {
+  "entityIndex" : "entity10836",
+  "entityUrl" : "http://dbpedia.org/resource/454_Life_Sciences",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:fate" : [ "Acquired byRochein 2007 and shut down by Roche in 2013" ],
+    "dbo:foundingYear" : [ "2000" ],
+    "dbo:industry" : [ "http://dbpedia.org/resource/Biotechnology" ],
+    "dbo:locationCity" : [ "http://dbpedia.org/resource/Branford,_Connecticut" ],
+    "dbo:product" : [ "http://dbpedia.org/resource/Reagent", "http://dbpedia.org/resource/DNA_sequencer" ],
+    "dbo:wikiPageID" : [ "6375012" ],
+    "dbo:wikiPageRevisionID" : [ "744805210" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Biotin", "http://dbpedia.org/resource/Category:Companies_based_in_New_Haven_County,_Connecticut", "http://dbpedia.org/resource/Category:DNA_sequencing", "http://dbpedia.org/resource/Category:Manufacturing_companies_based_in_Connecticut", "http://dbpedia.org/resource/Nature_(journal)", "http://dbpedia.org/resource/Nebulizer", "http://dbpedia.org/resource/Reagent", "http://dbpedia.org/resource/Category:Genomics_companies", "http://dbpedia.org/resource/Sequencing_machine", "http://dbpedia.org/resource/Luciferase", "http://dbpedia.org/resource/Next-generation_sequencing", "http://dbpedia.org/resource/Roche_Diagnostics", "http://dbpedia.org/resource/Category:2013_disestablishments_in_Connecticut", "http://dbpedia.org/resource/PCR", "http://dbpedia.org/resource/Base_pair", "http://dbpedia.org/resource/Biotechnology", "http://dbpedia.org/resource/Emulsion", "http://dbpedia.org/resource/Nucleotide", "http://dbpedia.org/resource/James_D._Watson", "http://dbpedia.org/resource/Category:2000_establishments_in_Connecticut", "http://dbpedia.org/resource/Streptavidin", "http://dbpedia.org/resource/Branford,_Connecticut", "http://dbpedia.org/resource/Jonathan_Rothberg", "http://dbpedia.org/resource/Category:Biotechnology_companies_of_the_United_States", "http://dbpedia.org/resource/Svante_Pääbo", "http://dbpedia.org/resource/DNA_Sequencing", "http://dbpedia.org/resource/Complementarity_(molecular_biology)", "http://dbpedia.org/resource/DNA_sequencer", "http://dbpedia.org/resource/PicoTiterPlate", "http://dbpedia.org/resource/Fiber_optic", "http://dbpedia.org/resource/DNA_polymerase", "http://dbpedia.org/resource/Enzymes", "http://dbpedia.org/resource/Hoffmann–La_Roche", "http://dbpedia.org/resource/DNA_sequencing", "http://dbpedia.org/resource/Pyrosequencing", "http://dbpedia.org/resource/Category:Biotechnology_companies_disestablished_in_2013", "http://dbpedia.org/resource/Category:Biotechnology_companies_established_in_2000", "http://dbpedia.org/resource/Neanderthal_Genome_Project", "http://dbpedia.org/resource/ATP_sulfurylase", "http://dbpedia.org/resource/Standard_Flowgram_Format", "http://dbpedia.org/resource/Adapter-ligated_DNA" ],
+    "dbp:locationCountry" : [ "USA" ],
+    "dbp:services" : [ "Sequencing of genetic samples" ]
+  },
+  "words" : [ "Branford", "de", "C'est", "débit", "fut", "rachetée", "qui", "aux", "Max", "institut", "États-Unis", "gènes", "spécialisée", "filiale", "du", "2007", "Planck", "454", "maintenant", "lancée", "Roche", "Sciences", "La", "projet", "séquenceur", "l'homme", "société", "par", "`", "basée", "Néandertal", "celle-ci", "fabrication", "haut", "en", "dans", ",", "une", "séquençage", ".", "et", "génome", "la", "collaboration", "Connecticut", "Life", "le", "avec" ],
+  "adjectives" : [ "rachetée", "une" ],
+  "nouns" : [ "Branford", "C'est", "débit", "fut", "qui", "Max", "institut", "États-Unis", "spécialisée", "du", "Planck", "Roche", "Sciences", "La", "société", "par", "basée", "Néandertal", "celle-ci", "fabrication", "haut", "la", "collaboration", "Connecticut", "Life" ],
+  "text" : "454 Life Sciences est une société basée à Branford dans le Connecticut aux États-Unis, spécialisée dans la fabrication de séquenceur de gènes à haut débit. La société fut rachetée par Roche en 2007 et est maintenant une filiale de celle-ci. C'est la société qui s'est lancée dans le projet de séquençage du génome de l'homme de Néandertal, en collaboration avec le Max Planck institut."
+} ]

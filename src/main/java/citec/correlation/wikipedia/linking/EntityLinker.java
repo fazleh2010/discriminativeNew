@@ -2,10 +2,8 @@
 package citec.correlation.wikipedia.linking;
 
 
-import citec.correlation.core.analyzer.Analyzer;
-import citec.correlation.wikipedia.element.CurlSparqlQuery;
-import citec.correlation.wikipedia.utils.FileFolderUtils;
-import static citec.correlation.wikipedia.utils.FileFolderUtils.getAlphabetInfo;
+import citec.wikipedia.writer.analyzer.Analyzer;
+import static citec.wikipedia.writer.api.TextAnalyzer.POS_TAGGER_WORDS;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -18,7 +16,7 @@ import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import opennlp.tools.tokenize.WhitespaceTokenizer;
-import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER_WORDS;
+import citec.wikipedia.writer.utils.FileFolderUtils;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

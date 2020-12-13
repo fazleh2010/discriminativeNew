@@ -1,0 +1,31 @@
+[ {
+  "entityIndex" : "entity11282",
+  "entityUrl" : "http://dbpedia.org/resource/20,_Ashoka_Road",
+  "dboClass" : "dbo:Location",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/New_Delhi" ],
+    "dbo:wikiPageID" : [ "34407591" ],
+    "dbo:wikiPageRevisionID" : [ "693983491" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:New_Delhi", "http://dbpedia.org/resource/India", "http://dbpedia.org/resource/New_Delhi", "http://dbpedia.org/resource/Category:Memorials_to_Ashok", "http://dbpedia.org/resource/Ministry_of_Communications_and_Information_Technology_(India)", "http://dbpedia.org/resource/Category:Office_buildings_in_India", "http://dbpedia.org/resource/Category:Ministry_of_Communications_and_Information_Technology_(India)" ],
+    "dbp:architect" : [ "Firoz Kudianwala" ],
+    "dbp:caption" : [ "Sanchar Bhawan" ],
+    "dbp:client" : [ "http://dbpedia.org/resource/Ministry_of_Communications_and_Information_Technology_(India)" ],
+    "dbp:coordinatesDisplay" : [ "yes" ],
+    "dbp:isoRegion" : [ "IN-DL" ],
+    "dbp:latd" : [ "28" ],
+    "dbp:latm" : [ "37" ],
+    "dbp:latns" : [ "N" ],
+    "dbp:lats" : [ "18" ],
+    "dbp:longd" : [ "77" ],
+    "dbp:longew" : [ "E" ],
+    "dbp:longm" : [ "12" ],
+    "dbp:longs" : [ "50" ],
+    "dbp:mapCaption" : [ "Location of 20, Ashok Road in New Delhi" ],
+    "dbp:mapType" : [ "India New Delhi" ]
+  },
+  "words" : [ "Reserve", "New", "Kudianwala", "-LRB-", "Bank", "Ministry", "serves", "architect", "official", "Information", "Mumbai", "Bhawan", "Union", "building", "situated", "Firoz", "Department", "common", "Technology", "design", "designed", "officially", "similar", "Delhi.This", "Road", "Communications", "also", "Telecommunications", "Capital", ",", "'s", "heart", ".", "India", "ministry.The", "Sanchar", "headquarters", "buildings", "-RRB-", "Indian", ":", "Ashok", "20", "India.It", "since" ],
+  "adjectives" : [ "similar", "common", "official" ],
+  "nouns" : [ "Reserve", "New", "Kudianwala", "Bank", "Ministry", "architect", "Information", "Mumbai", "building", "Bhawan", "Union", "Firoz", "Department", "Technology", "design", "Delhi.This", "Road", "Communications", "Capital", "Telecommunications", "heart", "India", "ministry.The", "Sanchar", "headquarters", "buildings", "Indian", "Ashok", "India.It" ],
+  "text" : "20, Ashok Road (officially: Sanchar Bhawan) serves as the official headquarters of Ministry of Communications and Information Technology (India) of Union of India.It is also the headquarters of Department of Telecommunications of the ministry.The building is situated in the heart of the Indian Capital New Delhi.This building is very similar in its design to The Reserve Bank of India's Mumbai headquarters, since both the buildings have been designed by a common architect Firoz Kudianwala."
+} ]

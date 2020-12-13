@@ -1,0 +1,3656 @@
+[ {
+  "entityIndex" : "entity12978",
+  "entityUrl" : "http://dbpedia.org/resource/Kumiko_Aso",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kumiko_Aso) dbo:birthDate o'<1978-06-17>",
+    "2" : "s(Kumiko_Aso) dbo:birthDate o'<1978-6-17>",
+    "3" : "s(Kumiko_Aso) dbo:birthPlace o'<Sanmu>",
+    "4" : "s(Kumiko_Aso) dbo:birthPlace o'<Japan>",
+    "5" : "s(Kumiko_Aso) dbo:birthPlace o'<Sanmu,_Chiba>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12979",
+  "entityUrl" : "http://dbpedia.org/resource/Kazusa_Murai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazusa_Murai) dbo:birthDate o'<1975-12-28>",
+    "2" : "s(Kazusa_Murai) dbo:birthPlace o'<Japan>",
+    "3" : "s(Kazusa_Murai) dbo:birthPlace o'<Nagoya>",
+    "4" : "s(Kazusa_Murai) dbo:birthPlace o'<Nagoya,_Aichi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12980",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Chu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Chu) dbo:birthDate o'<1979-1-15>",
+    "2" : "s(Ken_Chu) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Ken_Chu) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12981",
+  "entityUrl" : "http://dbpedia.org/resource/Kelly_Chen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kelly_Chen) dbo:birthDate o'<1972-9-13>",
+    "2" : "s(Kelly_Chen) dbo:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12982",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dji_Tsujitani",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12983",
+  "entityUrl" : "http://dbpedia.org/resource/Kermit_Love",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kermit_Love) dbo:birthDate o'<1916-08-07>",
+    "2" : "s(Kermit_Love) dbo:birthDate o'<1916-8-7>",
+    "3" : "s(Kermit_Love) dbo:birthPlace o'<New_Jersey>",
+    "4" : "s(Kermit_Love) dbo:birthPlace o'<Spring_Lake,_New_Jersey>",
+    "5" : "s(Kermit_Love) dbo:deathDate o'<2008-06-21>",
+    "6" : "s(Kermit_Love) dbo:deathDate o'<2008-6-21>",
+    "7" : "s(Kermit_Love) dbo:deathPlace o'<Poughkeepsie,_New_York>",
+    "8" : "s(Kermit_Love) dbo:deathPlace o'<New_York_(state)>",
+    "9" : "s(Kermit_Love) dbo:deathPlace o'<Poughkeepsie_(city),_New_York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12984",
+  "entityUrl" : "http://dbpedia.org/resource/Kan'ami",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kan'ami) dbo:birthDate o'<1333-1-1>",
+    "2" : "s(Kan'ami) dbo:birthPlace o'<Iga_Province>",
+    "3" : "s(Kan'ami) dbo:deathDate o'<1384-1-1>",
+    "4" : "s(Kan'ami) dbo:deathPlace o'<Suruga_Province>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12985",
+  "entityUrl" : "http://dbpedia.org/resource/Kazue_Ikura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazue_Ikura) dbo:birthDate o'<1959-03-23>",
+    "2" : "s(Kazue_Ikura) dbo:birthDate o'<1959-3-23>",
+    "3" : "s(Kazue_Ikura) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazue_Ikura) dbo:birthPlace o'<Nagano_Prefecture>",
+    "5" : "s(Kazue_Ikura) dbo:birthPlace o'<Nagano>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12986",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dji_Ishii",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12987",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dsuke_Okano",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12988",
+  "entityUrl" : "http://dbpedia.org/resource/Kunihiko_Yasui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kunihiko_Yasui) dbo:birthDate o'<1960-12-12>",
+    "2" : "s(Kunihiko_Yasui) dbo:birthPlace o'<Japan>",
+    "3" : "s(Kunihiko_Yasui) dbo:birthPlace o'<Nagoya>",
+    "4" : "s(Kunihiko_Yasui) dbo:birthPlace o'<Nagoya,_Aichi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12989",
+  "entityUrl" : "http://dbpedia.org/resource/Katsunosuke_Hori",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsunosuke_Hori) dbo:birthDate o'<1941-08-01>",
+    "2" : "s(Katsunosuke_Hori) dbo:birthDate o'<1941-8-1>",
+    "3" : "s(Katsunosuke_Hori) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Katsunosuke_Hori) dbo:birthPlace o'<Tokyo_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12990",
+  "entityUrl" : "http://dbpedia.org/resource/Katashi_Ishizuka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katashi_Ishizuka) dbo:birthDate o'<1970-9-22>",
+    "2" : "s(Katashi_Ishizuka) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12991",
+  "entityUrl" : "http://dbpedia.org/resource/Kaneta_Kimotsuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaneta_Kimotsuki) dbo:birthDate o'<1935-11-15>",
+    "2" : "s(Kaneta_Kimotsuki) dbo:birthDate o'<1935-11-5>",
+    "3" : "s(Kaneta_Kimotsuki) dbo:birthPlace o'<Kagoshima>",
+    "4" : "s(Kaneta_Kimotsuki) dbo:birthPlace o'<Kagoshima_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12992",
+  "entityUrl" : "http://dbpedia.org/resource/Kaoru_Fujino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaoru_Fujino) dbo:birthDate o'<1972-05-21>",
+    "2" : "s(Kaoru_Fujino) dbo:birthDate o'<1972-5-21>",
+    "3" : "s(Kaoru_Fujino) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kaoru_Fujino) dbo:birthPlace o'<Kōchi_Prefecture>",
+    "5" : "s(Kaoru_Fujino) dbo:birthPlace o'<Kōchi,_Kōchi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12993",
+  "entityUrl" : "http://dbpedia.org/resource/Kit_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kit_Chan) dbo:birthDate o'<1972-9-15>",
+    "2" : "s(Kit_Chan) dbo:birthPlace o'<Singapore>",
+    "3" : "s(Kit_Chan) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12994",
+  "entityUrl" : "http://dbpedia.org/resource/Kumiko_Akiyoshi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kumiko_Akiyoshi) dbo:birthDate o'<1954-07-29>",
+    "2" : "s(Kumiko_Akiyoshi) dbo:birthDate o'<1954-7-29>",
+    "3" : "s(Kumiko_Akiyoshi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kumiko_Akiyoshi) dbo:birthPlace o'<Fujinomiya,_Shizuoka>",
+    "5" : "s(Kumiko_Akiyoshi) dbp:name o'<Kumiko Akiyoshi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12995",
+  "entityUrl" : "http://dbpedia.org/resource/Kika_Markham",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kika_Markham) dbo:birthDate o'<1940-0-0>",
+    "2" : "s(Kika_Markham) dbo:birthPlace o'<Cheshire>",
+    "3" : "s(Kika_Markham) dbo:birthPlace o'<England>",
+    "4" : "s(Kika_Markham) dbo:birthPlace o'<Macclesfield>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12996",
+  "entityUrl" : "http://dbpedia.org/resource/Kumi_Sakuma",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kumi_Sakuma) dbo:birthDate o'<1976-11-2>",
+    "2" : "s(Kumi_Sakuma) dbo:birthPlace o'<Chiba_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12997",
+  "entityUrl" : "http://dbpedia.org/resource/Kiyomi_Asai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kiyomi_Asai) dbo:birthDate o'<1974-04-12>",
+    "2" : "s(Kiyomi_Asai) dbo:birthDate o'<1974-4-12>",
+    "3" : "s(Kiyomi_Asai) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12998",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Toda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Toda) dbo:birthDate o'<1957-09-12>",
+    "2" : "s(Keiko_Toda) dbo:birthDate o'<1957-9-12>",
+    "3" : "s(Keiko_Toda) dbo:birthPlace o'<Nagoya>",
+    "4" : "s(Keiko_Toda) dbo:birthPlace o'<Nagoya,_Aichi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12999",
+  "entityUrl" : "http://dbpedia.org/resource/Kaho_K%C5%8Dda",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13000",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Oguri",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Oguri) dbo:birthDate o'<1970-9-14>",
+    "2" : "s(Kaori_Oguri) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "3" : "s(Kaori_Oguri) dbp:name o'<Kaori Oguri>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13001",
+  "entityUrl" : "http://dbpedia.org/resource/Kotono_Shibuya",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kotono_Shibuya) dbo:birthDate o'<1975-6-9>",
+    "2" : "s(Kotono_Shibuya) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Kotono_Shibuya) dbp:name o'<Shibuya Kotono>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13002",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Takahashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Takahashi) dbo:birthDate o'<1955-01-22>",
+    "2" : "s(Keiko_Takahashi) dbo:birthDate o'<1955-1-22>",
+    "3" : "s(Keiko_Takahashi) dbo:birthPlace o'<Shibecha,_Hokkaido>",
+    "4" : "s(Keiko_Takahashi) dbo:birthPlace o'<Shibecha,_Hokkaidō>",
+    "5" : "s(Keiko_Takahashi) dbp:name o'<Keiko Takahashi>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(keiko takahashi=Keiko_Takahashi) [ takahashi keiko born january ] o'<shibecha=Shibecha,_Hokkaidō>",
+    "2" : "s(keiko takahashi=Keiko_Takahashi) [went by maiden name ] o'<keiko sekine=Keiko_Takahashi>"
+  },
+  "abstract" : {
+    "1" : "keiko takahashi<Keiko_Takahashi> (高橋惠子 takahashi keiko, born january 22, 1955 in shibecha<Shibecha,_Hokkaidō>, hokkaidō, japan) is a japanese actress",
+    "2" : "prior to marrying director banmei takahashi in 1982, keiko takahashi<Keiko_Takahashi> went by her maiden name keiko sekine<Keiko_Takahashi> (関根恵子)\n"
+  }
+}, {
+  "entityIndex" : "entity13003",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuko_Sugiyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuko_Sugiyama) dbo:birthDate o'<1947-04-09>",
+    "2" : "s(Kazuko_Sugiyama) dbo:birthDate o'<1947-4-9>",
+    "3" : "s(Kazuko_Sugiyama) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazuko_Sugiyama) dbo:birthPlace o'<Nagoya>",
+    "5" : "s(Kazuko_Sugiyama) dbo:birthPlace o'<Aichi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13004",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Takahashi_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Takahashi_(actress)) dbo:birthDate o'<1975-8-29>",
+    "2" : "s(Kaori_Takahashi_(actress)) dbo:birthPlace o'<Yokohama>",
+    "3" : "s(Kaori_Takahashi_(actress)) dbp:name o'<Kaori Takahashi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13005",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Takeshita",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Takeshita) dbo:birthDate o'<1953-09-15>",
+    "2" : "s(Keiko_Takeshita) dbo:birthDate o'<1953-9-15>",
+    "3" : "s(Keiko_Takeshita) dbo:birthPlace o'<Nagoya>",
+    "4" : "s(Keiko_Takeshita) dbo:birthPlace o'<Aichi_Prefecture>",
+    "5" : "s(Keiko_Takeshita) dbo:birthPlace o'<Higashi-ku,_Nagoya>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13006",
+  "entityUrl" : "http://dbpedia.org/resource/Kotaro_Koizumi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kotaro_Koizumi) dbo:birthDate o'<1978-07-10>",
+    "2" : "s(Kotaro_Koizumi) dbo:birthDate o'<1978-7-10>",
+    "3" : "s(Kotaro_Koizumi) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "4" : "s(Kotaro_Koizumi) dbo:birthPlace o'<Yokosuka,_Kanagawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13007",
+  "entityUrl" : "http://dbpedia.org/resource/Katsumi_Suzuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsumi_Suzuki) dbo:birthDate o'<1956-08-05>",
+    "2" : "s(Katsumi_Suzuki) dbo:birthDate o'<1956-8-5>",
+    "3" : "s(Katsumi_Suzuki) dbo:birthPlace o'<Aichi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13008",
+  "entityUrl" : "http://dbpedia.org/resource/Katsuji_Mori",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsuji_Mori) dbo:birthDate o'<1945-07-10>",
+    "2" : "s(Katsuji_Mori) dbo:birthDate o'<1945-7-10>",
+    "3" : "s(Katsuji_Mori) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13009",
+  "entityUrl" : "http://dbpedia.org/resource/Kathryn_Drysdale",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kathryn_Drysdale) dbo:birthDate o'<1981-12-01>",
+    "2" : "s(Kathryn_Drysdale) dbo:birthDate o'<1981-12-1>",
+    "3" : "s(Kathryn_Drysdale) dbo:birthPlace o'<Wigan>",
+    "4" : "s(Kathryn_Drysdale) dbo:birthPlace o'<Greater_Manchester>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13010",
+  "entityUrl" : "http://dbpedia.org/resource/Kayoko_Kishimoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kayoko_Kishimoto) dbo:birthDate o'<1960-12-29>",
+    "2" : "s(Kayoko_Kishimoto) dbo:birthPlace o'<Japan>",
+    "3" : "s(Kayoko_Kishimoto) dbo:birthPlace o'<Shizuoka_Prefecture>",
+    "4" : "s(Kayoko_Kishimoto) dbp:name o'<Kishimoto Kayoko>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(kayoko kishimoto=Kayoko_Kishimoto) [won award for best ] o'<japan=Japan>"
+  },
+  "abstract" : {
+    "3" : "kayoko kishimoto<Kayoko_Kishimoto> won the award for best supporting actress at the 23rd japan<Japan> academy prize for kikujiro\n"
+  }
+}, {
+  "entityIndex" : "entity13011",
+  "entityUrl" : "http://dbpedia.org/resource/Kenix_Kwok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenix_Kwok) dbo:birthDate o'<1969-11-27>",
+    "2" : "s(Kenix_Kwok) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kenix_Kwok) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13012",
+  "entityUrl" : "http://dbpedia.org/resource/Karen_Mok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karen_Mok) dbo:birthDate o'<1970-6-2>",
+    "2" : "s(Karen_Mok) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Karen_Mok) dbp:birthPlace o'<Hong Kong>",
+    "4" : "s(Karen_Mok) dbp:name o'<Karen Mok>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13013",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Kishi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Kishi) dbo:birthDate o'<1932-08-11>",
+    "2" : "s(Keiko_Kishi) dbo:birthDate o'<1932-8-11>",
+    "3" : "s(Keiko_Kishi) dbo:birthPlace o'<Yokohama>",
+    "4" : "s(Keiko_Kishi) dbp:name o'<Keiko Kishi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13014",
+  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Tsang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenneth_Tsang) dbo:birthDate o'<1938-1-1>",
+    "2" : "s(Kenneth_Tsang) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kenneth_Tsang) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13015",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Shimizu_(voice_actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Shimizu_(voice_actress)) dbo:wikiPageRedirects o'<Kaori_Shimizu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13016",
+  "entityUrl" : "http://dbpedia.org/resource/Kumiko_Nakano",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kumiko_Nakano) dbo:birthDate o'<1977-3-3>",
+    "2" : "s(Kumiko_Nakano) dbo:birthPlace o'<Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13017",
+  "entityUrl" : "http://dbpedia.org/resource/Kuriko_Namino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kuriko_Namino) dbo:birthDate o'<1945-12-01>",
+    "2" : "s(Kuriko_Namino) dbo:birthDate o'<1945-12-1>",
+    "3" : "s(Kuriko_Namino) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kuriko_Namino) dbo:birthPlace o'<Kamakura>",
+    "5" : "s(Kuriko_Namino) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "6" : "s(Kuriko_Namino) dbp:name o'<Namino Kuriko>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13018",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Tiddy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kim_Tiddy) dbo:birthDate o'<1977-9-3>",
+    "2" : "s(Kim_Tiddy) dbo:birthPlace o'<Surrey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13019",
+  "entityUrl" : "http://dbpedia.org/resource/Kenny_Bee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenny_Bee) dbo:birthDate o'<1953-2-23>",
+    "2" : "s(Kenny_Bee) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kenny_Bee) dbp:birthPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(kenny bee=Kenny_Bee) [well known ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "3" : "kenny bee<Kenny_Bee> is well known as a member of the pop group the wynners, and as a solo artist who has been active in the hong kong<Hong_Kong> entertainment industry for nearly three decades\n"
+  }
+}, {
+  "entityIndex" : "entity13020",
+  "entityUrl" : "http://dbpedia.org/resource/Ky%C5%8Dsuke_Ikeda",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13021",
+  "entityUrl" : "http://dbpedia.org/resource/Ky%C5%8Dko_Hasegawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13022",
+  "entityUrl" : "http://dbpedia.org/resource/Kikko_Matsuoka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kikko_Matsuoka) dbo:birthDate o'<1947-02-11>",
+    "2" : "s(Kikko_Matsuoka) dbo:birthDate o'<1947-2-11>",
+    "3" : "s(Kikko_Matsuoka) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Kikko_Matsuoka) dbp:name o'<Kikko Matsuoka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13023",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Pyott",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keith_Pyott) dbo:birthDate o'<1902-03-09>",
+    "2" : "s(Keith_Pyott) dbo:birthDate o'<1902-3-9>",
+    "3" : "s(Keith_Pyott) dbo:birthName o'<Keith Malcolm Rule Pyott>",
+    "4" : "s(Keith_Pyott) dbo:birthPlace o'<UK>",
+    "5" : "s(Keith_Pyott) dbo:birthPlace o'<England>",
+    "6" : "s(Keith_Pyott) dbo:birthPlace o'<London>",
+    "7" : "s(Keith_Pyott) dbo:birthPlace o'<Blackheath,_London>",
+    "8" : "s(Keith_Pyott) dbo:birthYear o'<1902>",
+    "9" : "s(Keith_Pyott) dbo:country o'<England>",
+    "10" : "s(Keith_Pyott) dbo:deathDate o'<1968-04-06>",
+    "11" : "s(Keith_Pyott) dbo:deathDate o'<1968-4-6>",
+    "12" : "s(Keith_Pyott) dbo:deathPlace o'<UK>",
+    "13" : "s(Keith_Pyott) dbo:deathPlace o'<England>",
+    "14" : "s(Keith_Pyott) dbo:deathPlace o'<London_Borough_of_Enfield>",
+    "15" : "s(Keith_Pyott) dbo:deathPlace o'<Middlesex>",
+    "16" : "s(Keith_Pyott) dbo:deathYear o'<1968>",
+    "17" : "s(Keith_Pyott) dbo:imdbId o'<0701553>",
+    "18" : "s(Keith_Pyott) dbo:occupation o'<Actor>",
+    "19" : "s(Keith_Pyott) dbo:occupation o'<Keith_Pyott__1>",
+    "20" : "s(Keith_Pyott) dbp:name o'<Keith Pyott>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(keith pyott=Keith_Pyott) [blackheath ] o'<london=LONDON>",
+    "2" : "s(keith pyott=Keith_Pyott) [transferred from ] o'<stage=Actor>"
+  },
+  "abstract" : {
+    "1" : "keith pyott<Keith_Pyott> (blackheath, london<LONDON>, 9 march 1902 - 6 april 1968) was a british actor<Actor>",
+    "2" : "keith pyott<Keith_Pyott> transferred from stage<Actor> to screen and was a regular face in drama in the early days of television<Actor>, appearing in the prisoner, out of the unknown, the avengers and the doctor who story the aztecs\n"
+  }
+}, {
+  "entityIndex" : "entity13024",
+  "entityUrl" : "http://dbpedia.org/resource/Katherine_Locke",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katherine_Locke) dbo:activeYearsEndYear o'<1958>",
+    "2" : "s(Katherine_Locke) dbo:activeYearsStartYear o'<1936>",
+    "3" : "s(Katherine_Locke) dbo:birthDate o'<1910-06-24>",
+    "4" : "s(Katherine_Locke) dbo:birthDate o'<1910-6-24>",
+    "5" : "s(Katherine_Locke) dbo:birthPlace o'<Belarus>",
+    "6" : "s(Katherine_Locke) dbo:birthPlace o'<Kalinkavichy>",
+    "7" : "s(Katherine_Locke) dbo:deathDate o'<1995-09-12>",
+    "8" : "s(Katherine_Locke) dbo:deathDate o'<1995-9-12>",
+    "9" : "s(Katherine_Locke) dbo:deathPlace o'<Los_Angeles,_California>",
+    "10" : "s(Katherine_Locke) dbo:spouse o'<Norman_Corwin>",
+    "11" : "s(Katherine_Locke) dbp:occupation o'<Actress>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(katherine locke=Katherine_Locke) [born in kalinkaviy in ] o'<belarus=Belarus>",
+    "5" : "s(katherine locke=Katherine_Locke) [appeared in films in ] o'<actress=Actress>",
+    "6" : "s(katherine locke=Katherine_Locke) [began film work in ] o'<actress=Actress>",
+    "7" : "s(katherine locke=Katherine_Locke) [married to radio legend ] o'<norman corwin=Norman_Corwin>"
+  },
+  "abstract" : {
+    "2" : "katherine locke<Katherine_Locke> was born in kalinkavičy, in what is now belarus<Belarus>, and raised in the u\n",
+    "5" : "katherine locke<Katherine_Locke> appeared in films in the 1940s and 1950s as a supporting actress<Actress>\n",
+    "6" : "katherine locke<Katherine_Locke> began her film work in the late 1930s in bit parts, but katherine locke<Katherine_Locke> is remembered today as a stage actress<Actress>\n",
+    "7" : "katherine locke<Katherine_Locke> was married to radio legend norman corwin<Norman_Corwin>\n"
+  }
+}, {
+  "entityIndex" : "entity13025",
+  "entityUrl" : "http://dbpedia.org/resource/Kellyanne_Farquhar",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kellyanne_Farquhar) dbo:country o'<United_Kingdom>",
+    "2" : "s(Kellyanne_Farquhar) dbo:imdbId o'<1883892>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13026",
+  "entityUrl" : "http://dbpedia.org/resource/Kwong_Wa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kwong_Wa) dbo:birthDate o'<1962-11-19>",
+    "2" : "s(Kwong_Wa) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13027",
+  "entityUrl" : "http://dbpedia.org/resource/Kenny_Kwan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenny_Kwan) dbo:birthDate o'<1980-12-30>",
+    "2" : "s(Kenny_Kwan) dbo:birthPlace o'<Philippines>",
+    "3" : "s(Kenny_Kwan) dbp:birthPlace o'<Philippines>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(kenny kwan=Kenny_Kwan) [born in ] o'<the philippines=Philippines>"
+  },
+  "abstract" : {
+    "2" : "kenny kwan<Kenny_Kwan> was born in the philippines<Philippines>, but grew up in hong kong\n"
+  }
+}, {
+  "entityIndex" : "entity13028",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Drinkel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keith_Drinkel) dbo:birthDate o'<1944-11-14>",
+    "2" : "s(Keith_Drinkel) dbo:birthPlace o'<England>",
+    "3" : "s(Keith_Drinkel) dbo:birthPlace o'<York>",
+    "4" : "s(Keith_Drinkel) dbo:birthPlace o'<Yorkshire>",
+    "5" : "s(Keith_Drinkel) dbo:birthYear o'<1944>",
+    "6" : "s(Keith_Drinkel) dbo:country o'<England>",
+    "7" : "s(Keith_Drinkel) dbo:occupation o'<Keith_Drinkel__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13029",
+  "entityUrl" : "http://dbpedia.org/resource/Kary_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kary_Ng) dbo:birthDate o'<1986-6-9>",
+    "2" : "s(Kary_Ng) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kary_Ng) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13030",
+  "entityUrl" : "http://dbpedia.org/resource/Kent_Tong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kent_Tong) dbo:birthDate o'<1958-9-29>",
+    "2" : "s(Kent_Tong) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kent_Tong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(kent tong=Kent_Tong) [popular television broadcast ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : "kent tong<Kent_Tong> was a popular television broadcast tvb actor during the 1980s in hong kong<Hong_Kong>\n"
+  }
+}, {
+  "entityIndex" : "entity13031",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Manabe__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Manabe__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13032",
+  "entityUrl" : "http://dbpedia.org/resource/Kimie_Shingyoji",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kimie_Shingyoji) dbo:birthDate o'<1959-9-24>",
+    "2" : "s(Kimie_Shingyoji) dbo:birthPlace o'<Ōta,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13033",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Tsui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kate_Tsui) dbo:birthDate o'<1979-6-19>",
+    "2" : "s(Kate_Tsui) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kate_Tsui) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(kate tsui=Kate_Tsui) [holds miss ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : "kate tsui<Kate_Tsui> also holds the miss hong kong<Hong_Kong> 2004 title\n"
+  }
+}, {
+  "entityIndex" : "entity13034",
+  "entityUrl" : "http://dbpedia.org/resource/Karena_Lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karena_Lam) dbo:birthDate o'<1978-8-17>",
+    "2" : "s(Karena_Lam) dbo:birthPlace o'<Vancouver>",
+    "3" : "s(Karena_Lam) dbp:birthPlace o'<British_Columbia>",
+    "4" : "s(Karena_Lam) dbp:birthPlace o'<Vancouver>",
+    "5" : "s(Karena_Lam) dbp:birthPlace o'<Canada>",
+    "6" : "s(Karena_Lam) dbp:name o'<Karena Lam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13035",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Colgrave_Pope",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kate_Colgrave_Pope) dbo:country o'<United_Kingdom>",
+    "2" : "s(Kate_Colgrave_Pope) dbo:imdbId o'<2170516>",
+    "3" : "s(Kate_Colgrave_Pope) dbp:name o'<Kate Colgrave Pope>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13036",
+  "entityUrl" : "http://dbpedia.org/resource/Kaho_Minami",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaho_Minami) dbo:birthDate o'<1964-01-20>",
+    "2" : "s(Kaho_Minami) dbo:birthDate o'<1964-1-20>",
+    "3" : "s(Kaho_Minami) dbo:birthPlace o'<Amagasaki>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13037",
+  "entityUrl" : "http://dbpedia.org/resource/Kenji_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenji_Wu) dbo:birthDate o'<1979-10-18>",
+    "2" : "s(Kenji_Wu) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Kenji_Wu) dbp:birthPlace o'<Kaohsiung>",
+    "4" : "s(Kenji_Wu) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13038",
+  "entityUrl" : "http://dbpedia.org/resource/Katja_Kassin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katja_Kassin) dbo:birthDate o'<1979-09-24>",
+    "2" : "s(Katja_Kassin) dbo:birthDate o'<1979-9-24>",
+    "3" : "s(Katja_Kassin) dbo:birthPlace o'<East_Germany>",
+    "4" : "s(Katja_Kassin) dbo:birthPlace o'<Leipzig>",
+    "5" : "s(Katja_Kassin) dbo:height o'<154.94>",
+    "6" : "s(Katja_Kassin) dbp:name o'<Katja Kassin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13039",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Hartman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kim_Hartman) dbo:birthDate o'<1952-01-11>",
+    "2" : "s(Kim_Hartman) dbo:birthDate o'<1952-1-11>",
+    "3" : "s(Kim_Hartman) dbo:birthPlace o'<England>",
+    "4" : "s(Kim_Hartman) dbo:birthPlace o'<London>",
+    "5" : "s(Kim_Hartman) dbo:birthPlace o'<Hammersmith>",
+    "6" : "s(Kim_Hartman) dbp:name o'<Kim Hartman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13040",
+  "entityUrl" : "http://dbpedia.org/resource/Kotomi_Yamakawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13041",
+  "entityUrl" : "http://dbpedia.org/resource/Kay_Tse",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kay_Tse) dbo:birthDate o'<1977-3-13>",
+    "2" : "s(Kay_Tse) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kay_Tse) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13042",
+  "entityUrl" : "http://dbpedia.org/resource/Ky%C5%8Dka_Suzuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13043",
+  "entityUrl" : "http://dbpedia.org/resource/Kanichi_Kurita",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanichi_Kurita) dbo:birthDate o'<1958-3-3>",
+    "2" : "s(Kanichi_Kurita) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13044",
+  "entityUrl" : "http://dbpedia.org/resource/Kelly_Lin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kelly_Lin) dbo:birthDate o'<1972-10-29>",
+    "2" : "s(Kelly_Lin) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kelly_Lin) dbp:birthPlace o'<Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13045",
+  "entityUrl" : "http://dbpedia.org/resource/Kinya_Kotani__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kinya_Kotani__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13046",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dichi_T%C5%8Dchika",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13047",
+  "entityUrl" : "http://dbpedia.org/resource/Kenji_Anan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenji_Anan) dbo:birthDate o'<1962-2-24>",
+    "2" : "s(Kenji_Anan) dbo:birthPlace o'<Taketa,_Ōita>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13048",
+  "entityUrl" : "http://dbpedia.org/resource/Kirsten_Cooke",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kirsten_Cooke) dbo:birthDate o'<1952-10-04>",
+    "2" : "s(Kirsten_Cooke) dbo:birthDate o'<1952-10-4>",
+    "3" : "s(Kirsten_Cooke) dbo:birthPlace o'<Sussex>",
+    "4" : "s(Kirsten_Cooke) dbp:name o'<Kirsten Cooke>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(kirsten cooke=Kirsten_Cooke) [born 4 october 1952 in ] o'<sussex=Sussex>"
+  },
+  "abstract" : {
+    "1" : "kirsten cooke<Kirsten_Cooke> (born 4 october 1952, in cuckfield, east sussex<Sussex>, england) is an english stage actress who trained at the webber douglas academy of dramatic art, london"
+  }
+}, {
+  "entityIndex" : "entity13049",
+  "entityUrl" : "http://dbpedia.org/resource/Katy_Murphy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katy_Murphy) dbo:activeYearsStartYear o'<1987>",
+    "2" : "s(Katy_Murphy) dbo:alias o'<Kate Murphy>",
+    "3" : "s(Katy_Murphy) dbo:birthDate o'<1963-01-15>",
+    "4" : "s(Katy_Murphy) dbo:birthDate o'<1963-1-15>",
+    "5" : "s(Katy_Murphy) dbo:birthPlace o'<Scotland>",
+    "6" : "s(Katy_Murphy) dbo:birthPlace o'<Glasgow>",
+    "7" : "s(Katy_Murphy) dbo:birthYear o'<1963>",
+    "8" : "s(Katy_Murphy) dbo:country o'<United_Kingdom>",
+    "9" : "s(Katy_Murphy) dbo:imdbId o'<0614427>",
+    "10" : "s(Katy_Murphy) dbo:occupation o'<Katy_Murphy__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13050",
+  "entityUrl" : "http://dbpedia.org/resource/Kwan_Tak-hing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kwan_Tak-hing) dbo:birthDate o'<1905-6-27>",
+    "2" : "s(Kwan_Tak-hing) dbo:birthPlace o'<Guangzhou>",
+    "3" : "s(Kwan_Tak-hing) dbo:deathDate o'<1996-6-28>",
+    "4" : "s(Kwan_Tak-hing) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Kwan_Tak-hing) dbp:birthPlace o'<Guangzhou, China>",
+    "6" : "s(Kwan_Tak-hing) dbp:deathPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13051",
+  "entityUrl" : "http://dbpedia.org/resource/Kitty_Clive",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kitty_Clive) dbo:birthDate o'<1711-11-15>",
+    "2" : "s(Kitty_Clive) dbo:birthPlace o'<Kilkenny>",
+    "3" : "s(Kitty_Clive) dbo:deathDate o'<1785-12-6>",
+    "4" : "s(Kitty_Clive) dbo:deathPlace o'<London>",
+    "5" : "s(Kitty_Clive) dbp:name o'<Catherine Clive>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13052",
+  "entityUrl" : "http://dbpedia.org/resource/Kyousei_Tsukui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kyousei_Tsukui) dbo:birthDate o'<1961-03-27>",
+    "2" : "s(Kyousei_Tsukui) dbo:birthDate o'<1961-3-27>",
+    "3" : "s(Kyousei_Tsukui) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kyousei_Tsukui) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13053",
+  "entityUrl" : "http://dbpedia.org/resource/Kazunari_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazunari_Tanaka) dbo:birthDate o'<1967-04-08>",
+    "2" : "s(Kazunari_Tanaka) dbo:birthDate o'<1967-4-8>",
+    "3" : "s(Kazunari_Tanaka) dbo:birthPlace o'<Osaka_Prefecture>",
+    "4" : "s(Kazunari_Tanaka) dbo:deathDate o'<2016-10-10>",
+    "5" : "s(Kazunari_Tanaka) dbo:deathPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13054",
+  "entityUrl" : "http://dbpedia.org/resource/Kumiko_Takizawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kumiko_Takizawa) dbo:birthDate o'<1952-8-21>",
+    "2" : "s(Kumiko_Takizawa) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13055",
+  "entityUrl" : "http://dbpedia.org/resource/Koen_Kondo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Koen_Kondo) dbo:birthDate o'<1978-10-11>",
+    "2" : "s(Koen_Kondo) dbo:birthPlace o'<Nishio,_Aichi>",
+    "3" : "s(Koen_Kondo) dbp:name o'<Kondo Koen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13056",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Asoh",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Asoh) dbo:birthDate o'<1967-06-26>",
+    "2" : "s(Kaori_Asoh) dbo:birthDate o'<1978-1-1>",
+    "3" : "s(Kaori_Asoh) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13057",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuyuki_Sogabe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuyuki_Sogabe) dbo:birthDate o'<1948-04-16>",
+    "2" : "s(Kazuyuki_Sogabe) dbo:birthDate o'<1948-4-16>",
+    "3" : "s(Kazuyuki_Sogabe) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazuyuki_Sogabe) dbo:birthPlace o'<Funabashi,_Chiba>",
+    "5" : "s(Kazuyuki_Sogabe) dbo:birthPlace o'<Chiba_Prefecture>",
+    "6" : "s(Kazuyuki_Sogabe) dbo:deathDate o'<2006-09-17>",
+    "7" : "s(Kazuyuki_Sogabe) dbo:deathDate o'<2006-9-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13058",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Jayne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keith_Jayne) dbo:birthDate o'<1928-07-22>",
+    "2" : "s(Keith_Jayne) dbo:birthDate o'<1960-12-10>",
+    "3" : "s(Keith_Jayne) dbo:birthPlace o'<UK>",
+    "4" : "s(Keith_Jayne) dbo:birthPlace o'<England>",
+    "5" : "s(Keith_Jayne) dbo:birthPlace o'<Carlisle,_Cumbria>",
+    "6" : "s(Keith_Jayne) dbo:birthPlace o'<Cumberland>",
+    "7" : "s(Keith_Jayne) dbo:birthYear o'<1928>",
+    "8" : "s(Keith_Jayne) dbo:country o'<United_Kingdom>",
+    "9" : "s(Keith_Jayne) dbo:imdbId o'<0419751>",
+    "10" : "s(Keith_Jayne) dbp:name o'<Keith Jayne>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13059",
+  "entityUrl" : "http://dbpedia.org/resource/Katsumi_Toriumi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsumi_Toriumi) dbo:birthDate o'<1963-11-6>",
+    "2" : "s(Katsumi_Toriumi) dbo:birthPlace o'<Saitama_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13060",
+  "entityUrl" : "http://dbpedia.org/resource/Konami_Yoshida",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Konami_Yoshida) dbo:birthDate o'<1967-6-6>",
+    "2" : "s(Konami_Yoshida) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13061",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Aizawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Aizawa) dbo:birthDate o'<1963-11-22>",
+    "2" : "s(Keiko_Aizawa) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13062",
+  "entityUrl" : "http://dbpedia.org/resource/Kristina_Wayborn",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kristina_Wayborn) dbo:birthDate o'<1950-09-24>",
+    "2" : "s(Kristina_Wayborn) dbo:birthDate o'<1950-9-24>",
+    "3" : "s(Kristina_Wayborn) dbo:birthPlace o'<Nybro>",
+    "4" : "s(Kristina_Wayborn) dbo:birthPlace o'<Småland>",
+    "5" : "s(Kristina_Wayborn) dbp:name o'<Kristina Wayborn>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13063",
+  "entityUrl" : "http://dbpedia.org/resource/Kozue_Yoshizumi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kozue_Yoshizumi) dbo:birthDate o'<1979-9-7>",
+    "2" : "s(Kozue_Yoshizumi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13064",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Baines",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kate_Baines) dbo:birthDate o'<1978-07-18>",
+    "2" : "s(Kate_Baines) dbo:birthDate o'<1978-7-18>",
+    "3" : "s(Kate_Baines) dbo:birthPlace o'<Doncaster>",
+    "4" : "s(Kate_Baines) dbo:birthYear o'<1978>",
+    "5" : "s(Kate_Baines) dbo:country o'<England>",
+    "6" : "s(Kate_Baines) dbp:imagesize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13065",
+  "entityUrl" : "http://dbpedia.org/resource/Kee_Thuan_Chye",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kee_Thuan_Chye) dbo:birthDate o'<1954-5-25>",
+    "2" : "s(Kee_Thuan_Chye) dbo:birthPlace o'<Penang>",
+    "3" : "s(Kee_Thuan_Chye) dbp:birthPlace o'<Penang>",
+    "4" : "s(Kee_Thuan_Chye) dbp:birthPlace o'<Federation_of_Malaya>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13066",
+  "entityUrl" : "http://dbpedia.org/resource/Kaoru_Yachigusa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaoru_Yachigusa) dbo:birthDate o'<1931-01-06>",
+    "2" : "s(Kaoru_Yachigusa) dbo:birthDate o'<1931-1-6>",
+    "3" : "s(Kaoru_Yachigusa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kaoru_Yachigusa) dbo:birthPlace o'<Osaka_Prefecture>",
+    "5" : "s(Kaoru_Yachigusa) dbp:name o'<Kaoru Yachigusa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13067",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dhei_Miyauchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13068",
+  "entityUrl" : "http://dbpedia.org/resource/Kanako_Sakai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanako_Sakai) dbo:birthDate o'<1986-11-11>",
+    "2" : "s(Kanako_Sakai) dbo:birthPlace o'<Fukuoka>",
+    "3" : "s(Kanako_Sakai) dbo:birthPlace o'<Fukuoka,_Fukuoka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13069",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Cheng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kevin_Cheng) dbo:birthDate o'<1969-8-15>",
+    "2" : "s(Kevin_Cheng) dbo:birthPlace o'<United_States>",
+    "3" : "s(Kevin_Cheng) dbp:birthPlace o'<San Francisco, California, United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13070",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_(voice_actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_(voice_actress)) dbo:birthDate o'<1976-02-28>",
+    "2" : "s(Kaori_(voice_actress)) dbo:birthDate o'<1976-2-28>",
+    "3" : "s(Kaori_(voice_actress)) dbo:birthPlace o'<Kanagawa>",
+    "4" : "s(Kaori_(voice_actress)) dbo:birthPlace o'<Yokohama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13071",
+  "entityUrl" : "http://dbpedia.org/resource/Kotomi_Kyono",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kotomi_Kyono) dbo:birthDate o'<1978-10-18>",
+    "2" : "s(Kotomi_Kyono) dbo:birthPlace o'<Japan>",
+    "3" : "s(Kotomi_Kyono) dbo:birthPlace o'<Fukuyama,_Hiroshima>",
+    "4" : "s(Kotomi_Kyono) dbo:birthPlace o'<Hiroshima_Prefecture>",
+    "5" : "s(Kotomi_Kyono) dbp:name o'<Kotomi Kyono>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(kotomi kyono=Kotomi_Kyono) [born in ] o'<fukuyama=Fukuyama,_Hiroshima>"
+  },
+  "abstract" : {
+    "2" : "kotomi kyono<Kotomi_Kyono> was born in fukuyama<Fukuyama,_Hiroshima>, hiroshima<Hiroshima_Prefecture>, japan<Japan>\n"
+  }
+}, {
+  "entityIndex" : "entity13072",
+  "entityUrl" : "http://dbpedia.org/resource/Kelda_Holmes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kelda_Holmes) dbo:birthDate o'<1970-1-1>",
+    "2" : "s(Kelda_Holmes) dbo:birthPlace o'<England>",
+    "3" : "s(Kelda_Holmes) dbo:country o'<England>",
+    "4" : "s(Kelda_Holmes) dbp:birthPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13073",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuyo_Aoki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuyo_Aoki) dbo:birthDate o'<1947-08-27>",
+    "2" : "s(Kazuyo_Aoki) dbo:birthDate o'<1947-8-27>",
+    "3" : "s(Kazuyo_Aoki) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13074",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8D_Nishimura",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13075",
+  "entityUrl" : "http://dbpedia.org/resource/Ky%C5%8Dko_Kagawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13076",
+  "entityUrl" : "http://dbpedia.org/resource/Kunie_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kunie_Tanaka) dbo:birthDate o'<1932-11-23>",
+    "2" : "s(Kunie_Tanaka) dbo:birthPlace o'<Toki,_Gifu>",
+    "3" : "s(Kunie_Tanaka) dbo:birthPlace o'<Toki_District,_Gifu>",
+    "4" : "s(Kunie_Tanaka) dbp:name o'<Kunie Tanaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13077",
+  "entityUrl" : "http://dbpedia.org/resource/Kento_Handa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kento_Handa) dbo:birthDate o'<1984-06-04>",
+    "2" : "s(Kento_Handa) dbo:birthDate o'<1984-6-4>",
+    "3" : "s(Kento_Handa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kento_Handa) dbo:birthPlace o'<Kobe>",
+    "5" : "s(Kento_Handa) dbo:birthPlace o'<Hyōgo_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13078",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Mizorogi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Mizorogi) dbo:birthDate o'<1980-9-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13079",
+  "entityUrl" : "http://dbpedia.org/resource/Katsuyuki_Murai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsuyuki_Murai) dbo:birthDate o'<1969-12-17>",
+    "2" : "s(Katsuyuki_Murai) dbo:birthPlace o'<Kyoto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13080",
+  "entityUrl" : "http://dbpedia.org/resource/Kazue_Komiya",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazue_Komiya) dbo:birthDate o'<1952-7-12>",
+    "2" : "s(Kazue_Komiya) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13081",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Lo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Lo) dbo:birthDate o'<1959-3-17>",
+    "2" : "s(Ken_Lo) dbo:birthPlace o'<Stung_Treng>",
+    "3" : "s(Ken_Lo) dbp:birthPlace o'<Cambodia>",
+    "4" : "s(Ken_Lo) dbp:birthPlace o'<Stung_Treng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13082",
+  "entityUrl" : "http://dbpedia.org/resource/Kaya_Matsutani",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaya_Matsutani) dbo:birthDate o'<1970-3-20>",
+    "2" : "s(Kaya_Matsutani) dbo:birthPlace o'<Sapporo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13083",
+  "entityUrl" : "http://dbpedia.org/resource/Kazumi_Murata",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13084",
+  "entityUrl" : "http://dbpedia.org/resource/Koji_Yamamoto_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Koji_Yamamoto_(actor)) dbo:birthDate o'<1976-10-31>",
+    "2" : "s(Koji_Yamamoto_(actor)) dbo:birthPlace o'<Japan>",
+    "3" : "s(Koji_Yamamoto_(actor)) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Koji_Yamamoto_(actor)) dbo:height o'<179.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13085",
+  "entityUrl" : "http://dbpedia.org/resource/Kenny_Doughty",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenny_Doughty) dbo:birthDate o'<1975-03-27>",
+    "2" : "s(Kenny_Doughty) dbo:birthDate o'<1975-3-27>",
+    "3" : "s(Kenny_Doughty) dbo:birthPlace o'<UK>",
+    "4" : "s(Kenny_Doughty) dbo:birthPlace o'<England>",
+    "5" : "s(Kenny_Doughty) dbo:birthPlace o'<Barnsley>",
+    "6" : "s(Kenny_Doughty) dbo:birthPlace o'<Yorkshire>",
+    "7" : "s(Kenny_Doughty) dbp:name o'<Kenny Doughty>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13086",
+  "entityUrl" : "http://dbpedia.org/resource/Kiyotaka_Imai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kiyotaka_Imai) dbo:birthDate o'<1957-1-1>",
+    "2" : "s(Kiyotaka_Imai) dbo:birthPlace o'<Isesaki,_Gunma>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13087",
+  "entityUrl" : "http://dbpedia.org/resource/Ky%C5%8Dko_Tong%C5%AB",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13088",
+  "entityUrl" : "http://dbpedia.org/resource/Kenichi_Ono",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenichi_Ono) dbo:birthDate o'<1958-01-11>",
+    "2" : "s(Kenichi_Ono) dbo:birthDate o'<1958-1-11>",
+    "3" : "s(Kenichi_Ono) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kenichi_Ono) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13089",
+  "entityUrl" : "http://dbpedia.org/resource/Kerstin_Tidelius",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kerstin_Tidelius) dbo:birthDate o'<1934-10-14>",
+    "2" : "s(Kerstin_Tidelius) dbo:birthPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13090",
+  "entityUrl" : "http://dbpedia.org/resource/Karen_Meagher",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karen_Meagher) dbo:country o'<England>",
+    "2" : "s(Karen_Meagher) dbo:imdbId o'<0575109>",
+    "3" : "s(Karen_Meagher) dbp:name o'<Karen Meagher>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "7" : "s(karen meagher=Karen_Meagher) [member of ] o'<the united kingdom=England>"
+  },
+  "abstract" : {
+    "7" : "at the time karen meagher<Karen_Meagher> was a member of the campaign for nuclear disarmament and was passionately committed to making a statement about the dangers of nuclear war in the united kingdom<England>\n"
+  }
+}, {
+  "entityIndex" : "entity13091",
+  "entityUrl" : "http://dbpedia.org/resource/Kjeld_Gogosha-Clark",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kjeld_Gogosha-Clark) dbo:birthDate o'<1967-06-24>",
+    "2" : "s(Kjeld_Gogosha-Clark) dbo:birthDate o'<1967-6-24>",
+    "3" : "s(Kjeld_Gogosha-Clark) dbo:birthPlace o'<Yorkshire>",
+    "4" : "s(Kjeld_Gogosha-Clark) dbo:birthPlace o'<Leeds>",
+    "5" : "s(Kjeld_Gogosha-Clark) dbo:birthPlace o'<Great_Britain>",
+    "6" : "s(Kjeld_Gogosha-Clark) dbp:name o'<Kjeld, Gogosha-Clark>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13092",
+  "entityUrl" : "http://dbpedia.org/resource/Kanji_Tsuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanji_Tsuda) dbo:birthDate o'<1965-08-27>",
+    "2" : "s(Kanji_Tsuda) dbo:birthDate o'<1965-8-27>",
+    "3" : "s(Kanji_Tsuda) dbo:birthPlace o'<Fukui,_Fukui>",
+    "4" : "s(Kanji_Tsuda) dbo:birthPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13093",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Moriwaka__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Moriwaka__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13094",
+  "entityUrl" : "http://dbpedia.org/resource/Kerrie_Taylor",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kerrie_Taylor) dbo:birthDate o'<1973-6-20>",
+    "2" : "s(Kerrie_Taylor) dbo:country o'<United_Kingdom>",
+    "3" : "s(Kerrie_Taylor) dbo:imdbId o'<0852711>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13095",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_McGregor",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kate_McGregor) dbo:birthDate o'<1972-1-1>",
+    "2" : "s(Kate_McGregor) dbo:country o'<United_Kingdom>",
+    "3" : "s(Kate_McGregor) dbp:date o'<September 2009>",
+    "4" : "s(Kate_McGregor) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13096",
+  "entityUrl" : "http://dbpedia.org/resource/Koji_Date__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Koji_Date__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13097",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dji_Yada",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13098",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Mitsuishi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Mitsuishi) dbo:birthDate o'<1961-09-26>",
+    "2" : "s(Ken_Mitsuishi) dbo:birthDate o'<1961-9-26>",
+    "3" : "s(Ken_Mitsuishi) dbo:birthPlace o'<Yahata_Nishi-ku,_Kitakyushu>",
+    "4" : "s(Ken_Mitsuishi) dbo:birthPlace o'<Yahatanishi-ku,_Kitakyūshū>",
+    "5" : "s(Ken_Mitsuishi) dbp:name o'<Ken Mitsuishi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13099",
+  "entityUrl" : "http://dbpedia.org/resource/Kanako_Fukaura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanako_Fukaura) dbo:birthDate o'<1960-04-04>",
+    "2" : "s(Kanako_Fukaura) dbo:birthDate o'<1960-4-4>",
+    "3" : "s(Kanako_Fukaura) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kanako_Fukaura) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Kanako_Fukaura) dbo:deathDate o'<2008-08-25>",
+    "6" : "s(Kanako_Fukaura) dbo:deathDate o'<2008-8-25>",
+    "7" : "s(Kanako_Fukaura) dbo:deathPlace o'<Japan>",
+    "8" : "s(Kanako_Fukaura) dbo:deathPlace o'<Tokyo>",
+    "9" : "s(Kanako_Fukaura) dbp:name o'<Kanako Fukaura>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13100",
+  "entityUrl" : "http://dbpedia.org/resource/Keiichi_Noda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiichi_Noda) dbo:birthDate o'<1943-09-16>",
+    "2" : "s(Keiichi_Noda) dbo:birthDate o'<1943-9-16>",
+    "3" : "s(Keiichi_Noda) dbo:birthPlace o'<Japan>",
+    "4" : "s(Keiichi_Noda) dbo:birthPlace o'<Yamaguchi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13101",
+  "entityUrl" : "http://dbpedia.org/resource/Keaton_Yamada",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keaton_Yamada) dbo:birthDate o'<1945-10-25>",
+    "2" : "s(Keaton_Yamada) dbo:birthPlace o'<Japan>",
+    "3" : "s(Keaton_Yamada) dbo:birthPlace o'<Hobetsu,_Hokkaido>",
+    "4" : "s(Keaton_Yamada) dbo:birthPlace o'<Hobetsu,_Hokkaidō>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13102",
+  "entityUrl" : "http://dbpedia.org/resource/Kazunari_Kojima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazunari_Kojima) dbo:birthDate o'<1977-12-12>",
+    "2" : "s(Kazunari_Kojima) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13103",
+  "entityUrl" : "http://dbpedia.org/resource/Kenichi_Mochizuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13104",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dtar%C5%8D_Satomi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13105",
+  "entityUrl" : "http://dbpedia.org/resource/Katsuya_Kobayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsuya_Kobayashi) dbo:birthDate o'<1981-12-10>",
+    "2" : "s(Katsuya_Kobayashi) dbo:birthPlace o'<Shimonoseki>",
+    "3" : "s(Katsuya_Kobayashi) dbp:name o'<Katsuya Kobayashi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13106",
+  "entityUrl" : "http://dbpedia.org/resource/Kika_Mirylees",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kika_Mirylees) dbo:birthDate o'<1953-9-23>",
+    "2" : "s(Kika_Mirylees) dbo:birthPlace o'<Union_of_South_Africa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13107",
+  "entityUrl" : "http://dbpedia.org/resource/Kenjir%C5%8D_Ishimaru",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13108",
+  "entityUrl" : "http://dbpedia.org/resource/Kiichi_Nakai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kiichi_Nakai) dbo:birthDate o'<1961-09-18>",
+    "2" : "s(Kiichi_Nakai) dbo:birthDate o'<1961-9-18>",
+    "3" : "s(Kiichi_Nakai) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Kiichi_Nakai) dbo:birthPlace o'<Setagaya>",
+    "5" : "s(Kiichi_Nakai) dbo:height o'<181.0>",
+    "6" : "s(Kiichi_Nakai) dbp:name o'<Kiichi Nakai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13109",
+  "entityUrl" : "http://dbpedia.org/resource/Katsuhisa_Namase",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsuhisa_Namase) dbo:birthDate o'<1960-10-13>",
+    "2" : "s(Katsuhisa_Namase) dbo:birthPlace o'<Hyōgo>",
+    "3" : "s(Katsuhisa_Namase) dbo:birthPlace o'<Nishinomiya>",
+    "4" : "s(Katsuhisa_Namase) dbp:name o'<Katsuhisa Namase>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13110",
+  "entityUrl" : "http://dbpedia.org/resource/Kiyomitsu_Mizuuchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kiyomitsu_Mizuuchi) dbo:birthDate o'<1960-11-07>",
+    "2" : "s(Kiyomitsu_Mizuuchi) dbo:birthDate o'<1960-11-17>",
+    "3" : "s(Kiyomitsu_Mizuuchi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kiyomitsu_Mizuuchi) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13111",
+  "entityUrl" : "http://dbpedia.org/resource/Kotomi_Iwamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13112",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Yamagata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Yamagata) dbo:birthDate o'<1963-2-27>",
+    "2" : "s(Kaori_Yamagata) dbo:birthPlace o'<Hirakata,_Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13113",
+  "entityUrl" : "http://dbpedia.org/resource/Keiron_Self",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiron_Self) dbo:birthDate o'<1971-1-1>",
+    "2" : "s(Keiron_Self) dbo:birthPlace o'<Newport,_Wales>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13114",
+  "entityUrl" : "http://dbpedia.org/resource/Kang_Cheng_Xi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kang_Cheng_Xi) dbo:activeYearsStartYear o'<2006>",
+    "2" : "s(Kang_Cheng_Xi) dbo:birthDate o'<1984-12-5>",
+    "3" : "s(Kang_Cheng_Xi) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Kang_Cheng_Xi) dbo:partner o'<Hayley_Woo>",
+    "5" : "s(Kang_Cheng_Xi) dbp:ancestry o'<Chinese>",
+    "6" : "s(Kang_Cheng_Xi) dbp:awards o'<2006>",
+    "7" : "s(Kang_Cheng_Xi) dbp:awards o'<Nomination for Best Newcomer, Star Awards 07>",
+    "8" : "s(Kang_Cheng_Xi) dbp:birthDate o'<1984-12-05>",
+    "9" : "s(Kang_Cheng_Xi) dbp:birthName o'<Kang Cheng Xi>",
+    "10" : "s(Kang_Cheng_Xi) dbp:birthPlace o'<Singapore>",
+    "11" : "s(Kang_Cheng_Xi) dbp:imageSize o'<200>",
+    "12" : "s(Kang_Cheng_Xi) dbp:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(kang cheng xi=Kang_Cheng_Xi) [born 5 december 1984 ] o'<actor=Actor>",
+    "2" : "s(kang cheng xi=Kang_Cheng_Xi) [first entered showbiz through ] o'<star=Actor>"
+  },
+  "abstract" : {
+    "1" : "kang cheng xi<Kang_Cheng_Xi> (born 5 december 1984), also known as jiang chengxi, is a singaporean actor<Actor>",
+    "2" : "kang cheng xi<Kang_Cheng_Xi> first entered showbiz through the competition star<Actor> idol but has since left mediacorp to concentrate on university studies\n"
+  }
+}, {
+  "entityIndex" : "entity13115",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Collins",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karl_Collins) dbo:birthDate o'<1971-1-1>",
+    "2" : "s(Karl_Collins) dbo:birthPlace o'<England>",
+    "3" : "s(Karl_Collins) dbo:birthPlace o'<Clifton,_Nottingham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13116",
+  "entityUrl" : "http://dbpedia.org/resource/Kayo_Matsuo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kayo_Matsuo) dbo:birthDate o'<1943-03-17>",
+    "2" : "s(Kayo_Matsuo) dbo:birthDate o'<1943-3-17>",
+    "3" : "s(Kayo_Matsuo) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kayo_Matsuo) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Kayo_Matsuo) dbp:name o'<Kayo Matsuo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13117",
+  "entityUrl" : "http://dbpedia.org/resource/Kristina_J%C3%A4mtmark",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13118",
+  "entityUrl" : "http://dbpedia.org/resource/Kyosen_%C5%8Chashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13119",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Yamaguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Yamaguchi) dbo:birthDate o'<1956-03-24>",
+    "2" : "s(Ken_Yamaguchi) dbo:birthDate o'<1956-3-24>",
+    "3" : "s(Ken_Yamaguchi) dbo:birthPlace o'<Fukushima_Prefecture>",
+    "4" : "s(Ken_Yamaguchi) dbo:deathDate o'<2011-10-24>",
+    "5" : "s(Ken_Yamaguchi) dbo:deathPlace o'<Fukushima_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13120",
+  "entityUrl" : "http://dbpedia.org/resource/Kent_Riley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kent_Riley) dbo:birthDate o'<1984-04-09>",
+    "2" : "s(Kent_Riley) dbo:birthDate o'<1988-4-9>",
+    "3" : "s(Kent_Riley) dbo:birthPlace o'<England>",
+    "4" : "s(Kent_Riley) dbo:birthPlace o'<Liverpool>",
+    "5" : "s(Kent_Riley) dbo:birthPlace o'<Fazakerley>",
+    "6" : "s(Kent_Riley) dbp:name o'<Kent Riley>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13121",
+  "entityUrl" : "http://dbpedia.org/resource/Kasumi_Suzuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kasumi_Suzuki) dbo:birthDate o'<1990-06-21>",
+    "2" : "s(Kasumi_Suzuki) dbo:birthDate o'<1990-6-21>",
+    "3" : "s(Kasumi_Suzuki) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kasumi_Suzuki) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13122",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Gerhard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karl_Gerhard) dbo:birthDate o'<1891-04-14>",
+    "2" : "s(Karl_Gerhard) dbo:birthDate o'<1891-4-14>",
+    "3" : "s(Karl_Gerhard) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Karl_Gerhard) dbo:deathDate o'<1964-04-24>",
+    "5" : "s(Karl_Gerhard) dbo:deathDate o'<1964-4-22>",
+    "6" : "s(Karl_Gerhard) dbo:deathPlace o'<Saltsjöbaden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13123",
+  "entityUrl" : "http://dbpedia.org/resource/Kousei_Yagi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kousei_Yagi) dbo:birthDate o'<1930-2-13>",
+    "2" : "s(Kousei_Yagi) dbo:birthPlace o'<Hyōgo_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13124",
+  "entityUrl" : "http://dbpedia.org/resource/Kurumi_Mamiya",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kurumi_Mamiya) dbo:birthDate o'<1976-11-10>",
+    "2" : "s(Kurumi_Mamiya) dbo:birthPlace o'<Yasu,_Shiga>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13125",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuya_Tatekabe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuya_Tatekabe) dbo:birthDate o'<1934-7-25>",
+    "2" : "s(Kazuya_Tatekabe) dbo:birthPlace o'<Kimobetsu,_Hokkaido>",
+    "3" : "s(Kazuya_Tatekabe) dbo:deathDate o'<2015-6-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13126",
+  "entityUrl" : "http://dbpedia.org/resource/Kan_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kan_Tanaka) dbo:birthDate o'<1964-2-3>",
+    "2" : "s(Kan_Tanaka) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13127",
+  "entityUrl" : "http://dbpedia.org/resource/Kayo_Yuunagi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13128",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuko_Yanaga",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuko_Yanaga) dbo:birthDate o'<1947-04-14>",
+    "2" : "s(Kazuko_Yanaga) dbo:birthDate o'<1947-4-14>",
+    "3" : "s(Kazuko_Yanaga) dbo:birthPlace o'<Fukuoka_Prefecture>",
+    "4" : "s(Kazuko_Yanaga) dbo:deathDate o'<2014-11-01>",
+    "5" : "s(Kazuko_Yanaga) dbo:deathDate o'<2014-11-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13129",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Yokozawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Yokozawa) dbo:birthDate o'<1952-09-02>",
+    "2" : "s(Keiko_Yokozawa) dbo:birthDate o'<1952-9-2>",
+    "3" : "s(Keiko_Yokozawa) dbo:birthPlace o'<Niigata,_Niigata>",
+    "4" : "s(Keiko_Yokozawa) dbo:birthPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13130",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Hanagata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Hanagata) dbo:birthDate o'<1935-6-2>",
+    "2" : "s(Keiko_Hanagata) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Keiko_Hanagata) dbo:deathDate o'<2015-1-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13131",
+  "entityUrl" : "http://dbpedia.org/resource/Kinya_Aikawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kinya_Aikawa) dbo:birthDate o'<1934-06-25>",
+    "2" : "s(Kinya_Aikawa) dbo:birthDate o'<1934-5-25>",
+    "3" : "s(Kinya_Aikawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kinya_Aikawa) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Kinya_Aikawa) dbo:birthPlace o'<Sugamo>",
+    "6" : "s(Kinya_Aikawa) dbo:deathDate o'<2015-04-15>",
+    "7" : "s(Kinya_Aikawa) dbo:deathDate o'<2015-4-15>",
+    "8" : "s(Kinya_Aikawa) dbo:deathPlace o'<Japan>",
+    "9" : "s(Kinya_Aikawa) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13132",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Fukuhara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Fukuhara) dbo:birthDate o'<1986-08-11>",
+    "2" : "s(Kaori_Fukuhara) dbo:birthDate o'<1986-8-11>",
+    "3" : "s(Kaori_Fukuhara) dbo:birthPlace o'<Kisarazu>",
+    "4" : "s(Kaori_Fukuhara) dbo:birthPlace o'<Japan>",
+    "5" : "s(Kaori_Fukuhara) dbo:birthPlace o'<Chiba_Prefecture>",
+    "6" : "s(Kaori_Fukuhara) dbo:height o'<151.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13133",
+  "entityUrl" : "http://dbpedia.org/resource/Konomi_Maeda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Konomi_Maeda) dbo:birthPlace o'<Hyōgo_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13134",
+  "entityUrl" : "http://dbpedia.org/resource/Kelly_George_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kelly_George_(actor)) dbo:birthDate o'<1970-12-19>",
+    "2" : "s(Kelly_George_(actor)) dbo:country o'<United_Kingdom>",
+    "3" : "s(Kelly_George_(actor)) dbo:nationality o'<United_Kingdom>",
+    "4" : "s(Kelly_George_(actor)) dbp:birthPlace o'<Newport Pagnell>",
+    "5" : "s(Kelly_George_(actor)) dbp:education o'<Sylvia Youngs>",
+    "6" : "s(Kelly_George_(actor)) dbp:knownFor o'<Producer>",
+    "7" : "s(Kelly_George_(actor)) dbp:nativeNameLang o'<English>",
+    "8" : "s(Kelly_George_(actor)) dbp:notableWorks o'<Grange Hill, RocknRolla, The Bill>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13135",
+  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Ma",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenneth_Ma) dbo:birthDate o'<1974-2-13>",
+    "2" : "s(Kenneth_Ma) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13136",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Suzuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Suzuki) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13137",
+  "entityUrl" : "http://dbpedia.org/resource/Kym_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13138",
+  "entityUrl" : "http://dbpedia.org/resource/Kathy_Chow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kathy_Chow) dbo:birthDate o'<1966-12-12>",
+    "2" : "s(Kathy_Chow) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kathy_Chow) dbp:birthPlace o'<History_of_Colonial_Hong_Kong_(1800s–1930s)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13139",
+  "entityUrl" : "http://dbpedia.org/resource/Kazutoshi_Hatano",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazutoshi_Hatano) dbo:birthDate o'<1979-4-2>",
+    "2" : "s(Kazutoshi_Hatano) dbo:birthPlace o'<Ōita_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13140",
+  "entityUrl" : "http://dbpedia.org/resource/Kentar%C5%8D_Kobayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13141",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuki_Namioka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuki_Namioka) dbo:birthDate o'<1978-08-02>",
+    "2" : "s(Kazuki_Namioka) dbo:birthDate o'<1978-8-2>",
+    "3" : "s(Kazuki_Namioka) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazuki_Namioka) dbo:birthPlace o'<Osaka>",
+    "5" : "s(Kazuki_Namioka) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13142",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Hodiak",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keith_Hodiak) dbo:activeYearsEndYear o'<1992>",
+    "2" : "s(Keith_Hodiak) dbo:activeYearsStartYear o'<1978>",
+    "3" : "s(Keith_Hodiak) dbo:birthName o'<Keith Hodiak Jones>",
+    "4" : "s(Keith_Hodiak) dbo:country o'<United_Kingdom>",
+    "5" : "s(Keith_Hodiak) dbo:imdbId o'<0388305>",
+    "6" : "s(Keith_Hodiak) dbo:occupation o'<Keith_Hodiak__1>",
+    "7" : "s(Keith_Hodiak) dbo:occupation o'<Actor>",
+    "8" : "s(Keith_Hodiak) dbp:name o'<Keith Hodiak>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(keith hodiak=Keith_Hodiak) [british ] o'<actor=Actor>",
+    "7" : "s(keith hodiak=Keith_Hodiak) [briefly appeared in eastenders in ] o'<television=Actor>"
+  },
+  "abstract" : {
+    "1" : "keith hodiak<Keith_Hodiak> is a british actor<Actor> who was active on british tv between 1978 and 1992",
+    "7" : "keith hodiak<Keith_Hodiak> briefly appeared in eastenders in 1992, but has not been on television<Actor> since\n"
+  }
+}, {
+  "entityIndex" : "entity13143",
+  "entityUrl" : "http://dbpedia.org/resource/Kentaro_Shimizu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kentaro_Shimizu) dbo:birthDate o'<1952-10-11>",
+    "2" : "s(Kentaro_Shimizu) dbp:name o'<Kentaro Shimizu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13144",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Hardie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kate_Hardie) dbo:birthDate o'<1969-04-26>",
+    "2" : "s(Kate_Hardie) dbo:birthDate o'<1969-4-26>",
+    "3" : "s(Kate_Hardie) dbo:birthPlace o'<London>",
+    "4" : "s(Kate_Hardie) dbp:name o'<Kate Hardie>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13145",
+  "entityUrl" : "http://dbpedia.org/resource/Kazue_Itoh",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazue_Itoh) dbo:birthDate o'<1966-12-07>",
+    "2" : "s(Kazue_Itoh) dbo:birthDate o'<1966-12-7>",
+    "3" : "s(Kazue_Itoh) dbo:birthPlace o'<Seya-ku,_Yokohama>",
+    "4" : "s(Kazue_Itoh) dbo:birthPlace o'<Japan>",
+    "5" : "s(Kazue_Itoh) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13146",
+  "entityUrl" : "http://dbpedia.org/resource/Kanako_Mitsuhashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanako_Mitsuhashi) dbo:birthDate o'<1978-01-10>",
+    "2" : "s(Kanako_Mitsuhashi) dbo:birthDate o'<1978-1-10>",
+    "3" : "s(Kanako_Mitsuhashi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kanako_Mitsuhashi) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "5" : "s(Kanako_Mitsuhashi) dbo:birthPlace o'<Yokohama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13147",
+  "entityUrl" : "http://dbpedia.org/resource/Kristina_Adolphson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kristina_Adolphson) dbo:birthDate o'<1937-09-02>",
+    "2" : "s(Kristina_Adolphson) dbo:birthDate o'<1937-9-2>",
+    "3" : "s(Kristina_Adolphson) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Kristina_Adolphson) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Kristina_Adolphson) dbp:name o'<Kristina Adolphson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13148",
+  "entityUrl" : "http://dbpedia.org/resource/Kenji_Matsuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenji_Matsuda) dbo:birthDate o'<1971-09-23>",
+    "2" : "s(Kenji_Matsuda) dbo:birthDate o'<1971-9-23>",
+    "3" : "s(Kenji_Matsuda) dbo:birthPlace o'<Osaka>",
+    "4" : "s(Kenji_Matsuda) dbo:birthPlace o'<Osaka,_Japan>",
+    "5" : "s(Kenji_Matsuda) dbp:name o'<Kenji Matsuda>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13149",
+  "entityUrl" : "http://dbpedia.org/resource/Kuniko_Asagi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kuniko_Asagi) dbo:birthDate o'<1962-11-12>",
+    "2" : "s(Kuniko_Asagi) dbo:birthPlace o'<Ōta,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13150",
+  "entityUrl" : "http://dbpedia.org/resource/Kai_At%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13151",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuo_Funaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuo_Funaki) dbo:birthDate o'<1944-12-12>",
+    "2" : "s(Kazuo_Funaki) dbo:birthPlace o'<Ichinomiya,_Aichi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13152",
+  "entityUrl" : "http://dbpedia.org/resource/Karen_Ascoe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karen_Ascoe) dbo:activeYearsStartYear o'<1987>",
+    "2" : "s(Karen_Ascoe) dbo:country o'<England>",
+    "3" : "s(Karen_Ascoe) dbo:ethnicity o'<White_British>",
+    "4" : "s(Karen_Ascoe) dbo:nationality o'<British_nationality_law>",
+    "5" : "s(Karen_Ascoe) dbo:occupation o'<Karen_Ascoe__1>",
+    "6" : "s(Karen_Ascoe) dbo:occupation o'<Actor>",
+    "7" : "s(Karen_Ascoe) dbo:stateOfOrigin o'<British_nationality_law>",
+    "8" : "s(Karen_Ascoe) dbp:notableWorks o'<[[#Filmography>",
+    "9" : "s(Karen_Ascoe) dbp:television o'<EastEnders>",
+    "10" : "s(Karen_Ascoe) dbp:television o'<Doctors>",
+    "11" : "s(Karen_Ascoe) dbp:television o'<French Fields>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13153",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Clifford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kim_Clifford) dbo:birthDate o'<1961-1-27>",
+    "2" : "s(Kim_Clifford) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13154",
+  "entityUrl" : "http://dbpedia.org/resource/Kaoru_Shimamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaoru_Shimamura) dbo:birthDate o'<1969-04-15>",
+    "2" : "s(Kaoru_Shimamura) dbo:birthDate o'<1969-4-15>",
+    "3" : "s(Kaoru_Shimamura) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kaoru_Shimamura) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "5" : "s(Kaoru_Shimamura) dbo:birthPlace o'<Yokohama>",
+    "6" : "s(Kaoru_Shimamura) dbo:deathDate o'<2013-02-26>",
+    "7" : "s(Kaoru_Shimamura) dbo:deathDate o'<2013-2-26>",
+    "8" : "s(Kaoru_Shimamura) dbo:deathPlace o'<Japan>",
+    "9" : "s(Kaoru_Shimamura) dbo:deathPlace o'<Kanagawa_Prefecture>",
+    "10" : "s(Kaoru_Shimamura) dbo:deathPlace o'<Yokohama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13155",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dji_Nanbara",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13156",
+  "entityUrl" : "http://dbpedia.org/resource/Kenichi_End%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13157",
+  "entityUrl" : "http://dbpedia.org/resource/Kaho_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaho_(actress)) dbo:birthDate o'<1991-06-30>",
+    "2" : "s(Kaho_(actress)) dbo:birthDate o'<1991-6-30>",
+    "3" : "s(Kaho_(actress)) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kaho_(actress)) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Kaho_(actress)) dbo:height o'<164.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13158",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Fahy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kate_Fahy) dbo:birthPlace o'<Dublin>",
+    "2" : "s(Kate_Fahy) dbo:birthPlace o'<England>",
+    "3" : "s(Kate_Fahy) dbo:birthPlace o'<Birmingham>",
+    "4" : "s(Kate_Fahy) dbo:country o'<England>",
+    "5" : "s(Kate_Fahy) dbo:occupation o'<Kate_Fahy__1>",
+    "6" : "s(Kate_Fahy) dbo:partner o'<Jonathan_Pryce>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(kate fahy=Kate_Fahy) [joined everyman theatre liverpool ] o'<jonathan pryce=Jonathan_Pryce>"
+  },
+  "abstract" : {
+    "3" : "later on kate fahy<Kate_Fahy> joined the everyman theatre liverpool company, where kate fahy<Kate_Fahy> met actor jonathan pryce<Jonathan_Pryce>\n"
+  }
+}, {
+  "entityIndex" : "entity13159",
+  "entityUrl" : "http://dbpedia.org/resource/Kingone_Wang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kingone_Wang) dbo:birthDate o'<1980-5-5>",
+    "2" : "s(Kingone_Wang) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Kingone_Wang) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Kingone_Wang) dbp:birthPlace o'<Taipei>",
+    "5" : "s(Kingone_Wang) dbp:birthPlace o'<Wanhua_District>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13160",
+  "entityUrl" : "http://dbpedia.org/resource/Karina_Nose",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karina_Nose) dbo:birthDate o'<1984-02-21>",
+    "2" : "s(Karina_Nose) dbo:birthDate o'<1984-2-21>",
+    "3" : "s(Karina_Nose) dbo:birthPlace o'<Japan>",
+    "4" : "s(Karina_Nose) dbo:birthPlace o'<Shōwa-ku,_Nagoya>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13161",
+  "entityUrl" : "http://dbpedia.org/resource/Kazumi_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazumi_Tanaka) dbo:birthDate o'<1951-08-11>",
+    "2" : "s(Kazumi_Tanaka) dbo:birthDate o'<1951-8-11>",
+    "3" : "s(Kazumi_Tanaka) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazumi_Tanaka) dbo:birthPlace o'<Suginami>",
+    "5" : "s(Kazumi_Tanaka) dbo:birthPlace o'<Suginami,_Tokyo>",
+    "6" : "s(Kazumi_Tanaka) dbo:deathDate o'<2007-12-20>",
+    "7" : "s(Kazumi_Tanaka) dbo:deathPlace o'<Japan>",
+    "8" : "s(Kazumi_Tanaka) dbo:deathPlace o'<Tama,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13162",
+  "entityUrl" : "http://dbpedia.org/resource/Ku_Feng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ku_Feng) dbo:birthDate o'<1930-7-3>",
+    "2" : "s(Ku_Feng) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Ku_Feng) dbp:birthPlace o'<Shanghai>",
+    "4" : "s(Ku_Feng) dbp:birthPlace o'<History_of_the_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13163",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Kensei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Kensei) dbo:birthDate o'<1954-1-1>",
+    "2" : "s(Ken_Kensei) dbo:birthPlace o'<Kōchi,_Kōchi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13164",
+  "entityUrl" : "http://dbpedia.org/resource/Kohji_Moritsugu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kohji_Moritsugu) dbo:birthDate o'<1943-3-15>",
+    "2" : "s(Kohji_Moritsugu) dbo:birthPlace o'<Takikawa,_Hokkaido>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13165",
+  "entityUrl" : "http://dbpedia.org/resource/Kohei_Murakami",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kohei_Murakami) dbo:wikiPageRedirects o'<Kōhei_Murakami>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13166",
+  "entityUrl" : "http://dbpedia.org/resource/Kenji_Ebisawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenji_Ebisawa) dbo:birthDate o'<1986-10-22>",
+    "2" : "s(Kenji_Ebisawa) dbo:birthPlace o'<Japan>",
+    "3" : "s(Kenji_Ebisawa) dbo:birthPlace o'<Okinawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13167",
+  "entityUrl" : "http://dbpedia.org/resource/Kanji_Suzumori",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanji_Suzumori) dbo:birthDate o'<1974-1-1>",
+    "2" : "s(Kanji_Suzumori) dbo:birthPlace o'<Aichi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13168",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dz%C5%8D_Mito",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13169",
+  "entityUrl" : "http://dbpedia.org/resource/Katsumi_Tezuka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsumi_Tezuka) dbo:birthDate o'<1912-8-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13170",
+  "entityUrl" : "http://dbpedia.org/resource/Kenpachiro_Satsuma",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenpachiro_Satsuma) dbo:birthDate o'<1947-5-27>",
+    "2" : "s(Kenpachiro_Satsuma) dbo:birthPlace o'<Kagoshima_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13171",
+  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Kent",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenneth_Kent) dbo:birthDate o'<1892-4-20>",
+    "2" : "s(Kenneth_Kent) dbo:deathDate o'<1963-11-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13172",
+  "entityUrl" : "http://dbpedia.org/resource/Kazunori_Yokoo",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13173",
+  "entityUrl" : "http://dbpedia.org/resource/Katharine_Barker_(British_actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katharine_Barker_(British_actress)) dbo:birthDate o'<1941-3-10>",
+    "2" : "s(Katharine_Barker_(British_actress)) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13174",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Anderzon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kim_Anderzon) dbo:birthDate o'<1943-03-20>",
+    "2" : "s(Kim_Anderzon) dbo:birthDate o'<1943-3-20>",
+    "3" : "s(Kim_Anderzon) dbo:birthPlace o'<Östersund>",
+    "4" : "s(Kim_Anderzon) dbo:deathDate o'<2014-10-24>",
+    "5" : "s(Kim_Anderzon) dbo:deathPlace o'<Lindholmen,_Vallentuna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13175",
+  "entityUrl" : "http://dbpedia.org/resource/Katherine_Jakeways",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katherine_Jakeways) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13176",
+  "entityUrl" : "http://dbpedia.org/resource/Katie_Rolfsen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katie_Rolfsen) dbo:birthDate o'<1902-11-10>",
+    "2" : "s(Katie_Rolfsen) dbo:birthPlace o'<Norway>",
+    "3" : "s(Katie_Rolfsen) dbo:birthPlace o'<Oslo>",
+    "4" : "s(Katie_Rolfsen) dbo:birthPlace o'<Q21711493>",
+    "5" : "s(Katie_Rolfsen) dbo:deathDate o'<1966-09-22>",
+    "6" : "s(Katie_Rolfsen) dbo:deathDate o'<1966-9-22>",
+    "7" : "s(Katie_Rolfsen) dbo:deathPlace o'<Sweden>",
+    "8" : "s(Katie_Rolfsen) dbo:deathPlace o'<Rådmansö>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13177",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dji_Takahashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13178",
+  "entityUrl" : "http://dbpedia.org/resource/Karl-Arne_Holmsten",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karl-Arne_Holmsten) dbo:birthDate o'<1911-08-14>",
+    "2" : "s(Karl-Arne_Holmsten) dbo:birthDate o'<1911-8-14>",
+    "3" : "s(Karl-Arne_Holmsten) dbo:birthPlace o'<Uppsala>",
+    "4" : "s(Karl-Arne_Holmsten) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Karl-Arne_Holmsten) dbo:deathDate o'<1995-02-22>",
+    "6" : "s(Karl-Arne_Holmsten) dbo:deathDate o'<1995-2-22>",
+    "7" : "s(Karl-Arne_Holmsten) dbo:deathPlace o'<Lidingö>",
+    "8" : "s(Karl-Arne_Holmsten) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13179",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Buckley_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keith_Buckley_(actor)) dbo:birthDate o'<1941-4-7>",
+    "2" : "s(Keith_Buckley_(actor)) dbo:birthPlace o'<London>",
+    "3" : "s(Keith_Buckley_(actor)) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13180",
+  "entityUrl" : "http://dbpedia.org/resource/Kiki_Sheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kiki_Sheung) dbo:birthDate o'<1959-7-24>",
+    "2" : "s(Kiki_Sheung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13181",
+  "entityUrl" : "http://dbpedia.org/resource/Keiran_Lee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiran_Lee) dbo:birthDate o'<1984-01-15>",
+    "2" : "s(Keiran_Lee) dbo:birthDate o'<1984-1-15>",
+    "3" : "s(Keiran_Lee) dbo:birthPlace o'<Derby>",
+    "4" : "s(Keiran_Lee) dbp:name o'<Keiran Lee>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13182",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuo_Hasegawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuo_Hasegawa) dbo:birthDate o'<1908-02-27>",
+    "2" : "s(Kazuo_Hasegawa) dbo:birthDate o'<1908-2-27>",
+    "3" : "s(Kazuo_Hasegawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazuo_Hasegawa) dbo:birthPlace o'<Kyoto>",
+    "5" : "s(Kazuo_Hasegawa) dbo:birthPlace o'<Fushimi,_Kyoto>",
+    "6" : "s(Kazuo_Hasegawa) dbo:birthPlace o'<Fushimi-ku,_Kyoto>",
+    "7" : "s(Kazuo_Hasegawa) dbo:deathDate o'<1984-04-06>",
+    "8" : "s(Kazuo_Hasegawa) dbo:deathDate o'<1984-4-6>",
+    "9" : "s(Kazuo_Hasegawa) dbo:deathPlace o'<Japan>",
+    "10" : "s(Kazuo_Hasegawa) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13183",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Mitsuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Mitsuda) dbo:birthDate o'<1902-04-29>",
+    "2" : "s(Ken_Mitsuda) dbo:birthDate o'<1902-4-29>",
+    "3" : "s(Ken_Mitsuda) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ken_Mitsuda) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Ken_Mitsuda) dbo:deathDate o'<1997-11-28>",
+    "6" : "s(Ken_Mitsuda) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13184",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Suzuka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Suzuka) dbo:birthDate o'<1955-11-21>",
+    "2" : "s(Keiko_Suzuka) dbo:birthPlace o'<Ishinomaki,_Miyagi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13185",
+  "entityUrl" : "http://dbpedia.org/resource/Keve_Hjelm",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keve_Hjelm) dbo:birthDate o'<1922-06-23>",
+    "2" : "s(Keve_Hjelm) dbo:birthDate o'<1922-6-23>",
+    "3" : "s(Keve_Hjelm) dbo:birthPlace o'<Gnesta>",
+    "4" : "s(Keve_Hjelm) dbo:deathDate o'<2004-02-03>",
+    "5" : "s(Keve_Hjelm) dbo:deathDate o'<2004-2-3>",
+    "6" : "s(Keve_Hjelm) dbo:deathPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13186",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Kavli",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karin_Kavli) dbo:activeYearsEndYear o'<1983>",
+    "2" : "s(Karin_Kavli) dbo:activeYearsStartYear o'<1933>",
+    "3" : "s(Karin_Kavli) dbo:birthDate o'<1906-06-21>",
+    "4" : "s(Karin_Kavli) dbo:birthDate o'<1906-6-21>",
+    "5" : "s(Karin_Kavli) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Karin_Kavli) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Karin_Kavli) dbo:birthYear o'<1906>",
+    "8" : "s(Karin_Kavli) dbo:deathDate o'<1990-03-08>",
+    "9" : "s(Karin_Kavli) dbo:deathDate o'<1990-3-8>",
+    "10" : "s(Karin_Kavli) dbo:deathYear o'<1990>",
+    "11" : "s(Karin_Kavli) dbo:nationality o'<Sweden>",
+    "12" : "s(Karin_Kavli) dbo:occupation o'<Karin_Kavli__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13187",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Wickham",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keith_Wickham) dbo:activeYearsStartYear o'<1996>",
+    "2" : "s(Keith_Wickham) dbo:birthDate o'<1965-02-09>",
+    "3" : "s(Keith_Wickham) dbo:birthDate o'<1965-2-9>",
+    "4" : "s(Keith_Wickham) dbo:birthPlace o'<St_Albans>",
+    "5" : "s(Keith_Wickham) dbo:birthYear o'<1965>",
+    "6" : "s(Keith_Wickham) dbo:country o'<England>",
+    "7" : "s(Keith_Wickham) dbo:imdbId o'<1080077>",
+    "8" : "s(Keith_Wickham) dbo:occupation o'<Keith_Wickham__1>",
+    "9" : "s(Keith_Wickham) dbp:name o'<Keith Wickham>",
+    "10" : "s(Keith_Wickham) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13188",
+  "entityUrl" : "http://dbpedia.org/resource/Katharine_Levy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katharine_Levy) dbo:activeYearsEndYear o'<1970>",
+    "2" : "s(Katharine_Levy) dbo:activeYearsStartYear o'<1970>",
+    "3" : "s(Katharine_Levy) dbo:country o'<United_Kingdom>",
+    "4" : "s(Katharine_Levy) dbo:nationality o'<British_people>",
+    "5" : "s(Katharine_Levy) dbo:occupation o'<Katharine_Levy__1>",
+    "6" : "s(Katharine_Levy) dbo:stateOfOrigin o'<British_people>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13189",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Faulkner",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keith_Faulkner) dbo:birthDate o'<1936-7-25>",
+    "2" : "s(Keith_Faulkner) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(keith faulkner=Keith_Faulkner) [appeared at stratforduponavons memorial theatre ] o'<britain=England>"
+  },
+  "abstract" : {
+    "4" : "in 1951, keith faulkner<Keith_Faulkner> appeared at stratford-upon-avon's memorial theatre during the festival of britain<England> season, playing falstaff's page in henry iv and the boy in henry v\n"
+  }
+}, {
+  "entityIndex" : "entity13190",
+  "entityUrl" : "http://dbpedia.org/resource/Kathleen_Worth",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kathleen_Worth) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13191",
+  "entityUrl" : "http://dbpedia.org/resource/Kwan_Hoi-san",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kwan_Hoi-san) dbo:birthDate o'<1925-10-23>",
+    "2" : "s(Kwan_Hoi-san) dbo:deathDate o'<2006-9-11>",
+    "3" : "s(Kwan_Hoi-san) dbp:birthPlace o'<Guangzhou>",
+    "4" : "s(Kwan_Hoi-san) dbp:birthPlace o'<Guangdong>",
+    "5" : "s(Kwan_Hoi-san) dbp:deathPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13192",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Erik_Flens",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karl_Erik_Flens) dbo:birthDate o'<1913-03-19>",
+    "2" : "s(Karl_Erik_Flens) dbo:birthDate o'<1913-3-19>",
+    "3" : "s(Karl_Erik_Flens) dbo:birthPlace o'<Lidingö>",
+    "4" : "s(Karl_Erik_Flens) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Karl_Erik_Flens) dbo:deathDate o'<1975-10-17>",
+    "6" : "s(Karl_Erik_Flens) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Karl_Erik_Flens) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13193",
+  "entityUrl" : "http://dbpedia.org/resource/Kihachir%C5%8D_Uemura",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13194",
+  "entityUrl" : "http://dbpedia.org/resource/Kantar%C5%8D_Suga",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13195",
+  "entityUrl" : "http://dbpedia.org/resource/Kristy_Yang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kristy_Yang) dbo:birthDate o'<1974-1-7>",
+    "2" : "s(Kristy_Yang) dbp:birthPlace o'<China>",
+    "3" : "s(Kristy_Yang) dbp:birthPlace o'<Shanghai>",
+    "4" : "s(Kristy_Yang) dbp:name o'<Kristy Yang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13196",
+  "entityUrl" : "http://dbpedia.org/resource/Kanj%C5%ABr%C5%8D_Arashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13197",
+  "entityUrl" : "http://dbpedia.org/resource/Kento_Nakajima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kento_Nakajima) dbo:birthDate o'<1994-03-13>",
+    "2" : "s(Kento_Nakajima) dbo:birthDate o'<1994-3-13>",
+    "3" : "s(Kento_Nakajima) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kento_Nakajima) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Kento_Nakajima) dbo:height o'<176.0>",
+    "6" : "s(Kento_Nakajima) dbo:weight o'<63.0>",
+    "7" : "s(Kento_Nakajima) dbp:chineseSign o'<Dog>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13198",
+  "entityUrl" : "http://dbpedia.org/resource/Kiwako_Taichi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kiwako_Taichi) dbo:birthDate o'<1943-12-02>",
+    "2" : "s(Kiwako_Taichi) dbo:birthDate o'<1943-12-2>",
+    "3" : "s(Kiwako_Taichi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kiwako_Taichi) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Kiwako_Taichi) dbo:deathDate o'<1992-10-13>",
+    "6" : "s(Kiwako_Taichi) dbo:deathPlace o'<Shizuoka,_Shizuoka>",
+    "7" : "s(Kiwako_Taichi) dbo:deathPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13199",
+  "entityUrl" : "http://dbpedia.org/resource/Kimito_Totani",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kimito_Totani) dbo:birthDate o'<1990-05-07>",
+    "2" : "s(Kimito_Totani) dbo:birthDate o'<1990-5-7>",
+    "3" : "s(Kimito_Totani) dbo:birthPlace o'<Shinagawa,_Tokyo>",
+    "4" : "s(Kimito_Totani) dbo:birthPlace o'<Japan>",
+    "5" : "s(Kimito_Totani) dbo:birthPlace o'<Tokyo>",
+    "6" : "s(Kimito_Totani) dbo:birthPlace o'<Shinagawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13200",
+  "entityUrl" : "http://dbpedia.org/resource/Kaoru_Kobayashi_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaoru_Kobayashi_(actor)) dbo:birthDate o'<1951-09-04>",
+    "2" : "s(Kaoru_Kobayashi_(actor)) dbo:birthDate o'<1951-9-4>",
+    "3" : "s(Kaoru_Kobayashi_(actor)) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kaoru_Kobayashi_(actor)) dbo:birthPlace o'<Kyoto,_Kyoto>",
+    "5" : "s(Kaoru_Kobayashi_(actor)) dbo:birthPlace o'<Kyoto>",
+    "6" : "s(Kaoru_Kobayashi_(actor)) dbo:birthPlace o'<Kyoto_Prefecture>",
+    "7" : "s(Kaoru_Kobayashi_(actor)) dbo:height o'<175.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13201",
+  "entityUrl" : "http://dbpedia.org/resource/Kris_Deedigan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kris_Deedigan) dbo:activeYearsStartYear o'<2001>",
+    "2" : "s(Kris_Deedigan) dbo:birthDate o'<1979-1-1>",
+    "3" : "s(Kris_Deedigan) dbo:birthName o'<Kris Deedigan>",
+    "4" : "s(Kris_Deedigan) dbo:birthPlace o'<Alnwick>",
+    "5" : "s(Kris_Deedigan) dbo:birthPlace o'<Tyne_and_Wear>",
+    "6" : "s(Kris_Deedigan) dbo:birthYear o'<1979>",
+    "7" : "s(Kris_Deedigan) dbo:country o'<United_Kingdom>",
+    "8" : "s(Kris_Deedigan) dbo:occupation o'<Kris_Deedigan__1>",
+    "9" : "s(Kris_Deedigan) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(kris deedigan=Kris_Deedigan) [british ] o'<actor=Actor>"
+  },
+  "abstract" : {
+    "1" : "kris deedigan<Kris_Deedigan> is a british actor<Actor> best known for his portrayal of des townsend in the long-running channel 4 soap opera hollyoaks"
+  }
+}, {
+  "entityIndex" : "entity13202",
+  "entityUrl" : "http://dbpedia.org/resource/Katherine_East",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katherine_East) dbo:activeYearsStartYear o'<1998>",
+    "2" : "s(Katherine_East) dbo:almaMater o'<Webber_Douglas_Academy_of_Dramatic_Art>",
+    "3" : "s(Katherine_East) dbo:birthPlace o'<Killarney,_Ontario>",
+    "4" : "s(Katherine_East) dbo:country o'<England>",
+    "5" : "s(Katherine_East) dbo:height o'<182.88>",
+    "6" : "s(Katherine_East) dbo:height o'<1.8288>",
+    "7" : "s(Katherine_East) dbo:nationality o'<Canadian>",
+    "8" : "s(Katherine_East) dbo:occupation o'<Actress>",
+    "9" : "s(Katherine_East) dbo:occupation o'<Katherine_East__1>",
+    "10" : "s(Katherine_East) dbo:stateOfOrigin o'<Canadian>",
+    "11" : "s(Katherine_East) dbp:parents o'<Annabelle East>",
+    "12" : "s(Katherine_East) dbp:parents o'<Maurice East>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(katherine east=Katherine_East) [appeared on stage ] o'<canada=Canadian>",
+    "4" : "s(katherine east=Katherine_East) [raised in indigenous ] o'<killarney=Killarney,_Ontario>",
+    "6" : "s(katherine east=Katherine_East) [moved to ] o'<britain=England>"
+  },
+  "abstract" : {
+    "3" : "katherine east<Katherine_East> has also appeared on stage in various productions in canada<Canadian>, the united kingdom<England> and georgia\n",
+    "4" : "katherine east<Katherine_East> was raised in the indigenous community of killarney<Killarney,_Ontario> (shebahonaning) in northern canada<Canadian> - an isolated 500 person fishing village complete with a general store, a one room schoolhouse and frozen lake roads\n",
+    "6" : "after travelling solo around the world at 18 katherine east<Katherine_East> moved to britain<England> to study acting\n"
+  }
+}, {
+  "entityIndex" : "entity13203",
+  "entityUrl" : "http://dbpedia.org/resource/Kristal_Tin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kristal_Tin) dbo:birthDate o'<1977-9-28>",
+    "2" : "s(Kristal_Tin) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kristal_Tin) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13204",
+  "entityUrl" : "http://dbpedia.org/resource/Katsue_Miwa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsue_Miwa) dbo:birthDate o'<1943-10-12>",
+    "2" : "s(Katsue_Miwa) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13205",
+  "entityUrl" : "http://dbpedia.org/resource/Katsuhiko_Nakagawa__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsuhiko_Nakagawa__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13206",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Uehara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Uehara) dbo:birthDate o'<1909-11-07>",
+    "2" : "s(Ken_Uehara) dbo:birthDate o'<1909-10-7>",
+    "3" : "s(Ken_Uehara) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ken_Uehara) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Ken_Uehara) dbo:deathDate o'<1991-11-23>",
+    "6" : "s(Ken_Uehara) dbo:deathPlace o'<Japan>",
+    "7" : "s(Ken_Uehara) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13207",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Lannby",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karin_Lannby) dbo:birthDate o'<1916-4-13>",
+    "2" : "s(Karin_Lannby) dbo:birthPlace o'<Linköping>",
+    "3" : "s(Karin_Lannby) dbo:deathDate o'<2007-11-19>",
+    "4" : "s(Karin_Lannby) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13208",
+  "entityUrl" : "http://dbpedia.org/resource/Kaku_Takashina",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaku_Takashina) dbo:birthDate o'<1919-02-22>",
+    "2" : "s(Kaku_Takashina) dbo:birthDate o'<1919-2-22>",
+    "3" : "s(Kaku_Takashina) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kaku_Takashina) dbo:birthPlace o'<Kaijō_District,_Chiba>",
+    "5" : "s(Kaku_Takashina) dbo:birthPlace o'<Chiba_Prefecture>",
+    "6" : "s(Kaku_Takashina) dbo:deathDate o'<1994-03-11>",
+    "7" : "s(Kaku_Takashina) dbo:deathDate o'<1994-3-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13209",
+  "entityUrl" : "http://dbpedia.org/resource/Kin_Sugai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kin_Sugai) dbo:birthDate o'<1926-02-28>",
+    "2" : "s(Kin_Sugai) dbo:birthDate o'<1926-2-28>",
+    "3" : "s(Kin_Sugai) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kin_Sugai) dbo:birthPlace o'<Tokyo_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13210",
+  "entityUrl" : "http://dbpedia.org/resource/Koichi_Iwaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Koichi_Iwaki) dbo:birthDate o'<1951-03-21>",
+    "2" : "s(Koichi_Iwaki) dbo:birthDate o'<1951-3-21>",
+    "3" : "s(Koichi_Iwaki) dbo:birthPlace o'<Japan>",
+    "4" : "s(Koichi_Iwaki) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Koichi_Iwaki) dbp:name o'<Kōichi Iwaki>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13211",
+  "entityUrl" : "http://dbpedia.org/resource/Kayoko_Shibata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kayoko_Shibata) dbo:birthDate o'<1980-2-21>",
+    "2" : "s(Kayoko_Shibata) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13212",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Goody__England-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kim_Goody__England-actor-stub__1) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13213",
+  "entityUrl" : "http://dbpedia.org/resource/Kylie_Babbington",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kylie_Babbington) dbo:birthDate o'<1987-12-13>",
+    "2" : "s(Kylie_Babbington) dbo:birthPlace o'<London>",
+    "3" : "s(Kylie_Babbington) dbo:birthPlace o'<Havering>",
+    "4" : "s(Kylie_Babbington) dbo:birthPlace o'<London_Borough_of_Havering>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13214",
+  "entityUrl" : "http://dbpedia.org/resource/Kanna_Mori",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanna_Mori) dbo:birthDate o'<1988-06-22>",
+    "2" : "s(Kanna_Mori) dbo:birthDate o'<1988-6-22>",
+    "3" : "s(Kanna_Mori) dbo:birthPlace o'<Toyama,_Toyama>",
+    "4" : "s(Kanna_Mori) dbo:birthPlace o'<Toyama_Prefecture>",
+    "5" : "s(Kanna_Mori) dbo:height o'<170.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13215",
+  "entityUrl" : "http://dbpedia.org/resource/Kenny_Ho",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenny_Ho) dbo:birthDate o'<1959-12-29>",
+    "2" : "s(Kenny_Ho) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13216",
+  "entityUrl" : "http://dbpedia.org/resource/Komaki_Kurihara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Komaki_Kurihara) dbo:birthDate o'<1945-03-14>",
+    "2" : "s(Komaki_Kurihara) dbo:birthDate o'<1945-3-14>",
+    "3" : "s(Komaki_Kurihara) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Komaki_Kurihara) dbo:birthPlace o'<Setagaya>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13217",
+  "entityUrl" : "http://dbpedia.org/resource/Kingdom_Yuen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kingdom_Yuen) dbo:birthDate o'<1961-9-11>",
+    "2" : "s(Kingdom_Yuen) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kingdom_Yuen) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13218",
+  "entityUrl" : "http://dbpedia.org/resource/Kumiko_Takeda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kumiko_Takeda) dbo:birthDate o'<1968-8-12>",
+    "2" : "s(Kumiko_Takeda) dbo:birthPlace o'<Nagoya>",
+    "3" : "s(Kumiko_Takeda) dbp:name o'<Kumiko Takeda>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13219",
+  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Kove",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenneth_Kove) dbo:birthDate o'<1892-04-30>",
+    "2" : "s(Kenneth_Kove) dbo:birthDate o'<1892-4-30>",
+    "3" : "s(Kenneth_Kove) dbo:birthPlace o'<Wandsworth>",
+    "4" : "s(Kenneth_Kove) dbo:deathDate o'<1984-12-1>",
+    "5" : "s(Kenneth_Kove) dbo:deathPlace o'<Brighton>",
+    "6" : "s(Kenneth_Kove) dbo:deathPlace o'<East_Sussex>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13220",
+  "entityUrl" : "http://dbpedia.org/resource/Kanako_Maeda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanako_Maeda) dbo:birthDate o'<1966-06-23>",
+    "2" : "s(Kanako_Maeda) dbo:birthDate o'<1966-6-23>",
+    "3" : "s(Kanako_Maeda) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kanako_Maeda) dbo:birthPlace o'<Kyoto>",
+    "5" : "s(Kanako_Maeda) dbo:birthPlace o'<Kyoto_Prefecture>",
+    "6" : "s(Kanako_Maeda) dbp:name o'<Kanako Maeda>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13221",
+  "entityUrl" : "http://dbpedia.org/resource/Kaori_Shimamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaori_Shimamura) dbo:birthDate o'<1971-01-27>",
+    "2" : "s(Kaori_Shimamura) dbo:birthDate o'<1971-1-27>",
+    "3" : "s(Kaori_Shimamura) dbo:birthPlace o'<Yamaguchi_Prefecture>",
+    "4" : "s(Kaori_Shimamura) dbp:name o'<Kaori Shimamura>",
+    "5" : "s(Kaori_Shimamura) dbp:name o'<嶋村かおり>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13222",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Peacock",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kim_Peacock) dbo:birthDate o'<1901-03-24>",
+    "2" : "s(Kim_Peacock) dbo:birthDate o'<1901-3-24>",
+    "3" : "s(Kim_Peacock) dbo:birthPlace o'<Hertfordshire>",
+    "4" : "s(Kim_Peacock) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Kim_Peacock) dbo:birthPlace o'<Watford>",
+    "6" : "s(Kim_Peacock) dbo:deathDate o'<1966-12-26>",
+    "7" : "s(Kim_Peacock) dbo:deathPlace o'<Emsworth>",
+    "8" : "s(Kim_Peacock) dbo:deathPlace o'<Hampshire>",
+    "9" : "s(Kim_Peacock) dbo:deathPlace o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13223",
+  "entityUrl" : "http://dbpedia.org/resource/Kimika_Yoshino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kimika_Yoshino) dbo:birthDate o'<1975-09-05>",
+    "2" : "s(Kimika_Yoshino) dbo:birthDate o'<1975-9-5>",
+    "3" : "s(Kimika_Yoshino) dbo:birthPlace o'<Odawara>",
+    "4" : "s(Kimika_Yoshino) dbo:birthPlace o'<Odawara,_Kanagawa>",
+    "5" : "s(Kimika_Yoshino) dbo:birthPlace o'<Japan>",
+    "6" : "s(Kimika_Yoshino) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13224",
+  "entityUrl" : "http://dbpedia.org/resource/Ky%C5%8Dz%C5%8D_Nagatsuka",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13225",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Oginome",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keiko_Oginome) dbo:birthDate o'<1964-09-04>",
+    "2" : "s(Keiko_Oginome) dbo:birthDate o'<1964-9-4>",
+    "3" : "s(Keiko_Oginome) dbo:birthPlace o'<Japan>",
+    "4" : "s(Keiko_Oginome) dbo:birthPlace o'<Saitama_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13226",
+  "entityUrl" : "http://dbpedia.org/resource/Keiz%C5%8D_Kanie",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13227",
+  "entityUrl" : "http://dbpedia.org/resource/Katsuo_Nakamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katsuo_Nakamura) dbo:birthDate o'<1938-04-23>",
+    "2" : "s(Katsuo_Nakamura) dbo:birthDate o'<1938-4-23>",
+    "3" : "s(Katsuo_Nakamura) dbo:birthPlace o'<Japan>",
+    "4" : "s(Katsuo_Nakamura) dbo:birthPlace o'<Tokyo_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13228",
+  "entityUrl" : "http://dbpedia.org/resource/Kazue_Fukiishi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazue_Fukiishi) dbo:birthDate o'<1982-09-28>",
+    "2" : "s(Kazue_Fukiishi) dbo:birthDate o'<1982-9-28>",
+    "3" : "s(Kazue_Fukiishi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazue_Fukiishi) dbo:birthPlace o'<Kashiba,_Nara>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13229",
+  "entityUrl" : "http://dbpedia.org/resource/Kie_Nakai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kie_Nakai) dbo:birthDate o'<1957-11-27>",
+    "2" : "s(Kie_Nakai) dbo:birthPlace o'<Japan>",
+    "3" : "s(Kie_Nakai) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13230",
+  "entityUrl" : "http://dbpedia.org/resource/Katja_K",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katja_K) dbo:birthDate o'<1968-02-07>",
+    "2" : "s(Katja_K) dbo:birthDate o'<1968-2-7>",
+    "3" : "s(Katja_K) dbo:birthPlace o'<Frederiksberg>",
+    "4" : "s(Katja_K) dbo:birthPlace o'<Denmark>",
+    "5" : "s(Katja_K) dbo:height o'<175.26>",
+    "6" : "s(Katja_K) dbo:weight o'<57.6072>",
+    "7" : "s(Katja_K) dbp:name o'<Katja K>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13231",
+  "entityUrl" : "http://dbpedia.org/resource/Katrine_Boorman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katrine_Boorman) dbo:birthDate o'<1958-1-1>",
+    "2" : "s(Katrine_Boorman) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13232",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuki_Shimizu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuki_Shimizu) dbo:birthDate o'<1990-04-24>",
+    "2" : "s(Kazuki_Shimizu) dbo:birthDate o'<1990-4-24>",
+    "3" : "s(Kazuki_Shimizu) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazuki_Shimizu) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Kazuki_Shimizu) dbo:height o'<173.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13233",
+  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Buckley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenneth_Buckley) dbo:birthDate o'<1906-1-1>",
+    "2" : "s(Kenneth_Buckley) dbo:deathDate o'<1982-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13234",
+  "entityUrl" : "http://dbpedia.org/resource/Kuranosuke_Sasaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kuranosuke_Sasaki) dbo:birthDate o'<1968-02-04>",
+    "2" : "s(Kuranosuke_Sasaki) dbo:birthDate o'<1968-2-4>",
+    "3" : "s(Kuranosuke_Sasaki) dbo:birthPlace o'<Kyoto>",
+    "4" : "s(Kuranosuke_Sasaki) dbo:height o'<182.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13235",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Molander",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karin_Molander) dbo:birthDate o'<1889-05-20>",
+    "2" : "s(Karin_Molander) dbo:birthDate o'<1889-5-20>",
+    "3" : "s(Karin_Molander) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Karin_Molander) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Karin_Molander) dbo:deathDate o'<1978-09-03>",
+    "6" : "s(Karin_Molander) dbo:deathDate o'<1978-9-3>",
+    "7" : "s(Karin_Molander) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Karin_Molander) dbo:deathPlace o'<Sweden>",
+    "9" : "s(Karin_Molander) dbp:name o'<Karin Molander>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13236",
+  "entityUrl" : "http://dbpedia.org/resource/Kathleen_Vaughan",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13237",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Brennan_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kevin_Brennan_(actor)) dbo:birthDate o'<1920-9-12>",
+    "2" : "s(Kevin_Brennan_(actor)) dbo:deathDate o'<1998-12-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13238",
+  "entityUrl" : "http://dbpedia.org/resource/Kanny_Theng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kanny_Theng) dbo:activeYearsStartYear o'<2008>",
+    "2" : "s(Kanny_Theng) dbo:birthDate o'<1987-3-10>",
+    "3" : "s(Kanny_Theng) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Kanny_Theng) dbp:birthDate o'<1987-03-10>",
+    "5" : "s(Kanny_Theng) dbp:birthPlace o'<Singapore>",
+    "6" : "s(Kanny_Theng) dbp:occupation o'<Singer, Actress, Model>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(kanny theng=Kanny_Theng) [bought up ] o'<singapore=Singapore>"
+  },
+  "abstract" : {
+    "3" : "kanny theng<Kanny_Theng> has been bought up as an online game ambassador monster forest for asiasoft singapore<Singapore>\n"
+  }
+}, {
+  "entityIndex" : "entity13239",
+  "entityUrl" : "http://dbpedia.org/resource/Kaoru_Mizuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaoru_Mizuki) dbo:birthDate o'<1959-06-16>",
+    "2" : "s(Kaoru_Mizuki) dbo:birthDate o'<1959-6-16>",
+    "3" : "s(Kaoru_Mizuki) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kaoru_Mizuki) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "5" : "s(Kaoru_Mizuki) dbo:birthPlace o'<Yokohama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13240",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Yamauchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Yamauchi) dbo:birthDate o'<1943-12-09>",
+    "2" : "s(Ken_Yamauchi) dbo:birthDate o'<1943-12-9>",
+    "3" : "s(Ken_Yamauchi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ken_Yamauchi) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Ken_Yamauchi) dbo:deathDate o'<2011-09-24>",
+    "6" : "s(Ken_Yamauchi) dbo:deathDate o'<2011-9-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13241",
+  "entityUrl" : "http://dbpedia.org/resource/Kento_Kaku",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kento_Kaku) dbo:birthDate o'<1989-07-03>",
+    "2" : "s(Kento_Kaku) dbo:birthDate o'<1989-7-3>",
+    "3" : "s(Kento_Kaku) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Kento_Kaku) dbo:height o'<178.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13242",
+  "entityUrl" : "http://dbpedia.org/resource/Kwok_Fung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kwok_Fung) dbo:birthDate o'<1951-10-27>",
+    "2" : "s(Kwok_Fung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13243",
+  "entityUrl" : "http://dbpedia.org/resource/Katy_Kung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katy_Kung) dbo:birthDate o'<1989-12-5>",
+    "2" : "s(Katy_Kung) dbp:birthPlace o'<Hong Kong>",
+    "3" : "s(Katy_Kung) dbp:name o'<Katy Kung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13244",
+  "entityUrl" : "http://dbpedia.org/resource/Kelly_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kelly_Cheung) dbo:birthDate o'<1990-5-11>",
+    "2" : "s(Kelly_Cheung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kelly_Cheung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13245",
+  "entityUrl" : "http://dbpedia.org/resource/Keisuke_Koide",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Keisuke_Koide) dbo:birthDate o'<1984-02-20>",
+    "2" : "s(Keisuke_Koide) dbo:birthDate o'<1984-2-20>",
+    "3" : "s(Keisuke_Koide) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Keisuke_Koide) dbo:birthPlace o'<Minato,_Tokyo>",
+    "5" : "s(Keisuke_Koide) dbo:height o'<176.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13246",
+  "entityUrl" : "http://dbpedia.org/resource/Katie_Sheridan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katie_Sheridan) dbo:birthDate o'<1986-12-29>",
+    "2" : "s(Katie_Sheridan) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13247",
+  "entityUrl" : "http://dbpedia.org/resource/King_Kong_Lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(King_Kong_Lam) dbo:birthDate o'<1969-1-1>",
+    "2" : "s(King_Kong_Lam) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13248",
+  "entityUrl" : "http://dbpedia.org/resource/Kenji_Ohba",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenji_Ohba) dbo:birthDate o'<1955-02-05>",
+    "2" : "s(Kenji_Ohba) dbo:birthDate o'<1955-2-5>",
+    "3" : "s(Kenji_Ohba) dbo:birthPlace o'<Matsuyama,_Ehime>",
+    "4" : "s(Kenji_Ohba) dbo:birthPlace o'<Japan>",
+    "5" : "s(Kenji_Ohba) dbo:birthPlace o'<Ehime_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13249",
+  "entityUrl" : "http://dbpedia.org/resource/Katrin_Sundberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katrin_Sundberg) dbo:birthDate o'<1962-10-8>",
+    "2" : "s(Katrin_Sundberg) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13250",
+  "entityUrl" : "http://dbpedia.org/resource/Kyoko_Hinami__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kyoko_Hinami__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13251",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Ogino__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karin_Ogino__Japan-actor-stub__1) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13252",
+  "entityUrl" : "http://dbpedia.org/resource/Koreya_Senda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Koreya_Senda) dbo:birthDate o'<1904-09-15>",
+    "2" : "s(Koreya_Senda) dbo:birthDate o'<1904-9-15>",
+    "3" : "s(Koreya_Senda) dbo:birthPlace o'<Japan>",
+    "4" : "s(Koreya_Senda) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "5" : "s(Koreya_Senda) dbo:deathDate o'<1994-12-21>",
+    "6" : "s(Koreya_Senda) dbo:deathPlace o'<Minato,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13253",
+  "entityUrl" : "http://dbpedia.org/resource/Ko_Chen-tung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ko_Chen-tung) dbo:birthDate o'<1991-6-18>",
+    "2" : "s(Ko_Chen-tung) dbo:birthPlace o'<Q918799>",
+    "3" : "s(Ko_Chen-tung) dbp:birthPlace o'<Penghu County, Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13254",
+  "entityUrl" : "http://dbpedia.org/resource/Koji_Furuhata",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Koji_Furuhata) dbo:birthDate o'<1933-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13255",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Pang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kate_Pang) dbo:birthDate o'<1983-3-11>",
+    "2" : "s(Kate_Pang) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13256",
+  "entityUrl" : "http://dbpedia.org/resource/K%C5%8Dji_Ishizaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13257",
+  "entityUrl" : "http://dbpedia.org/resource/King_Kong_Lee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(King_Kong_Lee) dbo:birthDate o'<1981-1-10>",
+    "2" : "s(King_Kong_Lee) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13258",
+  "entityUrl" : "http://dbpedia.org/resource/Kei_Yamamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kei_Yamamoto) dbo:birthDate o'<1940-07-01>",
+    "2" : "s(Kei_Yamamoto) dbo:birthDate o'<1940-7-1>",
+    "3" : "s(Kei_Yamamoto) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kei_Yamamoto) dbo:birthPlace o'<Osaka_Prefecture>",
+    "5" : "s(Kei_Yamamoto) dbo:birthPlace o'<Ibaraki,_Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13259",
+  "entityUrl" : "http://dbpedia.org/resource/Kerry_Berry_Brogan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kerry_Berry_Brogan) dbo:activeYearsStartYear o'<2002>",
+    "2" : "s(Kerry_Berry_Brogan) dbo:country o'<People's_Republic_of_China>",
+    "3" : "s(Kerry_Berry_Brogan) dbp:almaMater o'<Bard_College>",
+    "4" : "s(Kerry_Berry_Brogan) dbp:birthPlace o'<Newton, Massachusetts, United States>",
+    "5" : "s(Kerry_Berry_Brogan) dbp:currentLocation o'<Beijing, China>",
+    "6" : "s(Kerry_Berry_Brogan) dbp:occupation o'<Actress>",
+    "7" : "s(Kerry_Berry_Brogan) dbp:origin o'<American>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(kerry berry brogan=Kerry_Berry_Brogan) [served international ] o'<china=People's_Republic_of_China>"
+  },
+  "abstract" : {
+    "6" : "kerry berry brogan<Kerry_Berry_Brogan> also served as the “international green ambassador” for the xi'an china<People's_Republic_of_China> international horticultural exposition 2011, and has been selected for a number of honorary positions including film ambassador for new zealand’s film auckland and goodwill ambassador for the flying tigers historical organization\n"
+  }
+}, {
+  "entityIndex" : "entity13260",
+  "entityUrl" : "http://dbpedia.org/resource/Kumiko_Goto__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13261",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Bracken",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kate_Bracken) dbo:birthDate o'<1990-06-12>",
+    "2" : "s(Kate_Bracken) dbo:birthDate o'<1990-6-12>",
+    "3" : "s(Kate_Bracken) dbo:birthPlace o'<Scotland>",
+    "4" : "s(Kate_Bracken) dbo:height o'<152.4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13262",
+  "entityUrl" : "http://dbpedia.org/resource/Kei_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kei_Tanaka) dbo:birthDate o'<1984-07-10>",
+    "2" : "s(Kei_Tanaka) dbo:birthDate o'<1984-7-10>",
+    "3" : "s(Kei_Tanaka) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Kei_Tanaka) dbo:height o'<178.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13263",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Chang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ken_Chang) dbo:birthDate o'<1975-5-8>",
+    "2" : "s(Ken_Chang) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13264",
+  "entityUrl" : "http://dbpedia.org/resource/Kong_Ngai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kong_Ngai) dbo:birthDate o'<1936-0-0>",
+    "2" : "s(Kong_Ngai) dbo:deathDate o'<2013-3-16>",
+    "3" : "s(Kong_Ngai) dbp:birthPlace o'<Zhongshan>",
+    "4" : "s(Kong_Ngai) dbp:birthPlace o'<Guangdong>",
+    "5" : "s(Kong_Ngai) dbp:deathPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13265",
+  "entityUrl" : "http://dbpedia.org/resource/Kendall_Karson",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13266",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Foley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karin_Foley) dbo:birthDate o'<1960-0-0>",
+    "2" : "s(Karin_Foley) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13267",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Howarth",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kevin_Howarth) dbo:activeYearsStartYear o'<1998>",
+    "2" : "s(Kevin_Howarth) dbo:birthDate o'<1957-8-22>",
+    "3" : "s(Kevin_Howarth) dbo:birthPlace o'<Coventry>",
+    "4" : "s(Kevin_Howarth) dbo:birthPlace o'<Keresley>",
+    "5" : "s(Kevin_Howarth) dbp:occupation o'<Actor>",
+    "6" : "s(Kevin_Howarth) dbp:residence o'<London, England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13268",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuhisa_Kawahara_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuhisa_Kawahara_(actor)) dbo:birthDate o'<1961-12-26>",
+    "2" : "s(Kazuhisa_Kawahara_(actor)) dbo:birthPlace o'<Kitakyushu>",
+    "3" : "s(Kazuhisa_Kawahara_(actor)) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazuhisa_Kawahara_(actor)) dbo:birthPlace o'<Fukuoka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13269",
+  "entityUrl" : "http://dbpedia.org/resource/Katherine_Parr_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Katherine_Parr_(actress)) dbo:activeYearsEndYear o'<1989>",
+    "2" : "s(Katherine_Parr_(actress)) dbo:activeYearsStartYear o'<1959>",
+    "3" : "s(Katherine_Parr_(actress)) dbo:birthDate o'<1921-02-05>",
+    "4" : "s(Katherine_Parr_(actress)) dbo:birthDate o'<1921-2-5>",
+    "5" : "s(Katherine_Parr_(actress)) dbo:birthName o'<Lily Elizabeth Tindal>",
+    "6" : "s(Katherine_Parr_(actress)) dbo:birthPlace o'<England>",
+    "7" : "s(Katherine_Parr_(actress)) dbo:birthPlace o'<London>",
+    "8" : "s(Katherine_Parr_(actress)) dbo:birthYear o'<1921>",
+    "9" : "s(Katherine_Parr_(actress)) dbo:deathDate o'<2009-09-20>",
+    "10" : "s(Katherine_Parr_(actress)) dbo:deathDate o'<2009-0-0>",
+    "11" : "s(Katherine_Parr_(actress)) dbo:deathPlace o'<England>",
+    "12" : "s(Katherine_Parr_(actress)) dbo:deathPlace o'<Kent>",
+    "13" : "s(Katherine_Parr_(actress)) dbo:deathYear o'<2009>",
+    "14" : "s(Katherine_Parr_(actress)) dbo:occupation o'<Actress>",
+    "15" : "s(Katherine_Parr_(actress)) dbo:occupation o'<Katherine_Parr_(actress)__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13270",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuyuki_Okitsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kazuyuki_Okitsu) dbo:birthDate o'<1980-03-08>",
+    "2" : "s(Kazuyuki_Okitsu) dbo:birthDate o'<1980-3-8>",
+    "3" : "s(Kazuyuki_Okitsu) dbo:birthPlace o'<Awaji_Island>",
+    "4" : "s(Kazuyuki_Okitsu) dbo:birthPlace o'<Hyōgo_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13271",
+  "entityUrl" : "http://dbpedia.org/resource/Karole_Rocher",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karole_Rocher) dbo:birthDate o'<1974-07-04>",
+    "2" : "s(Karole_Rocher) dbo:birthDate o'<1974-7-4>",
+    "3" : "s(Karole_Rocher) dbo:birthPlace o'<Bezons>",
+    "4" : "s(Karole_Rocher) dbo:birthPlace o'<Val-d'Oise>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13272",
+  "entityUrl" : "http://dbpedia.org/resource/Kerstin_Granlund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kerstin_Granlund) dbo:birthDate o'<1951-06-17>",
+    "2" : "s(Kerstin_Granlund) dbo:birthDate o'<1951-6-17>",
+    "3" : "s(Kerstin_Granlund) dbo:birthName o'<Kerstin Marianne Granlund Wedin>",
+    "4" : "s(Kerstin_Granlund) dbo:birthPlace o'<Främmestad>",
+    "5" : "s(Kerstin_Granlund) dbo:birthPlace o'<Sweden>",
+    "6" : "s(Kerstin_Granlund) dbo:birthPlace o'<Essunga>",
+    "7" : "s(Kerstin_Granlund) dbo:imdbId o'<0335175>",
+    "8" : "s(Kerstin_Granlund) dbo:knownFor o'<Galenskaparna_och_After_Shave>",
+    "9" : "s(Kerstin_Granlund) dbo:nationality o'<Swedish_people>",
+    "10" : "s(Kerstin_Granlund) dbo:occupation o'<Revue>",
+    "11" : "s(Kerstin_Granlund) dbo:occupation o'<Comedian>",
+    "12" : "s(Kerstin_Granlund) dbo:occupation o'<Actor>",
+    "13" : "s(Kerstin_Granlund) dbo:spouse o'<Mats_Wedin>",
+    "14" : "s(Kerstin_Granlund) dbp:signature o'<Kerstin Granlund autograph.png>",
+    "15" : "s(Kerstin_Granlund) dbp:signatureSize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(kerstin granlund=Kerstin_Granlund) [primarily known ] o'<comedy=Comedian>",
+    "3" : "s(kerstin granlund=Kerstin_Granlund) [married to lisebergs former ] o'<mats wedin=Mats_Wedin>"
+  },
+  "abstract" : {
+    "2" : "kerstin granlund<Kerstin_Granlund> is primarily known as a member of the comedy<Comedian> group galenskaparna och after shave<Galenskaparna_och_After_Shave>\n",
+    "3" : "kerstin granlund<Kerstin_Granlund> is married to liseberg's former ceo mats wedin<Mats_Wedin>\n"
+  }
+}, {
+  "entityIndex" : "entity13273",
+  "entityUrl" : "http://dbpedia.org/resource/Kaki_Leung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kaki_Leung) dbo:birthDate o'<1981-7-14>",
+    "2" : "s(Kaki_Leung) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13274",
+  "entityUrl" : "http://dbpedia.org/resource/Kei_Suma",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kei_Suma) dbo:birthDate o'<1935-09-04>",
+    "2" : "s(Kei_Suma) dbo:birthDate o'<1935-9-4>",
+    "3" : "s(Kei_Suma) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kei_Suma) dbo:birthPlace o'<Hokkaido>",
+    "5" : "s(Kei_Suma) dbo:birthPlace o'<Kunashir_Island>",
+    "6" : "s(Kei_Suma) dbo:deathDate o'<2013-12-07>",
+    "7" : "s(Kei_Suma) dbo:deathDate o'<2013-12-7>",
+    "8" : "s(Kei_Suma) dbo:deathPlace o'<Japan>",
+    "9" : "s(Kei_Suma) dbo:deathPlace o'<Tokyo>",
+    "10" : "s(Kei_Suma) dbo:deathPlace o'<Shinjuku>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13275",
+  "entityUrl" : "http://dbpedia.org/resource/Kenji_Roa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenji_Roa) dbo:birthDate o'<1979-01-25>",
+    "2" : "s(Kenji_Roa) dbo:birthDate o'<1979-1-25>",
+    "3" : "s(Kenji_Roa) dbo:birthPlace o'<Philippines>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13276",
+  "entityUrl" : "http://dbpedia.org/resource/Kimberly_Chia",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kimberly_Chia) dbo:birthDate o'<1995-8-7>",
+    "2" : "s(Kimberly_Chia) dbo:birthPlace o'<Singapore>",
+    "3" : "s(Kimberly_Chia) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Kimberly_Chia) dbp:birthDate o'<1995-08-07>",
+    "5" : "s(Kimberly_Chia) dbp:birthPlace o'<Singapore>",
+    "6" : "s(Kimberly_Chia) dbp:occupation o'<Actress, model>",
+    "7" : "s(Kimberly_Chia) dbp:origin o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13277",
+  "entityUrl" : "http://dbpedia.org/resource/Kris_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kris_Wu) dbo:birthDate o'<1990-11-6>",
+    "2" : "s(Kris_Wu) dbo:birthPlace o'<Guangzhou>",
+    "3" : "s(Kris_Wu) dbp:birthPlace o'<Guangzhou>",
+    "4" : "s(Kris_Wu) dbp:birthPlace o'<Guangdong,_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13278",
+  "entityUrl" : "http://dbpedia.org/resource/Kandy_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kandy_Wong) dbo:birthDate o'<1987-10-16>",
+    "2" : "s(Kandy_Wong) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Kandy_Wong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13279",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Ekelund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Karin_Ekelund) dbo:activeYearsEndYear o'<1955>",
+    "2" : "s(Karin_Ekelund) dbo:activeYearsStartYear o'<1933>",
+    "3" : "s(Karin_Ekelund) dbo:birthDate o'<1913-05-26>",
+    "4" : "s(Karin_Ekelund) dbo:birthDate o'<1913-5-26>",
+    "5" : "s(Karin_Ekelund) dbo:birthPlace o'<Ystad>",
+    "6" : "s(Karin_Ekelund) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Karin_Ekelund) dbo:birthYear o'<1913>",
+    "8" : "s(Karin_Ekelund) dbo:deathDate o'<1976-12-21>",
+    "9" : "s(Karin_Ekelund) dbo:deathPlace o'<Stockholm>",
+    "10" : "s(Karin_Ekelund) dbo:deathPlace o'<Sweden>",
+    "11" : "s(Karin_Ekelund) dbo:deathYear o'<1976>",
+    "12" : "s(Karin_Ekelund) dbo:imdbId o'<0252327>",
+    "13" : "s(Karin_Ekelund) dbo:nationality o'<Sweden>",
+    "14" : "s(Karin_Ekelund) dbo:occupation o'<Karin_Ekelund__1>",
+    "15" : "s(Karin_Ekelund) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13280",
+  "entityUrl" : "http://dbpedia.org/resource/Ky%C5%AB_Sazanka",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13281",
+  "entityUrl" : "http://dbpedia.org/resource/Kenichi_Yajima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenichi_Yajima) dbo:birthDate o'<1956-03-01>",
+    "2" : "s(Kenichi_Yajima) dbo:birthDate o'<1956-3-1>",
+    "3" : "s(Kenichi_Yajima) dbo:birthPlace o'<Gifu>",
+    "4" : "s(Kenichi_Yajima) dbo:birthPlace o'<Japan>",
+    "5" : "s(Kenichi_Yajima) dbo:birthPlace o'<Gifu_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13282",
+  "entityUrl" : "http://dbpedia.org/resource/Kenny_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kenny_Wong) dbo:birthDate o'<1963-4-30>",
+    "2" : "s(Kenny_Wong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13283",
+  "entityUrl" : "http://dbpedia.org/resource/Kimiko_Yo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Kimiko_Yo) dbo:birthDate o'<1956-05-12>",
+    "2" : "s(Kimiko_Yo) dbo:birthDate o'<1956-5-12>",
+    "3" : "s(Kimiko_Yo) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "4" : "s(Kimiko_Yo) dbo:birthPlace o'<Yokohama>",
+    "5" : "s(Kimiko_Yo) dbp:name o'<Kimiko Yo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

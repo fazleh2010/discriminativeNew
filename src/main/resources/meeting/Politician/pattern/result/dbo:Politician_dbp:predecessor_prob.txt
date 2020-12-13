@@ -1,9 +1,0 @@
-id=28  property=dbp:predecessor  
-first_elect  RB_VBN  multiply=0.014927  P(first_elect|dbp:predecessor)=0.02377  P(dbp:predecessor|first_elect)=0.628    
-elect_in  VBN_IN  multiply=0.008926  P(elect_in|dbp:predecessor)=0.015897  P(dbp:predecessor|elect_in)=0.561497    
-defeat_by  VBN_IN  multiply=0.004827  P(defeat_by|dbp:predecessor)=0.00651  P(dbp:predecessor|defeat_by)=0.741379    
-succeed  VBD  multiply=0.003682  P(succeed|dbp:predecessor)=0.006964  P(dbp:predecessor|succeed)=0.528736    
-defeat_in  VBN_IN  multiply=0.003111  P(defeat_in|dbp:predecessor)=0.004996  P(dbp:predecessor|defeat_in)=0.622642    
-son_of  NN_IN  multiply=0.002537  P(son_of|dbp:predecessor)=0.005148  P(dbp:predecessor|son_of)=0.492754    
-replace  VBN  multiply=0.001622  P(replace|dbp:predecessor)=0.002271  P(dbp:predecessor|replace)=0.714286    
-

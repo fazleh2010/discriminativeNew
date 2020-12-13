@@ -1,0 +1,29 @@
+[ {
+  "entityIndex" : "entity10820",
+  "entityUrl" : "http://dbpedia.org/resource/+1_(film)",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Mihai_Mălaimare_Jr." ],
+    "dbo:distributor" : [ "http://dbpedia.org/resource/IFC_Films" ],
+    "dbo:musicComposer" : [ "http://dbpedia.org/resource/Nathan_Larson" ],
+    "dbo:runtime" : [ "96.0", "5760.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Ashley_Hinshaw", "http://dbpedia.org/resource/Natalie_Hall", "http://dbpedia.org/resource/Rhys_Wakefield" ],
+    "dbo:wikiPageID" : [ "40472773" ],
+    "dbo:wikiPageRevisionID" : [ "737389425" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/The_New_York_Times", "http://dbpedia.org/resource/Slant_Magazine", "http://dbpedia.org/resource/Category:2013_films", "http://dbpedia.org/resource/Ashley_Hinshaw", "http://dbpedia.org/resource/Rotten_Tomatoes", "http://dbpedia.org/resource/Category:2010s_independent_films", "http://dbpedia.org/resource/Category:American_films", "http://dbpedia.org/resource/Category:American_independent_films", "http://dbpedia.org/resource/Category:American_thriller_films", "http://dbpedia.org/resource/Category:English-language_films", "http://dbpedia.org/resource/Horror_film", "http://dbpedia.org/resource/Science_fiction", "http://dbpedia.org/resource/Logan_Miller", "http://dbpedia.org/resource/Variety_(magazine)", "http://dbpedia.org/resource/Video_on_demand", "http://dbpedia.org/resource/ITunes", "http://dbpedia.org/resource/Metacritic", "http://dbpedia.org/resource/Category:2010s_thriller_films", "http://dbpedia.org/resource/IFC_Films", "http://dbpedia.org/resource/Natalie_Hall", "http://dbpedia.org/resource/Rhoda_Griffis", "http://dbpedia.org/resource/Rhys_Wakefield", "http://dbpedia.org/resource/Nathan_Larson", "http://dbpedia.org/resource/BriaAndChrissy", "http://dbpedia.org/resource/Fearnet", "http://dbpedia.org/resource/Mihai_Mălaimare_Jr.", "http://dbpedia.org/resource/SXSW" ],
+    "dbp:alt" : [ "Plus One" ],
+    "dbp:border" : [ "Official movie poster" ],
+    "dbp:country" : [ "United States" ],
+    "dbp:director" : [ "Dennis Iliadis" ],
+    "dbp:editing" : [ "Yorgos Mavropsaridis" ],
+    "dbp:language" : [ "English" ],
+    "dbp:producer" : [ "Guy Botham" ],
+    "dbp:screenplay" : [ "Bill Gullo" ],
+    "dbp:story" : [ "Dennis Iliadis" ],
+    "dbp:studio" : [ "* Process Films" ]
+  },
+  "words" : [ "de", "-LRB-", "sorti", "détails", "+1", "One", "Dennis", "fantastique", "en", "film", "Information", ",", "plus", ".", "et", "américain", "Iliadis", "voir", "2013", "-RRB-", "Pour", "Plus", "orthographié" ],
+  "adjectives" : [ ],
+  "nouns" : [ "sorti", "Iliadis", "Dennis", "fantastique", "Pour", "film", "Information", "orthographié", "américain" ],
+  "text" : "Plus One Information Pour plus de détails, voir  et Plus One (orthographié +1) est un film fantastique américain de Dennis Iliadis, sorti en 2013."
+} ]

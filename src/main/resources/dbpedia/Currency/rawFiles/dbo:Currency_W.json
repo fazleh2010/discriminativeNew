@@ -1,0 +1,32 @@
+[ {
+  "entityIndex" : "entity11108",
+  "entityUrl" : "http://dbpedia.org/resource/West_African_CFA_franc",
+  "dboClass" : "dbo:Currency",
+  "properties" : {
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/BCEAOFranc.png?width=300" ],
+    "dbo:usingCountry" : [ "http://dbpedia.org/resource/Benin", "http://dbpedia.org/resource/Burkina_Faso", "http://dbpedia.org/resource/Guinea-Bissau", "http://dbpedia.org/resource/Mali", "http://dbpedia.org/resource/Niger", "http://dbpedia.org/resource/Senegal", "http://dbpedia.org/resource/Ivory_Coast", "http://dbpedia.org/resource/Togo" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.bceao.int", "http://frenchbanknotes.com/banks.php?page=5&bank=BCEAO", "http://www.uemoa.int/", "http://news.bbc.co.uk/1/hi/world/africa/3654920.stm", "http://www.allnumis.com/coins-catalog/west-african-states/monetary-union-1948-present", "http://www.banknote.ws/COLLECTION/countries/AFR/WAS/WAS0715K2.htm", "http://www.banknote.ws/COLLECTION/countries/AFR/WAS/WAS0716K2.htm", "http://www.banknote.ws/COLLECTION/countries/AFR/WAS/WAS0717K2.htm", "http://www.banknote.ws/COLLECTION/countries/AFR/WAS/WAS0718K2.htm", "http://www.banknote.ws/COLLECTION/countries/AFR/WAS/WASW2012-500K.htm", "http://www.home.earthlink.net/~wburson/Latest.htm" ],
+    "dbo:wikiPageID" : [ "3791898" ],
+    "dbo:wikiPageRevisionID" : [ "743432913" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Economy_of_Togo", "http://dbpedia.org/resource/Economy_of_Ivory_Coast", "http://dbpedia.org/resource/Benin", "http://dbpedia.org/resource/Burkina_Faso", "http://dbpedia.org/resource/CFA_franc", "http://dbpedia.org/resource/Category:1945_introductions", "http://dbpedia.org/resource/Category:Currency_unions", "http://dbpedia.org/resource/Category:Fixed_exchange_rate", "http://dbpedia.org/resource/Economy_of_Benin", "http://dbpedia.org/resource/Economy_of_Burkina_Faso", "http://dbpedia.org/resource/Economy_of_Guinea-Bissau", "http://dbpedia.org/resource/Economy_of_Mali", "http://dbpedia.org/resource/Economy_of_Niger", "http://dbpedia.org/resource/Economy_of_Senegal", "http://dbpedia.org/resource/Euro", "http://dbpedia.org/resource/Guinea-Bissau", "http://dbpedia.org/resource/ISO_4217", "http://dbpedia.org/resource/Mali", "http://dbpedia.org/resource/Niger", "http://dbpedia.org/resource/Senegal", "http://dbpedia.org/resource/Acronym", "http://dbpedia.org/resource/African_Central_Bank", "http://dbpedia.org/resource/Bimetallic_coins", "http://dbpedia.org/resource/Dakar", "http://dbpedia.org/resource/Economic_Community_of_West_African_States", "http://dbpedia.org/resource/Ivory_Coast", "http://dbpedia.org/resource/Togo", "http://dbpedia.org/resource/Council_of_Arab_Economic_Unity", "http://dbpedia.org/resource/French_West_African_franc", "http://dbpedia.org/resource/West_Africa", "http://dbpedia.org/resource/Mauritania", "http://dbpedia.org/resource/Mauritanian_ouguiya", "http://dbpedia.org/resource/Monetary_union", "http://dbpedia.org/resource/Centime", "http://dbpedia.org/resource/French_Sudan", "http://dbpedia.org/resource/Category:1945_establishments_in_French_West_Africa", "http://dbpedia.org/resource/French_Dahomey", "http://dbpedia.org/resource/Malian_franc", "http://dbpedia.org/resource/Central_African_CFA_franc", "http://dbpedia.org/resource/West_African_Economic_and_Monetary_Union", "http://dbpedia.org/resource/Central_Bank_of_West_African_States", "http://dbpedia.org/resource/French_Upper_Volta", "http://dbpedia.org/resource/Sénégal", "http://dbpedia.org/resource/African_and_Malagasy_Union", "http://dbpedia.org/resource/Guinea_Bissau_peso", "http://dbpedia.org/resource/File:CFA_Franc_map.svg", "http://dbpedia.org/resource/File:10_West_African_CFA_Franc.jpg" ],
+    "dbp:image" : [ "BCEAOFranc.png" ],
+    "dbp:imageTitle" : [ "Current coins of the West African CFA franc." ],
+    "dbp:isoCode" : [ "XOF" ],
+    "dbp:isoExponent" : [ "0" ],
+    "dbp:isoNumber" : [ "952" ],
+    "dbp:issuingAuthority" : [ "http://dbpedia.org/resource/Central_Bank_of_West_African_States" ],
+    "dbp:issuingAuthorityWebsite" : [ "http://www.bceao.int" ],
+    "dbp:nickname" : [ "céfa, franc" ],
+    "dbp:peggedWith" : [ "euro = CFA 655.957" ],
+    "dbp:subunitName" : [ "http://dbpedia.org/resource/Centime" ],
+    "dbp:subunitRatio" : [ "1" ],
+    "dbp:symbol" : [ "CFA" ],
+    "dbp:symbolSubunit" : [ "c" ],
+    "dbp:usedBanknotes" : [ "9223372036854775807" ],
+    "dbp:usedCoins" : [ "9223372036854775807" ]
+  },
+  "words" : [ "UEMOA", "أو", "25بك", "أي", "البنين", "بمصادر", "،", "والنيجر", "التشكيك", "الفرنك", "فاسو", "والكوت", "المحتوى", "الغرب", "ديفوار", "من", "غينيا", "فرنك", "ومالي", "بيساو", "ا", "ينقصه", "يمكن", "الاقتصادي", ".", "موثوق", "XOF", "هنا", "س", "-RRB-", ":", "4217", "أعضاء", "الإتحاد", "CFA", "ف", "موثقة", "-LRB-", "و", "غرب", "وبوركينا", "مارس", "معلومات", "أفريقيا", "الاستشهاد", "كل", "بالفرنسية", "هي", "Franc", "أفريقي", "وإزالتها", "2016", "يرجى", "غير", "مصادر", "والسنغال", "لغرب", "عملة", "إيراد", "والنقدي", "بها", "أيزو" ],
+  "adjectives" : [ ],
+  "nouns" : [ "ف", "UEMOA", "كل", "أو", "Franc", "أي", "بمصادر", "و", "،", "وإزالتها", "XOF", "يرجى", "أفريقيا", "CFA" ],
+  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الفرنك الغرب أفريقي أو فرنك س ف ا غرب أفريقيا (بالفرنسية: (Franc CFA (UEMOA)، (أيزو 4217:XOF) هي عملة كل من البنين وبوركينا فاسو والكوت ديفوار و غينيا بيساو ومالي والنيجر والسنغال أي أعضاء الإتحاد الاقتصادي والنقدي لغرب أفريقيا. كما يوجد في أفريقيا فرنك خاص بدول وسط أفريقيا. رغم كون فرنك المتداول في غرب أفريقيا تساوي قيمته الفرنك الوسط أفريقي، إلا أنه لا يمكن استعمال الفرنك الغرب أفريقي في دول وسط أفريقيا وبالعكس."
+} ]

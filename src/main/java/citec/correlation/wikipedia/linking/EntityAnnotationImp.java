@@ -1,12 +1,5 @@
 package citec.correlation.wikipedia.linking;
 
-import citec.correlation.wikipedia.utils.NLPTools;
-import citec.correlation.wikipedia.utils.Ngram;
-import citec.correlation.core.analyzer.Analyzer;
-import static citec.correlation.core.analyzer.TextAnalyzer.PRONOUNS;
-import citec.correlation.wikipedia.element.CurlSparqlQuery;
-import citec.correlation.wikipedia.utils.FileFolderUtils;
-import citec.correlation.wikipedia.utils.FormatAndMatch;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -29,7 +22,10 @@ import opennlp.tools.namefind.TokenNameFinderModel;
 import opennlp.tools.tokenize.WhitespaceTokenizer;
 import opennlp.tools.util.Span;
 import org.javatuples.Pair;
-import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER_WORDS;
+import citec.correlation.wikipedia.utils.Ngram;
+import citec.wikipedia.writer.analyzer.Analyzer;
+import static citec.wikipedia.writer.api.TextAnalyzer.PRONOUNS;
+import citec.wikipedia.writer.utils.FormatAndMatch;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

@@ -1,0 +1,101 @@
+[ {
+  "entityIndex" : "entity10831",
+  "entityUrl" : "http://dbpedia.org/resource/4Licensing_Corporation",
+  "dboClass" : "dbo:Company",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10832",
+  "entityUrl" : "http://dbpedia.org/resource/40_Acres_and_a_Mule_Filmworks",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(40_Acres_and_a_Mule_Filmworks) dbo:foundedBy o'<Spike_Lee>",
+    "2" : "s(40_Acres_and_a_Mule_Filmworks) dbo:foundingYear o'<1979>",
+    "3" : "s(40_Acres_and_a_Mule_Filmworks) dbo:location o'<Fort_Greene,_Brooklyn>",
+    "4" : "s(40_Acres_and_a_Mule_Filmworks) dbo:location o'<New_York_(state)>",
+    "5" : "s(40_Acres_and_a_Mule_Filmworks) dbo:regionServed o'<World>",
+    "6" : "s(40_Acres_and_a_Mule_Filmworks) dbo:service o'<Film_production>",
+    "7" : "s(40_Acres_and_a_Mule_Filmworks) dbo:service o'<Television_production>",
+    "8" : "s(40_Acres_and_a_Mule_Filmworks) dbp:company o'<40>",
+    "9" : "s(40_Acres_and_a_Mule_Filmworks) dbp:id o'<29134>",
+    "10" : "s(40_Acres_and_a_Mule_Filmworks) dbp:imageSize o'<220>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10833",
+  "entityUrl" : "http://dbpedia.org/resource/4Frontiers_Corporation",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(4Frontiers_Corporation) dbo:foundingYear o'<2005>",
+    "2" : "s(4Frontiers_Corporation) dbo:industry o'<NewSpace>",
+    "3" : "s(4Frontiers_Corporation) dbo:industry o'<Aerospace_engineering>",
+    "4" : "s(4Frontiers_Corporation) dbo:industry o'<Mars>",
+    "5" : "s(4Frontiers_Corporation) dbo:keyPerson o'<Joseph_E._Palaia,_IV>",
+    "6" : "s(4Frontiers_Corporation) dbo:keyPerson o'<Mark_Homnick>",
+    "7" : "s(4Frontiers_Corporation) dbo:location o'<United_States>",
+    "8" : "s(4Frontiers_Corporation) dbo:location o'<Florida>",
+    "9" : "s(4Frontiers_Corporation) dbo:location o'<New_Port_Richey>",
+    "10" : "s(4Frontiers_Corporation) dbo:numberOfEmployees o'<3>",
+    "11" : "s(4Frontiers_Corporation) dbo:product o'<Consultant>",
+    "12" : "s(4Frontiers_Corporation) dbo:product o'<Informative_entertainment>",
+    "13" : "s(4Frontiers_Corporation) dbo:product o'<Space_&_Mars_settlement_research_&_development>",
+    "14" : "s(4Frontiers_Corporation) dbo:type o'<Private_company>",
+    "15" : "s(4Frontiers_Corporation) dbp:areaServed o'<Worldwide>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10834",
+  "entityUrl" : "http://dbpedia.org/resource/40/40_Club",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(40_Club) dbo:owner o'<Jay-Z>",
+    "2" : "s(40_Club) dbo:owningCompany o'<Jay-Z>",
+    "3" : "s(40_Club) dbo:type o'<Sports_bar>",
+    "4" : "s(40_Club) dbp:areaServed o'<New York City>",
+    "5" : "s(40_Club) dbp:logo o'<File:40-40_Club_Logo.svg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10835",
+  "entityUrl" : "http://dbpedia.org/resource/4K_Media_Inc.",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(4K_Media_Inc.) dbo:foundingYear o'<1992>",
+    "2" : "s(4K_Media_Inc.) dbo:foundingYear o'<2012>",
+    "3" : "s(4K_Media_Inc.) dbo:industry o'<Anime_industry>",
+    "4" : "s(4K_Media_Inc.) dbo:locationCity o'<New_York_City>",
+    "5" : "s(4K_Media_Inc.) dbo:locationCountry o'<United_States>",
+    "6" : "s(4K_Media_Inc.) dbo:owner o'<4Licensing_Corporation>",
+    "7" : "s(4K_Media_Inc.) dbo:owner o'<Konami>",
+    "8" : "s(4K_Media_Inc.) dbo:owningCompany o'<4Licensing_Corporation>",
+    "9" : "s(4K_Media_Inc.) dbo:owningCompany o'<Konami>",
+    "10" : "s(4K_Media_Inc.) dbo:product o'<Anime>",
+    "11" : "s(4K_Media_Inc.) dbo:product o'<Cartoons>",
+    "12" : "s(4K_Media_Inc.) dbo:type o'<Subsidiary>",
+    "13" : "s(4K_Media_Inc.) dbp:keyPeople o'<Jennifer Coleman>",
+    "14" : "s(4K_Media_Inc.) dbp:logo o'<4>",
+    "15" : "s(4K_Media_Inc.) dbp:logoPadding o'<15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10836",
+  "entityUrl" : "http://dbpedia.org/resource/454_Life_Sciences",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(454_Life_Sciences) dbo:fate o'<Acquired byRochein 2007 and shut down by Roche in 2013>",
+    "2" : "s(454_Life_Sciences) dbo:foundingYear o'<2000>",
+    "3" : "s(454_Life_Sciences) dbo:industry o'<Biotechnology>",
+    "4" : "s(454_Life_Sciences) dbo:locationCity o'<Branford,_Connecticut>",
+    "5" : "s(454_Life_Sciences) dbo:product o'<Reagent>",
+    "6" : "s(454_Life_Sciences) dbo:product o'<DNA_sequencer>",
+    "7" : "s(454_Life_Sciences) dbp:locationCountry o'<USA>",
+    "8" : "s(454_Life_Sciences) dbp:services o'<Sequencing of genetic samples>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

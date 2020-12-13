@@ -1,0 +1,105 @@
+[ {
+  "entityIndex" : "entity10849",
+  "entityUrl" : "http://dbpedia.org/resource/7-Eleven",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(7-Eleven) dbo:foundingYear o'<1927>",
+    "2" : "s(7-Eleven) dbo:industry o'<Convenience_store>",
+    "3" : "s(7-Eleven) dbo:keyPerson o'<John_F._Street>",
+    "4" : "s(7-Eleven) dbo:locationCity o'<United_States>",
+    "5" : "s(7-Eleven) dbo:locationCity o'<Irving,_Texas>",
+    "6" : "s(7-Eleven) dbo:locationCity o'<Texas>",
+    "7" : "s(7-Eleven) dbo:numberOfEmployees o'<45000>",
+    "8" : "s(7-Eleven) dbo:numberOfLocations o'<56600>",
+    "9" : "s(7-Eleven) dbo:product o'<Slurpee>",
+    "10" : "s(7-Eleven) dbp:date o'<19980129163651>",
+    "11" : "s(7-Eleven) dbp:founders o'<Joe C. Thompson Sr. , Claude S. Dawley, John Jefferson, John Philp Thompson, Sr., Jere W. Thompson Sr., and Joe C. Thompson Jr.>",
+    "12" : "s(7-Eleven) dbp:logo o'<File:7-eleven-brand.svg>",
+    "13" : "s(7-Eleven) dbp:parent o'<Knock It Off>",
+    "14" : "s(7-Eleven) dbp:title o'<7>",
+    "15" : "s(7-Eleven) dbp:type o'<Subsidiary>",
+    "16" : "s(7-Eleven) dbp:url o'<www.7-eleven.com>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10850",
+  "entityUrl" : "http://dbpedia.org/resource/76_(Phillips_66)",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(76_(Phillips_66)) dbo:wikiPageRedirects o'<76_(gas_station)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10851",
+  "entityUrl" : "http://dbpedia.org/resource/7-Eleven_Speak_Out_Wireless",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(7-Eleven_Speak_Out_Wireless) dbo:foundingYear o'<2003>",
+    "2" : "s(7-Eleven_Speak_Out_Wireless) dbo:industry o'<Telecommunications>",
+    "3" : "s(7-Eleven_Speak_Out_Wireless) dbo:location o'<Singapore>",
+    "4" : "s(7-Eleven_Speak_Out_Wireless) dbo:location o'<Canada>",
+    "5" : "s(7-Eleven_Speak_Out_Wireless) dbo:location o'<Malaysia>",
+    "6" : "s(7-Eleven_Speak_Out_Wireless) dbo:product o'<Mobile_phone>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10852",
+  "entityUrl" : "http://dbpedia.org/resource/7th_Level",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(7th_Level) dbo:extinctionYear o'<1998>",
+    "2" : "s(7th_Level) dbo:foundingYear o'<1993>",
+    "3" : "s(7th_Level) dbo:industry o'<Computer_and_video_game_industry>",
+    "4" : "s(7th_Level) dbo:keyPerson o'<Scott_Page>",
+    "5" : "s(7th_Level) dbo:keyPerson o'<Bob_Ezrin>",
+    "6" : "s(7th_Level) dbo:keyPerson o'<George_Grayson_(video_game_developer)>",
+    "7" : "s(7th_Level) dbo:location o'<United_States>",
+    "8" : "s(7th_Level) dbo:location o'<Texas>",
+    "9" : "s(7th_Level) dbo:location o'<Dallas,_Texas>",
+    "10" : "s(7th_Level) dbp:logo o'<170>",
+    "11" : "s(7th_Level) dbp:type o'<Defunct>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10853",
+  "entityUrl" : "http://dbpedia.org/resource/7digital",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(7digital) dbo:foundingYear o'<2004>",
+    "2" : "s(7digital) dbo:internationally o'<true>",
+    "3" : "s(7digital) dbo:locationCity o'<London>",
+    "4" : "s(7digital) dbo:locationCountry o'<United_Kingdom>",
+    "5" : "s(7digital) dbo:numberOfEmployees o'<125>",
+    "6" : "s(7digital) dbo:numberOfLocations o'<5>",
+    "7" : "s(7digital) dbo:service o'<Solution>",
+    "8" : "s(7digital) dbo:service o'<API>",
+    "9" : "s(7digital) dbo:type o'<Publicly_listed_company>",
+    "10" : "s(7digital) dbp:industry o'<Music and Radio>",
+    "11" : "s(7digital) dbp:keyPeople o'<Simon Cole, Pete Downton, Ed Kershaw, Paul Langworthy, Philippe Decottignies, Amy Wallace, Matt Honey, Kellie While>",
+    "12" : "s(7digital) dbp:location o'<69>",
+    "13" : "s(7digital) dbp:logo o'<7>",
+    "14" : "s(7digital) dbp:subsid o'<Entertainment News, Unique The Production Company, Smooth Operations, Unique Interactive, Above The Title>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10854",
+  "entityUrl" : "http://dbpedia.org/resource/7th_Heaven_Remix_&_Production",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(7th_Heaven_Remix_&_Production) dbo:foundingYear o'<2008>",
+    "2" : "s(7th_Heaven_Remix_&_Production) dbo:industry o'<Music>",
+    "3" : "s(7th_Heaven_Remix_&_Production) dbo:location o'<London>",
+    "4" : "s(7th_Heaven_Remix_&_Production) dbo:location o'<United_Kingdom>",
+    "5" : "s(7th_Heaven_Remix_&_Production) dbo:type o'<Remix_and_production_team>",
+    "6" : "s(7th_Heaven_Remix_&_Production) dbp:keyPeople o'<Andy Wetson>",
+    "7" : "s(7th_Heaven_Remix_&_Production) dbp:keyPeople o'<Jon Dixon>",
+    "8" : "s(7th_Heaven_Remix_&_Production) dbp:logo o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

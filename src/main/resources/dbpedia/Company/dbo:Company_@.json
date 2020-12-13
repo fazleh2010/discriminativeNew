@@ -1,0 +1,107 @@
+[ {
+  "entityIndex" : "entity10641",
+  "entityUrl" : "http://dbpedia.org/resource/@Home_Network",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:extinctionDate" : [ "2001-10-01" ],
+    "dbo:extinctionYear" : [ "2001" ],
+    "dbo:fate" : [ "Bankruptcy" ],
+    "dbo:industry" : [ "http://dbpedia.org/resource/Telecommunication" ],
+    "dbo:keyPerson" : [ "http://dbpedia.org/resource/William_Randolph_Hearst_III", "http://dbpedia.org/resource/Chief_executive_officer" ],
+    "dbo:numberOfEmployees" : [ "1350" ],
+    "dbo:product" : [ "http://dbpedia.org/resource/Broadband_Internet_access" ],
+    "dbo:subsidiary" : [ "http://dbpedia.org/resource/Excite" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Excite@Home_headquarters_for_sale.jpg?width=300" ],
+    "dbo:wikiPageExternalLink" : [ "http://home.excite.com/'''", "http://www.nethome.jp/", "http://news.cnet.com/2009-1033-846668.html", "http://www.smartcomputing.com/editorial/article.asp?article=articles/archive/g0903/59g03/59g03.asp&guid=", "https://web.archive.org/web/20000815053258/www.chello.com/press_room/P/2190/index.html", "http://www.wired.com/wired/archive/10.01/excite.html", "http://www.businessweek.com/bwdaily/dnflash/jan2000/sw00119.htm" ],
+    "dbo:wikiPageID" : [ "5789453" ],
+    "dbo:wikiPageRevisionID" : [ "738312734" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Cable_modem", "http://dbpedia.org/resource/InterMedia_Partners", "http://dbpedia.org/resource/Patti_S._Hart", "http://dbpedia.org/resource/Insight_Communications", "http://dbpedia.org/resource/Telecommunications_Act_of_1996", "http://dbpedia.org/resource/The_Netherlands", "http://dbpedia.org/resource/Bay_Area", "http://dbpedia.org/resource/Ernst_&_Young", "http://dbpedia.org/resource/Charter_Communications", "http://dbpedia.org/resource/Internet_radio", "http://dbpedia.org/resource/Jones_Intercable", "http://dbpedia.org/resource/Indy_Racing_League", "http://dbpedia.org/resource/Laid_off", "http://dbpedia.org/resource/Benelux", "http://dbpedia.org/resource/Category:Companies_disestablished_in_2001", "http://dbpedia.org/resource/Category:Companies_established_in_1996", "http://dbpedia.org/resource/Category:Dot-com_bubble", "http://dbpedia.org/resource/Category:Private_equity_portfolio_companies", "http://dbpedia.org/resource/Dot-com_bubble", "http://dbpedia.org/resource/Internet_Explorer", "http://dbpedia.org/resource/Chairman", "http://dbpedia.org/resource/Wire_service", "http://dbpedia.org/resource/Tele-Communications_Inc.", "http://dbpedia.org/resource/Excite", "http://dbpedia.org/resource/Cablevision_Systems", "http://dbpedia.org/resource/Chapter_11", "http://dbpedia.org/resource/Palo_Alto,_California", "http://dbpedia.org/resource/Redwood_City,_California", "http://dbpedia.org/resource/Yahoo!", "http://dbpedia.org/resource/Adelphia_Cable", "http://dbpedia.org/resource/Kleiner_Perkins", "http://dbpedia.org/resource/Rogers_Cable", "http://dbpedia.org/resource/Shaw_Communications", "http://dbpedia.org/resource/Voice_over_IP", "http://dbpedia.org/resource/TuneIn", "http://dbpedia.org/resource/William_Randolph_Hearst_III", "http://dbpedia.org/resource/Internet_advertising", "http://dbpedia.org/resource/Eddie_Cheever,_Jr.", "http://dbpedia.org/resource/Chief_executive_officer", "http://dbpedia.org/resource/Internet_service_provider", "http://dbpedia.org/resource/Massachusetts", "http://dbpedia.org/resource/Telecommunication", "http://dbpedia.org/resource/Web_browser", "http://dbpedia.org/resource/Comcast", "http://dbpedia.org/resource/Kleiner_Perkins_Caufield_&_Byers", "http://dbpedia.org/resource/PricewaterhouseCoopers", "http://dbpedia.org/resource/Cogeco_Cable", "http://dbpedia.org/resource/American_Greetings", "http://dbpedia.org/resource/Infiniti", "http://dbpedia.org/resource/Optus", "http://dbpedia.org/resource/Warburg_Pincus", "http://dbpedia.org/resource/Videon_Cablesystems", "http://dbpedia.org/resource/Category:Defunct_Internet_service_providers", "http://dbpedia.org/resource/Cox_Communications", "http://dbpedia.org/resource/Broadband_Internet_access", "http://dbpedia.org/resource/Chief_Executive_Officer", "http://dbpedia.org/resource/Nasdaq", "http://dbpedia.org/resource/Chief_Technology_Officer", "http://dbpedia.org/resource/Venture_capital_firm", "http://dbpedia.org/resource/Garden_State_Cable", "http://dbpedia.org/resource/File:@home_logo.png", "http://dbpedia.org/resource/Essent", "http://dbpedia.org/resource/Chello", "http://dbpedia.org/resource/Los_Angeles,_California", "http://dbpedia.org/resource/Cinven", "http://dbpedia.org/resource/Ziggo", "http://dbpedia.org/resource/Susquehanna_Communications", "http://dbpedia.org/resource/Suburban_Cable", "http://dbpedia.org/resource/Angelo_Gordon_&_Co.", "http://dbpedia.org/resource/Patti_Hart", "http://dbpedia.org/resource/Midcontinent_Communications", "http://dbpedia.org/resource/Thomas_Jermoluk", "http://dbpedia.org/resource/@Work", "http://dbpedia.org/resource/AtHome_Network_Australia", "http://dbpedia.org/resource/Cable_&_Wireless_Optus", "http://dbpedia.org/resource/George_Tom_Jermoluk", "http://dbpedia.org/resource/IMall", "http://dbpedia.org/resource/Mark_McEachen", "http://dbpedia.org/resource/Promethean_Capital_Management", "http://dbpedia.org/resource/Telocity", "http://dbpedia.org/resource/@Home_Solutions", "http://dbpedia.org/resource/Prime_Cable", "http://dbpedia.org/resource/File:Excite@Home_headquarters_for_sale.jpg", "http://dbpedia.org/resource/Blue_Mountain_Arts", "http://dbpedia.org/resource/Milo_Medin" ],
+    "dbp:location" : [ "United States" ],
+    "dbp:logo" : [ "http://dbpedia.org/resource/File:@home_logo.png" ]
+  },
+  "words" : [ "door", "ontstond", "-LRB-", "breedbandinternet", "Casema", "Ziggo", "bedrijf", "CasTel", "samen", "een", "televisie", "2007", "het", "@Home", "februari", "Multikabel", "tot", "telefoniediensten", "totdat", "hoofdkantoor", "met", "1999", "van", "fuseerde", "Groningen", "en", ",", "Essent", ".", "1", "fusie", "Het", "Nederland", "-RRB-", ":", "gevestigd", "aanbieder", "Kabelcom", "Palet" ],
+  "adjectives" : [ ],
+  "nouns" : [ "door", "ontstond", "breedbandinternet", "Ziggo", "Casema", "bedrijf", "CasTel", "samen", "een", "televisie", "het", "@Home", "februari", "Multikabel", "tot", "telefoniediensten", "totdat", "hoofdkantoor", "van", "fuseerde", "Groningen", "Essent", "fusie", "Het", "Nederland", "aanbieder", "Kabelcom", "Palet" ],
+  "text" : "@Home (tot 1 februari 2007: Essent Kabelcom) was van 1999 tot 2007 een aanbieder van televisie, breedbandinternet en telefoniediensten in Nederland, totdat het samen met Multikabel en Casema fuseerde tot Ziggo. Het hoofdkantoor van @Home was gevestigd in Groningen. Het bedrijf ontstond in 1999 door een fusie van Palet Kabelcom met CasTel."
+}, {
+  "entityIndex" : "entity10642",
+  "entityUrl" : "http://dbpedia.org/resource/@WalmartLabs",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundationPlace" : [ "http://dbpedia.org/resource/Mountain_View,_California" ],
+    "dbo:foundedBy" : [ "http://dbpedia.org/resource/Venky_Harinarayan", "http://dbpedia.org/resource/Anand_Rajaraman" ],
+    "dbo:foundingYear" : [ "2005" ],
+    "dbo:industry" : [ "http://dbpedia.org/resource/Internet" ],
+    "dbo:keyPerson" : [ "http://dbpedia.org/resource/Jeff_Bezos", "http://dbpedia.org/resource/Ed_Zander", "http://dbpedia.org/resource/Jonathan_Miller_(chairman)" ],
+    "dbo:locationCity" : [ "http://dbpedia.org/resource/California", "http://dbpedia.org/resource/San_Bruno,_California" ],
+    "dbo:locationCountry" : [ "http://dbpedia.org/resource/United_States" ],
+    "dbo:numberOfEmployees" : [ "50" ],
+    "dbo:parentCompany" : [ "http://dbpedia.org/resource/Walmart" ],
+    "dbo:type" : [ "http://dbpedia.org/resource/Private_company" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.walmartlabs.com/" ],
+    "dbo:wikiPageID" : [ "22022527" ],
+    "dbo:wikiPageRevisionID" : [ "735447243" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Private_company", "http://dbpedia.org/resource/Truveo", "http://dbpedia.org/resource/Amazon_Mechanical_Turk", "http://dbpedia.org/resource/DAG_Ventures", "http://dbpedia.org/resource/Jeff_Bezos", "http://dbpedia.org/resource/Privately_held_company", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Category:Walmart_brands", "http://dbpedia.org/resource/California", "http://dbpedia.org/resource/Category:Companies_based_in_Mountain_View,_California", "http://dbpedia.org/resource/Category:Internet_companies_of_the_United_States", "http://dbpedia.org/resource/Category:Privately_held_companies_based_in_California", "http://dbpedia.org/resource/Category:Technology_companies_based_in_the_San_Francisco_Bay_Area", "http://dbpedia.org/resource/Internet", "http://dbpedia.org/resource/Motorola", "http://dbpedia.org/resource/Accel_Partners", "http://dbpedia.org/resource/Lightspeed_Venture_Partners", "http://dbpedia.org/resource/Mountain_View,_California", "http://dbpedia.org/resource/San_Bruno,_California", "http://dbpedia.org/resource/Venky_Harinarayan", "http://dbpedia.org/resource/Walmart", "http://dbpedia.org/resource/Amazon.com", "http://dbpedia.org/resource/Venture_capital", "http://dbpedia.org/resource/Revolution_Health", "http://dbpedia.org/resource/Google", "http://dbpedia.org/resource/Hitwise", "http://dbpedia.org/resource/Search_engine", "http://dbpedia.org/resource/Ed_Zander", "http://dbpedia.org/resource/Google_News", "http://dbpedia.org/resource/Vertical_search_engine", "http://dbpedia.org/resource/Jonathan_Miller_(chairman)", "http://dbpedia.org/resource/Anand_Rajaraman", "http://dbpedia.org/resource/File:Walmart_labs_logo.png" ],
+    "dbp:areaServed" : [ "Worldwide" ],
+    "dbp:logo" : [ "200" ],
+    "dbp:products" : [ "Kosmix", "MeeHive", "RightHealth", "Tweetbeat" ]
+  },
+  "words" : [ "``", "grado", "stata", "Questa", "uomini", "aggiornate", "oggetto", "dei", "sorta", "collegati", "sviluppa", "informazioni", "Università", "Harinarayan", "servizio", "svariate", "guida", "per", "Madras", "più", "costruzione", "gli", "complesso", "sembra", "altri", "fonti", ",", ".", "varie", "relazione", "aspetti", "loro", "spettro", "contiene", "criterio", "Web", "cercano", "laureatisi", "innovativo", ";", "immagini", "l'oggetto", "utilizzando", "raccolte", "numero", "differente", "Rajaraman", "sul", "seguito", "Mumbai", "attività", "azienda", "web", "si", "approccio", "`", "ampio", "progettato", "strutturare", "sito", "e", "richiesta", "ecc.", "gran", "rassegne", "della", "maggior", "delle", "società", "la", "algoritmi", "risposte", "le", "da", "genera", "ricerca", "ricavate", "con", "di", "questioni", "correlati", "parte", "notizie", "serve", "fondata", "nel", "La", "quali", "quale", "che", "consente", "Anand", "propone", "queste", "questo", "esperienze", "Kosmix", "servizi", "motore", "raccogliere", "risultati", "motori", "Venky", "imitare", "molti", "video", "giovani", "riescano", "prodotti", "sostiene", "''", "muoversi", "basa", "dopo", "indiani", "è", "fornire", "una", "ottenere", "dell", "aggregare", "hanno", "alcune", "due", "realizzato", "nella", "svolgono", "quello", "argomenti", "manualmente", "quanto", "indiana" ],
+  "adjectives" : [ "l'oggetto", "due", "indiani", "oggetto", "svariate", "ottenere" ],
+  "nouns" : [ "grado", "genera", "ricerca", "ricavate", "con", "di", "questioni", "Questa", "uomini", "stata", "aggiornate", "correlati", "notizie", "collegati", "fondata", "informazioni", "Università", "nel", "La", "Harinarayan", "servizio", "quale", "guida", "Madras", "che", "costruzione", "gli", "complesso", "sembra", "altri", "consente", "fonti", "Anand", "varie", "propone", "relazione", "contiene", "criterio", "Web", "queste", "cercano", "questo", "laureatisi", "innovativo", "esperienze", "immagini", "Kosmix", "utilizzando", "servizi", "raccolte", "Venky", "differente", "Rajaraman", "sul", "video", "seguito", "attività", "giovani", "web", "si", "prodotti", "approccio", "progettato", "muoversi", "richiesta", "dopo", "ecc.", "è", "rassegne", "dell", "della", "aggregare", "hanno", "alcune", "società", "algoritmi", "nella", "risposte", "svolgono", "da", "quello", "argomenti", "manualmente" ],
+  "text" : "Kosmix è stata un'azienda indiana che sostiene e sviluppa un sito web che consente di ottenere notizie aggiornate ricavate da svariate fonti; questo servizio si serve di un motore di ricerca innovativo che sembra in grado di fornire risultati di spettro più ampio di quanto riescano a ottenere altri servizi si ricerca sul Web. Kosmix propone un approccio differente a quello della gran parte dei motori di ricerca in quanto in molti risultati genera una sorta di \"guida\" per muoversi nel complesso delle informazioni raccolte. Questa guida contiene immagini, video, argomenti correlati, risposte a questioni in relazione con l'oggetto della richiesta, prodotti collegati, rassegne ecc.; il criterio seguito è quello di raccogliere e strutturare il maggior numero di aspetti dell'oggetto della ricerca, utilizzando algoritmi che cercano di imitare le attività che gli uomini svolgono manualmente per aggregare queste varie informazioni. La società è stata fondata da due giovani indiani di Mumbai, Anand Rajaraman e Venky Harinarayan, laureatisi all'Università di Madras i quali, dopo alcune esperienze nella costruzione di motori di ricerca, hanno progettato e realizzato il motore sul quale si basa la loro azienda. La Kosmix lanciò nel 2007 il portale RightHealth specializzato nella ricerca e nell'aggregazione di informazioni mediche il quale all'inizio del 2009 riuscì a diventare il secondo sito del genere nel mondo."
+}, {
+  "entityIndex" : "entity10643",
+  "entityUrl" : "http://dbpedia.org/resource/@UK",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundedBy" : [ "http://dbpedia.org/resource/Ronald_Duncan_(alpine_skier)" ],
+    "dbo:foundingDate" : [ "1999-03-12" ],
+    "dbo:foundingYear" : [ "1999" ],
+    "dbo:industry" : [ "http://dbpedia.org/resource/E-commerce", "http://dbpedia.org/resource/E-procurement" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/United_Kingdom", "http://dbpedia.org/resource/Aldermaston", "http://dbpedia.org/resource/Berkshire" ],
+    "dbo:type" : [ "http://dbpedia.org/resource/Public_company" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.cloudbuy.com", "http://www.ukplc.com" ],
+    "dbo:wikiPageID" : [ "29161189" ],
+    "dbo:wikiPageRevisionID" : [ "744102111" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Internet_companies_of_the_United_Kingdom", "http://dbpedia.org/resource/Category:1999_establishments_in_the_United_Kingdom", "http://dbpedia.org/resource/E-commerce", "http://dbpedia.org/resource/England", "http://dbpedia.org/resource/Category:Government_procurement_in_the_United_Kingdom", "http://dbpedia.org/resource/E-procurement", "http://dbpedia.org/resource/United_Kingdom", "http://dbpedia.org/resource/Aldermaston", "http://dbpedia.org/resource/Ronald_Duncan_(alpine_skier)", "http://dbpedia.org/resource/Category:Business_services_companies_established_in_1999", "http://dbpedia.org/resource/Berkshire", "http://dbpedia.org/resource/London_Stock_Exchange", "http://dbpedia.org/resource/Public_company", "http://dbpedia.org/resource/Company_formation" ]
+  },
+  "words" : [ "Company", "-LRB-", "Websites", "Aldermaston", "England", "300,000", "eProcurement", "division", "B2B", "eCommerce", "companies", "Purchasing", "known", "cloud-based", "@UK", "Berkshire", "provides", "@UKplc", "supplier", "company", "based", "still", "Registrations", "Marketplaces", "plc", "solutions", "Formations", "services", ",", "Source-to-Pay", ".", "cloudBuy", "formations", "-RRB-", "formed", "formerly", "Portals" ],
+  "adjectives" : [ "cloud-based" ],
+  "nouns" : [ "Company", "Websites", "Aldermaston", "England", "eProcurement", "division", "B2B", "eCommerce", "companies", "Purchasing", "@UK", "Berkshire", "@UKplc", "supplier", "company", "Registrations", "Marketplaces", "plc", "solutions", "Formations", "services", "Source-to-Pay", "cloudBuy", "formations", "Portals" ],
+  "text" : "cloudBuy plc (formerly @UK plc) is a supplier of cloud-based B2B eCommerce and eProcurement solutions based in Aldermaston, Berkshire, England. It provides Purchasing Portals, eCommerce Marketplaces, eCommerce Websites, Source-to-Pay solutions and Company Formations services. The company formations division, still known as @UKplc Company Registrations, has formed over 300,000 companies."
+}, {
+  "entityIndex" : "entity10644",
+  "entityUrl" : "http://dbpedia.org/resource/@radical.media",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49043177" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/RadicalMedia" ],
+    "dbo:wikiPageRevisionID" : [ "698862076" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/RadicalMedia" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10645",
+  "entityUrl" : "http://dbpedia.org/resource/@lantic",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:foundingYear" : [ "1996" ],
+    "dbo:industry" : [ "http://dbpedia.org/resource/Telecommunication" ],
+    "dbo:keyPerson" : [ "http://dbpedia.org/resource/Chief_executive_officer", "http://dbpedia.org/resource/Wikt:founder" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/Pretoria", "http://dbpedia.org/resource/South_Africa" ],
+    "dbo:product" : [ "http://dbpedia.org/resource/Telecommunication" ],
+    "dbo:wikiPageExternalLink" : [ "https://www.voxtelecom.co.za/" ],
+    "dbo:wikiPageID" : [ "36881770" ],
+    "dbo:wikiPageRevisionID" : [ "737369980" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Franchising", "http://dbpedia.org/resource/Pretoria", "http://dbpedia.org/resource/Sport", "http://dbpedia.org/resource/@lantic_Rugby_Sevens", "http://dbpedia.org/resource/Chief_executive_officer", "http://dbpedia.org/resource/South_Africa", "http://dbpedia.org/resource/Telecommunication", "http://dbpedia.org/resource/2016_Summer_Olympics", "http://dbpedia.org/resource/Category:Telecommunications_companies_of_South_Africa", "http://dbpedia.org/resource/South_Africa_national_rugby_sevens_team", "http://dbpedia.org/resource/Small_and_medium_enterprises", "http://dbpedia.org/resource/Wikt:founder", "http://dbpedia.org/resource/File:@lantic_Logo.png" ],
+    "dbp:logo" : [ "http://dbpedia.org/resource/File:@lantic_Logo.png" ]
+  },
+  "words" : [ "voice", "franchise", "data", "operator", "second", "locally", "90", "franchises", "provinces", "subscribers", "Africa", "SME", ",", "subsidiary", ".", "120", "000", "markets", "driven", "9", "Vox", "since", "trading", "largest", "providing", "independent", "African-originated", "Limited", "telecommunications", "1996", "2005", "tier", "throughout", "national", "grown", "consumer", "business", "one", "South", "services", "African", "@lantic", "Telecom", "footprint", "500", "service", "resellers", "providers", "customer", "base" ],
+  "adjectives" : [ "@lantic", "largest", "independent", "African-originated", "South", "national", "African", "second" ],
+  "nouns" : [ "voice", "franchise", "data", "Limited", "operator", "telecommunications", "tier", "consumer", "franchises", "provinces", "business", "subscribers", "Africa", "South", "SME", "services", "subsidiary", "Telecom", "@lantic", "markets", "footprint", "service", "resellers", "Vox", "providers", "customer", "base" ],
+  "text" : "@lantic, a subsidiary of Vox Telecom Limited since 2005, is a South African-originated telecommunications operator, providing voice and data services to the South African consumer and SME markets. @lantic has been trading locally since 1996 and has since grown into one of the largest independent service providers in South Africa with a customer base of over 120 000 subscribers. @lantic is a franchise driven business with a national footprint of over 90 franchises and more than 500 second tier resellers throughout the 9 provinces of South Africa."
+} ]

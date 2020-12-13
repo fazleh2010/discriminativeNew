@@ -1,0 +1,109 @@
+[ {
+  "entityIndex" : "entity10964",
+  "entityUrl" : "http://dbpedia.org/resource/Sienna",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "882D17" ],
+    "dbo:hsvCoordinateHue" : [ "12" ],
+    "dbo:hsvCoordinateSaturation" : [ "83" ],
+    "dbo:hsvCoordinateValue" : [ "53" ],
+    "dbo:rgbCoordinateBlue" : [ "23" ],
+    "dbo:rgbCoordinateGreen" : [ "45" ],
+    "dbo:rgbCoordinateRed" : [ "136" ],
+    "dbo:wikiPageExternalLink" : [ "http://tx4.us/mr/mr3c.htm", "http://tx4.us/nbs/nbs-s.htm", "http://www.ferrariospa.com/DocsImgs/Docs/cartColori_ferrario1919.pdf" ],
+    "dbo:wikiPageID" : [ "29559" ],
+    "dbo:wikiPageRevisionID" : [ "744123542" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Shades_of_brown", "http://dbpedia.org/resource/Sienna", "http://dbpedia.org/resource/Rembrandt", "http://dbpedia.org/resource/Monte_Amiata", "http://dbpedia.org/resource/Burnt_orange", "http://dbpedia.org/resource/Arcidosso", "http://dbpedia.org/resource/Monteriggioni", "http://dbpedia.org/resource/Manganese_oxide", "http://dbpedia.org/resource/Giorgio_Vasari", "http://dbpedia.org/resource/Caravaggio", "http://dbpedia.org/resource/Category:Iron_oxide_pigments", "http://dbpedia.org/resource/Province_of_Grosseto", "http://dbpedia.org/resource/Renaissance", "http://dbpedia.org/resource/Sicily", "http://dbpedia.org/resource/Clay_earth_pigment", "http://dbpedia.org/resource/Umber", "http://dbpedia.org/resource/Republic_of_Siena", "http://dbpedia.org/resource/Web_colour", "http://dbpedia.org/resource/Ochre", "http://dbpedia.org/resource/Sardinia", "http://dbpedia.org/resource/Colour_Index_International", "http://dbpedia.org/resource/Appalachian_Mountains", "http://dbpedia.org/resource/Limonite", "http://dbpedia.org/resource/English_language", "http://dbpedia.org/resource/List_of_colors", "http://dbpedia.org/resource/Iron_oxide", "http://dbpedia.org/resource/Tuscany", "http://dbpedia.org/resource/Haematite", "http://dbpedia.org/resource/Palazzo_Vecchio", "http://dbpedia.org/resource/Insular_Italy", "http://dbpedia.org/resource/Yellow_ochre", "http://dbpedia.org/resource/List_of_inorganic_pigments", "http://dbpedia.org/resource/X11_colours" ],
+    "dbp:source" : [ "http://tx4.us/mr/mr3c.htm", "http://tx4.us/nbs/nbs-s.htm", "Ferrario 1919: Cartella colori, colour 69", "Ferrario 1919: Cartella colori, colour 77", "Maerz and Paul", "forret.com" ],
+    "dbp:spelling" : [ "colour" ],
+    "dbp:textcolor" : [ "white" ]
+  },
+  "words" : [ "``", "Italian", "terra", "-LRB-", "called", "di", "yellow-brown", "sienna", "city-state", "Sienna", "manganese", "state", "takes", "burnt", "Siena", "''", "natural", "containing", "pigment", "raw", ",", "brown", ".", "becomes", "produced", "Renaissance", "oxide", "earth", "-RRB-", "name", "iron", ":", "heated", "reddish" ],
+  "adjectives" : [ "Italian", "natural", "yellow-brown", "raw", "reddish", "brown", "burnt" ],
+  "nouns" : [ "Siena", "terra", "sienna", "city-state", "pigment", "Sienna", "manganese", "Renaissance", "oxide", "earth", "name", "iron", "state" ],
+  "text" : "Sienna (from Italian: terra di Siena, \"Siena earth\") is an earth pigment containing iron oxide and manganese oxide. In its natural state, it is yellow-brown and is called raw sienna. When heated, it becomes a reddish brown and is called burnt sienna. It takes its name from the city-state of Siena, where it was produced during the Renaissance. Along with ochre and umber, it was one of the first pigments to be used by humans, and is found in many cave paintings. Since the Renaissance, it has been one of the brown pigments most widely used by artists. The first recorded use of sienna as a colour name in English was in 1760."
+}, {
+  "entityIndex" : "entity10965",
+  "entityUrl" : "http://dbpedia.org/resource/Sienna__Terra_di_Siena_naturale,_or_raw_Sienna_Italian__1",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "965434" ],
+    "dbo:hsvCoordinateHue" : [ "20" ],
+    "dbo:hsvCoordinateSaturation" : [ "65" ],
+    "dbo:hsvCoordinateValue" : [ "59" ],
+    "dbo:variantOf" : [ "http://dbpedia.org/resource/Sienna" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10966",
+  "entityUrl" : "http://dbpedia.org/resource/Sienna__Terra_di_Siena_bruciata,_or_burnt_sienna_Italian__1",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "623034" ],
+    "dbo:hsvCoordinateHue" : [ "-5" ],
+    "dbo:hsvCoordinateSaturation" : [ "51" ],
+    "dbo:hsvCoordinateValue" : [ "38" ],
+    "dbo:variantOf" : [ "http://dbpedia.org/resource/Sienna" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10967",
+  "entityUrl" : "http://dbpedia.org/resource/Sienna__Burnt_sienna_Maerz_and_Paul__1",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "E97451" ],
+    "dbo:hsvCoordinateHue" : [ "14" ],
+    "dbo:hsvCoordinateSaturation" : [ "65" ],
+    "dbo:hsvCoordinateValue" : [ "91" ],
+    "dbo:rgbCoordinateBlue" : [ "81" ],
+    "dbo:rgbCoordinateGreen" : [ "116" ],
+    "dbo:rgbCoordinateRed" : [ "233" ],
+    "dbo:variantOf" : [ "http://dbpedia.org/resource/Sienna" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10968",
+  "entityUrl" : "http://dbpedia.org/resource/Sienna__Dark_Sienna__1",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "3c1414" ],
+    "dbo:hsvCoordinateHue" : [ "0" ],
+    "dbo:hsvCoordinateSaturation" : [ "67" ],
+    "dbo:hsvCoordinateValue" : [ "24" ],
+    "dbo:rgbCoordinateBlue" : [ "20" ],
+    "dbo:rgbCoordinateGreen" : [ "20" ],
+    "dbo:rgbCoordinateRed" : [ "60" ],
+    "dbo:variantOf" : [ "http://dbpedia.org/resource/Sienna" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10969",
+  "entityUrl" : "http://dbpedia.org/resource/Sienna__X11_web_colour__1",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "A0522D" ],
+    "dbo:hsvCoordinateHue" : [ "19" ],
+    "dbo:hsvCoordinateSaturation" : [ "72" ],
+    "dbo:hsvCoordinateValue" : [ "63" ],
+    "dbo:rgbCoordinateBlue" : [ "45" ],
+    "dbo:rgbCoordinateGreen" : [ "82" ],
+    "dbo:rgbCoordinateRed" : [ "160" ],
+    "dbo:variantOf" : [ "http://dbpedia.org/resource/Sienna" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

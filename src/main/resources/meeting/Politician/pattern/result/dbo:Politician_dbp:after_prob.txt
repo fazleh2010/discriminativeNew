@@ -1,7 +1,0 @@
-id=22  property=dbp:after  
-defeat_at  VBN_IN  multiply=0.002565  P(defeat_at|dbp:after)=0.003265  P(dbp:after|defeat_at)=0.785714    
-lose_his  VBD_PRP$  multiply=0.002006  P(lose_his|dbp:after)=0.004156  P(dbp:after|lose_his)=0.482759    
-held_seat  JJ_NN  multiply=0.001855  P(held_seat|dbp:after)=0.002968  P(dbp:after|held_seat)=0.625    
-replace_by  VBN_IN  multiply=0.001039  P(replace_by|dbp:after)=0.002078  P(dbp:after|replace_by)=0.5    
-defeat_by  VBN_IN  multiply=6.19E-4  P(defeat_by|dbp:after)=0.003265  P(dbp:after|defeat_by)=0.189655    
-

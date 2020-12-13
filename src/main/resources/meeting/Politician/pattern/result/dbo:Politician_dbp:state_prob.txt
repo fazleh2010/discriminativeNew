@@ -1,5 +1,0 @@
-id=30  property=dbp:state  
-serve_in  VBN_IN  multiply=0.001187  P(serve_in|dbp:state)=0.044496  P(dbp:state|serve_in)=0.026685    
-elect_to  VBN_TO  multiply=6.9E-4  P(elect_to|dbp:state)=0.037471  P(dbp:state|elect_to)=0.018412    
-represent  VBN  multiply=6.38E-4  P(represent|dbp:state)=0.037471  P(dbp:state|represent)=0.017039    
-

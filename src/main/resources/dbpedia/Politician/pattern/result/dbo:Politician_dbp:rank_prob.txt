@@ -1,3 +1,3 @@
-id=61  property=dbp:rank  
-serve  RB_VBN  multiply=0.005933  P(serve|dbp:rank)=0.288288  P(dbp:rank|serve)=0.020579    
+id=64  property=dbp:rank  
+serve  RB_VBN  multiply=0.00591  P(serve|dbp:rank)=0.288288  P(dbp:rank|serve)=0.0205    
 

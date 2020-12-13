@@ -1,0 +1,24 @@
+[ {
+  "entityIndex" : "entity10819",
+  "entityUrl" : "http://dbpedia.org/resource/*Corpus_Callosum",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:director" : [ "http://dbpedia.org/resource/Michael_Snow" ],
+    "dbo:imdbId" : [ "0275275" ],
+    "dbo:runtime" : [ "92.0", "5520.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Jacqueline_Anderson" ],
+    "dbo:wikiPageID" : [ "16575961" ],
+    "dbo:wikiPageRevisionID" : [ "617217977" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:2002_films", "http://dbpedia.org/resource/Category:Canadian_films", "http://dbpedia.org/resource/Category:English-language_films", "http://dbpedia.org/resource/Jacqueline_Anderson", "http://dbpedia.org/resource/John_Penner", "http://dbpedia.org/resource/Category:Canadian_independent_films", "http://dbpedia.org/resource/Joanne_Tod", "http://dbpedia.org/resource/Category:Films_directed_by_Michael_Snow", "http://dbpedia.org/resource/Michael_Snow", "http://dbpedia.org/resource/Los_Angeles_Film_Critics_Association_Awards", "http://dbpedia.org/resource/Greg_Hermanovic", "http://dbpedia.org/resource/Kim_Plate", "http://dbpedia.org/resource/Berj_Bannayan", "http://dbpedia.org/resource/Tom_Sherman_(actor)" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Michael_Snow" ],
+    "dbp:cinematography" : [ "Harald Bachmann", "Robbi Hinds" ],
+    "dbp:country" : [ "Canada" ],
+    "dbp:language" : [ "English" ],
+    "dbp:title" : [ "*Corpus Callosum" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1" ]
+  },
+  "words" : [ "directed", "Snow", "Canadian", "Film", "Callosum", "*", "experimental", "Independent/Experimental", "Angeles", "film", "Corpus", ".", "Los", "Association", "Awards", "Video", "Award", "2002", "Michael", "won", "Critics" ],
+  "adjectives" : [ "Canadian", "experimental", "Independent/Experimental" ],
+  "nouns" : [ "Snow", "Film", "Callosum", "Angeles", "film", "Corpus", "Los", "Association", "Awards", "Award", "Video", "Michael", "Critics" ],
+  "text" : "*Corpus Callosum is a 2002 experimental Canadian film directed by Michael Snow. It won the Independent/Experimental Film and Video Award from the Los Angeles Film Critics Association Awards."
+} ]

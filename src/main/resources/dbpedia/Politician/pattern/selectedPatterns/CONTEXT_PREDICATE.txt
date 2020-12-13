@@ -1,11 +1,22 @@
 
+able_to
+(2)  dbp:origin
+
 accept_visit
 (2)  dbo:nationality
 
 act
 (2)  dbp:title
 
+act_at
+(2)  dbo:country
+
+act_in
+(2)  dbo:birthPlace
+(2)  dbo:occupation
+
 active_in
+(2)  dbo:country
 (2)  dbp:title
 
 active_member
@@ -69,6 +80,9 @@ alumnus_of
 ambassador
 (2)  dbo:nationality
 
+american_actress
+(2)  dbp:birthPlace
+
 among_four
 (2)  dbp:origin
 
@@ -84,6 +98,18 @@ announce_in
 
 announce_pronoun
 (6)  dbo:party
+
+appear_in
+(15)  dbo:country
+(14)  dbo:occupation
+(4)  dbo:birthPlace
+(2)  dbo:deathPlace
+(2)  dbo:employer
+(2)  dbo:nationality
+
+appear_on
+(5)  dbo:occupation
+(2)  dbo:stateOfOrigin
 
 appoint
 (17)  dbp:title
@@ -167,6 +193,7 @@ apprentice_druggist
 
 arrive_in
 (2)  dbo:deathPlace
+(2)  dbo:nationality
 (2)  dbp:predecessor
 
 assassinate_in
@@ -234,12 +261,45 @@ be_perhaps
 (2)  dbo:residence
 (2)  dbp:title
 
+bear_11
+(2)  dbo:birthPlace
+(2)  dbo:occupation
+
+bear_12
+(2)  dbo:birthPlace
+(2)  dbo:occupation
+
+bear_16
+(3)  dbo:country
+
 bear_18
+(3)  dbo:birthPlace
 (2)  dbo:nationality
 (2)  dbo:residence
 
+bear_2
+(2)  dbo:birthPlace
+(2)  dbo:occupation
+
+bear_20
+(2)  dbo:birthPlace
+
+bear_25
+(2)  dbo:birthPlace
+(2)  dbo:country
+
+bear_3
+(2)  dbo:occupation
+
 bear_4
+(3)  dbo:birthPlace
 (2)  dbo:residence
+
+bear_5
+(2)  dbo:birthPlace
+
+bear_april
+(2)  dbo:birthPlace
 
 bear_at
 (18)  dbo:birthPlace
@@ -251,6 +311,9 @@ bear_august
 bear_currently
 (2)  dbo:residence
 
+bear_die
+(2)  dbo:deathPlace
+
 bear_educate
 (2)  dbo:birthPlace
 
@@ -258,16 +321,16 @@ bear_february
 (2)  dbo:birthPlace
 
 bear_in
-(404)  dbo:birthPlace
+(437)  dbo:birthPlace
 (92)  dbo:deathPlace
 (31)  dbo:residence
+(10)  dbo:country
 (9)  dbo:nationality
 (9)  dbp:title
-(8)  dbo:country
 (7)  dbo:party
 (6)  dbo:region
 (6)  dbo:restingPlace
-(2)  dbp:education
+(6)  dbp:birthPlace
 
 bear_into
 (2)  dbo:birthPlace
@@ -275,6 +338,9 @@ bear_into
 
 bear_joanne
 (2)  dbo:residence
+
+bear_july
+(2)  dbo:birthPlace
 
 bear_june
 (2)  dbo:birthPlace
@@ -284,19 +350,26 @@ bear_june
 bear_march
 (2)  dbp:stateSenate
 
+bear_margaret
+(2)  dbo:country
+
 bear_may
 (2)  dbo:birthPlace
 
 bear_near
 (2)  dbo:birthPlace
 
+bear_november
+(2)  dbo:birthPlace
+
 bear_october
 (2)  dbp:stateSenate
 
 bear_on
-(17)  dbo:birthPlace
+(18)  dbo:birthPlace
 (4)  dbo:deathPlace
 (4)  dbo:residence
+(2)  dbo:country
 (2)  dbo:restingPlace
 
 bear_raise
@@ -308,7 +381,7 @@ bear_robert
 (2)  dbo:deathPlace
 
 bear_to
-(6)  dbo:birthPlace
+(7)  dbo:birthPlace
 (2)  dbo:residence
 
 beat_out
@@ -361,11 +434,12 @@ become_fellow
 
 become_first
 (5)  dbo:residence
-(3)  dbo:birthPlace
+(4)  dbo:birthPlace
+(3)  dbo:country
 (3)  dbp:title
-(2)  dbo:country
 (2)  dbo:deathPlace
 (2)  dbo:party
+(2)  dbp:birthPlace
 
 become_involve
 (5)  dbo:country
@@ -410,7 +484,7 @@ become_trustee
 (2)  dbo:residence
 
 become_young
-(2)  dbo:birthPlace
+(3)  dbo:birthPlace
 
 begin_date
 (2)  dbo:deathPlace
@@ -418,6 +492,7 @@ begin_date
 begin_his
 (4)  dbo:deathPlace
 (4)  dbo:residence
+(2)  dbo:birthPlace
 (2)  dbo:region
 (2)  dbo:restingPlace
 
@@ -436,9 +511,11 @@ berkeley_californi
 (2)  dbo:residence
 
 best_know
-(2)  dbo:occupation
+(5)  dbo:occupation
+(3)  dbo:nationality
 (2)  dbo:party
 (2)  dbo:residence
+(2)  dbp:deathPlace
 (2)  dbp:title
 
 best_remember
@@ -460,6 +537,9 @@ briefly_serve
 (3)  dbo:party
 (2)  dbo:deathPlace
 (2)  dbp:stateSenate
+
+british
+(8)  dbo:occupation
 
 brother_of
 (2)  dbo:party
@@ -557,6 +637,7 @@ chief_of
 (2)  dbo:nationality
 
 chinese_pinyin
+(2)  dbp:birthPlace
 (2)  dbp:occupation
 
 choose_to
@@ -587,10 +668,10 @@ come_out
 
 come_to
 (9)  dbo:residence
+(6)  dbo:deathPlace
 (5)  dbo:restingPlace
-(4)  dbo:deathPlace
+(3)  dbo:birthPlace
 (3)  dbp:title
-(2)  dbo:birthPlace
 (2)  dbp:parliament
 
 committed_suicide
@@ -615,6 +696,9 @@ conservative_member
 
 consider_mentor
 (2)  dbo:deathPlace
+
+consider_one
+(2)  dbo:birthPlace
 
 consider_to
 (5)  dbo:deathPlace
@@ -673,7 +757,9 @@ create_baronet
 (2)  dbp:title
 
 credit_with
+(2)  dbo:birthPlace
 (2)  dbo:deathPlace
+(2)  dbp:birthPlace
 
 criticise
 (2)  dbo:primeMinister
@@ -745,6 +831,9 @@ currently_work
 currently_young
 (2)  dbo:residence
 (2)  dbp:stateSenate
+
+daughter_of
+(2)  dbo:country
 
 deacon_of
 (2)  dbo:residence
@@ -879,13 +968,14 @@ die_at
 (2)  dbo:stateOfOrigin
 
 die_in
-(108)  dbo:deathPlace
+(115)  dbo:deathPlace
 (19)  dbo:residence
 (15)  dbo:birthPlace
 (5)  dbo:nationality
 (5)  dbo:restingPlace
 (3)  dbo:country
 (3)  dbp:title
+(2)  dbp:deathPlace
 
 die_may
 (2)  dbo:residence
@@ -896,9 +986,10 @@ die_november
 die_of
 (10)  dbo:deathPlace
 (3)  dbo:country
+(2)  dbo:deathCause
 
 die_on
-(23)  dbo:deathPlace
+(26)  dbo:deathPlace
 (2)  dbo:birthPlace
 (2)  dbo:residence
 (2)  dbp:title
@@ -949,8 +1040,8 @@ earn_his
 (2)  dbo:deathPlace
 
 educate_at
-(19)  dbo:birthPlace
-(19)  dbo:country
+(22)  dbo:country
+(21)  dbo:birthPlace
 (18)  dbo:almaMater
 (2)  dbo:occupation
 (2)  dbo:residence
@@ -1067,6 +1158,7 @@ elect_on
 
 elect_one
 (3)  dbo:country
+(2)  dbp:birthPlace
 
 elect_president
 (4)  dbo:birthPlace
@@ -1111,6 +1203,9 @@ elect_vice
 elude_imprisonment
 (2)  dbo:restingPlace
 
+emigrate_to
+(2)  dbo:deathPlace
+
 employ_associate
 (2)  dbo:profession
 
@@ -1121,6 +1216,9 @@ employ_by
 
 enact
 (2)  dbp:state
+
+end_his
+(2)  dbo:stateOfOrigin
 
 endorse
 (3)  dbo:party
@@ -1136,12 +1234,18 @@ engage_in
 engineer_with
 (2)  dbo:residence
 
+english
+(4)  dbo:occupation
+
 enlist_in
 (2)  dbo:country
 
 enter
 (3)  dbo:country
+(2)  dbo:birthPlace
 (2)  dbo:occupation
+(2)  dbp:birthPlace
+(2)  dbp:deathPlace
 (2)  dbp:honorificSuffix
 
 enter_house
@@ -1276,6 +1380,7 @@ first_enter
 (2)  dbo:region
 
 first_female
+(2)  dbp:birthPlace
 (2)  dbp:title
 
 first_join
@@ -1395,6 +1500,9 @@ from
 (4)  dbo:birthPlace
 (4)  dbo:party
 
+gain_fame
+(2)  dbo:country
+
 garner
 (2)  dbo:birthPlace
 
@@ -1410,8 +1518,8 @@ go_on
 (2)  dbp:state
 
 go_to
-(3)  dbo:birthPlace
-(3)  dbo:country
+(4)  dbo:birthPlace
+(4)  dbo:country
 (3)  dbo:residence
 (2)  dbo:nationality
 
@@ -1443,6 +1551,7 @@ graduate_from
 (3)  dbo:region
 (2)  dbo:nationality
 (2)  dbo:relation
+(2)  dbp:birthPlace
 
 graduate_in
 (3)  dbo:almaMater
@@ -1536,6 +1645,9 @@ hold
 
 hold_degree
 (4)  dbo:residence
+
+hold_miss
+(2)  dbp:birthPlace
 
 hold_number
 (2)  dbo:deathPlace
@@ -1643,7 +1755,7 @@ introduce
 (2)  dbo:residence
 
 involve_in
-(5)  dbo:country
+(7)  dbo:country
 (2)  dbo:deathPlace
 
 issue_challenge
@@ -1704,6 +1816,9 @@ know_for
 (2)  dbo:party
 (2)  dbo:region
 
+koonying_august
+(2)  dbp:deathPlace
+
 labour_member
 (15)  dbo:country
 
@@ -1714,13 +1829,20 @@ last
 last_colonial
 (2)  dbp:title
 
+later_appear
+(2)  dbo:deathPlace
+
 later_attend
 (2)  dbo:almaMater
 (2)  dbo:residence
 
 later_become
 (3)  dbo:party
+(2)  dbo:birthPlace
 (2)  dbp:title
+
+later_earn
+(2)  dbo:deathPlace
 
 later_join
 (4)  dbo:party
@@ -1867,9 +1989,17 @@ make
 (4)  dbp:honorificSuffix
 (3)  dbp:title
 
-make_his
-(2)  dbo:country
+make_1
+(2)  dbo:deathPlace
+
+make_appearance
 (2)  dbo:occupation
+
+make_his
+(6)  dbo:occupation
+(5)  dbo:birthPlace
+(2)  dbo:country
+(2)  dbp:birthPlace
 
 make_officer
 (2)  dbo:party
@@ -1907,15 +2037,20 @@ marry
 (4)  dbo:spouse
 (3)  dbp:predecessor
 (2)  dbo:party
+(2)  dbp:birthPlace
 
 marry_to
-(7)  dbo:spouse
+(13)  dbo:spouse
+(4)  dbo:birthPlace
 (4)  dbo:region
-(3)  dbo:birthPlace
+(3)  dbo:occupation
 (3)  dbo:party
 (3)  dbo:residence
 (2)  dbp:leader
 (2)  dbp:spouse
+
+marry_with
+(2)  dbo:country
 
 mayor_of
 (11)  dbo:birthPlace
@@ -1925,7 +2060,7 @@ mayor_of
 (2)  dbo:region
 
 meet
-(2)  dbo:spouse
+(3)  dbo:spouse
 
 member
 (9)  dbo:birthPlace
@@ -1948,7 +2083,7 @@ member_of
 (288)  dbo:party
 (93)  dbo:residence
 (81)  dbo:birthPlace
-(79)  dbo:country
+(81)  dbo:country
 (51)  dbo:deathPlace
 (29)  dbo:nationality
 (28)  dbp:stateSenate
@@ -1997,6 +2132,9 @@ mla_from
 (2)  dbo:birthPlace
 (2)  dbo:residence
 
+mother_of
+(2)  dbo:child
+
 move_back
 (4)  dbo:residence
 (2)  dbo:birthPlace
@@ -2008,14 +2146,14 @@ move_from
 move_to
 (32)  dbo:deathPlace
 (27)  dbo:residence
-(16)  dbo:country
+(18)  dbo:country
 (15)  dbo:restingPlace
 (12)  dbp:title
 (6)  dbo:party
+(5)  dbo:birthPlace
 (5)  dbo:region
-(4)  dbo:birthPlace
 (2)  dbo:nationality
-(2)  dbp:deathPlace
+(2)  dbp:birthPlace
 
 move_with
 (2)  dbo:deathPlace
@@ -2092,6 +2230,9 @@ obtain_degree
 offer_cabinet
 (2)  dbp:title
 
+often_work
+(2)  dbo:occupation
+
 old
 (2)  dbp:predecessor
 
@@ -2112,13 +2253,14 @@ one_lay
 one_of
 (30)  dbo:party
 (18)  dbo:residence
-(8)  dbo:deathPlace
-(7)  dbo:birthPlace
+(11)  dbo:deathPlace
+(8)  dbo:birthPlace
+(5)  dbo:nationality
 (5)  dbp:title
 (3)  dbo:restingPlace
 (3)  dbp:stateHouse
-(2)  dbo:nationality
-(2)  dbp:stateSenate
+(2)  dbo:country
+(2)  dbp:birthPlace
 
 open_general
 (2)  dbo:deathPlace
@@ -2147,7 +2289,7 @@ originally_elect
 (2)  dbo:region
 
 originally_from
-(4)  dbo:birthPlace
+(5)  dbo:birthPlace
 
 outspoken
 (3)  dbp:state
@@ -2211,6 +2353,9 @@ play_important
 play_prominent
 (2)  dbo:deathPlace
 
+play_role
+(2)  dbo:deathPlace
+
 play_significant
 (2)  dbo:nationality
 (2)  dbo:residence
@@ -2221,6 +2366,9 @@ play_with
 
 poll_2
 (2)  dbp:title
+
+popular_television
+(2)  dbp:birthPlace
 
 practice_dentist
 (2)  dbp:stateSenate
@@ -2429,6 +2577,9 @@ refuse_order
 refuse_to
 (2)  dbo:primeMinister
 
+register_nurse
+(2)  dbp:birthPlace
+
 rehabilitate_by
 (2)  dbo:party
 
@@ -2465,7 +2616,7 @@ represent
 (168)  dbp:title
 (112)  dbo:region
 (79)  dbo:residence
-(55)  dbo:birthPlace
+(56)  dbo:birthPlace
 (49)  dbo:deathPlace
 (46)  dbp:electorate
 (17)  dbo:party
@@ -2703,6 +2854,7 @@ reside_at
 
 reside_in
 (6)  dbo:residence
+(2)  dbo:birthPlace
 
 resident_of
 (2)  dbp:title
@@ -2752,7 +2904,7 @@ retire
 (2)  dbp:honorificPrefix
 
 retire_from
-(6)  dbo:country
+(7)  dbo:country
 (5)  dbo:successor
 (4)  dbo:nationality
 (2)  dbo:deathPlace
@@ -2762,6 +2914,7 @@ retire_from
 retire_in
 (4)  dbo:party
 (2)  dbo:birthPlace
+(2)  dbo:deathPlace
 (2)  dbo:nationality
 (2)  dbo:residence
 (2)  dbo:successor
@@ -2788,6 +2941,9 @@ return_to
 
 rival_his
 (2)  dbo:residence
+
+role_in
+(2)  dbo:occupation
 
 royalist_in
 (2)  dbo:deathPlace
@@ -2848,6 +3004,10 @@ secretary_general
 
 secretary_of
 (6)  dbo:party
+
+see_elizabeth
+(2)  dbo:nationality
+(2)  dbo:stateOfOrigin
 
 see_possible
 (2)  dbp:successor
@@ -3045,11 +3205,11 @@ serve_human
 (2)  dbo:residence
 
 serve_in
-(61)  dbo:country
+(63)  dbo:country
 (52)  dbo:party
-(28)  dbo:deathPlace
+(31)  dbo:deathPlace
+(25)  dbo:birthPlace
 (25)  dbp:stateSenate
-(24)  dbo:birthPlace
 (23)  dbp:stateHouse
 (21)  dbo:residence
 (14)  dbo:region
@@ -3275,7 +3435,7 @@ son_of
 (4)  dbo:deathPlace
 (4)  dbo:restingPlace
 (3)  dbo:country
-(3)  dbp:after
+(3)  dbo:occupation
 
 special_constable
 (2)  dbo:deathPlace
@@ -3317,6 +3477,12 @@ stand_unsuccessfully
 (4)  dbo:country
 (3)  dbo:party
 
+star_in
+(5)  dbo:country
+(2)  dbo:nationality
+(2)  dbo:stateOfOrigin
+(2)  dbp:occupation
+
 start_his
 (3)  dbo:party
 
@@ -3348,9 +3514,12 @@ student_of
 (2)  dbp:citizenship
 
 study_at
+(6)  dbo:nationality
 (4)  dbo:almaMater
-(2)  dbo:country
+(3)  dbo:birthPlace
+(3)  dbo:country
 (2)  dbo:party
+(2)  dbo:stateOfOrigin
 
 study_for
 (2)  dbo:deathPlace
@@ -3468,6 +3637,10 @@ to_contend
 to_step
 (2)  dbo:deathPlace
 
+train_at
+(2)  dbo:birthPlace
+(2)  dbo:occupation
+
 transfer_with
 (2)  dbo:residence
 
@@ -3499,6 +3672,9 @@ ultimately_unsuccessful
 
 unable_to
 (2)  dbp:successor
+
+under_contract
+(3)  dbp:birthPlace
 
 undertake_threemonthlong
 (2)  dbo:deathPlace
@@ -3551,6 +3727,9 @@ victory_in
 visit
 (2)  dbo:deathPlace
 
+voice_major
+(2)  dbo:country
+
 vote_against
 (2)  dbo:residence
 
@@ -3590,6 +3769,11 @@ win
 (2)  dbo:birthPlace
 (2)  dbp:predecessor
 
+win_award
+(3)  dbo:occupation
+(2)  dbo:birthPlace
+(2)  dbp:birthPlace
+
 win_baffin
 (2)  dbp:predecessor
 
@@ -3600,8 +3784,15 @@ win_election
 (2)  dbp:stateHouse
 (2)  dbp:title
 
+win_good
+(2)  dbp:birthPlace
+
 win_indian
 (15)  dbo:party
+
+win_miss
+(2)  dbp:birthPlace
+(2)  dbp:origin
 
 win_renomination
 (2)  dbp:after
@@ -3615,9 +3806,16 @@ win_seat
 (3)  dbp:predecessor
 (2)  dbo:residence
 
+win_title
+(2)  dbp:origin
+
 win_ward
 (2)  dbo:birthPlace
 (2)  dbp:birthPlace
+
+winner_of
+(4)  dbp:birthPlace
+(2)  dbo:birthPlace
 
 wish_to
 (2)  dbp:title
@@ -3634,8 +3832,9 @@ work
 (2)  dbp:title
 
 work_at
+(4)  dbo:deathPlace
+(2)  dbo:birthPlace
 (2)  dbo:country
-(2)  dbo:deathPlace
 
 work_for
 (5)  dbo:party
@@ -3668,6 +3867,9 @@ work_with
 (2)  dbo:birthPlace
 (2)  dbo:deathPlace
 
+works
+(2)  dbo:occupation
+
 would_face
 (2)  dbo:residence
 
@@ -3694,6 +3896,9 @@ write_life
 
 write_theatre
 (2)  dbo:deathPlace
+
+yeow_nam
+(2)  dbo:occupation
 
 young
 (2)  dbo:birthPlace

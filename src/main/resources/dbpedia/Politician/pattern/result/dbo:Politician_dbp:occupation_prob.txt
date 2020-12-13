@@ -1,6 +1,6 @@
-id=51  property=dbp:occupation  
-serve  RB_VBN  multiply=0.054257  P(serve|dbp:occupation)=0.185837  P(dbp:occupation|serve)=0.291961    
-serve_in  VBN_IN  multiply=0.032565  P(serve_in|dbp:occupation)=0.097421  P(dbp:occupation|serve_in)=0.33427    
-elect  VBN  multiply=0.011584  P(elect|dbp:occupation)=0.088825  P(dbp:occupation|elect)=0.130409    
-former  RB_JJ  multiply=0.002791  P(former|dbp:occupation)=0.011461  P(dbp:occupation|former)=0.243478    
+id=53  property=dbp:occupation  
+serve  RB_VBN  multiply=0.053007  P(serve|dbp:occupation)=0.181855  P(dbp:occupation|serve)=0.29148    
+serve_in  VBN_IN  multiply=0.03193  P(serve_in|dbp:occupation)=0.095524  P(dbp:occupation|serve_in)=0.334266    
+elect  VBN  multiply=0.011297  P(elect|dbp:occupation)=0.086731  P(dbp:occupation|elect)=0.130252    
+former  RB_JJ  multiply=0.002873  P(former|dbp:occupation)=0.011591  P(dbp:occupation|former)=0.247863    
 

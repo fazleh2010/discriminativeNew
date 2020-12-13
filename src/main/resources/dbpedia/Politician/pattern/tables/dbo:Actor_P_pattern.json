@@ -1,0 +1,2045 @@
+[ {
+  "entityIndex" : "entity14238",
+  "entityUrl" : "http://dbpedia.org/resource/Pippa_Haywood",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pippa_Haywood) dbo:birthDate o'<1961-05-06>",
+    "2" : "s(Pippa_Haywood) dbo:birthDate o'<1961-5-6>",
+    "3" : "s(Pippa_Haywood) dbo:birthPlace o'<England>",
+    "4" : "s(Pippa_Haywood) dbo:birthPlace o'<Hatfield,_Hertfordshire>",
+    "5" : "s(Pippa_Haywood) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14239",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Palmade",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Palmade) dbo:birthDate o'<1968-03-23>",
+    "2" : "s(Pierre_Palmade) dbo:birthDate o'<1968-3-23>",
+    "3" : "s(Pierre_Palmade) dbo:birthPlace o'<Bordeaux>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14240",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Wong_(musician)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Wong_(musician)) dbo:birthDate o'<1964-3-31>",
+    "2" : "s(Paul_Wong_(musician)) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Paul_Wong_(musician)) dbp:birthPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14241",
+  "entityUrl" : "http://dbpedia.org/resource/Patty_Hou",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patty_Hou) dbo:birthDate o'<1977-12-20>",
+    "2" : "s(Patty_Hou) dbp:birthPlace o'<Taiwan>",
+    "3" : "s(Patty_Hou) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14242",
+  "entityUrl" : "http://dbpedia.org/resource/Philippe_Volter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philippe_Volter) dbo:birthDate o'<1959-03-23>",
+    "2" : "s(Philippe_Volter) dbo:birthDate o'<1959-3-23>",
+    "3" : "s(Philippe_Volter) dbo:birthPlace o'<Belgium>",
+    "4" : "s(Philippe_Volter) dbo:birthPlace o'<Uccle>",
+    "5" : "s(Philippe_Volter) dbo:deathDate o'<2005-04-13>",
+    "6" : "s(Philippe_Volter) dbo:deathDate o'<2005-4-13>",
+    "7" : "s(Philippe_Volter) dbo:deathPlace o'<Paris>",
+    "8" : "s(Philippe_Volter) dbo:deathPlace o'<Paris,_France>",
+    "9" : "s(Philippe_Volter) dbp:name o'<Philippe Volter>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14243",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Chesnais",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Chesnais) dbo:birthDate o'<1947-03-18>",
+    "2" : "s(Patrick_Chesnais) dbo:birthDate o'<1947-3-18>",
+    "3" : "s(Patrick_Chesnais) dbo:birthPlace o'<Hauts-de-Seine>",
+    "4" : "s(Patrick_Chesnais) dbo:birthPlace o'<La_Garenne-Colombes>",
+    "5" : "s(Patrick_Chesnais) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14244",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Latham",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Latham) dbo:activeYearsEndYear o'<1990>",
+    "2" : "s(Philip_Latham) dbo:activeYearsStartYear o'<1955>",
+    "3" : "s(Philip_Latham) dbo:birthDate o'<1929-01-17>",
+    "4" : "s(Philip_Latham) dbo:birthDate o'<1929-2-17>",
+    "5" : "s(Philip_Latham) dbo:birthName o'<Charles Philip Latham>",
+    "6" : "s(Philip_Latham) dbo:birthPlace o'<Essex>",
+    "7" : "s(Philip_Latham) dbo:birthYear o'<1929>",
+    "8" : "s(Philip_Latham) dbo:country o'<England>",
+    "9" : "s(Philip_Latham) dbo:imdbId o'<0490108>",
+    "10" : "s(Philip_Latham) dbp:name o'<Philip Latham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14245",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Maynard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patricia_Maynard) dbo:activeYearsEndYear o'<2005>",
+    "2" : "s(Patricia_Maynard) dbo:activeYearsStartYear o'<1964>",
+    "3" : "s(Patricia_Maynard) dbo:birthDate o'<1942-02-16>",
+    "4" : "s(Patricia_Maynard) dbo:birthDate o'<1942-2-16>",
+    "5" : "s(Patricia_Maynard) dbo:birthPlace o'<England>",
+    "6" : "s(Patricia_Maynard) dbo:birthPlace o'<Sheffield>",
+    "7" : "s(Patricia_Maynard) dbo:birthPlace o'<South_Yorkshire>",
+    "8" : "s(Patricia_Maynard) dbo:birthPlace o'<Beighton_ward,_Sheffield>",
+    "9" : "s(Patricia_Maynard) dbo:birthPlace o'<Beighton>",
+    "10" : "s(Patricia_Maynard) dbo:birthYear o'<1942>",
+    "11" : "s(Patricia_Maynard) dbo:child o'<Hannah_Waterman>",
+    "12" : "s(Patricia_Maynard) dbo:country o'<England>",
+    "13" : "s(Patricia_Maynard) dbo:imdbId o'<0562781>",
+    "14" : "s(Patricia_Maynard) dbo:occupation o'<Songwriter>",
+    "15" : "s(Patricia_Maynard) dbo:occupation o'<Actress>",
+    "16" : "s(Patricia_Maynard) dbo:occupation o'<Patricia_Maynard__1>",
+    "17" : "s(Patricia_Maynard) dbo:spouse o'<Dennis_Waterman>",
+    "18" : "s(Patricia_Maynard) dbp:name o'<Patricia Maynard>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(patricia maynard=Patricia_Maynard) [born 16 february 1942 ] o'<british actress=England>",
+    "2" : "s(patricia maynard=Patricia_Maynard) [second wife of ] o'<actor=Actress>",
+    "3" : "s(patricia maynard=Patricia_Maynard) [married to jeremy ] o'<south=South_Yorkshire>"
+  },
+  "abstract" : {
+    "1" : "patricia maynard<Patricia_Maynard> (born 16 february 1942) is a british actress<England>",
+    "2" : "patricia maynard<Patricia_Maynard> was the second wife of actor<Actress> dennis waterman<Dennis_Waterman>, and they have two daughters, one of whom is the actress<Actress> hannah waterman<Hannah_Waterman>\n",
+    "3" : "patricia maynard<Patricia_Maynard> is now married to jeremy griggs, a circuit judge in the south<South_Yorkshire> west of england<England>\n"
+  }
+}, {
+  "entityIndex" : "entity14246",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Tam_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Tam_(actor)) dbo:birthDate o'<1969-3-19>",
+    "2" : "s(Patrick_Tam_(actor)) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Patrick_Tam_(actor)) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Patrick_Tam_(actor)) dbp:name o'<Patrick Tam Yiu Man>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14247",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Brake",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patricia_Brake) dbo:activeYearsStartYear o'<1960>",
+    "2" : "s(Patricia_Brake) dbo:birthDate o'<1942-06-25>",
+    "3" : "s(Patricia_Brake) dbo:birthDate o'<1942-6-25>",
+    "4" : "s(Patricia_Brake) dbo:birthName o'<Patricia Ann Brake>",
+    "5" : "s(Patricia_Brake) dbo:birthPlace o'<Bath,_Somerset>",
+    "6" : "s(Patricia_Brake) dbo:birthPlace o'<Somerset>",
+    "7" : "s(Patricia_Brake) dbo:birthYear o'<1942>",
+    "8" : "s(Patricia_Brake) dbo:country o'<United_Kingdom>",
+    "9" : "s(Patricia_Brake) dbo:imdbId o'<0104113>",
+    "10" : "s(Patricia_Brake) dbo:occupation o'<Patricia_Brake__1>",
+    "11" : "s(Patricia_Brake) dbp:name o'<Patricia Brake>",
+    "12" : "s(Patricia_Brake) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(patricia brake=Patricia_Brake) [appeared ] o'<the uk=United_Kingdom>"
+  },
+  "abstract" : {
+    "4" : "alongside her extensive body of work in west end theatres, patricia brake<Patricia_Brake> has not only appeared as major characters in all the uk<United_Kingdom> soaps, such as viv baldwin in itv's coronation street, but has played opposite many british comic actors in numerous situation comedies and one-off plays\n"
+  }
+}, {
+  "entityIndex" : "entity14248",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Tse",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Tse) dbo:birthDate o'<1936-8-9>",
+    "2" : "s(Patrick_Tse) dbo:birthPlace o'<Guangdong>",
+    "3" : "s(Patrick_Tse) dbp:birthPlace o'<Guangzhou, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14249",
+  "entityUrl" : "http://dbpedia.org/resource/Patric_Doonan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patric_Doonan) dbo:birthDate o'<1925-4-18>",
+    "2" : "s(Patric_Doonan) dbo:birthPlace o'<Derby>",
+    "3" : "s(Patric_Doonan) dbo:country o'<England>",
+    "4" : "s(Patric_Doonan) dbo:deathDate o'<1958-3-10>",
+    "5" : "s(Patric_Doonan) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(patric doonan=Patric_Doonan) [appeared in the mousetrap at ] o'<london=LONDON>"
+  },
+  "abstract" : {
+    "4" : "in 1956 patric doonan<Patric_Doonan> appeared in \"the mousetrap\" at the ambassadors theatre in london<LONDON>\n"
+  }
+}, {
+  "entityIndex" : "entity14250",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Swanwick",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Swanwick) dbo:birthDate o'<1922-9-29>",
+    "2" : "s(Peter_Swanwick) dbo:birthPlace o'<England>",
+    "3" : "s(Peter_Swanwick) dbo:birthPlace o'<Nottingham>",
+    "4" : "s(Peter_Swanwick) dbo:birthPlace o'<Nottinghamshire>",
+    "5" : "s(Peter_Swanwick) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "6" : "s(Peter_Swanwick) dbo:deathDate o'<1968-11-14>",
+    "7" : "s(Peter_Swanwick) dbo:deathPlace o'<UK>",
+    "8" : "s(Peter_Swanwick) dbo:deathPlace o'<England>",
+    "9" : "s(Peter_Swanwick) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14251",
+  "entityUrl" : "http://dbpedia.org/resource/Papaya_Suzuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Papaya_Suzuki) dbo:birthDate o'<1966-1-1>",
+    "2" : "s(Papaya_Suzuki) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14252",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Perski",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Perski) dbo:birthDate o'<1970-1-6>",
+    "2" : "s(Peter_Perski) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Peter_Perski) dbp:name o'<Peter Perski>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14253",
+  "entityUrl" : "http://dbpedia.org/resource/Per-Axel_Arosenius",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Per-Axel_Arosenius) dbo:birthDate o'<1920-11-07>",
+    "2" : "s(Per-Axel_Arosenius) dbo:birthDate o'<1920-11-7>",
+    "3" : "s(Per-Axel_Arosenius) dbo:birthName o'<Per-Axel Daniel Rank Arosenius>",
+    "4" : "s(Per-Axel_Arosenius) dbo:birthYear o'<1920>",
+    "5" : "s(Per-Axel_Arosenius) dbo:deathCause o'<Self-immolation>",
+    "6" : "s(Per-Axel_Arosenius) dbo:deathDate o'<1981-03-21>",
+    "7" : "s(Per-Axel_Arosenius) dbo:deathDate o'<1981-3-21>",
+    "8" : "s(Per-Axel_Arosenius) dbo:deathPlace o'<Nacka>",
+    "9" : "s(Per-Axel_Arosenius) dbo:deathPlace o'<Sweden>",
+    "10" : "s(Per-Axel_Arosenius) dbo:deathYear o'<1981>",
+    "11" : "s(Per-Axel_Arosenius) dbo:nationality o'<Sweden>",
+    "12" : "s(Per-Axel_Arosenius) dbo:occupation o'<Per-Axel_Arosenius__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14254",
+  "entityUrl" : "http://dbpedia.org/resource/Penelope_Dudley-Ward",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Penelope_Dudley-Ward) dbo:birthDate o'<1914-08-04>",
+    "2" : "s(Penelope_Dudley-Ward) dbo:birthDate o'<1914-8-4>",
+    "3" : "s(Penelope_Dudley-Ward) dbo:birthPlace o'<England>",
+    "4" : "s(Penelope_Dudley-Ward) dbo:birthPlace o'<London>",
+    "5" : "s(Penelope_Dudley-Ward) dbo:deathDate o'<1982-01-22>",
+    "6" : "s(Penelope_Dudley-Ward) dbo:deathDate o'<1982-1-22>",
+    "7" : "s(Penelope_Dudley-Ward) dbo:deathPlace o'<England>",
+    "8" : "s(Penelope_Dudley-Ward) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14255",
+  "entityUrl" : "http://dbpedia.org/resource/Per_Eggers",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Per_Eggers) dbo:birthDate o'<1951-2-3>",
+    "2" : "s(Per_Eggers) dbp:name o'<Per Eggers>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14256",
+  "entityUrl" : "http://dbpedia.org/resource/Piers_Flint-Shipman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Piers_Flint-Shipman) dbo:birthDate o'<1962-01-23>",
+    "2" : "s(Piers_Flint-Shipman) dbo:birthDate o'<1962-1-23>",
+    "3" : "s(Piers_Flint-Shipman) dbo:birthName o'<Piers F. A. Flint-Shipman>",
+    "4" : "s(Piers_Flint-Shipman) dbo:birthYear o'<1962>",
+    "5" : "s(Piers_Flint-Shipman) dbo:country o'<England>",
+    "6" : "s(Piers_Flint-Shipman) dbo:deathDate o'<1984-06-02>",
+    "7" : "s(Piers_Flint-Shipman) dbo:deathDate o'<1984-6-2>",
+    "8" : "s(Piers_Flint-Shipman) dbo:deathPlace o'<France>",
+    "9" : "s(Piers_Flint-Shipman) dbo:deathYear o'<1984>",
+    "10" : "s(Piers_Flint-Shipman) dbo:imdbId o'<0018423>",
+    "11" : "s(Piers_Flint-Shipman) dbo:occupation o'<Piers_Flint-Shipman__1>",
+    "12" : "s(Piers_Flint-Shipman) dbo:occupation o'<Actor>",
+    "13" : "s(Piers_Flint-Shipman) dbp:name o'<Piers Flint-Shipman>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(piers flint-shipman=Piers_Flint-Shipman) [son of ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "2" : "piers flint-shipman<Piers_Flint-Shipman> was the son of film<Actor> producer gerald flint-shipman and was educated at eton college\n"
+  }
+}, {
+  "entityIndex" : "entity14257",
+  "entityUrl" : "http://dbpedia.org/resource/Philippe_Nahon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philippe_Nahon) dbo:birthDate o'<1938-12-24>",
+    "2" : "s(Philippe_Nahon) dbo:birthPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14258",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Dalle",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Dalle) dbo:birthDate o'<1956-12-05>",
+    "2" : "s(Peter_Dalle) dbo:birthDate o'<1956-12-5>",
+    "3" : "s(Peter_Dalle) dbo:birthPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14259",
+  "entityUrl" : "http://dbpedia.org/resource/Philippa_Urquhart",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philippa_Urquhart) dbo:birthPlace o'<Abadan,_Iran>",
+    "2" : "s(Philippa_Urquhart) dbp:name o'<Philippa Urquhart>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14260",
+  "entityUrl" : "http://dbpedia.org/resource/Primi_Townsend",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Primi_Townsend) dbo:activeYearsEndYear o'<1970>",
+    "2" : "s(Primi_Townsend) dbo:activeYearsStartYear o'<1970>",
+    "3" : "s(Primi_Townsend) dbo:birthDate o'<1951-3-2>",
+    "4" : "s(Primi_Townsend) dbo:birthYear o'<0002>",
+    "5" : "s(Primi_Townsend) dbo:country o'<United_Kingdom>",
+    "6" : "s(Primi_Townsend) dbo:imdbId o'<0870179>",
+    "7" : "s(Primi_Townsend) dbo:occupation o'<Primi_Townsend__1>",
+    "8" : "s(Primi_Townsend) dbo:occupation o'<Actor>",
+    "9" : "s(Primi_Townsend) dbp:name o'<Primi Townsend>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(primi townsend=Primi_Townsend) [born 2 march  ] o'<actress=Actor>",
+    "2" : "s(primi townsend=Primi_Townsend) [regular ] o'<cast=Actor>"
+  },
+  "abstract" : {
+    "1" : "primi townsend<Primi_Townsend> (born 2 march ) is a british actress<Actor>",
+    "2" : "primi townsend<Primi_Townsend> was a regular cast<Actor> member on the sitcom lame ducks and is also remembered for her role in the doctor who serial the pirate planet\n"
+  }
+}, {
+  "entityIndex" : "entity14261",
+  "entityUrl" : "http://dbpedia.org/resource/Prue_Clarke",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Prue_Clarke) dbo:country o'<United_Kingdom>",
+    "2" : "s(Prue_Clarke) dbo:imdbId o'<0164953>",
+    "3" : "s(Prue_Clarke) dbp:name o'<Prue Clarke>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14262",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Penry-Jones",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Penry-Jones) dbo:birthDate o'<1938-0-0>",
+    "2" : "s(Peter_Penry-Jones) dbo:birthPlace o'<Cardiff>",
+    "3" : "s(Peter_Penry-Jones) dbo:deathDate o'<2009-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14263",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Lindgren_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Lindgren_(actor)) dbo:birthDate o'<1915-12-13>",
+    "2" : "s(Peter_Lindgren_(actor)) dbo:birthName o'<Peter Edvin Lindgren>",
+    "3" : "s(Peter_Lindgren_(actor)) dbo:birthPlace o'<Lidingö>",
+    "4" : "s(Peter_Lindgren_(actor)) dbo:birthYear o'<1915>",
+    "5" : "s(Peter_Lindgren_(actor)) dbo:child o'<Monica_Nielsen>",
+    "6" : "s(Peter_Lindgren_(actor)) dbo:deathDate o'<1981-05-30>",
+    "7" : "s(Peter_Lindgren_(actor)) dbo:deathDate o'<1981-5-30>",
+    "8" : "s(Peter_Lindgren_(actor)) dbo:deathPlace o'<Stockholm>",
+    "9" : "s(Peter_Lindgren_(actor)) dbo:deathYear o'<1981>",
+    "10" : "s(Peter_Lindgren_(actor)) dbo:imdbId o'<0511856>",
+    "11" : "s(Peter_Lindgren_(actor)) dbo:nationality o'<Sweden>",
+    "12" : "s(Peter_Lindgren_(actor)) dbo:relative o'<Lars-Magnus_Lindgren>",
+    "13" : "s(Peter_Lindgren_(actor)) dbo:spouse o'<Marianne_Nielsen>",
+    "14" : "s(Peter_Lindgren_(actor)) dbo:stateOfOrigin o'<Sweden>",
+    "15" : "s(Peter_Lindgren_(actor)) dbp:name o'<Peter Lindgren>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(peter lindgren (actor)=Peter_Lindgren_(actor)) [father with actress ] o'<monica nielsen=Monica_Nielsen>"
+  },
+  "abstract" : {
+    "4" : "peter lindgren (actor)<Peter_Lindgren_(actor)> was the father (with actress marianne nielsen) of actress monica nielsen<Monica_Nielsen>\n"
+  }
+}, {
+  "entityIndex" : "entity14264",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Kennedy_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Kennedy_(actor)) dbo:birthDate o'<1977-08-26>",
+    "2" : "s(Patrick_Kennedy_(actor)) dbo:birthDate o'<1977-8-26>",
+    "3" : "s(Patrick_Kennedy_(actor)) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14265",
+  "entityUrl" : "http://dbpedia.org/resource/Pa_Neum%C3%BCller",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14266",
+  "entityUrl" : "http://dbpedia.org/resource/Petra_Hultgren",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Petra_Hultgren) dbo:birthDate o'<1972-4-21>",
+    "2" : "s(Petra_Hultgren) dbo:birthPlace o'<Värmdö_Municipality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14267",
+  "entityUrl" : "http://dbpedia.org/resource/Paula_Shaw",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paula_Shaw) dbo:birthDate o'<1941-07-17>",
+    "2" : "s(Paula_Shaw) dbo:birthDate o'<1941-7-17>",
+    "3" : "s(Paula_Shaw) dbo:birthPlace o'<The_Bronx>",
+    "4" : "s(Paula_Shaw) dbo:birthPlace o'<New_York_City>",
+    "5" : "s(Paula_Shaw) dbp:name o'<Paula Shaw>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14268",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Cl%C3%A9menti",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14269",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Bull",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Bull) dbo:birthDate o'<1912-03-21>",
+    "2" : "s(Peter_Bull) dbo:birthDate o'<1912-3-21>",
+    "3" : "s(Peter_Bull) dbo:birthPlace o'<England>",
+    "4" : "s(Peter_Bull) dbo:birthPlace o'<London>",
+    "5" : "s(Peter_Bull) dbo:deathDate o'<1984-05-20>",
+    "6" : "s(Peter_Bull) dbo:deathDate o'<1984-5-20>",
+    "7" : "s(Peter_Bull) dbo:deathPlace o'<England>",
+    "8" : "s(Peter_Bull) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14270",
+  "entityUrl" : "http://dbpedia.org/resource/Petra_Nielsen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Petra_Nielsen) dbo:birthDate o'<1965-2-1>",
+    "2" : "s(Petra_Nielsen) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Petra_Nielsen) dbo:imdbId o'<0630963>",
+    "4" : "s(Petra_Nielsen) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14271",
+  "entityUrl" : "http://dbpedia.org/resource/Pauline_Brailsford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pauline_Brailsford) dbo:birthDate o'<1928-12-7>",
+    "2" : "s(Pauline_Brailsford) dbo:birthPlace o'<United_Kingdom>",
+    "3" : "s(Pauline_Brailsford) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14272",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Shearer",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Shearer) dbo:country o'<United_Kingdom>",
+    "2" : "s(Paul_Shearer) dbo:imdbId o'<0790455>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14273",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Middlemiss",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Middlemiss) dbo:activeYearsEndYear o'<2008>",
+    "2" : "s(Philip_Middlemiss) dbo:activeYearsStartYear o'<1986>",
+    "3" : "s(Philip_Middlemiss) dbo:birthDate o'<1963-06-19>",
+    "4" : "s(Philip_Middlemiss) dbo:birthDate o'<1963-6-19>",
+    "5" : "s(Philip_Middlemiss) dbo:birthName o'<Philip Sean Middlemiss>",
+    "6" : "s(Philip_Middlemiss) dbo:birthPlace o'<Hartlepool>",
+    "7" : "s(Philip_Middlemiss) dbo:birthPlace o'<County_Durham>",
+    "8" : "s(Philip_Middlemiss) dbo:birthYear o'<1963>",
+    "9" : "s(Philip_Middlemiss) dbo:country o'<United_Kingdom>",
+    "10" : "s(Philip_Middlemiss) dbo:imdbId o'<0585463>",
+    "11" : "s(Philip_Middlemiss) dbo:occupation o'<Philip_Middlemiss__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14274",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Martin_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Martin_(actor)) dbo:birthDate o'<1934-0-0>",
+    "2" : "s(Peter_Martin_(actor)) dbo:birthPlace o'<Accrington>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14275",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Rogers_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Rogers_(actor)) dbo:birthDate o'<1917-03-22>",
+    "2" : "s(Paul_Rogers_(actor)) dbo:birthDate o'<1917-3-22>",
+    "3" : "s(Paul_Rogers_(actor)) dbo:birthPlace o'<Devon>",
+    "4" : "s(Paul_Rogers_(actor)) dbo:birthPlace o'<England>",
+    "5" : "s(Paul_Rogers_(actor)) dbo:birthPlace o'<Plympton>",
+    "6" : "s(Paul_Rogers_(actor)) dbo:deathDate o'<2013-10-06>",
+    "7" : "s(Paul_Rogers_(actor)) dbo:deathDate o'<2013-10-6>",
+    "8" : "s(Paul_Rogers_(actor)) dbo:deathPlace o'<England>",
+    "9" : "s(Paul_Rogers_(actor)) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14276",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Gibson-Howell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patricia_Gibson-Howell) dbo:birthDate o'<1966-0-0>",
+    "2" : "s(Patricia_Gibson-Howell) dbo:country o'<United_Kingdom>",
+    "3" : "s(Patricia_Gibson-Howell) dbo:imdbId o'<1821124>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14277",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Png",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Png) dbo:birthDate o'<1973-10-29>",
+    "2" : "s(Pierre_Png) dbp:birthPlace o'<Singapore>",
+    "3" : "s(Pierre_Png) dbp:name o'<Pierre Png>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14278",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Birch_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Birch_(actor)) dbo:country o'<United_Kingdom>",
+    "2" : "s(Peter_Birch_(actor)) dbo:imdbId o'<0083281>",
+    "3" : "s(Peter_Birch_(actor)) dbp:name o'<Peter Birch>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14279",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Boulanger",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Boulanger) dbo:birthDate o'<1987-08-08>",
+    "2" : "s(Pierre_Boulanger) dbo:birthDate o'<1987-8-8>",
+    "3" : "s(Pierre_Boulanger) dbo:birthPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14280",
+  "entityUrl" : "http://dbpedia.org/resource/Pat_Simmons_(voice_actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pat_Simmons_(voice_actor)) dbo:wikiPageRedirects o'<Pat_Simmons_(voice_actress)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14281",
+  "entityUrl" : "http://dbpedia.org/resource/Power_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Power_Chan) dbo:birthDate o'<1968-2-4>",
+    "2" : "s(Power_Chan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14282",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Frankeur",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Frankeur) dbo:birthDate o'<1905-06-29>",
+    "2" : "s(Paul_Frankeur) dbo:birthDate o'<1905-6-29>",
+    "3" : "s(Paul_Frankeur) dbo:birthPlace o'<Paris>",
+    "4" : "s(Paul_Frankeur) dbo:deathDate o'<1974-10-27>",
+    "5" : "s(Paul_Frankeur) dbo:deathPlace o'<Nevers>",
+    "6" : "s(Paul_Frankeur) dbo:deathPlace o'<Heart_attack>",
+    "7" : "s(Paul_Frankeur) dbp:birthPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14283",
+  "entityUrl" : "http://dbpedia.org/resource/Phil_McDermott",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Phil_McDermott) dbo:country o'<United_Kingdom>",
+    "2" : "s(Phil_McDermott) dbo:imdbId o'<0567568>",
+    "3" : "s(Phil_McDermott) dbo:knownFor o'<EastEnders>",
+    "4" : "s(Phil_McDermott) dbo:knownFor o'<Trevor_Short>",
+    "5" : "s(Phil_McDermott) dbo:occupation o'<Priest>",
+    "6" : "s(Phil_McDermott) dbo:occupation o'<Actor>",
+    "7" : "s(Phil_McDermott) dbo:occupation o'<Phil_McDermott__1>",
+    "8" : "s(Phil_McDermott) dbo:occupation o'<Carpenter>",
+    "9" : "s(Phil_McDermott) dbp:name o'<Phil McDermott>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(phil mcdermott=Phil_McDermott) [british ] o'<actor=Actor>",
+    "2" : "s(phil mcdermott=Phil_McDermott) [trainee ] o'<priest=Priest>",
+    "3" : "s(phil mcdermott=Phil_McDermott) [famous for playing ] o'<eastenders=EastEnders>",
+    "4" : "s(phil mcdermott=Phil_McDermott) [played dimwitted oddjob man ] o'<trevor short=Trevor_Short>"
+  },
+  "abstract" : {
+    "1" : "phil mcdermott<Phil_McDermott> is a british actor<Actor>",
+    "2" : "before turning to acting phil mcdermott<Phil_McDermott> was a trainee priest<Priest>, a scrap metal worker, a weighbridge operator and a carpenter<Carpenter>\n",
+    "3" : "phil mcdermott<Phil_McDermott> is most famous for playing a regular character in the bbc soap opera eastenders<EastEnders>\n",
+    "4" : "phil mcdermott<Phil_McDermott> played the dim-witted odd-job man, trevor short<Trevor_Short> from 1989-1990\n"
+  }
+}, {
+  "entityIndex" : "entity14284",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Merivale",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Merivale) dbo:birthDate o'<1886-11-2>",
+    "2" : "s(Philip_Merivale) dbo:deathDate o'<1946-3-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14285",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Cremin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Cremin) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14286",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Chequer",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Chequer) dbo:birthDate o'<1978-0-0>",
+    "2" : "s(Paul_Chequer) dbp:name o'<Paul Chequer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14287",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Whitbread__England-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Whitbread__England-actor-stub__1) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14288",
+  "entityUrl" : "http://dbpedia.org/resource/Pip_Torrens",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pip_Torrens) dbo:birthDate o'<1960-06-02>",
+    "2" : "s(Pip_Torrens) dbo:birthDate o'<1960-6-2>",
+    "3" : "s(Pip_Torrens) dbo:birthPlace o'<England>",
+    "4" : "s(Pip_Torrens) dbo:birthPlace o'<Kent>",
+    "5" : "s(Pip_Torrens) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Pip_Torrens) dbo:birthPlace o'<Bromley>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14289",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Harryson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Harryson) dbo:birthDate o'<1948-4-2>",
+    "2" : "s(Peter_Harryson) dbo:nationality o'<Sweden>",
+    "3" : "s(Peter_Harryson) dbp:date o'<August 2016>",
+    "4" : "s(Peter_Harryson) dbp:langcode o'<sv>",
+    "5" : "s(Peter_Harryson) dbp:otherarticle o'<Peter Harryson>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(peter harryson=Peter_Harryson) [worked extensively dubbing cartoons into ] o'<swedish=Sweden>"
+  },
+  "abstract" : {
+    "5" : "in the 1980s, peter harryson<Peter_Harryson> worked extensively, dubbing cartoons into swedish<Sweden>\n"
+  }
+}, {
+  "entityIndex" : "entity14290",
+  "entityUrl" : "http://dbpedia.org/resource/Philippe_Chevallier_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philippe_Chevallier_(actor)) dbo:birthDate o'<1956-01-11>",
+    "2" : "s(Philippe_Chevallier_(actor)) dbo:birthDate o'<1956-1-11>",
+    "3" : "s(Philippe_Chevallier_(actor)) dbo:birthPlace o'<Redon,_Ille-et-Vilaine>",
+    "4" : "s(Philippe_Chevallier_(actor)) dbo:birthPlace o'<Redon>",
+    "5" : "s(Philippe_Chevallier_(actor)) dbp:name o'<Philippe Chevallier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14291",
+  "entityUrl" : "http://dbpedia.org/resource/Pu_Cunxin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pu_Cunxin) dbo:birthDate o'<1953-7-31>",
+    "2" : "s(Pu_Cunxin) dbp:birthPlace o'<Beijing>",
+    "3" : "s(Pu_Cunxin) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14292",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Fox_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Fox_(actor)) dbo:activeYearsStartYear o'<1982>",
+    "2" : "s(Philip_Fox_(actor)) dbo:country o'<England>",
+    "3" : "s(Philip_Fox_(actor)) dbo:occupation o'<Actor>",
+    "4" : "s(Philip_Fox_(actor)) dbo:occupation o'<Philip_Fox_(actor)__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(philip fox (actor)=Philip_Fox_(actor)) [appeared in ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "3" : "philip fox (actor)<Philip_Fox_(actor)> also appeared in the film<Actor> venus alongside peter o'toole\n"
+  }
+}, {
+  "entityIndex" : "entity14293",
+  "entityUrl" : "http://dbpedia.org/resource/Pearce_Quigley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pearce_Quigley) dbo:birthPlace o'<UK>",
+    "2" : "s(Pearce_Quigley) dbo:birthPlace o'<England>",
+    "3" : "s(Pearce_Quigley) dbo:birthPlace o'<Salford,_Greater_Manchester>",
+    "4" : "s(Pearce_Quigley) dbo:country o'<England>",
+    "5" : "s(Pearce_Quigley) dbo:occupation o'<Pearce_Quigley__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(pearce quigley=Pearce_Quigley) [appeared dog trainer ] o'<britain's=UK>"
+  },
+  "abstract" : {
+    "5" : "12 october 2008, pearce quigley<Pearce_Quigley> appeared as the dog trainer in peter kay's britain's<UK> got the pop factor\n"
+  }
+}, {
+  "entityIndex" : "entity14294",
+  "entityUrl" : "http://dbpedia.org/resource/Phil_Rose",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Phil_Rose) dbo:birthDate o'<1952-5-2>",
+    "2" : "s(Phil_Rose) dbo:country o'<England>",
+    "3" : "s(Phil_Rose) dbo:imdbId o'<0741613>",
+    "4" : "s(Phil_Rose) dbp:name o'<Phil Rose>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14295",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Pr%C3%A9boist",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14296",
+  "entityUrl" : "http://dbpedia.org/resource/Pakho_Chau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pakho_Chau) dbo:birthDate o'<1984-11-12>",
+    "2" : "s(Pakho_Chau) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Pakho_Chau) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14297",
+  "entityUrl" : "http://dbpedia.org/resource/Phil_Mealey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Phil_Mealey) dbp:name o'<Phil Mealey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14298",
+  "entityUrl" : "http://dbpedia.org/resource/Pip_Carter",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14299",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Denyer",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Denyer) dbo:birthDate o'<1947-8-20>",
+    "2" : "s(Peter_Denyer) dbo:deathDate o'<2009-9-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14300",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Chesterton",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14301",
+  "entityUrl" : "http://dbpedia.org/resource/Pang_Ho-cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pang_Ho-cheung) dbo:birthDate o'<1973-9-22>",
+    "2" : "s(Pang_Ho-cheung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Pang_Ho-cheung) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14302",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Bazely",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Bazely) dbo:activeYearsStartYear o'<1991>",
+    "2" : "s(Paul_Bazely) dbo:country o'<United_Kingdom>",
+    "3" : "s(Paul_Bazely) dbo:knownFor o'<Benidorm>",
+    "4" : "s(Paul_Bazely) dbo:knownFor o'<Casualty_(TV_series)>",
+    "5" : "s(Paul_Bazely) dbo:occupation o'<Paul_Bazely__1>",
+    "6" : "s(Paul_Bazely) dbo:spouse o'<Charlotte_Jones_(writer)>",
+    "7" : "s(Paul_Bazely) dbp:children o'<2>",
+    "8" : "s(Paul_Bazely) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14303",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Madden_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Madden_(actor)) dbo:birthDate o'<1904-8-9>",
+    "2" : "s(Peter_Madden_(actor)) dbo:birthPlace o'<Ipoh>",
+    "3" : "s(Peter_Madden_(actor)) dbo:deathDate o'<1976-2-24>",
+    "4" : "s(Peter_Madden_(actor)) dbo:deathPlace o'<Bognor_Regis>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14304",
+  "entityUrl" : "http://dbpedia.org/resource/Pace_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pace_Wu) dbo:birthDate o'<1978-10-4>",
+    "2" : "s(Pace_Wu) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Pace_Wu) dbp:birthPlace o'<Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14305",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Ready",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Ready) dbo:birthPlace o'<Birmingham>",
+    "2" : "s(Paul_Ready) dbp:name o'<Paul Ready>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14306",
+  "entityUrl" : "http://dbpedia.org/resource/Pai_Ping-ping",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pai_Ping-ping) dbo:birthDate o'<1955-5-17>",
+    "2" : "s(Pai_Ping-ping) dbp:birthPlace o'<Keelung>",
+    "3" : "s(Pai_Ping-ping) dbp:birthPlace o'<Taiwan_Province>",
+    "4" : "s(Pai_Ping-ping) dbp:birthPlace o'<Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14307",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Bellemare",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Bellemare) dbo:birthDate o'<1929-10-21>",
+    "2" : "s(Pierre_Bellemare) dbo:birthPlace o'<Boulogne-Billancourt>",
+    "3" : "s(Pierre_Bellemare) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14308",
+  "entityUrl" : "http://dbpedia.org/resource/Priscelia_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Priscelia_Chan) dbo:activeYearsStartYear o'<1999>",
+    "2" : "s(Priscelia_Chan) dbo:alias o'<Zeng Shimei>",
+    "3" : "s(Priscelia_Chan) dbo:birthDate o'<1978-11-6>",
+    "4" : "s(Priscelia_Chan) dbo:country o'<People's_Republic_of_China>",
+    "5" : "s(Priscelia_Chan) dbo:spouse o'<Alan_Tern>",
+    "6" : "s(Priscelia_Chan) dbp:ancestry o'<Chinese>",
+    "7" : "s(Priscelia_Chan) dbp:birthName o'<Chan Shih Mei>",
+    "8" : "s(Priscelia_Chan) dbp:birthPlace o'<Singapore>",
+    "9" : "s(Priscelia_Chan) dbp:occupation o'<Actress>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14309",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Venables",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Venables) dbo:birthDate o'<1962-0-0>",
+    "2" : "s(Paul_Venables) dbo:birthPlace o'<Devon>",
+    "3" : "s(Paul_Venables) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14310",
+  "entityUrl" : "http://dbpedia.org/resource/Philom%C3%A8ne_Grandin",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14311",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Sorensen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Sorensen) dbo:birthDate o'<1926-02-16>",
+    "2" : "s(Paul_Sorensen) dbo:birthDate o'<1926-2-16>",
+    "3" : "s(Paul_Sorensen) dbo:birthPlace o'<United_States>",
+    "4" : "s(Paul_Sorensen) dbo:birthPlace o'<Kenosha,_Wisconsin>",
+    "5" : "s(Paul_Sorensen) dbo:deathDate o'<2008-07-17>",
+    "6" : "s(Paul_Sorensen) dbo:deathDate o'<2008-7-17>",
+    "7" : "s(Paul_Sorensen) dbo:deathPlace o'<United_States>",
+    "8" : "s(Paul_Sorensen) dbo:deathPlace o'<California>",
+    "9" : "s(Paul_Sorensen) dbo:deathPlace o'<Cardiff-by-the-Sea,_Encinitas,_California>",
+    "10" : "s(Paul_Sorensen) dbo:deathPlace o'<San_Diego_County,_California>",
+    "11" : "s(Paul_Sorensen) dbo:deathPlace o'<Cardiff-by-the-Sea,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14312",
+  "entityUrl" : "http://dbpedia.org/resource/Pauline_Chan_Bo-Lin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pauline_Chan_Bo-Lin) dbo:birthDate o'<1973-5-23>",
+    "2" : "s(Pauline_Chan_Bo-Lin) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Pauline_Chan_Bo-Lin) dbo:deathDate o'<2002-7-31>",
+    "4" : "s(Pauline_Chan_Bo-Lin) dbo:deathPlace o'<Shanghai>",
+    "5" : "s(Pauline_Chan_Bo-Lin) dbp:birthPlace o'<China>",
+    "6" : "s(Pauline_Chan_Bo-Lin) dbp:birthPlace o'<Shanghai>",
+    "7" : "s(Pauline_Chan_Bo-Lin) dbp:deathPlace o'<China>",
+    "8" : "s(Pauline_Chan_Bo-Lin) dbp:deathPlace o'<Shanghai>",
+    "9" : "s(Pauline_Chan_Bo-Lin) dbp:tradchinesenameفارسی o'<陳寶蓮>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14313",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Chung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Chung) dbo:birthDate o'<1959-4-5>",
+    "2" : "s(Paul_Chung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Paul_Chung) dbo:deathDate o'<1989-9-1>",
+    "4" : "s(Paul_Chung) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Paul_Chung) dbp:birthPlace o'<25>",
+    "6" : "s(Paul_Chung) dbp:deathPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14314",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Ho",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Ho) dbo:birthDate o'<1975-9-13>",
+    "2" : "s(Peter_Ho) dbo:birthPlace o'<United_States>",
+    "3" : "s(Peter_Ho) dbp:birthPlace o'<United_States>",
+    "4" : "s(Peter_Ho) dbp:birthPlace o'<California>",
+    "5" : "s(Peter_Ho) dbp:birthPlace o'<Los_Angeles>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14315",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Mok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patricia_Mok) dbo:birthDate o'<1971-10-17>",
+    "2" : "s(Patricia_Mok) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14316",
+  "entityUrl" : "http://dbpedia.org/resource/Paige_Chua",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paige_Chua) dbo:birthDate o'<1981-6-25>",
+    "2" : "s(Paige_Chua) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14317",
+  "entityUrl" : "http://dbpedia.org/resource/Prudence_Liew",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Prudence_Liew) dbo:birthDate o'<1964-12-10>",
+    "2" : "s(Prudence_Liew) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Prudence_Liew) dbp:birthPlace o'<Hong Kong>",
+    "4" : "s(Prudence_Liew) dbp:name o'<Prudence Liew>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14318",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Tilbury",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Tilbury) dbo:birthDate o'<1945-10-20>",
+    "2" : "s(Peter_Tilbury) dbo:birthName o'<Peter Tilbury>",
+    "3" : "s(Peter_Tilbury) dbo:birthPlace o'<Cornwall>",
+    "4" : "s(Peter_Tilbury) dbo:birthPlace o'<England>",
+    "5" : "s(Peter_Tilbury) dbo:birthPlace o'<Redruth>",
+    "6" : "s(Peter_Tilbury) dbo:birthYear o'<1945>",
+    "7" : "s(Peter_Tilbury) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(peter tilbury=Peter_Tilbury) [born 20 october 1945 in ] o'<redruth=Redruth>"
+  },
+  "abstract" : {
+    "1" : "peter tilbury<Peter_Tilbury> (born 20 october 1945, in redruth<Redruth>, cornwall<Cornwall>, england), is a british actor and writer"
+  }
+}, {
+  "entityIndex" : "entity14319",
+  "entityUrl" : "http://dbpedia.org/resource/Phil_Nice",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Phil_Nice) dbo:birthDate o'<1959-01-29>",
+    "2" : "s(Phil_Nice) dbo:birthDate o'<1959-1-29>",
+    "3" : "s(Phil_Nice) dbo:birthPlace o'<UK>",
+    "4" : "s(Phil_Nice) dbo:birthPlace o'<England>",
+    "5" : "s(Phil_Nice) dbo:birthPlace o'<Liverpool>",
+    "6" : "s(Phil_Nice) dbo:birthPlace o'<Lancashire>",
+    "7" : "s(Phil_Nice) dbo:birthYear o'<1959>",
+    "8" : "s(Phil_Nice) dbo:country o'<United_Kingdom>",
+    "9" : "s(Phil_Nice) dbo:nationality o'<United_Kingdom>",
+    "10" : "s(Phil_Nice) dbo:occupation o'<Phil_Nice__1>",
+    "11" : "s(Phil_Nice) dbo:occupation o'<Actor>",
+    "12" : "s(Phil_Nice) dbo:stateOfOrigin o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "8" : "s(phil nice=Phil_Nice) [appeared in series two of ] o'<home=England>"
+  },
+  "abstract" : {
+    "8" : "in january 2015 phil nice<Phil_Nice> appeared in series two of broadchurch as andrew darlington, the manager of the care home<England> looking after jocelyn knight's elderly mother\n"
+  }
+}, {
+  "entityIndex" : "entity14320",
+  "entityUrl" : "http://dbpedia.org/resource/Per_Myrberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Per_Myrberg) dbo:activeYearsStartYear o'<1957>",
+    "2" : "s(Per_Myrberg) dbo:birthDate o'<1933-07-11>",
+    "3" : "s(Per_Myrberg) dbo:birthDate o'<1933-7-11>",
+    "4" : "s(Per_Myrberg) dbo:birthName o'<Per Nils Myrberg>",
+    "5" : "s(Per_Myrberg) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Per_Myrberg) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Per_Myrberg) dbo:birthYear o'<1933>",
+    "8" : "s(Per_Myrberg) dbo:nationality o'<Sweden>",
+    "9" : "s(Per_Myrberg) dbo:occupation o'<Singer>",
+    "10" : "s(Per_Myrberg) dbo:occupation o'<Per_Myrberg__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14321",
+  "entityUrl" : "http://dbpedia.org/resource/Paw_Hee-ching",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paw_Hee-ching) dbo:birthDate o'<1949-7-20>",
+    "2" : "s(Paw_Hee-ching) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Paw_Hee-ching) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14322",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Ritter_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Ritter_(actor)) dbo:birthDate o'<1966-03-05>",
+    "2" : "s(Paul_Ritter_(actor)) dbo:birthDate o'<1966-3-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14323",
+  "entityUrl" : "http://dbpedia.org/resource/Polly_Duniam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Polly_Duniam) dbo:birthDate o'<1987-3-15>",
+    "2" : "s(Polly_Duniam) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(polly duniam=Polly_Duniam) [gained fame in bbc ] o'<home=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "along with her twin sister, sophie duniam, polly duniam<Polly_Duniam> gained fame in the bbc series home<United_Kingdom> farm twins portraying hannah moore, one of the twins in the title during the late 1990s\n"
+  }
+}, {
+  "entityIndex" : "entity14324",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Bigley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Bigley) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14325",
+  "entityUrl" : "http://dbpedia.org/resource/Pia_Degermark",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pia_Degermark) dbo:birthDate o'<1949-8-24>",
+    "2" : "s(Pia_Degermark) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Pia_Degermark) dbp:name o'<Pia Degermark>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14326",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Bouchitey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Bouchitey) dbo:birthDate o'<1946-08-11>",
+    "2" : "s(Patrick_Bouchitey) dbo:birthDate o'<1946-8-11>",
+    "3" : "s(Patrick_Bouchitey) dbo:birthPlace o'<Plancher-les-Mines>",
+    "4" : "s(Patrick_Bouchitey) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14327",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Bowen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Bowen) dbo:birthDate o'<1946-1-1>",
+    "2" : "s(Philip_Bowen) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "7" : "s(philip bowen=Philip_Bowen) [met his wife susannna best ] o'<english=United_Kingdom>"
+  },
+  "abstract" : {
+    "7" : "philip bowen<Philip_Bowen> met his wife, susannna best, while they were touring with the english<United_Kingdom> shakespeare company and together they set up the charity, shakespeare link\n"
+  }
+}, {
+  "entityIndex" : "entity14328",
+  "entityUrl" : "http://dbpedia.org/resource/Pandora_Clifford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pandora_Clifford) dbo:birthPlace o'<England>",
+    "2" : "s(Pandora_Clifford) dbo:birthPlace o'<London>",
+    "3" : "s(Pandora_Clifford) dbo:country o'<United_Kingdom>",
+    "4" : "s(Pandora_Clifford) dbo:occupation o'<Actress>",
+    "5" : "s(Pandora_Clifford) dbo:occupation o'<Pandora_Clifford__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(pandora clifford=Pandora_Clifford) [daughter of sir ] o'<scotland=United_Kingdom>"
+  },
+  "abstract" : {
+    "3" : "pandora clifford<Pandora_Clifford> is the daughter of sir timothy clifford, former director of the national galleries of scotland<United_Kingdom> and jane clifford, previously the principal designer for laura ashley and zoffany\n"
+  }
+}, {
+  "entityIndex" : "entity14329",
+  "entityUrl" : "http://dbpedia.org/resource/Pan_Lingling",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pan_Lingling) dbo:birthDate o'<1970-6-25>",
+    "2" : "s(Pan_Lingling) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14330",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Crauchet",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Crauchet) dbo:birthDate o'<1920-07-14>",
+    "2" : "s(Paul_Crauchet) dbo:birthDate o'<1920-7-14>",
+    "3" : "s(Paul_Crauchet) dbo:birthPlace o'<Béziers>",
+    "4" : "s(Paul_Crauchet) dbo:birthPlace o'<France>",
+    "5" : "s(Paul_Crauchet) dbo:deathDate o'<2012-12-19>",
+    "6" : "s(Paul_Crauchet) dbo:deathPlace o'<Rocbaron>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14331",
+  "entityUrl" : "http://dbpedia.org/resource/Per_Morberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Per_Morberg) dbo:birthDate o'<1960-06-23>",
+    "2" : "s(Per_Morberg) dbo:birthDate o'<1950-6-23>",
+    "3" : "s(Per_Morberg) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Per_Morberg) dbo:birthPlace o'<Stockholm_Municipality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14332",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Jesson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Jesson) dbo:birthDate o'<1946-07-06>",
+    "2" : "s(Paul_Jesson) dbo:birthDate o'<1946-7-6>",
+    "3" : "s(Paul_Jesson) dbo:birthPlace o'<Hertfordshire>",
+    "4" : "s(Paul_Jesson) dbo:birthPlace o'<Hitchin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14333",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Plunkett",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patricia_Plunkett) dbo:activeYearsEndYear o'<1961>",
+    "2" : "s(Patricia_Plunkett) dbo:activeYearsStartYear o'<1946>",
+    "3" : "s(Patricia_Plunkett) dbo:birthDate o'<1926-12-17>",
+    "4" : "s(Patricia_Plunkett) dbo:birthName o'<Patricia Ruth Plunkett>",
+    "5" : "s(Patricia_Plunkett) dbo:birthPlace o'<UK>",
+    "6" : "s(Patricia_Plunkett) dbo:birthPlace o'<England>",
+    "7" : "s(Patricia_Plunkett) dbo:birthPlace o'<London>",
+    "8" : "s(Patricia_Plunkett) dbo:birthPlace o'<Streatham>",
+    "9" : "s(Patricia_Plunkett) dbo:birthYear o'<1926>",
+    "10" : "s(Patricia_Plunkett) dbo:deathDate o'<1974-10-13>",
+    "11" : "s(Patricia_Plunkett) dbo:deathPlace o'<UK>",
+    "12" : "s(Patricia_Plunkett) dbo:deathPlace o'<England>",
+    "13" : "s(Patricia_Plunkett) dbo:deathPlace o'<London>",
+    "14" : "s(Patricia_Plunkett) dbo:deathYear o'<1974>",
+    "15" : "s(Patricia_Plunkett) dbo:spouse o'<Tim_Turner>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14334",
+  "entityUrl" : "http://dbpedia.org/resource/Pat_Aherne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pat_Aherne) dbo:birthDate o'<1901-01-06>",
+    "2" : "s(Pat_Aherne) dbo:birthDate o'<1901-1-6>",
+    "3" : "s(Pat_Aherne) dbo:birthPlace o'<England>",
+    "4" : "s(Pat_Aherne) dbo:birthPlace o'<Worcestershire>",
+    "5" : "s(Pat_Aherne) dbo:birthPlace o'<King's_Norton>",
+    "6" : "s(Pat_Aherne) dbo:deathDate o'<1970-09-30>",
+    "7" : "s(Pat_Aherne) dbo:deathDate o'<1970-9-30>",
+    "8" : "s(Pat_Aherne) dbo:deathPlace o'<Woodland_Hills,_Los_Angeles>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14335",
+  "entityUrl" : "http://dbpedia.org/resource/Philippa_Gail",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philippa_Gail) dbo:activeYearsEndYear o'<1992>",
+    "2" : "s(Philippa_Gail) dbo:activeYearsStartYear o'<1963>",
+    "3" : "s(Philippa_Gail) dbo:alias o'<Philippa J. Gordge>",
+    "4" : "s(Philippa_Gail) dbo:birthDate o'<1942-08-16>",
+    "5" : "s(Philippa_Gail) dbo:birthDate o'<1942-8-16>",
+    "6" : "s(Philippa_Gail) dbo:birthPlace o'<Hertfordshire>",
+    "7" : "s(Philippa_Gail) dbo:birthPlace o'<United_Kingdom>",
+    "8" : "s(Philippa_Gail) dbo:birthPlace o'<Bishop's_Stortford>",
+    "9" : "s(Philippa_Gail) dbo:birthYear o'<1942>",
+    "10" : "s(Philippa_Gail) dbo:deathDate o'<1999-07-26>",
+    "11" : "s(Philippa_Gail) dbo:deathDate o'<1999-7-26>",
+    "12" : "s(Philippa_Gail) dbo:deathPlace o'<United_Kingdom>",
+    "13" : "s(Philippa_Gail) dbo:deathPlace o'<Dorset>",
+    "14" : "s(Philippa_Gail) dbo:deathYear o'<1999>",
+    "15" : "s(Philippa_Gail) dbo:occupation o'<Philippa_Gail__1>",
+    "16" : "s(Philippa_Gail) dbo:occupation o'<Film_actor>",
+    "17" : "s(Philippa_Gail) dbo:occupation o'<Television_actor>",
+    "18" : "s(Philippa_Gail) dbo:occupation o'<Theatre_actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(philippa gail=Philippa_Gail) [trained at webberdouglas PRONOUN ] o'<actress=Television_actor>",
+    "7" : "s(philippa gail=Philippa_Gail) [married david conville director of ] o'<theatre=Theatre_actor>"
+  },
+  "abstract" : {
+    "3" : "\" philippa gail<Philippa_Gail> trained at webber-douglas, where philippa gail<Philippa_Gail> won the award for best actress<Television_actor>\n",
+    "7" : "\" in 1970 philippa gail<Philippa_Gail> married david conville, director of the open air theatre<Theatre_actor>, regents park, where philippa gail<Philippa_Gail> made many of her later stage<Theatre_actor> appearances\n"
+  }
+}, {
+  "entityIndex" : "entity14336",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Ray",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Ray) dbo:birthDate o'<1898-11-01>",
+    "2" : "s(Philip_Ray) dbo:birthDate o'<1898-11-1>",
+    "3" : "s(Philip_Ray) dbo:birthPlace o'<England>",
+    "4" : "s(Philip_Ray) dbo:birthPlace o'<London>",
+    "5" : "s(Philip_Ray) dbo:birthPlace o'<Streatham>",
+    "6" : "s(Philip_Ray) dbo:birthPlace o'<United_Kingdom>",
+    "7" : "s(Philip_Ray) dbo:deathDate o'<1978-05-11>",
+    "8" : "s(Philip_Ray) dbo:deathDate o'<1978-5-11>",
+    "9" : "s(Philip_Ray) dbo:deathPlace o'<England>",
+    "10" : "s(Philip_Ray) dbo:deathPlace o'<Kingston_upon_Thames>",
+    "11" : "s(Philip_Ray) dbo:deathPlace o'<London>",
+    "12" : "s(Philip_Ray) dbo:deathPlace o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14337",
+  "entityUrl" : "http://dbpedia.org/resource/Peggy_Novak",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peggy_Novak) dbo:birthDate o'<1907-11-01>",
+    "2" : "s(Peggy_Novak) dbo:birthDate o'<1907-11-1>",
+    "3" : "s(Peggy_Novak) dbo:birthPlace o'<Cheshire>",
+    "4" : "s(Peggy_Novak) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Peggy_Novak) dbo:birthPlace o'<Birkenhead>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14338",
+  "entityUrl" : "http://dbpedia.org/resource/Pan_Hong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pan_Hong) dbo:birthDate o'<1954-11-4>",
+    "2" : "s(Pan_Hong) dbo:birthPlace o'<Changshu>",
+    "3" : "s(Pan_Hong) dbp:birthPlace o'<China>",
+    "4" : "s(Pan_Hong) dbp:birthPlace o'<Shanghai>",
+    "5" : "s(Pan_Hong) dbp:name o'<Hong Pan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14339",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Hardwick",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Hardwick) dbo:birthDate o'<1918-11-15>",
+    "2" : "s(Paul_Hardwick) dbo:birthPlace o'<Bridlington>",
+    "3" : "s(Paul_Hardwick) dbo:deathDate o'<1983-10-22>",
+    "4" : "s(Paul_Hardwick) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14340",
+  "entityUrl" : "http://dbpedia.org/resource/Pauline_Johnson_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pauline_Johnson_(actress)) dbo:birthDate o'<1899-11-13>",
+    "2" : "s(Pauline_Johnson_(actress)) dbo:deathDate o'<1947-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14341",
+  "entityUrl" : "http://dbpedia.org/resource/Polly_Ward",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Polly_Ward) dbo:birthDate o'<1912-1-1>",
+    "2" : "s(Polly_Ward) dbo:deathDate o'<1987-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14342",
+  "entityUrl" : "http://dbpedia.org/resource/Phyllis_Stanley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Phyllis_Stanley) dbo:birthDate o'<1914-10-30>",
+    "2" : "s(Phyllis_Stanley) dbo:deathDate o'<1992-3-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14343",
+  "entityUrl" : "http://dbpedia.org/resource/Pauline_Peters",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pauline_Peters) dbo:birthDate o'<1896-08-28>",
+    "2" : "s(Pauline_Peters) dbo:birthDate o'<1896-8-28>",
+    "3" : "s(Pauline_Peters) dbo:birthPlace o'<Cardiff>",
+    "4" : "s(Pauline_Peters) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Pauline_Peters) dbo:birthPlace o'<Wales>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14344",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Murray-Hill",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Murray-Hill) dbo:activeYearsEndYear o'<1945>",
+    "2" : "s(Peter_Murray-Hill) dbo:activeYearsStartYear o'<1938>",
+    "3" : "s(Peter_Murray-Hill) dbo:birthDate o'<1908-04-20>",
+    "4" : "s(Peter_Murray-Hill) dbo:birthDate o'<1908-4-20>",
+    "5" : "s(Peter_Murray-Hill) dbo:birthName o'<Peter Auriol Murray Hill>",
+    "6" : "s(Peter_Murray-Hill) dbo:birthPlace o'<England>",
+    "7" : "s(Peter_Murray-Hill) dbo:birthPlace o'<Hertfordshire>",
+    "8" : "s(Peter_Murray-Hill) dbo:birthPlace o'<Bushey>",
+    "9" : "s(Peter_Murray-Hill) dbo:birthPlace o'<Bushey_Heath>",
+    "10" : "s(Peter_Murray-Hill) dbo:birthYear o'<1908>",
+    "11" : "s(Peter_Murray-Hill) dbo:deathDate o'<1957-11-25>",
+    "12" : "s(Peter_Murray-Hill) dbo:deathPlace o'<England>",
+    "13" : "s(Peter_Murray-Hill) dbo:deathPlace o'<London>",
+    "14" : "s(Peter_Murray-Hill) dbo:deathYear o'<1957>",
+    "15" : "s(Peter_Murray-Hill) dbo:occupation o'<Peter_Murray-Hill__1>",
+    "16" : "s(Peter_Murray-Hill) dbo:spouse o'<Phyllis_Calvert>",
+    "17" : "s(Peter_Murray-Hill) dbp:children o'<2>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(peter murray-hill=Peter_Murray-Hill) [married to actress ] o'<phyllis calvert=Phyllis_Calvert>"
+  },
+  "abstract" : {
+    "1" : "peter auriol murray hill (20 april 1908 – 25 november 1957) was an english actor, and publisher  peter murray-hill<Peter_Murray-Hill> was married to the actress phyllis calvert<Phyllis_Calvert> from 1941 until his death\n"
+  }
+}, {
+  "entityIndex" : "entity14345",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Ludlow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Ludlow) dbo:deathDate o'<1996-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14346",
+  "entityUrl" : "http://dbpedia.org/resource/Peggy_Simpson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peggy_Simpson) dbo:birthDate o'<1913-07-04>",
+    "2" : "s(Peggy_Simpson) dbo:birthDate o'<1913-7-4>",
+    "3" : "s(Peggy_Simpson) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "4" : "s(Peggy_Simpson) dbo:birthPlace o'<England>",
+    "5" : "s(Peggy_Simpson) dbo:birthPlace o'<Leeds>",
+    "6" : "s(Peggy_Simpson) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "7" : "s(Peggy_Simpson) dbo:deathDate o'<1994-1-0>",
+    "8" : "s(Peggy_Simpson) dbo:deathPlace o'<England>",
+    "9" : "s(Peggy_Simpson) dbo:deathPlace o'<London>",
+    "10" : "s(Peggy_Simpson) dbo:deathPlace o'<Camden_Town>",
+    "11" : "s(Peggy_Simpson) dbo:deathPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14347",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Hewland",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Hewland) dbo:deathDate o'<1953-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14348",
+  "entityUrl" : "http://dbpedia.org/resource/Peggy_Evans",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peggy_Evans) dbo:birthDate o'<1921-1-10>",
+    "2" : "s(Peggy_Evans) dbo:deathDate o'<2015-7-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14349",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Collingwood",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Collingwood) dbo:birthDate o'<1920-0-0>",
+    "2" : "s(Peter_Collingwood) dbo:birthPlace o'<Kent>",
+    "3" : "s(Peter_Collingwood) dbo:country o'<United_Kingdom>",
+    "4" : "s(Peter_Collingwood) dbo:deathDate o'<2016-9-23>",
+    "5" : "s(Peter_Collingwood) dbo:imdbId o'<0172088>",
+    "6" : "s(Peter_Collingwood) dbp:date o'<November 2011>",
+    "7" : "s(Peter_Collingwood) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14350",
+  "entityUrl" : "http://dbpedia.org/resource/Polly_Emery",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Polly_Emery) dbo:birthDate o'<1875-0-0>",
+    "2" : "s(Polly_Emery) dbo:deathDate o'<1958-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14351",
+  "entityUrl" : "http://dbpedia.org/resource/Parineeti_Chopra",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Parineeti_Chopra) dbo:birthDate o'<1988-10-22>",
+    "2" : "s(Parineeti_Chopra) dbo:birthPlace o'<Haryana>",
+    "3" : "s(Parineeti_Chopra) dbo:birthPlace o'<Ambala>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14352",
+  "entityUrl" : "http://dbpedia.org/resource/Peggy_Carlisle",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14353",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Lindstedt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Lindstedt) dbo:activeYearsStartYear o'<1966>",
+    "2" : "s(Pierre_Lindstedt) dbo:birthDate o'<1943-08-15>",
+    "3" : "s(Pierre_Lindstedt) dbo:birthDate o'<1943-8-15>",
+    "4" : "s(Pierre_Lindstedt) dbo:birthName o'<Pierre Ernst Vilhelm Lindstedt>",
+    "5" : "s(Pierre_Lindstedt) dbo:birthPlace o'<Dalarö>",
+    "6" : "s(Pierre_Lindstedt) dbo:birthYear o'<1943>",
+    "7" : "s(Pierre_Lindstedt) dbo:nationality o'<Sweden>",
+    "8" : "s(Pierre_Lindstedt) dbo:occupation o'<Pierre_Lindstedt__1>",
+    "9" : "s(Pierre_Lindstedt) dbo:relative o'<Carl-Gustaf_Lindstedt>",
+    "10" : "s(Pierre_Lindstedt) dbp:nationality o'<Swedish>",
+    "11" : "s(Pierre_Lindstedt) dbp:spouse o'<Kajsa>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(pierre lindstedt=Pierre_Lindstedt) [son of ] o'<carl-gustaf lindstedt=Carl-Gustaf_Lindstedt>"
+  },
+  "abstract" : {
+    "3" : "pierre lindstedt<Pierre_Lindstedt> is son of carl-gustaf lindstedt<Carl-Gustaf_Lindstedt>\n"
+  }
+}, {
+  "entityIndex" : "entity14354",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Connor_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Connor_(actor)) dbo:birthDate o'<1926-8-6>",
+    "2" : "s(Patrick_Connor_(actor)) dbo:deathDate o'<2008-7-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14355",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Stainton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Stainton) dbo:birthDate o'<1908-04-09>",
+    "2" : "s(Philip_Stainton) dbo:birthDate o'<1908-4-9>",
+    "3" : "s(Philip_Stainton) dbo:birthPlace o'<England>",
+    "4" : "s(Philip_Stainton) dbo:birthPlace o'<Kings_Norton>",
+    "5" : "s(Philip_Stainton) dbo:birthPlace o'<Worcestershire>",
+    "6" : "s(Philip_Stainton) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "7" : "s(Philip_Stainton) dbo:birthPlace o'<King's_Norton>",
+    "8" : "s(Philip_Stainton) dbo:deathDate o'<1961-08-01>",
+    "9" : "s(Philip_Stainton) dbo:deathDate o'<1961-8-1>",
+    "10" : "s(Philip_Stainton) dbo:deathPlace o'<Victoria_(Australia)>",
+    "11" : "s(Philip_Stainton) dbo:deathPlace o'<Melbourne>",
+    "12" : "s(Philip_Stainton) dbo:deathPlace o'<Australia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14356",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Strange",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Strange) dbo:birthDate o'<1889-1-1>",
+    "2" : "s(Philip_Strange) dbo:deathDate o'<1959-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14357",
+  "entityUrl" : "http://dbpedia.org/resource/Peng_Yuyan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peng_Yuyan) dbo:wikiPageRedirects o'<Eddie_Peng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14358",
+  "entityUrl" : "http://dbpedia.org/resource/Pihla_Viitala",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pihla_Viitala) dbo:birthDate o'<1982-09-30>",
+    "2" : "s(Pihla_Viitala) dbo:birthDate o'<1982-9-30>",
+    "3" : "s(Pihla_Viitala) dbo:birthPlace o'<Finland>",
+    "4" : "s(Pihla_Viitala) dbo:birthPlace o'<Helsinki>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14359",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Michael",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Michael) dbo:birthDate o'<1932-4-11>",
+    "2" : "s(Pierre_Michael) dbo:birthPlace o'<Charleroi>",
+    "3" : "s(Pierre_Michael) dbo:deathDate o'<2001-6-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14360",
+  "entityUrl" : "http://dbpedia.org/resource/Philippe_Nicaud",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philippe_Nicaud) dbo:birthDate o'<1926-6-27>",
+    "2" : "s(Philippe_Nicaud) dbo:birthPlace o'<Courbevoie>",
+    "3" : "s(Philippe_Nicaud) dbo:deathDate o'<2009-4-19>",
+    "4" : "s(Philippe_Nicaud) dbo:deathPlace o'<Nice>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14361",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Maguelon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Maguelon) dbo:birthDate o'<1933-4-7>",
+    "2" : "s(Pierre_Maguelon) dbo:birthPlace o'<Labruguière>",
+    "3" : "s(Pierre_Maguelon) dbo:deathDate o'<2010-7-10>",
+    "4" : "s(Pierre_Maguelon) dbo:deathPlace o'<Perpignan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14362",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre-Ulric_Dubuisson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre-Ulric_Dubuisson) dbo:birthDate o'<1746-1-23>",
+    "2" : "s(Pierre-Ulric_Dubuisson) dbo:birthPlace o'<Laval,_Mayenne>",
+    "3" : "s(Pierre-Ulric_Dubuisson) dbo:deathDate o'<1794-3-24>",
+    "4" : "s(Pierre-Ulric_Dubuisson) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14363",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Doris",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Doris) dbo:birthDate o'<1919-10-29>",
+    "2" : "s(Pierre_Doris) dbo:birthPlace o'<Paris>",
+    "3" : "s(Pierre_Doris) dbo:deathDate o'<2009-10-27>",
+    "4" : "s(Pierre_Doris) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14364",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Colline",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Colline) dbo:birthDate o'<1895-9-22>",
+    "2" : "s(Paul_Colline) dbo:birthPlace o'<Paris>",
+    "3" : "s(Paul_Colline) dbo:deathDate o'<1991-0-0>",
+    "4" : "s(Paul_Colline) dbo:deathPlace o'<8th_arrondissement_of_Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14365",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Meyrand",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Meyrand) dbo:birthDate o'<1932-1-1>",
+    "2" : "s(Pierre_Meyrand) dbo:birthPlace o'<Paris>",
+    "3" : "s(Pierre_Meyrand) dbo:deathDate o'<1999-10-25>",
+    "4" : "s(Pierre_Meyrand) dbo:deathPlace o'<Brunoy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14366",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Guillemin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Guillemin) dbo:birthDate o'<1950-11-13>",
+    "2" : "s(Patrick_Guillemin) dbo:birthPlace o'<Neuilly-sur-Seine>",
+    "3" : "s(Patrick_Guillemin) dbo:deathDate o'<2011-8-21>",
+    "4" : "s(Patrick_Guillemin) dbo:deathPlace o'<Lège-Cap-Ferret>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14367",
+  "entityUrl" : "http://dbpedia.org/resource/Paule_Andral",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paule_Andral) dbo:birthDate o'<1879-9-14>",
+    "2" : "s(Paule_Andral) dbo:birthPlace o'<Paris>",
+    "3" : "s(Paule_Andral) dbo:deathDate o'<1956-3-28>",
+    "4" : "s(Paule_Andral) dbo:deathPlace o'<Nice>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14368",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Etchepare",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Etchepare) dbo:birthDate o'<1891-10-02>",
+    "2" : "s(Pierre_Etchepare) dbo:birthDate o'<1891-10-2>",
+    "3" : "s(Pierre_Etchepare) dbo:birthPlace o'<Paris>",
+    "4" : "s(Pierre_Etchepare) dbo:birthPlace o'<France>",
+    "5" : "s(Pierre_Etchepare) dbo:deathDate o'<1943-04-20>",
+    "6" : "s(Pierre_Etchepare) dbo:deathDate o'<1943-4-20>",
+    "7" : "s(Pierre_Etchepare) dbo:deathPlace o'<Neuilly-sur-Seine>",
+    "8" : "s(Pierre_Etchepare) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14369",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Palau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Palau) dbo:birthDate o'<1883-08-13>",
+    "2" : "s(Pierre_Palau) dbo:birthDate o'<1883-8-13>",
+    "3" : "s(Pierre_Palau) dbo:birthPlace o'<Paris>",
+    "4" : "s(Pierre_Palau) dbo:birthPlace o'<Meudon>",
+    "5" : "s(Pierre_Palau) dbo:birthPlace o'<France>",
+    "6" : "s(Pierre_Palau) dbo:deathDate o'<1966-12-03>",
+    "7" : "s(Pierre_Palau) dbo:deathDate o'<1966-12-3>",
+    "8" : "s(Pierre_Palau) dbo:deathPlace o'<Hauts-de-Seine>",
+    "9" : "s(Pierre_Palau) dbo:deathPlace o'<Meudon>",
+    "10" : "s(Pierre_Palau) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14370",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Faivre",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Faivre) dbo:birthDate o'<1886-03-03>",
+    "2" : "s(Paul_Faivre) dbo:birthDate o'<1886-3-3>",
+    "3" : "s(Paul_Faivre) dbo:birthPlace o'<Belfort>",
+    "4" : "s(Paul_Faivre) dbo:birthPlace o'<France>",
+    "5" : "s(Paul_Faivre) dbo:deathDate o'<1973-03-05>",
+    "6" : "s(Paul_Faivre) dbo:deathDate o'<1973-3-5>",
+    "7" : "s(Paul_Faivre) dbo:deathPlace o'<Paris>",
+    "8" : "s(Paul_Faivre) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14371",
+  "entityUrl" : "http://dbpedia.org/resource/Pelle_Seth",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pelle_Seth) dbo:birthDate o'<1946-6-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14372",
+  "entityUrl" : "http://dbpedia.org/resource/Pascal_Mazzotti",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pascal_Mazzotti) dbo:birthDate o'<1923-12-16>",
+    "2" : "s(Pascal_Mazzotti) dbo:birthPlace o'<Saint-Étienne-de-Baïgorry>",
+    "3" : "s(Pascal_Mazzotti) dbo:deathDate o'<2002-6-19>",
+    "4" : "s(Pascal_Mazzotti) dbo:deathPlace o'<Saint-Ouen-l'Aumône>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14373",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Alexandroni",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patrick_Alexandroni) dbo:birthDate o'<1962-1-1>",
+    "2" : "s(Patrick_Alexandroni) dbo:birthPlace o'<Roanne>",
+    "3" : "s(Patrick_Alexandroni) dbo:deathDate o'<2008-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14374",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Schildt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Schildt) dbo:birthDate o'<1951-6-9>",
+    "2" : "s(Peter_Schildt) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14375",
+  "entityUrl" : "http://dbpedia.org/resource/Paulette_Noizeux",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paulette_Noizeux) dbo:birthDate o'<1887-05-30>",
+    "2" : "s(Paulette_Noizeux) dbo:birthDate o'<1887-5-30>",
+    "3" : "s(Paulette_Noizeux) dbo:birthPlace o'<Pas-de-Calais>",
+    "4" : "s(Paulette_Noizeux) dbo:birthPlace o'<Saint-Omer>",
+    "5" : "s(Paulette_Noizeux) dbo:birthPlace o'<France>",
+    "6" : "s(Paulette_Noizeux) dbo:deathDate o'<1971-04-09>",
+    "7" : "s(Paulette_Noizeux) dbo:deathDate o'<1971-4-9>",
+    "8" : "s(Paulette_Noizeux) dbo:deathPlace o'<Paris>",
+    "9" : "s(Paulette_Noizeux) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14376",
+  "entityUrl" : "http://dbpedia.org/resource/Paola_Dionisotti",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paola_Dionisotti) dbo:birthDate o'<1946-1-1>",
+    "2" : "s(Paola_Dionisotti) dbo:birthPlace o'<Italy>",
+    "3" : "s(Paola_Dionisotti) dbo:birthPlace o'<Torino>",
+    "4" : "s(Paola_Dionisotti) dbo:birthPlace o'<Turin>",
+    "5" : "s(Paola_Dionisotti) dbo:birthYear o'<1946>",
+    "6" : "s(Paola_Dionisotti) dbo:country o'<United_Kingdom>",
+    "7" : "s(Paola_Dionisotti) dbo:occupation o'<Paola_Dionisotti__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(paola dionisotti=Paola_Dionisotti) [starred in michael bogdanovs 1978 ] o'<royal=United_Kingdom>"
+  },
+  "abstract" : {
+    "5" : "paola dionisotti<Paola_Dionisotti> starred in michael bogdanov's 1978 royal<United_Kingdom> shakespeare company production of the taming of the shrew at the aldwych\n"
+  }
+}, {
+  "entityIndex" : "entity14377",
+  "entityUrl" : "http://dbpedia.org/resource/Pamelyn_Chee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pamelyn_Chee) dbo:birthDate o'<1984-3-13>",
+    "2" : "s(Pamelyn_Chee) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14378",
+  "entityUrl" : "http://dbpedia.org/resource/Pio_Marma%C3%AF",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14379",
+  "entityUrl" : "http://dbpedia.org/resource/Philippe_Lefebvre_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philippe_Lefebvre_(actor)) dbo:birthDate o'<1968-12-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14380",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Vernier_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pierre_Vernier_(actor)) dbo:birthDate o'<1931-05-25>",
+    "2" : "s(Pierre_Vernier_(actor)) dbo:birthDate o'<1931-5-25>",
+    "3" : "s(Pierre_Vernier_(actor)) dbo:birthPlace o'<Saint-Jean-d'Angély>",
+    "4" : "s(Pierre_Vernier_(actor)) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14381",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Moriarty_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Paul_Moriarty_(actor)) dbo:activeYearsEndYear o'<1971>",
+    "2" : "s(Paul_Moriarty_(actor)) dbo:activeYearsStartYear o'<1971>",
+    "3" : "s(Paul_Moriarty_(actor)) dbo:birthDate o'<1946-05-19>",
+    "4" : "s(Paul_Moriarty_(actor)) dbo:birthDate o'<1946-5-19>",
+    "5" : "s(Paul_Moriarty_(actor)) dbo:birthPlace o'<England>",
+    "6" : "s(Paul_Moriarty_(actor)) dbo:birthPlace o'<London>",
+    "7" : "s(Paul_Moriarty_(actor)) dbo:birthYear o'<1946>",
+    "8" : "s(Paul_Moriarty_(actor)) dbo:occupation o'<Paul_Moriarty_(actor)__1>",
+    "9" : "s(Paul_Moriarty_(actor)) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14382",
+  "entityUrl" : "http://dbpedia.org/resource/Phoebe_Waller-Bridge",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Phoebe_Waller-Bridge) dbo:birthDate o'<1985-07-14>",
+    "2" : "s(Phoebe_Waller-Bridge) dbo:birthDate o'<1985-1-1>",
+    "3" : "s(Phoebe_Waller-Bridge) dbo:birthPlace o'<England>",
+    "4" : "s(Phoebe_Waller-Bridge) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14383",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Sproule",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Peter_Sproule) dbo:activeYearsStartYear o'<1968>",
+    "2" : "s(Peter_Sproule) dbo:birthDate o'<1947-0-0>",
+    "3" : "s(Peter_Sproule) dbo:birthYear o'<1947>",
+    "4" : "s(Peter_Sproule) dbo:country o'<England>",
+    "5" : "s(Peter_Sproule) dbo:occupation o'<Peter_Sproule__1>",
+    "6" : "s(Peter_Sproule) dbp:birthPlace o'<Hitchin, Hertfordshire, England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14384",
+  "entityUrl" : "http://dbpedia.org/resource/Priscilla_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Priscilla_Wong) dbo:birthDate o'<1981-10-23>",
+    "2" : "s(Priscilla_Wong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14385",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_G%C3%A9rald",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14386",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Gozzi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Patricia_Gozzi) dbo:birthDate o'<1950-04-12>",
+    "2" : "s(Patricia_Gozzi) dbo:birthDate o'<1950-4-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14387",
+  "entityUrl" : "http://dbpedia.org/resource/Per_Sj%C3%B6strand",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14388",
+  "entityUrl" : "http://dbpedia.org/resource/Paris_Jefferson",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14389",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Zand%C3%A9n",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14390",
+  "entityUrl" : "http://dbpedia.org/resource/Puff_Kuo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Puff_Kuo) dbo:birthDate o'<1988-6-30>",
+    "2" : "s(Puff_Kuo) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Puff_Kuo) dbp:birthPlace o'<Gongliao District, New Taipei City, Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14391",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Philip_Ng) dbo:birthDate o'<1977-9-16>",
+    "2" : "s(Philip_Ng) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Philip_Ng) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14392",
+  "entityUrl" : "http://dbpedia.org/resource/Pong_Nan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pong_Nan) dbo:birthDate o'<1978-5-15>",
+    "2" : "s(Pong_Nan) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14393",
+  "entityUrl" : "http://dbpedia.org/resource/Pepe_Viyuela",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Pepe_Viyuela) dbo:birthDate o'<1963-06-02>",
+    "2" : "s(Pepe_Viyuela) dbo:birthDate o'<1963-6-2>",
+    "3" : "s(Pepe_Viyuela) dbo:birthPlace o'<Spain>",
+    "4" : "s(Pepe_Viyuela) dbo:birthPlace o'<Logroño>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

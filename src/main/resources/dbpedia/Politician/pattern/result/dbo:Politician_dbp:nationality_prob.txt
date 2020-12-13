@@ -1,4 +1,4 @@
-id=50  property=dbp:nationality  
-migrate_to  VBD_TO  multiply=0.001184  P(migrate_to|dbp:nationality)=0.005525  P(dbp:nationality|migrate_to)=0.214286    
-member_of  NN_IN  multiply=9.14E-4  P(member_of|dbp:nationality)=0.033149  P(dbp:nationality|member_of)=0.027565    
+id=52  property=dbp:nationality  
+migrate_to  VBD_TO  multiply=0.001047  P(migrate_to|dbp:nationality)=0.005236  P(dbp:nationality|migrate_to)=0.2    
+member_of  NN_IN  multiply=8.61E-4  P(member_of|dbp:nationality)=0.031414  P(dbp:nationality|member_of)=0.027397    
 

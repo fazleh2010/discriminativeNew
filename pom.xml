@@ -8,7 +8,7 @@
     <artifactId>ontology-lexicalization</artifactId>
     <version>1.6</version>
 
-    <name>ontology-lexicalization</name>
+    <name>entity-annotation</name>
     <description>A ontology-lexicalization system</description>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
@@ -119,6 +119,11 @@
 </dependency>
 <!-- Thanks for using https://jar-download.com -->
 
+<dependency>
+  <groupId>my.org</groupId>
+    <artifactId>abstract-write</artifactId>
+    <version>1.6</version>
+</dependency>
 
     </dependencies>
 

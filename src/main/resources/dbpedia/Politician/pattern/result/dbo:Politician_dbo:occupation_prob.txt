@@ -1,10 +1,11 @@
-id=13  property=dbo:occupation  
-elect  VBN  multiply=0.008137  P(elect|dbo:occupation)=0.100297  P(dbo:occupation|elect)=0.08113    
-serve  RB_VBN  multiply=0.006319  P(serve|dbo:occupation)=0.085438  P(dbo:occupation|serve)=0.073955    
-become  VBD  multiply=0.004414  P(become|dbo:occupation)=0.028975  P(dbo:occupation|become)=0.152344    
-member_of  NN_IN  multiply=0.004234  P(member_of|dbo:occupation)=0.045319  P(dbo:occupation|member_of)=0.093415    
-former  RB_JJ  multiply=0.002332  P(former|dbo:occupation)=0.014116  P(dbo:occupation|former)=0.165217    
-work  RB_VBN  multiply=0.001652  P(work|dbo:occupation)=0.01263  P(dbo:occupation|work)=0.130769    
-attend_dalhousie  VBD_NN  multiply=0.001255  P(attend_dalhousie|dbo:occupation)=0.005201  P(dbo:occupation|attend_dalhousie)=0.241379    
-president_of  NN_IN  multiply=2.27E-4  P(president_of|dbo:occupation)=0.003715  P(dbo:occupation|president_of)=0.060976    
+id=15  property=dbo:occupation  
+appear_in  VBD_IN  multiply=0.006304  P(appear_in|dbo:occupation)=0.012007  P(dbo:occupation|appear_in)=0.525    
+appear_on  VBD_IN  multiply=0.005198  P(appear_on|dbo:occupation)=0.005718  P(dbo:occupation|appear_on)=0.909091    
+serve  RB_VBN  multiply=0.005014  P(serve|dbo:occupation)=0.066895  P(dbo:occupation|serve)=0.074952    
+become  VBD  multiply=0.003668  P(become|dbo:occupation)=0.023442  P(dbo:occupation|become)=0.156489    
+british  JJ  multiply=0.003573  P(british|dbo:occupation)=0.005718  P(dbo:occupation|british)=0.625    
+make_his  VBN_PRP$  multiply=0.003293  P(make_his|dbo:occupation)=0.006861  P(dbo:occupation|make_his)=0.48    
+best_know  RB_VBN  multiply=0.001906  P(best_know|dbo:occupation)=0.005718  P(dbo:occupation|best_know)=0.333333    
+english  JJ  multiply=0.001588  P(english|dbo:occupation)=0.002859  P(dbo:occupation|english)=0.555556    
+attend_dalhousie  VBD_NN  multiply=9.66E-4  P(attend_dalhousie|dbo:occupation)=0.004002  P(dbo:occupation|attend_dalhousie)=0.241379    
 

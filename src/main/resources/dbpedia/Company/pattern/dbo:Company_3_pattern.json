@@ -1,0 +1,134 @@
+[ {
+  "entityIndex" : "entity10825",
+  "entityUrl" : "http://dbpedia.org/resource/3Com",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(3Com) dbo:extinctionDate o'<2010-04-12>",
+    "2" : "s(3Com) dbo:extinctionYear o'<2010>",
+    "3" : "s(3Com) dbo:fate o'<Acquired byHewlett-Packard>",
+    "4" : "s(3Com) dbo:foundedBy o'<Robert_Metcalfe>",
+    "5" : "s(3Com) dbo:foundingYear o'<1979>",
+    "6" : "s(3Com) dbo:industry o'<Computer_network>",
+    "7" : "s(3Com) dbo:successor o'<Hewlett-Packard>",
+    "8" : "s(3Com) dbo:type o'<Public_company>",
+    "9" : "s(3Com) dbp:bot o'<medic>",
+    "10" : "s(3Com) dbp:date o'<August 2016>",
+    "11" : "s(3Com) dbp:logo o'<File:3com_logo.svg>",
+    "12" : "s(3Com) dbp:reference o'<-1988.0>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(3com=3Com) [came up with name ] o'<networking=Computer_network>"
+  },
+  "abstract" : {
+    "3" : "metcalfe<Robert_Metcalfe> has explained that 3com<3Com> came up with the name 3com as a contraction of \"computer communication compatibility\", with its focus on deploying the ethernet technology that 3com<3Com> had co-invented, which enabled the networking<Computer_network> of computers\n"
+  }
+}, {
+  "entityIndex" : "entity10826",
+  "entityUrl" : "http://dbpedia.org/resource/3dfx_Interactive",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(3dfx_Interactive) dbo:extinctionYear o'<2002>",
+    "2" : "s(3dfx_Interactive) dbo:fate o'<Bankrupt, most assets bought byNvidia, fate of remaining assets unknown.>",
+    "3" : "s(3dfx_Interactive) dbo:foundingYear o'<1994>",
+    "4" : "s(3dfx_Interactive) dbo:industry o'<Semiconductors>",
+    "5" : "s(3dfx_Interactive) dbo:keyPerson o'<Scott_Sellers>",
+    "6" : "s(3dfx_Interactive) dbo:location o'<United_States>",
+    "7" : "s(3dfx_Interactive) dbo:location o'<San_Jose,_California>",
+    "8" : "s(3dfx_Interactive) dbo:successor o'<Nvidia>",
+    "9" : "s(3dfx_Interactive) dbp:logo o'<3>",
+    "10" : "s(3dfx_Interactive) dbp:products o'<Voodoo Graphics Series>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10827",
+  "entityUrl" : "http://dbpedia.org/resource/3D_Realms",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(3D_Realms) dbo:foundingYear o'<1987>",
+    "2" : "s(3D_Realms) dbo:industry o'<Video_game_industry>",
+    "3" : "s(3D_Realms) dbo:industry o'<Interactive_entertainment>",
+    "4" : "s(3D_Realms) dbo:keyPerson o'<George_Broussard>",
+    "5" : "s(3D_Realms) dbo:keyPerson o'<Scott_Miller_(programmer)>",
+    "6" : "s(3D_Realms) dbo:locationCity o'<Garland,_Texas>",
+    "7" : "s(3D_Realms) dbo:locationCity o'<Texas>",
+    "8" : "s(3D_Realms) dbo:locationCountry o'<United_States>",
+    "9" : "s(3D_Realms) dbo:numberOfEmployees o'<7>",
+    "10" : "s(3D_Realms) dbo:product o'<Duke_Nukem>",
+    "11" : "s(3D_Realms) dbo:product o'<Bombshell_(video_game)>",
+    "12" : "s(3D_Realms) dbo:product o'<Shadow_Warrior>",
+    "13" : "s(3D_Realms) dbo:type o'<Division_(business)>",
+    "14" : "s(3D_Realms) dbp:formerName o'<Apogee Software>",
+    "15" : "s(3D_Realms) dbp:logo o'<File:3drealms.png>",
+    "16" : "s(3D_Realms) dbp:owner o'<SDN Invest>",
+    "17" : "s(3D_Realms) dbp:parent o'<SDN Invest>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10828",
+  "entityUrl" : "http://dbpedia.org/resource/3Dlabs",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(3Dlabs) dbo:fate o'<Acquired byCreative Technologyand becameZiiLABS>",
+    "2" : "s(3Dlabs) dbo:foundingYear o'<1983>",
+    "3" : "s(3Dlabs) dbo:industry o'<Electronics>",
+    "4" : "s(3Dlabs) dbo:industry o'<Semiconductors>",
+    "5" : "s(3Dlabs) dbo:product o'<Handheld_device>",
+    "6" : "s(3Dlabs) dbo:type o'<Creative_Technology>",
+    "7" : "s(3Dlabs) dbp:logo o'<220>",
+    "8" : "s(3Dlabs) dbp:rebranded o'<January 2009>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10829",
+  "entityUrl" : "http://dbpedia.org/resource/3i",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(3i) dbo:foundingYear o'<1945>",
+    "2" : "s(3i) dbo:industry o'<Private_equity>",
+    "3" : "s(3i) dbo:keyPerson o'<Adrian_Montague>",
+    "4" : "s(3i) dbo:location o'<London>",
+    "5" : "s(3i) dbo:location o'<United_Kingdom>",
+    "6" : "s(3i) dbo:netIncome o'<7.0E8>",
+    "7" : "s(3i) dbo:numberOfEmployees o'<266>",
+    "8" : "s(3i) dbo:operatingIncome o'<7.02E8>",
+    "9" : "s(3i) dbo:type o'<Public_limited_company>",
+    "10" : "s(3i) dbp:logo o'<100>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10830",
+  "entityUrl" : "http://dbpedia.org/resource/3D_Systems",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(3D_Systems) dbo:assets o'<1.526E9>",
+    "2" : "s(3D_Systems) dbo:equity o'<1.293E9>",
+    "3" : "s(3D_Systems) dbo:foundationPlace o'<United_States>",
+    "4" : "s(3D_Systems) dbo:foundationPlace o'<California>",
+    "5" : "s(3D_Systems) dbo:foundationPlace o'<Valencia,_California>",
+    "6" : "s(3D_Systems) dbo:foundingYear o'<1986>",
+    "7" : "s(3D_Systems) dbo:keyPerson o'<Chuck_Hull>",
+    "8" : "s(3D_Systems) dbo:keyPerson o'<Andrew_Johnson>",
+    "9" : "s(3D_Systems) dbo:keyPerson o'<President>",
+    "10" : "s(3D_Systems) dbo:keyPerson o'<Vyomesh_Joshi>",
+    "11" : "s(3D_Systems) dbo:locationCity o'<South_Carolina>",
+    "12" : "s(3D_Systems) dbo:locationCity o'<Rock_Hill,_South_Carolina>",
+    "13" : "s(3D_Systems) dbo:locationCountry o'<United_States>",
+    "14" : "s(3D_Systems) dbo:netIncome o'<1.16E7>",
+    "15" : "s(3D_Systems) dbo:numberOfEmployees o'<2100>",
+    "16" : "s(3D_Systems) dbo:operatingIncome o'<2.63E7>",
+    "17" : "s(3D_Systems) dbo:product o'<Selective_laser_sintering>",
+    "18" : "s(3D_Systems) dbo:product o'<Stereolithography>",
+    "19" : "s(3D_Systems) dbo:product o'<3D_Printing>",
+    "20" : "s(3D_Systems) dbo:regionServed o'<World>",
+    "21" : "s(3D_Systems) dbo:revenue o'<6.53E8>",
+    "22" : "s(3D_Systems) dbo:type o'<Public_company>",
+    "23" : "s(3D_Systems) dbp:logo o'<3>",
+    "24" : "s(3D_Systems) dbp:marketCap o'<2012)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

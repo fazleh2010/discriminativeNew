@@ -1,0 +1,21 @@
+[ {
+  "entityIndex" : "entity10801",
+  "entityUrl" : "http://dbpedia.org/resource/5_Fingers_(Austria)",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(5_Fingers_(Austria)) dbo:elevation o'<2108.0>",
+    "2" : "s(5_Fingers_(Austria)) dbo:locatedInArea o'<Austria>",
+    "3" : "s(5_Fingers_(Austria)) dbo:locatedInArea o'<Upper_Austria>",
+    "4" : "s(5_Fingers_(Austria)) dbp:latD o'<47>",
+    "5" : "s(5_Fingers_(Austria)) dbp:latM o'<31>",
+    "6" : "s(5_Fingers_(Austria)) dbp:latNs o'<N>",
+    "7" : "s(5_Fingers_(Austria)) dbp:latS o'<27>",
+    "8" : "s(5_Fingers_(Austria)) dbp:longD o'<13>",
+    "9" : "s(5_Fingers_(Austria)) dbp:longEw o'<E>",
+    "10" : "s(5_Fingers_(Austria)) dbp:longM o'<41>",
+    "11" : "s(5_Fingers_(Austria)) dbp:longS o'<32>",
+    "12" : "s(5_Fingers_(Austria)) dbp:photo o'<5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

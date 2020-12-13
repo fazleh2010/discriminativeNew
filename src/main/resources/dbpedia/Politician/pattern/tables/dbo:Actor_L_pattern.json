@@ -1,0 +1,2587 @@
+[ {
+  "entityIndex" : "entity13284",
+  "entityUrl" : "http://dbpedia.org/resource/Leslie_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leslie_Cheung) dbo:birthDate o'<1956-9-12>",
+    "2" : "s(Leslie_Cheung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Leslie_Cheung) dbo:deathDate o'<2003-4-1>",
+    "4" : "s(Leslie_Cheung) dbo:deathPlace o'<Central,_Hong_Kong>",
+    "5" : "s(Leslie_Cheung) dbp:birthPlace o'<British_Hong_Kong>",
+    "6" : "s(Leslie_Cheung) dbp:birthPlace o'<Kowloon>",
+    "7" : "s(Leslie_Cheung) dbp:deathPlace o'<Central,_Hong_Kong>",
+    "8" : "s(Leslie_Cheung) dbp:name o'<Leslie Cheung>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(leslie cheung=Leslie_Cheung) [12 september 1956  1 ] o'<hong kong=Hong_Kong>",
+    "4" : "s(leslie cheung=Leslie_Cheung) [rose to prominence ] o'<hong kong=Hong_Kong>",
+    "7" : "s(leslie cheung=Leslie_Cheung) [won golden needle award ] o'<hong kong's=Hong_Kong>",
+    "9" : "s(leslie cheung=Leslie_Cheung) [won 1991 ] o'<hong kong=Hong_Kong>",
+    "15" : "s(leslie cheung=Leslie_Cheung) [most beautiful man ] o'<hong kong=Hong_Kong>",
+    "16" : "s(leslie cheung=Leslie_Cheung) [committed suicide on april 1 ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : ") leslie cheung kwok-wing<Leslie_Cheung> (12 september 1956 – 1 april 2003) was a hong kong<Hong_Kong> singer, actor and film producer",
+    "4" : "\" leslie cheung<Leslie_Cheung> rose to prominence as a teen heartthrob and pop icon of hong kong<Hong_Kong> in the 1980s, receiving numerous music awards including both most popular male artist awards at the 1988 and 1989 jade solid gold best ten music awards\n",
+    "7" : "in 1999, leslie cheung<Leslie_Cheung> won the golden needle award for his outstanding achievement as a musician at the rthk top 10 gold songs awards, and his 1984 hit song monica was voted as hong kong's<Hong_Kong> \"song of the century\"\n",
+    "9" : "cheung<Leslie_Cheung> won the 1991 hong kong<Hong_Kong> film award (days of being wild) and the 1994 hong kong<Hong_Kong> film critics society award (ashes of time) for best actor",
+    "15" : "cnn considered cheung<Leslie_Cheung> as the \"most beautiful man from hong kong<Hong_Kong> cinema\" and one of \"asia's 25 greatest actors of all time",
+    "16" : "\" cheung<Leslie_Cheung> committed suicide on april 1, 2003 by jumping off the 24th floor of the mandarin oriental hotel in hong kong<Hong_Kong>"
+  }
+}, {
+  "entityIndex" : "entity13285",
+  "entityUrl" : "http://dbpedia.org/resource/Leon_Lai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leon_Lai) dbo:birthDate o'<1966-12-11>",
+    "2" : "s(Leon_Lai) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Leon_Lai) dbp:birthPlace o'<China>",
+    "4" : "s(Leon_Lai) dbp:birthPlace o'<Beijing>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(leon lai=Leon_Lai) [one of four ] o'<hong kong=China>"
+  },
+  "abstract" : {
+    "3" : "leon lai<Leon_Lai> is one of the \"four heavenly kings\" of hong kong<China>\n"
+  }
+}, {
+  "entityIndex" : "entity13286",
+  "entityUrl" : "http://dbpedia.org/resource/Lacy_Ryan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lacy_Ryan) dbo:birthDate o'<1694-1-1>",
+    "2" : "s(Lacy_Ryan) dbo:country o'<England>",
+    "3" : "s(Lacy_Ryan) dbo:deathDate o'<1760-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13287",
+  "entityUrl" : "http://dbpedia.org/resource/Liza_Wang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liza_Wang) dbo:birthDate o'<1947-8-28>",
+    "2" : "s(Liza_Wang) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Liza_Wang) dbp:birthPlace o'<Shanghai>",
+    "4" : "s(Liza_Wang) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13288",
+  "entityUrl" : "http://dbpedia.org/resource/Lucien_Guitry",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lucien_Guitry) dbo:birthDate o'<1860-12-13>",
+    "2" : "s(Lucien_Guitry) dbo:birthPlace o'<Paris>",
+    "3" : "s(Lucien_Guitry) dbo:deathDate o'<1925-06-01>",
+    "4" : "s(Lucien_Guitry) dbo:deathDate o'<1925-6-1>",
+    "5" : "s(Lucien_Guitry) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13289",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Smet",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Laura_Smet) dbo:birthDate o'<1983-11-15>",
+    "2" : "s(Laura_Smet) dbo:birthPlace o'<Neuilly-sur-Seine>",
+    "3" : "s(Laura_Smet) dbo:birthPlace o'<France>",
+    "4" : "s(Laura_Smet) dbp:name o'<Laura Smet>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13290",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Ye_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Ye_(actor)) dbo:birthDate o'<1978-3-23>",
+    "2" : "s(Liu_Ye_(actor)) dbo:birthPlace o'<Jilin_City>",
+    "3" : "s(Liu_Ye_(actor)) dbp:birthPlace o'<China>",
+    "4" : "s(Liu_Ye_(actor)) dbp:birthPlace o'<Changchun>",
+    "5" : "s(Liu_Ye_(actor)) dbp:birthPlace o'<Jilin>",
+    "6" : "s(Liu_Ye_(actor)) dbp:name o'<Liu Ye>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13291",
+  "entityUrl" : "http://dbpedia.org/resource/Lia_F%C3%A9lix",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13292",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Bowerman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lisa_Bowerman) dbp:name o'<Lisa Bowerman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13293",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Koo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Koo) dbo:birthDate o'<1970-10-21>",
+    "2" : "s(Louis_Koo) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Louis_Koo) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13294",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Bailey_(model)__England-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Laura_Bailey_(model)__England-actor-stub__1) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13295",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Xiao_Ling_Tong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Xiao_Ling_Tong) dbo:birthDate o'<1959-4-12>",
+    "2" : "s(Liu_Xiao_Ling_Tong) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Liu_Xiao_Ling_Tong) dbp:birthPlace o'<China>",
+    "4" : "s(Liu_Xiao_Ling_Tong) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13296",
+  "entityUrl" : "http://dbpedia.org/resource/Lam_Ching-ying",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lam_Ching-ying) dbo:birthDate o'<1952-12-27>",
+    "2" : "s(Lam_Ching-ying) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Lam_Ching-ying) dbo:deathDate o'<1997-11-8>",
+    "4" : "s(Lam_Ching-ying) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Lam_Ching-ying) dbp:birthPlace o'<Hong_Kong>",
+    "6" : "s(Lam_Ching-ying) dbp:deathPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13297",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Yifei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Yifei) dbo:birthDate o'<1987-8-25>",
+    "2" : "s(Liu_Yifei) dbo:birthPlace o'<Wuhan>",
+    "3" : "s(Liu_Yifei) dbp:birthPlace o'<China>",
+    "4" : "s(Liu_Yifei) dbp:birthPlace o'<Wuhan>",
+    "5" : "s(Liu_Yifei) dbp:birthPlace o'<Hubei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13298",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Ann_Michelle__England-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_Ann_Michelle__England-actor-stub__1) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13299",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Xiaoqing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Xiaoqing) dbo:birthDate o'<1950-10-30>",
+    "2" : "s(Liu_Xiaoqing) dbo:birthPlace o'<Fuling_District>",
+    "3" : "s(Liu_Xiaoqing) dbp:birthPlace o'<China>",
+    "4" : "s(Liu_Xiaoqing) dbp:birthPlace o'<Chongqing>",
+    "5" : "s(Liu_Xiaoqing) dbp:birthPlace o'<Fuling_District>",
+    "6" : "s(Liu_Xiaoqing) dbp:name o'<Liu Xiaoqing>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(liu xiaoqing=Liu_Xiaoqing) [one of leading ] o'<china=China>"
+  },
+  "abstract" : {
+    "2" : "liu xiaoqing<Liu_Xiaoqing> was one of the leading actresses in china<China> in the 1980s\n"
+  }
+}, {
+  "entityIndex" : "entity13300",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Emerick",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Emerick) dbo:activeYearsStartYear o'<1982>",
+    "2" : "s(Louis_Emerick) dbo:birthDate o'<1963-06-10>",
+    "3" : "s(Louis_Emerick) dbo:birthDate o'<1960-6-10>",
+    "4" : "s(Louis_Emerick) dbo:birthName o'<Louis Emerick Grant>",
+    "5" : "s(Louis_Emerick) dbo:birthPlace o'<England>",
+    "6" : "s(Louis_Emerick) dbo:birthPlace o'<Liverpool>",
+    "7" : "s(Louis_Emerick) dbo:birthPlace o'<Toxteth>",
+    "8" : "s(Louis_Emerick) dbo:birthYear o'<1963>",
+    "9" : "s(Louis_Emerick) dbo:country o'<United_Kingdom>",
+    "10" : "s(Louis_Emerick) dbo:occupation o'<Louis_Emerick__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13301",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Yuchun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Yuchun) dbo:birthDate o'<1984-3-10>",
+    "2" : "s(Li_Yuchun) dbo:birthPlace o'<Chengdu>",
+    "3" : "s(Li_Yuchun) dbp:birthPlace o'<Chengdu>",
+    "4" : "s(Li_Yuchun) dbp:birthPlace o'<People's_Republic_of_China>",
+    "5" : "s(Li_Yuchun) dbp:birthPlace o'<Sichuan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13302",
+  "entityUrl" : "http://dbpedia.org/resource/Lau_Kar-leung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lau_Kar-leung) dbo:birthDate o'<1936-7-28>",
+    "2" : "s(Lau_Kar-leung) dbo:birthPlace o'<Guangzhou>",
+    "3" : "s(Lau_Kar-leung) dbo:deathDate o'<2013-6-25>",
+    "4" : "s(Lau_Kar-leung) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Lau_Kar-leung) dbp:birthPlace o'<Guangzhou, Guangdong, China>",
+    "6" : "s(Lau_Kar-leung) dbp:deathPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13303",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Hardy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Linda_Hardy) dbo:birthDate o'<1973-10-11>",
+    "2" : "s(Linda_Hardy) dbo:birthPlace o'<Nantes>",
+    "3" : "s(Linda_Hardy) dbp:name o'<Linda Hardy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13304",
+  "entityUrl" : "http://dbpedia.org/resource/Lo_Lieh",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lo_Lieh) dbo:birthDate o'<1939-6-29>",
+    "2" : "s(Lo_Lieh) dbo:birthPlace o'<Pematangsiantar>",
+    "3" : "s(Lo_Lieh) dbo:deathDate o'<2002-11-2>",
+    "4" : "s(Lo_Lieh) dbo:deathPlace o'<Shenzhen>",
+    "5" : "s(Lo_Lieh) dbp:birthPlace o'<Dutch_East_Indies>",
+    "6" : "s(Lo_Lieh) dbp:birthPlace o'<Pematangsiantar>",
+    "7" : "s(Lo_Lieh) dbp:deathPlace o'<China>",
+    "8" : "s(Lo_Lieh) dbp:deathPlace o'<Shenzhen>",
+    "9" : "s(Lo_Lieh) dbp:deathPlace o'<Guangdong>",
+    "10" : "s(Lo_Lieh) dbp:name o'<Lo Lieh>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13305",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Nanxing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Nanxing) dbo:birthDate o'<1964-11-7>",
+    "2" : "s(Li_Nanxing) dbo:birthPlace o'<Singapore>",
+    "3" : "s(Li_Nanxing) dbp:birthPlace o'<Singapore, Malaysia>",
+    "4" : "s(Li_Nanxing) dbp:name o'<Li Nanxing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13306",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Lindgren",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lisa_Lindgren) dbo:birthDate o'<1968-6-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13307",
+  "entityUrl" : "http://dbpedia.org/resource/Lynne_Miller",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lynne_Miller) dbo:birthDate o'<1951-4-27>",
+    "2" : "s(Lynne_Miller) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13308",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Xuejian",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Xuejian) dbo:birthDate o'<1954-7-7>",
+    "2" : "s(Li_Xuejian) dbp:birthPlace o'<Heze>",
+    "3" : "s(Li_Xuejian) dbp:birthPlace o'<Shandong>",
+    "4" : "s(Li_Xuejian) dbp:birthPlace o'<China>",
+    "5" : "s(Li_Xuejian) dbp:name o'<Li Xuejian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13309",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Xiaolu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Xiaolu) dbo:birthDate o'<1982-9-30>",
+    "2" : "s(Li_Xiaolu) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Li_Xiaolu) dbp:birthPlace o'<Beijing, China>",
+    "4" : "s(Li_Xiaolu) dbp:name o'<Li Xiaolu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13310",
+  "entityUrl" : "http://dbpedia.org/resource/Lou_Gish",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lou_Gish) dbo:birthDate o'<1967-05-27>",
+    "2" : "s(Lou_Gish) dbo:birthDate o'<1967-5-27>",
+    "3" : "s(Lou_Gish) dbo:birthPlace o'<London>",
+    "4" : "s(Lou_Gish) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Lou_Gish) dbo:birthPlace o'<London,_England>",
+    "6" : "s(Lou_Gish) dbo:deathDate o'<2006-02-20>",
+    "7" : "s(Lou_Gish) dbo:deathDate o'<2006-2-20>",
+    "8" : "s(Lou_Gish) dbo:deathPlace o'<London>",
+    "9" : "s(Lou_Gish) dbo:deathPlace o'<United_Kingdom>",
+    "10" : "s(Lou_Gish) dbo:deathPlace o'<London,_England>",
+    "11" : "s(Lou_Gish) dbp:name o'<Lou Gish>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13311",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Lu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lisa_Lu) dbo:birthDate o'<1927-1-19>",
+    "2" : "s(Lisa_Lu) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Lisa_Lu) dbp:birthPlace o'<Republic_of_China_(1912–49)>",
+    "4" : "s(Lisa_Lu) dbp:birthPlace o'<Peking>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13312",
+  "entityUrl" : "http://dbpedia.org/resource/Lilian_Braithwaite",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lilian_Braithwaite) dbo:birthDate o'<1873-3-9>",
+    "2" : "s(Lilian_Braithwaite) dbo:birthPlace o'<Ramsgate>",
+    "3" : "s(Lilian_Braithwaite) dbo:deathDate o'<1948-9-17>",
+    "4" : "s(Lilian_Braithwaite) dbo:deathPlace o'<London>",
+    "5" : "s(Lilian_Braithwaite) dbp:name o'<Lilian Braithwaite>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13313",
+  "entityUrl" : "http://dbpedia.org/resource/Lorna_Lewis_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lorna_Lewis_(actress)) dbo:country o'<United_Kingdom>",
+    "2" : "s(Lorna_Lewis_(actress)) dbo:deathDate o'<2013-6-1>",
+    "3" : "s(Lorna_Lewis_(actress)) dbo:imdbId o'<0507483>",
+    "4" : "s(Lorna_Lewis_(actress)) dbp:name o'<Lorna Lewis>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(lorna lewis (actress)=Lorna_Lewis_(actress)) [retired from acting in ] o'<england=United_Kingdom>"
+  },
+  "abstract" : {
+    "4" : "lorna lewis (actress)<Lorna_Lewis_(actress)> retired from acting in the late eighties and entered the priesthood, having been ordained as a deacon curate in 2003 in the parish of wye in kent, england<United_Kingdom>\n"
+  }
+}, {
+  "entityIndex" : "entity13314",
+  "entityUrl" : "http://dbpedia.org/resource/Louise_Plowright",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louise_Plowright) dbo:birthDate o'<1956-06-01>",
+    "2" : "s(Louise_Plowright) dbo:birthDate o'<1956-1-1>",
+    "3" : "s(Louise_Plowright) dbo:birthPlace o'<Cheshire>",
+    "4" : "s(Louise_Plowright) dbo:birthPlace o'<Congleton>",
+    "5" : "s(Louise_Plowright) dbo:deathDate o'<2016-03-01>",
+    "6" : "s(Louise_Plowright) dbo:deathDate o'<2016-3-1>",
+    "7" : "s(Louise_Plowright) dbp:deathPlace o'<UK>",
+    "8" : "s(Louise_Plowright) dbp:name o'<Louise Plowright>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13315",
+  "entityUrl" : "http://dbpedia.org/resource/Lizzie_Mickery",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lizzie_Mickery) dbo:country o'<United_Kingdom>",
+    "2" : "s(Lizzie_Mickery) dbo:imdbId o'<0585319>",
+    "3" : "s(Lizzie_Mickery) dbp:date o'<October 2013>",
+    "4" : "s(Lizzie_Mickery) dbp:name o'<Elizabeth Mickery>",
+    "5" : "s(Lizzie_Mickery) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "11" : "s(lizzie mickery=Lizzie_Mickery) [combining career ] o'<the uk=United_Kingdom>"
+  },
+  "abstract" : {
+    "11" : "since 2012 lizzie mickery<Lizzie_Mickery> has been combining her career in the uk<United_Kingdom> with one in los angeles\n"
+  }
+}, {
+  "entityIndex" : "entity13316",
+  "entityUrl" : "http://dbpedia.org/resource/Lois_Baxter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lois_Baxter) dbo:birthDate o'<1947-04-26>",
+    "2" : "s(Lois_Baxter) dbo:birthDate o'<1947-4-26>",
+    "3" : "s(Lois_Baxter) dbo:birthName o'<Lois Ann Baxter>",
+    "4" : "s(Lois_Baxter) dbo:birthPlace o'<UK>",
+    "5" : "s(Lois_Baxter) dbo:birthPlace o'<England>",
+    "6" : "s(Lois_Baxter) dbo:birthPlace o'<Bridgwater>",
+    "7" : "s(Lois_Baxter) dbo:birthPlace o'<Somerset>",
+    "8" : "s(Lois_Baxter) dbo:birthYear o'<1947>",
+    "9" : "s(Lois_Baxter) dbo:country o'<United_Kingdom>",
+    "10" : "s(Lois_Baxter) dbo:imdbId o'<0062779>",
+    "11" : "s(Lois_Baxter) dbo:occupation o'<Actress>",
+    "12" : "s(Lois_Baxter) dbo:occupation o'<Lois_Baxter__1>",
+    "13" : "s(Lois_Baxter) dbp:name o'<Lois Baxter>",
+    "14" : "s(Lois_Baxter) dbp:parents o'<Christine D Baxter>",
+    "15" : "s(Lois_Baxter) dbp:parents o'<Dr John Baxter>",
+    "16" : "s(Lois_Baxter) dbp:spouse o'<David Savile>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(lois baxter=Lois_Baxter) [born in ] o'<bridgwater=Bridgwater>"
+  },
+  "abstract" : {
+    "4" : "lois baxter<Lois_Baxter> was born in bridgwater<Bridgwater>, somerset<Somerset> on 26 april 1947, the daughter of dr john baxter and christine d"
+  }
+}, {
+  "entityIndex" : "entity13317",
+  "entityUrl" : "http://dbpedia.org/resource/Lena_Nyman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lena_Nyman) dbo:birthDate o'<1944-05-23>",
+    "2" : "s(Lena_Nyman) dbo:birthDate o'<1944-5-23>",
+    "3" : "s(Lena_Nyman) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Lena_Nyman) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Lena_Nyman) dbo:deathDate o'<2011-02-04>",
+    "6" : "s(Lena_Nyman) dbo:deathDate o'<2011-2-4>",
+    "7" : "s(Lena_Nyman) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Lena_Nyman) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13318",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Mahoney",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Mahoney) dbo:birthDate o'<1938-09-08>",
+    "2" : "s(Louis_Mahoney) dbo:birthDate o'<1938-9-8>",
+    "3" : "s(Louis_Mahoney) dbo:birthPlace o'<The_Gambia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13319",
+  "entityUrl" : "http://dbpedia.org/resource/Lorna_Want",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lorna_Want) dbo:birthDate o'<1987-6-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13320",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Bingbing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Bingbing) dbo:birthDate o'<1973-2-27>",
+    "2" : "s(Li_Bingbing) dbo:birthPlace o'<Harbin>",
+    "3" : "s(Li_Bingbing) dbp:birthPlace o'<China>",
+    "4" : "s(Li_Bingbing) dbp:birthPlace o'<Wuchang,_Heilongjiang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13321",
+  "entityUrl" : "http://dbpedia.org/resource/Leila_Tong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leila_Tong) dbo:birthDate o'<1981-12-5>",
+    "2" : "s(Leila_Tong) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Leila_Tong) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Leila_Tong) dbp:name o'<Leila Tong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13322",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Chung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Linda_Chung) dbo:birthDate o'<1984-4-9>",
+    "2" : "s(Linda_Chung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Linda_Chung) dbp:birthPlace o'<Maple_Ridge,_British_Columbia>",
+    "4" : "s(Linda_Chung) dbp:birthPlace o'<British_Columbia,_Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13323",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Tao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Tao) dbo:birthDate o'<1978-7-12>",
+    "2" : "s(Liu_Tao) dbo:birthPlace o'<Nanchang>",
+    "3" : "s(Liu_Tao) dbp:birthPlace o'<China>",
+    "4" : "s(Liu_Tao) dbp:birthPlace o'<Nanchang>",
+    "5" : "s(Liu_Tao) dbp:birthPlace o'<Jiangxi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13324",
+  "entityUrl" : "http://dbpedia.org/resource/Lawrence_Chou",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lawrence_Chou) dbo:birthDate o'<1979-4-19>",
+    "2" : "s(Lawrence_Chou) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Lawrence_Chou) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13325",
+  "entityUrl" : "http://dbpedia.org/resource/Leilani_Gaja",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leilani_Gaja) dbo:birthDate o'<1985-2-12>",
+    "2" : "s(Leilani_Gaja) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13326",
+  "entityUrl" : "http://dbpedia.org/resource/Lucinda_Kennard",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13327",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Qian_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Qian_(actress)) dbo:birthDate o'<1984-3-6>",
+    "2" : "s(Li_Qian_(actress)) dbp:birthPlace o'<Hunan>",
+    "3" : "s(Li_Qian_(actress)) dbp:birthPlace o'<China>",
+    "4" : "s(Li_Qian_(actress)) dbp:birthPlace o'<Changsha>",
+    "5" : "s(Li_Qian_(actress)) dbp:name o'<Li Qian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13328",
+  "entityUrl" : "http://dbpedia.org/resource/Leanne_Li",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leanne_Li) dbo:birthDate o'<1984-11-25>",
+    "2" : "s(Leanne_Li) dbp:birthPlace o'<China>",
+    "3" : "s(Leanne_Li) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(leanne li=Leanne_Li) [2005 miss ] o'<chinese=China>"
+  },
+  "abstract" : {
+    "2" : "leanne li<Leanne_Li> was the 2005 miss chinese<China> international pageant winner hailing from vancouver, british columbia\n"
+  }
+}, {
+  "entityIndex" : "entity13329",
+  "entityUrl" : "http://dbpedia.org/resource/Liza_del_Mundo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liza_del_Mundo) dbo:birthDate o'<1975-03-08>",
+    "2" : "s(Liza_del_Mundo) dbo:birthDate o'<1975-3-8>",
+    "3" : "s(Liza_del_Mundo) dbo:birthPlace o'<San_Diego>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13330",
+  "entityUrl" : "http://dbpedia.org/resource/Lucy_Robinson_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lucy_Robinson_(actress)) dbo:birthDate o'<1968-09-07>",
+    "2" : "s(Lucy_Robinson_(actress)) dbo:birthDate o'<2000-1-1>",
+    "3" : "s(Lucy_Robinson_(actress)) dbo:birthPlace o'<England>",
+    "4" : "s(Lucy_Robinson_(actress)) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Lucy_Robinson_(actress)) dbo:birthPlace o'<Worthing>",
+    "6" : "s(Lucy_Robinson_(actress)) dbo:birthPlace o'<West_Sussex>",
+    "7" : "s(Lucy_Robinson_(actress)) dbp:name o'<Lucy Robinson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13331",
+  "entityUrl" : "http://dbpedia.org/resource/Lillian_Zuckerman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lillian_Zuckerman) dbo:activeYearsEndYear o'<1987>",
+    "2" : "s(Lillian_Zuckerman) dbo:activeYearsStartYear o'<1972>",
+    "3" : "s(Lillian_Zuckerman) dbo:birthDate o'<1916-09-16>",
+    "4" : "s(Lillian_Zuckerman) dbo:birthDate o'<1916-9-16>",
+    "5" : "s(Lillian_Zuckerman) dbo:birthPlace o'<Baltimore>",
+    "6" : "s(Lillian_Zuckerman) dbo:birthPlace o'<Baltimore,_Maryland>",
+    "7" : "s(Lillian_Zuckerman) dbo:deathDate o'<2004-10-11>",
+    "8" : "s(Lillian_Zuckerman) dbo:deathPlace o'<Miami,_Florida>",
+    "9" : "s(Lillian_Zuckerman) dbo:deathPlace o'<Miami>",
+    "10" : "s(Lillian_Zuckerman) dbp:occupation o'<film actress>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(lillian zuckerman=Lillian_Zuckerman) [born in ] o'<baltimore=Baltimore>"
+  },
+  "abstract" : {
+    "2" : "lillian zuckerman<Lillian_Zuckerman> was born in baltimore<Baltimore>, maryland<Baltimore,_Maryland> and died in miami<Miami>, florida<Miami,_Florida>\n"
+  }
+}, {
+  "entityIndex" : "entity13332",
+  "entityUrl" : "http://dbpedia.org/resource/Leo_Hallerstam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leo_Hallerstam) dbo:birthDate o'<1986-7-26>",
+    "2" : "s(Leo_Hallerstam) dbo:imdbId o'<1189547>",
+    "3" : "s(Leo_Hallerstam) dbo:nationality o'<Sweden>",
+    "4" : "s(Leo_Hallerstam) dbp:name o'<Leo Hallerstam>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(leo hallerstam=Leo_Hallerstam) [done voices for ] o'<swedish language=Sweden>",
+    "4" : "s(leo hallerstam=Leo_Hallerstam) [played role of ] o'<sweden=Sweden>"
+  },
+  "abstract" : {
+    "2" : "leo hallerstam<Leo_Hallerstam> has done the voices for several swedish language<Sweden> dubbed versions of movies and cartoons, including the voice of charlie brown\n",
+    "4" : "leo hallerstam<Leo_Hallerstam> played the role of a troubled teenager in the 2004 film miss sweden<Sweden>\n"
+  }
+}, {
+  "entityIndex" : "entity13333",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Armstrong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Linda_Armstrong) dbo:wikiPageDisambiguates o'<Linda_Armstrong_(actress)>",
+    "2" : "s(Linda_Armstrong) dbo:wikiPageDisambiguates o'<Linda_Armstrong_(artist)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13334",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Palfrey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lisa_Palfrey) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(Lisa_Palfrey) dbo:birthPlace o'<Wales>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13335",
+  "entityUrl" : "http://dbpedia.org/resource/Luisa_Bradshaw-White",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Luisa_Bradshaw-White) dbo:birthDate o'<1974-12-09>",
+    "2" : "s(Luisa_Bradshaw-White) dbo:birthDate o'<1975-12-9>",
+    "3" : "s(Luisa_Bradshaw-White) dbo:birthPlace o'<Eastcote>",
+    "4" : "s(Luisa_Bradshaw-White) dbo:birthPlace o'<Greater_London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13336",
+  "entityUrl" : "http://dbpedia.org/resource/Lu_Yi_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lu_Yi_(actor)) dbo:birthDate o'<1976-1-6>",
+    "2" : "s(Lu_Yi_(actor)) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Lu_Yi_(actor)) dbp:birthPlace o'<China>",
+    "4" : "s(Lu_Yi_(actor)) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13337",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_MacDonald",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_MacDonald) dbo:activeYearsStartYear o'<1979>",
+    "2" : "s(Lee_MacDonald) dbo:birthDate o'<1968-06-21>",
+    "3" : "s(Lee_MacDonald) dbo:birthDate o'<1968-6-21>",
+    "4" : "s(Lee_MacDonald) dbo:birthName o'<Lee MacDonald>",
+    "5" : "s(Lee_MacDonald) dbo:birthYear o'<1968>",
+    "6" : "s(Lee_MacDonald) dbo:country o'<England>",
+    "7" : "s(Lee_MacDonald) dbo:occupation o'<Lee_MacDonald__1>",
+    "8" : "s(Lee_MacDonald) dbp:imagesize o'<200>",
+    "9" : "s(Lee_MacDonald) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13338",
+  "entityUrl" : "http://dbpedia.org/resource/Lally_Bowers",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lally_Bowers) dbo:activeYearsEndYear o'<1984>",
+    "2" : "s(Lally_Bowers) dbo:activeYearsStartYear o'<1939>",
+    "3" : "s(Lally_Bowers) dbo:birthDate o'<1917-01-21>",
+    "4" : "s(Lally_Bowers) dbo:birthDate o'<1914-1-21>",
+    "5" : "s(Lally_Bowers) dbo:birthName o'<Kathleen Bowers>",
+    "6" : "s(Lally_Bowers) dbo:birthPlace o'<England>",
+    "7" : "s(Lally_Bowers) dbo:birthPlace o'<Oldham>",
+    "8" : "s(Lally_Bowers) dbo:birthPlace o'<Lancashire>",
+    "9" : "s(Lally_Bowers) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "10" : "s(Lally_Bowers) dbo:birthYear o'<1917>",
+    "11" : "s(Lally_Bowers) dbo:country o'<England>",
+    "12" : "s(Lally_Bowers) dbo:deathDate o'<1984-07-18>",
+    "13" : "s(Lally_Bowers) dbo:deathDate o'<1984-7-18>",
+    "14" : "s(Lally_Bowers) dbo:deathPlace o'<England>",
+    "15" : "s(Lally_Bowers) dbo:deathPlace o'<London>",
+    "16" : "s(Lally_Bowers) dbo:deathYear o'<1984>",
+    "17" : "s(Lally_Bowers) dbo:imdbId o'<0101076>",
+    "18" : "s(Lally_Bowers) dbp:name o'<Lally Bowers>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13339",
+  "entityUrl" : "http://dbpedia.org/resource/Louise_Harrison",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louise_Harrison) dbo:birthDate o'<1962-11-26>",
+    "2" : "s(Louise_Harrison) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13340",
+  "entityUrl" : "http://dbpedia.org/resource/Lucia_Giannecchini",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lucia_Giannecchini) dbo:birthDate o'<1977-6-9>",
+    "2" : "s(Lucia_Giannecchini) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13341",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Turnbull_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_Turnbull_(actor)) dbo:birthPlace o'<Scotland>",
+    "2" : "s(Lee_Turnbull_(actor)) dbo:country o'<England>",
+    "3" : "s(Lee_Turnbull_(actor)) dbo:imdbId o'<0877329>",
+    "4" : "s(Lee_Turnbull_(actor)) dbp:name o'<Lee Turnbull>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13342",
+  "entityUrl" : "http://dbpedia.org/resource/Lorraine_Hilton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lorraine_Hilton) dbo:country o'<United_Kingdom>",
+    "2" : "s(Lorraine_Hilton) dbo:imdbId o'<0385284>",
+    "3" : "s(Lorraine_Hilton) dbp:name o'<Lorraine Hilton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13343",
+  "entityUrl" : "http://dbpedia.org/resource/Leena_Dhingra",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leena_Dhingra) dbo:country o'<United_Kingdom>",
+    "2" : "s(Leena_Dhingra) dbo:imdbId o'<0223568>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13344",
+  "entityUrl" : "http://dbpedia.org/resource/L%C6%B0%C6%A1ng_B%C3%ADch_H%E1%BB%AFu",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13345",
+  "entityUrl" : "http://dbpedia.org/resource/Lizzie_Waterworth",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13346",
+  "entityUrl" : "http://dbpedia.org/resource/Lena_Bergman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lena_Bergman) dbo:birthDate o'<1943-12-21>",
+    "2" : "s(Lena_Bergman) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Lena_Bergman) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Lena_Bergman) dbp:name o'<Lena Bergman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13347",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Wai-hung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Wai-hung) dbo:birthDate o'<1957-1-1>",
+    "2" : "s(Liu_Wai-hung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13348",
+  "entityUrl" : "http://dbpedia.org/resource/Lai_Lok-yi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lai_Lok-yi) dbo:birthDate o'<1980-6-15>",
+    "2" : "s(Lai_Lok-yi) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13349",
+  "entityUrl" : "http://dbpedia.org/resource/Laurence_Howarth",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Laurence_Howarth) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13350",
+  "entityUrl" : "http://dbpedia.org/resource/Law_Wing-cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Law_Wing-cheung) dbp:name o'<Law Wing-Cheong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13351",
+  "entityUrl" : "http://dbpedia.org/resource/Lila_Leslie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lila_Leslie) dbo:birthDate o'<1890-01-01>",
+    "2" : "s(Lila_Leslie) dbo:birthDate o'<1890-1-1>",
+    "3" : "s(Lila_Leslie) dbo:birthPlace o'<Scotland>",
+    "4" : "s(Lila_Leslie) dbo:deathDate o'<1940-9-8>",
+    "5" : "s(Lila_Leslie) dbo:deathPlace o'<Los_Angeles>",
+    "6" : "s(Lila_Leslie) dbo:deathPlace o'<Los_Angeles,_California>",
+    "7" : "s(Lila_Leslie) dbp:name o'<Lila Leslie>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13352",
+  "entityUrl" : "http://dbpedia.org/resource/Leslie_Perrins",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leslie_Perrins) dbo:birthDate o'<1901-10-7>",
+    "2" : "s(Leslie_Perrins) dbo:birthPlace o'<Moseley>",
+    "3" : "s(Leslie_Perrins) dbo:deathDate o'<1962-12-13>",
+    "4" : "s(Leslie_Perrins) dbo:deathPlace o'<Esher>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13353",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Siu-kei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_Siu-kei) dbo:birthDate o'<1955-12-4>",
+    "2" : "s(Lee_Siu-kei) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13354",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Kang-sheng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_Kang-sheng) dbo:birthDate o'<1968-10-21>",
+    "2" : "s(Lee_Kang-sheng) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Lee_Kang-sheng) dbp:birthPlace o'<Taipei>",
+    "4" : "s(Lee_Kang-sheng) dbp:birthPlace o'<Taiwan_Province>",
+    "5" : "s(Lee_Kang-sheng) dbp:name o'<Lee Kang-sheng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13355",
+  "entityUrl" : "http://dbpedia.org/resource/Lymari_Nadal",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lymari_Nadal) dbo:birthDate o'<1978-02-11>",
+    "2" : "s(Lymari_Nadal) dbo:birthDate o'<1978-2-11>",
+    "3" : "s(Lymari_Nadal) dbo:birthPlace o'<Puerto_Rico>",
+    "4" : "s(Lymari_Nadal) dbo:birthPlace o'<Ponce,_Puerto_Rico>",
+    "5" : "s(Lymari_Nadal) dbp:name o'<Lymari Nadal>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13356",
+  "entityUrl" : "http://dbpedia.org/resource/Liliane_Nemri",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liliane_Nemri) dbo:activeYearsEndYear o'<1971>",
+    "2" : "s(Liliane_Nemri) dbo:activeYearsStartYear o'<1971>",
+    "3" : "s(Liliane_Nemri) dbo:birthDate o'<1963-1-1>",
+    "4" : "s(Liliane_Nemri) dbo:birthPlace o'<Lebanon>",
+    "5" : "s(Liliane_Nemri) dbp:birthDate o'<Oct 10>",
+    "6" : "s(Liliane_Nemri) dbp:genre o'<comedian>",
+    "7" : "s(Liliane_Nemri) dbp:occupation o'<actress>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(liliane nemri=Liliane_Nemri) [entered theatre world with ] o'<actor=Actress>",
+    "5" : "s(liliane nemri=Liliane_Nemri) [starred with him in many ] o'<comedy=Comedian>"
+  },
+  "abstract" : {
+    "4" : "liliane nemri<Liliane_Nemri> entered the theatre world with her father, who was also an actor<Actress>\n",
+    "5" : "liliane nemri<Liliane_Nemri> starred with him in many plays, and gained many roles that introduced her to a large group of lebanese and arab fans, and allowed her to become a comedy<Comedian> icon thanks to her funny spirit and strong sense of humour\n"
+  }
+}, {
+  "entityIndex" : "entity13357",
+  "entityUrl" : "http://dbpedia.org/resource/Lilian_Bond",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lilian_Bond) dbo:birthDate o'<1908-01-18>",
+    "2" : "s(Lilian_Bond) dbo:birthDate o'<1908-1-18>",
+    "3" : "s(Lilian_Bond) dbo:birthPlace o'<London>",
+    "4" : "s(Lilian_Bond) dbo:birthPlace o'<London,_England>",
+    "5" : "s(Lilian_Bond) dbo:deathDate o'<1991-01-25>",
+    "6" : "s(Lilian_Bond) dbo:deathDate o'<1991-1-25>",
+    "7" : "s(Lilian_Bond) dbo:deathPlace o'<California>",
+    "8" : "s(Lilian_Bond) dbo:deathPlace o'<Reseda,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13358",
+  "entityUrl" : "http://dbpedia.org/resource/Lewis_Lempereur-Palmer",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lewis_Lempereur-Palmer) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13359",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Pr%C3%A9jean",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13360",
+  "entityUrl" : "http://dbpedia.org/resource/Leila_Birch",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leila_Birch) dbo:birthDate o'<1978-1-1>",
+    "2" : "s(Leila_Birch) dbo:birthPlace o'<England>",
+    "3" : "s(Leila_Birch) dbo:birthPlace o'<London>",
+    "4" : "s(Leila_Birch) dbp:name o'<Leila Birch>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13361",
+  "entityUrl" : "http://dbpedia.org/resource/Lu_Yi-ching",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lu_Yi-ching) dbo:birthDate o'<1958-10-23>",
+    "2" : "s(Lu_Yi-ching) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13362",
+  "entityUrl" : "http://dbpedia.org/resource/Lars_Ekborg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lars_Ekborg) dbo:birthDate o'<1926-06-06>",
+    "2" : "s(Lars_Ekborg) dbo:birthDate o'<1926-6-6>",
+    "3" : "s(Lars_Ekborg) dbo:birthPlace o'<Uppsala>",
+    "4" : "s(Lars_Ekborg) dbo:deathDate o'<1969-10-07>",
+    "5" : "s(Lars_Ekborg) dbo:deathDate o'<1969-10-7>",
+    "6" : "s(Lars_Ekborg) dbo:deathPlace o'<Ängelholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13363",
+  "entityUrl" : "http://dbpedia.org/resource/Lloyd_McGuire",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lloyd_McGuire) dbp:name o'<Lloyd McGuire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13364",
+  "entityUrl" : "http://dbpedia.org/resource/Lucinda_Childs",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lucinda_Childs) dbo:birthDate o'<1940-06-26>",
+    "2" : "s(Lucinda_Childs) dbo:birthDate o'<1940-6-26>",
+    "3" : "s(Lucinda_Childs) dbo:birthPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13365",
+  "entityUrl" : "http://dbpedia.org/resource/Lung_Fong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lung_Fong) dbo:birthDate o'<1954-2-25>",
+    "2" : "s(Lung_Fong) dbo:deathDate o'<2008-11-14>",
+    "3" : "s(Lung_Fong) dbp:birthPlace o'<China>",
+    "4" : "s(Lung_Fong) dbp:deathPlace o'<Xi'an, Shaanxi, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13366",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Wenhai_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Wenhai_(actor)) dbo:birthPlace o'<Singapore>",
+    "2" : "s(Li_Wenhai_(actor)) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13367",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_Noble_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Larry_Noble_(actor)) dbo:birthDate o'<1914-12-13>",
+    "2" : "s(Larry_Noble_(actor)) dbo:birthPlace o'<Huddersfield>",
+    "3" : "s(Larry_Noble_(actor)) dbo:deathDate o'<1993-9-9>",
+    "4" : "s(Larry_Noble_(actor)) dbo:deathPlace o'<London_Borough_of_Camden>",
+    "5" : "s(Larry_Noble_(actor)) dbp:name o'<Larry Noble>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13368",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Shing-cheong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Shing-cheong) dbo:birthDate o'<1949-1-1>",
+    "2" : "s(Li_Shing-cheong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13369",
+  "entityUrl" : "http://dbpedia.org/resource/Lina_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lina_Ng) dbo:birthDate o'<1974-5-6>",
+    "2" : "s(Lina_Ng) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13370",
+  "entityUrl" : "http://dbpedia.org/resource/Liana_Bridges",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liana_Bridges) dbo:activeYearsStartYear o'<1995>",
+    "2" : "s(Liana_Bridges) dbo:almaMater o'<Colchester_Sixth_Form_College>",
+    "3" : "s(Liana_Bridges) dbo:birthDate o'<1969-12-25>",
+    "4" : "s(Liana_Bridges) dbo:birthName o'<Liana Bridges>",
+    "5" : "s(Liana_Bridges) dbo:birthPlace o'<Essex>",
+    "6" : "s(Liana_Bridges) dbo:birthPlace o'<England>",
+    "7" : "s(Liana_Bridges) dbo:birthPlace o'<Harwich>",
+    "8" : "s(Liana_Bridges) dbo:birthYear o'<1969>",
+    "9" : "s(Liana_Bridges) dbo:country o'<England>",
+    "10" : "s(Liana_Bridges) dbo:imdbId o'<0108770>",
+    "11" : "s(Liana_Bridges) dbo:nationality o'<British_people>",
+    "12" : "s(Liana_Bridges) dbo:occupation o'<Film>",
+    "13" : "s(Liana_Bridges) dbo:occupation o'<Television>",
+    "14" : "s(Liana_Bridges) dbo:occupation o'<Liana_Bridges__1>",
+    "15" : "s(Liana_Bridges) dbo:stateOfOrigin o'<British_people>",
+    "16" : "s(Liana_Bridges) dbp:name o'<Liana Bridges>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(liana bridges=Liana_Bridges) [born 25 december 1969 ] o'<british actress=England>"
+  },
+  "abstract" : {
+    "1" : "liana bridges<Liana_Bridges> (born 25 december 1969) is a british actress<England>, best known for co-presenting sooty & co"
+  }
+}, {
+  "entityIndex" : "entity13371",
+  "entityUrl" : "http://dbpedia.org/resource/Lulu_Popplewell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lulu_Popplewell) dbo:birthDate o'<1991-01-15>",
+    "2" : "s(Lulu_Popplewell) dbo:birthDate o'<1991-1-15>",
+    "3" : "s(Lulu_Popplewell) dbo:birthPlace o'<London>",
+    "4" : "s(Lulu_Popplewell) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Lulu_Popplewell) dbo:birthPlace o'<London,_England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13372",
+  "entityUrl" : "http://dbpedia.org/resource/Lucy_Russell_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lucy_Russell_(actress)) dbo:birthDate o'<1972-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13373",
+  "entityUrl" : "http://dbpedia.org/resource/Leo_Gregory",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leo_Gregory) dbo:birthDate o'<1978-11-22>",
+    "2" : "s(Leo_Gregory) dbo:birthPlace o'<Leicester>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13374",
+  "entityUrl" : "http://dbpedia.org/resource/Lex_Shrapnel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lex_Shrapnel) dbo:birthDate o'<1979-10-06>",
+    "2" : "s(Lex_Shrapnel) dbo:birthDate o'<1979-10-6>",
+    "3" : "s(Lex_Shrapnel) dbo:birthPlace o'<England>",
+    "4" : "s(Lex_Shrapnel) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13375",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Wen_Zheng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Wen_Zheng) dbo:birthDate o'<1952-11-12>",
+    "2" : "s(Liu_Wen_Zheng) dbp:birthPlace o'<Taipei, Republic of China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13376",
+  "entityUrl" : "http://dbpedia.org/resource/Loretta_Yang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Loretta_Yang) dbo:birthDate o'<1952-7-16>",
+    "2" : "s(Loretta_Yang) dbp:birthPlace o'<Taiwan>",
+    "3" : "s(Loretta_Yang) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13377",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Sheung-ching",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13378",
+  "entityUrl" : "http://dbpedia.org/resource/Lau_Kar-wing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lau_Kar-wing) dbo:birthDate o'<1944-0-0>",
+    "2" : "s(Lau_Kar-wing) dbp:birthPlace o'<Jiangmen>",
+    "3" : "s(Lau_Kar-wing) dbp:birthPlace o'<People's_Republic_of_China>",
+    "4" : "s(Lau_Kar-wing) dbp:birthPlace o'<Guangdong>",
+    "5" : "s(Lau_Kar-wing) dbp:name o'<Lau Kar Wing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13379",
+  "entityUrl" : "http://dbpedia.org/resource/Lord_Tim_Hudson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lord_Tim_Hudson) dbo:birthDate o'<1940-02-11>",
+    "2" : "s(Lord_Tim_Hudson) dbo:birthDate o'<1940-2-11>",
+    "3" : "s(Lord_Tim_Hudson) dbo:birthPlace o'<Cheshire>",
+    "4" : "s(Lord_Tim_Hudson) dbo:birthPlace o'<Prestbury,_Cheshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13380",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Heung-kam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_Heung-kam) dbo:birthDate o'<1932-1-13>",
+    "2" : "s(Lee_Heung-kam) dbo:birthPlace o'<Shunde_District>",
+    "3" : "s(Lee_Heung-kam) dbp:birthPlace o'<Republic_of_China>",
+    "4" : "s(Lee_Heung-kam) dbp:birthPlace o'<Guangdong>",
+    "5" : "s(Lee_Heung-kam) dbp:birthPlace o'<Shunde>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13381",
+  "entityUrl" : "http://dbpedia.org/resource/Lau_Kong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lau_Kong) dbo:birthDate o'<1937-10-27>",
+    "2" : "s(Lau_Kong) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Lau_Kong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13382",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_S.",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lisa_S.) dbo:birthDate o'<1980-5-26>",
+    "2" : "s(Lisa_S.) dbo:birthPlace o'<Monaco>",
+    "3" : "s(Lisa_S.) dbp:birthPlace o'<Monaco>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13383",
+  "entityUrl" : "http://dbpedia.org/resource/Lo_Mang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lo_Mang) dbo:birthDate o'<1956-7-23>",
+    "2" : "s(Lo_Mang) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13384",
+  "entityUrl" : "http://dbpedia.org/resource/Lena_S%C3%B6derblom",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13385",
+  "entityUrl" : "http://dbpedia.org/resource/Lecatte-Folleville",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lecatte-Folleville) dbo:birthDate o'<1765-5-14>",
+    "2" : "s(Lecatte-Folleville) dbo:birthPlace o'<Paris>",
+    "3" : "s(Lecatte-Folleville) dbo:deathDate o'<1840-8-9>",
+    "4" : "s(Lecatte-Folleville) dbo:deathPlace o'<Q9005>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13386",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Petela",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Laura_Petela) dbo:birthDate o'<1983-07-08>",
+    "2" : "s(Laura_Petela) dbo:birthDate o'<1983-7-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13387",
+  "entityUrl" : "http://dbpedia.org/resource/Loong_Kin_Sang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Loong_Kin_Sang) dbo:birthDate o'<1944-1-1>",
+    "2" : "s(Loong_Kin_Sang) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13388",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Fan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Fan) dbo:birthDate o'<1973-6-19>",
+    "2" : "s(Louis_Fan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Louis_Fan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13389",
+  "entityUrl" : "http://dbpedia.org/resource/Ludde_Gentzel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ludde_Gentzel) dbo:birthDate o'<1885-01-17>",
+    "2" : "s(Ludde_Gentzel) dbo:birthDate o'<1885-1-17>",
+    "3" : "s(Ludde_Gentzel) dbo:birthPlace o'<Jönköping>",
+    "4" : "s(Ludde_Gentzel) dbo:deathDate o'<1963-03-05>",
+    "5" : "s(Ludde_Gentzel) dbo:deathDate o'<1963-3-5>",
+    "6" : "s(Ludde_Gentzel) dbo:deathPlace o'<Gothenburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13390",
+  "entityUrl" : "http://dbpedia.org/resource/Lasse_Krantz",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lasse_Krantz) dbo:birthDate o'<1903-08-10>",
+    "2" : "s(Lasse_Krantz) dbo:birthDate o'<1903-8-10>",
+    "3" : "s(Lasse_Krantz) dbo:birthPlace o'<Kristianstad>",
+    "4" : "s(Lasse_Krantz) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Lasse_Krantz) dbo:deathDate o'<1973-01-10>",
+    "6" : "s(Lasse_Krantz) dbo:deathDate o'<1973-1-10>",
+    "7" : "s(Lasse_Krantz) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Lasse_Krantz) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13391",
+  "entityUrl" : "http://dbpedia.org/resource/Lin_Feng-jiao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lin_Feng-jiao) dbo:wikiPageRedirects o'<Joan_Lin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13392",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Crossley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Laura_Crossley) dbo:birthDate o'<1979-08-29>",
+    "2" : "s(Laura_Crossley) dbo:birthDate o'<1979-8-29>",
+    "3" : "s(Laura_Crossley) dbo:birthPlace o'<Oldham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13393",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Yuen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Yuen) dbo:birthDate o'<1967-5-23>",
+    "2" : "s(Louis_Yuen) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13394",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Lingyu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Lingyu) dbo:birthDate o'<1963-4-9>",
+    "2" : "s(Li_Lingyu) dbp:birthPlace o'<Shanghai, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13395",
+  "entityUrl" : "http://dbpedia.org/resource/Lene_Lai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lene_Lai) dbo:birthDate o'<1989-6-6>",
+    "2" : "s(Lene_Lai) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Lene_Lai) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Lene_Lai) dbp:birthPlace o'<Taipei>",
+    "5" : "s(Lene_Lai) dbp:birthPlace o'<Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13396",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Xiaoran",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Xiaoran) dbo:birthDate o'<1976-5-8>",
+    "2" : "s(Li_Xiaoran) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Li_Xiaoran) dbp:birthPlace o'<Beijing, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13397",
+  "entityUrl" : "http://dbpedia.org/resource/Lesley_Wareing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lesley_Wareing) dbo:activeYearsEndYear o'<1939>",
+    "2" : "s(Lesley_Wareing) dbo:activeYearsStartYear o'<1931>",
+    "3" : "s(Lesley_Wareing) dbo:birthDate o'<1913-10-16>",
+    "4" : "s(Lesley_Wareing) dbo:birthPlace o'<London>",
+    "5" : "s(Lesley_Wareing) dbo:birthPlace o'<Hampstead>",
+    "6" : "s(Lesley_Wareing) dbo:birthPlace o'<United_Kingdom>",
+    "7" : "s(Lesley_Wareing) dbo:birthYear o'<1913>",
+    "8" : "s(Lesley_Wareing) dbo:deathDate o'<1988-04-13>",
+    "9" : "s(Lesley_Wareing) dbo:deathDate o'<1988-4-13>",
+    "10" : "s(Lesley_Wareing) dbo:deathPlace o'<Kent>",
+    "11" : "s(Lesley_Wareing) dbo:deathPlace o'<Faversham>",
+    "12" : "s(Lesley_Wareing) dbo:deathYear o'<1988>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(lesley wareing=Lesley_Wareing) [born in ] o'<hampstead=Hampstead>"
+  },
+  "abstract" : {
+    "2" : "lesley wareing<Lesley_Wareing> was born in hampstead<Hampstead>, london<Kent> in 1913 and made her debut in the 1931 film men like these\n"
+  }
+}, {
+  "entityIndex" : "entity13398",
+  "entityUrl" : "http://dbpedia.org/resource/Lilian_Oldland",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lilian_Oldland) dbo:birthDate o'<1903-02-07>",
+    "2" : "s(Lilian_Oldland) dbo:birthDate o'<1903-2-7>",
+    "3" : "s(Lilian_Oldland) dbo:birthPlace o'<England>",
+    "4" : "s(Lilian_Oldland) dbo:birthPlace o'<Gloucester>",
+    "5" : "s(Lilian_Oldland) dbo:deathDate o'<1984-9-1>",
+    "6" : "s(Lilian_Oldland) dbo:deathPlace o'<England>",
+    "7" : "s(Lilian_Oldland) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13399",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Wong_(musician)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Linda_Wong_(musician)) dbo:birthDate o'<1968-9-15>",
+    "2" : "s(Linda_Wong_(musician)) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Linda_Wong_(musician)) dbp:birthPlace o'<Hong Kong>",
+    "4" : "s(Linda_Wong_(musician)) dbp:exPartner o'<Kevin_Cheng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13400",
+  "entityUrl" : "http://dbpedia.org/resource/Liljay",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liljay) dbo:birthDate o'<1986-9-25>",
+    "2" : "s(Liljay) dbp:pinyinbirthname o'<Liào Jùn Jié>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13401",
+  "entityUrl" : "http://dbpedia.org/resource/Lydia_Shum",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lydia_Shum) dbo:birthDate o'<1945-6-1>",
+    "2" : "s(Lydia_Shum) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Lydia_Shum) dbo:deathDate o'<2008-2-19>",
+    "4" : "s(Lydia_Shum) dbo:deathPlace o'<Princess_Margaret_Hospital_(Hong_Kong)>",
+    "5" : "s(Lydia_Shum) dbp:birthPlace o'<China>",
+    "6" : "s(Lydia_Shum) dbp:birthPlace o'<Shanghai>",
+    "7" : "s(Lydia_Shum) dbp:deathPlace o'<Hong_Kong>",
+    "8" : "s(Lydia_Shum) dbp:name o'<Lydia Sum>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13402",
+  "entityUrl" : "http://dbpedia.org/resource/Lara_Goodison",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lara_Goodison) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(lara goodison=Lara_Goodison) [worked parttime in ] o'<home=England>"
+  },
+  "abstract" : {
+    "5" : "prior to shipwrecked, lara goodison<Lara_Goodison> had worked part-time in an old people's home<England>, but after returning lara goodison<Lara_Goodison> pursued a career in acting, despite having no professional training\n"
+  }
+}, {
+  "entityIndex" : "entity13403",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Cheung) dbo:birthDate o'<1979-1-11>",
+    "2" : "s(Louis_Cheung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Louis_Cheung) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13404",
+  "entityUrl" : "http://dbpedia.org/resource/Lena_T._Hansson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lena_T._Hansson) dbo:activeYearsStartYear o'<1974>",
+    "2" : "s(Lena_T._Hansson) dbo:birthDate o'<1955-05-18>",
+    "3" : "s(Lena_T._Hansson) dbo:birthDate o'<1955-5-18>",
+    "4" : "s(Lena_T._Hansson) dbo:birthName o'<Lena Teresia Hansson>",
+    "5" : "s(Lena_T._Hansson) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Lena_T._Hansson) dbo:birthPlace o'<Kungsholmen>",
+    "7" : "s(Lena_T._Hansson) dbo:birthPlace o'<Sweden>",
+    "8" : "s(Lena_T._Hansson) dbo:birthYear o'<1955>",
+    "9" : "s(Lena_T._Hansson) dbo:nationality o'<Sweden>",
+    "10" : "s(Lena_T._Hansson) dbo:occupation o'<Actor>",
+    "11" : "s(Lena_T._Hansson) dbo:occupation o'<Lena_T._Hansson__1>",
+    "12" : "s(Lena_T._Hansson) dbo:partner o'<Peter_Haber>",
+    "13" : "s(Lena_T._Hansson) dbo:stateOfOrigin o'<Sweden>",
+    "14" : "s(Lena_T._Hansson) dbp:children o'<2>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(lena t. hansson=Lena_T._Hansson) [studied at ] o'<swedish=Sweden>",
+    "4" : "s(lena t. hansson=Lena_T._Hansson) [won award for best ] o'<actress=Actor>"
+  },
+  "abstract" : {
+    "2" : "lena t. hansson<Lena_T._Hansson> studied at swedish<Sweden> national academy of mime and acting<Actor> in stockholm<Stockholm>\n",
+    "4" : "at the 24th guldbagge awards lena t. hansson<Lena_T._Hansson> won the award for best actress<Actor> for her role in lethal film<Actor>\n"
+  }
+}, {
+  "entityIndex" : "entity13405",
+  "entityUrl" : "http://dbpedia.org/resource/Lilian_Johansson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lilian_Johansson) dbo:birthDate o'<1948-03-10>",
+    "2" : "s(Lilian_Johansson) dbo:birthDate o'<1948-3-10>",
+    "3" : "s(Lilian_Johansson) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Lilian_Johansson) dbo:birthYear o'<1948>",
+    "5" : "s(Lilian_Johansson) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(lilian johansson=Lilian_Johansson) [engaged at ] o'<stockholm city=Stockholm>"
+  },
+  "abstract" : {
+    "2" : "lilian johansson<Lilian_Johansson> has been engaged at the stockholm city<Stockholm> theatre since 1978\n"
+  }
+}, {
+  "entityIndex" : "entity13406",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Peiqi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Peiqi) dbo:birthDate o'<1957-11-30>",
+    "2" : "s(Liu_Peiqi) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Liu_Peiqi) dbp:birthPlace o'<Beijing>",
+    "4" : "s(Liu_Peiqi) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13407",
+  "entityUrl" : "http://dbpedia.org/resource/Lin_Meijiao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lin_Meijiao) dbo:birthDate o'<1963-12-24>",
+    "2" : "s(Lin_Meijiao) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13408",
+  "entityUrl" : "http://dbpedia.org/resource/Lars_Passg%C3%A5rd",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13409",
+  "entityUrl" : "http://dbpedia.org/resource/Lena_Granhagen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lena_Granhagen) dbo:activeYearsStartYear o'<1958>",
+    "2" : "s(Lena_Granhagen) dbo:birthDate o'<1938-01-07>",
+    "3" : "s(Lena_Granhagen) dbo:birthDate o'<1938-1-7>",
+    "4" : "s(Lena_Granhagen) dbo:birthName o'<Karin Anna-Lena Granhagen>",
+    "5" : "s(Lena_Granhagen) dbo:birthPlace o'<Luleå>",
+    "6" : "s(Lena_Granhagen) dbo:birthYear o'<1938>",
+    "7" : "s(Lena_Granhagen) dbo:nationality o'<Sweden>",
+    "8" : "s(Lena_Granhagen) dbo:occupation o'<Lena_Granhagen__1>",
+    "9" : "s(Lena_Granhagen) dbp:nationality o'<Swedish>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(lena granhagen=Lena_Granhagen) [starred in 1969 film ] o'<sweden=Sweden>"
+  },
+  "abstract" : {
+    "3" : "lena granhagen<Lena_Granhagen> starred in the 1969 film made in sweden<Sweden>, which won a silver bear award at the 19th berlin international film festival\n"
+  }
+}, {
+  "entityIndex" : "entity13410",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Lili",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Lili) dbo:birthDate o'<1915-6-2>",
+    "2" : "s(Li_Lili) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Li_Lili) dbo:deathDate o'<2005-8-7>",
+    "4" : "s(Li_Lili) dbo:deathPlace o'<Beijing>",
+    "5" : "s(Li_Lili) dbp:birthPlace o'<Beijing, China>",
+    "6" : "s(Li_Lili) dbp:deathPlace o'<Beijing, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13411",
+  "entityUrl" : "http://dbpedia.org/resource/Lu_Chen_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lu_Chen_(actress)) dbo:birthDate o'<1987-9-20>",
+    "2" : "s(Lu_Chen_(actress)) dbp:birthPlace o'<Harbin, Heilongjiang, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13412",
+  "entityUrl" : "http://dbpedia.org/resource/Luo_Jin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Luo_Jin) dbo:birthDate o'<1981-11-30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13413",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Shishi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Shishi) dbo:birthDate o'<1987-3-10>",
+    "2" : "s(Liu_Shishi) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Liu_Shishi) dbp:birthPlace o'<Beijing>",
+    "4" : "s(Liu_Shishi) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13414",
+  "entityUrl" : "http://dbpedia.org/resource/Louise_Hampton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louise_Hampton) dbo:activeYearsEndYear o'<1954>",
+    "2" : "s(Louise_Hampton) dbo:activeYearsStartYear o'<1911>",
+    "3" : "s(Louise_Hampton) dbo:birthDate o'<1881-0-0>",
+    "4" : "s(Louise_Hampton) dbo:birthPlace o'<Cheshire>",
+    "5" : "s(Louise_Hampton) dbo:birthPlace o'<England>",
+    "6" : "s(Louise_Hampton) dbo:birthPlace o'<Stockport>",
+    "7" : "s(Louise_Hampton) dbo:birthYear o'<1881>",
+    "8" : "s(Louise_Hampton) dbo:country o'<England>",
+    "9" : "s(Louise_Hampton) dbo:deathDate o'<1954-02-11>",
+    "10" : "s(Louise_Hampton) dbo:deathDate o'<1954-2-11>",
+    "11" : "s(Louise_Hampton) dbo:deathPlace o'<England>",
+    "12" : "s(Louise_Hampton) dbo:deathPlace o'<London>",
+    "13" : "s(Louise_Hampton) dbo:deathYear o'<1954>",
+    "14" : "s(Louise_Hampton) dbo:occupation o'<Louise_Hampton__1>",
+    "15" : "s(Louise_Hampton) dbo:occupation o'<Film_actress>",
+    "16" : "s(Louise_Hampton) dbo:occupation o'<Television_actress>",
+    "17" : "s(Louise_Hampton) dbo:occupation o'<Stage_actress>",
+    "18" : "s(Louise_Hampton) dbp:imdbId o'<359021>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(louise hampton=Louise_Hampton) [made ] o'<film=Film_actress>"
+  },
+  "abstract" : {
+    "2" : "an accomplished stage actress<Stage_actress> with many west end theatre appearances to her name, louise hampton<Louise_Hampton> made her film<Film_actress> debut in 1911, in the silent thriller driving a girl to destruction\n"
+  }
+}, {
+  "entityIndex" : "entity13415",
+  "entityUrl" : "http://dbpedia.org/resource/Lesley_Brook",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lesley_Brook) dbo:birthDate o'<1917-02-18>",
+    "2" : "s(Lesley_Brook) dbo:birthDate o'<1917-2-18>",
+    "3" : "s(Lesley_Brook) dbo:birthPlace o'<Kent>",
+    "4" : "s(Lesley_Brook) dbo:birthPlace o'<Folkestone>",
+    "5" : "s(Lesley_Brook) dbo:deathDate o'<2009-02-07>",
+    "6" : "s(Lesley_Brook) dbo:deathDate o'<2009-2-7>",
+    "7" : "s(Lesley_Brook) dbo:deathPlace o'<Hampshire>",
+    "8" : "s(Lesley_Brook) dbo:deathPlace o'<Odiham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13416",
+  "entityUrl" : "http://dbpedia.org/resource/Langhorn_Burton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Langhorn_Burton) dbo:birthDate o'<1872-12-25>",
+    "2" : "s(Langhorn_Burton) dbo:birthPlace o'<Somersby,_Lincolnshire>",
+    "3" : "s(Langhorn_Burton) dbo:birthPlace o'<Lincolnshire>",
+    "4" : "s(Langhorn_Burton) dbo:deathDate o'<1949-12-6>",
+    "5" : "s(Langhorn_Burton) dbp:deathPlace o'<London, England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13417",
+  "entityUrl" : "http://dbpedia.org/resource/Lori_Chow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lori_Chow) dbo:birthDate o'<1988-7-10>",
+    "2" : "s(Lori_Chow) dbp:birthPlace o'<Vancouver>",
+    "3" : "s(Lori_Chow) dbp:birthPlace o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13418",
+  "entityUrl" : "http://dbpedia.org/resource/Lil_Terselius",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lil_Terselius) dbo:birthDate o'<1944-11-5>",
+    "2" : "s(Lil_Terselius) dbo:birthName o'<Lil Poldi Terselius>",
+    "3" : "s(Lil_Terselius) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Lil_Terselius) dbo:nationality o'<Sweden>",
+    "5" : "s(Lil_Terselius) dbo:occupation o'<Lil_Terselius__1>",
+    "6" : "s(Lil_Terselius) dbo:spouse o'<Hans_Klinga>",
+    "7" : "s(Lil_Terselius) dbo:spouse o'<Lars_Norén>",
+    "8" : "s(Lil_Terselius) dbo:stateOfOrigin o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13419",
+  "entityUrl" : "http://dbpedia.org/resource/Lauritz_Falk",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lauritz_Falk) dbo:activeYearsEndYear o'<1989>",
+    "2" : "s(Lauritz_Falk) dbo:activeYearsStartYear o'<1923>",
+    "3" : "s(Lauritz_Falk) dbo:birthDate o'<1909-11-15>",
+    "4" : "s(Lauritz_Falk) dbo:birthPlace o'<Belgium>",
+    "5" : "s(Lauritz_Falk) dbo:birthPlace o'<Brussels>",
+    "6" : "s(Lauritz_Falk) dbo:birthPlace o'<City_of_Brussels>",
+    "7" : "s(Lauritz_Falk) dbo:birthYear o'<1909>",
+    "8" : "s(Lauritz_Falk) dbo:deathDate o'<1990-02-01>",
+    "9" : "s(Lauritz_Falk) dbo:deathDate o'<1990-2-1>",
+    "10" : "s(Lauritz_Falk) dbo:deathPlace o'<Stockholm>",
+    "11" : "s(Lauritz_Falk) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Lauritz_Falk) dbo:deathYear o'<1990>",
+    "13" : "s(Lauritz_Falk) dbo:nationality o'<Sweden>",
+    "14" : "s(Lauritz_Falk) dbo:occupation o'<Lauritz_Falk__1>",
+    "15" : "s(Lauritz_Falk) dbo:occupation o'<Film_director>",
+    "16" : "s(Lauritz_Falk) dbo:occupation o'<Actor>",
+    "17" : "s(Lauritz_Falk) dbp:imagesize o'<180>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(lauritz falk=Lauritz_Falk) [appeared in about 60 roles ] o'<films=Film_director>"
+  },
+  "abstract" : {
+    "2" : "lauritz falk<Lauritz_Falk> appeared in about 60 roles in films<Film_director> and tv between 1923 and 1989\n"
+  }
+}, {
+  "entityIndex" : "entity13420",
+  "entityUrl" : "http://dbpedia.org/resource/Lin_Yongjian",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lin_Yongjian) dbo:birthDate o'<1969-2-14>",
+    "2" : "s(Lin_Yongjian) dbp:birthPlace o'<Qingdao, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13421",
+  "entityUrl" : "http://dbpedia.org/resource/Liz_Edmiston",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liz_Edmiston) dbo:birthDate o'<1945-5-21>",
+    "2" : "s(Liz_Edmiston) dbo:country o'<United_Kingdom>",
+    "3" : "s(Liz_Edmiston) dbo:deathDate o'<2008-4-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13422",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Tim-sing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_Tim-sing) dbo:birthDate o'<1949-1-1>",
+    "2" : "s(Lee_Tim-sing) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13423",
+  "entityUrl" : "http://dbpedia.org/resource/Lawford_Davidson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lawford_Davidson) dbo:birthDate o'<1890-1-1>",
+    "2" : "s(Lawford_Davidson) dbo:deathDate o'<1964-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13424",
+  "entityUrl" : "http://dbpedia.org/resource/Lawrence_Elion",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lawrence_Elion) dbo:birthDate o'<1917-11-5>",
+    "2" : "s(Lawrence_Elion) dbo:country o'<England>",
+    "3" : "s(Lawrence_Elion) dbo:deathDate o'<2011-3-27>",
+    "4" : "s(Lawrence_Elion) dbo:imdbId o'<0253636>",
+    "5" : "s(Lawrence_Elion) dbp:name o'<Lawrence Elion>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13425",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Jackson_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lisa_Jackson_(actress)) dbo:birthDate o'<1979-6-1>",
+    "2" : "s(Lisa_Jackson_(actress)) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13426",
+  "entityUrl" : "http://dbpedia.org/resource/Leon_Thau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leon_Thau) dbo:birthDate o'<1926-4-8>",
+    "2" : "s(Leon_Thau) dbo:country o'<United_Kingdom>",
+    "3" : "s(Leon_Thau) dbo:deathDate o'<2010-5-16>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(leon thau=Leon_Thau) [played part of frankie ] o'<london=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "leon thau<Leon_Thau> played the part of frankie wing in the 1960 london<United_Kingdom> production of the musical flower drum song\n"
+  }
+}, {
+  "entityIndex" : "entity13427",
+  "entityUrl" : "http://dbpedia.org/resource/Lon_Satton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lon_Satton) dbo:birthDate o'<1929-1-1>",
+    "2" : "s(Lon_Satton) dbo:birthPlace o'<Philadelphia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13428",
+  "entityUrl" : "http://dbpedia.org/resource/Lesley_Osmond",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lesley_Osmond) dbo:birthDate o'<1921-11-23>",
+    "2" : "s(Lesley_Osmond) dbo:birthPlace o'<London>",
+    "3" : "s(Lesley_Osmond) dbo:deathDate o'<1987-1-1>",
+    "4" : "s(Lesley_Osmond) dbo:deathPlace o'<Fulham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13429",
+  "entityUrl" : "http://dbpedia.org/resource/Leon_M._Lion",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leon_M._Lion) dbo:birthDate o'<1879-3-12>",
+    "2" : "s(Leon_M._Lion) dbo:deathDate o'<1947-3-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13430",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Xiuming",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Xiuming) dbo:birthDate o'<1954-12-9>",
+    "2" : "s(Li_Xiuming) dbp:birthPlace o'<Tianjin>",
+    "3" : "s(Li_Xiuming) dbp:birthPlace o'<People's_Republic_of_China>",
+    "4" : "s(Li_Xiuming) dbp:name o'<Xiuming Li>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13431",
+  "entityUrl" : "http://dbpedia.org/resource/Lewis_Shaw",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lewis_Shaw) dbo:birthDate o'<1910-1-1>",
+    "2" : "s(Lewis_Shaw) dbo:deathDate o'<1987-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13432",
+  "entityUrl" : "http://dbpedia.org/resource/Lawson_Butt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lawson_Butt) dbo:birthDate o'<1880-03-04>",
+    "2" : "s(Lawson_Butt) dbo:birthDate o'<1880-3-4>",
+    "3" : "s(Lawson_Butt) dbo:birthPlace o'<Bristol>",
+    "4" : "s(Lawson_Butt) dbo:birthPlace o'<Gloucestershire>",
+    "5" : "s(Lawson_Butt) dbo:deathDate o'<1956-01-14>",
+    "6" : "s(Lawson_Butt) dbo:deathDate o'<1956-1-14>",
+    "7" : "s(Lawson_Butt) dbo:deathPlace o'<Hampshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13433",
+  "entityUrl" : "http://dbpedia.org/resource/Leslie_Bradley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leslie_Bradley) dbo:birthDate o'<1907-9-1>",
+    "2" : "s(Leslie_Bradley) dbo:birthPlace o'<Aldershot>",
+    "3" : "s(Leslie_Bradley) dbo:deathDate o'<1974-7-20>",
+    "4" : "s(Leslie_Bradley) dbo:deathPlace o'<Desert_Hot_Springs,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13434",
+  "entityUrl" : "http://dbpedia.org/resource/Lionelle_Howard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lionelle_Howard) dbo:birthDate o'<1886-0-0>",
+    "2" : "s(Lionelle_Howard) dbo:birthPlace o'<Cirencester>",
+    "3" : "s(Lionelle_Howard) dbo:deathDate o'<1930-9-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13435",
+  "entityUrl" : "http://dbpedia.org/resource/Lionel_d'Aragon",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13436",
+  "entityUrl" : "http://dbpedia.org/resource/Lottie_Blackford",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13437",
+  "entityUrl" : "http://dbpedia.org/resource/Lewis_Gilbert_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13438",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Willoughby",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Willoughby) dbo:birthDate o'<1876-1-1>",
+    "2" : "s(Louis_Willoughby) dbo:deathDate o'<1968-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13439",
+  "entityUrl" : "http://dbpedia.org/resource/Lloyd_Pearson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lloyd_Pearson) dbo:birthDate o'<1897-1-1>",
+    "2" : "s(Lloyd_Pearson) dbo:deathDate o'<1966-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13440",
+  "entityUrl" : "http://dbpedia.org/resource/Lillian_Logan",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13441",
+  "entityUrl" : "http://dbpedia.org/resource/Lin_Gengxin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lin_Gengxin) dbo:birthDate o'<1988-2-13>",
+    "2" : "s(Lin_Gengxin) dbo:birthPlace o'<Shenyang>",
+    "3" : "s(Lin_Gengxin) dbp:birthPlace o'<Shenyang, Liaoning, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13442",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Chen_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Li_Chen_(actor)) dbo:birthDate o'<1978-11-24>",
+    "2" : "s(Li_Chen_(actor)) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Li_Chen_(actor)) dbp:birthPlace o'<Beijing>",
+    "4" : "s(Li_Chen_(actor)) dbp:birthPlace o'<People's_Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13443",
+  "entityUrl" : "http://dbpedia.org/resource/Lewis_Dayton",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13444",
+  "entityUrl" : "http://dbpedia.org/resource/Lily_Saxby",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13445",
+  "entityUrl" : "http://dbpedia.org/resource/Lena_Halliday",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lena_Halliday) dbo:birthDate o'<1882-1-1>",
+    "2" : "s(Lena_Halliday) dbo:deathDate o'<1937-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13446",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Yuxin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liu_Yuxin) dbo:birthDate o'<1988-3-13>",
+    "2" : "s(Liu_Yuxin) dbp:birthPlace o'<Hunan>",
+    "3" : "s(Liu_Yuxin) dbp:birthPlace o'<China>",
+    "4" : "s(Liu_Yuxin) dbp:birthPlace o'<Hengyang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13447",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Teng_(Singapore)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_Teng_(Singapore)) dbo:birthDate o'<1984-1-1>",
+    "2" : "s(Lee_Teng_(Singapore)) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13448",
+  "entityUrl" : "http://dbpedia.org/resource/Lauderdale_Maitland",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lauderdale_Maitland) dbo:birthDate o'<1879-1-1>",
+    "2" : "s(Lauderdale_Maitland) dbo:deathDate o'<1929-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13449",
+  "entityUrl" : "http://dbpedia.org/resource/Leonard_Sharp",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leonard_Sharp) dbo:birthDate o'<1890-1-1>",
+    "2" : "s(Leonard_Sharp) dbo:birthPlace o'<Watford>",
+    "3" : "s(Leonard_Sharp) dbo:deathDate o'<1958-10-24>",
+    "4" : "s(Leonard_Sharp) dbo:deathPlace o'<Watford>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13450",
+  "entityUrl" : "http://dbpedia.org/resource/Leonard_Williams_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leonard_Williams_(actor)) dbo:birthDate o'<1917-1-1>",
+    "2" : "s(Leonard_Williams_(actor)) dbo:birthPlace o'<London>",
+    "3" : "s(Leonard_Williams_(actor)) dbo:deathDate o'<1962-11-15>",
+    "4" : "s(Leonard_Williams_(actor)) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13451",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_Taylor_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Larry_Taylor_(actor)) dbo:birthDate o'<1918-07-13>",
+    "2" : "s(Larry_Taylor_(actor)) dbo:birthDate o'<1918-7-13>",
+    "3" : "s(Larry_Taylor_(actor)) dbo:birthPlace o'<England>",
+    "4" : "s(Larry_Taylor_(actor)) dbo:birthPlace o'<Peterborough>",
+    "5" : "s(Larry_Taylor_(actor)) dbo:birthYear o'<1918>",
+    "6" : "s(Larry_Taylor_(actor)) dbo:deathDate o'<2003-08-06>",
+    "7" : "s(Larry_Taylor_(actor)) dbo:deathDate o'<2003-8-6>",
+    "8" : "s(Larry_Taylor_(actor)) dbo:deathPlace o'<Johannesburg,_South_Africa>",
+    "9" : "s(Larry_Taylor_(actor)) dbo:deathYear o'<2003>",
+    "10" : "s(Larry_Taylor_(actor)) dbo:occupation o'<Larry_Taylor_(actor)__1>",
+    "11" : "s(Larry_Taylor_(actor)) dbp:nationality o'<United Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13452",
+  "entityUrl" : "http://dbpedia.org/resource/Lily_Kann",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lily_Kann) dbo:birthDate o'<1893-10-20>",
+    "2" : "s(Lily_Kann) dbo:birthPlace o'<Peitz>",
+    "3" : "s(Lily_Kann) dbo:deathDate o'<1978-11-2>",
+    "4" : "s(Lily_Kann) dbo:deathPlace o'<Horsham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13453",
+  "entityUrl" : "http://dbpedia.org/resource/L%C3%A9o_Campion",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13454",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Hurtaut_Dancourt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Hurtaut_Dancourt) dbo:birthDate o'<1725-1-1>",
+    "2" : "s(Louis_Hurtaut_Dancourt) dbo:birthPlace o'<Paris>",
+    "3" : "s(Louis_Hurtaut_Dancourt) dbo:deathDate o'<1801-7-29>",
+    "4" : "s(Louis_Hurtaut_Dancourt) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13455",
+  "entityUrl" : "http://dbpedia.org/resource/Louis-Fran%C3%A7ois_Ribi%C3%A9",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13456",
+  "entityUrl" : "http://dbpedia.org/resource/Luc_Andrieux",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Luc_Andrieux) dbo:birthDate o'<1917-02-17>",
+    "2" : "s(Luc_Andrieux) dbo:birthDate o'<1917-2-12>",
+    "3" : "s(Luc_Andrieux) dbo:birthPlace o'<Agon-Coutainville>",
+    "4" : "s(Luc_Andrieux) dbo:birthPlace o'<France>",
+    "5" : "s(Luc_Andrieux) dbo:deathDate o'<1977-11-26>",
+    "6" : "s(Luc_Andrieux) dbo:deathPlace o'<France>",
+    "7" : "s(Luc_Andrieux) dbo:deathPlace o'<15th_arrondissement_of_Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13457",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Salou",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Louis_Salou) dbo:birthDate o'<1902-4-23>",
+    "2" : "s(Louis_Salou) dbo:birthPlace o'<Oissel>",
+    "3" : "s(Louis_Salou) dbo:deathDate o'<1948-10-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13458",
+  "entityUrl" : "http://dbpedia.org/resource/Lily_Ho",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lily_Ho) dbo:wikiPageDisambiguates o'<Lily_Ho_Li_Li>",
+    "2" : "s(Lily_Ho) dbo:wikiPageDisambiguates o'<Lily_Ho_Ngo_Yee>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13459",
+  "entityUrl" : "http://dbpedia.org/resource/Lena_Brogren",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lena_Brogren) dbo:birthDate o'<1929-4-18>",
+    "2" : "s(Lena_Brogren) dbo:deathDate o'<2005-9-21>",
+    "3" : "s(Lena_Brogren) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13460",
+  "entityUrl" : "http://dbpedia.org/resource/Lily_Leung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lily_Leung) dbo:birthDate o'<1933-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13461",
+  "entityUrl" : "http://dbpedia.org/resource/Leanne_Liu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leanne_Liu) dbo:birthDate o'<1959-11-12>",
+    "2" : "s(Leanne_Liu) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Leanne_Liu) dbp:birthPlace o'<China>",
+    "4" : "s(Leanne_Liu) dbp:birthPlace o'<Beijing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13462",
+  "entityUrl" : "http://dbpedia.org/resource/Lena_Str%C3%B6mdahl",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13463",
+  "entityUrl" : "http://dbpedia.org/resource/Linus_Wahlgren",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Linus_Wahlgren) dbo:birthDate o'<1976-09-10>",
+    "2" : "s(Linus_Wahlgren) dbo:birthDate o'<1976-9-10>",
+    "3" : "s(Linus_Wahlgren) dbo:birthName o'<Linus Carl Henrik Wahlgren>",
+    "4" : "s(Linus_Wahlgren) dbo:birthPlace o'<Gustavsberg,_Värmdö_Municipality>",
+    "5" : "s(Linus_Wahlgren) dbo:birthPlace o'<Gustavsberg,_Värmdö>",
+    "6" : "s(Linus_Wahlgren) dbo:birthYear o'<1976>",
+    "7" : "s(Linus_Wahlgren) dbo:nationality o'<Sweden>",
+    "8" : "s(Linus_Wahlgren) dbo:occupation o'<Linus_Wahlgren__1>",
+    "9" : "s(Linus_Wahlgren) dbo:occupation o'<Actor>",
+    "10" : "s(Linus_Wahlgren) dbp:children o'<2>",
+    "11" : "s(Linus_Wahlgren) dbp:spouse o'<Jessica Wahlgren>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(linus wahlgren=Linus_Wahlgren) [son of ] o'<actors=Actor>"
+  },
+  "abstract" : {
+    "2" : "linus wahlgren<Linus_Wahlgren> is the son of actors<Actor> christina schollin and hans wahlgren and brother to actors<Actor> and singers pernilla and niclas wahlgren\n"
+  }
+}, {
+  "entityIndex" : "entity13464",
+  "entityUrl" : "http://dbpedia.org/resource/Lini_Evans",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lini_Evans) dbo:birthPlace o'<Calgary>",
+    "2" : "s(Lini_Evans) dbo:country o'<People's_Republic_of_China>",
+    "3" : "s(Lini_Evans) dbp:birthPlace o'<Calgary, Canada>",
+    "4" : "s(Lini_Evans) dbp:genres o'<Multilingual, jazz, adult contemporary>",
+    "5" : "s(Lini_Evans) dbp:occupation o'<Singer, Actress>",
+    "6" : "s(Lini_Evans) dbp:residence o'<British_Columbia>",
+    "7" : "s(Lini_Evans) dbp:residence o'<Vancouver>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "15" : "s(lini evans=Lini_Evans) [performs on fairchild television ] o'<chinese=People's_Republic_of_China>"
+  },
+  "abstract" : {
+    "15" : "lini evans<Lini_Evans> performs on fairchild television such as for their all-star shows and 2008 miss chinese<People's_Republic_of_China> (vancouver) pageant\n"
+  }
+}, {
+  "entityIndex" : "entity13465",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Wei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lee_Wei) dbo:birthDate o'<1980-7-9>",
+    "2" : "s(Lee_Wei) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Lee_Wei) dbp:birthPlace o'<Taipei, Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13466",
+  "entityUrl" : "http://dbpedia.org/resource/Leo_Britt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leo_Britt) dbo:birthDate o'<1908-03-27>",
+    "2" : "s(Leo_Britt) dbo:birthDate o'<1908-3-27>",
+    "3" : "s(Leo_Britt) dbo:birthPlace o'<London>",
+    "4" : "s(Leo_Britt) dbo:birthYear o'<1908>",
+    "5" : "s(Leo_Britt) dbo:deathDate o'<1979-0-0>",
+    "6" : "s(Leo_Britt) dbo:deathPlace o'<London>",
+    "7" : "s(Leo_Britt) dbo:deathYear o'<1979>",
+    "8" : "s(Leo_Britt) dbp:birthPlace o'<London, England>",
+    "9" : "s(Leo_Britt) dbp:deathPlace o'<London, England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13467",
+  "entityUrl" : "http://dbpedia.org/resource/Lillian_Kemble-Cooper",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lillian_Kemble-Cooper) dbo:birthDate o'<1892-03-21>",
+    "2" : "s(Lillian_Kemble-Cooper) dbo:birthDate o'<1892-3-21>",
+    "3" : "s(Lillian_Kemble-Cooper) dbo:birthPlace o'<England>",
+    "4" : "s(Lillian_Kemble-Cooper) dbo:birthPlace o'<London>",
+    "5" : "s(Lillian_Kemble-Cooper) dbo:deathDate o'<1977-05-04>",
+    "6" : "s(Lillian_Kemble-Cooper) dbo:deathDate o'<1977-5-4>",
+    "7" : "s(Lillian_Kemble-Cooper) dbo:deathPlace o'<California>",
+    "8" : "s(Lillian_Kemble-Cooper) dbo:deathPlace o'<Los_Angeles>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13468",
+  "entityUrl" : "http://dbpedia.org/resource/Lesley_Fitz-Simons",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lesley_Fitz-Simons) dbo:birthDate o'<1961-09-23>",
+    "2" : "s(Lesley_Fitz-Simons) dbo:birthDate o'<1961-9-23>",
+    "3" : "s(Lesley_Fitz-Simons) dbo:birthPlace o'<East_Dunbartonshire>",
+    "4" : "s(Lesley_Fitz-Simons) dbo:birthYear o'<1961>",
+    "5" : "s(Lesley_Fitz-Simons) dbo:country o'<United_Kingdom>",
+    "6" : "s(Lesley_Fitz-Simons) dbo:deathDate o'<2013-01-26>",
+    "7" : "s(Lesley_Fitz-Simons) dbo:deathDate o'<2013-1-26>",
+    "8" : "s(Lesley_Fitz-Simons) dbo:deathYear o'<2013>",
+    "9" : "s(Lesley_Fitz-Simons) dbo:occupation o'<Lesley_Fitz-Simons__1>",
+    "10" : "s(Lesley_Fitz-Simons) dbp:birthPlace o'<East Dunbartonshire>",
+    "11" : "s(Lesley_Fitz-Simons) dbp:deathPlace o'<Glasgow>",
+    "12" : "s(Lesley_Fitz-Simons) dbp:nationality o'<Scottish>",
+    "13" : "s(Lesley_Fitz-Simons) dbp:notableWorks o'<Take the High Road>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(lesley fitz-simons=Lesley_Fitz-Simons) [born in ] o'<east dunbartonshire=East_Dunbartonshire>",
+    "4" : "s(lesley fitz-simons=Lesley_Fitz-Simons) [joined cast of take ] o'<high road=Take_the_High_Road>",
+    "5" : "s(lesley fitz-simons=Lesley_Fitz-Simons) [diagnosed with breast cancer ] o'<glasgow=Glasgow>"
+  },
+  "abstract" : {
+    "2" : "lesley fitz-simons<Lesley_Fitz-Simons> was born in east dunbartonshire<East_Dunbartonshire> in 1961 and educated at kilsyth academy, the local comprehensive school\n",
+    "4" : "at the age of 21 lesley fitz-simons<Lesley_Fitz-Simons> joined the cast of take the high road<Take_the_High_Road> and played the role of sheila ramsay until the programme was cancelled in 2003\n",
+    "5" : "lesley fitz-simons<Lesley_Fitz-Simons> was diagnosed with breast cancer in 2009 and died in hospital in glasgow<Glasgow> on 26 january 2013, aged 51\n"
+  }
+}, {
+  "entityIndex" : "entity13469",
+  "entityUrl" : "http://dbpedia.org/resource/Leon_Quartermaine",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leon_Quartermaine) dbo:birthDate o'<1876-9-24>",
+    "2" : "s(Leon_Quartermaine) dbo:deathDate o'<1967-6-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13470",
+  "entityUrl" : "http://dbpedia.org/resource/Lucile_Saint-Simon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lucile_Saint-Simon) dbo:birthDate o'<1932-10-19>",
+    "2" : "s(Lucile_Saint-Simon) dbo:birthPlace o'<Corbeil-Essonnes>",
+    "3" : "s(Lucile_Saint-Simon) dbo:birthPlace o'<Corbeil-Essonnes,_France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13471",
+  "entityUrl" : "http://dbpedia.org/resource/Liv_Mj%C3%B6nes",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13472",
+  "entityUrl" : "http://dbpedia.org/resource/Liane_Aukin",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13473",
+  "entityUrl" : "http://dbpedia.org/resource/Lau_Wai_Ming",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lau_Wai_Ming) dbp:horoscope o'<Libra>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13474",
+  "entityUrl" : "http://dbpedia.org/resource/Lucie_Jeanne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lucie_Jeanne) dbo:birthDate o'<1976-03-13>",
+    "2" : "s(Lucie_Jeanne) dbo:birthDate o'<1976-3-13>",
+    "3" : "s(Lucie_Jeanne) dbo:birthPlace o'<Paris>",
+    "4" : "s(Lucie_Jeanne) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13475",
+  "entityUrl" : "http://dbpedia.org/resource/Lin_Xiawei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lin_Xiawei) dbo:birthDate o'<1987-6-30>",
+    "2" : "s(Lin_Xiawei) dbp:birthPlace o'<China>",
+    "3" : "s(Lin_Xiawei) dbp:birthPlace o'<Xiamen>",
+    "4" : "s(Lin_Xiawei) dbp:birthPlace o'<Fujian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13476",
+  "entityUrl" : "http://dbpedia.org/resource/Lyan_Cheng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lyan_Cheng) dbo:birthDate o'<1988-6-16>",
+    "2" : "s(Lyan_Cheng) dbp:birthPlace o'<Taiwan>",
+    "3" : "s(Lyan_Cheng) dbp:birthPlace o'<New_Taipei_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13477",
+  "entityUrl" : "http://dbpedia.org/resource/Leif_Liljeroth",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Leif_Liljeroth) dbo:birthDate o'<1924-10-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13478",
+  "entityUrl" : "http://dbpedia.org/resource/Liao_Fan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liao_Fan) dbo:birthDate o'<1974-2-14>",
+    "2" : "s(Liao_Fan) dbo:birthPlace o'<Hunan>",
+    "3" : "s(Liao_Fan) dbp:birthPlace o'<China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13479",
+  "entityUrl" : "http://dbpedia.org/resource/Lars_Edstr%C3%B6m",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13480",
+  "entityUrl" : "http://dbpedia.org/resource/Lars_Green",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lars_Green) dbo:activeYearsStartYear o'<1970>",
+    "2" : "s(Lars_Green) dbo:birthDate o'<1944-11-30>",
+    "3" : "s(Lars_Green) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Lars_Green) dbo:birthPlace o'<Stockholm_County>",
+    "5" : "s(Lars_Green) dbo:birthPlace o'<Sweden>",
+    "6" : "s(Lars_Green) dbo:birthYear o'<1944>",
+    "7" : "s(Lars_Green) dbo:nationality o'<Sweden>",
+    "8" : "s(Lars_Green) dbo:occupation o'<Lars_Green__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13481",
+  "entityUrl" : "http://dbpedia.org/resource/Lis_Nilheim",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lis_Nilheim) dbo:birthDate o'<1944-06-05>",
+    "2" : "s(Lis_Nilheim) dbo:birthDate o'<1944-6-5>",
+    "3" : "s(Lis_Nilheim) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Lis_Nilheim) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13482",
+  "entityUrl" : "http://dbpedia.org/resource/Larisa_Bakurova",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Larisa_Bakurova) dbo:birthDate o'<1985-2-21>",
+    "2" : "s(Larisa_Bakurova) dbp:birthPlace o'<Odessa_Oblast>",
+    "3" : "s(Larisa_Bakurova) dbp:birthPlace o'<Ukrainian_Soviet_Socialist_Republic>",
+    "4" : "s(Larisa_Bakurova) dbp:name o'<Larisa Bakurova>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13483",
+  "entityUrl" : "http://dbpedia.org/resource/L%C3%A9o_Legrand",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13484",
+  "entityUrl" : "http://dbpedia.org/resource/Liliana_Laine",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Liliana_Laine) dbo:activeYearsEndYear o'<1948>",
+    "2" : "s(Liliana_Laine) dbo:activeYearsStartYear o'<1942>",
+    "3" : "s(Liliana_Laine) dbo:birthDate o'<1923-1-1>",
+    "4" : "s(Liliana_Laine) dbo:birthPlace o'<Vitry-le-François>",
+    "5" : "s(Liliana_Laine) dbo:birthPlace o'<Marne>",
+    "6" : "s(Liliana_Laine) dbo:birthPlace o'<France>",
+    "7" : "s(Liliana_Laine) dbo:birthYear o'<1923>",
+    "8" : "s(Liliana_Laine) dbo:country o'<France>",
+    "9" : "s(Liliana_Laine) dbo:occupation o'<Liliana_Laine__1>",
+    "10" : "s(Liliana_Laine) dbp:imdbId o'<481864>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13485",
+  "entityUrl" : "http://dbpedia.org/resource/Luhan_(singer)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Luhan_(singer)) dbo:birthDate o'<1990-4-20>",
+    "2" : "s(Luhan_(singer)) dbo:birthPlace o'<Haidian_District>",
+    "3" : "s(Luhan_(singer)) dbp:birthPlace o'<Haidian, Beijing, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13486",
+  "entityUrl" : "http://dbpedia.org/resource/Lili_Ziedner",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lili_Ziedner) dbo:birthDate o'<1885-09-14>",
+    "2" : "s(Lili_Ziedner) dbo:birthDate o'<1885-9-14>",
+    "3" : "s(Lili_Ziedner) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Lili_Ziedner) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Lili_Ziedner) dbo:deathDate o'<1939-02-10>",
+    "6" : "s(Lili_Ziedner) dbo:deathDate o'<1939-2-10>",
+    "7" : "s(Lili_Ziedner) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Lili_Ziedner) dbo:deathPlace o'<Sweden>",
+    "9" : "s(Lili_Ziedner) dbp:name o'<Lili Ziedner>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13487",
+  "entityUrl" : "http://dbpedia.org/resource/Lim_Kay_Tong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lim_Kay_Tong) dbo:birthDate o'<1954-0-0>",
+    "2" : "s(Lim_Kay_Tong) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13488",
+  "entityUrl" : "http://dbpedia.org/resource/Laurent_Lafitte",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Laurent_Lafitte) dbo:birthDate o'<1973-08-22>",
+    "2" : "s(Laurent_Lafitte) dbo:birthDate o'<1973-8-22>",
+    "3" : "s(Laurent_Lafitte) dbo:birthPlace o'<Fresnes,_Val-de-Marne>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13489",
+  "entityUrl" : "http://dbpedia.org/resource/Lam_Pou-chuen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lam_Pou-chuen) dbo:birthDate o'<1951-10-10>",
+    "2" : "s(Lam_Pou-chuen) dbo:birthPlace o'<Macau>",
+    "3" : "s(Lam_Pou-chuen) dbo:birthPlace o'<Portuguese_Macau>",
+    "4" : "s(Lam_Pou-chuen) dbo:deathDate o'<2015-01-02>",
+    "5" : "s(Lam_Pou-chuen) dbo:deathDate o'<2015-1-2>",
+    "6" : "s(Lam_Pou-chuen) dbo:deathPlace o'<Hong_Kong>",
+    "7" : "s(Lam_Pou-chuen) dbo:deathPlace o'<Tai_Po>",
+    "8" : "s(Lam_Pou-chuen) dbo:deathPlace o'<Alice_Ho_Miu_Ling_Nethersole_Hospital>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity13490",
+  "entityUrl" : "http://dbpedia.org/resource/Lan_Yan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Lan_Yan) dbo:birthDate o'<1990-3-9>",
+    "2" : "s(Lan_Yan) dbp:birthPlace o'<China>",
+    "3" : "s(Lan_Yan) dbp:birthPlace o'<Shanghai>",
+    "4" : "s(Lan_Yan) dbp:name o'<Leni Lan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,6 +1,10 @@
-id=40  property=dbp:deathPlace  
-serve  RB_VBN  multiply=0.001218  P(serve|dbp:deathPlace)=0.105263  P(dbp:deathPlace|serve)=0.011576    
-one_lay  CD_VBN  multiply=9.75E-4  P(one_lay|dbp:deathPlace)=0.005848  P(dbp:deathPlace|one_lay)=0.166667    
-instrumental_in  JJ_IN  multiply=6.5E-4  P(instrumental_in|dbp:deathPlace)=0.005848  P(dbp:deathPlace|instrumental_in)=0.111111    
-move_to  VBN_TO  multiply=6.1E-5  P(move_to|dbp:deathPlace)=0.005848  P(dbp:deathPlace|move_to)=0.010417    
+id=42  property=dbp:deathPlace  
+koonying_august  VBG_NNP  multiply=0.003953  P(koonying_august|dbp:deathPlace)=0.003953  P(dbp:deathPlace|koonying_august)=1.0    
+die_in  VBD_IN  multiply=0.001103  P(die_in|dbp:deathPlace)=0.023715  P(dbp:deathPlace|die_in)=0.046512    
+serve  RB_VBN  multiply=8.2E-4  P(serve|dbp:deathPlace)=0.071146  P(dbp:deathPlace|serve)=0.011531    
+one_lay  CD_VBN  multiply=6.59E-4  P(one_lay|dbp:deathPlace)=0.003953  P(dbp:deathPlace|one_lay)=0.166667    
+instrumental_in  JJ_IN  multiply=4.39E-4  P(instrumental_in|dbp:deathPlace)=0.003953  P(dbp:deathPlace|instrumental_in)=0.111111    
+enter  VBN  multiply=3.1E-4  P(enter|dbp:deathPlace)=0.007905  P(dbp:deathPlace|enter)=0.039216    
+best_know  RB_VBN  multiply=1.32E-4  P(best_know|dbp:deathPlace)=0.003953  P(dbp:deathPlace|best_know)=0.033333    
+move_to  VBN_TO  multiply=3.9E-5  P(move_to|dbp:deathPlace)=0.003953  P(dbp:deathPlace|move_to)=0.009804    
 

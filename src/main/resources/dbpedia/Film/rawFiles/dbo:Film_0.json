@@ -1,0 +1,115 @@
+[ {
+  "entityIndex" : "entity10828",
+  "entityUrl" : "http://dbpedia.org/resource/06/05",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:budget" : [ "1.2" ],
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Thomas_Kist" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/Theo_van_Gogh_(film_director)" ],
+    "dbo:distributor" : [ "http://dbpedia.org/resource/Inspire_Pictures" ],
+    "dbo:editing" : [ "http://dbpedia.org/resource/Merel_Notten" ],
+    "dbo:musicComposer" : [ "http://dbpedia.org/resource/Rainer_Hensel" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/Gijs_van_Westelaken" ],
+    "dbo:runtime" : [ "120.0", "7200.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Thijs_Römer", "http://dbpedia.org/resource/Tara_Elders", "http://dbpedia.org/resource/Johnny_de_Mol", "http://dbpedia.org/resource/Tooske_Breugem" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.0605defilm.nl/" ],
+    "dbo:wikiPageID" : [ "7017976" ],
+    "dbo:wikiPageRevisionID" : [ "743476871" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:2000s_thriller_films", "http://dbpedia.org/resource/Category:Political_thriller_films", "http://dbpedia.org/resource/Pim_Fortuyn", "http://dbpedia.org/resource/Cahit_Ölmez", "http://dbpedia.org/resource/Category:2004_films", "http://dbpedia.org/resource/Category:Dutch_films", "http://dbpedia.org/resource/Category:Films_based_on_thriller_novels", "http://dbpedia.org/resource/Assassination_of_Pim_Fortuyn", "http://dbpedia.org/resource/Marcel_Hensema", "http://dbpedia.org/resource/Thijs_Römer", "http://dbpedia.org/resource/Golden_Calf_(award)", "http://dbpedia.org/resource/Category:Films_based_on_Dutch_novels", "http://dbpedia.org/resource/Tara_Elders", "http://dbpedia.org/resource/Theo_van_Gogh_(film_director)", "http://dbpedia.org/resource/Tiscali", "http://dbpedia.org/resource/Category:Films_shot_in_the_Netherlands", "http://dbpedia.org/resource/Jack_Wouterse", "http://dbpedia.org/resource/Johnny_de_Mol", "http://dbpedia.org/resource/2005_Toronto_International_Film_Festival", "http://dbpedia.org/resource/Category:Films_directed_by_Theo_van_Gogh", "http://dbpedia.org/resource/Category:Dutch_thriller_films", "http://dbpedia.org/resource/Tomas_Ross", "http://dbpedia.org/resource/Tooske_Breugem", "http://dbpedia.org/resource/Assassination_of_Theo_van_Gogh", "http://dbpedia.org/resource/Caro_Lenssen", "http://dbpedia.org/resource/Reinout_Bussemaker", "http://dbpedia.org/resource/Gijs_van_Westelaken", "http://dbpedia.org/resource/Inspire_Pictures", "http://dbpedia.org/resource/Merel_Notten", "http://dbpedia.org/resource/Rainer_Hensel", "http://dbpedia.org/resource/Thomas_Kist", "http://dbpedia.org/resource/De_Zesde_Mei" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Tomas_Ross" ],
+    "dbp:country" : [ "Netherlands" ],
+    "dbp:language" : [ "Dutch" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1" ]
+  },
+  "words" : [ "Politiker", "die", "Jahr", "Film", "vielmehr", "den", "dem", "sich", "der", "06/05", "des", "Theo", "Weigerung", "Frage", "stellt", "van", "Fortuyn", "Spielfilm", "nicht", ",", ".", "Problemen", "auf", "Ermordung", "Mai", "6", "Titel", "-RRB-", "niederländischen", "zu", "aus", "-LRB-", "darstellt", "Regisseurs", "Gogh", "Toleranz", "sprichwörtliche", "Er", "befasst", "ob", "2004", "mit", "überraschendem", "bezieht", "Fortuyns", "Holland", "letzte", "dessen", "Erfolg", "gesellschaftlichen", "sechste", "holländische", "stellen", "Der", "eine", "Pim", "Tag" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Politiker", "Jahr", "Film", "darstellt", "Gogh", "Regisseurs", "Toleranz", "sprichwörtliche", "vielmehr", "den", "Er", "sich", "der", "befasst", "ob", "Theo", "mit", "überraschendem", "Weigerung", "bezieht", "Frage", "Fortuyns", "Holland", "stellt", "van", "dessen", "Fortuyn", "Erfolg", "gesellschaftlichen", "sechste", "holländische", "nicht", "stellen", "Der", "Problemen", "auf", "Ermordung", "Mai", "eine", "Pim", "Titel", "zu", "Tag", "aus" ],
+  "text" : "Der sechste Mai (06/05) ist der letzte Spielfilm des niederländischen Regisseurs Theo van Gogh aus dem Jahr 2004. Er befasst sich mit dem Politiker Pim Fortuyn und dessen überraschendem Erfolg in Holland. Der Film stellt die Frage, ob die sprichwörtliche holländische Toleranz nicht vielmehr eine Weigerung darstellt, sich den gesellschaftlichen Problemen zu stellen. Der Titel bezieht sich auf den Tag der Ermordung Fortuyns, dem 6. Mai 2002. Grundlage des Films ist das Buch The sixth of May/De zesde mei von Tomas Ross"
+}, {
+  "entityIndex" : "entity10829",
+  "entityUrl" : "http://dbpedia.org/resource/002_Operazione_Luna",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Tino_Santoni" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/Italy" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/Lucio_Fulci" ],
+    "dbo:editing" : [ "http://dbpedia.org/resource/Pedro_del_Rey" ],
+    "dbo:imdbId" : [ "0057805" ],
+    "dbo:language" : [ "http://dbpedia.org/resource/Italian_language" ],
+    "dbo:musicComposer" : [ "http://dbpedia.org/resource/Coriolano_Gori" ],
+    "dbo:runtime" : [ "90.0", "5400.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Mónica_Randall", "http://dbpedia.org/resource/Ciccio_Ingrassia", "http://dbpedia.org/resource/Franco_Franchi" ],
+    "dbo:wikiPageID" : [ "18394422" ],
+    "dbo:wikiPageRevisionID" : [ "736204403" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Films_about_astronauts", "http://dbpedia.org/resource/Category:Italian-language_films", "http://dbpedia.org/resource/Category:Italian_films", "http://dbpedia.org/resource/Ignazio_Leone", "http://dbpedia.org/resource/Category:1960s_comedy_films", "http://dbpedia.org/resource/Category:1960s_science_fiction_films", "http://dbpedia.org/resource/Category:1965_films", "http://dbpedia.org/resource/Category:Buddy_films", "http://dbpedia.org/resource/Category:Comedy_science_fiction_films", "http://dbpedia.org/resource/Comedy_film", "http://dbpedia.org/resource/Italian_language", "http://dbpedia.org/resource/Italy", "http://dbpedia.org/resource/Soviet_Union", "http://dbpedia.org/resource/KGB", "http://dbpedia.org/resource/Lucio_Fulci", "http://dbpedia.org/resource/Category:Italian_science_fiction_films", "http://dbpedia.org/resource/Linda_Sini", "http://dbpedia.org/resource/Mónica_Randall", "http://dbpedia.org/resource/Vittorio_Metz", "http://dbpedia.org/resource/María_Silva", "http://dbpedia.org/resource/Category:Italian_black-and-white_films", "http://dbpedia.org/resource/Category:Italian_comedy_films", "http://dbpedia.org/resource/Ciccio_Ingrassia", "http://dbpedia.org/resource/Category:Films_directed_by_Lucio_Fulci", "http://dbpedia.org/resource/Francesca_Romana_Coluzzi", "http://dbpedia.org/resource/Franco_Franchi", "http://dbpedia.org/resource/Lino_Banfi", "http://dbpedia.org/resource/Enzo_Andronico", "http://dbpedia.org/resource/Coriolano_Gori", "http://dbpedia.org/resource/Italian_films_of_1965", "http://dbpedia.org/resource/Elena_Sedlak", "http://dbpedia.org/resource/Pedro_del_Rey", "http://dbpedia.org/resource/Tino_Santoni", "http://dbpedia.org/resource/José_Luis_Dibildos", "http://dbpedia.org/resource/Emilio_Rodríguez_(actor)", "http://dbpedia.org/resource/Chiro_Bermejo" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Vittorio_Metz", "http://dbpedia.org/resource/José_Luis_Dibildos" ],
+    "dbp:title" : [ "2" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1" ]
+  },
+  "words" : [ "con", "di", "fantascientifica", "del", "dal", "Fulci", "ma", "cinema", "l'unica", "Franco", "marziani", "spaziali", "vera", "film", ",", "-", ".", "002", "Luna", "allo", "sovietiche", "Ciccio", "non", "tanto", "missioni", "fantascienza", "comici", "interpretata", "dodici", "Operazione", "diretto", "Lucio", "e", "fattispecie", "è", "una", "spazio", "1965", "della", "siciliani", "hanno", "corsa", "parodia", "delle", "piuttosto", "nella", "mani", "da", "duo" ],
+  "adjectives" : [ "non", "dal" ],
+  "nouns" : [ "l'unica", "Operazione", "Franco", "con", "allo", "diretto", "Lucio", "sovietiche", "Ciccio", "fattispecie", "fantascientifica", "è", "vera", "spazio", "film", "Fulci", "parodia", "interpretata", "nella", "Luna", "cinema", "da", "duo" ],
+  "text" : "002 Operazione Luna è un film del 1965 diretto da Lucio Fulci con Franco e Ciccio. Il film è una parodia non tanto del cinema di fantascienza - l'unica vera parodia fantascientifica interpretata dal duo di comici siciliani è I marziani hanno dodici mani - ma piuttosto della corsa allo spazio, nella fattispecie delle missioni spaziali sovietiche."
+}, {
+  "entityIndex" : "entity10830",
+  "entityUrl" : "http://dbpedia.org/resource/008",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:wikiPageDisambiguates" : [ "http://dbpedia.org/resource/008:_Operation_Exterminate", "http://dbpedia.org/resource/Explosivo_008", "http://dbpedia.org/resource/Peugeot_008" ],
+    "dbo:wikiPageID" : [ "24293887" ],
+    "dbo:wikiPageRevisionID" : [ "677428181" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Colusa_County_Airport", "http://dbpedia.org/resource/O08", "http://dbpedia.org/resource/800_number", "http://dbpedia.org/resource/Balls_8", "http://dbpedia.org/resource/008:_Operation_Exterminate", "http://dbpedia.org/resource/Explosivo_008", "http://dbpedia.org/resource/Peugeot_008", "http://dbpedia.org/resource/00_Agent" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10831",
+  "entityUrl" : "http://dbpedia.org/resource/08/15_(film_series)",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Heinz_Hölscher" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/Paul_May" ],
+    "dbo:editing" : [ "http://dbpedia.org/resource/Arnfried_Heyne", "http://dbpedia.org/resource/Walter_Boos" ],
+    "dbo:musicComposer" : [ "http://dbpedia.org/resource/Rolf_A._Wilhelm" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/Ilse_Kubaschewski" ],
+    "dbo:wikiPageExternalLink" : [ "http://books.google.ca/books?id=m1MdufwL9QgC&lpg=PP1&dq=isbn%3A1571134379&pg=PA26#v=onepage&q&f=false" ],
+    "dbo:wikiPageID" : [ "29250005" ],
+    "dbo:wikiPageRevisionID" : [ "740890345" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Hans_Hellmut_Kirst", "http://dbpedia.org/resource/Eastern_Front_(World_War_II)", "http://dbpedia.org/resource/Category:Film_series", "http://dbpedia.org/resource/Category:Films_based_on_German_novels", "http://dbpedia.org/resource/Category:Films_based_on_military_novels", "http://dbpedia.org/resource/Category:German-language_films", "http://dbpedia.org/resource/Category:West_German_films", "http://dbpedia.org/resource/Category:World_War_II_films", "http://dbpedia.org/resource/MG_08", "http://dbpedia.org/resource/Paul_May", "http://dbpedia.org/resource/Peter_Carsten", "http://dbpedia.org/resource/Helen_Vita", "http://dbpedia.org/resource/Omer_Bartov", "http://dbpedia.org/resource/Ilse_Kubaschewski", "http://dbpedia.org/resource/SS", "http://dbpedia.org/resource/Arnfried_Heyne", "http://dbpedia.org/resource/Corporal", "http://dbpedia.org/resource/Walter_Boos", "http://dbpedia.org/resource/Joachim_Fuchsberger", "http://dbpedia.org/resource/Ernst_von_Salomon", "http://dbpedia.org/resource/08/15_(1954_film)", "http://dbpedia.org/resource/Claus_Hardt", "http://dbpedia.org/resource/Rolf_A._Wilhelm", "http://dbpedia.org/resource/Heinz_Hölscher", "http://dbpedia.org/resource/08/15_(novel)" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Hans_Hellmut_Kirst", "http://dbpedia.org/resource/Paul_May", "http://dbpedia.org/resource/Ernst_von_Salomon", "http://dbpedia.org/resource/Claus_Hardt" ],
+    "dbp:caption" : [ "German Poster" ],
+    "dbp:country" : [ "West Germany" ],
+    "dbp:distributor" : [ "Gloria Filmverleih AG" ],
+    "dbp:language" : [ "German" ],
+    "dbp:studio" : [ "Divina-Film" ]
+  },
+  "words" : [ "deutschen", "die", "Jahr", "Kirst", "gleichnamigen", ",", "dem", "beruht", ".", "der", "1954", "Hellmut", "Roman-Trilogie", "auf", "von", "08/15", "Titel", "einer", "Spielfilmreihe", "Hans", "aus" ],
+  "adjectives" : [ ],
+  "nouns" : [ "der", "Hellmut", "Roman-Trilogie", "Jahr", "auf", "von", "Kirst", "gleichnamigen", "Hans", "beruht" ],
+  "text" : "08/15 ist der Titel einer deutschen Spielfilmreihe aus dem Jahr 1954, die auf der gleichnamigen Roman-Trilogie 08/15 von Hans Hellmut Kirst beruht."
+}, {
+  "entityIndex" : "entity10832",
+  "entityUrl" : "http://dbpedia.org/resource/03",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:wikiPageDisambiguates" : [ "http://dbpedia.org/resource/2003", "http://dbpedia.org/resource/03_(Son_of_Dave_album)", "http://dbpedia.org/resource/03_(Twelve_album)", "http://dbpedia.org/resource/03_(Urban_Zakapa_album)" ],
+    "dbo:wikiPageID" : [ "5718366" ],
+    "dbo:wikiPageRevisionID" : [ "725866820" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/2003", "http://dbpedia.org/resource/March", "http://dbpedia.org/resource/3_(disambiguation)", "http://dbpedia.org/resource/3_(number)", "http://dbpedia.org/resource/03_(Son_of_Dave_album)", "http://dbpedia.org/resource/03_(Twelve_album)", "http://dbpedia.org/resource/03_(Urban_Zakapa_album)", "http://dbpedia.org/resource/Allier", "http://dbpedia.org/resource/U.S._Marine_Corps", "http://dbpedia.org/resource/O3_(disambiguation)", "http://dbpedia.org/resource/UK-wide_numbers" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10833",
+  "entityUrl" : "http://dbpedia.org/resource/00_Schneider_%E2%80%93_Jagd_auf_Nihil_Baxter",
+  "dboClass" : "dbo:Film",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

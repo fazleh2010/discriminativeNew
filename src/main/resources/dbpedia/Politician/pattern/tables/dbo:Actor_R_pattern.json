@@ -1,0 +1,3238 @@
+[ {
+  "entityIndex" : "entity14403",
+  "entityUrl" : "http://dbpedia.org/resource/Roman_Tam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roman_Tam) dbo:birthDate o'<1945-2-12>",
+    "2" : "s(Roman_Tam) dbo:birthPlace o'<Baise>",
+    "3" : "s(Roman_Tam) dbo:deathDate o'<2002-10-18>",
+    "4" : "s(Roman_Tam) dbo:deathPlace o'<Queen_Mary_Hospital_(Hong_Kong)>",
+    "5" : "s(Roman_Tam) dbp:birthPlace o'<Baise, Guangxi, China>",
+    "6" : "s(Roman_Tam) dbp:deathPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14404",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%8D_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14405",
+  "entityUrl" : "http://dbpedia.org/resource/Ryo_Kase",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryo_Kase) dbo:birthDate o'<1974-11-09>",
+    "2" : "s(Ryo_Kase) dbo:birthDate o'<1974-11-9>",
+    "3" : "s(Ryo_Kase) dbo:birthPlace o'<Yokohama>",
+    "4" : "s(Ryo_Kase) dbo:height o'<174.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14406",
+  "entityUrl" : "http://dbpedia.org/resource/Rika_Komatsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rika_Komatsu) dbo:birthPlace o'<Kōchi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14407",
+  "entityUrl" : "http://dbpedia.org/resource/Rei_Sakuma",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rei_Sakuma) dbo:birthDate o'<1965-01-05>",
+    "2" : "s(Rei_Sakuma) dbo:birthDate o'<1965-1-5>",
+    "3" : "s(Rei_Sakuma) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Rei_Sakuma) dbo:birthPlace o'<Chiba_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14408",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Estcourt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Estcourt) dbo:birthDate o'<1668-1-1>",
+    "2" : "s(Richard_Estcourt) dbo:country o'<England>",
+    "3" : "s(Richard_Estcourt) dbo:deathDate o'<1712-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14409",
+  "entityUrl" : "http://dbpedia.org/resource/Rio_Natsuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rio_Natsuki) dbo:birthDate o'<1969-03-05>",
+    "2" : "s(Rio_Natsuki) dbo:birthDate o'<1969-3-5>",
+    "3" : "s(Rio_Natsuki) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rio_Natsuki) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14410",
+  "entityUrl" : "http://dbpedia.org/resource/Russell_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Russell_Wong) dbo:birthDate o'<1963-3-1>",
+    "2" : "s(Russell_Wong) dbo:birthPlace o'<Troy,_New_York>",
+    "3" : "s(Russell_Wong) dbp:birthPlace o'<United_States>",
+    "4" : "s(Russell_Wong) dbp:birthPlace o'<Troy,_New_York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14411",
+  "entityUrl" : "http://dbpedia.org/resource/Risa_Junna",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Risa_Junna) dbo:birthDate o'<1971-1-1>",
+    "2" : "s(Risa_Junna) dbo:birthPlace o'<Minoh,_Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14412",
+  "entityUrl" : "http://dbpedia.org/resource/Reika_Hashimoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reika_Hashimoto) dbo:birthDate o'<1980-12-25>",
+    "2" : "s(Reika_Hashimoto) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Reika_Hashimoto) dbp:name o'<Reika Hashimoto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14413",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%8Dka_Shima",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14414",
+  "entityUrl" : "http://dbpedia.org/resource/Rumiko_Ukai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rumiko_Ukai) dbo:birthDate o'<1955-05-24>",
+    "2" : "s(Rumiko_Ukai) dbo:birthDate o'<1955-5-24>",
+    "3" : "s(Rumiko_Ukai) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rumiko_Ukai) dbo:birthPlace o'<Fukuoka>",
+    "5" : "s(Rumiko_Ukai) dbo:birthPlace o'<Fukuoka,_Fukuoka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14415",
+  "entityUrl" : "http://dbpedia.org/resource/Ruby_Lin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ruby_Lin) dbo:birthDate o'<1976-1-27>",
+    "2" : "s(Ruby_Lin) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Ruby_Lin) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Ruby_Lin) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14416",
+  "entityUrl" : "http://dbpedia.org/resource/Rio_Akisada",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rio_Akisada) dbo:birthDate o'<1982-9-8>",
+    "2" : "s(Rio_Akisada) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Rio_Akisada) dbp:name o'<Rio Akisada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14417",
+  "entityUrl" : "http://dbpedia.org/resource/Riona_Hazuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Riona_Hazuki) dbo:birthDate o'<1975-7-11>",
+    "2" : "s(Riona_Hazuki) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Riona_Hazuki) dbp:name o'<Riona Hazuki>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(riona hazuki=Riona_Hazuki) [ hazuki riona born mai ] o'<tokyo=Tokyo>"
+  },
+  "abstract" : {
+    "1" : "riona hazuki<Riona_Hazuki> (葉月里緒奈 hazuki riona), born mai yamada (山田麻衣 yamada mai, born on july 11, 1975 in tokyo<Tokyo>, japan) is a japanese actress"
+  }
+}, {
+  "entityIndex" : "entity14418",
+  "entityUrl" : "http://dbpedia.org/resource/Reiko_Ohara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reiko_Ohara) dbo:birthDate o'<1946-11-13>",
+    "2" : "s(Reiko_Ohara) dbo:birthPlace o'<Bunkyō>",
+    "3" : "s(Reiko_Ohara) dbo:deathDate o'<2009-8-6>",
+    "4" : "s(Reiko_Ohara) dbp:name o'<Ohara Reiko>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14419",
+  "entityUrl" : "http://dbpedia.org/resource/Ricky_Hui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ricky_Hui) dbo:birthDate o'<1946-8-3>",
+    "2" : "s(Ricky_Hui) dbo:birthPlace o'<Panyu_District>",
+    "3" : "s(Ricky_Hui) dbo:deathDate o'<2011-11-8>",
+    "4" : "s(Ricky_Hui) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Ricky_Hui) dbp:birthPlace o'<China>",
+    "6" : "s(Ricky_Hui) dbp:birthPlace o'<Guangzhou>",
+    "7" : "s(Ricky_Hui) dbp:birthPlace o'<Guangdong>",
+    "8" : "s(Ricky_Hui) dbp:birthPlace o'<Panyu>",
+    "9" : "s(Ricky_Hui) dbp:deathPlace o'<Hong_Kong>",
+    "10" : "s(Ricky_Hui) dbp:name o'<Ricky Hui>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(ricky hui=Ricky_Hui) [koonying august 3 1946  ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "1" : "ricky hui<Ricky_Hui> koon-ying (august 3, 1946 – november 8, 2011) (chinese: 許冠英) was a hong kong<Hong_Kong> film star"
+  }
+}, {
+  "entityIndex" : "entity14420",
+  "entityUrl" : "http://dbpedia.org/resource/Reiko_Takashima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reiko_Takashima) dbo:birthDate o'<1964-07-25>",
+    "2" : "s(Reiko_Takashima) dbo:birthDate o'<1964-7-25>",
+    "3" : "s(Reiko_Takashima) dbo:birthPlace o'<Japan>",
+    "4" : "s(Reiko_Takashima) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "5" : "s(Reiko_Takashima) dbo:birthPlace o'<Yokohama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14421",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Kemble",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Kemble) dbo:birthDate o'<1721-3-1>",
+    "2" : "s(Roger_Kemble) dbo:country o'<England>",
+    "3" : "s(Roger_Kemble) dbo:deathDate o'<1802-12-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14422",
+  "entityUrl" : "http://dbpedia.org/resource/Ruriko_Asaoka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ruriko_Asaoka) dbo:birthDate o'<1940-07-02>",
+    "2" : "s(Ruriko_Asaoka) dbo:birthDate o'<1940-7-2>",
+    "3" : "s(Ruriko_Asaoka) dbo:birthPlace o'<Changchun>",
+    "4" : "s(Ruriko_Asaoka) dbo:birthPlace o'<Manchukuo>",
+    "5" : "s(Ruriko_Asaoka) dbp:name o'<Asaoka Ruriko>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14423",
+  "entityUrl" : "http://dbpedia.org/resource/Rainie_Yang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rainie_Yang) dbo:birthDate o'<1984-6-4>",
+    "2" : "s(Rainie_Yang) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Rainie_Yang) dbp:birthPlace o'<Taipei, Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14424",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Kwok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Kwok) dbo:birthDate o'<1964-10-9>",
+    "2" : "s(Roger_Kwok) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Roger_Kwok) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Roger_Kwok) dbp:birthPlace o'<Cheung_Chau>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14425",
+  "entityUrl" : "http://dbpedia.org/resource/Race_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Race_Wong) dbo:birthDate o'<1982-9-7>",
+    "2" : "s(Race_Wong) dbo:birthPlace o'<Malaysia>",
+    "3" : "s(Race_Wong) dbp:birthPlace o'<Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14426",
+  "entityUrl" : "http://dbpedia.org/resource/Rumi_Kasahara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rumi_Kasahara) dbo:birthDate o'<1970-3-3>",
+    "2" : "s(Rumi_Kasahara) dbo:birthPlace o'<Niigata_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14427",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_Cheung) dbo:birthDate o'<1963-7-20>",
+    "2" : "s(Roy_Cheung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Roy_Cheung) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Roy_Cheung) dbp:name o'<Roy Cheung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14428",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Blin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Blin) dbo:birthDate o'<1907-03-22>",
+    "2" : "s(Roger_Blin) dbo:birthDate o'<1907-3-22>",
+    "3" : "s(Roger_Blin) dbo:birthPlace o'<Neuilly-sur-Seine>",
+    "4" : "s(Roger_Blin) dbo:birthPlace o'<France>",
+    "5" : "s(Roger_Blin) dbo:deathDate o'<1984-01-21>",
+    "6" : "s(Roger_Blin) dbo:deathDate o'<1984-1-20>",
+    "7" : "s(Roger_Blin) dbo:deathPlace o'<France>",
+    "8" : "s(Roger_Blin) dbo:deathPlace o'<Évecquemont>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14429",
+  "entityUrl" : "http://dbpedia.org/resource/Rachel_Bell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rachel_Bell) dbo:birthDate o'<1950-1-1>",
+    "2" : "s(Rachel_Bell) dbo:country o'<United_Kingdom>",
+    "3" : "s(Rachel_Bell) dbo:imdbId o'<0068464>",
+    "4" : "s(Rachel_Bell) dbp:name o'<Rachel Bell>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(rachel bell=Rachel_Bell) [played hyacinth bucket in ] o'<the uk=United_Kingdom>"
+  },
+  "abstract" : {
+    "5" : "in 2010 rachel bell<Rachel_Bell> played hyacinth bucket in a theatrical adaptation of the bbc situation comedy keeping up appearances that toured the uk<United_Kingdom>\n"
+  }
+}, {
+  "entityIndex" : "entity14430",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Hermantier",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raymond_Hermantier) dbo:birthDate o'<1924-1-13>",
+    "2" : "s(Raymond_Hermantier) dbo:birthPlace o'<Lyon>",
+    "3" : "s(Raymond_Hermantier) dbo:deathDate o'<2005-2-11>",
+    "4" : "s(Raymond_Hermantier) dbo:deathPlace o'<Paris>",
+    "5" : "s(Raymond_Hermantier) dbp:name o'<Raymond Hermantier>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(raymond hermantier=Raymond_Hermantier) [served in free french ] o'<paris=Paris>",
+    "5" : "s(raymond hermantier=Raymond_Hermantier) [ascended to fame at ] o'<france=Paris>"
+  },
+  "abstract" : {
+    "3" : "his training was interrupted by world war ii during which raymond hermantier<Raymond_Hermantier> served in the free french forces, until the liberation of paris<Paris>\n",
+    "5" : "supported by andré malraux and albert camus, raymond hermantier<Raymond_Hermantier> ascended to fame at the festival de nîmes, france<Paris>, in his role of julius caesar\n"
+  }
+}, {
+  "entityIndex" : "entity14431",
+  "entityUrl" : "http://dbpedia.org/resource/Rosalind_Ayres",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosalind_Ayres) dbo:birthDate o'<1946-12-07>",
+    "2" : "s(Rosalind_Ayres) dbo:birthDate o'<1946-12-7>",
+    "3" : "s(Rosalind_Ayres) dbo:birthPlace o'<UK>",
+    "4" : "s(Rosalind_Ayres) dbo:birthPlace o'<England>",
+    "5" : "s(Rosalind_Ayres) dbo:birthPlace o'<Birmingham>",
+    "6" : "s(Rosalind_Ayres) dbo:birthPlace o'<Warwickshire>",
+    "7" : "s(Rosalind_Ayres) dbp:name o'<Rosalind Ayres>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14432",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Ainley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Ainley) dbo:birthDate o'<1910-12-22>",
+    "2" : "s(Richard_Ainley) dbo:birthPlace o'<Stanmore>",
+    "3" : "s(Richard_Ainley) dbo:birthPlace o'<Middlesex>",
+    "4" : "s(Richard_Ainley) dbo:deathDate o'<1967-05-18>",
+    "5" : "s(Richard_Ainley) dbo:deathDate o'<1967-5-18>",
+    "6" : "s(Richard_Ainley) dbo:deathPlace o'<London>",
+    "7" : "s(Richard_Ainley) dbp:name o'<Richard Ainley>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14433",
+  "entityUrl" : "http://dbpedia.org/resource/Rosalind_Halstead",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosalind_Halstead) dbo:birthDate o'<1984-07-18>",
+    "2" : "s(Rosalind_Halstead) dbo:birthDate o'<1984-7-18>",
+    "3" : "s(Rosalind_Halstead) dbo:birthPlace o'<England>",
+    "4" : "s(Rosalind_Halstead) dbo:birthPlace o'<London>",
+    "5" : "s(Rosalind_Halstead) dbo:birthPlace o'<Islington>",
+    "6" : "s(Rosalind_Halstead) dbo:birthPlace o'<London_Borough_of_Islington>",
+    "7" : "s(Rosalind_Halstead) dbp:name o'<Rosalind Halstead>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(rosalind halstead=Rosalind_Halstead) [born 18 july 1984 in ] o'<islington=Islington>"
+  },
+  "abstract" : {
+    "1" : "rosalind halstead<Rosalind_Halstead> (born 18 july 1984 in islington<Islington>, london) is an english actress, model, and dancer"
+  }
+}, {
+  "entityIndex" : "entity14434",
+  "entityUrl" : "http://dbpedia.org/resource/Reine_Brynolfsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reine_Brynolfsson) dbo:birthDate o'<1953-01-15>",
+    "2" : "s(Reine_Brynolfsson) dbo:birthDate o'<1953-1-15>",
+    "3" : "s(Reine_Brynolfsson) dbo:birthPlace o'<Gothenburg>",
+    "4" : "s(Reine_Brynolfsson) dbp:name o'<Reine Brynolfsson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14435",
+  "entityUrl" : "http://dbpedia.org/resource/Rosemary_Leach",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosemary_Leach) dbo:birthDate o'<1935-12-18>",
+    "2" : "s(Rosemary_Leach) dbo:birthPlace o'<Much_Wenlock>",
+    "3" : "s(Rosemary_Leach) dbo:birthPlace o'<Shropshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14436",
+  "entityUrl" : "http://dbpedia.org/resource/Ravi_Kapoor",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ravi_Kapoor) dbo:birthDate o'<1969-06-27>",
+    "2" : "s(Ravi_Kapoor) dbo:birthDate o'<1969-6-27>",
+    "3" : "s(Ravi_Kapoor) dbo:birthPlace o'<England>",
+    "4" : "s(Ravi_Kapoor) dbo:birthPlace o'<Liverpool>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14437",
+  "entityUrl" : "http://dbpedia.org/resource/Rolf_Holmgren",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rolf_Holmgren) dbo:birthDate o'<1946-3-24>",
+    "2" : "s(Rolf_Holmgren) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14438",
+  "entityUrl" : "http://dbpedia.org/resource/Reiko_Yasuhara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reiko_Yasuhara) dbo:birthDate o'<1969-10-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14439",
+  "entityUrl" : "http://dbpedia.org/resource/Ryoko_Yonekura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryoko_Yonekura) dbo:birthDate o'<1975-08-01>",
+    "2" : "s(Ryoko_Yonekura) dbo:birthDate o'<1975-8-1>",
+    "3" : "s(Ryoko_Yonekura) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "4" : "s(Ryoko_Yonekura) dbo:birthPlace o'<Yokohama>",
+    "5" : "s(Ryoko_Yonekura) dbo:height o'<168.0>",
+    "6" : "s(Ryoko_Yonekura) dbp:name o'<Ryoko Yonekura>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14440",
+  "entityUrl" : "http://dbpedia.org/resource/Richie_Jen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richie_Jen) dbo:birthDate o'<1966-6-23>",
+    "2" : "s(Richie_Jen) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Richie_Jen) dbp:birthPlace o'<Changhua County, Taiwan>",
+    "4" : "s(Richie_Jen) dbp:name o'<Richie Jen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14441",
+  "entityUrl" : "http://dbpedia.org/resource/Rosamund_Kwan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosamund_Kwan) dbo:birthDate o'<1962-9-24>",
+    "2" : "s(Rosamund_Kwan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Rosamund_Kwan) dbp:birthPlace o'<History_of_Colonial_Hong_Kong_(1800s–1930s)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14442",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ron_Ng) dbo:birthDate o'<1979-9-2>",
+    "2" : "s(Ron_Ng) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14443",
+  "entityUrl" : "http://dbpedia.org/resource/Ray_Lui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ray_Lui) dbo:birthDate o'<1956-12-22>",
+    "2" : "s(Ray_Lui) dbp:birthPlace o'<Vietnam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14444",
+  "entityUrl" : "http://dbpedia.org/resource/Rupert_Farley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rupert_Farley) dbp:date o'<December 2013>",
+    "2" : "s(Rupert_Farley) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14445",
+  "entityUrl" : "http://dbpedia.org/resource/Rikiya_Otaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rikiya_Otaka) dbo:birthDate o'<1991-08-27>",
+    "2" : "s(Rikiya_Otaka) dbo:birthDate o'<1991-8-27>",
+    "3" : "s(Rikiya_Otaka) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rikiya_Otaka) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14446",
+  "entityUrl" : "http://dbpedia.org/resource/R%C3%A9my_Julienne",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14447",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Leaf",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Leaf) dbo:birthDate o'<1967-01-01>",
+    "2" : "s(Richard_Leaf) dbo:birthDate o'<1957-1-1>",
+    "3" : "s(Richard_Leaf) dbo:birthPlace o'<UK>",
+    "4" : "s(Richard_Leaf) dbo:birthPlace o'<England>",
+    "5" : "s(Richard_Leaf) dbo:birthPlace o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14448",
+  "entityUrl" : "http://dbpedia.org/resource/Risa_Honma__Japan-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14449",
+  "entityUrl" : "http://dbpedia.org/resource/Rui_En",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rui_En) dbo:birthDate o'<1981-1-29>",
+    "2" : "s(Rui_En) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14450",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Heffer",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Heffer) dbo:birthDate o'<1946-7-28>",
+    "2" : "s(Richard_Heffer) dbo:country o'<United_Kingdom>",
+    "3" : "s(Richard_Heffer) dbo:imdbId o'<0373550>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(richard heffer=Richard_Heffer) [played supporting roles in ] o'<british army=United_Kingdom>"
+  },
+  "abstract" : {
+    "3" : "richard heffer<Richard_Heffer> played supporting roles in a variety of tv series in his early career, including department s, the pathfinders and jason king, before landing the role of british army<United_Kingdom> captain tim downing in the bbc/universal television series, colditz (1972–74), in which heffer was a regular throughout\n"
+  }
+}, {
+  "entityIndex" : "entity14451",
+  "entityUrl" : "http://dbpedia.org/resource/Rena_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rena_Tanaka) dbo:birthDate o'<1980-05-22>",
+    "2" : "s(Rena_Tanaka) dbo:birthDate o'<1980-5-22>",
+    "3" : "s(Rena_Tanaka) dbo:birthPlace o'<Kurume,_Fukuoka>",
+    "4" : "s(Rena_Tanaka) dbo:height o'<158.0>",
+    "5" : "s(Rena_Tanaka) dbp:name o'<Rena Tanaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14452",
+  "entityUrl" : "http://dbpedia.org/resource/Rikard_Wolff",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rikard_Wolff) dbo:birthDate o'<1958-04-08>",
+    "2" : "s(Rikard_Wolff) dbo:birthDate o'<1958-4-8>",
+    "3" : "s(Rikard_Wolff) dbo:birthPlace o'<Farsta>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14453",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%ABsuke_%C5%8Cbayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14454",
+  "entityUrl" : "http://dbpedia.org/resource/Rob_Parry",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rob_Parry) dbo:country o'<United_Kingdom>",
+    "2" : "s(Rob_Parry) dbo:imdbId o'<1312143>",
+    "3" : "s(Rob_Parry) dbp:name o'<Rob Parry>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(rob parry=Rob_Parry) [appeared in episode of ] o'<royal=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "before this rob parry<Rob_Parry> appeared in an episode of itv medical drama the royal<United_Kingdom> in 2003\n"
+  }
+}, {
+  "entityIndex" : "entity14455",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Bird_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Bird_(actor)) dbo:birthDate o'<1894-1-1>",
+    "2" : "s(Richard_Bird_(actor)) dbo:birthPlace o'<England>",
+    "3" : "s(Richard_Bird_(actor)) dbo:birthPlace o'<Liverpool>",
+    "4" : "s(Richard_Bird_(actor)) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Richard_Bird_(actor)) dbo:birthYear o'<1894>",
+    "6" : "s(Richard_Bird_(actor)) dbo:country o'<England>",
+    "7" : "s(Richard_Bird_(actor)) dbo:deathDate o'<1986-09-28>",
+    "8" : "s(Richard_Bird_(actor)) dbo:deathDate o'<1986-9-28>",
+    "9" : "s(Richard_Bird_(actor)) dbo:deathPlace o'<Saskatchewan>",
+    "10" : "s(Richard_Bird_(actor)) dbo:deathPlace o'<Regina,_Saskatchewan>",
+    "11" : "s(Richard_Bird_(actor)) dbo:deathPlace o'<Canada>",
+    "12" : "s(Richard_Bird_(actor)) dbo:deathYear o'<1986>",
+    "13" : "s(Richard_Bird_(actor)) dbo:imdbId o'<0083433>",
+    "14" : "s(Richard_Bird_(actor)) dbp:name o'<Richard Bird>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(richard bird (actor)=Richard_Bird_(actor)) [made his stage debut ] o'<liverpool=Liverpool>"
+  },
+  "abstract" : {
+    "3" : "after working in a newspaper office for a year richard bird (actor)<Richard_Bird_(actor)> made his stage debut as a member of the liverpool<Liverpool> repertory company in 1917\n"
+  }
+}, {
+  "entityIndex" : "entity14456",
+  "entityUrl" : "http://dbpedia.org/resource/Rei_Igarashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rei_Igarashi) dbo:birthDate o'<1963-1-9>",
+    "2" : "s(Rei_Igarashi) dbo:birthPlace o'<Fuchū,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14457",
+  "entityUrl" : "http://dbpedia.org/resource/Roddy_Maude-Roxby",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roddy_Maude-Roxby) dbo:birthDate o'<1930-04-02>",
+    "2" : "s(Roddy_Maude-Roxby) dbo:birthDate o'<1930-4-2>",
+    "3" : "s(Roddy_Maude-Roxby) dbo:birthPlace o'<London>",
+    "4" : "s(Roddy_Maude-Roxby) dbo:birthPlace o'<London,_England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14458",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rebecca_Chan) dbo:birthDate o'<1958-10-20>",
+    "2" : "s(Rebecca_Chan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(rebecca chan=Rebecca_Chan) [joined tvb in 1979 ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : "rebecca chan<Rebecca_Chan> joined tvb in 1979, when rebecca chan<Rebecca_Chan> competed at the miss hong kong<Hong_Kong> 1979 pageant\n"
+  }
+}, {
+  "entityIndex" : "entity14459",
+  "entityUrl" : "http://dbpedia.org/resource/Rachel_Davies",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rachel_Davies) dbo:country o'<United_Kingdom>",
+    "2" : "s(Rachel_Davies) dbo:imdbId o'<0203915>",
+    "3" : "s(Rachel_Davies) dbp:name o'<Rachel Davies>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14460",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Stewart",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_Stewart) dbo:birthDate o'<1925-05-15>",
+    "2" : "s(Roy_Stewart) dbo:birthDate o'<1925-5-15>",
+    "3" : "s(Roy_Stewart) dbo:birthPlace o'<Jamaica>",
+    "4" : "s(Roy_Stewart) dbo:birthYear o'<1925>",
+    "5" : "s(Roy_Stewart) dbo:deathDate o'<2008-10-27>",
+    "6" : "s(Roy_Stewart) dbo:deathPlace o'<England>",
+    "7" : "s(Roy_Stewart) dbo:deathPlace o'<London>",
+    "8" : "s(Roy_Stewart) dbo:deathYear o'<2008>",
+    "9" : "s(Roy_Stewart) dbo:imdbId o'<0829796>",
+    "10" : "s(Roy_Stewart) dbo:occupation o'<Roy_Stewart__1>",
+    "11" : "s(Roy_Stewart) dbo:occupation o'<Actor>",
+    "12" : "s(Roy_Stewart) dbp:name o'<Roy Stewart>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(roy stewart=Roy_Stewart) [15 may 1925  27 ] o'<jamaica=Jamaica>",
+    "5" : "s(roy stewart=Roy_Stewart) [active on ] o'<television=Actor>"
+  },
+  "abstract" : {
+    "1" : "roy stewart<Roy_Stewart> (15 may 1925 – 27 october 2008), originally from jamaica<Jamaica>, began his career as a stuntman and went on to work in film<Actor> and television<Actor>, at a time when there were few working black actors<Actor>",
+    "5" : "roy stewart<Roy_Stewart> was also active on television<Actor>, with credits including: out of the unknown, adam adamant lives\n"
+  }
+}, {
+  "entityIndex" : "entity14461",
+  "entityUrl" : "http://dbpedia.org/resource/Ralph_Arliss",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ralph_Arliss) dbo:country o'<United_Kingdom>",
+    "2" : "s(Ralph_Arliss) dbo:imdbId o'<0035201>",
+    "3" : "s(Ralph_Arliss) dbp:name o'<Ralph Arliss>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "7" : "s(ralph arliss=Ralph_Arliss) [involved in political training ] o'<england and wales=United_Kingdom>"
+  },
+  "abstract" : {
+    "7" : "ralph arliss<Ralph_Arliss> is involved in political training for the green party of england and wales<United_Kingdom>\n"
+  }
+}, {
+  "entityIndex" : "entity14462",
+  "entityUrl" : "http://dbpedia.org/resource/Robin_Langford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robin_Langford) dbo:birthDate o'<1953-0-0>",
+    "2" : "s(Robin_Langford) dbo:country o'<United_Kingdom>",
+    "3" : "s(Robin_Langford) dbo:deathDate o'<2014-0-0>",
+    "4" : "s(Robin_Langford) dbo:imdbId o'<0486403>",
+    "5" : "s(Robin_Langford) dbp:name o'<Robin Langford>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(robin langford=Robin_Langford) [acted at ] o'<royal=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "robin langford<Robin_Langford> acted at the royal<United_Kingdom> shakespeare theatre company in stratford-upon-avon, at the moscow arts theatre in russia at the age of 12, and in his first film, at the age of 12 robin langford<Robin_Langford> played elizabeth taylor’s son (with richard burton, sir alec guinness and sir peter ustinov)\n"
+  }
+}, {
+  "entityIndex" : "entity14463",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Herrick",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_Herrick) dbo:birthDate o'<1936-07-22>",
+    "2" : "s(Roy_Herrick) dbo:birthDate o'<1936-7-22>",
+    "3" : "s(Roy_Herrick) dbo:birthName o'<Royston Herring>",
+    "4" : "s(Roy_Herrick) dbo:birthYear o'<1936>",
+    "5" : "s(Roy_Herrick) dbo:country o'<United_Kingdom>",
+    "6" : "s(Roy_Herrick) dbo:deathDate o'<1988-10-11>",
+    "7" : "s(Roy_Herrick) dbo:deathPlace o'<England>",
+    "8" : "s(Roy_Herrick) dbo:deathPlace o'<Chelsea,_London>",
+    "9" : "s(Roy_Herrick) dbo:deathYear o'<1988>",
+    "10" : "s(Roy_Herrick) dbo:imdbId o'<0380619>",
+    "11" : "s(Roy_Herrick) dbo:occupation o'<Roy_Herrick__1>",
+    "12" : "s(Roy_Herrick) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14464",
+  "entityUrl" : "http://dbpedia.org/resource/Rie_Ishizuka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rie_Ishizuka) dbo:birthDate o'<1964-1-1>",
+    "2" : "s(Rie_Ishizuka) dbo:birthPlace o'<Shizuoka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14465",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Vahey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Vahey) dbo:birthDate o'<1932-0-0>",
+    "2" : "s(Robert_Vahey) dbo:country o'<United_Kingdom>",
+    "3" : "s(Robert_Vahey) dbo:deathDate o'<2013-11-0>",
+    "4" : "s(Robert_Vahey) dbo:imdbId o'<1057053>",
+    "5" : "s(Robert_Vahey) dbp:name o'<Robert Vahey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14466",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Lintern",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Lintern) dbo:birthDate o'<1962-08-25>",
+    "2" : "s(Richard_Lintern) dbo:birthPlace o'<England>",
+    "3" : "s(Richard_Lintern) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(Richard_Lintern) dbo:birthPlace o'<Taunton>",
+    "5" : "s(Richard_Lintern) dbo:birthPlace o'<Somerset>",
+    "6" : "s(Richard_Lintern) dbp:name o'<Richard Lintern>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14467",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%8Dko_Nagata",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14468",
+  "entityUrl" : "http://dbpedia.org/resource/Ran_Ito",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ran_Ito) dbo:birthDate o'<1955-01-13>",
+    "2" : "s(Ran_Ito) dbo:birthDate o'<1955-1-13>",
+    "3" : "s(Ran_Ito) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ran_Ito) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Ran_Ito) dbo:birthPlace o'<Musashino,_Tokyo>",
+    "6" : "s(Ran_Ito) dbo:birthPlace o'<Kichijōji>",
+    "7" : "s(Ran_Ito) dbo:birthPlace o'<Kichijoji>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14469",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raymond_Lam) dbo:birthDate o'<1979-12-8>",
+    "2" : "s(Raymond_Lam) dbo:birthPlace o'<Xiamen>",
+    "3" : "s(Raymond_Lam) dbp:birthPlace o'<Xiamen, Fujian, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14470",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%8Dichi_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14471",
+  "entityUrl" : "http://dbpedia.org/resource/Ronny_Jhutti",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ronny_Jhutti) dbo:birthDate o'<1973-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14472",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Standing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Standing) dbo:birthDate o'<1967-11-30>",
+    "2" : "s(Richard_Standing) dbo:country o'<United_Kingdom>",
+    "3" : "s(Richard_Standing) dbp:date o'<April 2010>",
+    "4" : "s(Richard_Standing) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "11" : "s(richard standing=Richard_Standing) [starred alongside lenny henry in ] o'<london=United_Kingdom>"
+  },
+  "abstract" : {
+    "11" : "in 2009 richard standing<Richard_Standing> starred alongside lenny henry in theatre the shakespeare play othello in trafalgar studios in london<United_Kingdom>\n"
+  }
+}, {
+  "entityIndex" : "entity14473",
+  "entityUrl" : "http://dbpedia.org/resource/Rufus_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rufus_(actor)) dbo:birthDate o'<1942-12-19>",
+    "2" : "s(Rufus_(actor)) dbo:birthPlace o'<Puy-de-Dôme>",
+    "3" : "s(Rufus_(actor)) dbo:birthPlace o'<Riom>",
+    "4" : "s(Rufus_(actor)) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14474",
+  "entityUrl" : "http://dbpedia.org/resource/Rapha%C3%ABl_Fejt%C3%B6",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14475",
+  "entityUrl" : "http://dbpedia.org/resource/Rosemarie_Ford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosemarie_Ford) dbo:birthDate o'<1962-03-05>",
+    "2" : "s(Rosemarie_Ford) dbo:birthDate o'<1962-3-5>",
+    "3" : "s(Rosemarie_Ford) dbo:birthPlace o'<Sherburn-in-Elmet>",
+    "4" : "s(Rosemarie_Ford) dbo:birthPlace o'<Yorkshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14476",
+  "entityUrl" : "http://dbpedia.org/resource/Ryan_Thomas",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryan_Thomas) dbo:birthDate o'<1984-06-10>",
+    "2" : "s(Ryan_Thomas) dbo:birthDate o'<1984-6-10>",
+    "3" : "s(Ryan_Thomas) dbo:birthPlace o'<Manchester,_England>",
+    "4" : "s(Ryan_Thomas) dbo:birthPlace o'<Manchester>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14477",
+  "entityUrl" : "http://dbpedia.org/resource/Rob_Heyland",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rob_Heyland) dbo:birthDate o'<1954-4-2>",
+    "2" : "s(Rob_Heyland) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14478",
+  "entityUrl" : "http://dbpedia.org/resource/Ray_Coulthard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ray_Coulthard) dbo:birthDate o'<1968-09-03>",
+    "2" : "s(Ray_Coulthard) dbo:birthDate o'<1968-1-1>",
+    "3" : "s(Ray_Coulthard) dbo:birthPlace o'<Cheshire>",
+    "4" : "s(Ray_Coulthard) dbo:birthPlace o'<England>",
+    "5" : "s(Ray_Coulthard) dbo:birthPlace o'<Chester>",
+    "6" : "s(Ray_Coulthard) dbp:name o'<Raymond Coulthard>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14479",
+  "entityUrl" : "http://dbpedia.org/resource/Ren_Yexiang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ren_Yexiang) dbo:birthDate o'<1961-1-1>",
+    "2" : "s(Ren_Yexiang) dbp:birthPlace o'<Hunan>",
+    "3" : "s(Ren_Yexiang) dbp:birthPlace o'<Changsha>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14480",
+  "entityUrl" : "http://dbpedia.org/resource/Raquel_Cassidy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raquel_Cassidy) dbo:birthDate o'<1968-01-22>",
+    "2" : "s(Raquel_Cassidy) dbo:birthDate o'<1968-1-22>",
+    "3" : "s(Raquel_Cassidy) dbo:birthPlace o'<Fleet,_Hampshire>",
+    "4" : "s(Raquel_Cassidy) dbp:name o'<Raquel Cassidy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14481",
+  "entityUrl" : "http://dbpedia.org/resource/Ronald_Cheng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ronald_Cheng) dbo:birthDate o'<1972-3-9>",
+    "2" : "s(Ronald_Cheng) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Ronald_Cheng) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14482",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Cowley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Cowley) dbo:activeYearsEndYear o'<1619>",
+    "2" : "s(Richard_Cowley) dbo:activeYearsStartYear o'<1591>",
+    "3" : "s(Richard_Cowley) dbo:country o'<England>",
+    "4" : "s(Richard_Cowley) dbo:deathDate o'<1619-1-1>",
+    "5" : "s(Richard_Cowley) dbo:deathYear o'<1619>",
+    "6" : "s(Richard_Cowley) dbo:occupation o'<Richard_Cowley__1>",
+    "7" : "s(Richard_Cowley) dbp:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14483",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Low",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Low) dbo:birthDate o'<1952-6-19>",
+    "2" : "s(Richard_Low) dbp:name o'<Richard Low>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14484",
+  "entityUrl" : "http://dbpedia.org/resource/Riku_Moriyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Riku_Moriyama) dbo:birthPlace o'<Saitama_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14485",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Mayes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Mayes) dbo:birthDate o'<1922-12-26>",
+    "2" : "s(Richard_Mayes) dbo:birthPlace o'<UK>",
+    "3" : "s(Richard_Mayes) dbo:birthPlace o'<England>",
+    "4" : "s(Richard_Mayes) dbo:birthPlace o'<Luton>",
+    "5" : "s(Richard_Mayes) dbo:birthPlace o'<Bedfordshire>",
+    "6" : "s(Richard_Mayes) dbo:birthYear o'<1922>",
+    "7" : "s(Richard_Mayes) dbo:country o'<England>",
+    "8" : "s(Richard_Mayes) dbo:deathDate o'<2006-10-22>",
+    "9" : "s(Richard_Mayes) dbo:deathPlace o'<UK>",
+    "10" : "s(Richard_Mayes) dbo:deathPlace o'<England>",
+    "11" : "s(Richard_Mayes) dbo:deathYear o'<2006>",
+    "12" : "s(Richard_Mayes) dbo:occupation o'<Richard_Mayes__1>",
+    "13" : "s(Richard_Mayes) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(richard mayes=Richard_Mayes) [appeared in many roles on ] o'<stage=Actor>"
+  },
+  "abstract" : {
+    "3" : "richard mayes<Richard_Mayes> appeared in many roles on stage<Actor> and small screen, including roles in doctor who and as jebediah dingle in emmerdale\n"
+  }
+}, {
+  "entityIndex" : "entity14486",
+  "entityUrl" : "http://dbpedia.org/resource/Ray_Trickett",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ray_Trickett) dbo:birthPlace o'<England>",
+    "2" : "s(Ray_Trickett) dbp:birthPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14487",
+  "entityUrl" : "http://dbpedia.org/resource/Rumi_Ochiai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rumi_Ochiai) dbo:birthDate o'<1973-03-06>",
+    "2" : "s(Rumi_Ochiai) dbo:birthDate o'<1973-3-6>",
+    "3" : "s(Rumi_Ochiai) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rumi_Ochiai) dbo:birthPlace o'<Aichi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14488",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Wong_(film_presenter)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raymond_Wong_(film_presenter)) dbo:wikiPageRedirects o'<Raymond_Wong_Pak-ming>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14489",
+  "entityUrl" : "http://dbpedia.org/resource/Runa_Akiyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Runa_Akiyama) dbo:birthDate o'<1954-04-17>",
+    "2" : "s(Runa_Akiyama) dbo:birthDate o'<1954-4-17>",
+    "3" : "s(Runa_Akiyama) dbo:birthPlace o'<Japan>",
+    "4" : "s(Runa_Akiyama) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Runa_Akiyama) dbo:deathDate o'<2014-03-08>",
+    "6" : "s(Runa_Akiyama) dbo:deathDate o'<2014-3-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14490",
+  "entityUrl" : "http://dbpedia.org/resource/Rosalind_Shanks",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosalind_Shanks) dbo:birthDate o'<1950-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14491",
+  "entityUrl" : "http://dbpedia.org/resource/Race_Davies",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Race_Davies) dbo:birthDate o'<1962-8-10>",
+    "2" : "s(Race_Davies) dbo:country o'<United_Kingdom>",
+    "3" : "s(Race_Davies) dbo:imdbId o'<0203914>",
+    "4" : "s(Race_Davies) dbp:name o'<Race Davies>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14492",
+  "entityUrl" : "http://dbpedia.org/resource/Roland_Curram",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roland_Curram) dbo:birthDate o'<1932-1-1>",
+    "2" : "s(Roland_Curram) dbo:birthPlace o'<England>",
+    "3" : "s(Roland_Curram) dbo:birthPlace o'<London>",
+    "4" : "s(Roland_Curram) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Roland_Curram) dbp:name o'<Roland Curram>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14493",
+  "entityUrl" : "http://dbpedia.org/resource/Reiko_Oshida",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reiko_Oshida) dbo:birthDate o'<1948-09-15>",
+    "2" : "s(Reiko_Oshida) dbo:birthDate o'<1948-9-15>",
+    "3" : "s(Reiko_Oshida) dbo:birthPlace o'<Japan>",
+    "4" : "s(Reiko_Oshida) dbo:birthPlace o'<Kyoto>",
+    "5" : "s(Reiko_Oshida) dbo:birthPlace o'<Kyoto_City>",
+    "6" : "s(Reiko_Oshida) dbp:name o'<Reiko Oshida>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14494",
+  "entityUrl" : "http://dbpedia.org/resource/Rayson_Tan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rayson_Tan) dbo:activeYearsStartYear o'<1990>",
+    "2" : "s(Rayson_Tan) dbo:birthDate o'<1965-1-12>",
+    "3" : "s(Rayson_Tan) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Rayson_Tan) dbo:imdbId o'<1596642>",
+    "5" : "s(Rayson_Tan) dbo:occupation o'<Actor>",
+    "6" : "s(Rayson_Tan) dbo:spouse o'<Chen_Liping>",
+    "7" : "s(Rayson_Tan) dbp:birthDate o'<1965-01-12>",
+    "8" : "s(Rayson_Tan) dbp:birthPlace o'<Singapore>",
+    "9" : "s(Rayson_Tan) dbp:children o'<Xavier Tan>",
+    "10" : "s(Rayson_Tan) dbp:name o'<Rayson Tan>",
+    "11" : "s(Rayson_Tan) dbp:origin o'<Singapore>",
+    "12" : "s(Rayson_Tan) dbp:pojchinesename o'<Tân Thài-bîng>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(rayson tan=Rayson_Tan) [chinese  singaporean ] o'<actor=Actor>",
+    "2" : "s(rayson tan=Rayson_Tan) [best known for his ] o'<television=Actor>"
+  },
+  "abstract" : {
+    "1" : "rayson tan<Rayson_Tan> (chinese: 陈泰铭) is a singaporean mediacorp actor<Actor>",
+    "2" : "rayson tan<Rayson_Tan> is best known for his eunuch roles in several television<Actor> series\n"
+  }
+}, {
+  "entityIndex" : "entity14495",
+  "entityUrl" : "http://dbpedia.org/resource/Ryoko_Kobayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryoko_Kobayashi) dbo:birthDate o'<1989-11-08>",
+    "2" : "s(Ryoko_Kobayashi) dbo:birthDate o'<1989-11-8>",
+    "3" : "s(Ryoko_Kobayashi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ryoko_Kobayashi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14496",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9_Simon",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14497",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Cole_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Cole_(actor)) dbo:country o'<United_Kingdom>",
+    "2" : "s(Richard_Cole_(actor)) dbo:imdbId o'<1678056>",
+    "3" : "s(Richard_Cole_(actor)) dbp:name o'<Richard Cole>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14498",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%8Dko_Ono",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14499",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%ABsaku_Chiziwa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14500",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Dh%C3%A9ry",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14501",
+  "entityUrl" : "http://dbpedia.org/resource/Ryosei_Konishi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryosei_Konishi) dbo:birthDate o'<1982-02-20>",
+    "2" : "s(Ryosei_Konishi) dbo:birthDate o'<1982-2-20>",
+    "3" : "s(Ryosei_Konishi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ryosei_Konishi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14502",
+  "entityUrl" : "http://dbpedia.org/resource/Rie_Kanda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rie_Kanda) dbo:birthDate o'<1978-6-16>",
+    "2" : "s(Rie_Kanda) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14503",
+  "entityUrl" : "http://dbpedia.org/resource/Rachel_Victoria_Roberts",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14504",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Caldicot",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Caldicot) dbo:activeYearsEndYear o'<1994>",
+    "2" : "s(Richard_Caldicot) dbo:activeYearsStartYear o'<1928>",
+    "3" : "s(Richard_Caldicot) dbo:birthDate o'<1908-10-07>",
+    "4" : "s(Richard_Caldicot) dbo:birthDate o'<1908-10-7>",
+    "5" : "s(Richard_Caldicot) dbo:birthName o'<Richard Caldicot-Bull>",
+    "6" : "s(Richard_Caldicot) dbo:birthPlace o'<England>",
+    "7" : "s(Richard_Caldicot) dbo:birthPlace o'<London>",
+    "8" : "s(Richard_Caldicot) dbo:birthYear o'<1908>",
+    "9" : "s(Richard_Caldicot) dbo:country o'<England>",
+    "10" : "s(Richard_Caldicot) dbo:deathDate o'<1995-10-16>",
+    "11" : "s(Richard_Caldicot) dbo:deathPlace o'<England>",
+    "12" : "s(Richard_Caldicot) dbo:deathPlace o'<London>",
+    "13" : "s(Richard_Caldicot) dbo:deathYear o'<1995>",
+    "14" : "s(Richard_Caldicot) dbo:occupation o'<Richard_Caldicot__1>",
+    "15" : "s(Richard_Caldicot) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(richard caldicot=Richard_Caldicot) [appeared often on ] o'<television=Actor>",
+    "4" : "s(richard caldicot=Richard_Caldicot) [appeared in repertory theatre ] o'<stage=Actor>",
+    "5" : "s(richard caldicot=Richard_Caldicot) [found success in 1947 ] o'<stage=Actor>"
+  },
+  "abstract" : {
+    "2" : "richard caldicot<Richard_Caldicot> also appeared often on television<Actor>, memorably as the obstetrician delivering betty spencer's baby in some mothers do 'ave 'em\n",
+    "4" : "richard caldicot<Richard_Caldicot> then appeared in repertory theatre and on the west end stage<Actor> (in the original production of journey's end) from 1928\n",
+    "5" : "richard caldicot<Richard_Caldicot> found success in 1947 when richard caldicot<Richard_Caldicot> appeared in a stage<Actor> production of edward, my son\n"
+  }
+}, {
+  "entityIndex" : "entity14505",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Ng) dbo:birthDate o'<1939-12-17>",
+    "2" : "s(Richard_Ng) dbo:birthPlace o'<Guangdong>",
+    "3" : "s(Richard_Ng) dbp:birthPlace o'<China>",
+    "4" : "s(Richard_Ng) dbp:birthPlace o'<Guangdong>",
+    "5" : "s(Richard_Ng) dbp:name o'<Richard Ng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14506",
+  "entityUrl" : "http://dbpedia.org/resource/Robin_Brockway",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robin_Brockway) dbo:birthDate o'<1981-4-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14507",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_North",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_North) dbo:birthDate o'<1941-3-16>",
+    "2" : "s(Roy_North) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14508",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Alborough",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Alborough) dbo:birthDate o'<1953-02-19>",
+    "2" : "s(Roger_Alborough) dbo:birthDate o'<1953-2-19>",
+    "3" : "s(Roger_Alborough) dbo:birthYear o'<1953>",
+    "4" : "s(Roger_Alborough) dbo:country o'<England>",
+    "5" : "s(Roger_Alborough) dbo:occupation o'<Roger_Alborough__1>",
+    "6" : "s(Roger_Alborough) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(roger alborough=Roger_Alborough) [appeared in ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "3" : "roger alborough<Roger_Alborough> has also appeared in a number of dramas on the bbc, itv, channel 4 and in film<Actor>\n"
+  }
+}, {
+  "entityIndex" : "entity14509",
+  "entityUrl" : "http://dbpedia.org/resource/Rina_Akiyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rina_Akiyama) dbo:birthDate o'<1985-09-26>",
+    "2" : "s(Rina_Akiyama) dbo:birthDate o'<1985-9-26>",
+    "3" : "s(Rina_Akiyama) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Rina_Akiyama) dbo:height o'<163.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14510",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Henders",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Henders) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14511",
+  "entityUrl" : "http://dbpedia.org/resource/Ryo_Kimura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryo_Kimura) dbo:birthDate o'<1988-09-23>",
+    "2" : "s(Ryo_Kimura) dbo:birthDate o'<1988-9-23>",
+    "3" : "s(Ryo_Kimura) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ryo_Kimura) dbo:birthPlace o'<Mitaka,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14512",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Dillane",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Dillane) dbo:birthDate o'<1964-1-1>",
+    "2" : "s(Richard_Dillane) dbo:birthPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14513",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Chiu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_Chiu) dbo:birthDate o'<1981-10-14>",
+    "2" : "s(Roy_Chiu) dbo:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14514",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9e_Bj%C3%B6rling",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14515",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Urquhart_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Urquhart_(actor)) dbo:birthDate o'<1921-10-16>",
+    "2" : "s(Robert_Urquhart_(actor)) dbo:birthDate o'<1922-10-16>",
+    "3" : "s(Robert_Urquhart_(actor)) dbo:birthPlace o'<Ullapool>",
+    "4" : "s(Robert_Urquhart_(actor)) dbo:deathDate o'<1995-03-21>",
+    "5" : "s(Robert_Urquhart_(actor)) dbo:deathDate o'<1995-3-21>",
+    "6" : "s(Robert_Urquhart_(actor)) dbo:deathPlace o'<Edinburgh>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14516",
+  "entityUrl" : "http://dbpedia.org/resource/Risa_Hayamizu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Risa_Hayamizu) dbo:birthDate o'<1975-02-28>",
+    "2" : "s(Risa_Hayamizu) dbo:birthDate o'<1975-2-28>",
+    "3" : "s(Risa_Hayamizu) dbo:birthPlace o'<Japan>",
+    "4" : "s(Risa_Hayamizu) dbo:birthPlace o'<Osaka>",
+    "5" : "s(Risa_Hayamizu) dbo:birthPlace o'<Osaka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14517",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9_Liu",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14518",
+  "entityUrl" : "http://dbpedia.org/resource/Rosanna_Lavelle",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosanna_Lavelle) dbo:activeYearsEndYear o'<2007>",
+    "2" : "s(Rosanna_Lavelle) dbo:activeYearsStartYear o'<2001>",
+    "3" : "s(Rosanna_Lavelle) dbo:birthDate o'<1979-08-08>",
+    "4" : "s(Rosanna_Lavelle) dbo:birthDate o'<1979-8-8>",
+    "5" : "s(Rosanna_Lavelle) dbo:birthName o'<Sally Rosanna Lavelle>",
+    "6" : "s(Rosanna_Lavelle) dbo:birthPlace o'<England>",
+    "7" : "s(Rosanna_Lavelle) dbo:birthPlace o'<Lancashire>",
+    "8" : "s(Rosanna_Lavelle) dbo:birthYear o'<1979>",
+    "9" : "s(Rosanna_Lavelle) dbo:country o'<England>",
+    "10" : "s(Rosanna_Lavelle) dbo:imdbId o'<1098145>",
+    "11" : "s(Rosanna_Lavelle) dbp:newOccupation o'<English teacher at the Henrietta Barnett School>",
+    "12" : "s(Rosanna_Lavelle) dbp:oldOccupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(rosanna lavelle=Rosanna_Lavelle) [working english ] o'<north=Lancashire>"
+  },
+  "abstract" : {
+    "6" : "rosanna lavelle<Rosanna_Lavelle> was working as an english literature and drama teacher at the henrietta barnett school, in north<Lancashire> london, but has now quit this job to have a baby\n"
+  }
+}, {
+  "entityIndex" : "entity14519",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Bottitta",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ron_Bottitta) dbo:birthDate o'<1960-12-25>",
+    "2" : "s(Ron_Bottitta) dbo:birthPlace o'<England>",
+    "3" : "s(Ron_Bottitta) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14520",
+  "entityUrl" : "http://dbpedia.org/resource/Rei_Yoshii",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rei_Yoshii) dbo:birthDate o'<1982-03-18>",
+    "2" : "s(Rei_Yoshii) dbo:birthDate o'<1982-3-18>",
+    "3" : "s(Rei_Yoshii) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rei_Yoshii) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14521",
+  "entityUrl" : "http://dbpedia.org/resource/R%C3%A9gis_Laspal%C3%A8s",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14522",
+  "entityUrl" : "http://dbpedia.org/resource/Rodney_Diak",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rodney_Diak) dbo:birthDate o'<1924-6-15>",
+    "2" : "s(Rodney_Diak) dbo:country o'<England>",
+    "3" : "s(Rodney_Diak) dbo:deathDate o'<2007-10-6>",
+    "4" : "s(Rodney_Diak) dbo:imdbId o'<0224459>",
+    "5" : "s(Rodney_Diak) dbp:name o'<Rodney Diak>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14523",
+  "entityUrl" : "http://dbpedia.org/resource/Riki_Miura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Riki_Miura) dbo:birthDate o'<1983-10-17>",
+    "2" : "s(Riki_Miura) dbo:birthPlace o'<Japan>",
+    "3" : "s(Riki_Miura) dbo:birthPlace o'<Hiroshima_Prefecture>",
+    "4" : "s(Riki_Miura) dbo:height o'<180.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14524",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Wong_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raymond_Wong_(actor)) dbo:wikiPageRedirects o'<Raymond_Wong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14525",
+  "entityUrl" : "http://dbpedia.org/resource/Reuben_Sallmander",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reuben_Sallmander) dbo:birthDate o'<1966-02-11>",
+    "2" : "s(Reuben_Sallmander) dbo:birthDate o'<1966-2-11>",
+    "3" : "s(Reuben_Sallmander) dbo:birthPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14526",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Griffiths",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Griffiths) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14527",
+  "entityUrl" : "http://dbpedia.org/resource/Rie_Nakagawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14528",
+  "entityUrl" : "http://dbpedia.org/resource/Rosanna_Carter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosanna_Carter) dbo:activeYearsEndYear o'<1997>",
+    "2" : "s(Rosanna_Carter) dbo:activeYearsStartYear o'<1974>",
+    "3" : "s(Rosanna_Carter) dbo:award o'<AUDELCO>",
+    "4" : "s(Rosanna_Carter) dbo:birthDate o'<1908-09-20>",
+    "5" : "s(Rosanna_Carter) dbo:birthDate o'<1918-9-20>",
+    "6" : "s(Rosanna_Carter) dbo:birthName o'<Rosanna Rolle>",
+    "7" : "s(Rosanna_Carter) dbo:birthPlace o'<Nassau,_Bahamas>",
+    "8" : "s(Rosanna_Carter) dbo:birthPlace o'<The_Bahamas>",
+    "9" : "s(Rosanna_Carter) dbo:birthPlace o'<New_Providence>",
+    "10" : "s(Rosanna_Carter) dbo:deathDate o'<2001-1-1>",
+    "11" : "s(Rosanna_Carter) dbo:imdbId o'<0141915>",
+    "12" : "s(Rosanna_Carter) dbo:relative o'<Estelle_Evans>",
+    "13" : "s(Rosanna_Carter) dbo:relative o'<Esther_Rolle>",
+    "14" : "s(Rosanna_Carter) dbp:deathDate o'<2001>",
+    "15" : "s(Rosanna_Carter) dbp:name o'<Rosanna Carter>",
+    "16" : "s(Rosanna_Carter) dbp:occupation o'<Actress>",
+    "17" : "s(Rosanna_Carter) dbp:parents o'<Jonathan Rolle>",
+    "18" : "s(Rosanna_Carter) dbp:parents o'<Elizabeth Iris Dames>",
+    "19" : "s(Rosanna_Carter) dbp:spouse o'<John Carter>",
+    "20" : "s(Rosanna_Carter) dbp:television o'<Tales from the Darkside>",
+    "21" : "s(Rosanna_Carter) dbp:television o'<Law & Order>",
+    "22" : "s(Rosanna_Carter) dbp:television o'<Good Times>",
+    "23" : "s(Rosanna_Carter) dbp:television o'<The Cosby Show>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14529",
+  "entityUrl" : "http://dbpedia.org/resource/Rex_Richards_(rugby_player)__UK-film-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14530",
+  "entityUrl" : "http://dbpedia.org/resource/Ryu_Manatsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryu_Manatsu) dbo:wikiPageRedirects o'<Ryū_Manatsu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14531",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Hirsch_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Hirsch_(actor)) dbo:birthDate o'<1925-07-26>",
+    "2" : "s(Robert_Hirsch_(actor)) dbo:birthDate o'<1925-7-26>",
+    "3" : "s(Robert_Hirsch_(actor)) dbo:birthPlace o'<L'Isle-Adam,_Val-d'Oise>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14532",
+  "entityUrl" : "http://dbpedia.org/resource/Renji_Ishibashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Renji_Ishibashi) dbo:birthDate o'<1941-08-09>",
+    "2" : "s(Renji_Ishibashi) dbo:birthDate o'<1941-8-9>",
+    "3" : "s(Renji_Ishibashi) dbo:birthPlace o'<Shinagawa,_Tokyo>",
+    "4" : "s(Renji_Ishibashi) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Renji_Ishibashi) dbo:birthPlace o'<Shinagawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14533",
+  "entityUrl" : "http://dbpedia.org/resource/Ralph_Riach",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ralph_Riach) dbo:birthDate o'<1939-1-1>",
+    "2" : "s(Ralph_Riach) dbo:birthPlace o'<Elgin,_Moray>",
+    "3" : "s(Ralph_Riach) dbo:birthYear o'<1936>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14534",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Horwell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Horwell) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14535",
+  "entityUrl" : "http://dbpedia.org/resource/Ryuzou_Ishino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryuzou_Ishino) dbo:birthDate o'<1962-12-12>",
+    "2" : "s(Ryuzou_Ishino) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14536",
+  "entityUrl" : "http://dbpedia.org/resource/Rupert_Holliday-Evans",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rupert_Holliday-Evans) dbo:activeYearsEndYear o'<1987>",
+    "2" : "s(Rupert_Holliday-Evans) dbo:activeYearsStartYear o'<1987>",
+    "3" : "s(Rupert_Holliday-Evans) dbo:birthDate o'<1964-08-02>",
+    "4" : "s(Rupert_Holliday-Evans) dbo:birthDate o'<1964-8-2>",
+    "5" : "s(Rupert_Holliday-Evans) dbo:birthYear o'<1964>",
+    "6" : "s(Rupert_Holliday-Evans) dbo:country o'<United_Kingdom>",
+    "7" : "s(Rupert_Holliday-Evans) dbo:occupation o'<Actor>",
+    "8" : "s(Rupert_Holliday-Evans) dbo:occupation o'<Rupert_Holliday-Evans__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14537",
+  "entityUrl" : "http://dbpedia.org/resource/Raghu_Babu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raghu_Babu) dbo:birthDate o'<1964-06-24>",
+    "2" : "s(Raghu_Babu) dbo:birthDate o'<1964-6-24>",
+    "3" : "s(Raghu_Babu) dbo:birthName o'<Raghu Babu Yerra>",
+    "4" : "s(Raghu_Babu) dbo:birthPlace o'<Ravinuthala>",
+    "5" : "s(Raghu_Babu) dbo:birthYear o'<1964>",
+    "6" : "s(Raghu_Babu) dbo:imdbId o'<1298052>",
+    "7" : "s(Raghu_Babu) dbo:parent o'<Giri_Babu>",
+    "8" : "s(Raghu_Babu) dbo:residence o'<Hyderabad,_Telangana>",
+    "9" : "s(Raghu_Babu) dbp:name o'<Raghu Babu>",
+    "10" : "s(Raghu_Babu) dbp:notableFilms o'<Bangaram>",
+    "11" : "s(Raghu_Babu) dbp:notableFilms o'<Bunny>",
+    "12" : "s(Raghu_Babu) dbp:notableFilms o'<Aadi>",
+    "13" : "s(Raghu_Babu) dbp:notableFilms o'<Desamuduru>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(raghu babu=Raghu_Babu) [eldest son of ] o'<giri babu=Giri_Babu>"
+  },
+  "abstract" : {
+    "3" : "raghu babu<Raghu_Babu> is the eldest son of famous comedian and character actor giri babu<Giri_Babu>\n"
+  }
+}, {
+  "entityIndex" : "entity14538",
+  "entityUrl" : "http://dbpedia.org/resource/Richenda_Carey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richenda_Carey) dbo:activeYearsStartYear o'<1974>",
+    "2" : "s(Richenda_Carey) dbo:birthDate o'<1948-04-09>",
+    "3" : "s(Richenda_Carey) dbo:birthDate o'<1948-1-1>",
+    "4" : "s(Richenda_Carey) dbo:birthPlace o'<South_Gloucestershire>",
+    "5" : "s(Richenda_Carey) dbo:birthPlace o'<Bitton>",
+    "6" : "s(Richenda_Carey) dbo:birthYear o'<1948>",
+    "7" : "s(Richenda_Carey) dbo:country o'<England>",
+    "8" : "s(Richenda_Carey) dbo:occupation o'<Richenda_Carey__1>",
+    "9" : "s(Richenda_Carey) dbo:spouse o'<Nigel_Stock_(actor)>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(richenda carey=Richenda_Carey) [third wife of ] o'<nigel stock=Nigel_Stock_(actor)>"
+  },
+  "abstract" : {
+    "3" : "richenda carey<Richenda_Carey> was the third wife of british actor nigel stock<Nigel_Stock_(actor)>\n"
+  }
+}, {
+  "entityIndex" : "entity14539",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%8D_Ishihara",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14540",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Duchesne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Duchesne) dbo:birthDate o'<1906-7-27>",
+    "2" : "s(Roger_Duchesne) dbo:birthPlace o'<Luxeuil-les-Bains>",
+    "3" : "s(Roger_Duchesne) dbo:deathDate o'<1996-12-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14541",
+  "entityUrl" : "http://dbpedia.org/resource/Rosie_Day",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosie_Day) dbo:birthDate o'<1995-03-06>",
+    "2" : "s(Rosie_Day) dbo:birthDate o'<1994-3-6>",
+    "3" : "s(Rosie_Day) dbo:birthPlace o'<Cambridge>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14542",
+  "entityUrl" : "http://dbpedia.org/resource/Ronald_Hines",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ronald_Hines) dbo:birthDate o'<1929-6-20>",
+    "2" : "s(Ronald_Hines) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(ronald hines=Ronald_Hines) [played ] o'<home=United_Kingdom>"
+  },
+  "abstract" : {
+    "5" : "in 1988 ronald hines<Ronald_Hines> played home<United_Kingdom> secretary henry matthews in the tv film jack the ripper which starred michael caine\n"
+  }
+}, {
+  "entityIndex" : "entity14543",
+  "entityUrl" : "http://dbpedia.org/resource/Ryo_Ueno",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryo_Ueno) dbo:birthDate o'<1984-8-4>",
+    "2" : "s(Ryo_Ueno) dbo:birthPlace o'<Tochigi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14544",
+  "entityUrl" : "http://dbpedia.org/resource/Rose_Vestris",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rose_Vestris) dbo:birthDate o'<1743-4-7>",
+    "2" : "s(Rose_Vestris) dbo:birthPlace o'<Marseille>",
+    "3" : "s(Rose_Vestris) dbo:deathDate o'<1804-10-5>",
+    "4" : "s(Rose_Vestris) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14545",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Shatterell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Shatterell) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(robert shatterell=Robert_Shatterell) [one of limited ] o'<english=England>"
+  },
+  "abstract" : {
+    "2" : "robert shatterell<Robert_Shatterell> was one of the limited group of actors who began their careers in the final period of english<England> renaissance theatre, and resumed stage work in the restoration, after the long theatre closure of the english<England> civil war and the interregnum, 1642–1660\n"
+  }
+}, {
+  "entityIndex" : "entity14546",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Cox_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Cox_(actor)) dbo:country o'<England>",
+    "2" : "s(Robert_Cox_(actor)) dbo:deathDate o'<1655-12-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14547",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Dawes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Dawes) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(robert dawes=Robert_Dawes) [unique in extant ] o'<english=England>"
+  },
+  "abstract" : {
+    "3" : "robert dawes<Robert_Dawes> is unique in the extant records of english<England> renaissance theatre, in that his individual employment contract with one of his acting companies has survived\n"
+  }
+}, {
+  "entityIndex" : "entity14548",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9e_Faure",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14549",
+  "entityUrl" : "http://dbpedia.org/resource/Raj_Ghatak",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raj_Ghatak) dbo:birthDate o'<1973-1-1>",
+    "2" : "s(Raj_Ghatak) dbo:birthPlace o'<India>",
+    "3" : "s(Raj_Ghatak) dbo:imdbId o'<1105213>",
+    "4" : "s(Raj_Ghatak) dbp:name o'<Raj Ghatak>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(raj ghatak=Raj_Ghatak) [born july 1973 ] o'<hindu=India>"
+  },
+  "abstract" : {
+    "1" : "raj ghatak<Raj_Ghatak> (born july 1973) is an indian-born english actor of bengali hindu<India> origin"
+  }
+}, {
+  "entityIndex" : "entity14550",
+  "entityUrl" : "http://dbpedia.org/resource/Roxy_Shahidi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roxy_Shahidi) dbo:birthDate o'<1983-03-12>",
+    "2" : "s(Roxy_Shahidi) dbo:birthDate o'<1983-3-12>",
+    "3" : "s(Roxy_Shahidi) dbo:birthPlace o'<England>",
+    "4" : "s(Roxy_Shahidi) dbo:birthPlace o'<Manchester>",
+    "5" : "s(Roxy_Shahidi) dbp:name o'<Rokhsaneh Ghawam-Shahidi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14551",
+  "entityUrl" : "http://dbpedia.org/resource/Rosanne_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosanne_Wong) dbo:birthDate o'<1979-6-30>",
+    "2" : "s(Rosanne_Wong) dbo:birthPlace o'<Malaysia>",
+    "3" : "s(Rosanne_Wong) dbp:birthPlace o'<Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14552",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Egan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rebecca_Egan) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14553",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Ferguson_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rebecca_Ferguson_(actress)) dbo:wikiPageRedirects o'<Rebecca_Ferguson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14554",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Cooper_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Cooper_(actor)) dbo:birthDate o'<1893-07-16>",
+    "2" : "s(Richard_Cooper_(actor)) dbo:birthDate o'<1893-7-16>",
+    "3" : "s(Richard_Cooper_(actor)) dbo:birthPlace o'<Harrow-on-the-Hill>",
+    "4" : "s(Richard_Cooper_(actor)) dbo:birthPlace o'<London>",
+    "5" : "s(Richard_Cooper_(actor)) dbo:birthPlace o'<Harrow_on_the_Hill>",
+    "6" : "s(Richard_Cooper_(actor)) dbo:birthPlace o'<United_Kingdom>",
+    "7" : "s(Richard_Cooper_(actor)) dbo:deathDate o'<1947-06-18>",
+    "8" : "s(Richard_Cooper_(actor)) dbo:deathDate o'<1947-6-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14555",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Howard_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Howard_(actor)) dbo:birthDate o'<1944-3-8>",
+    "2" : "s(Richard_Howard_(actor)) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14556",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Saire",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rebecca_Saire) dbo:activeYearsStartYear o'<1968>",
+    "2" : "s(Rebecca_Saire) dbo:birthDate o'<1963-04-16>",
+    "3" : "s(Rebecca_Saire) dbo:birthDate o'<1963-4-16>",
+    "4" : "s(Rebecca_Saire) dbo:birthPlace o'<London>",
+    "5" : "s(Rebecca_Saire) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Rebecca_Saire) dbo:birthPlace o'<London,_England>",
+    "7" : "s(Rebecca_Saire) dbo:birthYear o'<1963>",
+    "8" : "s(Rebecca_Saire) dbo:country o'<England>",
+    "9" : "s(Rebecca_Saire) dbo:occupation o'<Rebecca_Saire__1>",
+    "10" : "s(Rebecca_Saire) dbo:spouse o'<Roger_Allam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14557",
+  "entityUrl" : "http://dbpedia.org/resource/Rin_Takanashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rin_Takanashi) dbo:birthDate o'<1988-12-17>",
+    "2" : "s(Rin_Takanashi) dbo:birthPlace o'<Japan>",
+    "3" : "s(Rin_Takanashi) dbo:birthPlace o'<Funabashi,_Chiba>",
+    "4" : "s(Rin_Takanashi) dbo:birthPlace o'<Chiba_Prefecture>",
+    "5" : "s(Rin_Takanashi) dbo:height o'<166.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14558",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Chiao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_Chiao) dbo:birthDate o'<1927-3-16>",
+    "2" : "s(Roy_Chiao) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Roy_Chiao) dbo:deathDate o'<1999-4-14>",
+    "4" : "s(Roy_Chiao) dbo:deathPlace o'<Seattle>",
+    "5" : "s(Roy_Chiao) dbp:birthPlace o'<Shanghai,_China>",
+    "6" : "s(Roy_Chiao) dbp:deathPlace o'<Seattle,_Washington>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14559",
+  "entityUrl" : "http://dbpedia.org/resource/Rei_Okamoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rei_Okamoto) dbo:birthDate o'<1991-1-1>",
+    "2" : "s(Rei_Okamoto) dbo:birthPlace o'<Wakayama,_Wakayama>",
+    "3" : "s(Rei_Okamoto) dbp:name o'<Rei Okamoto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14560",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%ABtar%C5%8D_%C5%8Ctomo",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14561",
+  "entityUrl" : "http://dbpedia.org/resource/Rie_In%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14562",
+  "entityUrl" : "http://dbpedia.org/resource/Ruby_(pornographic_actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ruby_(pornographic_actress)) dbo:wikiPageRedirects o'<List_of_members_of_the_AVN_Hall_of_Fame>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14563",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Lund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Lund) dbo:birthDate o'<1885-07-09>",
+    "2" : "s(Richard_Lund) dbo:birthDate o'<1885-7-9>",
+    "3" : "s(Richard_Lund) dbo:birthPlace o'<Gothenburg>",
+    "4" : "s(Richard_Lund) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Richard_Lund) dbo:deathDate o'<1960-09-27>",
+    "6" : "s(Richard_Lund) dbo:deathDate o'<1960-9-27>",
+    "7" : "s(Richard_Lund) dbo:deathPlace o'<Mölndal>",
+    "8" : "s(Richard_Lund) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14564",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Stirling",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Stirling) dbo:country o'<England>",
+    "2" : "s(Richard_Stirling) dbo:imdbId o'<0830558>",
+    "3" : "s(Richard_Stirling) dbp:name o'<Richard Stirling>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14565",
+  "entityUrl" : "http://dbpedia.org/resource/Rosette_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosette_(actress)) dbo:birthDate o'<1959-09-06>",
+    "2" : "s(Rosette_(actress)) dbo:birthDate o'<1959-9-6>",
+    "3" : "s(Rosette_(actress)) dbo:birthPlace o'<Cherbourg>",
+    "4" : "s(Rosette_(actress)) dbo:birthPlace o'<Q3667188>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14566",
+  "entityUrl" : "http://dbpedia.org/resource/Rin_Asuka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rin_Asuka) dbo:birthDate o'<1991-3-28>",
+    "2" : "s(Rin_Asuka) dbo:birthPlace o'<Osaka>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14567",
+  "entityUrl" : "http://dbpedia.org/resource/Ritsuko_Nemoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ritsuko_Nemoto) dbo:birthDate o'<1959-4-19>",
+    "2" : "s(Ritsuko_Nemoto) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14568",
+  "entityUrl" : "http://dbpedia.org/resource/Ryouta_Murai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryouta_Murai) dbo:birthDate o'<1988-06-29>",
+    "2" : "s(Ryouta_Murai) dbo:birthDate o'<1988-6-30>",
+    "3" : "s(Ryouta_Murai) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14569",
+  "entityUrl" : "http://dbpedia.org/resource/Ryuya_Wakaba",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryuya_Wakaba) dbo:birthDate o'<1989-06-10>",
+    "2" : "s(Ryuya_Wakaba) dbo:birthDate o'<1989-6-10>",
+    "3" : "s(Ryuya_Wakaba) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ryuya_Wakaba) dbo:birthPlace o'<Nerima_(Tokyo)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14570",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Rowland",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Rowland) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14571",
+  "entityUrl" : "http://dbpedia.org/resource/Ronald_Ward",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ronald_Ward) dbo:activeYearsEndYear o'<1956>",
+    "2" : "s(Ronald_Ward) dbo:activeYearsStartYear o'<1931>",
+    "3" : "s(Ronald_Ward) dbo:birthDate o'<1901-4-1>",
+    "4" : "s(Ronald_Ward) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Ronald_Ward) dbo:birthPlace o'<Sussex>",
+    "6" : "s(Ronald_Ward) dbo:birthPlace o'<Eastbourne>",
+    "7" : "s(Ronald_Ward) dbo:birthYear o'<1901>",
+    "8" : "s(Ronald_Ward) dbo:deathDate o'<1978-1-1>",
+    "9" : "s(Ronald_Ward) dbo:deathPlace o'<England>",
+    "10" : "s(Ronald_Ward) dbo:deathPlace o'<London>",
+    "11" : "s(Ronald_Ward) dbo:deathYear o'<1978>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ronald ward=Ronald_Ward) [born in ] o'<eastbourne=Eastbourne>"
+  },
+  "abstract" : {
+    "2" : "ronald ward<Ronald_Ward> was born in eastbourne<Eastbourne> in 1901 as ronald william ward, and made his screen debut in the 1931 film alibi\n"
+  }
+}, {
+  "entityIndex" : "entity14572",
+  "entityUrl" : "http://dbpedia.org/resource/Roland_Giraud",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roland_Giraud) dbo:birthDate o'<1942-02-14>",
+    "2" : "s(Roland_Giraud) dbo:birthDate o'<1942-2-14>",
+    "3" : "s(Roland_Giraud) dbo:birthPlace o'<Morocco>",
+    "4" : "s(Roland_Giraud) dbo:birthPlace o'<Rabat>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14573",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9_Jeanne",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14574",
+  "entityUrl" : "http://dbpedia.org/resource/Ruco_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ruco_Chan) dbo:birthDate o'<1977-1-14>",
+    "2" : "s(Ruco_Chan) dbp:birthPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14575",
+  "entityUrl" : "http://dbpedia.org/resource/Rachel_Sternberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rachel_Sternberg) dbo:activeYearsStartYear o'<2006>",
+    "2" : "s(Rachel_Sternberg) dbo:birthName o'<Kimberley Rachel Sternberg>",
+    "3" : "s(Rachel_Sternberg) dbo:birthPlace o'<Cheshire>",
+    "4" : "s(Rachel_Sternberg) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Rachel_Sternberg) dbo:country o'<England>",
+    "6" : "s(Rachel_Sternberg) dbo:occupation o'<Rachel_Sternberg__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14576",
+  "entityUrl" : "http://dbpedia.org/resource/Rosalind_Bailey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosalind_Bailey) dbo:birthDate o'<1946-0-0>",
+    "2" : "s(Rosalind_Bailey) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14577",
+  "entityUrl" : "http://dbpedia.org/resource/Reen_Yu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reen_Yu) dbo:birthDate o'<1987-10-22>",
+    "2" : "s(Reen_Yu) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Reen_Yu) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14578",
+  "entityUrl" : "http://dbpedia.org/resource/Rakuto_Tochihara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rakuto_Tochihara) dbo:birthDate o'<1989-10-19>",
+    "2" : "s(Rakuto_Tochihara) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14579",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Lynch_(Welsh_actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Lynch_(Welsh_actor)) dbo:activeYearsEndYear o'<1986>",
+    "2" : "s(Richard_Lynch_(Welsh_actor)) dbo:activeYearsStartYear o'<1986>",
+    "3" : "s(Richard_Lynch_(Welsh_actor)) dbo:birthDate o'<1965-12-0>",
+    "4" : "s(Richard_Lynch_(Welsh_actor)) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Richard_Lynch_(Welsh_actor)) dbo:birthPlace o'<Wales>",
+    "6" : "s(Richard_Lynch_(Welsh_actor)) dbo:country o'<United_Kingdom>",
+    "7" : "s(Richard_Lynch_(Welsh_actor)) dbo:occupation o'<Actor>",
+    "8" : "s(Richard_Lynch_(Welsh_actor)) dbo:occupation o'<Richard_Lynch_(Welsh_actor)__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14580",
+  "entityUrl" : "http://dbpedia.org/resource/Rosie_Taylor-Ritson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosie_Taylor-Ritson) dbo:birthDate o'<1995-2-18>",
+    "2" : "s(Rosie_Taylor-Ritson) dbo:birthPlace o'<Brighton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14581",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Heung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ron_Heung) dbo:birthDate o'<1985-1-1>",
+    "2" : "s(Ron_Heung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14582",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Emerton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_Emerton) dbo:birthDate o'<1892-10-09>",
+    "2" : "s(Roy_Emerton) dbo:birthDate o'<1893-10-9>",
+    "3" : "s(Roy_Emerton) dbo:birthPlace o'<Burford>",
+    "4" : "s(Roy_Emerton) dbo:birthPlace o'<Oxfordshire>",
+    "5" : "s(Roy_Emerton) dbo:deathDate o'<1944-11-30>",
+    "6" : "s(Roy_Emerton) dbo:deathPlace o'<London>",
+    "7" : "s(Roy_Emerton) dbo:deathPlace o'<Hendon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14583",
+  "entityUrl" : "http://dbpedia.org/resource/Russell_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Russell_Cheung) dbo:birthDate o'<1977-4-4>",
+    "2" : "s(Russell_Cheung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14584",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Lim",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rebecca_Lim) dbo:birthDate o'<1986-9-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14585",
+  "entityUrl" : "http://dbpedia.org/resource/Rose_Alba",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rose_Alba) dbo:birthDate o'<1920-02-05>",
+    "2" : "s(Rose_Alba) dbo:birthDate o'<1920-2-5>",
+    "3" : "s(Rose_Alba) dbo:birthPlace o'<Cairo,_Egypt>",
+    "4" : "s(Rose_Alba) dbo:birthPlace o'<Cairo>",
+    "5" : "s(Rose_Alba) dbo:deathDate o'<2006-1-0>",
+    "6" : "s(Rose_Alba) dbo:deathPlace o'<London>",
+    "7" : "s(Rose_Alba) dbo:deathPlace o'<London,_England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14586",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Teideman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Teideman) dbo:birthDate o'<1968-1-1>",
+    "2" : "s(Richard_Teideman) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14587",
+  "entityUrl" : "http://dbpedia.org/resource/Rolf_Skoglund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rolf_Skoglund) dbo:birthDate o'<1940-8-11>",
+    "2" : "s(Rolf_Skoglund) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14588",
+  "entityUrl" : "http://dbpedia.org/resource/Ross_Adams",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14589",
+  "entityUrl" : "http://dbpedia.org/resource/Reiko_Kataoka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reiko_Kataoka) dbo:birthDate o'<1971-12-20>",
+    "2" : "s(Reiko_Kataoka) dbo:birthPlace o'<Japan>",
+    "3" : "s(Reiko_Kataoka) dbo:birthPlace o'<Ehime_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14590",
+  "entityUrl" : "http://dbpedia.org/resource/Reiko_Kusamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reiko_Kusamura) dbo:birthDate o'<1940-07-05>",
+    "2" : "s(Reiko_Kusamura) dbo:birthDate o'<1940-7-5>",
+    "3" : "s(Reiko_Kusamura) dbo:birthPlace o'<Japan>",
+    "4" : "s(Reiko_Kusamura) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14591",
+  "entityUrl" : "http://dbpedia.org/resource/Ruby_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ruby_Wong) dbo:birthDate o'<1979-7-4>",
+    "2" : "s(Ruby_Wong) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14592",
+  "entityUrl" : "http://dbpedia.org/resource/Rumiko_Koyanagi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rumiko_Koyanagi) dbo:birthDate o'<1952-07-02>",
+    "2" : "s(Rumiko_Koyanagi) dbo:birthDate o'<1952-7-2>",
+    "3" : "s(Rumiko_Koyanagi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rumiko_Koyanagi) dbo:birthPlace o'<Fukuoka>",
+    "5" : "s(Rumiko_Koyanagi) dbo:birthPlace o'<Fukuoka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14593",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Hudson_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Hudson_(actor)) dbo:activeYearsStartYear o'<1976>",
+    "2" : "s(Robert_Hudson_(actor)) dbo:birthDate o'<1960-02-24>",
+    "3" : "s(Robert_Hudson_(actor)) dbo:birthDate o'<1960-2-24>",
+    "4" : "s(Robert_Hudson_(actor)) dbo:birthPlace o'<England>",
+    "5" : "s(Robert_Hudson_(actor)) dbo:birthPlace o'<Sheffield>",
+    "6" : "s(Robert_Hudson_(actor)) dbo:birthPlace o'<South_Yorkshire>",
+    "7" : "s(Robert_Hudson_(actor)) dbo:birthYear o'<1960>",
+    "8" : "s(Robert_Hudson_(actor)) dbo:country o'<United_Kingdom>",
+    "9" : "s(Robert_Hudson_(actor)) dbo:imdbId o'<0399952>",
+    "10" : "s(Robert_Hudson_(actor)) dbp:name o'<Robert Hudson>",
+    "11" : "s(Robert_Hudson_(actor)) dbp:notableRole o'<in The Bill>",
+    "12" : "s(Robert_Hudson_(actor)) dbp:notableRole o'<PC \"Yorkie\" Smith>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(robert hudson (actor)=Robert_Hudson_(actor)) [appeared in many ] o'<england=United_Kingdom>"
+  },
+  "abstract" : {
+    "4" : "robert hudson (actor)<Robert_Hudson_(actor)> has also appeared in many other television programmes, including bad girls, coronation street, dalziel and pascoe, doctors, emmerdale and peak practice, as well as films such as mike bassett: england<United_Kingdom> manager\n"
+  }
+}, {
+  "entityIndex" : "entity14594",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Rendel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Rendel) dbo:birthDate o'<1884-12-2>",
+    "2" : "s(Robert_Rendel) dbo:deathDate o'<1944-5-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14595",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Maxwell_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Maxwell_(actor)) dbo:birthDate o'<1900-1-1>",
+    "2" : "s(Roger_Maxwell_(actor)) dbo:birthPlace o'<London>",
+    "3" : "s(Roger_Maxwell_(actor)) dbo:deathDate o'<1971-11-24>",
+    "4" : "s(Roger_Maxwell_(actor)) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14596",
+  "entityUrl" : "http://dbpedia.org/resource/Reginald_Fox",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reginald_Fox) dbo:birthDate o'<1881-1-1>",
+    "2" : "s(Reginald_Fox) dbo:deathDate o'<1943-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14597",
+  "entityUrl" : "http://dbpedia.org/resource/Ryota_Ozawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryota_Ozawa) dbo:birthDate o'<1988-01-25>",
+    "2" : "s(Ryota_Ozawa) dbo:birthDate o'<1988-1-25>",
+    "3" : "s(Ryota_Ozawa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ryota_Ozawa) dbo:birthPlace o'<Tateyama,_Chiba>",
+    "5" : "s(Ryota_Ozawa) dbo:birthPlace o'<Chiba_Prefecture>",
+    "6" : "s(Ryota_Ozawa) dbo:height o'<177.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14598",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Travers",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_Travers) dbo:birthDate o'<1883-0-0>",
+    "2" : "s(Roy_Travers) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14599",
+  "entityUrl" : "http://dbpedia.org/resource/Rune_Lindstr%C3%B6m_(screenwriter)",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14600",
+  "entityUrl" : "http://dbpedia.org/resource/Robin_Irvine",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robin_Irvine) dbo:birthDate o'<1901-12-21>",
+    "2" : "s(Robin_Irvine) dbo:birthPlace o'<London>",
+    "3" : "s(Robin_Irvine) dbo:deathDate o'<1933-4-28>",
+    "4" : "s(Robin_Irvine) dbo:deathPlace o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14601",
+  "entityUrl" : "http://dbpedia.org/resource/Rex_O'Malley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rex_O'Malley) dbo:birthDate o'<1901-01-02>",
+    "2" : "s(Rex_O'Malley) dbo:birthDate o'<1901-1-2>",
+    "3" : "s(Rex_O'Malley) dbo:birthPlace o'<London>",
+    "4" : "s(Rex_O'Malley) dbo:deathDate o'<1976-05-01>",
+    "5" : "s(Rex_O'Malley) dbo:deathDate o'<1976-5-1>",
+    "6" : "s(Rex_O'Malley) dbo:deathPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14602",
+  "entityUrl" : "http://dbpedia.org/resource/Rosalyn_Boulter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rosalyn_Boulter) dbo:birthDate o'<1917-2-1>",
+    "2" : "s(Rosalyn_Boulter) dbo:deathDate o'<1997-3-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14603",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Byford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roy_Byford) dbo:birthDate o'<1873-1-12>",
+    "2" : "s(Roy_Byford) dbo:deathDate o'<1939-1-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14604",
+  "entityUrl" : "http://dbpedia.org/resource/Rio_Matsumoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rio_Matsumoto) dbo:birthDate o'<1982-10-22>",
+    "2" : "s(Rio_Matsumoto) dbo:birthPlace o'<Fuchū,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14605",
+  "entityUrl" : "http://dbpedia.org/resource/Rei_Dan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rei_Dan) dbo:birthDate o'<1971-08-04>",
+    "2" : "s(Rei_Dan) dbo:birthDate o'<1971-8-4>",
+    "3" : "s(Rei_Dan) dbo:birthPlace o'<Hyōgo_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14606",
+  "entityUrl" : "http://dbpedia.org/resource/Reona_Hirota",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reona_Hirota) dbo:birthDate o'<1963-03-07>",
+    "2" : "s(Reona_Hirota) dbo:birthDate o'<1963-3-7>",
+    "3" : "s(Reona_Hirota) dbo:birthPlace o'<Sapporo>",
+    "4" : "s(Reona_Hirota) dbo:birthPlace o'<Japan>",
+    "5" : "s(Reona_Hirota) dbo:birthPlace o'<Hokkaido>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14607",
+  "entityUrl" : "http://dbpedia.org/resource/Ruth_Maitland",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ruth_Maitland) dbo:birthDate o'<1880-1-1>",
+    "2" : "s(Ruth_Maitland) dbo:deathDate o'<1961-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14608",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Francis",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raymond_Francis) dbo:birthDate o'<1911-10-6>",
+    "2" : "s(Raymond_Francis) dbo:birthPlace o'<Finchley>",
+    "3" : "s(Raymond_Francis) dbo:deathDate o'<1987-10-24>",
+    "4" : "s(Raymond_Francis) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14609",
+  "entityUrl" : "http://dbpedia.org/resource/Rina_Hidaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rina_Hidaka) dbo:birthDate o'<1994-06-15>",
+    "2" : "s(Rina_Hidaka) dbo:birthDate o'<1994-6-15>",
+    "3" : "s(Rina_Hidaka) dbo:birthPlace o'<Chiba_Prefecture>",
+    "4" : "s(Rina_Hidaka) dbo:height o'<154.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14610",
+  "entityUrl" : "http://dbpedia.org/resource/Reginald_Bach",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reginald_Bach) dbo:birthDate o'<1886-9-3>",
+    "2" : "s(Reginald_Bach) dbo:deathDate o'<1941-1-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14611",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Zhu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rebecca_Zhu) dbo:birthDate o'<1987-12-2>",
+    "2" : "s(Rebecca_Zhu) dbp:birthPlace o'<China>",
+    "3" : "s(Rebecca_Zhu) dbp:birthPlace o'<Suzhou>",
+    "4" : "s(Rebecca_Zhu) dbp:birthPlace o'<Jiangsu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14612",
+  "entityUrl" : "http://dbpedia.org/resource/Rino_Katase",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rino_Katase) dbo:birthDate o'<1957-05-08>",
+    "2" : "s(Rino_Katase) dbo:birthDate o'<1957-5-8>",
+    "3" : "s(Rino_Katase) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rino_Katase) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14613",
+  "entityUrl" : "http://dbpedia.org/resource/Renee_Kelly",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Renee_Kelly) dbo:birthDate o'<1888-1-1>",
+    "2" : "s(Renee_Kelly) dbo:birthPlace o'<London>",
+    "3" : "s(Renee_Kelly) dbo:deathDate o'<1965-8-28>",
+    "4" : "s(Renee_Kelly) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14614",
+  "entityUrl" : "http://dbpedia.org/resource/Rex_Davis",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rex_Davis) dbo:birthDate o'<1890-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14615",
+  "entityUrl" : "http://dbpedia.org/resource/Rex_McDougall",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14616",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Vallis",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Vallis) dbo:birthDate o'<1876-0-0>",
+    "2" : "s(Robert_Vallis) dbo:deathDate o'<1932-12-19>",
+    "3" : "s(Robert_Vallis) dbo:deathPlace o'<Brighton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14617",
+  "entityUrl" : "http://dbpedia.org/resource/Rolf_Leslie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rolf_Leslie) dbo:birthPlace o'<Dumfries>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14618",
+  "entityUrl" : "http://dbpedia.org/resource/Rachel_de_Solla",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rachel_de_Solla) dbo:birthDate o'<1920-12-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14619",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Adair_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Adair_(actor)) dbo:birthDate o'<1900-1-3>",
+    "2" : "s(Robert_Adair_(actor)) dbo:birthPlace o'<San_Francisco>",
+    "3" : "s(Robert_Adair_(actor)) dbo:deathDate o'<1954-8-10>",
+    "4" : "s(Robert_Adair_(actor)) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14620",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Hartley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Hartley) dbo:birthDate o'<1915-11-18>",
+    "2" : "s(Robert_Hartley) dbo:deathDate o'<1997-10-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14621",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Le_Vigan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Le_Vigan) dbo:birthDate o'<1900-1-7>",
+    "2" : "s(Robert_Le_Vigan) dbo:birthPlace o'<Paris>",
+    "3" : "s(Robert_Le_Vigan) dbo:deathDate o'<1972-10-12>",
+    "4" : "s(Robert_Le_Vigan) dbo:deathPlace o'<Tandil>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14622",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Souplex",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raymond_Souplex) dbo:birthDate o'<1901-6-1>",
+    "2" : "s(Raymond_Souplex) dbo:birthPlace o'<Paris>",
+    "3" : "s(Raymond_Souplex) dbo:deathDate o'<1972-11-22>",
+    "4" : "s(Raymond_Souplex) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14623",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9_Hell",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14624",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Moor",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Moor) dbo:birthDate o'<1889-07-17>",
+    "2" : "s(Robert_Moor) dbo:birthDate o'<1889-7-17>",
+    "3" : "s(Robert_Moor) dbo:birthPlace o'<Rouen>",
+    "4" : "s(Robert_Moor) dbo:birthPlace o'<France>",
+    "5" : "s(Robert_Moor) dbo:deathDate o'<1972-12-23>",
+    "6" : "s(Robert_Moor) dbo:deathPlace o'<Suresnes>",
+    "7" : "s(Robert_Moor) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14625",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Vincent",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Vincent) dbo:birthDate o'<1878-05-01>",
+    "2" : "s(Roger_Vincent) dbo:birthDate o'<1878-1-1>",
+    "3" : "s(Roger_Vincent) dbo:birthPlace o'<Sainte-Foy-la-Grande>",
+    "4" : "s(Roger_Vincent) dbo:birthPlace o'<Paris>",
+    "5" : "s(Roger_Vincent) dbo:deathDate o'<1959-11-08>",
+    "6" : "s(Roger_Vincent) dbo:deathDate o'<1959-1-1>",
+    "7" : "s(Roger_Vincent) dbo:deathPlace o'<Paris>",
+    "8" : "s(Roger_Vincent) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14626",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9_Alexandre",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14627",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Cunningham_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Cunningham_(actor)) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14628",
+  "entityUrl" : "http://dbpedia.org/resource/Ringo_Aoba",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14629",
+  "entityUrl" : "http://dbpedia.org/resource/Roland_Armontel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roland_Armontel) dbo:birthDate o'<1901-12-21>",
+    "2" : "s(Roland_Armontel) dbo:birthPlace o'<Vimoutiers>",
+    "3" : "s(Roland_Armontel) dbo:deathDate o'<1980-3-8>",
+    "4" : "s(Roland_Armontel) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14630",
+  "entityUrl" : "http://dbpedia.org/resource/Rolla_Norman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rolla_Norman) dbo:birthDate o'<1889-1-1>",
+    "2" : "s(Rolla_Norman) dbo:birthPlace o'<Paris>",
+    "3" : "s(Rolla_Norman) dbo:deathDate o'<1971-11-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14631",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Vattier",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Vattier) dbo:birthDate o'<1906-10-02>",
+    "2" : "s(Robert_Vattier) dbo:birthDate o'<1906-10-2>",
+    "3" : "s(Robert_Vattier) dbo:birthPlace o'<Rennes>",
+    "4" : "s(Robert_Vattier) dbo:birthPlace o'<France>",
+    "5" : "s(Robert_Vattier) dbo:deathDate o'<1982-12-09>",
+    "6" : "s(Robert_Vattier) dbo:deathDate o'<1982-12-9>",
+    "7" : "s(Robert_Vattier) dbo:deathPlace o'<Nanterre>",
+    "8" : "s(Robert_Vattier) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14632",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Karl",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Karl) dbo:birthDate o'<1882-04-29>",
+    "2" : "s(Roger_Karl) dbo:birthDate o'<1882-4-29>",
+    "3" : "s(Roger_Karl) dbo:birthPlace o'<Bourges>",
+    "4" : "s(Roger_Karl) dbo:birthPlace o'<France>",
+    "5" : "s(Roger_Karl) dbo:deathDate o'<1984-05-04>",
+    "6" : "s(Roger_Karl) dbo:deathDate o'<1984-5-4>",
+    "7" : "s(Roger_Karl) dbo:deathPlace o'<Paris>",
+    "8" : "s(Roger_Karl) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14633",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Legris",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Legris) dbo:birthDate o'<1898-07-03>",
+    "2" : "s(Roger_Legris) dbo:birthDate o'<1898-7-3>",
+    "3" : "s(Roger_Legris) dbo:birthPlace o'<Malakoff>",
+    "4" : "s(Roger_Legris) dbo:birthPlace o'<France>",
+    "5" : "s(Roger_Legris) dbo:deathDate o'<1981-05-22>",
+    "6" : "s(Roger_Legris) dbo:deathDate o'<1981-5-22>",
+    "7" : "s(Roger_Legris) dbo:deathPlace o'<France>",
+    "8" : "s(Roger_Legris) dbo:deathPlace o'<Le_Kremlin-Bicêtre>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14634",
+  "entityUrl" : "http://dbpedia.org/resource/Rivers_Cadet",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rivers_Cadet) dbo:birthDate o'<1892-3-1>",
+    "2" : "s(Rivers_Cadet) dbo:birthPlace o'<Paris>",
+    "3" : "s(Rivers_Cadet) dbo:deathDate o'<1968-11-1>",
+    "4" : "s(Rivers_Cadet) dbo:deathPlace o'<Issy-les-Moulineaux>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14635",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9_Sarvil",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14636",
+  "entityUrl" : "http://dbpedia.org/resource/Rafael_Edholm",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rafael_Edholm) dbo:birthDate o'<1966-05-08>",
+    "2" : "s(Rafael_Edholm) dbo:birthDate o'<1966-5-8>",
+    "3" : "s(Rafael_Edholm) dbo:birthPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14637",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Brooke",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rebecca_Brooke) dbo:birthDate o'<1952-02-21>",
+    "2" : "s(Rebecca_Brooke) dbo:birthDate o'<1952-2-21>",
+    "3" : "s(Rebecca_Brooke) dbo:birthPlace o'<Chicago>",
+    "4" : "s(Rebecca_Brooke) dbo:birthPlace o'<Chicago,_Illinois>",
+    "5" : "s(Rebecca_Brooke) dbo:deathDate o'<2012-07-17>",
+    "6" : "s(Rebecca_Brooke) dbo:deathDate o'<2012-7-17>",
+    "7" : "s(Rebecca_Brooke) dbo:deathPlace o'<Boca_Raton,_Florida>",
+    "8" : "s(Rebecca_Brooke) dbo:numberOfFilms o'<8>",
+    "9" : "s(Rebecca_Brooke) dbp:alias o'<Veronica Parrish, Misty Grey, Mary Mendum, Mary Bendum>",
+    "10" : "s(Rebecca_Brooke) dbp:ethnicity o'<Caucasian>",
+    "11" : "s(Rebecca_Brooke) dbp:gender o'<female>",
+    "12" : "s(Rebecca_Brooke) dbp:hairColor o'<Red>",
+    "13" : "s(Rebecca_Brooke) dbp:id o'<53653>",
+    "14" : "s(Rebecca_Brooke) dbp:id o'<rbrooke>",
+    "15" : "s(Rebecca_Brooke) dbp:name o'<Rebecca Brooke>",
+    "16" : "s(Rebecca_Brooke) dbp:spelling o'<US>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14638",
+  "entityUrl" : "http://dbpedia.org/resource/Rikiya_Yasuoka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rikiya_Yasuoka) dbo:birthDate o'<1947-07-19>",
+    "2" : "s(Rikiya_Yasuoka) dbo:birthDate o'<1947-7-19>",
+    "3" : "s(Rikiya_Yasuoka) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Rikiya_Yasuoka) dbo:birthPlace o'<Minato>",
+    "5" : "s(Rikiya_Yasuoka) dbo:birthPlace o'<Minato,_Tokyo>",
+    "6" : "s(Rikiya_Yasuoka) dbo:deathDate o'<2012-04-08>",
+    "7" : "s(Rikiya_Yasuoka) dbo:deathDate o'<2012-4-8>",
+    "8" : "s(Rikiya_Yasuoka) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14639",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Party",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Party) dbo:birthDate o'<1924-4-17>",
+    "2" : "s(Robert_Party) dbo:birthPlace o'<Marseille>",
+    "3" : "s(Robert_Party) dbo:deathDate o'<2011-11-20>",
+    "4" : "s(Robert_Party) dbo:deathPlace o'<Marseille>",
+    "5" : "s(Robert_Party) dbp:name o'<Robert Party>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14640",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Dandy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raymond_Dandy) dbo:birthDate o'<1887-10-14>",
+    "2" : "s(Raymond_Dandy) dbo:birthPlace o'<Gorée>",
+    "3" : "s(Raymond_Dandy) dbo:deathDate o'<1953-2-9>",
+    "4" : "s(Raymond_Dandy) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14641",
+  "entityUrl" : "http://dbpedia.org/resource/Rino_Higa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rino_Higa) dbo:birthDate o'<1992-05-11>",
+    "2" : "s(Rino_Higa) dbo:birthDate o'<1992-5-11>",
+    "3" : "s(Rino_Higa) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rino_Higa) dbo:birthPlace o'<Okinawa_Prefecture>",
+    "5" : "s(Rino_Higa) dbo:birthPlace o'<Okinawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14642",
+  "entityUrl" : "http://dbpedia.org/resource/Raoul_Billerey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Raoul_Billerey) dbo:birthDate o'<1920-10-12>",
+    "2" : "s(Raoul_Billerey) dbo:birthPlace o'<Nice>",
+    "3" : "s(Raoul_Billerey) dbo:deathDate o'<2010-7-28>",
+    "4" : "s(Raoul_Billerey) dbo:deathPlace o'<Limoux>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14643",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Dutoit",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roger_Dutoit) dbo:birthDate o'<1923-02-08>",
+    "2" : "s(Roger_Dutoit) dbo:birthDate o'<1923-2-8>",
+    "3" : "s(Roger_Dutoit) dbo:birthPlace o'<Calais>",
+    "4" : "s(Roger_Dutoit) dbo:birthPlace o'<France>",
+    "5" : "s(Roger_Dutoit) dbo:deathDate o'<1988-05-03>",
+    "6" : "s(Roger_Dutoit) dbo:deathDate o'<1988-5-3>",
+    "7" : "s(Roger_Dutoit) dbo:deathPlace o'<Silly,_Belgium>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14644",
+  "entityUrl" : "http://dbpedia.org/resource/Rose_Stradner",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rose_Stradner) dbo:birthDate o'<1913-07-31>",
+    "2" : "s(Rose_Stradner) dbo:birthDate o'<1913-7-31>",
+    "3" : "s(Rose_Stradner) dbo:birthPlace o'<Vienna>",
+    "4" : "s(Rose_Stradner) dbo:deathDate o'<1958-09-27>",
+    "5" : "s(Rose_Stradner) dbo:deathDate o'<1958-9-27>",
+    "6" : "s(Rose_Stradner) dbo:deathPlace o'<Mount_Kisco,_New_York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14645",
+  "entityUrl" : "http://dbpedia.org/resource/Ryosuke_Kagawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryosuke_Kagawa) dbo:birthDate o'<1896-10-10>",
+    "2" : "s(Ryosuke_Kagawa) dbo:birthPlace o'<Japan>",
+    "3" : "s(Ryosuke_Kagawa) dbo:birthPlace o'<Saga_Prefecture>",
+    "4" : "s(Ryosuke_Kagawa) dbo:deathDate o'<1987-04-17>",
+    "5" : "s(Ryosuke_Kagawa) dbo:deathDate o'<1987-4-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14646",
+  "entityUrl" : "http://dbpedia.org/resource/Ranko_Hanai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ranko_Hanai) dbo:birthDate o'<1918-07-15>",
+    "2" : "s(Ranko_Hanai) dbo:birthDate o'<1918-7-15>",
+    "3" : "s(Ranko_Hanai) dbo:birthPlace o'<Japan>",
+    "4" : "s(Ranko_Hanai) dbo:birthPlace o'<Osaka>",
+    "5" : "s(Ranko_Hanai) dbo:deathDate o'<1961-05-21>",
+    "6" : "s(Ranko_Hanai) dbo:deathDate o'<1961-5-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14647",
+  "entityUrl" : "http://dbpedia.org/resource/Rie_Yamaguchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rie_Yamaguchi) dbo:birthDate o'<1986-10-20>",
+    "2" : "s(Rie_Yamaguchi) dbo:birthPlace o'<Japan>",
+    "3" : "s(Rie_Yamaguchi) dbo:birthPlace o'<Nara_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14648",
+  "entityUrl" : "http://dbpedia.org/resource/Romeo_Tan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Romeo_Tan) dbo:activeYearsStartYear o'<2010>",
+    "2" : "s(Romeo_Tan) dbo:award o'<Star_Awards_2013>",
+    "3" : "s(Romeo_Tan) dbo:award o'<Star_Awards_20>",
+    "4" : "s(Romeo_Tan) dbo:birthDate o'<1985-4-9>",
+    "5" : "s(Romeo_Tan) dbo:country o'<People's_Republic_of_China>",
+    "6" : "s(Romeo_Tan) dbp:birthDate o'<1985-04-09>",
+    "7" : "s(Romeo_Tan) dbp:birthPlace o'<Singapore>",
+    "8" : "s(Romeo_Tan) dbp:occupation o'<Actor, model>",
+    "9" : "s(Romeo_Tan) dbp:p o'<Chén Luómìōu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14649",
+  "entityUrl" : "http://dbpedia.org/resource/Ramez_Galal",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ramez_Galal) dbo:birthDate o'<1973-04-20>",
+    "2" : "s(Ramez_Galal) dbo:birthDate o'<1973-4-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14650",
+  "entityUrl" : "http://dbpedia.org/resource/Ryutarou_Akimoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryutarou_Akimoto) dbo:birthDate o'<1995-03-13>",
+    "2" : "s(Ryutarou_Akimoto) dbo:birthDate o'<1995-3-13>",
+    "3" : "s(Ryutarou_Akimoto) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14651",
+  "entityUrl" : "http://dbpedia.org/resource/Risa_Taneda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Risa_Taneda) dbo:birthDate o'<1988-07-12>",
+    "2" : "s(Risa_Taneda) dbo:birthDate o'<1988-7-12>",
+    "3" : "s(Risa_Taneda) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14652",
+  "entityUrl" : "http://dbpedia.org/resource/Riria",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Riria) dbo:birthDate o'<1993-12-18>",
+    "2" : "s(Riria) dbo:birthPlace o'<Japan>",
+    "3" : "s(Riria) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14653",
+  "entityUrl" : "http://dbpedia.org/resource/Rufus_Wright",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rufus_Wright) dbo:birthDate o'<1974-9-14>",
+    "2" : "s(Rufus_Wright) dbo:birthPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14654",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Baldwin_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Baldwin_(actor)) dbo:birthDate o'<1965-9-27>",
+    "2" : "s(Robert_Baldwin_(actor)) dbo:birthPlace o'<Naka-ku,_Hiroshima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14655",
+  "entityUrl" : "http://dbpedia.org/resource/Roxane_Duran",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roxane_Duran) dbo:birthDate o'<1993-01-27>",
+    "2" : "s(Roxane_Duran) dbo:birthDate o'<1993-1-27>",
+    "3" : "s(Roxane_Duran) dbo:birthPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14656",
+  "entityUrl" : "http://dbpedia.org/resource/Ry%C5%8Dta_%C5%8Csaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14657",
+  "entityUrl" : "http://dbpedia.org/resource/Ryo_Ryusei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryo_Ryusei) dbo:birthDate o'<1993-03-24>",
+    "2" : "s(Ryo_Ryusei) dbo:birthDate o'<1993-3-24>",
+    "3" : "s(Ryo_Ryusei) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Ryo_Ryusei) dbo:height o'<183.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14658",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Karabatsos",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ron_Karabatsos) dbo:activeYearsEndYear o'<2004>",
+    "2" : "s(Ron_Karabatsos) dbo:activeYearsStartYear o'<1981>",
+    "3" : "s(Ron_Karabatsos) dbo:birthDate o'<1933-04-22>",
+    "4" : "s(Ron_Karabatsos) dbo:birthDate o'<1933-4-22>",
+    "5" : "s(Ron_Karabatsos) dbo:birthName o'<Ronald Christ Karabatsos>",
+    "6" : "s(Ron_Karabatsos) dbo:birthPlace o'<Elizabeth,_New_Jersey>",
+    "7" : "s(Ron_Karabatsos) dbo:birthYear o'<1933>",
+    "8" : "s(Ron_Karabatsos) dbo:deathDate o'<2012-04-17>",
+    "9" : "s(Ron_Karabatsos) dbo:deathDate o'<2012-4-17>",
+    "10" : "s(Ron_Karabatsos) dbo:deathPlace o'<Beaumont,_California>",
+    "11" : "s(Ron_Karabatsos) dbo:deathPlace o'<Riverside_County,_California>",
+    "12" : "s(Ron_Karabatsos) dbo:deathYear o'<2012>",
+    "13" : "s(Ron_Karabatsos) dbo:occupation o'<Ron_Karabatsos__1>",
+    "14" : "s(Ron_Karabatsos) dbp:birthPlace o'<Elizabeth, New Jersey, U.S.>",
+    "15" : "s(Ron_Karabatsos) dbp:children o'<1>",
+    "16" : "s(Ron_Karabatsos) dbp:children o'<2>",
+    "17" : "s(Ron_Karabatsos) dbp:children o'<Dawnne>",
+    "18" : "s(Ron_Karabatsos) dbp:spouse o'<Janell, ?-2012, his death>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14659",
+  "entityUrl" : "http://dbpedia.org/resource/Reina_Triendl",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reina_Triendl) dbo:birthDate o'<1992-01-23>",
+    "2" : "s(Reina_Triendl) dbo:birthDate o'<1992-1-23>",
+    "3" : "s(Reina_Triendl) dbo:birthPlace o'<Vienna>",
+    "4" : "s(Reina_Triendl) dbo:birthPlace o'<Austria>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14660",
+  "entityUrl" : "http://dbpedia.org/resource/Ryan_Gage",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryan_Gage) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(Ryan_Gage) dbo:birthPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14661",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Sidaway_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Robert_Sidaway_(actor)) dbo:birthDate o'<1942-01-24>",
+    "2" : "s(Robert_Sidaway_(actor)) dbo:birthDate o'<1942-1-24>",
+    "3" : "s(Robert_Sidaway_(actor)) dbo:birthPlace o'<Wolverhampton>",
+    "4" : "s(Robert_Sidaway_(actor)) dbo:birthYear o'<1942>",
+    "5" : "s(Robert_Sidaway_(actor)) dbo:imdbId o'<0796485>",
+    "6" : "s(Robert_Sidaway_(actor)) dbo:occupation o'<Robert_Sidaway_(actor)__1>",
+    "7" : "s(Robert_Sidaway_(actor)) dbp:name o'<Robert Sidaway>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14662",
+  "entityUrl" : "http://dbpedia.org/resource/Ryo_Hayami",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryo_Hayami) dbo:birthDate o'<1949-11-14>",
+    "2" : "s(Ryo_Hayami) dbo:birthPlace o'<Kimitsu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14663",
+  "entityUrl" : "http://dbpedia.org/resource/Roland_Hedlund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Roland_Hedlund) dbo:activeYearsStartYear o'<1955>",
+    "2" : "s(Roland_Hedlund) dbo:birthDate o'<1933-02-20>",
+    "3" : "s(Roland_Hedlund) dbo:birthDate o'<1933-11-17>",
+    "4" : "s(Roland_Hedlund) dbo:birthPlace o'<Ersmark,_Skellefteå>",
+    "5" : "s(Roland_Hedlund) dbo:birthPlace o'<Q18291559>",
+    "6" : "s(Roland_Hedlund) dbo:birthYear o'<1933>",
+    "7" : "s(Roland_Hedlund) dbo:nationality o'<Sweden>",
+    "8" : "s(Roland_Hedlund) dbo:occupation o'<Roland_Hedlund__1>",
+    "9" : "s(Roland_Hedlund) dbo:spouse o'<Lisa_Bergström_(actress)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14664",
+  "entityUrl" : "http://dbpedia.org/resource/Rolf_Sohlman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Rolf_Sohlman) dbo:birthDate o'<1954-03-12>",
+    "2" : "s(Rolf_Sohlman) dbo:birthDate o'<1954-3-12>",
+    "3" : "s(Rolf_Sohlman) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Rolf_Sohlman) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14665",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Dolman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Richard_Dolman) dbo:activeYearsEndYear o'<1937>",
+    "2" : "s(Richard_Dolman) dbo:activeYearsStartYear o'<1932>",
+    "3" : "s(Richard_Dolman) dbo:alias o'<Frederick William Dolman>",
+    "4" : "s(Richard_Dolman) dbo:birthDate o'<1895-11-30>",
+    "5" : "s(Richard_Dolman) dbo:birthPlace o'<London>",
+    "6" : "s(Richard_Dolman) dbo:birthPlace o'<United_Kingdom>",
+    "7" : "s(Richard_Dolman) dbo:birthYear o'<1895>",
+    "8" : "s(Richard_Dolman) dbo:deathDate o'<1978-02-03>",
+    "9" : "s(Richard_Dolman) dbo:deathDate o'<1978-2-3>",
+    "10" : "s(Richard_Dolman) dbo:deathPlace o'<Kensington>",
+    "11" : "s(Richard_Dolman) dbo:deathPlace o'<United_Kingdom>",
+    "12" : "s(Richard_Dolman) dbo:deathYear o'<1978>",
+    "13" : "s(Richard_Dolman) dbo:occupation o'<Richard_Dolman__1>",
+    "14" : "s(Richard_Dolman) dbp:imdbId o'<231197>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14666",
+  "entityUrl" : "http://dbpedia.org/resource/Reika_Kirishima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Reika_Kirishima) dbo:birthDate o'<1972-08-05>",
+    "2" : "s(Reika_Kirishima) dbo:birthDate o'<1972-8-5>",
+    "3" : "s(Reika_Kirishima) dbo:birthPlace o'<Niigata_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14667",
+  "entityUrl" : "http://dbpedia.org/resource/Ryohei_Otani",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryohei_Otani) dbo:birthDate o'<1980-10-01>",
+    "2" : "s(Ryohei_Otani) dbo:birthDate o'<1980-10-1>",
+    "3" : "s(Ryohei_Otani) dbo:birthPlace o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14668",
+  "entityUrl" : "http://dbpedia.org/resource/Reginald_Long",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14669",
+  "entityUrl" : "http://dbpedia.org/resource/Ryan_Cheng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ryan_Cheng) dbo:wikiPageRedirects o'<Zheng_Kai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

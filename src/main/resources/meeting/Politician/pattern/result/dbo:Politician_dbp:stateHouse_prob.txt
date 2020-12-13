@@ -1,5 +1,0 @@
-id=32  property=dbp:stateHouse  
-serve_in  VBN_IN  multiply=0.006628  P(serve_in|dbp:stateHouse)=0.147465  P(dbp:stateHouse|serve_in)=0.044944    
-member_of  NN_IN  multiply=0.001588  P(member_of|dbp:stateHouse)=0.069124  P(dbp:stateHouse|member_of)=0.022971    
-elect_to  VBN_TO  multiply=4.3E-4  P(elect_to|dbp:stateHouse)=0.041475  P(dbp:stateHouse|elect_to)=0.010357    
-

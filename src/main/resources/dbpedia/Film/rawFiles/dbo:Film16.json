@@ -1,0 +1,62 @@
+[ {
+  "entityIndex" : "entity10816",
+  "entityUrl" : "http://dbpedia.org/resource/(_)_(film)",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Morgan_Fisher_(artist)" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/Morgan_Fisher_(artist)" ],
+    "dbo:imdbId" : [ "0403827" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/Morgan_Fisher_(artist)" ],
+    "dbo:runtime" : [ "21.0", "1260.0" ],
+    "dbo:wikiPageID" : [ "969687" ],
+    "dbo:wikiPageRevisionID" : [ "737639142" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:2003_films", "http://dbpedia.org/resource/Category:American_films", "http://dbpedia.org/resource/Category:American_independent_films", "http://dbpedia.org/resource/Category:American_silent_short_films", "http://dbpedia.org/resource/Morgan_Fisher_(artist)", "http://dbpedia.org/resource/2004_Toronto_International_Film_Festival", "http://dbpedia.org/resource/New_York_Film_Festival", "http://dbpedia.org/resource/Insert_(film)" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Morgan_Fisher_(artist)" ],
+    "dbp:country" : [ "United States" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1" ]
+  },
+  "words" : [ "``", "ingenious", "expert", "-LRB-", "movie", "according", "insert", "extracted", "shot", "anything", "Morgan", "feature", "Fisher", "2003", "Susan", "else", "Inserts", "said", "''", "films", "silent", "directed", "considering", "film", ",", "entirely", ".", "way", "instrumental", "-RRB-", "consists", "Oxtoby", ";", "shots", "job", "status", "little" ],
+  "adjectives" : [ "silent", "ingenious", "instrumental" ],
+  "nouns" : [ "films", "expert", "movie", "insert", "film", "way", "shot", "anything", "Morgan", "feature", "Fisher", "Susan", "Inserts", "Oxtoby", "shots", "job", "status" ],
+  "text" : "( ) is a 2003 silent film directed by Morgan Fisher. The film consists entirely of insert shots extracted from feature films, considering the \"status of the insert shot in an ingenious way\", according to film expert Susan Oxtoby. Fisher said of his movie, \"Inserts are above all instrumental. They have a job to do, and they do it; and they do little, if anything, else. Sometimes inserts are remarkably beautiful, but this beauty is usually hard to see because the only thing that registers is the news, the expository information, that the insert conveys... By chance, I learned that the root of 'parenthesis' is a Greek word that means the act of inserting. And so I was given the title of the film.\""
+}, {
+  "entityIndex" : "entity10817",
+  "entityUrl" : "http://dbpedia.org/resource/(Untitled)_(film)",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:wikiPageID" : [ "24775068" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/(Untitled)_(2009_film)" ],
+    "dbo:wikiPageRevisionID" : [ "741562459" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/(Untitled)_(2009_film)" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10818",
+  "entityUrl" : "http://dbpedia.org/resource/(Sex)_Appeal",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:cinematography" : [ "http://dbpedia.org/resource/Mark_Lee_Ping_Bin" ],
+    "dbo:runtime" : [ "109.0", "6540.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Alyssa_Chia", "http://dbpedia.org/resource/Leon_Dai", "http://dbpedia.org/resource/Amber_Kuo", "http://dbpedia.org/resource/Vivian_Hsu" ],
+    "dbo:wikiPageID" : [ "44194579" ],
+    "dbo:wikiPageRevisionID" : [ "736265467" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Drama_film", "http://dbpedia.org/resource/Mark_Lee_Ping_Bin", "http://dbpedia.org/resource/Category:Taiwanese_romance_films", "http://dbpedia.org/resource/Category:Chinese_films", "http://dbpedia.org/resource/Category:Taiwanese_films", "http://dbpedia.org/resource/Category:2010s_romantic_drama_films", "http://dbpedia.org/resource/Alyssa_Chia", "http://dbpedia.org/resource/Lene_Lai", "http://dbpedia.org/resource/Film_Business_Asia", "http://dbpedia.org/resource/Leon_Dai", "http://dbpedia.org/resource/Romance_film", "http://dbpedia.org/resource/Category:Taiwanese_drama_films", "http://dbpedia.org/resource/Amber_Kuo", "http://dbpedia.org/resource/Golden_Horse_Film_Festival_and_Awards", "http://dbpedia.org/resource/Vivian_Hsu", "http://dbpedia.org/resource/Megan_Zheng", "http://dbpedia.org/resource/Category:Chinese_romantic_drama_films" ],
+    "dbp:adaptedTo" : [ "http://dbpedia.org/resource/Megan_Zheng" ],
+    "dbp:country" : [ "China", "Taiwan" ],
+    "dbp:director" : [ "Wang Wei-ming" ],
+    "dbp:editing" : [ "Man Chi-ming" ],
+    "dbp:language" : [ "Mandarin" ],
+    "dbp:music" : [ "Annie Lo" ],
+    "dbp:producer" : [ "Hsu Hsiao-ming" ],
+    "dbp:screenplay" : [ "Hsu Kun-hua" ],
+    "dbp:story" : [ "Wang Wei-ming" ],
+    "dbp:studio" : [ "Arong Co.,Ltd", "Guangdong 21St Century Media Co.,Ltd", "Kuli Film Co.,Ltd", "Le Vision Pictures  Co.,Ltd", "Stellar Mega Films Limited", "Taiwan Pictures Co.,Ltd" ]
+  },
+  "words" : [ "de", "24", "-LRB-", "película", "Sex", "romántico", "Wang", "dirigido", "drama", "por", "Wei-ming", "estrenó", "China", "Appeal", "el", "una", "en", "es", ".", "Se", "2014", "chino-taiwanés", "Taiwán", "-RRB-", "y", "octubre" ],
+  "adjectives" : [ "Wei-ming" ],
+  "nouns" : [ "24", "Appeal", "Sex", "romántico", "Wang", "dirigido", "drama", "por", "Se", "estrenó", "China", "chino-taiwanés", "Taiwán", "y" ],
+  "text" : "(Sex) Appeal es una película de drama romántico chino-taiwanés de 2014 dirigido por Wang Wei-ming. Se estrenó en Taiwán y China el 24 de octubre de 2014."
+} ]

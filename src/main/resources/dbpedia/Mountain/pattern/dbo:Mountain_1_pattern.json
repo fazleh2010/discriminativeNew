@@ -1,0 +1,31 @@
+[ {
+  "entityIndex" : "entity10800",
+  "entityUrl" : "http://dbpedia.org/resource/1839_Metre_Summit",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(1839_Metre_Summit) dbo:elevation o'<1842.0>",
+    "2" : "s(1839_Metre_Summit) dbo:locatedInArea o'<Hokkaidō>",
+    "3" : "s(1839_Metre_Summit) dbo:locatedInArea o'<Japan>",
+    "4" : "s(1839_Metre_Summit) dbo:mountainRange o'<Hidaka_Mountains>",
+    "5" : "s(1839_Metre_Summit) dbo:nationalTopographicSystemMapNumber o'<25000:1 ヤオロマップ岳>",
+    "6" : "s(1839_Metre_Summit) dbo:otherName o'<1839峰>",
+    "7" : "s(1839_Metre_Summit) dbo:type o'<Fold_(geology)>",
+    "8" : "s(1839_Metre_Summit) dbp:labelPosition o'<left>",
+    "9" : "s(1839_Metre_Summit) dbp:language o'<Japanese>",
+    "10" : "s(1839_Metre_Summit) dbp:latD o'<42>",
+    "11" : "s(1839_Metre_Summit) dbp:latM o'<32>",
+    "12" : "s(1839_Metre_Summit) dbp:latNs o'<N>",
+    "13" : "s(1839_Metre_Summit) dbp:latS o'<22>",
+    "14" : "s(1839_Metre_Summit) dbp:listing o'<List_of_mountains_and_hills_of_Japan_by_height>",
+    "15" : "s(1839_Metre_Summit) dbp:longD o'<142>",
+    "16" : "s(1839_Metre_Summit) dbp:longEw o'<E>",
+    "17" : "s(1839_Metre_Summit) dbp:longM o'<48>",
+    "18" : "s(1839_Metre_Summit) dbp:longS o'<29>",
+    "19" : "s(1839_Metre_Summit) dbp:photo o'<Mt_1839.JPG>",
+    "20" : "s(1839_Metre_Summit) dbp:photoCaption o'<A view from Mount Kamui>",
+    "21" : "s(1839_Metre_Summit) dbp:regionCode o'<JP>",
+    "22" : "s(1839_Metre_Summit) dbp:translation o'<1839>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

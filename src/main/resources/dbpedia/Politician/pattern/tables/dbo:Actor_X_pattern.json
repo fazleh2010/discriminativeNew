@@ -1,0 +1,153 @@
+[ {
+  "entityIndex" : "entity15466",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Saint-Macary",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xavier_Saint-Macary) dbo:birthDate o'<1948-06-07>",
+    "2" : "s(Xavier_Saint-Macary) dbo:birthDate o'<1948-6-7>",
+    "3" : "s(Xavier_Saint-Macary) dbo:birthPlace o'<Orléans>",
+    "4" : "s(Xavier_Saint-Macary) dbo:birthPlace o'<France>",
+    "5" : "s(Xavier_Saint-Macary) dbo:deathDate o'<1988-03-13>",
+    "6" : "s(Xavier_Saint-Macary) dbo:deathDate o'<1988-3-13>",
+    "7" : "s(Xavier_Saint-Macary) dbo:deathPlace o'<Paris>",
+    "8" : "s(Xavier_Saint-Macary) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15467",
+  "entityUrl" : "http://dbpedia.org/resource/Xie_Shaoguang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xie_Shaoguang) dbo:birthDate o'<1965-9-15>",
+    "2" : "s(Xie_Shaoguang) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15468",
+  "entityUrl" : "http://dbpedia.org/resource/Xiang_Yun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xiang_Yun) dbo:birthDate o'<1961-10-27>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15469",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Jinglei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xu_Jinglei) dbo:birthDate o'<1974-4-16>",
+    "2" : "s(Xu_Jinglei) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Xu_Jinglei) dbp:birthPlace o'<Beijing, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15470",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Xun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xiao_Xun) dbo:birthDate o'<1989-2-27>",
+    "2" : "s(Xiao_Xun) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Xiao_Xun) dbp:birthPlace o'<Taoyuan,_Taiwan>",
+    "4" : "s(Xiao_Xun) dbp:birthPlace o'<Longtan_District,_Taoyuan>",
+    "5" : "s(Xiao_Xun) dbp:birthPlace o'<Taiwan_Province>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15471",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Man",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xiao_Man) dbo:birthDate o'<1989-11-7>",
+    "2" : "s(Xiao_Man) dbp:birthPlace o'<Taiwan_Province>",
+    "3" : "s(Xiao_Man) dbp:birthPlace o'<Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15472",
+  "entityUrl" : "http://dbpedia.org/resource/Xiaoshenyang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xiaoshenyang) dbo:birthDate o'<1981-5-7>",
+    "2" : "s(Xiaoshenyang) dbo:birthPlace o'<Tieling>",
+    "3" : "s(Xiaoshenyang) dbp:birthPlace o'<Liaoning>",
+    "4" : "s(Xiaoshenyang) dbp:birthPlace o'<China>",
+    "5" : "s(Xiaoshenyang) dbp:birthPlace o'<Kaiyuan,_Liaoning>",
+    "6" : "s(Xiaoshenyang) dbp:birthPlace o'<Tieling>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15473",
+  "entityUrl" : "http://dbpedia.org/resource/Xie_Na",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xie_Na) dbo:birthDate o'<1980-5-6>",
+    "2" : "s(Xie_Na) dbp:birthPlace o'<Deyang>",
+    "3" : "s(Xie_Na) dbp:birthPlace o'<Sichuan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15474",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_G%C3%A9lin",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15475",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Huanshan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xu_Huanshan) dbo:birthDate o'<1937-7-13>",
+    "2" : "s(Xu_Huanshan) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Xu_Huanshan) dbp:birthPlace o'<China>",
+    "4" : "s(Xu_Huanshan) dbp:birthPlace o'<Beijing>",
+    "5" : "s(Xu_Huanshan) dbp:name o'<Huanshan Xu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15476",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Fan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xu_Fan) dbo:birthDate o'<1967-8-16>",
+    "2" : "s(Xu_Fan) dbo:birthPlace o'<Wuhan>",
+    "3" : "s(Xu_Fan) dbp:birthPlace o'<China>",
+    "4" : "s(Xu_Fan) dbp:birthPlace o'<Wuhan>",
+    "5" : "s(Xu_Fan) dbp:birthPlace o'<Hubei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15477",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Qing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xu_Qing) dbo:birthDate o'<1969-1-22>",
+    "2" : "s(Xu_Qing) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Xu_Qing) dbp:birthPlace o'<China>",
+    "4" : "s(Xu_Qing) dbp:birthPlace o'<Beijing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15478",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Zheng_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Xu_Zheng_(actor)) dbo:birthDate o'<1972-4-18>",
+    "2" : "s(Xu_Zheng_(actor)) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Xu_Zheng_(actor)) dbp:birthPlace o'<China>",
+    "4" : "s(Xu_Zheng_(actor)) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

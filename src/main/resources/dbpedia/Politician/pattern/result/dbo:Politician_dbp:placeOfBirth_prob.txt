@@ -1,3 +1,3 @@
-id=56  property=dbp:placeOfBirth  
-eldest_son  JJ_NN  multiply=0.111111  P(eldest_son|dbp:placeOfBirth)=0.333333  P(dbp:placeOfBirth|eldest_son)=0.333333    
+id=59  property=dbp:placeOfBirth  
+eldest_son  JJ_NN  multiply=0.083333  P(eldest_son|dbp:placeOfBirth)=0.333333  P(dbp:placeOfBirth|eldest_son)=0.25    
 

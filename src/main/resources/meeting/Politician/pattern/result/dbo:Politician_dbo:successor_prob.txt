@@ -1,8 +1,0 @@
-id=21  property=dbo:successor  
-defeat_by  VBN_IN  multiply=0.007022  P(defeat_by|dbo:successor)=0.008312  P(dbo:successor|defeat_by)=0.844828    
-succeed_by  VBN_IN  multiply=0.004669  P(succeed_by|dbo:successor)=0.005768  P(dbo:successor|succeed_by)=0.809524    
-run_for  VB_IN  multiply=0.003393  P(run_for|dbo:successor)=0.006785  P(dbo:successor|run_for)=0.5    
-defeat_in  VBN_IN  multiply=0.003277  P(defeat_in|dbo:successor)=0.005428  P(dbo:successor|defeat_in)=0.603774    
-replace_by  VBN_IN  multiply=0.001745  P(replace_by|dbo:successor)=0.002036  P(dbo:successor|replace_by)=0.857143    
-retire_from  VBN_IN  multiply=0.001024  P(retire_from|dbo:successor)=0.002205  P(dbo:successor|retire_from)=0.464286    
-

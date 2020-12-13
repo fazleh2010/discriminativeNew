@@ -1,0 +1,108 @@
+[ {
+  "entityIndex" : "entity10837",
+  "entityUrl" : "http://dbpedia.org/resource/505_Games",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(505_Games) dbo:foundingYear o'<2006>",
+    "2" : "s(505_Games) dbo:industry o'<Video_game_industry>",
+    "3" : "s(505_Games) dbo:locationCity o'<Milan>",
+    "4" : "s(505_Games) dbo:numberOfEmployees o'<151>",
+    "5" : "s(505_Games) dbo:type o'<Subsidiary>",
+    "6" : "s(505_Games) dbp:keyPeople o'<Rami Galante, Raffi Galante, Ian Howe, Tim Woodley>",
+    "7" : "s(505_Games) dbp:locationCountry o'<Italy>",
+    "8" : "s(505_Games) dbp:logo o'<200>",
+    "9" : "s(505_Games) dbp:parent o'<Digital Bros.>",
+    "10" : "s(505_Games) dbp:subsid o'<505>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10838",
+  "entityUrl" : "http://dbpedia.org/resource/518_Media",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(518_Media) dbo:locationCity o'<New_York,_New_York>",
+    "2" : "s(518_Media) dbp:industry o'<Film and television distribution>",
+    "3" : "s(518_Media) dbp:keyPeople o'<Frank W. DeMille>",
+    "4" : "s(518_Media) dbp:locationCountry o'<United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10839",
+  "entityUrl" : "http://dbpedia.org/resource/55DSL",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(55DSL) dbo:foundationPlace o'<Italy>",
+    "2" : "s(55DSL) dbo:foundingYear o'<1994>",
+    "3" : "s(55DSL) dbo:industry o'<Clothing>",
+    "4" : "s(55DSL) dbo:location o'<Italy>",
+    "5" : "s(55DSL) dbo:location o'<Vicenza>",
+    "6" : "s(55DSL) dbo:location o'<Marostica>",
+    "7" : "s(55DSL) dbo:product o'<Clothing>",
+    "8" : "s(55DSL) dbo:type o'<Private_company>",
+    "9" : "s(55DSL) dbp:keyPeople o'<Andrea Rosso, Creative Director>",
+    "10" : "s(55DSL) dbp:keyPeople o'<Renzo Rosso, Founder>",
+    "11" : "s(55DSL) dbp:numEmployees o'<unknown>",
+    "12" : "s(55DSL) dbp:revenue o'<£unknown GBP>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10840",
+  "entityUrl" : "http://dbpedia.org/resource/57th_&_Irving",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(57th_&_Irving) dbo:foundingYear o'<2005>",
+    "2" : "s(57th_&_Irving) dbo:locationCity o'<New_York_City>",
+    "3" : "s(57th_&_Irving) dbp:industry o'<Film production>",
+    "4" : "s(57th_&_Irving) dbp:locationCountry o'<United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10841",
+  "entityUrl" : "http://dbpedia.org/resource/5pb.",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(5pb.) dbo:foundationPlace o'<Japan>",
+    "2" : "s(5pb.) dbo:foundationPlace o'<Shibuya,_Tokyo>",
+    "3" : "s(5pb.) dbo:foundingDate o'<2005-04-06>",
+    "4" : "s(5pb.) dbo:foundingYear o'<2005>",
+    "5" : "s(5pb.) dbo:industry o'<Anime>",
+    "6" : "s(5pb.) dbo:industry o'<Music>",
+    "7" : "s(5pb.) dbo:industry o'<Video_game>",
+    "8" : "s(5pb.) dbo:keyPerson o'<Executive_director>",
+    "9" : "s(5pb.) dbo:locationCountry o'<Japan>",
+    "10" : "s(5pb.) dbo:regionServed o'<Japan>",
+    "11" : "s(5pb.) dbo:type o'<Kabushiki_gaisha>",
+    "12" : "s(5pb.) dbp:locationCity o'<Shibuya, Tokyo>",
+    "13" : "s(5pb.) dbp:logo o'<File:5pb.Games_logo_banner.gif>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10842",
+  "entityUrl" : "http://dbpedia.org/resource/5th_Cell",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(5th_Cell) dbo:foundingDate o'<2003-08-28>",
+    "2" : "s(5th_Cell) dbo:foundingYear o'<2003>",
+    "3" : "s(5th_Cell) dbo:industry o'<Video_game_industry>",
+    "4" : "s(5th_Cell) dbo:keyPerson o'<Chief_operating_officer>",
+    "5" : "s(5th_Cell) dbo:keyPerson o'<Jeremiah_Slaczka>",
+    "6" : "s(5th_Cell) dbo:keyPerson o'<CEO>",
+    "7" : "s(5th_Cell) dbo:keyPerson o'<Chief_technology_officer>",
+    "8" : "s(5th_Cell) dbo:location o'<United_States>",
+    "9" : "s(5th_Cell) dbo:location o'<Bellevue,_Washington>",
+    "10" : "s(5th_Cell) dbo:product o'<Scribblenauts>",
+    "11" : "s(5th_Cell) dbo:product o'<Drawn_to_Life>",
+    "12" : "s(5th_Cell) dbo:product o'<Lock's_Quest>",
+    "13" : "s(5th_Cell) dbo:product o'<Run_Roo_Run>",
+    "14" : "s(5th_Cell) dbo:type o'<Privately_held_company>",
+    "15" : "s(5th_Cell) dbp:logo o'<File:5th_Cell_logo.png>",
+    "16" : "s(5th_Cell) dbp:slogan o'<Advancing Entertainment>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

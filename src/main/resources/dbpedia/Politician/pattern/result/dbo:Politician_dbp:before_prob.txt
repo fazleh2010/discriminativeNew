@@ -1,9 +1,9 @@
-id=33  property=dbp:before  
-elect_at  VBN_IN  multiply=0.013235  P(elect_at|dbp:before)=0.026907  P(dbp:before|elect_at)=0.491892    
-first_elect  RB_VBN  multiply=0.008345  P(first_elect|dbp:before)=0.024837  P(dbp:before|first_elect)=0.336    
-appoint_to  VBN_TO  multiply=0.003205  P(appoint_to|dbp:before)=0.010349  P(dbp:before|appoint_to)=0.309735    
-defeat_at  VBN_IN  multiply=0.002556  P(defeat_at|dbp:before)=0.003253  P(dbp:before|defeat_at)=0.785714    
-win_seat  VBD_NN  multiply=8.45E-4  P(win_seat|dbp:before)=0.002957  P(dbp:before|win_seat)=0.285714    
-unsuccessfully_contest  RB_VBN  multiply=7.26E-4  P(unsuccessfully_contest|dbp:before)=0.002661  P(dbp:before|unsuccessfully_contest)=0.272727    
-succeed_by  VBN_IN  multiply=5.7E-4  P(succeed_by|dbp:before)=0.002661  P(dbp:before|succeed_by)=0.214286    
+id=35  property=dbp:before  
+elect_at  VBN_IN  multiply=0.013224  P(elect_at|dbp:before)=0.026883  P(dbp:before|elect_at)=0.491892    
+first_elect  RB_VBN  multiply=0.008338  P(first_elect|dbp:before)=0.024815  P(dbp:before|first_elect)=0.336    
+appoint_to  VBN_TO  multiply=0.003203  P(appoint_to|dbp:before)=0.01034  P(dbp:before|appoint_to)=0.309735    
+defeat_at  VBN_IN  multiply=0.002553  P(defeat_at|dbp:before)=0.00325  P(dbp:before|defeat_at)=0.785714    
+win_seat  VBD_NN  multiply=8.44E-4  P(win_seat|dbp:before)=0.002954  P(dbp:before|win_seat)=0.285714    
+unsuccessfully_contest  RB_VBN  multiply=7.04E-4  P(unsuccessfully_contest|dbp:before)=0.002659  P(dbp:before|unsuccessfully_contest)=0.264706    
+succeed_by  VBN_IN  multiply=5.7E-4  P(succeed_by|dbp:before)=0.002659  P(dbp:before|succeed_by)=0.214286    
 

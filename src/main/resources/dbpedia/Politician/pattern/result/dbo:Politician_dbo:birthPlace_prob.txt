@@ -1,12 +1,12 @@
 id=4  property=dbo:birthPlace  
-serve  RB_VBN  multiply=0.08999  P(serve|dbo:birthPlace)=0.121894  P(dbo:birthPlace|serve)=0.738264    
-represent  VBN  multiply=0.046027  P(represent|dbo:birthPlace)=0.067743  P(dbo:birthPlace|represent)=0.679446    
-bear_in  VBN_IN  multiply=0.042403  P(bear_in|dbo:birthPlace)=0.045657  P(dbo:birthPlace|bear_in)=0.928726    
-serve_in  VBN_IN  multiply=0.04126  P(serve_in|dbo:birthPlace)=0.05585  P(dbo:birthPlace|serve_in)=0.738764    
-serve_member  VBD_NN  multiply=0.040797  P(serve_member|dbo:birthPlace)=0.053833  P(dbo:birthPlace|serve_member)=0.757848    
-represent_electoral  VBZ_JJ  multiply=0.028554  P(represent_electoral|dbo:birthPlace)=0.045339  P(dbo:birthPlace|represent_electoral)=0.629794    
-member_of  NN_IN  multiply=0.027334  P(member_of|dbo:birthPlace)=0.043534  P(dbo:birthPlace|member_of)=0.627871    
-elect_to  VBN_TO  multiply=0.019161  P(elect_to|dbo:birthPlace)=0.042047  P(dbo:birthPlace|elect_to)=0.455696    
-first_elect  RB_VBN  multiply=0.012711  P(first_elect|dbo:birthPlace)=0.018369  P(dbo:birthPlace|first_elect)=0.692    
-minister_of  NN_IN  multiply=0.002926  P(minister_of|dbo:birthPlace)=0.004353  P(dbo:birthPlace|minister_of)=0.672131    
+serve  RB_VBN  multiply=0.067667  P(serve|dbo:birthPlace)=0.091691  P(dbo:birthPlace|serve)=0.737988    
+bear_in  VBN_IN  multiply=0.034905  P(bear_in|dbo:birthPlace)=0.037568  P(dbo:birthPlace|bear_in)=0.929134    
+represent  VBN  multiply=0.034574  P(represent|dbo:birthPlace)=0.05086  P(dbo:birthPlace|represent)=0.679787    
+serve_in  VBN_IN  multiply=0.031034  P(serve_in|dbo:birthPlace)=0.042025  P(dbo:birthPlace|serve_in)=0.738462    
+serve_member  VBD_NN  multiply=0.030582  P(serve_member|dbo:birthPlace)=0.040353  P(dbo:birthPlace|serve_member)=0.757848    
+represent_electoral  VBZ_JJ  multiply=0.021473  P(represent_electoral|dbo:birthPlace)=0.034066  P(dbo:birthPlace|represent_electoral)=0.630339    
+member_of  NN_IN  multiply=0.020464  P(member_of|dbo:birthPlace)=0.032713  P(dbo:birthPlace|member_of)=0.625571    
+elect_to  VBN_TO  multiply=0.014363  P(elect_to|dbo:birthPlace)=0.031519  P(dbo:birthPlace|elect_to)=0.455696    
+minister_of  NN_IN  multiply=0.002193  P(minister_of|dbo:birthPlace)=0.003263  P(dbo:birthPlace|minister_of)=0.672131    
+educate_at  VBN_IN  multiply=0.002044  P(educate_at|dbo:birthPlace)=0.003422  P(dbo:birthPlace|educate_at)=0.597222    
 

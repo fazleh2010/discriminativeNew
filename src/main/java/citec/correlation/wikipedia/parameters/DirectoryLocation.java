@@ -4,9 +4,6 @@
  * and open the template in the editor.
  */
 package citec.correlation.wikipedia.parameters;
-
-import citec.correlation.wikipedia.utils.NLPTools;
-
 /**
  *
  * @author elahi

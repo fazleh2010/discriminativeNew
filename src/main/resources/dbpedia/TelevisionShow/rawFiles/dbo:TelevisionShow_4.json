@@ -1,0 +1,125 @@
+[ {
+  "entityIndex" : "entity11091",
+  "entityUrl" : "http://dbpedia.org/resource/48_Hours_(TV_series)",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:company" : [ "http://dbpedia.org/resource/CBS_News" ],
+    "dbo:format" : [ "http://dbpedia.org/resource/1080i", "http://dbpedia.org/resource/480i", "http://dbpedia.org/resource/720p" ],
+    "dbo:genre" : [ "http://dbpedia.org/resource/News_magazine" ],
+    "dbo:network" : [ "http://dbpedia.org/resource/CBS" ],
+    "dbo:numberOfEpisodes" : [ "991" ],
+    "dbo:numberOfSeasons" : [ "29" ],
+    "dbo:presenter" : [ "http://dbpedia.org/resource/Troy_Roberts_(journalist)", "http://dbpedia.org/resource/Peter_Van_Sant", "http://dbpedia.org/resource/Susan_Spencer", "http://dbpedia.org/resource/Maureen_Maher", "http://dbpedia.org/resource/Erin_Moriarty", "http://dbpedia.org/resource/Richard_Schlesinger_(journalist)" ],
+    "dbo:related" : [ "http://dbpedia.org/resource/60_Minutes" ],
+    "dbo:releaseDate" : [ "1988-01-19" ],
+    "dbo:runtime" : [ "42.0", "2520.0" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/48_Hours_Mystry_logo.png?width=300" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.cbsnews.com/48-hours/" ],
+    "dbo:wikiPageID" : [ "2565738" ],
+    "dbo:wikiPageRevisionID" : [ "732164891" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/60_Minutes", "http://dbpedia.org/resource/CBS", "http://dbpedia.org/resource/Category:2010s_American_television_series", "http://dbpedia.org/resource/Category:American_television_news_programs", "http://dbpedia.org/resource/Category:CBS_News", "http://dbpedia.org/resource/Category:Super_Bowl_lead-out_programs", "http://dbpedia.org/resource/Troy_Roberts_(journalist)", "http://dbpedia.org/resource/Harold_Dow", "http://dbpedia.org/resource/Univision", "http://dbpedia.org/resource/Death_penalty", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Dan_Rather", "http://dbpedia.org/resource/Category:1980s_American_television_series", "http://dbpedia.org/resource/Category:1988_American_television_series_debuts", "http://dbpedia.org/resource/Category:1990s_American_television_series", "http://dbpedia.org/resource/Category:2000s_American_television_series", "http://dbpedia.org/resource/Category:CBS_network_shows", "http://dbpedia.org/resource/Category:English-language_television_programming", "http://dbpedia.org/resource/Category:Peabody_Award-winning_television_programs", "http://dbpedia.org/resource/Category:Television_series_by_CBS_Television_Studios", "http://dbpedia.org/resource/Prime_time", "http://dbpedia.org/resource/Standard-definition_television", "http://dbpedia.org/resource/Lesley_Stahl", "http://dbpedia.org/resource/Murder_of_Brian_Stidham", "http://dbpedia.org/resource/Peter_Van_Sant", "http://dbpedia.org/resource/List_of_Super_Bowl_lead-out_programs", "http://dbpedia.org/resource/Murder_of_Travis_Alexander", "http://dbpedia.org/resource/1080i", "http://dbpedia.org/resource/Homicide:_Life_on_the_Street", "http://dbpedia.org/resource/True_crime", "http://dbpedia.org/resource/Crimetime_Saturday", "http://dbpedia.org/resource/Eastern_Time_Zone", "http://dbpedia.org/resource/Investigation_Discovery", "http://dbpedia.org/resource/Pacific_Time_Zone", "http://dbpedia.org/resource/Peabody_Award", "http://dbpedia.org/resource/Sandy_Hook_Elementary_School_shooting", "http://dbpedia.org/resource/Oprah_Winfrey_Network_(U.S._TV_channel)", "http://dbpedia.org/resource/Susan_Spencer", "http://dbpedia.org/resource/Maureen_Maher", "http://dbpedia.org/resource/High-definition_television", "http://dbpedia.org/resource/Television_documentary", "http://dbpedia.org/resource/CBS_Evening_News", "http://dbpedia.org/resource/CBS_News", "http://dbpedia.org/resource/Emmy_Award", "http://dbpedia.org/resource/TLC_(TV_network)", "http://dbpedia.org/resource/Category:True_crime_films", "http://dbpedia.org/resource/Virginia_Tech_massacre", "http://dbpedia.org/resource/Multi-camera_setup", "http://dbpedia.org/resource/480i", "http://dbpedia.org/resource/720p", "http://dbpedia.org/resource/4:3", "http://dbpedia.org/resource/September_11,_2001_attacks", "http://dbpedia.org/resource/Counterprogramming", "http://dbpedia.org/resource/Saturday_Night_Football", "http://dbpedia.org/resource/Erin_Moriarty", "http://dbpedia.org/resource/Davis_Rules", "http://dbpedia.org/resource/16:9", "http://dbpedia.org/resource/Richard_Schlesinger_(journalist)", "http://dbpedia.org/resource/News_magazine", "http://dbpedia.org/resource/1991_Super_Bowl", "http://dbpedia.org/resource/1992_Super_Bowl", "http://dbpedia.org/resource/1993_Super_Bowl" ],
+    "dbp:camera" : [ "http://dbpedia.org/resource/Multi-camera_setup" ],
+    "dbp:country" : [ "United States" ],
+    "dbp:creator" : [ "Howard Stringer" ],
+    "dbp:director" : [ "Rob Klug" ],
+    "dbp:editor" : [ "Al Briganti" ],
+    "dbp:executiveProducer" : [ "Susan Zirinsky" ],
+    "dbp:language" : [ "English" ],
+    "dbp:lastAired" : [ "present" ]
+  },
+  "words" : [ "48", "subject", "sometimes", "program", "serve", "Saturday", "major", "depending", "excluding", "block", "January", "prime", "19", ",", "p.m.", "'s", ".", "remaining", "first-run", "involved", "-RRB-", "Eastern", ";", "programs", "since", "1988", "broadcast", "-LRB-", "American", "airs", "Hours", "part", "Time", "counterprogramming", "Saturdays", "networks", "two", "network", "U.S.", "along", "CBS", "placeholder", "airing", "Sabadazo", "sports", "documentary/news", "television", "one", "two-hour", "consecutive", "10:00", "editions", "currently", "Pacific", "series", "nights", "Univision", "magazine", "time", "Crimetime", "one-hour" ],
+  "adjectives" : [ "prime", "first-run", "American", "major", "involved", "subject", "two-hour", "consecutive", "one-hour" ],
+  "nouns" : [ "broadcast", "Hours", "part", "Time", "counterprogramming", "program", "Saturdays", "networks", "network", "Saturday", "U.S.", "CBS", "block", "placeholder", "January", "Sabadazo", "sports", "documentary/news", "television", "editions", "Pacific", "series", "nights", "Univision", "Eastern", "magazine", "time", "programs", "Crimetime" ],
+  "text" : "48 Hours is an American documentary/news magazine television series broadcast on CBS. The series has been broadcast on the network since January 19, 1988. The program airs Saturdays at 10:00 p.m. Eastern and Pacific Time, as part of the network's placeholder Crimetime Saturday block; as such, it is currently one of only two remaining first-run prime time programs (excluding sports) airing Saturday nights on the major U.S. broadcast television networks (along with Univision's Sabadazo). The program sometimes airs two-hour editions or two consecutive one-hour editions, depending on the subject involved or to serve as counterprogramming against other networks. Reruns of 48 Hours are regularly broadcast on Investigation Discovery, the Oprah Winfrey Network and TLC as part of their daytime and/or weekend schedules, with varying titles based on the edition's subject matter (such as 48 Hours Hard Evidence, 48 Hours Investigates (a title that has also been used for the CBS broadcasts), 48 Hours on OWN or 48 Hours on ID)."
+}, {
+  "entityIndex" : "entity11092",
+  "entityUrl" : "http://dbpedia.org/resource/49th_&_Main",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:imdbId" : [ "0807772" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.williambdavisproductions.com/prod_49_main.html" ],
+    "dbo:wikiPageID" : [ "5832906" ],
+    "dbo:wikiPageRevisionID" : [ "701177586" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Canadian_drama_television_series", "http://dbpedia.org/resource/Category:Television_series_produced_in_Vancouver", "http://dbpedia.org/resource/ITV_(TV_network)", "http://dbpedia.org/resource/Multiculturalism", "http://dbpedia.org/resource/Category:Canadian_television_soap_operas", "http://dbpedia.org/resource/British_Columbia", "http://dbpedia.org/resource/Category:2000s_Canadian_television_series", "http://dbpedia.org/resource/Category:CBC_Television_shows", "http://dbpedia.org/resource/Coronation_Street", "http://dbpedia.org/resource/England", "http://dbpedia.org/resource/India", "http://dbpedia.org/resource/Soap_opera", "http://dbpedia.org/resource/Punjabi_Market,_Vancouver", "http://dbpedia.org/resource/Vancouver", "http://dbpedia.org/resource/Kenya", "http://dbpedia.org/resource/Canada", "http://dbpedia.org/resource/North/South_(CBC_TV_series)", "http://dbpedia.org/resource/CBC_Television", "http://dbpedia.org/resource/Category:2006_Canadian_television_series_debuts", "http://dbpedia.org/resource/Category:2006_Canadian_television_series_endings", "http://dbpedia.org/resource/William_B._Davis", "http://dbpedia.org/resource/Category:Television_shows_set_in_Vancouver", "http://dbpedia.org/resource/Brandon_Jay_McLaren", "http://dbpedia.org/resource/Rekha_Sharma", "http://dbpedia.org/resource/Balinder_Johal", "http://dbpedia.org/resource/Tom_Braidwood", "http://dbpedia.org/resource/Agam_Darshi", "http://dbpedia.org/resource/Cedric_de_Souza" ],
+    "dbp:title" : [ "49" ]
+  },
+  "words" : [ "opera", "premiered", "Much", "episode", "ITV", "Tuesday/Wednesday/Thursday", "Coronation", "scheduling", "Street", "July", "ran", "episodes", "area", "49th", "like", "&", "18", "businesspeople", ",", "'s", "Market", ".", "2:30", "Columbia", "6", "district", "-RRB-", "final", "residents", "multicultural", "soap", "3:00", "Vancouver", "-LRB-", "CBC", "27", "focuses", "interactions", "2006", "aired", "British", "set", "Newfoundland", "Television", "series", "setup", "P.M.", "merchants", "Main", "Punjabi" ],
+  "adjectives" : [ "final", "multicultural" ],
+  "nouns" : [ "Vancouver", "opera", "CBC", "episode", "ITV", "Tuesday/Wednesday/Thursday", "interactions", "Coronation", "scheduling", "Street", "July", "episodes", "area", "49th", "British", "businesspeople", "Newfoundland", "Market", "Columbia", "Television", "series", "district", "setup", "residents", "P.M.", "merchants", "Main", "soap", "Punjabi" ],
+  "text" : "49th & Main is a CBC Television soap opera. It premiered on July 18, 2006 at 2:30 P.M. (3:00 P.M. in Newfoundland), and ran for 6 episodes on a Tuesday/Wednesday/Thursday scheduling setup, with the final episode having aired on July 27. The series is set in the Punjabi Market district of Vancouver, British Columbia. Much like ITV's Coronation Street, 49th & Main focuses on the interactions of the businesspeople, merchants and residents of the multicultural area. In particular, the series revolves around Dr. Cedric Ferreira, a Kenyan-born Indian with an English upbringing, who decides to bring his young son to Canada and start a medical practice. The cast of 49th & Main includes Cedric de Souza (in the role of Dr. Ferreira), as well as Rekha Sharma, Agam Darshi, Brandon Jay McLaren, Balinder Johal and William B. Davis. Davis is also the co-writer of the first six episodes and directed three of them, with the other three directed by Tom Braidwood. The six episodes were taped in Vancouver in March and April 2006, and an initial pilot was shot in early 2005. Executive Producers of the series are William Wallace Gray and William B. Davis. Creators are Barbara Ellison & William B. Davis. 49th & Main is one of two CBC daytime dramas scheduled for 6-episode runs in July with the potential of a future order from the CBC for a full-scale on-going series. The other one was North/South, which premiered on July 4 in the 2:30 P.M. timeslot."
+}, {
+  "entityIndex" : "entity11093",
+  "entityUrl" : "http://dbpedia.org/resource/450,_Chemin_du_Golf",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:wikiPageID" : [ "6030914" ],
+    "dbo:wikiPageRevisionID" : [ "719061778" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Quebec_French", "http://dbpedia.org/resource/Montreal", "http://dbpedia.org/resource/Sitcom", "http://dbpedia.org/resource/Category:Television_series_produced_in_Quebec", "http://dbpedia.org/resource/Category:V_(TV_network)_shows", "http://dbpedia.org/resource/Category:Canadian_television_sitcoms", "http://dbpedia.org/resource/French-speaking_Quebecer", "http://dbpedia.org/resource/TQS", "http://dbpedia.org/resource/Area_code_450", "http://dbpedia.org/resource/François_Massicotte" ]
+  },
+  "words" : [ "de", "25", "québécoise", "Prise", "En", "novembre", "450", "elle", "2009", "du", "sur", "télévisée", "2003", "humoristique", "V.", "puis", "entre", "Golf", "minutes", "janvier", "en", "chemin", ",", "réseau", "une", ".", "et", "2", "146", "4", "épisodes", "2015", "TQS", "série", "8", "diffusée", "le" ],
+  "adjectives" : [ "diffusée", "chemin", "novembre", "une" ],
+  "nouns" : [ "Golf", "québécoise", "minutes", "janvier", "En", "réseau", "sur", "du", "télévisée", "épisodes", "TQS", "série", "humoristique", "V.", "puis", "entre" ],
+  "text" : "450, chemin du Golf est une série télévisée humoristique québécoise en 146 épisodes de 25 minutes diffusée entre le 8 janvier 2003 et 4 novembre 2009 sur le réseau TQS, puis sur le réseau V. En janvier 2015, elle est diffusée sur Prise 2."
+}, {
+  "entityIndex" : "entity11094",
+  "entityUrl" : "http://dbpedia.org/resource/4_Square_(TV_series)",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:completionDate" : [ "2015-09-06" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/Canada" ],
+    "dbo:creator" : [ "http://dbpedia.org/resource/Dominique_Jolin" ],
+    "dbo:network" : [ "http://dbpedia.org/resource/Treehouse_TV" ],
+    "dbo:releaseDate" : [ "1996-09-16" ],
+    "dbo:runtime" : [ "5.0", "30.0", "300.0", "1800.0" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.treehousetv.com/videos/show/4-square" ],
+    "dbo:wikiPageID" : [ "8489722" ],
+    "dbo:wikiPageRevisionID" : [ "736946953" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Canadian_children's_television_series", "http://dbpedia.org/resource/Category:Preschool_education_television_series", "http://dbpedia.org/resource/Category:Treehouse_TV_shows", "http://dbpedia.org/resource/Category:2015_Canadian_television_series_endings", "http://dbpedia.org/resource/Sweater", "http://dbpedia.org/resource/Treehouse_TV", "http://dbpedia.org/resource/Children's_television_series", "http://dbpedia.org/resource/Rhythm", "http://dbpedia.org/resource/Sweatpants", "http://dbpedia.org/resource/Toronto", "http://dbpedia.org/resource/Corpus_(dance_troupe)", "http://dbpedia.org/resource/Canada", "http://dbpedia.org/resource/Category:Television_series_by_Corus_Entertainment", "http://dbpedia.org/resource/Orange_(colour)", "http://dbpedia.org/resource/Category:1996_Canadian_television_series_debuts", "http://dbpedia.org/resource/Pay_Chen", "http://dbpedia.org/resource/Dominique_Jolin" ],
+    "dbp:pictureFormat" : [ "4" ]
+  },
+  "words" : [ "-LRB-", "Canadian", "divided", "show", "two", "segments", "running", "shows", "children", "segment", "different", "aired", "backdrop", "television", "one", "wearing", "often", "Square", "'s", ",", "coloured", ".", "contrasting", "actors", "colour", "longer", "4", "series", "filler", "-RRB-", "consists" ],
+  "adjectives" : [ "contrasting", "longer", "Canadian", "different" ],
+  "nouns" : [ "backdrop", "television", "show", "Square", "segments", "running", "actors", "colour", "shows", "children", "series", "segment", "filler" ],
+  "text" : "4 Square is a Canadian children's television series. The show consists of 4 different segments. Each segment has its own coloured backdrop, with the actors wearing the contrasting colour. The show was often divided up and only one segment is aired as filler (between two longer running shows)."
+}, {
+  "entityIndex" : "entity11095",
+  "entityUrl" : "http://dbpedia.org/resource/413_Hope_St.",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:company" : [ "http://dbpedia.org/resource/20th_Century_Fox_Television" ],
+    "dbo:completionDate" : [ "1998-01-01" ],
+    "dbo:creator" : [ "http://dbpedia.org/resource/Damon_Wayans", "http://dbpedia.org/resource/Dean_Lorey", "http://dbpedia.org/resource/Janine_Sherman" ],
+    "dbo:distributor" : [ "http://dbpedia.org/resource/20th_Television" ],
+    "dbo:network" : [ "http://dbpedia.org/resource/Fox_Network" ],
+    "dbo:numberOfEpisodes" : [ "10" ],
+    "dbo:numberOfSeasons" : [ "1" ],
+    "dbo:releaseDate" : [ "1997-09-11" ],
+    "dbo:runtime" : [ "60.0", "3600.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Dawn_Stern", "http://dbpedia.org/resource/Kelly_Coffield", "http://dbpedia.org/resource/Karim_Prince", "http://dbpedia.org/resource/Shari_Headley", "http://dbpedia.org/resource/Vincent_Laresca", "http://dbpedia.org/resource/Michael_Easton", "http://dbpedia.org/resource/Jesse_L._Martin", "http://dbpedia.org/resource/Richard_Roundtree", "http://dbpedia.org/resource/Stephen_Berra" ],
+    "dbo:wikiPageID" : [ "13222501" ],
+    "dbo:wikiPageRevisionID" : [ "738761860" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Fictional_portrayals_of_the_New_York_City_Police_Department", "http://dbpedia.org/resource/Fox_Broadcasting_Company", "http://dbpedia.org/resource/Dramatic_programming", "http://dbpedia.org/resource/Damon_Wayans", "http://dbpedia.org/resource/20th_Century_Fox_Television", "http://dbpedia.org/resource/Drug_addiction", "http://dbpedia.org/resource/Dawn_Stern", "http://dbpedia.org/resource/Kelly_Coffield", "http://dbpedia.org/resource/Category:1990s_American_television_series", "http://dbpedia.org/resource/Category:1997_American_television_series_debuts", "http://dbpedia.org/resource/Category:1998_American_television_series_endings", "http://dbpedia.org/resource/Category:American_drama_television_series", "http://dbpedia.org/resource/Category:English-language_television_programming", "http://dbpedia.org/resource/Category:Fox_network_shows", "http://dbpedia.org/resource/Category:Television_series_by_20th_Century_Fox_Television", "http://dbpedia.org/resource/Category:Television_shows_set_in_New_York_City", "http://dbpedia.org/resource/HIV", "http://dbpedia.org/resource/Karim_Prince", "http://dbpedia.org/resource/New_Year's_Day", "http://dbpedia.org/resource/Shari_Headley", "http://dbpedia.org/resource/Dean_Lorey", "http://dbpedia.org/resource/Foster_care", "http://dbpedia.org/resource/Homelessness", "http://dbpedia.org/resource/Vincent_Laresca", "http://dbpedia.org/resource/20th_Television", "http://dbpedia.org/resource/Michael_Easton", "http://dbpedia.org/resource/Fox_Network", "http://dbpedia.org/resource/Jesse_L._Martin", "http://dbpedia.org/resource/Richard_Roundtree", "http://dbpedia.org/resource/Stephen_Berra", "http://dbpedia.org/resource/AIDS", "http://dbpedia.org/resource/Incarceration", "http://dbpedia.org/resource/Janine_Sherman" ],
+    "dbp:caption" : [ "413" ],
+    "dbp:country" : [ "United States" ],
+    "dbp:language" : [ "English" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1" ]
+  },
+  "words" : [ "Headley", "Shari", "American", "Jesse", "ensemble", "headed", "St.", "network", "drama", "1997", "cast", "stark", "fall", "413", "actor/comedian", "comedic", "Richard", "included", "--", "aired", "L.", "Damon", "usual", "made", "work", "Martin", ",", "Fox", ".", "Kelly", "co-created", "Wayans", "series", "departure", "Hope", "Roundtree", "Coffield" ],
+  "adjectives" : [ "stark", "American", "usual", "actor/comedian", "comedic" ],
+  "nouns" : [ "Headley", "Shari", "L.", "Damon", "work", "Jesse", "ensemble", "Martin", "St.", "Fox", "network", "Kelly", "drama", "cast", "Wayans", "fall", "series", "Richard", "departure", "Hope", "Roundtree", "Coffield" ],
+  "text" : "413 Hope St. was an American drama series which aired on the Fox network in the fall of 1997. The series was co-created by actor/comedian Damon Wayans, who made a stark departure from his usual comedic work. The ensemble cast—headed by Richard Roundtree—included Jesse L. Martin, Shari Headley, and Kelly Coffield."
+}, {
+  "entityIndex" : "entity11096",
+  "entityUrl" : "http://dbpedia.org/resource/4Real",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:wikiPageExternalLink" : [ "http://www.4REAL.com", "http://www.ctv.ca", "http://www.harmony.ca/awards/harmony-award/2009-sol-guy-and-josh-thome/", "http://www.nationalgeographic.com/explorers/bios/guy-thome/", "http://glitztv.com.br", "http://halogentv.com", "http://vimeo.com/75065521" ],
+    "dbo:wikiPageID" : [ "19386051" ],
+    "dbo:wikiPageRevisionID" : [ "722298989" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Cameron_Diaz", "http://dbpedia.org/resource/Category:American_travel_television_series", "http://dbpedia.org/resource/Category:2008_American_television_series_debuts", "http://dbpedia.org/resource/Category:2000s_American_television_series", "http://dbpedia.org/resource/Category:English-language_television_programming", "http://dbpedia.org/resource/MTV", "http://dbpedia.org/resource/Flea_(musician)", "http://dbpedia.org/resource/Mos_Def", "http://dbpedia.org/resource/The_CW", "http://dbpedia.org/resource/Category:2008_American_television_series_endings", "http://dbpedia.org/resource/Joaquin_Phoenix", "http://dbpedia.org/resource/Link_TV", "http://dbpedia.org/resource/National_Geographic_Channel", "http://dbpedia.org/resource/Travel_Channel", "http://dbpedia.org/resource/Television_New_Zealand", "http://dbpedia.org/resource/K'naan", "http://dbpedia.org/resource/Category:The_CW_shows", "http://dbpedia.org/resource/Eva_Mendes", "http://dbpedia.org/resource/Casey_Affleck", "http://dbpedia.org/resource/M.I.A._(artist)" ]
+  },
+  "words" : [ "celebrity", "New", "TV", "CTV", "K'naan", "leaders", "Cameron", "issues", "MTV", "Trailer", "Glitz", "December", "National", "Celebrity", "Halogen", "adventures", "released", "Geographic", "Flea", "Channel", "countries", "'s", ",", ".", "1", "Eva", "Affleck", "166", "Zealand", "3", "inspires", "millions", "Mendes", "Diaz", "Link", "tens", "young", "global", "media", "inspiring", "4REAL", "engages", "highlight", "2007", "world", "viewed", "Phoenix", "Season", "takes", "M.I.A.", "35", "initiative", "Def", "languages", "Joaquin", "technology", "people", "Mos", "Travel", "Casey", "CW", "series", "guests" ],
+  "adjectives" : [ "young", "global", "inspiring" ],
+  "nouns" : [ "tens", "celebrity", "New", "TV", "CTV", "K'naan", "leaders", "media", "Cameron", "issues", "MTV", "Trailer", "4REAL", "Glitz", "December", "world", "National", "Celebrity", "Halogen", "Phoenix", "Season", "M.I.A.", "adventures", "Geographic", "initiative", "Flea", "Def", "languages", "Joaquin", "Channel", "technology", "countries", "people", "Mos", "Eva", "Affleck", "Travel", "Zealand", "Casey", "CW", "series", "guests", "millions", "Mendes", "Diaz", "Link" ],
+  "text" : "4REAL is a media and technology initiative that inspires and engages people on global issues. Season 1 of the 4REAL TV series takes celebrity guests on global adventures to highlight some of the world's most inspiring young leaders. Season 1 Trailer Celebrity guests of 4REAL Season 1 are Cameron Diaz, Mos Def, Joaquin Phoenix, Eva Mendes, Casey Affleck, K'naan, M.I.A. and Flea. 4REAL Season 1 was in released in December 2007 and has been viewed by tens of millions of people in 166 countries and 35 languages on National Geographic, MTV, Travel Channel, The CW, CTV, Link TV, Halogen, Glitz, Channel 3, and TV New Zealand."
+} ]

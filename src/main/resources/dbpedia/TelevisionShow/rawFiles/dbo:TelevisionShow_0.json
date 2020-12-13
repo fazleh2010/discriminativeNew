@@ -1,0 +1,21 @@
+[ {
+  "entityIndex" : "entity11072",
+  "entityUrl" : "http://dbpedia.org/resource/0137",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/Germany" ],
+    "dbo:genre" : [ "http://dbpedia.org/resource/Talk_show" ],
+    "dbo:network" : [ "http://dbpedia.org/resource/Sky_Deutschland" ],
+    "dbo:runtime" : [ "45.0", "2700.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Roger_Willemsen", "http://dbpedia.org/resource/Sandra_Maischberger", "http://dbpedia.org/resource/Hubert_Winkels", "http://dbpedia.org/resource/Sabine_Brandi" ],
+    "dbo:wikiPageID" : [ "32366967" ],
+    "dbo:wikiPageRevisionID" : [ "711974111" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Germany", "http://dbpedia.org/resource/Sky_Deutschland", "http://dbpedia.org/resource/Roger_Willemsen", "http://dbpedia.org/resource/Sandra_Maischberger", "http://dbpedia.org/resource/Talk_show", "http://dbpedia.org/resource/Category:1990s_German_television_series", "http://dbpedia.org/resource/Category:German-language_television_programming", "http://dbpedia.org/resource/Category:German_television_talk_shows", "http://dbpedia.org/resource/Pay-TV", "http://dbpedia.org/resource/Category:1991_German_television_series_debuts", "http://dbpedia.org/resource/Category:1993_German_television_series_endings", "http://dbpedia.org/resource/Phone_voting", "http://dbpedia.org/resource/List_of_German_television_series", "http://dbpedia.org/resource/Hubert_Winkels", "http://dbpedia.org/resource/Sabine_Brandi", "http://dbpedia.org/resource/0137_Night_Talk", "http://dbpedia.org/resource/Bettina_Rust" ],
+    "dbp:firstAired" : [ "1991" ],
+    "dbp:lastAired" : [ "1993" ]
+  },
+  "words" : [ "die", "Bezahlfernsehsenders", "Zuschauer", "Bezahlfernsehen", "Talkshow", "gesendete", "des", "wurde", "das", "um", "für", "live", "interessieren", "war", "unverschlüsselten", ",", ".", "einem", "0137", "eine", "Zeitfenster", "neue", "Premiere", "damals", "gesendet", "zu" ],
+  "adjectives" : [ "unverschlüsselten" ],
+  "nouns" : [ "Zuschauer", "Bezahlfernsehsenders", "Bezahlfernsehen", "interessieren", "war", "Talkshow", "gesendete", "einem", "des", "eine", "Zeitfenster", "wurde", "Premiere", "damals", "das", "um", "gesendet", "zu", "für" ],
+  "text" : "0137 war eine live gesendete Talkshow des Bezahlfernsehsenders Premiere, die in einem unverschlüsselten Zeitfenster gesendet wurde, um Zuschauer für das damals neue Bezahlfernsehen zu interessieren."
+} ]

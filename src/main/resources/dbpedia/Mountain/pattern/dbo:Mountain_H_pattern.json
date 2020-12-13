@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity10683",
+  "entityUrl" : "http://dbpedia.org/resource/Half_Dome",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Half_Dome) dbo:firstAscentPerson o'<George_G._Anderson>",
+    "2" : "s(Half_Dome) dbo:firstAscentYear o'<1875>",
+    "3" : "s(Half_Dome) dbo:locatedInArea o'<United_States>",
+    "4" : "s(Half_Dome) dbo:locatedInArea o'<Mariposa_County,_California>",
+    "5" : "s(Half_Dome) dbo:mountainRange o'<Sierra_Nevada_(U.S.)>",
+    "6" : "s(Half_Dome) dbo:nationalTopographicSystemMapNumber o'<USGSHalf Dome>",
+    "7" : "s(Half_Dome) dbo:parentMountainPeak o'<Clouds_Rest>",
+    "8" : "s(Half_Dome) dbo:prominence o'<414.528>",
+    "9" : "s(Half_Dome) dbo:type o'<Granite>",
+    "10" : "s(Half_Dome) dbp:age o'<Cretaceous, 93 Myr>",
+    "11" : "s(Half_Dome) dbp:easiestRoute o'<Cable route>",
+    "12" : "s(Half_Dome) dbp:elevation o'<8844>",
+    "13" : "s(Half_Dome) dbp:height o'<150>",
+    "14" : "s(Half_Dome) dbp:labelPosition o'<left>",
+    "15" : "s(Half_Dome) dbp:latD o'<37.746>",
+    "16" : "s(Half_Dome) dbp:longD o'<-119.533>",
+    "17" : "s(Half_Dome) dbp:mapSize o'<200>",
+    "18" : "s(Half_Dome) dbp:photo o'<Half Dome from Glacier Point, Yosemite NP - Diliff.jpg>",
+    "19" : "s(Half_Dome) dbp:photoCaption o'<Sunset over Half Dome from Glacier Point>",
+    "20" : "s(Half_Dome) dbp:regionCode o'<US-CA>",
+    "21" : "s(Half_Dome) dbp:source o'<gnis>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10684",
+  "entityUrl" : "http://dbpedia.org/resource/Hofsj%C3%B6kull",
+  "dboClass" : "dbo:Mountain",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10685",
+  "entityUrl" : "http://dbpedia.org/resource/Hill_of_Tara",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Hill_of_Tara) dbo:elevation o'<197.0>",
+    "2" : "s(Hill_of_Tara) dbo:locatedInArea o'<County_Meath>",
+    "3" : "s(Hill_of_Tara) dbo:prominence o'<180.0>",
+    "4" : "s(Hill_of_Tara) dbp:mapCaption o'<Location in Ireland>",
+    "5" : "s(Hill_of_Tara) dbp:mapRelief o'<yes>",
+    "6" : "s(Hill_of_Tara) dbp:photo o'<Stone of Destiny, Hill of Tara.png>",
+    "7" : "s(Hill_of_Tara) dbp:photoCaption o'<The Lia Fáil  atop the Hill of Tara, County Meath>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10686",
+  "entityUrl" : "http://dbpedia.org/resource/Haleakal%C4%81",
+  "dboClass" : "dbo:Mountain",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10687",
+  "entityUrl" : "http://dbpedia.org/resource/Holy_Isle,_Firth_of_Clyde__Mullach_M%C3%B2r__1",
+  "dboClass" : "dbo:Mountain",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10688",
+  "entityUrl" : "http://dbpedia.org/resource/Haramosh_Peak",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Haramosh_Peak) dbo:elevation o'<7397.0>",
+    "2" : "s(Haramosh_Peak) dbo:firstAscentYear o'<1958>",
+    "3" : "s(Haramosh_Peak) dbo:locatedInArea o'<Pakistan>",
+    "4" : "s(Haramosh_Peak) dbo:locatedInArea o'<Gilgit–Baltistan>",
+    "5" : "s(Haramosh_Peak) dbo:mountainRange o'<Rakaposhi-Haramosh_Mountains>",
+    "6" : "s(Haramosh_Peak) dbo:mountainRange o'<Karakoram>",
+    "7" : "s(Haramosh_Peak) dbo:prominence o'<2277.0>",
+    "8" : "s(Haramosh_Peak) dbp:easiestRoute o'<ice climb>",
+    "9" : "s(Haramosh_Peak) dbp:elevationRef o'<(Ranked 67th)>",
+    "10" : "s(Haramosh_Peak) dbp:labelPosition o'<bottom>",
+    "11" : "s(Haramosh_Peak) dbp:latD o'<35>",
+    "12" : "s(Haramosh_Peak) dbp:latM o'<50>",
+    "13" : "s(Haramosh_Peak) dbp:latNs o'<N>",
+    "14" : "s(Haramosh_Peak) dbp:latS o'<24>",
+    "15" : "s(Haramosh_Peak) dbp:listing o'<Ultra_prominent_peak>",
+    "16" : "s(Haramosh_Peak) dbp:longD o'<74>",
+    "17" : "s(Haramosh_Peak) dbp:longEw o'<E>",
+    "18" : "s(Haramosh_Peak) dbp:longM o'<53>",
+    "19" : "s(Haramosh_Peak) dbp:longS o'<51>",
+    "20" : "s(Haramosh_Peak) dbp:mapCaption o'<Location in Pakistan>",
+    "21" : "s(Haramosh_Peak) dbp:mapSize o'<270>",
+    "22" : "s(Haramosh_Peak) dbp:regionCode o'<PK>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

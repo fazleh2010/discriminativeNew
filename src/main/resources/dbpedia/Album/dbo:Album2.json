@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity10804",
+  "entityUrl" : "http://dbpedia.org/resource/$1.99_Romances",
+  "dboClass" : "dbo:Album",
+  "properties" : {
+    "dbo:artist" : [ "http://dbpedia.org/resource/God_Street_Wine" ],
+    "dbo:previousWork" : [ "http://dbpedia.org/resource/Who's_Driving" ],
+    "dbo:recordLabel" : [ "http://dbpedia.org/resource/Geffen_Records" ],
+    "dbo:runtime" : [ "72.38333333333334", "4343.0" ],
+    "dbo:subsequentWork" : [ "http://dbpedia.org/resource/Red_(Album)" ],
+    "dbo:wikiPageID" : [ "11489847" ],
+    "dbo:wikiPageRevisionID" : [ "629077540" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Geffen_Records", "http://dbpedia.org/resource/God_Street_Wine", "http://dbpedia.org/resource/Category:God_Street_Wine_albums", "http://dbpedia.org/resource/Category:1994_albums", "http://dbpedia.org/resource/Category:English-language_albums", "http://dbpedia.org/resource/Mercury_Records", "http://dbpedia.org/resource/Jim_Dickinson", "http://dbpedia.org/resource/Category:Geffen_Records_albums", "http://dbpedia.org/resource/Category:Albums_produced_by_Jim_Dickinson", "http://dbpedia.org/resource/Tom_Osander", "http://dbpedia.org/resource/Michael_Lavine", "http://dbpedia.org/resource/Allmusic", "http://dbpedia.org/resource/Red_(Album)", "http://dbpedia.org/resource/Who's_Driving" ],
+    "dbp:allWriting" : [ "Lo Faber, except where noted" ],
+    "dbp:cover" : [ "199" ],
+    "dbp:genre" : [ "Rock" ],
+    "dbp:length" : [ "220.0", "241.0", "243.0", "261.0", "285.0", "324.0", "235.0", "281.0", "410.0", "278.0", "283.0", "333.0", "384.0", "287.0" ],
+    "dbp:note" : [ "Faber, Aaron Maxwell" ],
+    "dbp:recorded" : [ "1994" ],
+    "dbp:released" : [ "1995" ],
+    "dbp:rev" : [ "http://dbpedia.org/resource/Allmusic" ],
+    "dbp:thisAlbum" : [ "$1.99 Romances" ],
+    "dbp:title" : [ "Molly", "Wendy", "Nightingale", "Run to You", "Imogene", "Stone House", "Thirsty", "Crazy Head", "Hammer and a Spike", "Into the Sea", "Mile by Mile", "Princess Henrietta", "The Ballroom", "Tina's Town" ],
+    "dbp:type" : [ "studio" ]
+  },
+  "words" : [ "Wine", "Geffen", "next", "negotiated", "release", "dropped", "major", "record", "came", "Street", "God", "Records", "$", "album", "signed", "Romances", "GSW", "1.99", "label", ",", "recorded", ".", "Red", "Disappointed", "Mercury", "first", "promotion" ],
+  "adjectives" : [ "next", "major", "first" ],
+  "nouns" : [ "Wine", "Geffen", "album", "release", "Romances", "GSW", "label", "Red", "record", "Street", "God", "Mercury", "Records", "promotion" ],
+  "text" : "$1.99 Romances is an album by God Street Wine. It was their first release on a major record label and their only release with Geffen. Disappointed about the promotion of this record, GSW negotiated to be dropped from the label after this album came out. They then recorded their next album, Red, on their own, before being signed to Mercury Records."
+}, {
+  "entityIndex" : "entity10805",
+  "entityUrl" : "http://dbpedia.org/resource/$_(Mark_Sultan_album)",
+  "dboClass" : "dbo:Album",
+  "properties" : {
+    "dbo:artist" : [ "http://dbpedia.org/resource/Mark_Sultan" ],
+    "dbo:genre" : [ "http://dbpedia.org/resource/Powerpop", "http://dbpedia.org/resource/Doo_Wop", "http://dbpedia.org/resource/Garage_punk", "http://dbpedia.org/resource/Garage_rock", "http://dbpedia.org/resource/Rock_and_Roll" ],
+    "dbo:recordLabel" : [ "http://dbpedia.org/resource/Last_Gang" ],
+    "dbo:releaseDate" : [ "2010-04-13" ],
+    "dbo:runtime" : [ "48.93333333333333", "2936.0" ],
+    "dbo:wikiPageID" : [ "27116683" ],
+    "dbo:wikiPageRevisionID" : [ "730872452" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Canadians", "http://dbpedia.org/resource/Category:2010_albums", "http://dbpedia.org/resource/Powerpop", "http://dbpedia.org/resource/Now_(newspaper)", "http://dbpedia.org/resource/Doo-wop", "http://dbpedia.org/resource/Category:Last_Gang_Records_albums", "http://dbpedia.org/resource/Doo_Wop", "http://dbpedia.org/resource/Category:English-language_albums", "http://dbpedia.org/resource/Mark_Sultan", "http://dbpedia.org/resource/Category:Doo-wop_albums", "http://dbpedia.org/resource/Category:Power_pop_albums", "http://dbpedia.org/resource/Category:Mark_Sultan_albums", "http://dbpedia.org/resource/Garage_punk", "http://dbpedia.org/resource/Garage_rock", "http://dbpedia.org/resource/Rock_and_Roll", "http://dbpedia.org/resource/Pitchfork_Media", "http://dbpedia.org/resource/Last_Gang", "http://dbpedia.org/resource/KLYAM" ],
+    "dbp:cover" : [ "MarkSultan$.png" ],
+    "dbp:lastAlbum" : [ "Sultanic Verses" ],
+    "dbp:length" : [ "151.0", "164.0", "192.0", "309.0", "390.0", "166.0", "177.0", "193.0", "269.0", "187.0", "194.0", "393.0" ],
+    "dbp:rev" : [ "http://dbpedia.org/resource/Now_(newspaper)", "http://dbpedia.org/resource/Pitchfork_Media", "http://dbpedia.org/resource/KLYAM" ],
+    "dbp:thisAlbum" : [ "$" ],
+    "dbp:title" : [ "Status", "Don't Look Back", "Catastrophe", "Nobody But You", "Ten of Hearts", "I'll Be Loving You", "Icicles", "Go Berserk", "I Am The End", "I Get Nothin From My Girl", "Just To Hold You", "Misery's Upon Us", "Waiting For Me" ],
+    "dbp:type" : [ "studio" ]
+  },
+  "words" : [ "studio", "L'album", "Mark", "del", "2010", "rock/doo-wop", "fu", "2009", "nel", "secondo", "solista", "13", "$", "pubblicato", "e", "album", "è", "garage", ".", "canadese", "registrato", "Sultan", "musicista", "aprile", "da" ],
+  "adjectives" : [ "rock/doo-wop" ],
+  "nouns" : [ "studio", "registrato", "Sultan", "L'album", "nel", "secondo", "album", "garage", "Mark", "da", "solista", "fu" ],
+  "text" : "$ è il secondo album in studio da solista del musicista canadese garage rock/doo-wop Mark Sultan. L'album fu registrato nel 2009 e fu pubblicato il 13 aprile 2010."
+}, {
+  "entityIndex" : "entity10806",
+  "entityUrl" : "http://dbpedia.org/resource/$O$_(Die_Antwoord_album)",
+  "dboClass" : "dbo:Album",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50931988" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/$O$" ],
+    "dbo:wikiPageRevisionID" : [ "727141760" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/$O$" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

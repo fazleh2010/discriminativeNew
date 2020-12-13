@@ -1,0 +1,3 @@
+id=8  property=dbo:deathCause  
+die_of  VBD_IN  multiply=0.039216  P(die_of|dbo:deathCause)=0.333333  P(dbo:deathCause|die_of)=0.117647    
+

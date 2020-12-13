@@ -1,0 +1,1097 @@
+[ {
+  "entityIndex" : "entity15382",
+  "entityUrl" : "http://dbpedia.org/resource/William_Hung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Hung) dbo:birthDate o'<1983-1-13>",
+    "2" : "s(William_Hung) dbo:birthPlace o'<Camden,_New_Jersey>",
+    "3" : "s(William_Hung) dbp:birthPlace o'<Hong Kong>",
+    "4" : "s(William_Hung) dbp:name o'<William Hung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15383",
+  "entityUrl" : "http://dbpedia.org/resource/Will_Theakston",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Will_Theakston) dbo:birthDate o'<1984-10-04>",
+    "2" : "s(Will_Theakston) dbo:birthDate o'<1984-10-4>",
+    "3" : "s(Will_Theakston) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(Will_Theakston) dbp:birthPlace o'<United Kingdom>",
+    "5" : "s(Will_Theakston) dbp:name o'<Will Theakston>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15384",
+  "entityUrl" : "http://dbpedia.org/resource/Wakana_Yamazaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wakana_Yamazaki) dbo:birthDate o'<1965-03-21>",
+    "2" : "s(Wakana_Yamazaki) dbo:birthDate o'<1965-3-21>",
+    "3" : "s(Wakana_Yamazaki) dbo:birthPlace o'<Yokohama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15385",
+  "entityUrl" : "http://dbpedia.org/resource/Wilber_Pan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wilber_Pan) dbo:birthDate o'<1980-8-6>",
+    "2" : "s(Wilber_Pan) dbo:birthPlace o'<West_Virginia>",
+    "3" : "s(Wilber_Pan) dbp:birthPlace o'<West Virginia, USA>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15386",
+  "entityUrl" : "http://dbpedia.org/resource/Will_Adamsdale",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Will_Adamsdale) dbo:birthDate o'<1974-1-1>",
+    "2" : "s(Will_Adamsdale) dbo:birthPlace o'<Hereford>",
+    "3" : "s(Will_Adamsdale) dbo:birthYear o'<1974>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15387",
+  "entityUrl" : "http://dbpedia.org/resource/Wakin_Chau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wakin_Chau) dbo:birthDate o'<1960-12-22>",
+    "2" : "s(Wakin_Chau) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Wakin_Chau) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15388",
+  "entityUrl" : "http://dbpedia.org/resource/Wu_Ma",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wu_Ma) dbo:birthDate o'<1942-9-22>",
+    "2" : "s(Wu_Ma) dbo:birthPlace o'<Tianjin>",
+    "3" : "s(Wu_Ma) dbo:deathDate o'<2014-2-4>",
+    "4" : "s(Wu_Ma) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Wu_Ma) dbp:birthPlace o'<Tianjin, China>",
+    "6" : "s(Wu_Ma) dbp:deathPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(wu ma=Wu_Ma) [one of ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : "wu ma made his screen debut in 1963, and with over 240 appearances to his name (plus 49 directorial credits within a fifty-year period), wu ma<Wu_Ma> was one of the most familiar faces in the history of hong kong<Hong_Kong> cinema and best known as the taoist ghosthunter in a chinese ghost story\n"
+  }
+}, {
+  "entityIndex" : "entity15389",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Randall",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Walter_Randall) dbo:birthDate o'<1918-0-0>",
+    "2" : "s(Walter_Randall) dbo:birthPlace o'<South_Africa>",
+    "3" : "s(Walter_Randall) dbo:birthYear o'<1919>",
+    "4" : "s(Walter_Randall) dbo:country o'<United_Kingdom>",
+    "5" : "s(Walter_Randall) dbo:deathDate o'<2008-0-0>",
+    "6" : "s(Walter_Randall) dbo:deathPlace o'<England>",
+    "7" : "s(Walter_Randall) dbo:deathPlace o'<London>",
+    "8" : "s(Walter_Randall) dbo:deathYear o'<2008>",
+    "9" : "s(Walter_Randall) dbo:imdbId o'<0709711>",
+    "10" : "s(Walter_Randall) dbo:occupation o'<Actor>",
+    "11" : "s(Walter_Randall) dbo:occupation o'<Walter_Randall__1>",
+    "12" : "s(Walter_Randall) dbp:name o'<Walter Randall>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(walter randall=Walter_Randall) [british ] o'<dancer=Actor>"
+  },
+  "abstract" : {
+    "1" : "walter randall<Walter_Randall> was a british dancer<Actor> turned actor<Actor> with numerous roles in british television<Actor>, including parts in the saint, out of this world, yes minister, the professionals and dixon of dock green"
+  }
+}, {
+  "entityIndex" : "entity15390",
+  "entityUrl" : "http://dbpedia.org/resource/William_Austin_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Austin_(actor)) dbo:birthDate o'<1884-06-12>",
+    "2" : "s(William_Austin_(actor)) dbo:birthDate o'<1884-6-12>",
+    "3" : "s(William_Austin_(actor)) dbo:birthPlace o'<Georgetown,_Guyana>",
+    "4" : "s(William_Austin_(actor)) dbo:birthPlace o'<British_Guiana>",
+    "5" : "s(William_Austin_(actor)) dbo:deathDate o'<1975-06-15>",
+    "6" : "s(William_Austin_(actor)) dbo:deathDate o'<1975-6-15>",
+    "7" : "s(William_Austin_(actor)) dbo:deathPlace o'<Newport_Beach,_California>",
+    "8" : "s(William_Austin_(actor)) dbp:name o'<William Austin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15391",
+  "entityUrl" : "http://dbpedia.org/resource/West_Digges",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(West_Digges) dbo:birthDate o'<1720-1-1>",
+    "2" : "s(West_Digges) dbo:deathDate o'<1786-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15392",
+  "entityUrl" : "http://dbpedia.org/resource/William_Lindsay_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Lindsay_(actor)) dbo:birthDate o'<1945-8-15>",
+    "2" : "s(William_Lindsay_(actor)) dbo:country o'<United_Kingdom>",
+    "3" : "s(William_Lindsay_(actor)) dbo:deathDate o'<1986-5-14>",
+    "4" : "s(William_Lindsay_(actor)) dbo:imdbId o'<0512325>",
+    "5" : "s(William_Lindsay_(actor)) dbp:name o'<William Lindsay>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15393",
+  "entityUrl" : "http://dbpedia.org/resource/Wendy_Williams_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wendy_Williams_(actress)) dbo:birthDate o'<1934-11-07>",
+    "2" : "s(Wendy_Williams_(actress)) dbo:birthDate o'<1934-11-7>",
+    "3" : "s(Wendy_Williams_(actress)) dbo:birthPlace o'<England>",
+    "4" : "s(Wendy_Williams_(actress)) dbo:birthPlace o'<Cheam>",
+    "5" : "s(Wendy_Williams_(actress)) dbo:birthPlace o'<Surrey>",
+    "6" : "s(Wendy_Williams_(actress)) dbo:birthYear o'<1934>",
+    "7" : "s(Wendy_Williams_(actress)) dbo:country o'<United_Kingdom>",
+    "8" : "s(Wendy_Williams_(actress)) dbo:occupation o'<Wendy_Williams_(actress)__1>",
+    "9" : "s(Wendy_Williams_(actress)) dbo:spouse o'<Hugh_David>",
+    "10" : "s(Wendy_Williams_(actress)) dbp:date o'<January 2011>",
+    "11" : "s(Wendy_Williams_(actress)) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15394",
+  "entityUrl" : "http://dbpedia.org/resource/Wanda_Kosakiewicz",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wanda_Kosakiewicz) dbo:birthDate o'<1917-1-1>",
+    "2" : "s(Wanda_Kosakiewicz) dbo:deathDate o'<1989-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15395",
+  "entityUrl" : "http://dbpedia.org/resource/Wan_Kwong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wan_Kwong) dbo:birthDate o'<1949-1-1>",
+    "2" : "s(Wan_Kwong) dbp:birthPlace o'<Vietnam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15396",
+  "entityUrl" : "http://dbpedia.org/resource/Wylie_Watson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wylie_Watson) dbo:birthDate o'<1889-02-06>",
+    "2" : "s(Wylie_Watson) dbo:birthDate o'<1889-2-6>",
+    "3" : "s(Wylie_Watson) dbo:birthPlace o'<Scotland>",
+    "4" : "s(Wylie_Watson) dbo:birthPlace o'<Lanarkshire>",
+    "5" : "s(Wylie_Watson) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "6" : "s(Wylie_Watson) dbo:deathDate o'<1966-05-03>",
+    "7" : "s(Wylie_Watson) dbo:deathDate o'<1966-5-3>",
+    "8" : "s(Wylie_Watson) dbo:deathPlace o'<Australia>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(wylie watson=Wylie_Watson) [emigrated to ] o'<australia=Australia>"
+  },
+  "abstract" : {
+    "4" : "wylie watson<Wylie_Watson> emigrated to australia<Australia> in 1952, and made his final film appearance there in the sundowners (1960)\n"
+  }
+}, {
+  "entityIndex" : "entity15397",
+  "entityUrl" : "http://dbpedia.org/resource/William_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Chan) dbo:birthDate o'<1985-11-21>",
+    "2" : "s(William_Chan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(William_Chan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15398",
+  "entityUrl" : "http://dbpedia.org/resource/Wilson_Yip",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wilson_Yip) dbo:birthDate o'<1963-10-23>",
+    "2" : "s(Wilson_Yip) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Wilson_Yip) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15399",
+  "entityUrl" : "http://dbpedia.org/resource/William_Gaminara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Gaminara) dbo:birthDate o'<1956-1-21>",
+    "2" : "s(William_Gaminara) dbo:birthPlace o'<Lusaka>",
+    "3" : "s(William_Gaminara) dbo:birthPlace o'<Zambia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15400",
+  "entityUrl" : "http://dbpedia.org/resource/Winston_Chao",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Winston_Chao) dbo:birthDate o'<1960-6-9>",
+    "2" : "s(Winston_Chao) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Winston_Chao) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Winston_Chao) dbp:name o'<Winston Chao>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15401",
+  "entityUrl" : "http://dbpedia.org/resource/Winnie_Lau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Winnie_Lau) dbo:birthDate o'<1971-7-24>",
+    "2" : "s(Winnie_Lau) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Winnie_Lau) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Winnie_Lau) dbp:name o'<Winnie Lau>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15402",
+  "entityUrl" : "http://dbpedia.org/resource/William_Snape",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Snape) dbo:birthDate o'<1985-04-17>",
+    "2" : "s(William_Snape) dbo:birthDate o'<1985-4-17>",
+    "3" : "s(William_Snape) dbo:birthPlace o'<England>",
+    "4" : "s(William_Snape) dbo:birthPlace o'<Sheffield>",
+    "5" : "s(William_Snape) dbo:birthPlace o'<South_Yorkshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15403",
+  "entityUrl" : "http://dbpedia.org/resource/Wilfred_Lau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wilfred_Lau) dbo:birthDate o'<1976-8-13>",
+    "2" : "s(Wilfred_Lau) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Wilfred_Lau) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15404",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Fitzgerald",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Walter_Fitzgerald) dbo:activeYearsEndYear o'<1969>",
+    "2" : "s(Walter_Fitzgerald) dbo:activeYearsStartYear o'<1932>",
+    "3" : "s(Walter_Fitzgerald) dbo:birthDate o'<1896-05-18>",
+    "4" : "s(Walter_Fitzgerald) dbo:birthDate o'<1896-5-18>",
+    "5" : "s(Walter_Fitzgerald) dbo:birthName o'<Walter Fitzgerald Bond>",
+    "6" : "s(Walter_Fitzgerald) dbo:birthPlace o'<Keyham,_Devon>",
+    "7" : "s(Walter_Fitzgerald) dbo:birthPlace o'<Devon>",
+    "8" : "s(Walter_Fitzgerald) dbo:birthPlace o'<England>",
+    "9" : "s(Walter_Fitzgerald) dbo:birthPlace o'<Plymouth>",
+    "10" : "s(Walter_Fitzgerald) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "11" : "s(Walter_Fitzgerald) dbo:birthYear o'<1896>",
+    "12" : "s(Walter_Fitzgerald) dbo:country o'<England>",
+    "13" : "s(Walter_Fitzgerald) dbo:deathDate o'<1976-12-20>",
+    "14" : "s(Walter_Fitzgerald) dbo:deathPlace o'<UK>",
+    "15" : "s(Walter_Fitzgerald) dbo:deathPlace o'<England>",
+    "16" : "s(Walter_Fitzgerald) dbo:deathPlace o'<London>",
+    "17" : "s(Walter_Fitzgerald) dbo:deathYear o'<1976>",
+    "18" : "s(Walter_Fitzgerald) dbo:imdbId o'<0280406>",
+    "19" : "s(Walter_Fitzgerald) dbo:occupation o'<Actor>",
+    "20" : "s(Walter_Fitzgerald) dbo:occupation o'<Walter_Fitzgerald__1>",
+    "21" : "s(Walter_Fitzgerald) dbp:children o'<Charles>",
+    "22" : "s(Walter_Fitzgerald) dbp:children o'<Julia>",
+    "23" : "s(Walter_Fitzgerald) dbp:children o'<Jonathan>",
+    "24" : "s(Walter_Fitzgerald) dbp:children o'<Timothy>",
+    "25" : "s(Walter_Fitzgerald) dbp:name o'<Walter Fitzgerald>",
+    "26" : "s(Walter_Fitzgerald) dbp:spouse o'<Angela Kirk>",
+    "27" : "s(Walter_Fitzgerald) dbp:spouse o'<Rosalie Constance Grey>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(walter fitzgerald=Walter_Fitzgerald) [18 may 1896  20 ] o'<actor=Actor>",
+    "2" : "s(walter fitzgerald=Walter_Fitzgerald) [born ] o'<walter fitzgerald=Walter_Fitzgerald>",
+    "8" : "s(walter fitzgerald=Walter_Fitzgerald) [appeared on british ] o'<television=Actor>",
+    "9" : "s(walter fitzgerald=Walter_Fitzgerald) [bestremembered ] o'<film=Actor>",
+    "11" : "s(walter fitzgerald=Walter_Fitzgerald) [made his penultimate ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "1" : "walter fitzgerald<Walter_Fitzgerald> (18 may 1896 – 20 december 1976) was an english character actor<Actor>",
+    "2" : "walter fitzgerald<Walter_Fitzgerald> was born walter fitzgerald<Walter_Fitzgerald> bond in the keyham<Keyham,_Devon> district of plymouth<Plymouth>, devon<Devon>\n",
+    "8" : "walter fitzgerald<Walter_Fitzgerald> appeared on british television<Actor> in the 1950s and 1960s before his retirement\n",
+    "9" : "walter fitzgerald<Walter_Fitzgerald> is best-remembered film<Actor> roles include simon fury in blanche fury (1946), dr\n",
+    "11" : "walter fitzgerald<Walter_Fitzgerald> made his penultimate film<Actor> appearance in the opening scenes of h"
+  }
+}, {
+  "entityIndex" : "entity15405",
+  "entityUrl" : "http://dbpedia.org/resource/Wu_Chun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wu_Chun) dbo:birthDate o'<1979-10-10>",
+    "2" : "s(Wu_Chun) dbo:birthPlace o'<Bandar_Seri_Begawan>",
+    "3" : "s(Wu_Chun) dbp:birthPlace o'<Brunei>",
+    "4" : "s(Wu_Chun) dbp:birthPlace o'<Bandar_Seri_Begawan>",
+    "5" : "s(Wu_Chun) dbp:name o'<Wu Chun>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15406",
+  "entityUrl" : "http://dbpedia.org/resource/Wei_Zi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wei_Zi) dbo:birthDate o'<1956-1-1>",
+    "2" : "s(Wei_Zi) dbo:birthPlace o'<Ningxia>",
+    "3" : "s(Wei_Zi) dbp:birthPlace o'<China>",
+    "4" : "s(Wei_Zi) dbp:birthPlace o'<Ningxia>",
+    "5" : "s(Wei_Zi) dbp:name o'<Wei Zi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15407",
+  "entityUrl" : "http://dbpedia.org/resource/Wendy_van_der_Plank",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wendy_van_der_Plank) dbo:activeYearsEndYear o'<1997>",
+    "2" : "s(Wendy_van_der_Plank) dbo:activeYearsStartYear o'<1988>",
+    "3" : "s(Wendy_van_der_Plank) dbo:birthPlace o'<England>",
+    "4" : "s(Wendy_van_der_Plank) dbo:birthPlace o'<Nottinghamshire>",
+    "5" : "s(Wendy_van_der_Plank) dbo:birthPlace o'<Leeds>",
+    "6" : "s(Wendy_van_der_Plank) dbo:country o'<England>",
+    "7" : "s(Wendy_van_der_Plank) dbo:imdbId o'<0886383>",
+    "8" : "s(Wendy_van_der_Plank) dbo:knownFor o'<Wizadora>",
+    "9" : "s(Wendy_van_der_Plank) dbo:occupation o'<Wendy_van_der_Plank__1>",
+    "10" : "s(Wendy_van_der_Plank) dbp:name o'<Wendy van der Plank>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(wendy van der plank=Wendy_van_der_Plank) [played role of hilly ] o'<wizadora=Wizadora>"
+  },
+  "abstract" : {
+    "3" : "after appearing in one episode of casualty, wendy van der plank<Wendy_van_der_Plank> played the role of hilly in the itv drama forever green before being cast as wizadora<Wizadora>\n"
+  }
+}, {
+  "entityIndex" : "entity15408",
+  "entityUrl" : "http://dbpedia.org/resource/Wu_Yingyin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wu_Yingyin) dbo:birthDate o'<1922-1-1>",
+    "2" : "s(Wu_Yingyin) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Wu_Yingyin) dbo:deathDate o'<2009-12-17>",
+    "4" : "s(Wu_Yingyin) dbo:deathPlace o'<Los_Angeles>",
+    "5" : "s(Wu_Yingyin) dbp:birthPlace o'<Ningbo>",
+    "6" : "s(Wu_Yingyin) dbp:deathPlace o'<California>",
+    "7" : "s(Wu_Yingyin) dbp:deathPlace o'<Los_Angeles>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15409",
+  "entityUrl" : "http://dbpedia.org/resource/Wallace_Huo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wallace_Huo) dbo:birthDate o'<1979-12-26>",
+    "2" : "s(Wallace_Huo) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Wallace_Huo) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Wallace_Huo) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15410",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_Li-Lin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wong_Li-Lin) dbo:award o'<Star_Awards>",
+    "2" : "s(Wong_Li-Lin) dbo:birthDate o'<1972-1-1>",
+    "3" : "s(Wong_Li-Lin) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Wong_Li-Lin) dbo:occupation o'<Actress>",
+    "5" : "s(Wong_Li-Lin) dbo:occupation o'<Presenter>",
+    "6" : "s(Wong_Li-Lin) dbo:spouse o'<Allan_Wu>",
+    "7" : "s(Wong_Li-Lin) dbp:ancestry o'<Hakka>",
+    "8" : "s(Wong_Li-Lin) dbp:birthDate o'<1972-08-30>",
+    "9" : "s(Wong_Li-Lin) dbp:birthPlace o'<Singapore>",
+    "10" : "s(Wong_Li-Lin) dbp:origin o'<Singapore>",
+    "11" : "s(Wong_Li-Lin) dbp:p o'<Huáng Lìlíng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15411",
+  "entityUrl" : "http://dbpedia.org/resource/Wakana_Matsumoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wakana_Matsumoto) dbo:birthDate o'<1984-02-25>",
+    "2" : "s(Wakana_Matsumoto) dbo:birthDate o'<1984-2-25>",
+    "3" : "s(Wakana_Matsumoto) dbo:birthPlace o'<Yonago,_Tottori>",
+    "4" : "s(Wakana_Matsumoto) dbo:birthPlace o'<Japan>",
+    "5" : "s(Wakana_Matsumoto) dbo:birthPlace o'<Tottori_Prefecture>",
+    "6" : "s(Wakana_Matsumoto) dbo:height o'<165.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15412",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Baoqiang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Baoqiang) dbo:birthDate o'<1984-5-29>",
+    "2" : "s(Wang_Baoqiang) dbp:birthPlace o'<Nanhe_County>",
+    "3" : "s(Wang_Baoqiang) dbp:birthPlace o'<Xingtai>",
+    "4" : "s(Wang_Baoqiang) dbp:birthPlace o'<Hebei_Province>",
+    "5" : "s(Wang_Baoqiang) dbp:name o'<Wang Baoqiang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15413",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_He",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wong_He) dbo:birthDate o'<1967-7-27>",
+    "2" : "s(Wong_He) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15414",
+  "entityUrl" : "http://dbpedia.org/resource/Wilde_Oscar",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wilde_Oscar) dbo:birthDate o'<1967-04-08>",
+    "2" : "s(Wilde_Oscar) dbo:birthDate o'<1967-4-8>",
+    "3" : "s(Wilde_Oscar) dbo:birthPlace o'<England>",
+    "4" : "s(Wilde_Oscar) dbo:birthPlace o'<Burnham,_Buckinghamshire>",
+    "5" : "s(Wilde_Oscar) dbo:birthPlace o'<Buckinghamshire>",
+    "6" : "s(Wilde_Oscar) dbo:height o'<172.72>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15415",
+  "entityUrl" : "http://dbpedia.org/resource/Wallace_Lupino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wallace_Lupino) dbo:birthDate o'<1898-01-23>",
+    "2" : "s(Wallace_Lupino) dbo:birthDate o'<1898-1-23>",
+    "3" : "s(Wallace_Lupino) dbo:birthPlace o'<Edinburgh>",
+    "4" : "s(Wallace_Lupino) dbo:birthPlace o'<Scotland>",
+    "5" : "s(Wallace_Lupino) dbo:deathDate o'<1961-10-11>",
+    "6" : "s(Wallace_Lupino) dbo:deathPlace o'<Kent>",
+    "7" : "s(Wallace_Lupino) dbo:deathPlace o'<Ashford,_Kent>",
+    "8" : "s(Wallace_Lupino) dbp:name o'<Wallace Lupino>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15416",
+  "entityUrl" : "http://dbpedia.org/resource/Waise_Lee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Waise_Lee) dbo:birthDate o'<1959-12-19>",
+    "2" : "s(Waise_Lee) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Waise_Lee) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15417",
+  "entityUrl" : "http://dbpedia.org/resource/William_Miller_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Miller_(actor)) dbo:wikiPageRedirects o'<William_Miller>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15418",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_Tin-lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wong_Tin-lam) dbo:birthDate o'<1928-9-11>",
+    "2" : "s(Wong_Tin-lam) dbo:birthPlace o'<Guangzhou>",
+    "3" : "s(Wong_Tin-lam) dbo:deathDate o'<2010-11-16>",
+    "4" : "s(Wong_Tin-lam) dbo:deathPlace o'<Hong_Kong_Baptist_Hospital>",
+    "5" : "s(Wong_Tin-lam) dbp:birthPlace o'<Shanghai>",
+    "6" : "s(Wong_Tin-lam) dbp:deathPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15419",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Yan_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Yan_(actress)) dbo:birthDate o'<1974-2-11>",
+    "2" : "s(Wang_Yan_(actress)) dbp:birthPlace o'<Shandong>",
+    "3" : "s(Wang_Yan_(actress)) dbp:birthPlace o'<China>",
+    "4" : "s(Wang_Yan_(actress)) dbp:birthPlace o'<Qingdao>",
+    "5" : "s(Wang_Yan_(actress)) dbp:name o'<Wang Yan>",
+    "6" : "s(Wang_Yan_(actress)) dbp:name o'<Yan Wang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15420",
+  "entityUrl" : "http://dbpedia.org/resource/William_Marlowe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Marlowe) dbo:birthDate o'<1930-07-25>",
+    "2" : "s(William_Marlowe) dbo:birthDate o'<1930-7-25>",
+    "3" : "s(William_Marlowe) dbo:birthPlace o'<England>",
+    "4" : "s(William_Marlowe) dbo:birthPlace o'<London>",
+    "5" : "s(William_Marlowe) dbo:deathDate o'<2003-01-31>",
+    "6" : "s(William_Marlowe) dbo:deathDate o'<2003-2-1>",
+    "7" : "s(William_Marlowe) dbo:deathPlace o'<Carmarthen>",
+    "8" : "s(William_Marlowe) dbo:deathPlace o'<Wales>",
+    "9" : "s(William_Marlowe) dbo:deathPlace o'<Carmarthenshire>",
+    "10" : "s(William_Marlowe) dbp:name o'<William Marlowe>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15421",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Yuqing",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Yuqing) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15422",
+  "entityUrl" : "http://dbpedia.org/resource/Wayne_Lai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wayne_Lai) dbo:birthDate o'<1964-5-4>",
+    "2" : "s(Wayne_Lai) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Wayne_Lai) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15423",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_Cho-lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wong_Cho-lam) dbo:birthDate o'<1980-1-9>",
+    "2" : "s(Wong_Cho-lam) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Wong_Cho-lam) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15424",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Gang_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Gang_(actor)) dbo:birthDate o'<1948-1-1>",
+    "2" : "s(Wang_Gang_(actor)) dbo:birthPlace o'<Changchun>",
+    "3" : "s(Wang_Gang_(actor)) dbp:birthPlace o'<China>",
+    "4" : "s(Wang_Gang_(actor)) dbp:birthPlace o'<Changchun>",
+    "5" : "s(Wang_Gang_(actor)) dbp:birthPlace o'<Jilin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15425",
+  "entityUrl" : "http://dbpedia.org/resource/William_Allen_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Allen_(actor)) dbo:country o'<England>",
+    "2" : "s(William_Allen_(actor)) dbo:deathDate o'<1647-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15426",
+  "entityUrl" : "http://dbpedia.org/resource/Wan_Yeung-ming",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wan_Yeung-ming) dbo:birthDate o'<1958-2-2>",
+    "2" : "s(Wan_Yeung-ming) dbo:birthPlace o'<Macau>",
+    "3" : "s(Wan_Yeung-ming) dbp:birthPlace o'<Macau>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15427",
+  "entityUrl" : "http://dbpedia.org/resource/William_So",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_So) dbo:birthDate o'<1967-9-24>",
+    "2" : "s(William_So) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(William_So) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15428",
+  "entityUrl" : "http://dbpedia.org/resource/Walt_MacPherson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Walt_MacPherson) dbo:activeYearsEndYear o'<2004>",
+    "2" : "s(Walt_MacPherson) dbo:activeYearsStartYear o'<1987>",
+    "3" : "s(Walt_MacPherson) dbp:occupation o'<film and television actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15429",
+  "entityUrl" : "http://dbpedia.org/resource/Wiktor_Andersson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wiktor_Andersson) dbo:birthDate o'<1887-06-19>",
+    "2" : "s(Wiktor_Andersson) dbo:birthDate o'<1887-6-19>",
+    "3" : "s(Wiktor_Andersson) dbo:birthPlace o'<Kungsbacka>",
+    "4" : "s(Wiktor_Andersson) dbo:deathDate o'<1966-09-13>",
+    "5" : "s(Wiktor_Andersson) dbo:deathDate o'<1966-9-13>",
+    "6" : "s(Wiktor_Andersson) dbo:deathPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15430",
+  "entityUrl" : "http://dbpedia.org/resource/William_Larsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Larsson) dbo:birthDate o'<1873-1-1>",
+    "2" : "s(William_Larsson) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(William_Larsson) dbo:deathDate o'<1926-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15431",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Zi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Zi) dbo:birthDate o'<1989-4-14>",
+    "2" : "s(Wang_Zi) dbp:birthPlace o'<Taichung City, Taiwan>",
+    "3" : "s(Wang_Zi) dbp:pinyinbirthname o'<Qiū Shèng Yì>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15432",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Luoyong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Luoyong) dbo:birthDate o'<1958-12-24>",
+    "2" : "s(Wang_Luoyong) dbp:birthPlace o'<China>",
+    "3" : "s(Wang_Luoyong) dbp:birthPlace o'<Luoyang>",
+    "4" : "s(Wang_Luoyong) dbp:birthPlace o'<Henan>",
+    "5" : "s(Wang_Luoyong) dbp:name o'<Luoyong Wang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15433",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_JingLun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wong_JingLun) dbo:wikiPageRedirects o'<Wong_Jinglun>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15434",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Lung-wei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Lung-wei) dbo:activeYearsEndYear o'<1990>",
+    "2" : "s(Wang_Lung-wei) dbo:activeYearsStartYear o'<1974>",
+    "3" : "s(Wang_Lung-wei) dbo:alias o'<Johnny Wang, Wang Lun, Wang Lun Wei, Wong Lung Wei>",
+    "4" : "s(Wang_Lung-wei) dbo:birthDate o'<1949-7-14>",
+    "5" : "s(Wang_Lung-wei) dbo:country o'<People's_Republic_of_China>",
+    "6" : "s(Wang_Lung-wei) dbo:genre o'<Chinese_martial_arts>",
+    "7" : "s(Wang_Lung-wei) dbo:genre o'<Hong_Kong_action_cinema>",
+    "8" : "s(Wang_Lung-wei) dbo:imdbId o'<0910979>",
+    "9" : "s(Wang_Lung-wei) dbp:birthPlace o'<China>",
+    "10" : "s(Wang_Lung-wei) dbp:name o'<Lung Wei Wang>",
+    "11" : "s(Wang_Lung-wei) dbp:occupation o'<actor, director, producer, action choreographer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15435",
+  "entityUrl" : "http://dbpedia.org/resource/Wayne_Chua",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wayne_Chua) dbo:birthDate o'<1981-9-23>",
+    "2" : "s(Wayne_Chua) dbp:birthPlace o'<Muar_(town)>",
+    "3" : "s(Wayne_Chua) dbp:birthPlace o'<Johor>",
+    "4" : "s(Wayne_Chua) dbp:birthPlace o'<Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15436",
+  "entityUrl" : "http://dbpedia.org/resource/Wallace_Bosco",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wallace_Bosco) dbo:birthDate o'<1880-1-30>",
+    "2" : "s(Wallace_Bosco) dbo:deathDate o'<1973-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15437",
+  "entityUrl" : "http://dbpedia.org/resource/Wallas_Eaton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wallas_Eaton) dbo:alias o'<Wallace Eaton>",
+    "2" : "s(Wallas_Eaton) dbo:alias o'<Wallis Eaton>",
+    "3" : "s(Wallas_Eaton) dbo:birthDate o'<1917-02-18>",
+    "4" : "s(Wallas_Eaton) dbo:birthDate o'<1917-2-18>",
+    "5" : "s(Wallas_Eaton) dbo:birthPlace o'<Leicester>",
+    "6" : "s(Wallas_Eaton) dbo:birthPlace o'<Leicestershire>",
+    "7" : "s(Wallas_Eaton) dbo:birthYear o'<1917>",
+    "8" : "s(Wallas_Eaton) dbo:deathDate o'<1995-11-03>",
+    "9" : "s(Wallas_Eaton) dbo:deathDate o'<1995-11-3>",
+    "10" : "s(Wallas_Eaton) dbo:deathPlace o'<Australia>",
+    "11" : "s(Wallas_Eaton) dbo:deathYear o'<1995>",
+    "12" : "s(Wallas_Eaton) dbo:occupation o'<Wallas_Eaton__1>",
+    "13" : "s(Wallas_Eaton) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15438",
+  "entityUrl" : "http://dbpedia.org/resource/Wei_Wei_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wei_Wei_(actress)) dbo:birthDate o'<1922-5-17>",
+    "2" : "s(Wei_Wei_(actress)) dbp:birthPlace o'<Zhenjiang, Jiangsu, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15439",
+  "entityUrl" : "http://dbpedia.org/resource/Wilson_Coleman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wilson_Coleman) dbo:birthDate o'<1875-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15440",
+  "entityUrl" : "http://dbpedia.org/resource/Wendy_Morgan_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wendy_Morgan_(actress)) dbo:birthDate o'<1958-1-0>",
+    "2" : "s(Wendy_Morgan_(actress)) dbo:birthPlace o'<Radlett>",
+    "3" : "s(Wendy_Morgan_(actress)) dbo:imdbId o'<0605088>",
+    "4" : "s(Wendy_Morgan_(actress)) dbo:viafId o'<92415093>",
+    "5" : "s(Wendy_Morgan_(actress)) dbp:name o'<Wendy Morgan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15441",
+  "entityUrl" : "http://dbpedia.org/resource/Wen_Zhang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wen_Zhang) dbo:birthDate o'<1984-6-26>",
+    "2" : "s(Wen_Zhang) dbo:birthPlace o'<Xi'an>",
+    "3" : "s(Wen_Zhang) dbp:birthPlace o'<Xi'an, Shaanxi, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15442",
+  "entityUrl" : "http://dbpedia.org/resource/Wu_Xiubo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wu_Xiubo) dbo:birthDate o'<1968-9-5>",
+    "2" : "s(Wu_Xiubo) dbp:birthPlace o'<Beijing>",
+    "3" : "s(Wu_Xiubo) dbp:birthPlace o'<China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15443",
+  "entityUrl" : "http://dbpedia.org/resource/Wallace_Chung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wallace_Chung) dbo:birthDate o'<1974-11-30>",
+    "2" : "s(Wallace_Chung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Wallace_Chung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15444",
+  "entityUrl" : "http://dbpedia.org/resource/William_Chak",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Chak) dbo:birthDate o'<1985-3-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15445",
+  "entityUrl" : "http://dbpedia.org/resource/Will_Corrie",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15446",
+  "entityUrl" : "http://dbpedia.org/resource/Wallace_Geoffrey",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15447",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Hudd",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Walter_Hudd) dbo:birthDate o'<1897-02-20>",
+    "2" : "s(Walter_Hudd) dbo:birthDate o'<1897-2-20>",
+    "3" : "s(Walter_Hudd) dbo:birthPlace o'<England>",
+    "4" : "s(Walter_Hudd) dbo:birthPlace o'<London>",
+    "5" : "s(Walter_Hudd) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "6" : "s(Walter_Hudd) dbo:deathDate o'<1963-01-20>",
+    "7" : "s(Walter_Hudd) dbo:deathDate o'<1963-1-20>",
+    "8" : "s(Walter_Hudd) dbo:deathPlace o'<England>",
+    "9" : "s(Walter_Hudd) dbo:deathPlace o'<London>",
+    "10" : "s(Walter_Hudd) dbo:deathPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15448",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Tennyson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Walter_Tennyson) dbo:birthDate o'<1899-4-25>",
+    "2" : "s(Walter_Tennyson) dbo:deathDate o'<1980-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15449",
+  "entityUrl" : "http://dbpedia.org/resource/Wyndham_Guise",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wyndham_Guise) dbo:birthDate o'<1859-11-20>",
+    "2" : "s(Wyndham_Guise) dbo:birthPlace o'<England>",
+    "3" : "s(Wyndham_Guise) dbo:birthPlace o'<London>",
+    "4" : "s(Wyndham_Guise) dbo:birthPlace o'<Holborn>",
+    "5" : "s(Wyndham_Guise) dbo:deathDate o'<1934-0-0>",
+    "6" : "s(Wyndham_Guise) dbo:deathPlace o'<England>",
+    "7" : "s(Wyndham_Guise) dbo:deathPlace o'<Mildenhall,_Suffolk>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15450",
+  "entityUrl" : "http://dbpedia.org/resource/Winifred_Evans",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15451",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Byron_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Walter_Byron_(actor)) dbo:birthDate o'<1899-06-11>",
+    "2" : "s(Walter_Byron_(actor)) dbo:birthDate o'<1899-6-11>",
+    "3" : "s(Walter_Byron_(actor)) dbo:birthPlace o'<Leicester>",
+    "4" : "s(Walter_Byron_(actor)) dbo:deathDate o'<1972-03-02>",
+    "5" : "s(Walter_Byron_(actor)) dbo:deathDate o'<1972-3-2>",
+    "6" : "s(Walter_Byron_(actor)) dbo:deathPlace o'<Signal_Hill,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15452",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Xiaotang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Xiaotang) dbo:birthDate o'<1934-1-4>",
+    "2" : "s(Wang_Xiaotang) dbp:birthPlace o'<Kaifeng>",
+    "3" : "s(Wang_Xiaotang) dbp:birthPlace o'<Henan>",
+    "4" : "s(Wang_Xiaotang) dbp:birthPlace o'<People's_Republic_of_China>",
+    "5" : "s(Wang_Xiaotang) dbp:name o'<Xiaotang Wang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15453",
+  "entityUrl" : "http://dbpedia.org/resource/Winifred_Harris",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Winifred_Harris) dbo:birthPlace o'<Bedminster,_Bristol>",
+    "2" : "s(Winifred_Harris) dbo:deathDate o'<1972-4-18>",
+    "3" : "s(Winifred_Harris) dbo:deathPlace o'<Evanston,_Illinois>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15454",
+  "entityUrl" : "http://dbpedia.org/resource/Wellington_A._Playter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wellington_A._Playter) dbo:birthDate o'<1879-12-09>",
+    "2" : "s(Wellington_A._Playter) dbo:birthDate o'<1879-12-9>",
+    "3" : "s(Wellington_A._Playter) dbo:birthPlace o'<Rawcliffe,_York>",
+    "4" : "s(Wellington_A._Playter) dbo:birthPlace o'<North_Riding_of_Yorkshire>",
+    "5" : "s(Wellington_A._Playter) dbo:deathDate o'<1937-07-15>",
+    "6" : "s(Wellington_A._Playter) dbo:deathDate o'<1937-7-15>",
+    "7" : "s(Wellington_A._Playter) dbo:deathPlace o'<Oakland,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15455",
+  "entityUrl" : "http://dbpedia.org/resource/Wilfred_Shine",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wilfred_Shine) dbo:birthDate o'<1863-0-0>",
+    "2" : "s(Wilfred_Shine) dbo:deathDate o'<1939-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15456",
+  "entityUrl" : "http://dbpedia.org/resource/Wu_Yue_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wu_Yue_(actor)) dbo:birthDate o'<1976-4-25>",
+    "2" : "s(Wu_Yue_(actor)) dbo:birthPlace o'<Zhangjiakou>",
+    "3" : "s(Wu_Yue_(actor)) dbp:birthPlace o'<China>",
+    "4" : "s(Wu_Yue_(actor)) dbp:birthPlace o'<Zhangjiakou>",
+    "5" : "s(Wu_Yue_(actor)) dbp:birthPlace o'<Hebei>",
+    "6" : "s(Wu_Yue_(actor)) dbp:name o'<Wu Yue>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15457",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Yumei",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Yumei) dbo:birthDate o'<1934-10-28>",
+    "2" : "s(Wang_Yumei) dbp:birthPlace o'<Shandong>",
+    "3" : "s(Wang_Yumei) dbp:birthPlace o'<Jinan>",
+    "4" : "s(Wang_Yumei) dbp:birthPlace o'<Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15458",
+  "entityUrl" : "http://dbpedia.org/resource/William_San",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_San) dbo:birthDate o'<1975-10-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15459",
+  "entityUrl" : "http://dbpedia.org/resource/Wee_Kheng_Ming",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wee_Kheng_Ming) dbo:birthDate o'<1974-11-20>",
+    "2" : "s(Wee_Kheng_Ming) dbp:birthPlace o'<Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15460",
+  "entityUrl" : "http://dbpedia.org/resource/Will_Payne_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Will_Payne_(actor)) dbo:birthDate o'<1989-06-19>",
+    "2" : "s(Will_Payne_(actor)) dbo:birthDate o'<1989-6-19>",
+    "3" : "s(Will_Payne_(actor)) dbo:birthPlace o'<Bristol>",
+    "4" : "s(Will_Payne_(actor)) dbo:birthPlace o'<Somerset>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15461",
+  "entityUrl" : "http://dbpedia.org/resource/Wang_Luodan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wang_Luodan) dbo:birthDate o'<1984-1-30>",
+    "2" : "s(Wang_Luodan) dbo:birthPlace o'<Chifeng>",
+    "3" : "s(Wang_Luodan) dbp:birthPlace o'<China>",
+    "4" : "s(Wang_Luodan) dbp:birthPlace o'<Inner_Mongolia>",
+    "5" : "s(Wang_Luodan) dbp:birthPlace o'<Chifeng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15462",
+  "entityUrl" : "http://dbpedia.org/resource/Weiron_Holmberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Weiron_Holmberg) dbo:activeYearsStartYear o'<1978>",
+    "2" : "s(Weiron_Holmberg) dbo:birthDate o'<1935-03-18>",
+    "3" : "s(Weiron_Holmberg) dbo:birthDate o'<1935-3-18>",
+    "4" : "s(Weiron_Holmberg) dbo:birthPlace o'<Gothenburg>",
+    "5" : "s(Weiron_Holmberg) dbo:birthPlace o'<Sweden>",
+    "6" : "s(Weiron_Holmberg) dbo:birthYear o'<1935>",
+    "7" : "s(Weiron_Holmberg) dbo:nationality o'<Sweden>",
+    "8" : "s(Weiron_Holmberg) dbo:occupation o'<Weiron_Holmberg__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15463",
+  "entityUrl" : "http://dbpedia.org/resource/W.B._Brydon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(W.B._Brydon) dbo:activeYearsEndYear o'<2004>",
+    "2" : "s(W.B._Brydon) dbo:activeYearsStartYear o'<1972>",
+    "3" : "s(W.B._Brydon) dbo:birthDate o'<1933-09-20>",
+    "4" : "s(W.B._Brydon) dbo:birthDate o'<1933-9-20>",
+    "5" : "s(W.B._Brydon) dbo:birthPlace o'<Newcastle_upon_Tyne>",
+    "6" : "s(W.B._Brydon) dbo:birthYear o'<1933>",
+    "7" : "s(W.B._Brydon) dbo:country o'<England>",
+    "8" : "s(W.B._Brydon) dbo:imdbId o'<0117343>",
+    "9" : "s(W.B._Brydon) dbo:occupation o'<W.B._Brydon__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15464",
+  "entityUrl" : "http://dbpedia.org/resource/Wong_Keda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Wong_Keda) dbo:birthDate o'<1989-12-12>",
+    "2" : "s(Wong_Keda) dbp:birthPlace o'<China>",
+    "3" : "s(Wong_Keda) dbp:birthPlace o'<Shanxi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity15465",
+  "entityUrl" : "http://dbpedia.org/resource/William_Abadie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(William_Abadie) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(William_Abadie) dbo:birthPlace o'<Saint-Raphaël,_Var>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

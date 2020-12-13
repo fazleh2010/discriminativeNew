@@ -1,3 +1,3 @@
-id=60  property=dbp:profession  
-elect  VBN  multiply=0.004236  P(elect|dbp:profession)=0.103659  P(dbp:profession|elect)=0.040865    
+id=63  property=dbp:profession  
+elect  VBN  multiply=0.004231  P(elect|dbp:profession)=0.103659  P(dbp:profession|elect)=0.040816    
 

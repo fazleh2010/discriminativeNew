@@ -1,0 +1,27 @@
+[ {
+  "entityIndex" : "entity10809",
+  "entityUrl" : "http://dbpedia.org/resource/&ME",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:basedOn" : [ "http://dbpedia.org/resource/Fremdkörper" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/Belgium", "http://dbpedia.org/resource/Germany", "http://dbpedia.org/resource/Netherlands", "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/France" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/Norbert_ter_Hall" ],
+    "dbo:distributor" : [ "http://dbpedia.org/resource/Cineart" ],
+    "dbo:language" : [ "http://dbpedia.org/resource/French_language", "http://dbpedia.org/resource/German_language", "http://dbpedia.org/resource/Spanish_language", "http://dbpedia.org/resource/Dutch_language", "http://dbpedia.org/resource/English_language" ],
+    "dbo:producer" : [ "http://dbpedia.org/resource/Petra_Goedings" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Rossy_de_Palma", "http://dbpedia.org/resource/Teun_Luijkx", "http://dbpedia.org/resource/Mark_Waschke", "http://dbpedia.org/resource/Veronica_Echegui" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.andme-thefilm.com" ],
+    "dbo:wikiPageID" : [ "36532507" ],
+    "dbo:wikiPageRevisionID" : [ "698941580" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Dutch_films", "http://dbpedia.org/resource/UK", "http://dbpedia.org/resource/Belgium", "http://dbpedia.org/resource/Brussels", "http://dbpedia.org/resource/European_Parliament", "http://dbpedia.org/resource/European_Union", "http://dbpedia.org/resource/French_language", "http://dbpedia.org/resource/German_language", "http://dbpedia.org/resource/Germany", "http://dbpedia.org/resource/Netherlands", "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/Spanish_language", "http://dbpedia.org/resource/Rossy_de_Palma", "http://dbpedia.org/resource/Howard_Charles", "http://dbpedia.org/resource/Strasbourg", "http://dbpedia.org/resource/Canada", "http://dbpedia.org/resource/France", "http://dbpedia.org/resource/Category:Films_based_on_Dutch_novels", "http://dbpedia.org/resource/Teun_Luijkx", "http://dbpedia.org/resource/Dutch_language", "http://dbpedia.org/resource/English_language", "http://dbpedia.org/resource/US", "http://dbpedia.org/resource/Verónica_Echegui", "http://dbpedia.org/resource/Mark_Waschke", "http://dbpedia.org/resource/Oscar_van_den_Boogaard", "http://dbpedia.org/resource/Veronica_Echegui", "http://dbpedia.org/resource/Peter_Bouckaert", "http://dbpedia.org/resource/Titus_Kreyenberg", "http://dbpedia.org/resource/Petra_Goedings", "http://dbpedia.org/resource/Cineart", "http://dbpedia.org/resource/Fremdkörper", "http://dbpedia.org/resource/Norbert_ter_Hall" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Oscar_van_den_Boogaard", "http://dbpedia.org/resource/Norbert_ter_Hall" ],
+    "dbp:cinematography" : [ "Richard Oosterhout" ],
+    "dbp:coProducers" : [ "http://dbpedia.org/resource/Peter_Bouckaert", "http://dbpedia.org/resource/Titus_Kreyenberg" ],
+    "dbp:editing" : [ "Isabel Meier" ],
+    "dbp:music" : [ "Jasper Boeke" ]
+  },
+  "words" : [ "door", "de", "Op", "Instituut", "Film", "Echegui", "Mark", "beleefde", "hoofdrol", "Teun", "een", "Waschke", "meertalige", "komedie", "EYE", "geregisseerd", "Europese", "haar", "wereldpremière", "landelijke", "10", "ter", "De", "op", "maart", "14", "bioscooppremière", "Luijkx", "&", "en", "film", ",", ".", "Norbert", "2013", "Nederland", "geschreven", "spelen", "Hall", "romantische", "Verónica" ],
+  "adjectives" : [ "maart", "een" ],
+  "nouns" : [ "door", "Op", "Instituut", "Film", "Echegui", "Mark", "beleefde", "Teun", "Waschke", "meertalige", "komedie", "EYE", "geregisseerd", "Europese", "haar", "wereldpremière", "landelijke", "ter", "op", "De", "maart", "bioscooppremière", "Luijkx", "film", "Norbert", "Nederland", "geschreven", "Hall", "romantische", "Verónica" ],
+  "text" : "&ME is een Europese, meertalige romantische komedie, geregisseerd en geschreven door Norbert ter Hall. In de hoofdrol spelen Mark Waschke, Teun Luijkx en Verónica Echegui. De film beleefde haar wereldpremière op 10 maart 2013 in EYE Film Instituut Nederland. Op 14 maart 2013 was de landelijke bioscooppremière. &ME is gebaseerd op de roman Fremdkörper van bestsellerauteur Oscar van den Boogaard. Zijn boeken worden in veel landen gelezen, waaronder Nederland, België, Frankrijk, Duitsland, Engeland, de VS en Canada."
+} ]

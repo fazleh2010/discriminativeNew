@@ -1,9 +1,9 @@
 package citec.correlation.wikipedia.linking;
 
-import static citec.correlation.core.analyzer.TextAnalyzer.ENGLISH_SELECTED_STOPWORDS;
 import static citec.correlation.wikipedia.linking.EntityAnnotation.SUBJECT;
-import citec.correlation.wikipedia.utils.FormatAndMatch;
 import citec.correlation.wikipedia.utils.NLPTools;
+import static citec.wikipedia.writer.api.TextAnalyzer.ENGLISH_SELECTED_STOPWORDS;
+import citec.wikipedia.writer.utils.FormatAndMatch;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;

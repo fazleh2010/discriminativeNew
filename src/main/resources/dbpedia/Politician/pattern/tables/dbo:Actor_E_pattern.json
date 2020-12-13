@@ -1,0 +1,2161 @@
+[ {
+  "entityIndex" : "entity11725",
+  "entityUrl" : "http://dbpedia.org/resource/El%C3%ADn_Ort%C3%ADz",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11726",
+  "entityUrl" : "http://dbpedia.org/resource/Edna_Best",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edna_Best) dbo:birthDate o'<1900-03-03>",
+    "2" : "s(Edna_Best) dbo:birthDate o'<1900-3-3>",
+    "3" : "s(Edna_Best) dbo:birthPlace o'<England>",
+    "4" : "s(Edna_Best) dbo:birthPlace o'<Hove>",
+    "5" : "s(Edna_Best) dbo:birthPlace o'<Sussex>",
+    "6" : "s(Edna_Best) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "7" : "s(Edna_Best) dbo:deathDate o'<1974-09-18>",
+    "8" : "s(Edna_Best) dbo:deathDate o'<1974-9-18>",
+    "9" : "s(Edna_Best) dbo:deathPlace o'<Geneva>",
+    "10" : "s(Edna_Best) dbo:deathPlace o'<Switzerland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11727",
+  "entityUrl" : "http://dbpedia.org/resource/Eason_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eason_Chan) dbo:birthDate o'<1974-7-27>",
+    "2" : "s(Eason_Chan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Eason_Chan) dbp:birthPlace o'<British_Hong_Kong>",
+    "4" : "s(Eason_Chan) dbp:name o'<Eason Chan>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(eason chan=Eason_Chan) [born 27 july 1974 ] o'<hong kong=Hong_Kong>",
+    "4" : "s(eason chan=Eason_Chan) [considered by media to ] o'<hong kong's=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : ") eason chan<Eason_Chan> (born 27 july 1974) is a hong kong<Hong_Kong> singer and actor",
+    "4" : "eason chan<Eason_Chan> is considered by media to be hong kong's<Hong_Kong> third \"god of song\" after samuel hui and jacky cheung\n"
+  }
+}, {
+  "entityIndex" : "entity11728",
+  "entityUrl" : "http://dbpedia.org/resource/Etsuko_Kozakura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Etsuko_Kozakura) dbo:birthDate o'<1971-02-22>",
+    "2" : "s(Etsuko_Kozakura) dbo:birthDate o'<1971-2-22>",
+    "3" : "s(Etsuko_Kozakura) dbo:birthPlace o'<Mizuho,_Tokyo>",
+    "4" : "s(Etsuko_Kozakura) dbo:birthPlace o'<Japan>",
+    "5" : "s(Etsuko_Kozakura) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11729",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Shuter",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Shuter) dbo:birthDate o'<1728-1-1>",
+    "2" : "s(Edward_Shuter) dbo:deathDate o'<1776-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11730",
+  "entityUrl" : "http://dbpedia.org/resource/Emiri_Henmi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emiri_Henmi) dbo:birthDate o'<1976-1-1>",
+    "2" : "s(Emiri_Henmi) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Emiri_Henmi) dbp:name o'<Henmi Emiri>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11731",
+  "entityUrl" : "http://dbpedia.org/resource/Erika_Mabuchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erika_Mabuchi) dbo:birthDate o'<1979-3-7>",
+    "2" : "s(Erika_Mabuchi) dbo:birthPlace o'<Kagawa_Prefecture>",
+    "3" : "s(Erika_Mabuchi) dbp:name o'<Mabuchi Erika>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11732",
+  "entityUrl" : "http://dbpedia.org/resource/Eriko_Watanabe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eriko_Watanabe) dbo:birthDate o'<1955-01-05>",
+    "2" : "s(Eriko_Watanabe) dbo:birthDate o'<1955-1-5>",
+    "3" : "s(Eriko_Watanabe) dbo:birthPlace o'<Japan>",
+    "4" : "s(Eriko_Watanabe) dbo:birthPlace o'<Yamagata,_Yamagata>",
+    "5" : "s(Eriko_Watanabe) dbp:name o'<Eriko Watanabe>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(eriko watanabe=Eriko_Watanabe) [  watanabe eriko born ] o'<yamagata=Yamagata,_Yamagata>"
+  },
+  "abstract" : {
+    "1" : "eriko watanabe<Eriko_Watanabe> (渡辺 えり子 watanabe eriko, born 5 january 1955 in yamagata<Yamagata,_Yamagata>, yamagata<Yamagata,_Yamagata> prefecture, japan) is a japanese<Japan> actress"
+  }
+}, {
+  "entityIndex" : "entity11733",
+  "entityUrl" : "http://dbpedia.org/resource/Emma_Wiklund__Sweden-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emma_Wiklund__Sweden-actor-stub__1) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11734",
+  "entityUrl" : "http://dbpedia.org/resource/Ekin_Cheng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ekin_Cheng) dbo:birthDate o'<1967-10-4>",
+    "2" : "s(Ekin_Cheng) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Ekin_Cheng) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11735",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Knepp",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Knepp) dbo:deathDate o'<1681-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11736",
+  "entityUrl" : "http://dbpedia.org/resource/Estelle_Skornik",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Estelle_Skornik) dbo:birthDate o'<1971-07-04>",
+    "2" : "s(Estelle_Skornik) dbo:birthDate o'<1971-7-4>",
+    "3" : "s(Estelle_Skornik) dbo:birthPlace o'<Paris>",
+    "4" : "s(Estelle_Skornik) dbo:birthPlace o'<France>",
+    "5" : "s(Estelle_Skornik) dbp:name o'<Estelle Skornik>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11737",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Tsang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Tsang) dbo:birthDate o'<1953-4-14>",
+    "2" : "s(Eric_Tsang) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Eric_Tsang) dbp:birthPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11738",
+  "entityUrl" : "http://dbpedia.org/resource/Eileen_Essell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eileen_Essell) dbo:birthDate o'<1922-10-08>",
+    "2" : "s(Eileen_Essell) dbo:birthDate o'<1922-10-8>",
+    "3" : "s(Eileen_Essell) dbo:birthPlace o'<England>",
+    "4" : "s(Eileen_Essell) dbo:birthPlace o'<London>",
+    "5" : "s(Eileen_Essell) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Eileen_Essell) dbo:deathDate o'<2015-02-15>",
+    "7" : "s(Eileen_Essell) dbo:deathDate o'<2015-2-15>",
+    "8" : "s(Eileen_Essell) dbo:deathPlace o'<England>",
+    "9" : "s(Eileen_Essell) dbo:deathPlace o'<London>",
+    "10" : "s(Eileen_Essell) dbo:deathPlace o'<United_Kingdom>",
+    "11" : "s(Eileen_Essell) dbp:name o'<Eileen Essell>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(eileen essell=Eileen_Essell) [later earned living ] o'<the city=London>",
+    "6" : "s(eileen essell=Eileen_Essell) [later appeared in bill ] o'<city=London>"
+  },
+  "abstract" : {
+    "3" : "eileen essell<Eileen_Essell> later earned a living as a teacher at the central school of music and drama and the city<London> university\n",
+    "6" : "eileen essell<Eileen_Essell> later appeared in the bill, doc martin, holby city<London>, hustle, casualty, ideal and sensitive skin, among other episodes\n"
+  }
+}, {
+  "entityIndex" : "entity11739",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Peel",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Peel) dbo:birthDate o'<1943-1-1>",
+    "2" : "s(Edward_Peel) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "3" : "s(Edward_Peel) dbo:birthPlace o'<UK>",
+    "4" : "s(Edward_Peel) dbo:birthPlace o'<England>",
+    "5" : "s(Edward_Peel) dbo:birthPlace o'<Bradford>",
+    "6" : "s(Edward_Peel) dbo:birthYear o'<1943>",
+    "7" : "s(Edward_Peel) dbo:country o'<England>",
+    "8" : "s(Edward_Peel) dbo:imdbId o'<0670230>",
+    "9" : "s(Edward_Peel) dbo:occupation o'<Actor>",
+    "10" : "s(Edward_Peel) dbo:occupation o'<Edward_Peel__1>",
+    "11" : "s(Edward_Peel) dbp:name o'<Edward Peel>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(edward peel=Edward_Peel) [born 1943 british ] o'<actor=Actor>",
+    "2" : "s(edward peel=Edward_Peel) [mostly appeared on ] o'<television=Actor>",
+    "5" : "s(edward peel=Edward_Peel) [cast in ] o'<film=Actor>",
+    "6" : "s(edward peel=Edward_Peel) [part of shakespeares ] o'<performance=Actor>"
+  },
+  "abstract" : {
+    "1" : "edward peel<Edward_Peel> (born 1943) is a british actor<Actor>",
+    "2" : "edward peel<Edward_Peel> has mostly appeared on television<Actor>, his roles include shogun (1980), juliet bravo (1983–1985), cracker (1993–1995), emmerdale farm (tom merrick: 1981-1982, tony cairns: 1997-1998) and london's burning (2000–2001)as john coleman\n",
+    "5" : "most recently edward peel<Edward_Peel> has been cast in the royal today as david collingworth, and as the chief inspector in the short film<Actor> comedy homicide: division b, directed by abner pastoll\n",
+    "6" : "note to admins: edward peel<Edward_Peel> is a part of shakespeare's globe, and has very recently appeared in their \"a midsummer night's dream\" performance<Actor>"
+  }
+}, {
+  "entityIndex" : "entity11740",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Christmas",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Christmas) dbo:birthDate o'<1916-03-19>",
+    "2" : "s(Eric_Christmas) dbo:birthDate o'<1916-3-19>",
+    "3" : "s(Eric_Christmas) dbo:birthPlace o'<England>",
+    "4" : "s(Eric_Christmas) dbo:birthPlace o'<London>",
+    "5" : "s(Eric_Christmas) dbo:deathDate o'<2000-07-22>",
+    "6" : "s(Eric_Christmas) dbo:deathDate o'<2000-7-22>",
+    "7" : "s(Eric_Christmas) dbo:deathPlace o'<Camarillo,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11741",
+  "entityUrl" : "http://dbpedia.org/resource/Edmond_Leung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edmond_Leung) dbo:birthDate o'<1971-11-5>",
+    "2" : "s(Edmond_Leung) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11742",
+  "entityUrl" : "http://dbpedia.org/resource/Endy_Chow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Endy_Chow) dbo:birthDate o'<1979-12-11>",
+    "2" : "s(Endy_Chow) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "8" : "s(endy chow=Endy_Chow) [signed to warner ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "8" : "endy chow<Endy_Chow> was signed to warner hong kong<Hong_Kong> as a solo artist in september 2003 after a friend, candy hung, helped pass his demo tape to composer and producer, joannes lam\n"
+  }
+}, {
+  "entityIndex" : "entity11743",
+  "entityUrl" : "http://dbpedia.org/resource/Ewa_Str%C3%B6mberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11744",
+  "entityUrl" : "http://dbpedia.org/resource/Erica_Carlson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erica_Carlson) dbo:birthDate o'<1981-08-04>",
+    "2" : "s(Erica_Carlson) dbo:birthDate o'<1981-8-4>",
+    "3" : "s(Erica_Carlson) dbo:birthPlace o'<Trollhättan>",
+    "4" : "s(Erica_Carlson) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11745",
+  "entityUrl" : "http://dbpedia.org/resource/Ella_Koon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ella_Koon) dbo:birthDate o'<1979-7-9>",
+    "2" : "s(Ella_Koon) dbp:birthPlace o'<French_Polynesia>",
+    "3" : "s(Ella_Koon) dbp:birthPlace o'<Tahiti>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11746",
+  "entityUrl" : "http://dbpedia.org/resource/Eiji_Maruyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiji_Maruyama) dbo:birthDate o'<1930-10-23>",
+    "2" : "s(Eiji_Maruyama) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Eiji_Maruyama) dbo:deathDate o'<2014-9-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11747",
+  "entityUrl" : "http://dbpedia.org/resource/Eriko_Hara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eriko_Hara) dbo:birthDate o'<1959-11-01>",
+    "2" : "s(Eriko_Hara) dbo:birthDate o'<1959-11-1>",
+    "3" : "s(Eriko_Hara) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11748",
+  "entityUrl" : "http://dbpedia.org/resource/Eiji_Okada",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiji_Okada) dbo:birthDate o'<1920-06-13>",
+    "2" : "s(Eiji_Okada) dbo:birthDate o'<1920-6-13>",
+    "3" : "s(Eiji_Okada) dbo:birthPlace o'<Chōshi>",
+    "4" : "s(Eiji_Okada) dbo:birthPlace o'<Chiba_Prefecture>",
+    "5" : "s(Eiji_Okada) dbo:deathDate o'<1995-09-14>",
+    "6" : "s(Eiji_Okada) dbo:deathDate o'<1995-9-14>",
+    "7" : "s(Eiji_Okada) dbo:deathPlace o'<Q7473516>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11749",
+  "entityUrl" : "http://dbpedia.org/resource/Esther_Sandoval",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Esther_Sandoval) dbo:birthDate o'<1927-12-28>",
+    "2" : "s(Esther_Sandoval) dbo:birthPlace o'<Puerto_Rico>",
+    "3" : "s(Esther_Sandoval) dbo:birthPlace o'<Ponce,_Puerto_Rico>",
+    "4" : "s(Esther_Sandoval) dbo:deathDate o'<2006-02-06>",
+    "5" : "s(Esther_Sandoval) dbo:deathDate o'<2006-2-6>",
+    "6" : "s(Esther_Sandoval) dbo:deathPlace o'<San_Juan,_Puerto_Rico>",
+    "7" : "s(Esther_Sandoval) dbo:deathPlace o'<Río_Piedras,_Puerto_Rico>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11750",
+  "entityUrl" : "http://dbpedia.org/resource/Erino_Hazuki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erino_Hazuki) dbo:birthDate o'<1975-1-1>",
+    "2" : "s(Erino_Hazuki) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11751",
+  "entityUrl" : "http://dbpedia.org/resource/Enid_Stamp_Taylor",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Enid_Stamp_Taylor) dbo:birthDate o'<1904-06-12>",
+    "2" : "s(Enid_Stamp_Taylor) dbo:birthDate o'<1904-6-12>",
+    "3" : "s(Enid_Stamp_Taylor) dbo:birthPlace o'<England>",
+    "4" : "s(Enid_Stamp_Taylor) dbo:birthPlace o'<Monkseaton>",
+    "5" : "s(Enid_Stamp_Taylor) dbo:birthPlace o'<Northumberland>",
+    "6" : "s(Enid_Stamp_Taylor) dbo:deathDate o'<1946-01-13>",
+    "7" : "s(Enid_Stamp_Taylor) dbo:deathDate o'<1946-1-13>",
+    "8" : "s(Enid_Stamp_Taylor) dbo:deathPlace o'<England>",
+    "9" : "s(Enid_Stamp_Taylor) dbo:deathPlace o'<London>",
+    "10" : "s(Enid_Stamp_Taylor) dbp:name o'<Enid Stamp Taylor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11752",
+  "entityUrl" : "http://dbpedia.org/resource/Eleanor_Matsuura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eleanor_Matsuura) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(Eleanor_Matsuura) dbo:birthPlace o'<Japan>",
+    "3" : "s(Eleanor_Matsuura) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Eleanor_Matsuura) dbo:birthPlace o'<Q7473516>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11753",
+  "entityUrl" : "http://dbpedia.org/resource/Emily_Woof",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emily_Woof) dbo:birthDate o'<1967-1-1>",
+    "2" : "s(Emily_Woof) dbo:birthPlace o'<England>",
+    "3" : "s(Emily_Woof) dbo:birthPlace o'<Newcastle_upon_Tyne>",
+    "4" : "s(Emily_Woof) dbo:birthPlace o'<Northumberland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11754",
+  "entityUrl" : "http://dbpedia.org/resource/Emi_Motoi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emi_Motoi) dbo:birthDate o'<1971-10-11>",
+    "2" : "s(Emi_Motoi) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11755",
+  "entityUrl" : "http://dbpedia.org/resource/Ema_Kogure",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ema_Kogure) dbo:birthDate o'<1976-10-31>",
+    "2" : "s(Ema_Kogure) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11756",
+  "entityUrl" : "http://dbpedia.org/resource/Eileen_Helsby",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eileen_Helsby) dbo:birthDate o'<1937-0-0>",
+    "2" : "s(Eileen_Helsby) dbo:birthPlace o'<England>",
+    "3" : "s(Eileen_Helsby) dbo:birthPlace o'<Blackpool>",
+    "4" : "s(Eileen_Helsby) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Eileen_Helsby) dbo:birthYear o'<1937>",
+    "6" : "s(Eileen_Helsby) dbo:country o'<United_Kingdom>",
+    "7" : "s(Eileen_Helsby) dbo:imdbId o'<0375829>",
+    "8" : "s(Eileen_Helsby) dbo:occupation o'<Eileen_Helsby__1>",
+    "9" : "s(Eileen_Helsby) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11757",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Cassidy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Cassidy) dbo:country o'<United_Kingdom>",
+    "2" : "s(Elizabeth_Cassidy) dbo:imdbId o'<0144188>",
+    "3" : "s(Elizabeth_Cassidy) dbp:name o'<Elizabeth Cassidy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11758",
+  "entityUrl" : "http://dbpedia.org/resource/Edmund_Pegge",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edmund_Pegge) dbo:country o'<United_Kingdom>",
+    "2" : "s(Edmund_Pegge) dbo:imdbId o'<0670410>",
+    "3" : "s(Edmund_Pegge) dbp:name o'<Edmund Pegge>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11759",
+  "entityUrl" : "http://dbpedia.org/resource/Eiko_Masuyama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiko_Masuyama) dbo:birthDate o'<1936-04-22>",
+    "2" : "s(Eiko_Masuyama) dbo:birthDate o'<1936-4-22>",
+    "3" : "s(Eiko_Masuyama) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11760",
+  "entityUrl" : "http://dbpedia.org/resource/Eva_Fontaine",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eva_Fontaine) dbo:activeYearsStartYear o'<2001>",
+    "2" : "s(Eva_Fontaine) dbo:birthDate o'<1974-1-1>",
+    "3" : "s(Eva_Fontaine) dbo:birthPlace o'<England>",
+    "4" : "s(Eva_Fontaine) dbo:birthPlace o'<London>",
+    "5" : "s(Eva_Fontaine) dbo:birthYear o'<1974>",
+    "6" : "s(Eva_Fontaine) dbo:country o'<United_Kingdom>",
+    "7" : "s(Eva_Fontaine) dbo:occupation o'<Actress>",
+    "8" : "s(Eva_Fontaine) dbo:occupation o'<Eva_Fontaine__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11761",
+  "entityUrl" : "http://dbpedia.org/resource/Emmanuelle_Boidron",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emmanuelle_Boidron) dbo:birthDate o'<1978-08-04>",
+    "2" : "s(Emmanuelle_Boidron) dbo:birthDate o'<1978-8-4>",
+    "3" : "s(Emmanuelle_Boidron) dbo:birthPlace o'<Loiret>",
+    "4" : "s(Emmanuelle_Boidron) dbo:birthPlace o'<Orléans>",
+    "5" : "s(Emmanuelle_Boidron) dbo:birthPlace o'<France>",
+    "6" : "s(Emmanuelle_Boidron) dbp:name o'<Emmanuelle Boidron>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11762",
+  "entityUrl" : "http://dbpedia.org/resource/Eisuke_Asakura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eisuke_Asakura) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11763",
+  "entityUrl" : "http://dbpedia.org/resource/Eiji_Takemoto",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiji_Takemoto) dbo:birthDate o'<1973-03-07>",
+    "2" : "s(Eiji_Takemoto) dbo:birthDate o'<1973-3-7>",
+    "3" : "s(Eiji_Takemoto) dbo:birthPlace o'<Yamaguchi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11764",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Wan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Wan) dbo:birthDate o'<1964-10-28>",
+    "2" : "s(Eric_Wan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11765",
+  "entityUrl" : "http://dbpedia.org/resource/Eiji_Kanie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiji_Kanie) dbo:birthDate o'<1941-11-21>",
+    "2" : "s(Eiji_Kanie) dbo:birthPlace o'<Japan>",
+    "3" : "s(Eiji_Kanie) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Eiji_Kanie) dbo:deathDate o'<1985-10-13>",
+    "5" : "s(Eiji_Kanie) dbo:deathPlace o'<Japan>",
+    "6" : "s(Eiji_Kanie) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11766",
+  "entityUrl" : "http://dbpedia.org/resource/Eijir%C5%8D_T%C5%8Dno",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11767",
+  "entityUrl" : "http://dbpedia.org/resource/Emma_Griffiths_Malin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emma_Griffiths_Malin) dbo:birthDate o'<1981-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11768",
+  "entityUrl" : "http://dbpedia.org/resource/Emile_Charles",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11769",
+  "entityUrl" : "http://dbpedia.org/resource/Ellen_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ellen_Chan) dbo:birthDate o'<1966-2-16>",
+    "2" : "s(Ellen_Chan) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Ellen_Chan) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11770",
+  "entityUrl" : "http://dbpedia.org/resource/Eleanor_Summerfield",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eleanor_Summerfield) dbo:birthDate o'<1921-03-07>",
+    "2" : "s(Eleanor_Summerfield) dbo:birthDate o'<1921-3-7>",
+    "3" : "s(Eleanor_Summerfield) dbo:birthPlace o'<England>",
+    "4" : "s(Eleanor_Summerfield) dbo:birthPlace o'<London>",
+    "5" : "s(Eleanor_Summerfield) dbo:deathDate o'<2001-07-13>",
+    "6" : "s(Eleanor_Summerfield) dbo:deathDate o'<2001-7-13>",
+    "7" : "s(Eleanor_Summerfield) dbo:deathPlace o'<England>",
+    "8" : "s(Eleanor_Summerfield) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11771",
+  "entityUrl" : "http://dbpedia.org/resource/Ewa_Fr%C3%B6ling__Sweden-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11772",
+  "entityUrl" : "http://dbpedia.org/resource/Essy_Persson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Essy_Persson) dbo:birthDate o'<1941-6-15>",
+    "2" : "s(Essy_Persson) dbo:birthPlace o'<Gothenburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11773",
+  "entityUrl" : "http://dbpedia.org/resource/Emily_Fitzroy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emily_Fitzroy) dbo:birthDate o'<1860-05-24>",
+    "2" : "s(Emily_Fitzroy) dbo:birthDate o'<1860-5-24>",
+    "3" : "s(Emily_Fitzroy) dbo:birthPlace o'<London>",
+    "4" : "s(Emily_Fitzroy) dbo:deathDate o'<1954-03-03>",
+    "5" : "s(Emily_Fitzroy) dbo:deathDate o'<1954-3-3>",
+    "6" : "s(Emily_Fitzroy) dbo:deathPlace o'<Gardena,_California>",
+    "7" : "s(Emily_Fitzroy) dbp:birthPlace o'<London, England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11774",
+  "entityUrl" : "http://dbpedia.org/resource/Edison_Chen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edison_Chen) dbo:birthDate o'<1980-10-7>",
+    "2" : "s(Edison_Chen) dbo:birthPlace o'<Vancouver>",
+    "3" : "s(Edison_Chen) dbp:birthPlace o'<British_Columbia>",
+    "4" : "s(Edison_Chen) dbp:birthPlace o'<Vancouver>",
+    "5" : "s(Edison_Chen) dbp:birthPlace o'<Canada>",
+    "6" : "s(Edison_Chen) dbp:name o'<Edison Chen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11775",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Atterton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Atterton) dbo:birthDate o'<1962-01-24>",
+    "2" : "s(Edward_Atterton) dbo:birthDate o'<1962-1-24>",
+    "3" : "s(Edward_Atterton) dbo:birthPlace o'<Tamworth,_Staffordshire>",
+    "4" : "s(Edward_Atterton) dbo:birthPlace o'<Birmingham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11776",
+  "entityUrl" : "http://dbpedia.org/resource/Emi_Wakui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emi_Wakui) dbo:birthDate o'<1970-12-08>",
+    "2" : "s(Emi_Wakui) dbo:birthDate o'<1970-12-8>",
+    "3" : "s(Emi_Wakui) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "4" : "s(Emi_Wakui) dbo:birthPlace o'<Yokohama>",
+    "5" : "s(Emi_Wakui) dbo:birthPlace o'<Midori-ku,_Yokohama>",
+    "6" : "s(Emi_Wakui) dbp:name o'<Emi Wakui>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11777",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Rider",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Rider) dbo:birthName o'<Elizabeth Rider>",
+    "2" : "s(Elizabeth_Rider) dbo:birthPlace o'<UK>",
+    "3" : "s(Elizabeth_Rider) dbo:birthPlace o'<England>",
+    "4" : "s(Elizabeth_Rider) dbo:birthPlace o'<Nottinghamshire>",
+    "5" : "s(Elizabeth_Rider) dbo:birthPlace o'<Upton,_Newark_and_Sherwood>",
+    "6" : "s(Elizabeth_Rider) dbo:country o'<England>",
+    "7" : "s(Elizabeth_Rider) dbo:occupation o'<Elizabeth_Rider__1>",
+    "8" : "s(Elizabeth_Rider) dbo:occupation o'<Actress>",
+    "9" : "s(Elizabeth_Rider) dbp:othernames o'<Liza>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(elizabeth rider=Elizabeth_Rider) [english ] o'<actress=Actress>",
+    "3" : "s(elizabeth rider=Elizabeth_Rider) [won carleton hobbs award ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "1" : "elizabeth rider<Elizabeth_Rider> is an english actress<Actress>",
+    "3" : "elizabeth rider<Elizabeth_Rider> won the carleton hobbs award for best student actress<Actress> and spent six months with the bbc radio rep\n"
+  }
+}, {
+  "entityIndex" : "entity11778",
+  "entityUrl" : "http://dbpedia.org/resource/Etsushi_Toyokawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Etsushi_Toyokawa) dbo:birthDate o'<1962-03-18>",
+    "2" : "s(Etsushi_Toyokawa) dbo:birthDate o'<1962-3-18>",
+    "3" : "s(Etsushi_Toyokawa) dbo:birthPlace o'<Yao,_Osaka>",
+    "4" : "s(Etsushi_Toyokawa) dbo:height o'<186.0>",
+    "5" : "s(Etsushi_Toyokawa) dbp:name o'<Etsushi Toyokawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11779",
+  "entityUrl" : "http://dbpedia.org/resource/Eiji_Okuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiji_Okuda) dbo:birthDate o'<1950-03-18>",
+    "2" : "s(Eiji_Okuda) dbo:birthDate o'<1950-3-18>",
+    "3" : "s(Eiji_Okuda) dbo:birthPlace o'<Japan>",
+    "4" : "s(Eiji_Okuda) dbo:birthPlace o'<Kasugai,_Aichi>",
+    "5" : "s(Eiji_Okuda) dbo:height o'<175.0>",
+    "6" : "s(Eiji_Okuda) dbp:name o'<Eiji Okuda>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11780",
+  "entityUrl" : "http://dbpedia.org/resource/Elvin_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elvin_Ng) dbo:birthDate o'<1980-12-23>",
+    "2" : "s(Elvin_Ng) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11781",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Berrington",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Berrington) dbo:birthDate o'<1970-08-03>",
+    "2" : "s(Elizabeth_Berrington) dbo:birthDate o'<1970-8-3>",
+    "3" : "s(Elizabeth_Berrington) dbo:birthName o'<Elizabeth Ann Berrington>",
+    "4" : "s(Elizabeth_Berrington) dbo:birthPlace o'<Wirral_Peninsula>",
+    "5" : "s(Elizabeth_Berrington) dbo:birthPlace o'<Cheshire>",
+    "6" : "s(Elizabeth_Berrington) dbo:birthPlace o'<England>",
+    "7" : "s(Elizabeth_Berrington) dbo:birthPlace o'<Wallasey>",
+    "8" : "s(Elizabeth_Berrington) dbo:birthYear o'<1970>",
+    "9" : "s(Elizabeth_Berrington) dbo:country o'<England>",
+    "10" : "s(Elizabeth_Berrington) dbo:imdbId o'<0077397>",
+    "11" : "s(Elizabeth_Berrington) dbo:occupation o'<Elizabeth_Berrington__1>",
+    "12" : "s(Elizabeth_Berrington) dbp:name o'<Elizabeth Berrington>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11782",
+  "entityUrl" : "http://dbpedia.org/resource/Emi_Kobayashi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emi_Kobayashi) dbo:birthDate o'<1983-1-1>",
+    "2" : "s(Emi_Kobayashi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11783",
+  "entityUrl" : "http://dbpedia.org/resource/Ehlo_Huang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ehlo_Huang) dbo:birthDate o'<1977-4-1>",
+    "2" : "s(Ehlo_Huang) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Ehlo_Huang) dbp:birthPlace o'<Republic_of_China>",
+    "4" : "s(Ehlo_Huang) dbp:name o'<Ehlo Huang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11784",
+  "entityUrl" : "http://dbpedia.org/resource/Erika_Hoffman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erika_Hoffman) dbo:birthDate o'<1965-0-0>",
+    "2" : "s(Erika_Hoffman) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11785",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Richard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Richard) dbo:birthDate o'<1940-06-27>",
+    "2" : "s(Eric_Richard) dbo:birthDate o'<1940-6-27>",
+    "3" : "s(Eric_Richard) dbo:birthPlace o'<Kent>",
+    "4" : "s(Eric_Richard) dbo:birthPlace o'<Margate>",
+    "5" : "s(Eric_Richard) dbo:birthYear o'<1940>",
+    "6" : "s(Eric_Richard) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(eric richard=Eric_Richard) [appeared ebeneezer scrooge in ] o'<london=Kent>",
+    "4" : "s(eric richard=Eric_Richard) [perhaps best known for ] o'<home=England>"
+  },
+  "abstract" : {
+    "3" : "in 2001 eric richard<Eric_Richard> appeared as ebeneezer scrooge in a production of charles dickens' a christmas carol at the ucl bloomsbury theatre, london<Kent>\n",
+    "4" : "eric richard<Eric_Richard> is perhaps best known for his role as desk sergeant bob cryer in the long running itv drama the bill, which eric richard<Eric_Richard> portrayed for 20 years from the show's inception in 1984, although his television work has also included victoria wood as seen on tv, home<England> sweet home<England>, made in britain<England>, open all hours, games without frontiers, p'tang, yang, kipperbang, shoestring, and holby city\n"
+  }
+}, {
+  "entityIndex" : "entity11786",
+  "entityUrl" : "http://dbpedia.org/resource/Ebba_Hultkvist",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ebba_Hultkvist) dbo:birthDate o'<1983-09-26>",
+    "2" : "s(Ebba_Hultkvist) dbo:birthDate o'<1983-9-26>",
+    "3" : "s(Ebba_Hultkvist) dbo:birthName o'<Ebba Johanna Birgitta Hultkvist>",
+    "4" : "s(Ebba_Hultkvist) dbo:birthPlace o'<Sollentuna_Municipality>",
+    "5" : "s(Ebba_Hultkvist) dbo:birthPlace o'<Sweden>",
+    "6" : "s(Ebba_Hultkvist) dbo:birthYear o'<1983>",
+    "7" : "s(Ebba_Hultkvist) dbo:imdbId o'<0401620>",
+    "8" : "s(Ebba_Hultkvist) dbo:nationality o'<Sweden>",
+    "9" : "s(Ebba_Hultkvist) dbp:name o'<Ebba Hultkvist>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11787",
+  "entityUrl" : "http://dbpedia.org/resource/Eileen_O'Brien_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eileen_O'Brien_(actress)) dbo:country o'<United_Kingdom>",
+    "2" : "s(Eileen_O'Brien_(actress)) dbo:imdbId o'<0639533>",
+    "3" : "s(Eileen_O'Brien_(actress)) dbp:name o'<Eileen O'Brien>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11788",
+  "entityUrl" : "http://dbpedia.org/resource/Evan_Yo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Evan_Yo) dbo:birthDate o'<1986-11-12>",
+    "2" : "s(Evan_Yo) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Evan_Yo) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Evan_Yo) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11789",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Adare",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Adare) dbo:birthDate o'<1949-6-3>",
+    "2" : "s(Elizabeth_Adare) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11790",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Sun__UK-film-actor-stub__1",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11791",
+  "entityUrl" : "http://dbpedia.org/resource/Ethan_Juan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ethan_Juan) dbo:birthDate o'<1982-11-8>",
+    "2" : "s(Ethan_Juan) dbo:birthPlace o'<Taichung>",
+    "3" : "s(Ethan_Juan) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Ethan_Juan) dbp:birthPlace o'<Taichung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11792",
+  "entityUrl" : "http://dbpedia.org/resource/Erina_Yamazaki",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erina_Yamazaki) dbo:birthDate o'<1974-3-10>",
+    "2" : "s(Erina_Yamazaki) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11793",
+  "entityUrl" : "http://dbpedia.org/resource/Enzo_Squillino,_Jr.",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Enzo_Squillino,_Jr.) dbo:activeYearsStartYear o'<1988>",
+    "2" : "s(Enzo_Squillino,_Jr.) dbo:birthDate o'<1966-08-28>",
+    "3" : "s(Enzo_Squillino,_Jr.) dbo:birthDate o'<1976-8-28>",
+    "4" : "s(Enzo_Squillino,_Jr.) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "5" : "s(Enzo_Squillino,_Jr.) dbo:birthPlace o'<England>",
+    "6" : "s(Enzo_Squillino,_Jr.) dbo:birthPlace o'<Sheffield>",
+    "7" : "s(Enzo_Squillino,_Jr.) dbo:birthPlace o'<United_Kingdom>",
+    "8" : "s(Enzo_Squillino,_Jr.) dbo:birthYear o'<1966>",
+    "9" : "s(Enzo_Squillino,_Jr.) dbo:country o'<England>",
+    "10" : "s(Enzo_Squillino,_Jr.) dbo:imdbId o'<0820076>",
+    "11" : "s(Enzo_Squillino,_Jr.) dbo:occupation o'<Enzo_Squillino,_Jr.__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(enzo squillino, jr.=Enzo_Squillino,_Jr.) [trained at mountview ] o'<london=United_Kingdom>",
+    "7" : "s(enzo squillino, jr.=Enzo_Squillino,_Jr.) [first gained fame for his ] o'<west=West_Riding_of_Yorkshire>"
+  },
+  "abstract" : {
+    "6" : "enzo squillino, jr.<Enzo_Squillino,_Jr.> was trained at the mountview theatre academy in london<United_Kingdom>\n",
+    "7" : "enzo squillino, jr.<Enzo_Squillino,_Jr.> first gained fame for his role in the west<West_Riding_of_Yorkshire> end musical buddy, the buddy holly story (1989) for over three years as '50s rock 'n' roll singer ritchie valens (of \"la bamba\" fame) - which gained him much critical acclaim - but enzo squillino, jr.<Enzo_Squillino,_Jr.> gained his reputation on screen as a dramatic & comic actor as cockney wide boy george andreotti in the hit television drama series the knock with over 30 episodes and top ratings in seasons i, ii, iii, iv (1994–2000) for granada lwt international\n"
+  }
+}, {
+  "entityIndex" : "entity11794",
+  "entityUrl" : "http://dbpedia.org/resource/Erina_Nakayama",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erina_Nakayama) dbo:birthDate o'<1987-3-17>",
+    "2" : "s(Erina_Nakayama) dbo:birthPlace o'<Aichi_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11795",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Baker-Duly",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Baker-Duly) dbo:birthDate o'<1977-0-0>",
+    "2" : "s(Edward_Baker-Duly) dbo:birthPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11796",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Bennett_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Bennett_(actress)) dbo:birthDate o'<1944-07-20>",
+    "2" : "s(Elizabeth_Bennett_(actress)) dbo:birthDate o'<1944-7-20>",
+    "3" : "s(Elizabeth_Bennett_(actress)) dbo:birthPlace o'<Yorkshire>",
+    "4" : "s(Elizabeth_Bennett_(actress)) dbo:birthYear o'<1944>",
+    "5" : "s(Elizabeth_Bennett_(actress)) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(elizabeth bennett (actress)=Elizabeth_Bennett_(actress)) [played enid thompson in ] o'<home=England>"
+  },
+  "abstract" : {
+    "5" : "elizabeth bennett (actress)<Elizabeth_Bennett_(actress)> also played \"enid thompson\" in the british situation comedy home<England> to roost and played \"enid tompkins\" in the us remake of the show you again\n"
+  }
+}, {
+  "entityIndex" : "entity11797",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Mason",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Mason) dbo:country o'<United_Kingdom>",
+    "2" : "s(Eric_Mason) dbo:deathDate o'<2010-6-7>",
+    "3" : "s(Eric_Mason) dbo:imdbId o'<0556702>",
+    "4" : "s(Eric_Mason) dbp:name o'<Eric Mason>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11798",
+  "entityUrl" : "http://dbpedia.org/resource/Eileen_Grubba",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eileen_Grubba) dbo:activeYearsStartYear o'<1991>",
+    "2" : "s(Eileen_Grubba) dbo:birthPlace o'<Anchorage,_Alaska>",
+    "3" : "s(Eileen_Grubba) dbo:occupation o'<Film>",
+    "4" : "s(Eileen_Grubba) dbo:occupation o'<Television>",
+    "5" : "s(Eileen_Grubba) dbp:birthPlace o'<Anchorage, Alaska, USA>",
+    "6" : "s(Eileen_Grubba) dbp:concern o'<Ill-sourced BLP of actor who doesn't appear to meet WP:NACTOR. RS coverage in GNews and GBooks is largely passing mentions.>",
+    "7" : "s(Eileen_Grubba) dbp:timestamp o'<20161019081056>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11799",
+  "entityUrl" : "http://dbpedia.org/resource/Eiko_Ando",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiko_Ando) dbo:activeYearsEndYear o'<1958>",
+    "2" : "s(Eiko_Ando) dbo:activeYearsStartYear o'<1958>",
+    "3" : "s(Eiko_Ando) dbo:birthDate o'<1934-05-08>",
+    "4" : "s(Eiko_Ando) dbo:birthDate o'<1934-5-8>",
+    "5" : "s(Eiko_Ando) dbo:birthPlace o'<Harbin>",
+    "6" : "s(Eiko_Ando) dbo:birthPlace o'<Manchukuo>",
+    "7" : "s(Eiko_Ando) dbo:birthYear o'<1934>",
+    "8" : "s(Eiko_Ando) dbo:country o'<Japan>",
+    "9" : "s(Eiko_Ando) dbo:imdbId o'<0027933>",
+    "10" : "s(Eiko_Ando) dbo:nationality o'<Japan>",
+    "11" : "s(Eiko_Ando) dbo:occupation o'<Actress>",
+    "12" : "s(Eiko_Ando) dbo:occupation o'<Eiko_Ando__1>",
+    "13" : "s(Eiko_Ando) dbo:stateOfOrigin o'<Japan>",
+    "14" : "s(Eiko_Ando) dbp:name o'<Eiko Ando>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(eiko ando=Eiko_Ando) [  and eiko born ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "1" : "eiko ando<Eiko_Ando> (安藤 永子 andō eiko, born may 8, 1934) was a japanese actress<Actress> best known for appearing opposite john wayne in the barbarian and the geisha in 1958"
+  }
+}, {
+  "entityIndex" : "entity11800",
+  "entityUrl" : "http://dbpedia.org/resource/Edvard_Persson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edvard_Persson) dbo:activeYearsEndYear o'<1956>",
+    "2" : "s(Edvard_Persson) dbo:activeYearsStartYear o'<1924>",
+    "3" : "s(Edvard_Persson) dbo:birthDate o'<1888-01-17>",
+    "4" : "s(Edvard_Persson) dbo:birthDate o'<1888-1-17>",
+    "5" : "s(Edvard_Persson) dbo:birthName o'<Carl Edvard Persson>",
+    "6" : "s(Edvard_Persson) dbo:birthPlace o'<Malmö>",
+    "7" : "s(Edvard_Persson) dbo:birthYear o'<1888>",
+    "8" : "s(Edvard_Persson) dbo:deathDate o'<1957-09-19>",
+    "9" : "s(Edvard_Persson) dbo:deathDate o'<1957-9-19>",
+    "10" : "s(Edvard_Persson) dbo:deathPlace o'<Jonstorp>",
+    "11" : "s(Edvard_Persson) dbo:deathYear o'<1957>",
+    "12" : "s(Edvard_Persson) dbo:imdbId o'<0675574>",
+    "13" : "s(Edvard_Persson) dbo:nationality o'<Sweden>",
+    "14" : "s(Edvard_Persson) dbo:occupation o'<Edvard_Persson__1>",
+    "15" : "s(Edvard_Persson) dbo:spouse o'<Mim_Persson>",
+    "16" : "s(Edvard_Persson) dbp:name o'<Edvard Persson>",
+    "17" : "s(Edvard_Persson) dbp:nationality o'<Swedish>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11801",
+  "entityUrl" : "http://dbpedia.org/resource/Erik_Strandmark",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erik_Strandmark) dbo:birthDate o'<1919-09-14>",
+    "2" : "s(Erik_Strandmark) dbo:birthDate o'<1919-9-14>",
+    "3" : "s(Erik_Strandmark) dbo:birthPlace o'<Torsåker,_Hofors>",
+    "4" : "s(Erik_Strandmark) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Erik_Strandmark) dbo:birthPlace o'<Torsåker_(Hofors_Municipality)>",
+    "6" : "s(Erik_Strandmark) dbo:deathDate o'<1963-01-05>",
+    "7" : "s(Erik_Strandmark) dbo:deathDate o'<1963-1-5>",
+    "8" : "s(Erik_Strandmark) dbo:deathPlace o'<Trinidad>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11802",
+  "entityUrl" : "http://dbpedia.org/resource/Erik_Hell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erik_Hell) dbo:activeYearsEndYear o'<1971>",
+    "2" : "s(Erik_Hell) dbo:activeYearsStartYear o'<1942>",
+    "3" : "s(Erik_Hell) dbo:birthDate o'<1911-08-11>",
+    "4" : "s(Erik_Hell) dbo:birthDate o'<1911-8-11>",
+    "5" : "s(Erik_Hell) dbo:birthPlace o'<Finland>",
+    "6" : "s(Erik_Hell) dbo:birthPlace o'<Kalliokoski>",
+    "7" : "s(Erik_Hell) dbo:birthYear o'<1911>",
+    "8" : "s(Erik_Hell) dbo:deathDate o'<1973-03-11>",
+    "9" : "s(Erik_Hell) dbo:deathDate o'<1973-3-11>",
+    "10" : "s(Erik_Hell) dbo:deathPlace o'<Solna_Municipality>",
+    "11" : "s(Erik_Hell) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Erik_Hell) dbo:deathYear o'<1973>",
+    "13" : "s(Erik_Hell) dbo:nationality o'<Sweden>",
+    "14" : "s(Erik_Hell) dbo:occupation o'<Erik_Hell__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(erik hell=Erik_Hell) [born in kalliokoski ] o'<finland=Finland>"
+  },
+  "abstract" : {
+    "2" : "erik hell<Erik_Hell> was born in kalliokoski, finland<Finland> and died in solna<Solna_Municipality>, sweden<Sweden>\n"
+  }
+}, {
+  "entityIndex" : "entity11803",
+  "entityUrl" : "http://dbpedia.org/resource/Emi_Hashino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emi_Hashino) dbo:birthDate o'<1973-10-23>",
+    "2" : "s(Emi_Hashino) dbo:birthPlace o'<Japan>",
+    "3" : "s(Emi_Hashino) dbo:birthPlace o'<Kagoshima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11804",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Chambers_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Chambers_(actress)) dbo:activeYearsEndYear o'<2004>",
+    "2" : "s(Elizabeth_Chambers_(actress)) dbo:activeYearsStartYear o'<1959>",
+    "3" : "s(Elizabeth_Chambers_(actress)) dbo:country o'<United_Kingdom>",
+    "4" : "s(Elizabeth_Chambers_(actress)) dbo:imdbId o'<0150323>",
+    "5" : "s(Elizabeth_Chambers_(actress)) dbo:occupation o'<Elizabeth_Chambers_(actress)__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11805",
+  "entityUrl" : "http://dbpedia.org/resource/Emily_Jewell",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emily_Jewell) dbo:activeYearsStartYear o'<2004>",
+    "2" : "s(Emily_Jewell) dbo:country o'<England>",
+    "3" : "s(Emily_Jewell) dbo:imdbId o'<2081856>",
+    "4" : "s(Emily_Jewell) dbo:occupation o'<Emily_Jewell__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11806",
+  "entityUrl" : "http://dbpedia.org/resource/Ellen_Chaplin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ellen_Chaplin) dbo:birthDate o'<1822-1-1>",
+    "2" : "s(Ellen_Chaplin) dbo:country o'<England>",
+    "3" : "s(Ellen_Chaplin) dbo:deathDate o'<1880-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11807",
+  "entityUrl" : "http://dbpedia.org/resource/Eileen_Yeow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eileen_Yeow) dbo:birthDate o'<1972-1-4>",
+    "2" : "s(Eileen_Yeow) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11808",
+  "entityUrl" : "http://dbpedia.org/resource/Eva_Sayer",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eva_Sayer) dbo:birthDate o'<1997-01-31>",
+    "2" : "s(Eva_Sayer) dbo:birthDate o'<1997-1-31>",
+    "3" : "s(Eva_Sayer) dbo:birthPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11809",
+  "entityUrl" : "http://dbpedia.org/resource/Emmanuel_Jacomy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emmanuel_Jacomy) dbo:birthDate o'<1960-1-11>",
+    "2" : "s(Emmanuel_Jacomy) dbo:birthPlace o'<Dijon>",
+    "3" : "s(Emmanuel_Jacomy) dbp:name o'<Emmanuel Jacomy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11810",
+  "entityUrl" : "http://dbpedia.org/resource/Elaine_Yiu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elaine_Yiu) dbo:birthDate o'<1980-11-21>",
+    "2" : "s(Elaine_Yiu) dbp:birthPlace o'<British_Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11811",
+  "entityUrl" : "http://dbpedia.org/resource/Eileen_Percy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eileen_Percy) dbo:birthDate o'<1900-08-21>",
+    "2" : "s(Eileen_Percy) dbo:birthDate o'<1900-8-21>",
+    "3" : "s(Eileen_Percy) dbo:birthPlace o'<Belfast>",
+    "4" : "s(Eileen_Percy) dbo:deathDate o'<1973-07-29>",
+    "5" : "s(Eileen_Percy) dbo:deathDate o'<1973-7-29>",
+    "6" : "s(Eileen_Percy) dbo:deathPlace o'<Los_Angeles>",
+    "7" : "s(Eileen_Percy) dbo:deathPlace o'<Los_Angeles,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11812",
+  "entityUrl" : "http://dbpedia.org/resource/Eiji_Funakoshi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiji_Funakoshi) dbo:birthDate o'<1923-03-17>",
+    "2" : "s(Eiji_Funakoshi) dbo:birthDate o'<1923-3-17>",
+    "3" : "s(Eiji_Funakoshi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Eiji_Funakoshi) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Eiji_Funakoshi) dbo:deathDate o'<2007-03-17>",
+    "6" : "s(Eiji_Funakoshi) dbo:deathDate o'<2007-3-17>",
+    "7" : "s(Eiji_Funakoshi) dbo:deathPlace o'<Shizuoka,_Shizuoka>",
+    "8" : "s(Eiji_Funakoshi) dbo:deathPlace o'<Shizuoka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11813",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Kot",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Kot) dbo:birthDate o'<1966-12-30>",
+    "2" : "s(Eric_Kot) dbp:birthPlace o'<Hong Kong>",
+    "3" : "s(Eric_Kot) dbp:name o'<Eric Kot>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11814",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Woodall",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Woodall) dbo:birthDate o'<1967-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11815",
+  "entityUrl" : "http://dbpedia.org/resource/Eiichi_Kikuchi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiichi_Kikuchi) dbo:birthDate o'<1942-8-21>",
+    "2" : "s(Eiichi_Kikuchi) dbo:birthPlace o'<Q11606408>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11816",
+  "entityUrl" : "http://dbpedia.org/resource/Everley_Gregg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Everley_Gregg) dbo:birthDate o'<1903-10-26>",
+    "2" : "s(Everley_Gregg) dbo:deathDate o'<1959-6-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11817",
+  "entityUrl" : "http://dbpedia.org/resource/Edmund_Chen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edmund_Chen) dbo:birthDate o'<1961-2-4>",
+    "2" : "s(Edmund_Chen) dbo:birthPlace o'<Singapore>",
+    "3" : "s(Edmund_Chen) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11818",
+  "entityUrl" : "http://dbpedia.org/resource/Eva_R%C3%B6se",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11819",
+  "entityUrl" : "http://dbpedia.org/resource/Edvin_Adolphson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edvin_Adolphson) dbo:birthDate o'<1893-02-25>",
+    "2" : "s(Edvin_Adolphson) dbo:birthDate o'<1893-2-25>",
+    "3" : "s(Edvin_Adolphson) dbo:birthName o'<Gustav Edvin Adolphson>",
+    "4" : "s(Edvin_Adolphson) dbo:birthPlace o'<Norrköping_Municipality>",
+    "5" : "s(Edvin_Adolphson) dbo:birthPlace o'<Östergötland_County>",
+    "6" : "s(Edvin_Adolphson) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Edvin_Adolphson) dbo:birthYear o'<1893>",
+    "8" : "s(Edvin_Adolphson) dbo:deathDate o'<1979-10-31>",
+    "9" : "s(Edvin_Adolphson) dbo:deathPlace o'<Solna_Municipality>",
+    "10" : "s(Edvin_Adolphson) dbo:deathYear o'<1979>",
+    "11" : "s(Edvin_Adolphson) dbo:nationality o'<Sweden>",
+    "12" : "s(Edvin_Adolphson) dbo:occupation o'<Edvin_Adolphson__1>",
+    "13" : "s(Edvin_Adolphson) dbo:stateOfOrigin o'<Sweden>",
+    "14" : "s(Edvin_Adolphson) dbp:imageSize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11820",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Ou",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Ou) dbo:birthDate o'<1980-10-16>",
+    "2" : "s(Edward_Ou) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Edward_Ou) dbp:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11821",
+  "entityUrl" : "http://dbpedia.org/resource/Eitar%C5%8D_Shind%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11822",
+  "entityUrl" : "http://dbpedia.org/resource/Elof_Ahrle",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elof_Ahrle) dbo:birthDate o'<1900-01-21>",
+    "2" : "s(Elof_Ahrle) dbo:birthDate o'<1900-1-21>",
+    "3" : "s(Elof_Ahrle) dbo:birthPlace o'<Nyköping>",
+    "4" : "s(Elof_Ahrle) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Elof_Ahrle) dbo:deathDate o'<1965-06-03>",
+    "6" : "s(Elof_Ahrle) dbo:deathDate o'<1965-6-3>",
+    "7" : "s(Elof_Ahrle) dbo:deathPlace o'<Sollentuna_Municipality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11823",
+  "entityUrl" : "http://dbpedia.org/resource/Elliot_Ngok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elliot_Ngok) dbo:birthDate o'<1942-7-13>",
+    "2" : "s(Elliot_Ngok) dbp:birthPlace o'<China>",
+    "3" : "s(Elliot_Ngok) dbp:birthPlace o'<Shanghai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11824",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Hare",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ernest_Hare) dbo:birthDate o'<1900-12-5>",
+    "2" : "s(Ernest_Hare) dbo:deathDate o'<1981-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11825",
+  "entityUrl" : "http://dbpedia.org/resource/Ernst_Eklund_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ernst_Eklund_(actor)) dbo:activeYearsEndYear o'<1962>",
+    "2" : "s(Ernst_Eklund_(actor)) dbo:activeYearsStartYear o'<1914>",
+    "3" : "s(Ernst_Eklund_(actor)) dbo:birthDate o'<1882-08-06>",
+    "4" : "s(Ernst_Eklund_(actor)) dbo:birthDate o'<1882-8-6>",
+    "5" : "s(Ernst_Eklund_(actor)) dbo:birthPlace o'<Östervåla>",
+    "6" : "s(Ernst_Eklund_(actor)) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Ernst_Eklund_(actor)) dbo:birthYear o'<1882>",
+    "8" : "s(Ernst_Eklund_(actor)) dbo:deathDate o'<1971-08-03>",
+    "9" : "s(Ernst_Eklund_(actor)) dbo:deathDate o'<1971-8-3>",
+    "10" : "s(Ernst_Eklund_(actor)) dbo:deathPlace o'<Stockholm>",
+    "11" : "s(Ernst_Eklund_(actor)) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Ernst_Eklund_(actor)) dbo:deathYear o'<1971>",
+    "13" : "s(Ernst_Eklund_(actor)) dbo:nationality o'<Sweden>",
+    "14" : "s(Ernst_Eklund_(actor)) dbo:occupation o'<Ernst_Eklund_(actor)__1>",
+    "15" : "s(Ernst_Eklund_(actor)) dbo:occupation o'<Theatre_director>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11826",
+  "entityUrl" : "http://dbpedia.org/resource/Erik_Ros%C3%A9n",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11827",
+  "entityUrl" : "http://dbpedia.org/resource/Eve_Matheson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eve_Matheson) dbo:birthDate o'<1960-1-1>",
+    "2" : "s(Eve_Matheson) dbo:birthName o'<Eve Elisabeth Matheson>",
+    "3" : "s(Eve_Matheson) dbo:birthPlace o'<England>",
+    "4" : "s(Eve_Matheson) dbo:birthPlace o'<London>",
+    "5" : "s(Eve_Matheson) dbo:birthPlace o'<Hammersmith>",
+    "6" : "s(Eve_Matheson) dbo:birthYear o'<1960>",
+    "7" : "s(Eve_Matheson) dbo:country o'<United_Kingdom>",
+    "8" : "s(Eve_Matheson) dbo:occupation o'<Eve_Matheson__1>",
+    "9" : "s(Eve_Matheson) dbo:spouse o'<Phil_Davis_(actor)>",
+    "10" : "s(Eve_Matheson) dbp:children o'<1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11828",
+  "entityUrl" : "http://dbpedia.org/resource/Elsie_Albiin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elsie_Albiin) dbo:birthDate o'<1921-12-17>",
+    "2" : "s(Elsie_Albiin) dbo:deathDate o'<2009-4-3>",
+    "3" : "s(Elsie_Albiin) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11829",
+  "entityUrl" : "http://dbpedia.org/resource/Emmanuel_Mouret",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emmanuel_Mouret) dbo:birthDate o'<1970-06-30>",
+    "2" : "s(Emmanuel_Mouret) dbo:birthDate o'<1970-6-30>",
+    "3" : "s(Emmanuel_Mouret) dbo:birthPlace o'<Marseille>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11830",
+  "entityUrl" : "http://dbpedia.org/resource/Edwin_Siu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edwin_Siu) dbo:birthDate o'<1977-3-23>",
+    "2" : "s(Edwin_Siu) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11831",
+  "entityUrl" : "http://dbpedia.org/resource/Ellesmere_Choi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ellesmere_Choi) dbo:birthDate o'<1969-12-28>",
+    "2" : "s(Ellesmere_Choi) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11832",
+  "entityUrl" : "http://dbpedia.org/resource/Eelyn_Kok",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eelyn_Kok) dbo:birthDate o'<1978-8-12>",
+    "2" : "s(Eelyn_Kok) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11833",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Wallace_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Wallace_(actor)) dbo:wikiPageRedirects o'<Elizabeth_Wallace_(actress)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11834",
+  "entityUrl" : "http://dbpedia.org/resource/Elanne_Kong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elanne_Kong) dbo:birthDate o'<1987-9-30>",
+    "2" : "s(Elanne_Kong) dbo:birthPlace o'<Xiamen>",
+    "3" : "s(Elanne_Kong) dbp:birthPlace o'<Xiamen>",
+    "4" : "s(Elanne_Kong) dbp:birthPlace o'<Fujian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11835",
+  "entityUrl" : "http://dbpedia.org/resource/Erica_Yuen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erica_Yuen) dbo:birthDate o'<1980-09-28>",
+    "2" : "s(Erica_Yuen) dbo:birthDate o'<1980-9-28>",
+    "3" : "s(Erica_Yuen) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11836",
+  "entityUrl" : "http://dbpedia.org/resource/Elin_Klinga",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elin_Klinga) dbo:birthDate o'<1969-8-13>",
+    "2" : "s(Elin_Klinga) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11837",
+  "entityUrl" : "http://dbpedia.org/resource/Evergreen_Mak_Cheung-ching",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Evergreen_Mak_Cheung-ching) dbo:birthDate o'<1967-12-18>",
+    "2" : "s(Evergreen_Mak_Cheung-ching) dbp:birthPlace o'<China>",
+    "3" : "s(Evergreen_Mak_Cheung-ching) dbp:birthPlace o'<Guangdong>",
+    "4" : "s(Evergreen_Mak_Cheung-ching) dbp:birthPlace o'<Shunde>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11838",
+  "entityUrl" : "http://dbpedia.org/resource/Edith_Ker",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edith_Ker) dbo:birthDate o'<1910-1-1>",
+    "2" : "s(Edith_Ker) dbo:birthPlace o'<Brest,_France>",
+    "3" : "s(Edith_Ker) dbo:deathDate o'<1997-1-1>",
+    "4" : "s(Edith_Ker) dbo:deathPlace o'<Draveil>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11839",
+  "entityUrl" : "http://dbpedia.org/resource/Eri_Ishida",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eri_Ishida) dbo:birthDate o'<1960-11-09>",
+    "2" : "s(Eri_Ishida) dbo:birthDate o'<1960-11-9>",
+    "3" : "s(Eri_Ishida) dbo:birthPlace o'<Yatsushiro,_Kumamoto>",
+    "4" : "s(Eri_Ishida) dbo:birthPlace o'<Japan>",
+    "5" : "s(Eri_Ishida) dbo:birthPlace o'<Kumamoto_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11840",
+  "entityUrl" : "http://dbpedia.org/resource/Emil_Forselius",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emil_Forselius) dbo:birthDate o'<1974-11-23>",
+    "2" : "s(Emil_Forselius) dbo:birthPlace o'<Västervik>",
+    "3" : "s(Emil_Forselius) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Emil_Forselius) dbo:deathDate o'<2010-03-01>",
+    "5" : "s(Emil_Forselius) dbo:deathDate o'<2010-3-1>",
+    "6" : "s(Emil_Forselius) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Emil_Forselius) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11841",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Sefton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ernest_Sefton) dbo:activeYearsEndYear o'<1946>",
+    "2" : "s(Ernest_Sefton) dbo:activeYearsStartYear o'<1932>",
+    "3" : "s(Ernest_Sefton) dbo:birthDate o'<1883-01-13>",
+    "4" : "s(Ernest_Sefton) dbo:birthDate o'<1883-1-13>",
+    "5" : "s(Ernest_Sefton) dbo:birthName o'<Ernest Henry Tipton>",
+    "6" : "s(Ernest_Sefton) dbo:birthPlace o'<London>",
+    "7" : "s(Ernest_Sefton) dbo:birthPlace o'<United_Kingdom>",
+    "8" : "s(Ernest_Sefton) dbo:birthPlace o'<London_Borough_of_Hackney>",
+    "9" : "s(Ernest_Sefton) dbo:birthYear o'<1883>",
+    "10" : "s(Ernest_Sefton) dbo:deathDate o'<1954-12-05>",
+    "11" : "s(Ernest_Sefton) dbo:deathDate o'<1954-12-5>",
+    "12" : "s(Ernest_Sefton) dbo:deathPlace o'<Surrey>",
+    "13" : "s(Ernest_Sefton) dbo:deathYear o'<1954>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11842",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Lexy",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Lexy) dbo:birthDate o'<1897-02-18>",
+    "2" : "s(Edward_Lexy) dbo:birthDate o'<1897-2-18>",
+    "3" : "s(Edward_Lexy) dbo:birthPlace o'<London>",
+    "4" : "s(Edward_Lexy) dbo:deathDate o'<1970-01-31>",
+    "5" : "s(Edward_Lexy) dbo:deathDate o'<1970-1-31>",
+    "6" : "s(Edward_Lexy) dbo:deathPlace o'<County_Dublin>",
+    "7" : "s(Edward_Lexy) dbo:deathPlace o'<Dublin>",
+    "8" : "s(Edward_Lexy) dbo:deathPlace o'<Republic_of_Ireland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11843",
+  "entityUrl" : "http://dbpedia.org/resource/Eiko_Nagashima",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiko_Nagashima) dbo:birthDate o'<1955-7-28>",
+    "2" : "s(Eiko_Nagashima) dbo:birthPlace o'<Kumamoto_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11844",
+  "entityUrl" : "http://dbpedia.org/resource/Elvis_Tsui",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elvis_Tsui) dbo:birthDate o'<1961-10-13>",
+    "2" : "s(Elvis_Tsui) dbo:birthPlace o'<Mudanjiang>",
+    "3" : "s(Elvis_Tsui) dbp:birthPlace o'<Heilongjiang>",
+    "4" : "s(Elvis_Tsui) dbp:birthPlace o'<China>",
+    "5" : "s(Elvis_Tsui) dbp:birthPlace o'<Mudanjiang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11845",
+  "entityUrl" : "http://dbpedia.org/resource/Ellen_Pollock",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ellen_Pollock) dbo:birthDate o'<1902-06-29>",
+    "2" : "s(Ellen_Pollock) dbo:birthDate o'<1902-6-29>",
+    "3" : "s(Ellen_Pollock) dbo:birthPlace o'<German_Empire>",
+    "4" : "s(Ellen_Pollock) dbo:birthPlace o'<Heidelberg>",
+    "5" : "s(Ellen_Pollock) dbo:birthYear o'<1902>",
+    "6" : "s(Ellen_Pollock) dbo:deathDate o'<1997-03-29>",
+    "7" : "s(Ellen_Pollock) dbo:deathDate o'<1997-3-29>",
+    "8" : "s(Ellen_Pollock) dbo:deathPlace o'<England>",
+    "9" : "s(Ellen_Pollock) dbo:deathPlace o'<London>",
+    "10" : "s(Ellen_Pollock) dbo:deathYear o'<1997>",
+    "11" : "s(Ellen_Pollock) dbo:nationality o'<United_Kingdom>",
+    "12" : "s(Ellen_Pollock) dbo:occupation o'<Ellen_Pollock__1>",
+    "13" : "s(Ellen_Pollock) dbo:stateOfOrigin o'<United_Kingdom>",
+    "14" : "s(Ellen_Pollock) dbp:children o'<1>",
+    "15" : "s(Ellen_Pollock) dbp:spouse o'<James Proudfoot>",
+    "16" : "s(Ellen_Pollock) dbp:spouse o'<Leslie Hancock>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(ellen pollock=Ellen_Pollock) [directed ] o'<london=LONDON>"
+  },
+  "abstract" : {
+    "5" : "ellen pollock<Ellen_Pollock> directed london<LONDON> seasons of his plays; and it was during the london<LONDON> premiere of one of his lesser-known works – farfetched fables (watergate, 1950) – that ellen pollock<Ellen_Pollock> announced shaw's death from the stage\n"
+  }
+}, {
+  "entityIndex" : "entity11846",
+  "entityUrl" : "http://dbpedia.org/resource/Elarica_Gallacher",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elarica_Gallacher) dbo:birthDate o'<1989-8-21>",
+    "2" : "s(Elarica_Gallacher) dbo:birthPlace o'<London>",
+    "3" : "s(Elarica_Gallacher) dbp:name o'<Elarica Gallacher>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11847",
+  "entityUrl" : "http://dbpedia.org/resource/Ernst_G%C3%BCnther",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11848",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Younger",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Younger) dbo:birthDate o'<1699-9-2>",
+    "2" : "s(Elizabeth_Younger) dbo:country o'<England>",
+    "3" : "s(Elizabeth_Younger) dbo:deathDate o'<1762-11-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11849",
+  "entityUrl" : "http://dbpedia.org/resource/Eve_Gray",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eve_Gray) dbo:birthDate o'<1900-11-27>",
+    "2" : "s(Eve_Gray) dbo:birthPlace o'<Handsworth,_West_Midlands>",
+    "3" : "s(Eve_Gray) dbo:birthPlace o'<West_Bromwich>",
+    "4" : "s(Eve_Gray) dbo:birthPlace o'<Staffordshire>",
+    "5" : "s(Eve_Gray) dbo:deathDate o'<1983-05-23>",
+    "6" : "s(Eve_Gray) dbo:deathDate o'<1983-5-23>",
+    "7" : "s(Eve_Gray) dbo:deathPlace o'<Mere,_Wiltshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11850",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Li_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Li_(actor)) dbo:birthDate o'<1976-11-10>",
+    "2" : "s(Eric_Li_(actor)) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11851",
+  "entityUrl" : "http://dbpedia.org/resource/Eri_Imai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eri_Imai) dbo:birthDate o'<1971-1-1>",
+    "2" : "s(Eri_Imai) dbo:birthPlace o'<Yawata,_Kyoto>",
+    "3" : "s(Eri_Imai) dbp:name o'<Eri Imai>",
+    "4" : "s(Eri_Imai) dbp:name o'<今井恵理>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11852",
+  "entityUrl" : "http://dbpedia.org/resource/Emily_Chu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emily_Chu) dbo:birthDate o'<1960-10-31>",
+    "2" : "s(Emily_Chu) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Emily_Chu) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Emily_Chu) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11853",
+  "entityUrl" : "http://dbpedia.org/resource/Eugene_Simon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eugene_Simon) dbo:birthDate o'<1992-06-11>",
+    "2" : "s(Eugene_Simon) dbo:birthDate o'<1992-6-11>",
+    "3" : "s(Eugene_Simon) dbo:birthPlace o'<England>",
+    "4" : "s(Eugene_Simon) dbp:birthPlace o'<UK>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11854",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Jewesbury",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Jewesbury) dbo:birthDate o'<1917-8-6>",
+    "2" : "s(Edward_Jewesbury) dbo:country o'<England>",
+    "3" : "s(Edward_Jewesbury) dbo:deathDate o'<2002-1-30>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(edward jewesbury=Edward_Jewesbury) [appeared in richard iii ] o'<england=England>"
+  },
+  "abstract" : {
+    "3" : "in 1995 edward jewesbury<Edward_Jewesbury> appeared in richard iii as king henry vi of england<England>\n"
+  }
+}, {
+  "entityIndex" : "entity11855",
+  "entityUrl" : "http://dbpedia.org/resource/Eri_Fukatsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eri_Fukatsu) dbo:birthDate o'<1973-01-11>",
+    "2" : "s(Eri_Fukatsu) dbo:birthDate o'<1973-1-11>",
+    "3" : "s(Eri_Fukatsu) dbo:birthPlace o'<Japan>",
+    "4" : "s(Eri_Fukatsu) dbo:birthPlace o'<Ōita_Prefecture>",
+    "5" : "s(Eri_Fukatsu) dbo:birthPlace o'<Ōita,_Ōita>",
+    "6" : "s(Eri_Fukatsu) dbo:height o'<156.0>",
+    "7" : "s(Eri_Fukatsu) dbp:name o'<Eri Fukatsu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11856",
+  "entityUrl" : "http://dbpedia.org/resource/Eileen_Moore",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eileen_Moore) dbo:birthDate o'<1932-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11857",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Butcher",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ernest_Butcher) dbo:birthDate o'<1885-04-07>",
+    "2" : "s(Ernest_Butcher) dbo:birthDate o'<1885-4-7>",
+    "3" : "s(Ernest_Butcher) dbo:birthPlace o'<Burnley>",
+    "4" : "s(Ernest_Butcher) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Ernest_Butcher) dbo:deathDate o'<1965-06-08>",
+    "6" : "s(Ernest_Butcher) dbo:deathDate o'<1965-6-8>",
+    "7" : "s(Ernest_Butcher) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11858",
+  "entityUrl" : "http://dbpedia.org/resource/Edgar_Driver",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edgar_Driver) dbo:birthDate o'<1885-1-1>",
+    "2" : "s(Edgar_Driver) dbo:deathDate o'<1964-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11859",
+  "entityUrl" : "http://dbpedia.org/resource/Ernie_Lotinga",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ernie_Lotinga) dbo:birthDate o'<1876-1-1>",
+    "2" : "s(Ernie_Lotinga) dbo:deathDate o'<1951-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11860",
+  "entityUrl" : "http://dbpedia.org/resource/Edith_Sharpe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edith_Sharpe) dbo:birthDate o'<1893-1-1>",
+    "2" : "s(Edith_Sharpe) dbo:birthPlace o'<London>",
+    "3" : "s(Edith_Sharpe) dbo:deathDate o'<1984-1-1>",
+    "4" : "s(Edith_Sharpe) dbo:deathPlace o'<Harrow_on_the_Hill>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11861",
+  "entityUrl" : "http://dbpedia.org/resource/Eivor_Landstr%C3%B6m",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11862",
+  "entityUrl" : "http://dbpedia.org/resource/Elsa_Tee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elsa_Tee) dbo:birthDate o'<1917-1-1>",
+    "2" : "s(Elsa_Tee) dbo:deathDate o'<2006-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11863",
+  "entityUrl" : "http://dbpedia.org/resource/Elliot_Levey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elliot_Levey) dbo:birthPlace o'<Leeds>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11864",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Hales",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Hales) dbo:birthDate o'<1901-1-1>",
+    "2" : "s(Eric_Hales) dbo:deathDate o'<1993-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11865",
+  "entityUrl" : "http://dbpedia.org/resource/Edgar_Norfolk",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edgar_Norfolk) dbo:birthDate o'<1893-1-1>",
+    "2" : "s(Edgar_Norfolk) dbo:deathDate o'<1980-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11866",
+  "entityUrl" : "http://dbpedia.org/resource/Esme_Hubbard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Esme_Hubbard) dbo:birthDate o'<1880-0-0>",
+    "2" : "s(Esme_Hubbard) dbo:deathDate o'<1951-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11867",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_A._Douglas",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11868",
+  "entityUrl" : "http://dbpedia.org/resource/Erika_Okuda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Erika_Okuda) dbo:birthDate o'<1981-2-24>",
+    "2" : "s(Erika_Okuda) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11869",
+  "entityUrl" : "http://dbpedia.org/resource/Eileen_Magrath",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11870",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Bransby_Williams",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Bransby_Williams) dbo:birthDate o'<1900-1-1>",
+    "2" : "s(Eric_Bransby_Williams) dbo:birthPlace o'<London>",
+    "3" : "s(Eric_Bransby_Williams) dbo:deathDate o'<1994-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11871",
+  "entityUrl" : "http://dbpedia.org/resource/Elena_Kong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elena_Kong) dbo:birthDate o'<1971-9-20>",
+    "2" : "s(Elena_Kong) dbo:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11872",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_O'Neill_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_O'Neill_(actor)) dbo:birthDate o'<1867-1-1>",
+    "2" : "s(Edward_O'Neill_(actor)) dbo:birthPlace o'<Mumbai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11873",
+  "entityUrl" : "http://dbpedia.org/resource/Eve_Balfour_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eve_Balfour_(actress)) dbo:birthDate o'<1895-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11874",
+  "entityUrl" : "http://dbpedia.org/resource/Edna_Davies",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edna_Davies) dbo:birthDate o'<1905-1-1>",
+    "2" : "s(Edna_Davies) dbo:deathDate o'<1969-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11875",
+  "entityUrl" : "http://dbpedia.org/resource/Eglantine_Rembauville",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eglantine_Rembauville) dbo:birthDate o'<1981-1-1>",
+    "2" : "s(Eglantine_Rembauville) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11876",
+  "entityUrl" : "http://dbpedia.org/resource/Eddie_Axberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eddie_Axberg) dbo:birthDate o'<1947-07-09>",
+    "2" : "s(Eddie_Axberg) dbo:birthDate o'<1947-7-9>",
+    "3" : "s(Eddie_Axberg) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Eddie_Axberg) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11877",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Sorley",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11878",
+  "entityUrl" : "http://dbpedia.org/resource/Elsie_Wagstaff",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elsie_Wagstaff) dbo:birthDate o'<1899-07-01>",
+    "2" : "s(Elsie_Wagstaff) dbo:birthDate o'<1899-7-1>",
+    "3" : "s(Elsie_Wagstaff) dbo:birthPlace o'<Essex>",
+    "4" : "s(Elsie_Wagstaff) dbo:birthPlace o'<Kensington>",
+    "5" : "s(Elsie_Wagstaff) dbo:birthPlace o'<Leytonstone>",
+    "6" : "s(Elsie_Wagstaff) dbo:deathDate o'<1985-07-16>",
+    "7" : "s(Elsie_Wagstaff) dbo:deathDate o'<1985-7-1>",
+    "8" : "s(Elsie_Wagstaff) dbo:deathPlace o'<London>",
+    "9" : "s(Elsie_Wagstaff) dbo:deathPlace o'<Kensington>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11879",
+  "entityUrl" : "http://dbpedia.org/resource/Eriko_Nakamura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eriko_Nakamura) dbo:birthDate o'<1981-11-19>",
+    "2" : "s(Eriko_Nakamura) dbo:birthDate o'<1988-9-14>",
+    "3" : "s(Eriko_Nakamura) dbo:birthPlace o'<Saitama,_Saitama>",
+    "4" : "s(Eriko_Nakamura) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "5" : "s(Eriko_Nakamura) dbo:birthPlace o'<Yokohama>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11880",
+  "entityUrl" : "http://dbpedia.org/resource/Eddie_Leslie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eddie_Leslie) dbo:birthDate o'<1894-6-22>",
+    "2" : "s(Eddie_Leslie) dbo:deathDate o'<1975-7-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11881",
+  "entityUrl" : "http://dbpedia.org/resource/Eva_Funck",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eva_Funck) dbo:birthDate o'<1956-5-28>",
+    "2" : "s(Eva_Funck) dbo:birthPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11882",
+  "entityUrl" : "http://dbpedia.org/resource/Eitaro_Ozawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eitaro_Ozawa) dbo:birthDate o'<1909-03-27>",
+    "2" : "s(Eitaro_Ozawa) dbo:birthDate o'<1909-3-27>",
+    "3" : "s(Eitaro_Ozawa) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Eitaro_Ozawa) dbo:deathDate o'<1988-04-23>",
+    "5" : "s(Eitaro_Ozawa) dbo:deathDate o'<1988-4-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11883",
+  "entityUrl" : "http://dbpedia.org/resource/Eliza_Sam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eliza_Sam) dbo:birthDate o'<1984-11-17>",
+    "2" : "s(Eliza_Sam) dbp:birthPlace o'<British_Columbia>",
+    "3" : "s(Eliza_Sam) dbp:birthPlace o'<Vancouver>",
+    "4" : "s(Eliza_Sam) dbp:birthPlace o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11884",
+  "entityUrl" : "http://dbpedia.org/resource/Evelyn_Tan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Evelyn_Tan) dbo:birthDate o'<1976-10-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11885",
+  "entityUrl" : "http://dbpedia.org/resource/Ellen_Andr%C3%A9e",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11886",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Barclay",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Barclay) dbo:birthDate o'<1894-11-17>",
+    "2" : "s(Eric_Barclay) dbo:birthPlace o'<Sweden>",
+    "3" : "s(Eric_Barclay) dbo:birthPlace o'<Lilla_Malma>",
+    "4" : "s(Eric_Barclay) dbo:deathDate o'<1938-01-14>",
+    "5" : "s(Eric_Barclay) dbo:deathDate o'<1938-1-14>",
+    "6" : "s(Eric_Barclay) dbo:deathPlace o'<Bälinge,_Uppsala_Municipality>",
+    "7" : "s(Eric_Barclay) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11887",
+  "entityUrl" : "http://dbpedia.org/resource/Earl_Rhodes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Earl_Rhodes) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11888",
+  "entityUrl" : "http://dbpedia.org/resource/Elaiza_Ikeda",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elaiza_Ikeda) dbo:birthDate o'<1996-04-16>",
+    "2" : "s(Elaiza_Ikeda) dbo:birthDate o'<1996-4-16>",
+    "3" : "s(Elaiza_Ikeda) dbo:birthPlace o'<Fukuoka_Prefecture>",
+    "4" : "s(Elaiza_Ikeda) dbo:height o'<171.0>",
+    "5" : "s(Elaiza_Ikeda) dbp:birthPlace o'<Philippines>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11889",
+  "entityUrl" : "http://dbpedia.org/resource/Eiji_Miyashita",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eiji_Miyashita) dbo:birthDate o'<1978-09-26>",
+    "2" : "s(Eiji_Miyashita) dbo:birthDate o'<1978-9-26>",
+    "3" : "s(Eiji_Miyashita) dbo:birthPlace o'<Japan>",
+    "4" : "s(Eiji_Miyashita) dbo:birthPlace o'<Hyōgo_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11890",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Burnham",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edward_Burnham) dbo:birthDate o'<1916-12-25>",
+    "2" : "s(Edward_Burnham) dbo:birthPlace o'<England>",
+    "3" : "s(Edward_Burnham) dbo:birthPlace o'<Stafford>",
+    "4" : "s(Edward_Burnham) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "5" : "s(Edward_Burnham) dbo:deathDate o'<2015-06-30>",
+    "6" : "s(Edward_Burnham) dbo:deathDate o'<2015-6-30>",
+    "7" : "s(Edward_Burnham) dbo:deathPlace o'<England>",
+    "8" : "s(Edward_Burnham) dbo:deathPlace o'<West_Sussex>",
+    "9" : "s(Edward_Burnham) dbo:deathPlace o'<Chelwood_Gate>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11891",
+  "entityUrl" : "http://dbpedia.org/resource/Elliott_Mason",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elliott_Mason) dbo:birthDate o'<1888-1-1>",
+    "2" : "s(Elliott_Mason) dbo:birthPlace o'<Scotland>",
+    "3" : "s(Elliott_Mason) dbo:birthPlace o'<Glasgow>",
+    "4" : "s(Elliott_Mason) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "5" : "s(Elliott_Mason) dbo:deathDate o'<1949-06-20>",
+    "6" : "s(Elliott_Mason) dbo:deathDate o'<1949-6-20>",
+    "7" : "s(Elliott_Mason) dbo:deathPlace o'<England>",
+    "8" : "s(Elliott_Mason) dbo:deathPlace o'<Lingfield,_Surrey>",
+    "9" : "s(Elliott_Mason) dbo:deathPlace o'<Surrey>",
+    "10" : "s(Elliott_Mason) dbo:deathPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11892",
+  "entityUrl" : "http://dbpedia.org/resource/Emil_Fjellstr%C3%B6m",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11893",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Knight",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Elizabeth_Knight) dbo:imdbId o'<0460891>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11894",
+  "entityUrl" : "http://dbpedia.org/resource/Emily_Baldoni",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Emily_Baldoni) dbo:birthDate o'<1984-08-03>",
+    "2" : "s(Emily_Baldoni) dbo:birthDate o'<1984-8-3>",
+    "3" : "s(Emily_Baldoni) dbo:birthPlace o'<Uppsala>",
+    "4" : "s(Emily_Baldoni) dbo:birthPlace o'<Uppsala_County>",
+    "5" : "s(Emily_Baldoni) dbo:birthPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11895",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Abrahamsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Eric_Abrahamsson) dbo:activeYearsEndYear o'<1942>",
+    "2" : "s(Eric_Abrahamsson) dbo:activeYearsStartYear o'<1917>",
+    "3" : "s(Eric_Abrahamsson) dbo:birthDate o'<1890-04-13>",
+    "4" : "s(Eric_Abrahamsson) dbo:birthDate o'<1890-4-13>",
+    "5" : "s(Eric_Abrahamsson) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Eric_Abrahamsson) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Eric_Abrahamsson) dbo:birthYear o'<1890>",
+    "8" : "s(Eric_Abrahamsson) dbo:deathDate o'<1942-11-03>",
+    "9" : "s(Eric_Abrahamsson) dbo:deathDate o'<1942-11-3>",
+    "10" : "s(Eric_Abrahamsson) dbo:deathPlace o'<Stockholm>",
+    "11" : "s(Eric_Abrahamsson) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Eric_Abrahamsson) dbo:deathYear o'<1942>",
+    "13" : "s(Eric_Abrahamsson) dbo:imdbId o'<0009061>",
+    "14" : "s(Eric_Abrahamsson) dbo:nationality o'<Sweden>",
+    "15" : "s(Eric_Abrahamsson) dbo:occupation o'<Comedian>",
+    "16" : "s(Eric_Abrahamsson) dbo:occupation o'<Eric_Abrahamsson__1>",
+    "17" : "s(Eric_Abrahamsson) dbo:occupation o'<Actor>",
+    "18" : "s(Eric_Abrahamsson) dbp:name o'<Eric Abrahamsson>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(eric abrahamsson=Eric_Abrahamsson) [often worked with fellow ] o'<comedian=Comedian>"
+  },
+  "abstract" : {
+    "3" : "eric abrahamsson<Eric_Abrahamsson> often worked with fellow comedian<Comedian> ludde gentzel\n"
+  }
+}, {
+  "entityIndex" : "entity11896",
+  "entityUrl" : "http://dbpedia.org/resource/Edwin_Brown_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Edwin_Brown_(actor)) dbo:country o'<United_Kingdom>",
+    "2" : "s(Edwin_Brown_(actor)) dbo:deathDate o'<1999-0-0>",
+    "3" : "s(Edwin_Brown_(actor)) dbo:imdbId o'<0113498>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

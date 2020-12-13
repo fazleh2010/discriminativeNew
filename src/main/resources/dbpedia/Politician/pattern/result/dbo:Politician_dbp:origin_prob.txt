@@ -1,0 +1,7 @@
+id=55  property=dbp:origin  
+able_to  JJ_TO  multiply=0.008403  P(able_to|dbp:origin)=0.058824  P(dbp:origin|able_to)=0.142857    
+win_title  VBD_NN  multiply=0.002941  P(win_title|dbp:origin)=0.058824  P(dbp:origin|win_title)=0.05    
+win_miss  VBN_VBP  multiply=0.002558  P(win_miss|dbp:origin)=0.058824  P(dbp:origin|win_miss)=0.043478    
+bear_in  VBN_IN  multiply=1.16E-4  P(bear_in|dbp:origin)=0.058824  P(dbp:origin|bear_in)=0.001969    
+member_of  NN_IN  multiply=9.0E-5  P(member_of|dbp:origin)=0.058824  P(dbp:origin|member_of)=0.001522    
+

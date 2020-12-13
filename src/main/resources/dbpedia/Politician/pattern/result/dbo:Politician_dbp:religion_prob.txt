@@ -1,4 +1,4 @@
-id=62  property=dbp:religion  
-member_of  NN_IN  multiply=0.011079  P(member_of|dbp:religion)=0.124731  P(dbp:religion|member_of)=0.088821    
-participate_in  VBD_IN  multiply=9.56E-4  P(participate_in|dbp:religion)=0.004301  P(dbp:religion|participate_in)=0.222222    
+id=65  property=dbp:religion  
+member_of  NN_IN  multiply=0.010988  P(member_of|dbp:religion)=0.124464  P(dbp:religion|member_of)=0.08828    
+participate_in  VBD_IN  multiply=8.58E-4  P(participate_in|dbp:religion)=0.004292  P(dbp:religion|participate_in)=0.2    
 

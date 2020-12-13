@@ -1,7 +1,0 @@
-id=1  property=dbo:almaMater  
-graduate_from  VBN_IN  multiply=0.003286  P(graduate_from|dbo:almaMater)=0.007886  P(dbo:almaMater|graduate_from)=0.416667    
-educate_at  VBN_IN  multiply=0.002635  P(educate_at|dbo:almaMater)=0.008281  P(dbo:almaMater|educate_at)=0.318182    
-attend  VBD  multiply=0.002201  P(attend|dbo:almaMater)=0.008281  P(dbo:almaMater|attend)=0.265823    
-graduate_of  NN_IN  multiply=0.00138  P(graduate_of|dbo:almaMater)=0.00276  P(dbo:almaMater|graduate_of)=0.5    
-receive_his  VBD_PRP$  multiply=6.17E-4  P(receive_his|dbo:almaMater)=0.002366  P(dbo:almaMater|receive_his)=0.26087    
-

@@ -1,0 +1,2449 @@
+[ {
+  "entityIndex" : "entity11055",
+  "entityUrl" : "http://dbpedia.org/resource/Bruce_Lee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bruce_Lee) dbo:birthDate o'<1940-11-27>",
+    "2" : "s(Bruce_Lee) dbo:birthPlace o'<San_Francisco_Chinese_Hospital>",
+    "3" : "s(Bruce_Lee) dbo:deathDate o'<1973-7-20>",
+    "4" : "s(Bruce_Lee) dbo:deathPlace o'<Kowloon_Tong>",
+    "5" : "s(Bruce_Lee) dbp:birthPlace o'<California>",
+    "6" : "s(Bruce_Lee) dbp:birthPlace o'<San_Francisco>",
+    "7" : "s(Bruce_Lee) dbp:birthPlace o'<Chinatown,_San_Francisco>",
+    "8" : "s(Bruce_Lee) dbp:deathPlace o'<British_Hong_Kong>",
+    "9" : "s(Bruce_Lee) dbp:deathPlace o'<Kowloon_Tong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "15" : "s(bruce lee=Bruce_Lee) [died in ] o'<kowloon tong=Kowloon_Tong>"
+  },
+  "abstract" : {
+    "15" : "bruce lee<Bruce_Lee> died in kowloon tong<Kowloon_Tong> on july 20, 1973 at the age of 32\n"
+  }
+}, {
+  "entityIndex" : "entity11056",
+  "entityUrl" : "http://dbpedia.org/resource/Beno%C3%AEt_R%C3%A9gent",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11057",
+  "entityUrl" : "http://dbpedia.org/resource/Bai_Ling",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bai_Ling) dbo:birthDate o'<1966-10-10>",
+    "2" : "s(Bai_Ling) dbo:birthPlace o'<Chengdu>",
+    "3" : "s(Bai_Ling) dbp:birthPlace o'<Chengdu, Sichuan, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11058",
+  "entityUrl" : "http://dbpedia.org/resource/Blanche_Ravalec",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Blanche_Ravalec) dbo:birthDate o'<1954-1-1>",
+    "2" : "s(Blanche_Ravalec) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11059",
+  "entityUrl" : "http://dbpedia.org/resource/Bolo_Yeung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bolo_Yeung) dbo:birthDate o'<1946-7-3>",
+    "2" : "s(Bolo_Yeung) dbo:birthPlace o'<Guangzhou>",
+    "3" : "s(Bolo_Yeung) dbp:birthPlace o'<China>",
+    "4" : "s(Bolo_Yeung) dbp:birthPlace o'<Guangzhou>",
+    "5" : "s(Bolo_Yeung) dbp:name o'<Bolo Yeung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11060",
+  "entityUrl" : "http://dbpedia.org/resource/Brigitte_Lin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brigitte_Lin) dbo:birthDate o'<1954-11-3>",
+    "2" : "s(Brigitte_Lin) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Brigitte_Lin) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Brigitte_Lin) dbp:birthPlace o'<Taipei>",
+    "5" : "s(Brigitte_Lin) dbp:birthPlace o'<Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11061",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Johnson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benjamin_Johnson) dbo:birthDate o'<1665-1-1>",
+    "2" : "s(Benjamin_Johnson) dbo:deathDate o'<1742-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11062",
+  "entityUrl" : "http://dbpedia.org/resource/Bengt_Eklund",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bengt_Eklund) dbo:birthDate o'<1925-01-18>",
+    "2" : "s(Bengt_Eklund) dbo:birthDate o'<1925-1-18>",
+    "3" : "s(Bengt_Eklund) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Bengt_Eklund) dbo:deathDate o'<1998-01-19>",
+    "5" : "s(Bengt_Eklund) dbo:deathDate o'<1998-1-19>",
+    "6" : "s(Bengt_Eklund) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Bengt_Eklund) dbp:name o'<Bengt Eklund>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11063",
+  "entityUrl" : "http://dbpedia.org/resource/Babette_Bardot",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Babette_Bardot) dbo:birthDate o'<1940-1-1>",
+    "2" : "s(Babette_Bardot) dbp:name o'<Babette Bardot>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11064",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Blier",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bernard_Blier) dbo:birthDate o'<1916-01-11>",
+    "2" : "s(Bernard_Blier) dbo:birthDate o'<1916-1-11>",
+    "3" : "s(Bernard_Blier) dbo:birthPlace o'<Buenos_Aires>",
+    "4" : "s(Bernard_Blier) dbo:birthPlace o'<Argentina>",
+    "5" : "s(Bernard_Blier) dbo:deathDate o'<1989-03-29>",
+    "6" : "s(Bernard_Blier) dbo:deathDate o'<1989-3-29>",
+    "7" : "s(Bernard_Blier) dbo:deathPlace o'<Saint-Cloud>",
+    "8" : "s(Bernard_Blier) dbp:name o'<Bernard Blier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11065",
+  "entityUrl" : "http://dbpedia.org/resource/Brenda_De_Banzie",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brenda_De_Banzie) dbo:birthDate o'<1909-07-28>",
+    "2" : "s(Brenda_De_Banzie) dbo:birthDate o'<1909-7-28>",
+    "3" : "s(Brenda_De_Banzie) dbo:birthPlace o'<Manchester>",
+    "4" : "s(Brenda_De_Banzie) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Brenda_De_Banzie) dbo:deathDate o'<1981-03-05>",
+    "6" : "s(Brenda_De_Banzie) dbo:deathDate o'<1981-3-5>",
+    "7" : "s(Brenda_De_Banzie) dbo:deathPlace o'<Haywards_Heath>",
+    "8" : "s(Brenda_De_Banzie) dbo:deathPlace o'<Sussex>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11066",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Yung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_Yung) dbo:birthDate o'<1959-5-7>",
+    "2" : "s(Barbara_Yung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Barbara_Yung) dbo:deathDate o'<1985-5-14>",
+    "4" : "s(Barbara_Yung) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Barbara_Yung) dbp:birthPlace o'<Hong_Kong>",
+    "6" : "s(Barbara_Yung) dbp:deathPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11067",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Webster_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Webster_(actor)) dbo:birthDate o'<1864-06-02>",
+    "2" : "s(Ben_Webster_(actor)) dbo:birthDate o'<1864-6-2>",
+    "3" : "s(Ben_Webster_(actor)) dbo:birthPlace o'<London>",
+    "4" : "s(Ben_Webster_(actor)) dbo:deathDate o'<1947-02-26>",
+    "5" : "s(Ben_Webster_(actor)) dbo:deathDate o'<1947-2-26>",
+    "6" : "s(Ben_Webster_(actor)) dbo:deathPlace o'<Hollywood,_California>",
+    "7" : "s(Ben_Webster_(actor)) dbo:deathPlace o'<Hollywood>",
+    "8" : "s(Ben_Webster_(actor)) dbp:birthPlace o'<London, England, United Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11068",
+  "entityUrl" : "http://dbpedia.org/resource/Babar_Bhatti",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Babar_Bhatti) dbo:birthDate o'<1949-01-22>",
+    "2" : "s(Babar_Bhatti) dbo:birthDate o'<1938-1-22>",
+    "3" : "s(Babar_Bhatti) dbo:birthPlace o'<England>",
+    "4" : "s(Babar_Bhatti) dbo:birthPlace o'<Finchley>",
+    "5" : "s(Babar_Bhatti) dbo:birthPlace o'<Southall>",
+    "6" : "s(Babar_Bhatti) dbo:birthPlace o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11069",
+  "entityUrl" : "http://dbpedia.org/resource/Bob%C3%A8che_(clown)",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11070",
+  "entityUrl" : "http://dbpedia.org/resource/Belinda_Sinclair",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Belinda_Sinclair) dbo:birthDate o'<1950-9-16>",
+    "2" : "s(Belinda_Sinclair) dbo:country o'<England>",
+    "3" : "s(Belinda_Sinclair) dbo:imdbId o'<0801574>",
+    "4" : "s(Belinda_Sinclair) dbp:name o'<Belinda Sinclair>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(belinda sinclair=Belinda_Sinclair) [born 16 september 1950 ] o'<british actress=England>"
+  },
+  "abstract" : {
+    "1" : "belinda sinclair<Belinda_Sinclair> (born 16 september 1950) is a british actress<England> known for several recurring television roles"
+  }
+}, {
+  "entityIndex" : "entity11071",
+  "entityUrl" : "http://dbpedia.org/resource/Bosco_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bosco_Wong) dbo:birthDate o'<1980-12-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11072",
+  "entityUrl" : "http://dbpedia.org/resource/Babben_Larsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Babben_Larsson) dbo:birthDate o'<1956-10-29>",
+    "2" : "s(Babben_Larsson) dbo:birthPlace o'<Dalhem,_Gotland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11073",
+  "entityUrl" : "http://dbpedia.org/resource/Bengt_Ekerot",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bengt_Ekerot) dbo:birthDate o'<1920-02-08>",
+    "2" : "s(Bengt_Ekerot) dbo:birthDate o'<1920-2-8>",
+    "3" : "s(Bengt_Ekerot) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Bengt_Ekerot) dbo:birthPlace o'<Stockholm,_Sweden>",
+    "5" : "s(Bengt_Ekerot) dbo:deathDate o'<1971-11-26>",
+    "6" : "s(Bengt_Ekerot) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Bengt_Ekerot) dbp:name o'<Bengt Ekerot>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11074",
+  "entityUrl" : "http://dbpedia.org/resource/Bunny_Luv",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11075",
+  "entityUrl" : "http://dbpedia.org/resource/Bj%C3%B6rn_Granath",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11076",
+  "entityUrl" : "http://dbpedia.org/resource/Barbro_Oborg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbro_Oborg) dbo:birthDate o'<1941-07-03>",
+    "2" : "s(Barbro_Oborg) dbo:birthDate o'<1941-7-3>",
+    "3" : "s(Barbro_Oborg) dbo:birthPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11077",
+  "entityUrl" : "http://dbpedia.org/resource/Beryl_de_Zoete",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Beryl_de_Zoete) dbo:birthDate o'<1879-1-1>",
+    "2" : "s(Beryl_de_Zoete) dbo:birthPlace o'<London>",
+    "3" : "s(Beryl_de_Zoete) dbo:deathDate o'<1962-3-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11078",
+  "entityUrl" : "http://dbpedia.org/resource/Belita",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Belita) dbo:birthDate o'<1923-10-25>",
+    "2" : "s(Belita) dbo:birthPlace o'<Hampshire>",
+    "3" : "s(Belita) dbo:deathDate o'<2005-12-18>",
+    "4" : "s(Belita) dbo:deathPlace o'<Montpeyroux>",
+    "5" : "s(Belita) dbo:deathPlace o'<Montpeyroux,_Hérault>",
+    "6" : "s(Belita) dbp:name o'<Belita>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11079",
+  "entityUrl" : "http://dbpedia.org/resource/Bernice_Liu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bernice_Liu) dbo:birthDate o'<1979-1-6>",
+    "2" : "s(Bernice_Liu) dbp:birthPlace o'<Prince Rupert, British Columbia, Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11080",
+  "entityUrl" : "http://dbpedia.org/resource/B%C3%B6rje_Ahlstedt",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11081",
+  "entityUrl" : "http://dbpedia.org/resource/Bobby_Au-yeung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bobby_Au-yeung) dbo:birthDate o'<1960-7-28>",
+    "2" : "s(Bobby_Au-yeung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Bobby_Au-yeung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "9" : "s(bobby au-yeung=Bobby_Au-yeung) [became first ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "9" : "in 2007, bobby au-yeung<Bobby_Au-yeung> became the first hong kong<Hong_Kong> actor to receive a nomination for best actor at the international emmy awards for his performance in dicey business\n"
+  }
+}, {
+  "entityIndex" : "entity11082",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Trueman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brian_Trueman) dbo:birthDate o'<1932-05-16>",
+    "2" : "s(Brian_Trueman) dbo:birthDate o'<1932-5-16>",
+    "3" : "s(Brian_Trueman) dbo:birthPlace o'<England>",
+    "4" : "s(Brian_Trueman) dbo:birthPlace o'<Manchester>",
+    "5" : "s(Brian_Trueman) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Brian_Trueman) dbo:birthPlace o'<Lancashire>",
+    "7" : "s(Brian_Trueman) dbo:birthYear o'<1932>",
+    "8" : "s(Brian_Trueman) dbo:country o'<England>",
+    "9" : "s(Brian_Trueman) dbo:occupation o'<Writer>",
+    "10" : "s(Brian_Trueman) dbo:occupation o'<Presenter>",
+    "11" : "s(Brian_Trueman) dbo:occupation o'<Brian_Trueman__1>",
+    "12" : "s(Brian_Trueman) dbp:nationality o'<English>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11083",
+  "entityUrl" : "http://dbpedia.org/resource/Brigitte_Kahn",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brigitte_Kahn) dbo:country o'<United_Kingdom>",
+    "2" : "s(Brigitte_Kahn) dbo:imdbId o'<0434800>",
+    "3" : "s(Brigitte_Kahn) dbp:name o'<Brigitte Kahn>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11084",
+  "entityUrl" : "http://dbpedia.org/resource/Brett_Mycles",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11085",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Grellis",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brian_Grellis) dbo:birthDate o'<1937-1-1>",
+    "2" : "s(Brian_Grellis) dbo:birthPlace o'<England>",
+    "3" : "s(Brian_Grellis) dbp:name o'<Brian Grellis>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11086",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Miller_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brian_Miller_(actor)) dbo:activeYearsEndYear o'<1965>",
+    "2" : "s(Brian_Miller_(actor)) dbo:activeYearsStartYear o'<1965>",
+    "3" : "s(Brian_Miller_(actor)) dbo:birthDate o'<1941-04-17>",
+    "4" : "s(Brian_Miller_(actor)) dbo:birthDate o'<1941-4-17>",
+    "5" : "s(Brian_Miller_(actor)) dbo:birthName o'<Brian Reginald Miller>",
+    "6" : "s(Brian_Miller_(actor)) dbo:birthPlace o'<England>",
+    "7" : "s(Brian_Miller_(actor)) dbo:birthYear o'<1941>",
+    "8" : "s(Brian_Miller_(actor)) dbo:child o'<Sadie_Miller>",
+    "9" : "s(Brian_Miller_(actor)) dbo:country o'<United_Kingdom>",
+    "10" : "s(Brian_Miller_(actor)) dbo:imdbId o'<0587992>",
+    "11" : "s(Brian_Miller_(actor)) dbo:occupation o'<Brian_Miller_(actor)__1>",
+    "12" : "s(Brian_Miller_(actor)) dbo:occupation o'<Actor>",
+    "13" : "s(Brian_Miller_(actor)) dbo:residence o'<Liverpool,_England>",
+    "14" : "s(Brian_Miller_(actor)) dbo:spouse o'<Elisabeth_Sladen>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(brian miller (actor)=Brian_Miller_(actor)) [performed in various doctor ] o'<stage=Actor>"
+  },
+  "abstract" : {
+    "2" : "brian miller (actor)<Brian_Miller_(actor)> has performed in various doctor who productions, appearing as dugdale in the serial snakedance (1983), providing dalek voices in resurrection of the daleks (1984) and remembrance of the daleks (1988), playing the role of wiston in the 2005 stage<Actor> production of the trial of davros, and playing the tramp barney in the 2014 episode \"deep breath\"\n"
+  }
+}, {
+  "entityIndex" : "entity11087",
+  "entityUrl" : "http://dbpedia.org/resource/Benny_Yau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benny_Yau) dbo:birthDate o'<1980-5-8>",
+    "2" : "s(Benny_Yau) dbp:birthPlace o'<Hong Kong>",
+    "3" : "s(Benny_Yau) dbp:name o'<Benny Yau>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11088",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Cartwright_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Cartwright_(actor)) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "10" : "s(ben cartwright (actor)=Ben_Cartwright_(actor)) [starred in critically panned ] o'<the uk=United_Kingdom>"
+  },
+  "abstract" : {
+    "10" : "in 2013, ben cartwright (actor)<Ben_Cartwright_(actor)> starred in the critically panned british movie run for your wife, which grossed just £602 at the uk<United_Kingdom> box office, in its opening weekend\n"
+  }
+}, {
+  "entityIndex" : "entity11089",
+  "entityUrl" : "http://dbpedia.org/resource/Barbie_Hsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbie_Hsu) dbo:birthDate o'<1976-10-6>",
+    "2" : "s(Barbie_Hsu) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Barbie_Hsu) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Barbie_Hsu) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11090",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Nissen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brian_Nissen) dbo:birthDate o'<1927-10-20>",
+    "2" : "s(Brian_Nissen) dbo:birthPlace o'<UK>",
+    "3" : "s(Brian_Nissen) dbo:birthPlace o'<England>",
+    "4" : "s(Brian_Nissen) dbo:birthPlace o'<London>",
+    "5" : "s(Brian_Nissen) dbo:deathDate o'<2001-02-08>",
+    "6" : "s(Brian_Nissen) dbo:deathDate o'<2001-2-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11091",
+  "entityUrl" : "http://dbpedia.org/resource/Bokuzen_Hidari",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bokuzen_Hidari) dbo:birthDate o'<1894-02-20>",
+    "2" : "s(Bokuzen_Hidari) dbo:birthDate o'<1894-2-20>",
+    "3" : "s(Bokuzen_Hidari) dbo:birthPlace o'<Japan>",
+    "4" : "s(Bokuzen_Hidari) dbo:birthPlace o'<Saitama_Prefecture>",
+    "5" : "s(Bokuzen_Hidari) dbo:deathDate o'<1971-05-26>",
+    "6" : "s(Bokuzen_Hidari) dbo:deathDate o'<1971-5-26>",
+    "7" : "s(Bokuzen_Hidari) dbo:deathPlace o'<Tokyo>",
+    "8" : "s(Bokuzen_Hidari) dbp:name o'<Bokuzen Hidari>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11092",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Peyton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Peyton) dbo:birthDate o'<1977-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11093",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Beresford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benjamin_Beresford) dbo:activeYearsStartYear o'<2004>",
+    "2" : "s(Benjamin_Beresford) dbo:birthDate o'<2000-7-27>",
+    "3" : "s(Benjamin_Beresford) dbo:birthName o'<Benjamin Beresford>",
+    "4" : "s(Benjamin_Beresford) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Benjamin_Beresford) dbo:birthYear o'<2002>",
+    "6" : "s(Benjamin_Beresford) dbo:country o'<United_Kingdom>",
+    "7" : "s(Benjamin_Beresford) dbo:employer o'<ITV_(TV_network)>",
+    "8" : "s(Benjamin_Beresford) dbo:employer o'<BBC_One>",
+    "9" : "s(Benjamin_Beresford) dbo:knownFor o'<Joshua_Peacock>",
+    "10" : "s(Benjamin_Beresford) dbo:occupation o'<Singer>",
+    "11" : "s(Benjamin_Beresford) dbo:occupation o'<Benjamin_Beresford__1>",
+    "12" : "s(Benjamin_Beresford) dbo:occupation o'<Actor>",
+    "13" : "s(Benjamin_Beresford) dbp:agent o'<Crown Talent Group>",
+    "14" : "s(Benjamin_Beresford) dbp:birthPlace o'<United Kingdom>",
+    "15" : "s(Benjamin_Beresford) dbp:nationality o'<British>",
+    "16" : "s(Benjamin_Beresford) dbp:television o'<Casualty>",
+    "17" : "s(Benjamin_Beresford) dbp:television o'<Coronation Street (  )>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(benjamin beresford=Benjamin_Beresford) [british ] o'<child actor=Actor>"
+  },
+  "abstract" : {
+    "1" : "benjamin beresford<Benjamin_Beresford> is a british child actor<Actor> known for his role as joshua peacock<Joshua_Peacock> on itv's<ITV_(TV_network)> coronation street"
+  }
+}, {
+  "entityIndex" : "entity11094",
+  "entityUrl" : "http://dbpedia.org/resource/Buddug_Williams",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Buddug_Williams) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11095",
+  "entityUrl" : "http://dbpedia.org/resource/Billy_Hartman",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Billy_Hartman) dbo:birthDate o'<1957-1-1>",
+    "2" : "s(Billy_Hartman) dbo:country o'<United_Kingdom>",
+    "3" : "s(Billy_Hartman) dbp:date o'<June 2009>",
+    "4" : "s(Billy_Hartman) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11096",
+  "entityUrl" : "http://dbpedia.org/resource/Bowie_Lam",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bowie_Lam) dbo:birthDate o'<1965-9-4>",
+    "2" : "s(Bowie_Lam) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Bowie_Lam) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11097",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Durkin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_Durkin) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11098",
+  "entityUrl" : "http://dbpedia.org/resource/Bertil_Malmberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bertil_Malmberg) dbo:birthDate o'<1889-8-13>",
+    "2" : "s(Bertil_Malmberg) dbo:birthPlace o'<Härnösand>",
+    "3" : "s(Bertil_Malmberg) dbo:deathDate o'<1958-2-11>",
+    "4" : "s(Bertil_Malmberg) dbo:deathPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11099",
+  "entityUrl" : "http://dbpedia.org/resource/Bowie_Tsang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bowie_Tsang) dbo:birthDate o'<1973-2-21>",
+    "2" : "s(Bowie_Tsang) dbo:birthPlace o'<Taiwan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11100",
+  "entityUrl" : "http://dbpedia.org/resource/Bruce_Le",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bruce_Le) dbo:birthDate o'<1950-6-5>",
+    "2" : "s(Bruce_Le) dbp:birthPlace o'<Burma>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11101",
+  "entityUrl" : "http://dbpedia.org/resource/Band%C5%8D_Tamasabur%C5%8D",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11102",
+  "entityUrl" : "http://dbpedia.org/resource/Babita_Pohoomull",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Babita_Pohoomull) dbo:birthDate o'<1981-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11103",
+  "entityUrl" : "http://dbpedia.org/resource/Benny_Chan_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benny_Chan_(actor)) dbo:birthDate o'<1969-10-7>",
+    "2" : "s(Benny_Chan_(actor)) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11104",
+  "entityUrl" : "http://dbpedia.org/resource/Bertram_Heribertson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bertram_Heribertson) dbo:birthDate o'<1955-11-11>",
+    "2" : "s(Bertram_Heribertson) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11105",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Campan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bernard_Campan) dbo:birthDate o'<1958-04-04>",
+    "2" : "s(Bernard_Campan) dbo:birthDate o'<1958-4-4>",
+    "3" : "s(Bernard_Campan) dbo:birthPlace o'<Agen>",
+    "4" : "s(Bernard_Campan) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11106",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_New",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_New) dbo:birthDate o'<1923-05-09>",
+    "2" : "s(Barbara_New) dbo:birthDate o'<1923-5-9>",
+    "3" : "s(Barbara_New) dbo:birthPlace o'<Hammersmith>",
+    "4" : "s(Barbara_New) dbo:deathDate o'<2010-05-24>",
+    "5" : "s(Barbara_New) dbo:deathDate o'<2010-5-24>",
+    "6" : "s(Barbara_New) dbo:deathPlace o'<London>",
+    "7" : "s(Barbara_New) dbp:deathPlace o'<London, England>",
+    "8" : "s(Barbara_New) dbp:name o'<Barbara New>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11107",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Gwaspari",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11108",
+  "entityUrl" : "http://dbpedia.org/resource/Beatrice_Hsu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Beatrice_Hsu) dbo:birthDate o'<1978-11-13>",
+    "2" : "s(Beatrice_Hsu) dbo:birthPlace o'<Taipei>",
+    "3" : "s(Beatrice_Hsu) dbo:deathDate o'<2007-1-28>",
+    "4" : "s(Beatrice_Hsu) dbo:deathPlace o'<Taichung>",
+    "5" : "s(Beatrice_Hsu) dbp:birthPlace o'<Taipei>",
+    "6" : "s(Beatrice_Hsu) dbp:birthPlace o'<Republic_of_China>",
+    "7" : "s(Beatrice_Hsu) dbp:deathPlace o'<Taichung>",
+    "8" : "s(Beatrice_Hsu) dbp:deathPlace o'<Republic_of_China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11109",
+  "entityUrl" : "http://dbpedia.org/resource/Barrie_Gosney",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barrie_Gosney) dbo:birthDate o'<1926-0-0>",
+    "2" : "s(Barrie_Gosney) dbo:deathDate o'<2008-1-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11110",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Hart",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benjamin_Hart) dbo:activeYearsStartYear o'<2006>",
+    "2" : "s(Benjamin_Hart) dbo:birthDate o'<1977-10-17>",
+    "3" : "s(Benjamin_Hart) dbo:birthPlace o'<England>",
+    "4" : "s(Benjamin_Hart) dbo:birthYear o'<1977>",
+    "5" : "s(Benjamin_Hart) dbo:country o'<England>",
+    "6" : "s(Benjamin_Hart) dbo:imdbId o'<2961865>",
+    "7" : "s(Benjamin_Hart) dbo:nationality o'<United_Kingdom>",
+    "8" : "s(Benjamin_Hart) dbo:occupation o'<Actor>",
+    "9" : "s(Benjamin_Hart) dbo:occupation o'<Benjamin_Hart__1>",
+    "10" : "s(Benjamin_Hart) dbo:stateOfOrigin o'<United_Kingdom>",
+    "11" : "s(Benjamin_Hart) dbp:movement o'<Film>",
+    "12" : "s(Benjamin_Hart) dbp:movement o'<Television>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11111",
+  "entityUrl" : "http://dbpedia.org/resource/Bak_Sheut-sin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bak_Sheut-sin) dbo:birthDate o'<1926-4-1>",
+    "2" : "s(Bak_Sheut-sin) dbp:birthPlace o'<Guangzhou>",
+    "3" : "s(Bak_Sheut-sin) dbp:birthPlace o'<Republic_of_China_(1912-1949)>",
+    "4" : "s(Bak_Sheut-sin) dbp:name o'<Bai Xue-xian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11112",
+  "entityUrl" : "http://dbpedia.org/resource/Billy_L._Sullivan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Billy_L._Sullivan) dbo:birthDate o'<1980-05-24>",
+    "2" : "s(Billy_L._Sullivan) dbo:birthDate o'<1980-5-24>",
+    "3" : "s(Billy_L._Sullivan) dbo:birthPlace o'<New_York_City>",
+    "4" : "s(Billy_L._Sullivan) dbp:birthPlace o'<New York, USA>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11113",
+  "entityUrl" : "http://dbpedia.org/resource/Becky_Lee",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Becky_Lee) dbo:birthDate o'<1978-8-11>",
+    "2" : "s(Becky_Lee) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(becky lee=Becky_Lee) [graduated from music department ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "3" : "becky lee<Becky_Lee> graduated from the music department of hong kong<Hong_Kong> baptist university, majored in vocal music\n"
+  }
+}, {
+  "entityIndex" : "entity11114",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Tiphaine",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bernard_Tiphaine) dbo:birthDate o'<1938-7-27>",
+    "2" : "s(Bernard_Tiphaine) dbo:birthPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11115",
+  "entityUrl" : "http://dbpedia.org/resource/Birgitta_Valberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Birgitta_Valberg) dbo:birthDate o'<1916-12-16>",
+    "2" : "s(Birgitta_Valberg) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Birgitta_Valberg) dbo:birthPlace o'<Q3433770>",
+    "4" : "s(Birgitta_Valberg) dbo:deathDate o'<2014-03-29>",
+    "5" : "s(Birgitta_Valberg) dbo:deathDate o'<2014-3-29>",
+    "6" : "s(Birgitta_Valberg) dbo:deathPlace o'<Lidingö>",
+    "7" : "s(Birgitta_Valberg) dbp:name o'<Birgitta Valberg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11116",
+  "entityUrl" : "http://dbpedia.org/resource/Bj%C3%B6rn_Kjellman",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11117",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Howard",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barry_Howard) dbo:birthDate o'<1937-07-09>",
+    "2" : "s(Barry_Howard) dbo:birthDate o'<1937-7-9>",
+    "3" : "s(Barry_Howard) dbo:birthPlace o'<Nottingham>",
+    "4" : "s(Barry_Howard) dbo:birthPlace o'<Nottinghamshire>",
+    "5" : "s(Barry_Howard) dbo:deathDate o'<2016-04-28>",
+    "6" : "s(Barry_Howard) dbo:deathDate o'<2016-4-28>",
+    "7" : "s(Barry_Howard) dbo:deathPlace o'<Poole>",
+    "8" : "s(Barry_Howard) dbo:deathPlace o'<Dorset>",
+    "9" : "s(Barry_Howard) dbp:name o'<Barry Howard>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11118",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Hanson",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11119",
+  "entityUrl" : "http://dbpedia.org/resource/Beverly_Hills_(actress)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Beverly_Hills_(actress)) dbo:birthDate o'<1966-3-23>",
+    "2" : "s(Beverly_Hills_(actress)) dbo:country o'<United_Kingdom>",
+    "3" : "s(Beverly_Hills_(actress)) dbo:imdbId o'<0385109>",
+    "4" : "s(Beverly_Hills_(actress)) dbp:name o'<Beverly Hills>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(beverly hills (actress)=Beverly_Hills_(actress)) [played postie in bear ] o'<britain=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "beverly hills (actress)<Beverly_Hills_(actress)> also played postie in bear behaving badly, and was briefly considered for the role of sonya chance in little britain<United_Kingdom> before it was made a non-speaking role\n"
+  }
+}, {
+  "entityIndex" : "entity11120",
+  "entityUrl" : "http://dbpedia.org/resource/Bert_Parnaby",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bert_Parnaby) dbo:birthDate o'<1924-3-4>",
+    "2" : "s(Bert_Parnaby) dbo:country o'<United_Kingdom>",
+    "3" : "s(Bert_Parnaby) dbo:deathDate o'<1992-0-0>",
+    "4" : "s(Bert_Parnaby) dbo:imdbId o'<0663161>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11121",
+  "entityUrl" : "http://dbpedia.org/resource/Belinda_Hamnett",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Belinda_Hamnett) dbo:birthDate o'<1975-9-28>",
+    "2" : "s(Belinda_Hamnett) dbp:birthPlace o'<Hong_Kong>",
+    "3" : "s(Belinda_Hamnett) dbp:name o'<Belinda Hamnett>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(belinda hamnett=Belinda_Hamnett) [chinese  cantonese hon kwunting ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "1" : "belinda hamnett<Belinda_Hamnett> (chinese: 韓君婷; cantonese: hon kwun-ting) born 28 september 1975 in hong kong<Hong_Kong> is an actress, model and ex-beauty queen"
+  }
+}, {
+  "entityIndex" : "entity11122",
+  "entityUrl" : "http://dbpedia.org/resource/Bridget_Turner",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bridget_Turner) dbo:birthDate o'<1939-2-22>",
+    "2" : "s(Bridget_Turner) dbo:country o'<England>",
+    "3" : "s(Bridget_Turner) dbo:deathDate o'<2014-12-27>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(bridget turner=Bridget_Turner) [played radical ] o'<english=England>"
+  },
+  "abstract" : {
+    "4" : "bridget turner<Bridget_Turner> played a radical english<England> teacher, judy threadgold, opposite alun armstrong’s woodwork teacher in alan plater’s get lost\n"
+  }
+}, {
+  "entityIndex" : "entity11123",
+  "entityUrl" : "http://dbpedia.org/resource/Bai_Guang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bai_Guang) dbo:birthDate o'<1921-6-27>",
+    "2" : "s(Bai_Guang) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Bai_Guang) dbo:deathDate o'<1999-8-27>",
+    "4" : "s(Bai_Guang) dbo:deathPlace o'<Kuala_Lumpur>",
+    "5" : "s(Bai_Guang) dbp:birthPlace o'<Beijing, China>",
+    "6" : "s(Bai_Guang) dbp:deathPlace o'<Kuala_Lumpur>",
+    "7" : "s(Bai_Guang) dbp:deathPlace o'<Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11124",
+  "entityUrl" : "http://dbpedia.org/resource/Bai_Hong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bai_Hong) dbo:birthDate o'<1919-1-1>",
+    "2" : "s(Bai_Hong) dbo:birthPlace o'<Beijing>",
+    "3" : "s(Bai_Hong) dbo:deathDate o'<1992-5-28>",
+    "4" : "s(Bai_Hong) dbo:deathPlace o'<Beijing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11125",
+  "entityUrl" : "http://dbpedia.org/resource/Birger_Malmsten",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Birger_Malmsten) dbo:birthDate o'<1920-12-23>",
+    "2" : "s(Birger_Malmsten) dbo:birthPlace o'<Sweden>",
+    "3" : "s(Birger_Malmsten) dbo:birthPlace o'<Gräsö>",
+    "4" : "s(Birger_Malmsten) dbo:deathDate o'<1991-02-15>",
+    "5" : "s(Birger_Malmsten) dbo:deathDate o'<1991-2-15>",
+    "6" : "s(Birger_Malmsten) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Birger_Malmsten) dbo:deathPlace o'<Sweden>",
+    "8" : "s(Birger_Malmsten) dbp:name o'<Birger Malmsten>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11126",
+  "entityUrl" : "http://dbpedia.org/resource/Bryan_Leung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bryan_Leung) dbo:birthDate o'<1949-1-20>",
+    "2" : "s(Bryan_Leung) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Bryan_Leung) dbp:birthPlace o'<Hong_Kong>",
+    "4" : "s(Bryan_Leung) dbp:name o'<Leung Kar Yan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11127",
+  "entityUrl" : "http://dbpedia.org/resource/Berg_Ng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Berg_Ng) dbo:birthDate o'<1960-12-12>",
+    "2" : "s(Berg_Ng) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11128",
+  "entityUrl" : "http://dbpedia.org/resource/Barbro_Kollberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbro_Kollberg) dbo:birthDate o'<1917-12-27>",
+    "2" : "s(Barbro_Kollberg) dbo:birthPlace o'<Eskilstuna>",
+    "3" : "s(Barbro_Kollberg) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Barbro_Kollberg) dbo:deathDate o'<2014-03-06>",
+    "5" : "s(Barbro_Kollberg) dbo:deathDate o'<2014-3-6>",
+    "6" : "s(Barbro_Kollberg) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Barbro_Kollberg) dbp:name o'<Barbro Kollberg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11129",
+  "entityUrl" : "http://dbpedia.org/resource/Bj%C3%B6rn_Bjelfvenstam",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11130",
+  "entityUrl" : "http://dbpedia.org/resource/Benkt-%C3%85ke_Benktsson",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11131",
+  "entityUrl" : "http://dbpedia.org/resource/Bertil_Anderberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bertil_Anderberg) dbo:activeYearsEndYear o'<1981>",
+    "2" : "s(Bertil_Anderberg) dbo:activeYearsStartYear o'<1936>",
+    "3" : "s(Bertil_Anderberg) dbo:birthDate o'<1913-02-13>",
+    "4" : "s(Bertil_Anderberg) dbo:birthDate o'<1913-2-13>",
+    "5" : "s(Bertil_Anderberg) dbo:birthName o'<Otto Bertil Anderberg>",
+    "6" : "s(Bertil_Anderberg) dbo:birthPlace o'<Malmö>",
+    "7" : "s(Bertil_Anderberg) dbo:birthPlace o'<Sweden>",
+    "8" : "s(Bertil_Anderberg) dbo:birthYear o'<1913>",
+    "9" : "s(Bertil_Anderberg) dbo:deathDate o'<1991-09-11>",
+    "10" : "s(Bertil_Anderberg) dbo:deathDate o'<1991-9-11>",
+    "11" : "s(Bertil_Anderberg) dbo:deathPlace o'<Gothenburg>",
+    "12" : "s(Bertil_Anderberg) dbo:deathPlace o'<Sweden>",
+    "13" : "s(Bertil_Anderberg) dbo:deathYear o'<1991>",
+    "14" : "s(Bertil_Anderberg) dbo:imdbId o'<0025940>",
+    "15" : "s(Bertil_Anderberg) dbo:nationality o'<Sweden>",
+    "16" : "s(Bertil_Anderberg) dbp:name o'<Bertil Anderberg>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(bertil anderberg=Bertil_Anderberg) [born in ] o'<malmö=Malmö>"
+  },
+  "abstract" : {
+    "2" : "bertil anderberg<Bertil_Anderberg> was born in malmö<Malmö>, sweden<Sweden> and died in gothenburg<Gothenburg>\n"
+  }
+}, {
+  "entityIndex" : "entity11132",
+  "entityUrl" : "http://dbpedia.org/resource/Barbro_Hiort_af_Orn%C3%A4s",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11133",
+  "entityUrl" : "http://dbpedia.org/resource/Birgitta_Pettersson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Birgitta_Pettersson) dbo:birthDate o'<1939-01-07>",
+    "2" : "s(Birgitta_Pettersson) dbo:birthDate o'<1939-1-7>",
+    "3" : "s(Birgitta_Pettersson) dbo:birthPlace o'<Uppsala>",
+    "4" : "s(Birgitta_Pettersson) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Birgitta_Pettersson) dbp:name o'<Birgitta Pettersson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11134",
+  "entityUrl" : "http://dbpedia.org/resource/Beccy_Armory",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Beccy_Armory) dbo:country o'<United_Kingdom>",
+    "2" : "s(Beccy_Armory) dbo:imdbId o'<1471653>",
+    "3" : "s(Beccy_Armory) dbo:occupation o'<Beccy_Armory__1>",
+    "4" : "s(Beccy_Armory) dbo:occupation o'<Television>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11135",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Warriss",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Warriss) dbo:birthDate o'<1909-05-29>",
+    "2" : "s(Ben_Warriss) dbo:birthDate o'<1909-5-29>",
+    "3" : "s(Ben_Warriss) dbo:birthName o'<Ben Holden Driver Warriss>",
+    "4" : "s(Ben_Warriss) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "5" : "s(Ben_Warriss) dbo:birthPlace o'<England>",
+    "6" : "s(Ben_Warriss) dbo:birthPlace o'<Sheffield>",
+    "7" : "s(Ben_Warriss) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "8" : "s(Ben_Warriss) dbo:birthYear o'<1909>",
+    "9" : "s(Ben_Warriss) dbo:country o'<England>",
+    "10" : "s(Ben_Warriss) dbo:deathDate o'<1993-01-14>",
+    "11" : "s(Ben_Warriss) dbo:deathDate o'<1993-1-14>",
+    "12" : "s(Ben_Warriss) dbo:deathPlace o'<UK>",
+    "13" : "s(Ben_Warriss) dbo:deathPlace o'<England>",
+    "14" : "s(Ben_Warriss) dbo:deathPlace o'<London>",
+    "15" : "s(Ben_Warriss) dbo:deathPlace o'<Twickenham>",
+    "16" : "s(Ben_Warriss) dbo:deathYear o'<1993>",
+    "17" : "s(Ben_Warriss) dbo:occupation o'<Ben_Warriss__1>",
+    "18" : "s(Ben_Warriss) dbp:restingplace o'<Streatham Park Cemetery, London>",
+    "19" : "s(Ben_Warriss) dbp:spouse o'<Grace Skinner>",
+    "20" : "s(Ben_Warriss) dbp:spouse o'<Meggie Easton>",
+    "21" : "s(Ben_Warriss) dbp:spouse o'<Virginia Vernon>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "16" : "s(ben warriss=Ben_Warriss) [died in 1993 at brinsworth ] o'<twickenham=Twickenham>"
+  },
+  "abstract" : {
+    "16" : "ben warriss<Ben_Warriss> died in 1993 at brinsworth house, staines road, twickenham<Twickenham>, and is buried in the same section of streatham park cemetery, london<LONDON>, as comedian will hay\n"
+  }
+}, {
+  "entityIndex" : "entity11136",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Yuen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benjamin_Yuen) dbo:birthDate o'<1981-5-11>",
+    "2" : "s(Benjamin_Yuen) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11137",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Bowes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bob_Bowes) dbo:deathDate o'<1979-12-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11138",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Cowan",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11139",
+  "entityUrl" : "http://dbpedia.org/resource/Britt_Morgan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Britt_Morgan) dbo:birthDate o'<1963-08-12>",
+    "2" : "s(Britt_Morgan) dbo:birthDate o'<1963-8-12>",
+    "3" : "s(Britt_Morgan) dbo:birthPlace o'<Tyler,_Texas>",
+    "4" : "s(Britt_Morgan) dbo:height o'<160.02>",
+    "5" : "s(Britt_Morgan) dbo:weight o'<51.7104>",
+    "6" : "s(Britt_Morgan) dbp:name o'<Britt Morgan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11140",
+  "entityUrl" : "http://dbpedia.org/resource/Bleuette_Bernon",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bleuette_Bernon) dbo:birthDate o'<1878-6-6>",
+    "2" : "s(Bleuette_Bernon) dbo:birthPlace o'<Paris>",
+    "3" : "s(Bleuette_Bernon) dbp:name o'<Bleuette Bernon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11141",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Smith_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benjamin_Smith_(actor)) dbo:activeYearsStartYear o'<1993>",
+    "2" : "s(Benjamin_Smith_(actor)) dbo:alias o'<Ben Smith>",
+    "3" : "s(Benjamin_Smith_(actor)) dbo:birthDate o'<1989-12-27>",
+    "4" : "s(Benjamin_Smith_(actor)) dbo:birthPlace o'<England>",
+    "5" : "s(Benjamin_Smith_(actor)) dbo:birthPlace o'<Edgware>",
+    "6" : "s(Benjamin_Smith_(actor)) dbo:birthPlace o'<North_London>",
+    "7" : "s(Benjamin_Smith_(actor)) dbo:birthYear o'<1989>",
+    "8" : "s(Benjamin_Smith_(actor)) dbo:country o'<England>",
+    "9" : "s(Benjamin_Smith_(actor)) dbo:occupation o'<Actor>",
+    "10" : "s(Benjamin_Smith_(actor)) dbo:occupation o'<Benjamin_Smith_(actor)__1>",
+    "11" : "s(Benjamin_Smith_(actor)) dbp:date o'<December 2010>",
+    "12" : "s(Benjamin_Smith_(actor)) dbp:failed o'<y>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "9" : "s(benjamin smith (actor)=Benjamin_Smith_(actor)) [appeared in ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "9" : "that year benjamin smith (actor)<Benjamin_Smith_(actor)> also appeared in the film<Actor> nowhere boy\n"
+  }
+}, {
+  "entityIndex" : "entity11142",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Sun",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Betty_Sun) dbo:wikiPageRedirects o'<Sun_Li_(actress)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11143",
+  "entityUrl" : "http://dbpedia.org/resource/Bryan_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bryan_Wong) dbo:birthDate o'<1971-1-30>",
+    "2" : "s(Bryan_Wong) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11144",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Poyser",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brian_Poyser) dbo:country o'<England>",
+    "2" : "s(Brian_Poyser) dbo:deathDate o'<2009-1-1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(brian poyser=Brian_Poyser) [appeared in films ] o'<english=England>"
+  },
+  "abstract" : {
+    "3" : "brian poyser<Brian_Poyser> also appeared in the films lady jane (1986), parting shots (1999), and as one of the english<England> judges in the film the messenger: the story of joan of arc (1999)\n"
+  }
+}, {
+  "entityIndex" : "entity11145",
+  "entityUrl" : "http://dbpedia.org/resource/Beans_Balawi",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11146",
+  "entityUrl" : "http://dbpedia.org/resource/Bianca_Bai",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bianca_Bai) dbo:birthDate o'<1982-10-23>",
+    "2" : "s(Bianca_Bai) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Bianca_Bai) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Bianca_Bai) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11147",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_MacKay_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barry_MacKay_(actor)) dbo:activeYearsEndYear o'<1955>",
+    "2" : "s(Barry_MacKay_(actor)) dbo:activeYearsStartYear o'<1933>",
+    "3" : "s(Barry_MacKay_(actor)) dbo:birthDate o'<1906-01-08>",
+    "4" : "s(Barry_MacKay_(actor)) dbo:birthDate o'<1906-1-8>",
+    "5" : "s(Barry_MacKay_(actor)) dbo:birthPlace o'<U.K.>",
+    "6" : "s(Barry_MacKay_(actor)) dbo:birthPlace o'<London>",
+    "7" : "s(Barry_MacKay_(actor)) dbo:birthPlace o'<London,_England>",
+    "8" : "s(Barry_MacKay_(actor)) dbo:birthYear o'<1906>",
+    "9" : "s(Barry_MacKay_(actor)) dbo:deathDate o'<1985-12-12>",
+    "10" : "s(Barry_MacKay_(actor)) dbo:deathPlace o'<U.K.>",
+    "11" : "s(Barry_MacKay_(actor)) dbo:deathPlace o'<Chelsea,_London>",
+    "12" : "s(Barry_MacKay_(actor)) dbo:deathPlace o'<Chelsea,_England>",
+    "13" : "s(Barry_MacKay_(actor)) dbo:deathYear o'<1985>",
+    "14" : "s(Barry_MacKay_(actor)) dbo:occupation o'<Barry_MacKay_(actor)__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11148",
+  "entityUrl" : "http://dbpedia.org/resource/Bokuz%C5%8D_Masana",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11149",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barry_Wong) dbo:birthDate o'<1946-11-20>",
+    "2" : "s(Barry_Wong) dbo:birthPlace o'<Wuzhou>",
+    "3" : "s(Barry_Wong) dbo:deathDate o'<1991-10-16>",
+    "4" : "s(Barry_Wong) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Barry_Wong) dbp:birthPlace o'<Wuzhou>",
+    "6" : "s(Barry_Wong) dbp:birthPlace o'<Republic_of_China>",
+    "7" : "s(Barry_Wong) dbp:birthPlace o'<Guangxi>",
+    "8" : "s(Barry_Wong) dbp:deathPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11150",
+  "entityUrl" : "http://dbpedia.org/resource/Bramwell_Fletcher",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bramwell_Fletcher) dbo:birthDate o'<1904-2-20>",
+    "2" : "s(Bramwell_Fletcher) dbo:birthPlace o'<Bradford>",
+    "3" : "s(Bramwell_Fletcher) dbo:deathDate o'<1988-6-22>",
+    "4" : "s(Bramwell_Fletcher) dbo:deathPlace o'<New_Hampshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11151",
+  "entityUrl" : "http://dbpedia.org/resource/Brandon_Wong_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brandon_Wong_(actor)) dbo:activeYearsStartYear o'<1995>",
+    "2" : "s(Brandon_Wong_(actor)) dbo:birthDate o'<1971-9-16>",
+    "3" : "s(Brandon_Wong_(actor)) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Brandon_Wong_(actor)) dbo:occupation o'<Actor>",
+    "5" : "s(Brandon_Wong_(actor)) dbp:birthDate o'<1971-09-16>",
+    "6" : "s(Brandon_Wong_(actor)) dbp:birthPlace o'<Malaysia>",
+    "7" : "s(Brandon_Wong_(actor)) dbp:children o'<2>",
+    "8" : "s(Brandon_Wong_(actor)) dbp:origin o'<Malaysia>",
+    "9" : "s(Brandon_Wong_(actor)) dbp:p o'<Huáng Jiǒngyào>",
+    "10" : "s(Brandon_Wong_(actor)) dbp:spouse o'<Katrina Santos>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(brandon wong (actor)=Brandon_Wong_(actor)) [born in ] o'<malaysia=Malaysia>",
+    "3" : "s(brandon wong (actor)=Brandon_Wong_(actor)) [able to speak mandarin ] o'<malay=Malaysia>"
+  },
+  "abstract" : {
+    "2" : "brandon wong (actor)<Brandon_Wong_(actor)> was born in malaysia<Malaysia>\n",
+    "3" : "brandon wong (actor)<Brandon_Wong_(actor)> is able to speak mandarin, english, malay<Malaysia>, hokkien, cantonese and hakka\n"
+  }
+}, {
+  "entityIndex" : "entity11152",
+  "entityUrl" : "http://dbpedia.org/resource/Bethan_Ellis_Owen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bethan_Ellis_Owen) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(bethan ellis owen=Bethan_Ellis_Owen) [pupil at ysgol ] o'<wales=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "bethan ellis owen<Bethan_Ellis_Owen> was a pupil at ysgol gyfun llanhari after moving to south wales<United_Kingdom> as a child\n"
+  }
+}, {
+  "entityIndex" : "entity11153",
+  "entityUrl" : "http://dbpedia.org/resource/Billy_Boyle",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Billy_Boyle) dbo:birthDate o'<1945-2-24>",
+    "2" : "s(Billy_Boyle) dbo:birthPlace o'<Dublin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11154",
+  "entityUrl" : "http://dbpedia.org/resource/Bowie_Wu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bowie_Wu) dbo:birthDate o'<1932-1-18>",
+    "2" : "s(Bowie_Wu) dbo:birthPlace o'<Guangdong>",
+    "3" : "s(Bowie_Wu) dbp:birthPlace o'<Guangzhou, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11155",
+  "entityUrl" : "http://dbpedia.org/resource/Bryan_Chan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bryan_Chan) dbo:wikiPageRedirects o'<Chen_Guohua_(actor)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11156",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Aldridge_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Aldridge_(actor)) dbo:birthDate o'<1985-11-12>",
+    "2" : "s(Ben_Aldridge_(actor)) dbo:birthPlace o'<Devon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11157",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Lawford",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Betty_Lawford) dbo:birthDate o'<1912-02-01>",
+    "2" : "s(Betty_Lawford) dbo:birthDate o'<1910-1-1>",
+    "3" : "s(Betty_Lawford) dbo:birthPlace o'<London>",
+    "4" : "s(Betty_Lawford) dbo:birthPlace o'<London,_England,_UK>",
+    "5" : "s(Betty_Lawford) dbo:deathDate o'<1960-11-20>",
+    "6" : "s(Betty_Lawford) dbo:deathPlace o'<New_York_City>",
+    "7" : "s(Betty_Lawford) dbo:deathPlace o'<New_York_City,_New_York,_USA>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11158",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_K._Barnes",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barry_K._Barnes) dbo:birthDate o'<1906-12-27>",
+    "2" : "s(Barry_K._Barnes) dbo:birthPlace o'<England>",
+    "3" : "s(Barry_K._Barnes) dbo:birthPlace o'<London>",
+    "4" : "s(Barry_K._Barnes) dbo:birthPlace o'<Chelsea,_London>",
+    "5" : "s(Barry_K._Barnes) dbo:deathDate o'<1965-01-12>",
+    "6" : "s(Barry_K._Barnes) dbo:deathDate o'<1965-1-12>",
+    "7" : "s(Barry_K._Barnes) dbo:deathPlace o'<England>",
+    "8" : "s(Barry_K._Barnes) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11159",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Gallagher",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bernard_Gallagher) dbo:birthDate o'<1929-0-0>",
+    "2" : "s(Bernard_Gallagher) dbo:birthPlace o'<Bradford>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11160",
+  "entityUrl" : "http://dbpedia.org/resource/Bak_Man-biu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bak_Man-biu) dbo:deathDate o'<2007-8-2>",
+    "2" : "s(Bak_Man-biu) dbo:deathPlace o'<Manhattan>",
+    "3" : "s(Bak_Man-biu) dbp:deathPlace o'<Manhattan>",
+    "4" : "s(Bak_Man-biu) dbp:deathPlace o'<New_York_(state)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11161",
+  "entityUrl" : "http://dbpedia.org/resource/Baron_Chen",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Baron_Chen) dbo:birthDate o'<1981-5-9>",
+    "2" : "s(Baron_Chen) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Baron_Chen) dbp:birthPlace o'<Taiwan>",
+    "4" : "s(Baron_Chen) dbp:name o'<Chu-he Chen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11162",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Cason",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_Cason) dbo:birthDate o'<1928-11-15>",
+    "2" : "s(Barbara_Cason) dbo:birthPlace o'<Tennessee>",
+    "3" : "s(Barbara_Cason) dbo:birthPlace o'<Memphis,_Tennessee>",
+    "4" : "s(Barbara_Cason) dbo:deathDate o'<1990-06-18>",
+    "5" : "s(Barbara_Cason) dbo:deathDate o'<1990-6-18>",
+    "6" : "s(Barbara_Cason) dbo:deathPlace o'<Los_Angeles>",
+    "7" : "s(Barbara_Cason) dbo:deathPlace o'<Los_Angeles,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11163",
+  "entityUrl" : "http://dbpedia.org/resource/Britta_Brunius",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Britta_Brunius) dbo:activeYearsEndYear o'<1969>",
+    "2" : "s(Britta_Brunius) dbo:activeYearsStartYear o'<1935>",
+    "3" : "s(Britta_Brunius) dbo:birthDate o'<1912-05-04>",
+    "4" : "s(Britta_Brunius) dbo:birthDate o'<1912-5-4>",
+    "5" : "s(Britta_Brunius) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Britta_Brunius) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Britta_Brunius) dbo:birthYear o'<1912>",
+    "8" : "s(Britta_Brunius) dbo:deathDate o'<2000-08-31>",
+    "9" : "s(Britta_Brunius) dbo:deathDate o'<2000-8-31>",
+    "10" : "s(Britta_Brunius) dbo:deathPlace o'<Stockholm>",
+    "11" : "s(Britta_Brunius) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Britta_Brunius) dbo:deathYear o'<2000>",
+    "13" : "s(Britta_Brunius) dbo:nationality o'<Sweden>",
+    "14" : "s(Britta_Brunius) dbo:occupation o'<Britta_Brunius__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11164",
+  "entityUrl" : "http://dbpedia.org/resource/Barbro_Flodquist",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbro_Flodquist) dbo:birthDate o'<1919-04-19>",
+    "2" : "s(Barbro_Flodquist) dbo:birthDate o'<1919-4-19>",
+    "3" : "s(Barbro_Flodquist) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Barbro_Flodquist) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Barbro_Flodquist) dbo:deathDate o'<1971-01-29>",
+    "6" : "s(Barbro_Flodquist) dbo:deathDate o'<1971-1-29>",
+    "7" : "s(Barbro_Flodquist) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Barbro_Flodquist) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11165",
+  "entityUrl" : "http://dbpedia.org/resource/Bengt_Logardt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bengt_Logardt) dbo:birthDate o'<1914-10-09>",
+    "2" : "s(Bengt_Logardt) dbo:birthDate o'<1914-10-10>",
+    "3" : "s(Bengt_Logardt) dbo:birthPlace o'<Skellefteå>",
+    "4" : "s(Bengt_Logardt) dbo:deathDate o'<1994-09-25>",
+    "5" : "s(Bengt_Logardt) dbo:deathDate o'<1994-9-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11166",
+  "entityUrl" : "http://dbpedia.org/resource/Berta_Hall",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Berta_Hall) dbo:activeYearsEndYear o'<1988>",
+    "2" : "s(Berta_Hall) dbo:activeYearsStartYear o'<1942>",
+    "3" : "s(Berta_Hall) dbo:birthDate o'<1909-09-21>",
+    "4" : "s(Berta_Hall) dbo:birthDate o'<1909-9-21>",
+    "5" : "s(Berta_Hall) dbo:birthPlace o'<Strömstad>",
+    "6" : "s(Berta_Hall) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Berta_Hall) dbo:birthYear o'<1909>",
+    "8" : "s(Berta_Hall) dbo:deathDate o'<1999-06-06>",
+    "9" : "s(Berta_Hall) dbo:deathDate o'<1999-6-6>",
+    "10" : "s(Berta_Hall) dbo:deathPlace o'<Gothenburg>",
+    "11" : "s(Berta_Hall) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Berta_Hall) dbo:deathYear o'<1999>",
+    "13" : "s(Berta_Hall) dbo:nationality o'<Sweden>",
+    "14" : "s(Berta_Hall) dbo:occupation o'<Berta_Hall__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11167",
+  "entityUrl" : "http://dbpedia.org/resource/Britta_Holmberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Britta_Holmberg) dbo:activeYearsEndYear o'<1973>",
+    "2" : "s(Britta_Holmberg) dbo:activeYearsStartYear o'<1942>",
+    "3" : "s(Britta_Holmberg) dbo:alias o'<Britta Holmberg-Olin>",
+    "4" : "s(Britta_Holmberg) dbo:alias o'<Britta Olin>",
+    "5" : "s(Britta_Holmberg) dbo:birthDate o'<1921-12-21>",
+    "6" : "s(Britta_Holmberg) dbo:birthPlace o'<Eskilstuna_Municipality>",
+    "7" : "s(Britta_Holmberg) dbo:birthPlace o'<Sweden>",
+    "8" : "s(Britta_Holmberg) dbo:birthYear o'<1921>",
+    "9" : "s(Britta_Holmberg) dbo:child o'<Lena_Olin>",
+    "10" : "s(Britta_Holmberg) dbo:deathDate o'<2004-06-03>",
+    "11" : "s(Britta_Holmberg) dbo:deathDate o'<2004-6-3>",
+    "12" : "s(Britta_Holmberg) dbo:deathPlace o'<Falsterbo>",
+    "13" : "s(Britta_Holmberg) dbo:deathYear o'<2004>",
+    "14" : "s(Britta_Holmberg) dbo:nationality o'<Sweden>",
+    "15" : "s(Britta_Holmberg) dbo:occupation o'<Britta_Holmberg__1>",
+    "16" : "s(Britta_Holmberg) dbo:spouse o'<Stig_Olin>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(britta holmberg=Britta_Holmberg) [married to actor ] o'<stig olin=Stig_Olin>"
+  },
+  "abstract" : {
+    "3" : "britta holmberg<Britta_Holmberg> was married to actor stig olin<Stig_Olin> (they eventually divorced), and is the mother of actress lena olin<Lena_Olin>\n"
+  }
+}, {
+  "entityIndex" : "entity11168",
+  "entityUrl" : "http://dbpedia.org/resource/Birgit_Tengroth",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Birgit_Tengroth) dbo:activeYearsEndYear o'<1950>",
+    "2" : "s(Birgit_Tengroth) dbo:activeYearsStartYear o'<1926>",
+    "3" : "s(Birgit_Tengroth) dbo:birthDate o'<1915-07-13>",
+    "4" : "s(Birgit_Tengroth) dbo:birthDate o'<1915-7-13>",
+    "5" : "s(Birgit_Tengroth) dbo:birthPlace o'<Stockholm>",
+    "6" : "s(Birgit_Tengroth) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Birgit_Tengroth) dbo:birthYear o'<1915>",
+    "8" : "s(Birgit_Tengroth) dbo:deathDate o'<1983-09-21>",
+    "9" : "s(Birgit_Tengroth) dbo:deathDate o'<1983-9-21>",
+    "10" : "s(Birgit_Tengroth) dbo:deathPlace o'<Stockholm>",
+    "11" : "s(Birgit_Tengroth) dbo:deathPlace o'<Sweden>",
+    "12" : "s(Birgit_Tengroth) dbo:deathYear o'<1983>",
+    "13" : "s(Birgit_Tengroth) dbo:nationality o'<Sweden>",
+    "14" : "s(Birgit_Tengroth) dbo:occupation o'<Birgit_Tengroth__1>",
+    "15" : "s(Birgit_Tengroth) dbo:spouse o'<Jens_Otto_Krag>",
+    "16" : "s(Birgit_Tengroth) dbo:spouse o'<Stig_Ahlgren>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11169",
+  "entityUrl" : "http://dbpedia.org/resource/Belle_Chrystall",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Belle_Chrystall) dbo:activeYearsEndYear o'<1950>",
+    "2" : "s(Belle_Chrystall) dbo:activeYearsStartYear o'<1930>",
+    "3" : "s(Belle_Chrystall) dbo:birthDate o'<1910-04-25>",
+    "4" : "s(Belle_Chrystall) dbo:birthDate o'<1910-4-25>",
+    "5" : "s(Belle_Chrystall) dbo:birthPlace o'<Preston,_Lancashire>",
+    "6" : "s(Belle_Chrystall) dbo:birthPlace o'<United_Kingdom>",
+    "7" : "s(Belle_Chrystall) dbo:birthYear o'<1910>",
+    "8" : "s(Belle_Chrystall) dbo:deathDate o'<2003-6-7>",
+    "9" : "s(Belle_Chrystall) dbo:deathPlace o'<England>",
+    "10" : "s(Belle_Chrystall) dbo:deathPlace o'<United_Kingdom>",
+    "11" : "s(Belle_Chrystall) dbo:deathPlace o'<Surrey>",
+    "12" : "s(Belle_Chrystall) dbo:deathYear o'<2003>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(belle chrystall=Belle_Chrystall) [born in ] o'<preston=Preston,_Lancashire>",
+    "3" : "s(belle chrystall=Belle_Chrystall) [came to ] o'<london=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "belle chrystall<Belle_Chrystall> was born in preston<Preston,_Lancashire>, lancashire in 1910\n",
+    "3" : "belle chrystall<Belle_Chrystall> came to london<United_Kingdom> and after appearing on stage was given a minor part in a film a warm corner, directed by victor saville but belle chrystall<Belle_Chrystall> was given no more work after that\n"
+  }
+}, {
+  "entityIndex" : "entity11170",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Barton_(filmmaker)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benjamin_Barton_(filmmaker)) dbo:birthDate o'<1977-4-30>",
+    "2" : "s(Benjamin_Barton_(filmmaker)) dbo:occupation o'<Screenwriter>",
+    "3" : "s(Benjamin_Barton_(filmmaker)) dbo:occupation o'<Film>",
+    "4" : "s(Benjamin_Barton_(filmmaker)) dbo:occupation o'<Benjamin_Barton_(filmmaker)__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(benjamin barton (filmmaker)=Benjamin_Barton_(filmmaker)) [bit part in ] o'<film=Film>"
+  },
+  "abstract" : {
+    "2" : "his credits include the curse of blanchard hill and dark measures, and benjamin barton (filmmaker)<Benjamin_Barton_(filmmaker)> had a bit part in the 2002 film<Film> charly\n"
+  }
+}, {
+  "entityIndex" : "entity11171",
+  "entityUrl" : "http://dbpedia.org/resource/Bunmi_Mojekwu",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bunmi_Mojekwu) dbo:activeYearsStartYear o'<2008>",
+    "2" : "s(Bunmi_Mojekwu) dbo:birthDate o'<1989-2-10>",
+    "3" : "s(Bunmi_Mojekwu) dbo:birthName o'<Oluwabunmi Adaeze Mojekwu>",
+    "4" : "s(Bunmi_Mojekwu) dbo:birthPlace o'<England>",
+    "5" : "s(Bunmi_Mojekwu) dbo:birthPlace o'<London>",
+    "6" : "s(Bunmi_Mojekwu) dbo:birthPlace o'<Brixton>",
+    "7" : "s(Bunmi_Mojekwu) dbo:country o'<England>",
+    "8" : "s(Bunmi_Mojekwu) dbo:occupation o'<Actress>",
+    "9" : "s(Bunmi_Mojekwu) dbo:occupation o'<Bunmi_Mojekwu__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11172",
+  "entityUrl" : "http://dbpedia.org/resource/Bj%C3%B6rn_Gustafsson_(born_1934)",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11173",
+  "entityUrl" : "http://dbpedia.org/resource/Bo_Brundin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bo_Brundin) dbo:activeYearsEndYear o'<2002>",
+    "2" : "s(Bo_Brundin) dbo:activeYearsStartYear o'<1970>",
+    "3" : "s(Bo_Brundin) dbo:birthDate o'<1937-04-25>",
+    "4" : "s(Bo_Brundin) dbo:birthDate o'<1937-4-25>",
+    "5" : "s(Bo_Brundin) dbo:birthPlace o'<Uppsala>",
+    "6" : "s(Bo_Brundin) dbo:birthYear o'<1937>",
+    "7" : "s(Bo_Brundin) dbo:nationality o'<Sweden>",
+    "8" : "s(Bo_Brundin) dbo:occupation o'<Bo_Brundin__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11174",
+  "entityUrl" : "http://dbpedia.org/resource/Bertha_Belmore",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bertha_Belmore) dbo:birthDate o'<1882-12-22>",
+    "2" : "s(Bertha_Belmore) dbo:birthPlace o'<Manchester>",
+    "3" : "s(Bertha_Belmore) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(Bertha_Belmore) dbo:birthPlace o'<Lancashire>",
+    "5" : "s(Bertha_Belmore) dbo:deathDate o'<1953-12-14>",
+    "6" : "s(Bertha_Belmore) dbo:deathPlace o'<Barcelona>",
+    "7" : "s(Bertha_Belmore) dbo:deathPlace o'<Catalonia>",
+    "8" : "s(Bertha_Belmore) dbo:deathPlace o'<Spain>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11175",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Gott",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_Gott) dbo:birthDate o'<1872-0-0>",
+    "2" : "s(Barbara_Gott) dbo:birthPlace o'<Stirling>",
+    "3" : "s(Barbara_Gott) dbo:birthPlace o'<Stirlingshire>",
+    "4" : "s(Barbara_Gott) dbo:deathDate o'<1944-11-18>",
+    "5" : "s(Barbara_Gott) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11176",
+  "entityUrl" : "http://dbpedia.org/resource/Brett_Findlay",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brett_Findlay) dbo:activeYearsStartYear o'<2003>",
+    "2" : "s(Brett_Findlay) dbo:birthDate o'<1972-5-30>",
+    "3" : "s(Brett_Findlay) dbo:birthPlace o'<Somerset>",
+    "4" : "s(Brett_Findlay) dbo:country o'<England>",
+    "5" : "s(Brett_Findlay) dbo:imdbId o'<1539051>",
+    "6" : "s(Brett_Findlay) dbo:spouse o'<Jemilah_Findlay>",
+    "7" : "s(Brett_Findlay) dbp:name o'<Brett Findlay>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(brett findlay=Brett_Findlay) [noted percussionist ] o'<english=England>"
+  },
+  "abstract" : {
+    "6" : "in his previous career as a musician brett findlay<Brett_Findlay> is most noted as percussionist with kula shaker, the english<England> psychedelic rock band\n"
+  }
+}, {
+  "entityIndex" : "entity11177",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Lupino",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barry_Lupino) dbo:activeYearsEndYear o'<1962>",
+    "2" : "s(Barry_Lupino) dbo:activeYearsStartYear o'<1919>",
+    "3" : "s(Barry_Lupino) dbo:birthDate o'<1884-01-07>",
+    "4" : "s(Barry_Lupino) dbo:birthDate o'<1882-1-7>",
+    "5" : "s(Barry_Lupino) dbo:birthName o'<George Barry Lupino-Hook>",
+    "6" : "s(Barry_Lupino) dbo:birthPlace o'<England>",
+    "7" : "s(Barry_Lupino) dbo:birthPlace o'<London>",
+    "8" : "s(Barry_Lupino) dbo:birthPlace o'<Southwark>",
+    "9" : "s(Barry_Lupino) dbo:birthYear o'<1884>",
+    "10" : "s(Barry_Lupino) dbo:deathDate o'<1962-09-26>",
+    "11" : "s(Barry_Lupino) dbo:deathDate o'<1962-9-26>",
+    "12" : "s(Barry_Lupino) dbo:deathPlace o'<England>",
+    "13" : "s(Barry_Lupino) dbo:deathPlace o'<Brighton>",
+    "14" : "s(Barry_Lupino) dbo:deathPlace o'<Sussex>",
+    "15" : "s(Barry_Lupino) dbo:deathYear o'<1962>",
+    "16" : "s(Barry_Lupino) dbo:occupation o'<Barry_Lupino__1>",
+    "17" : "s(Barry_Lupino) dbp:imagesize o'<400>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11178",
+  "entityUrl" : "http://dbpedia.org/resource/Basil_Gill",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Basil_Gill) dbo:birthDate o'<1877-03-10>",
+    "2" : "s(Basil_Gill) dbo:birthDate o'<1877-3-10>",
+    "3" : "s(Basil_Gill) dbo:birthPlace o'<Cheshire>",
+    "4" : "s(Basil_Gill) dbo:birthPlace o'<England>",
+    "5" : "s(Basil_Gill) dbo:birthPlace o'<Birkenhead>",
+    "6" : "s(Basil_Gill) dbo:deathDate o'<1955-04-23>",
+    "7" : "s(Basil_Gill) dbo:deathDate o'<1955-4-23>",
+    "8" : "s(Basil_Gill) dbo:deathPlace o'<England>",
+    "9" : "s(Basil_Gill) dbo:deathPlace o'<Hove>",
+    "10" : "s(Basil_Gill) dbo:deathPlace o'<Sussex>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11179",
+  "entityUrl" : "http://dbpedia.org/resource/Benny_Haag",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Benny_Haag) dbo:birthDate o'<1961-05-08>",
+    "2" : "s(Benny_Haag) dbo:birthDate o'<1961-1-1>",
+    "3" : "s(Benny_Haag) dbo:birthYear o'<1961>",
+    "4" : "s(Benny_Haag) dbo:nationality o'<Sweden>",
+    "5" : "s(Benny_Haag) dbo:occupation o'<Benny_Haag__1>",
+    "6" : "s(Benny_Haag) dbo:occupation o'<Actor>",
+    "7" : "s(Benny_Haag) dbp:date o'<February 2013>",
+    "8" : "s(Benny_Haag) dbp:inaccurate o'<yes>",
+    "9" : "s(Benny_Haag) dbp:spouse o'<)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11180",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Couper",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_Couper) dbo:birthDate o'<1903-01-06>",
+    "2" : "s(Barbara_Couper) dbo:birthDate o'<1903-1-6>",
+    "3" : "s(Barbara_Couper) dbo:birthPlace o'<London>",
+    "4" : "s(Barbara_Couper) dbo:birthPlace o'<United_Kingdom>",
+    "5" : "s(Barbara_Couper) dbo:deathDate o'<1992-01-10>",
+    "6" : "s(Barbara_Couper) dbo:deathDate o'<1992-1-10>",
+    "7" : "s(Barbara_Couper) dbo:deathPlace o'<United_Kingdom>",
+    "8" : "s(Barbara_Couper) dbo:deathPlace o'<Woking>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11181",
+  "entityUrl" : "http://dbpedia.org/resource/Billy_Chow",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Billy_Chow) dbo:birthDate o'<1958-8-24>",
+    "2" : "s(Billy_Chow) dbo:birthPlace o'<Calgary>",
+    "3" : "s(Billy_Chow) dbp:birthPlace o'<Alberta>",
+    "4" : "s(Billy_Chow) dbp:birthPlace o'<Canada>",
+    "5" : "s(Billy_Chow) dbp:birthPlace o'<Calgary>",
+    "6" : "s(Billy_Chow) dbp:name o'<Billy Chow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11182",
+  "entityUrl" : "http://dbpedia.org/resource/Bengt_Djurberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bengt_Djurberg) dbo:birthDate o'<1898-07-23>",
+    "2" : "s(Bengt_Djurberg) dbo:birthDate o'<1898-7-23>",
+    "3" : "s(Bengt_Djurberg) dbo:birthPlace o'<Stockholm>",
+    "4" : "s(Bengt_Djurberg) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Bengt_Djurberg) dbo:deathDate o'<1941-11-02>",
+    "6" : "s(Bengt_Djurberg) dbo:deathDate o'<1941-11-2>",
+    "7" : "s(Bengt_Djurberg) dbo:deathPlace o'<Stockholm>",
+    "8" : "s(Bengt_Djurberg) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11183",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Kinghorn",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_Kinghorn) dbo:birthDate o'<1944-11-21>",
+    "2" : "s(Barbara_Kinghorn) dbo:country o'<United_Kingdom>",
+    "3" : "s(Barbara_Kinghorn) dbo:imdbId o'<0455431>",
+    "4" : "s(Barbara_Kinghorn) dbp:name o'<Barbara Kinghorn>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11184",
+  "entityUrl" : "http://dbpedia.org/resource/Brewster_Mason",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brewster_Mason) dbo:birthDate o'<1922-08-30>",
+    "2" : "s(Brewster_Mason) dbo:birthDate o'<1922-8-30>",
+    "3" : "s(Brewster_Mason) dbo:birthPlace o'<England>",
+    "4" : "s(Brewster_Mason) dbo:birthPlace o'<Kidsgrove>",
+    "5" : "s(Brewster_Mason) dbo:birthPlace o'<Staffordshire>",
+    "6" : "s(Brewster_Mason) dbo:birthYear o'<1922>",
+    "7" : "s(Brewster_Mason) dbo:country o'<England>",
+    "8" : "s(Brewster_Mason) dbo:deathDate o'<1987-08-14>",
+    "9" : "s(Brewster_Mason) dbo:deathDate o'<1987-8-14>",
+    "10" : "s(Brewster_Mason) dbo:deathPlace o'<England>",
+    "11" : "s(Brewster_Mason) dbo:deathPlace o'<London>",
+    "12" : "s(Brewster_Mason) dbo:deathYear o'<1987>",
+    "13" : "s(Brewster_Mason) dbo:imdbId o'<0556619>",
+    "14" : "s(Brewster_Mason) dbo:occupation o'<Actor>",
+    "15" : "s(Brewster_Mason) dbo:occupation o'<Brewster_Mason__1>",
+    "16" : "s(Brewster_Mason) dbp:name o'<Brewster Mason>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(brewster mason=Brewster_Mason) [30 august 1922  14 ] o'<stage actor=Actor>",
+    "2" : "s(brewster mason=Brewster_Mason) [born in ] o'<kidsgrove=Kidsgrove>",
+    "3" : "s(brewster mason=Brewster_Mason) [appeared on ] o'<stage=Actor>",
+    "5" : "s(brewster mason=Brewster_Mason) [made appearances in many british ] o'<television=Actor>",
+    "12" : "s(brewster mason=Brewster_Mason) [spell in ] o'<film=Actor>",
+    "14" : "s(brewster mason=Brewster_Mason) [died aged 64 following ] o'<london=LONDON>"
+  },
+  "abstract" : {
+    "1" : "brewster mason<Brewster_Mason> (30 august 1922 – 14 august 1987) was an english stage actor<Actor> who also made some notable brewster mason<Brewster_Mason>0 and television<Actor> appearances",
+    "2" : "brewster mason<Brewster_Mason> was born in kidsgrove<Kidsgrove>, staffordshire<Staffordshire> and made his stage<Actor> debut at the finsbury park open air theatre in 1947\n",
+    "3" : "brewster mason<Brewster_Mason> then appeared on stage<Actor> in repertory theatre, in london's<London> west end and on broadway\n",
+    "5" : "brewster mason<Brewster_Mason> made appearances in many british television<Actor> plays and series including; the affair (1962), the pallisers (1974) and quatermass (1979) and tales of the unexpected (1980–81)\n",
+    "12" : "in 1957 brewster mason<Brewster_Mason> had a spell in the bbc's radio drama repertory company when, after an accident in which brewster mason<Brewster_Mason> injured his leg, brewster mason<Brewster_Mason> was unable to undertake film<Actor> or stage<Actor> work\n",
+    "14" : "brewster mason<Brewster_Mason> died aged 64 following a fall when brewster mason<Brewster_Mason> was appearing in richard ii at the barbican theatre, london<LONDON>\n"
+  }
+}, {
+  "entityIndex" : "entity11185",
+  "entityUrl" : "http://dbpedia.org/resource/Brook_Williams",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brook_Williams) dbo:activeYearsEndYear o'<1995>",
+    "2" : "s(Brook_Williams) dbo:activeYearsStartYear o'<1959>",
+    "3" : "s(Brook_Williams) dbo:birthDate o'<1938-01-22>",
+    "4" : "s(Brook_Williams) dbo:birthDate o'<1938-1-22>",
+    "5" : "s(Brook_Williams) dbo:birthName o'<Brook Richard Williams>",
+    "6" : "s(Brook_Williams) dbo:birthPlace o'<London>",
+    "7" : "s(Brook_Williams) dbo:birthPlace o'<Chelsea,_London>",
+    "8" : "s(Brook_Williams) dbo:birthYear o'<1938>",
+    "9" : "s(Brook_Williams) dbo:country o'<England>",
+    "10" : "s(Brook_Williams) dbo:deathDate o'<2005-04-29>",
+    "11" : "s(Brook_Williams) dbo:deathDate o'<2005-4-29>",
+    "12" : "s(Brook_Williams) dbo:deathPlace o'<London>",
+    "13" : "s(Brook_Williams) dbo:deathYear o'<2005>",
+    "14" : "s(Brook_Williams) dbo:imdbId o'<0930180>",
+    "15" : "s(Brook_Williams) dbo:occupation o'<Actor>",
+    "16" : "s(Brook_Williams) dbo:occupation o'<Brook_Williams__1>",
+    "17" : "s(Brook_Williams) dbp:name o'<Brook Williams>",
+    "18" : "s(Brook_Williams) dbp:spouse o'<Liz Holloway>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(brook williams=Brook_Williams) [richard williams 22 january 1938 ] o'<stage actor=Actor>",
+    "4" : "s(brook williams=Brook_Williams) [born in ] o'<london=LONDON>",
+    "5" : "s(brook williams=Brook_Williams) [appeared on ] o'<stage=Actor>",
+    "7" : "s(brook williams=Brook_Williams) [close friend assistant ] o'<actor=Actor>"
+  },
+  "abstract" : {
+    "1" : "brook<Brook_Williams> richard williams (22 january 1938 – 29 april 2005) was a welsh stage actor<Actor> who also made numerous film<Actor> and television<Actor> appearances in small roles",
+    "4" : "brook<Brook_Williams> was born in london<LONDON> and attended stowe school in buckinghamshire",
+    "5" : "after national service in the raf brook williams<Brook_Williams> appeared on stage<Actor> in repertory theatre, in london's<London> west end and abroad on tour\n",
+    "7" : "brook williams<Brook_Williams> was a close friend, assistant and advisor to the actor<Actor> richard burton who had known him since brook williams<Brook_Williams> was a child and brook williams<Brook_Williams> appeared in several films which burton starred in\n"
+  }
+}, {
+  "entityIndex" : "entity11186",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Ann_Davies",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Betty_Ann_Davies) dbo:activeYearsEndYear o'<1956>",
+    "2" : "s(Betty_Ann_Davies) dbo:activeYearsStartYear o'<1934>",
+    "3" : "s(Betty_Ann_Davies) dbo:birthDate o'<1910-12-24>",
+    "4" : "s(Betty_Ann_Davies) dbo:birthPlace o'<England>",
+    "5" : "s(Betty_Ann_Davies) dbo:birthPlace o'<London>",
+    "6" : "s(Betty_Ann_Davies) dbo:birthYear o'<1910>",
+    "7" : "s(Betty_Ann_Davies) dbo:deathDate o'<1955-05-14>",
+    "8" : "s(Betty_Ann_Davies) dbo:deathDate o'<1955-5-14>",
+    "9" : "s(Betty_Ann_Davies) dbo:deathPlace o'<England>",
+    "10" : "s(Betty_Ann_Davies) dbo:deathPlace o'<Manchester>",
+    "11" : "s(Betty_Ann_Davies) dbo:deathYear o'<1955>",
+    "12" : "s(Betty_Ann_Davies) dbo:occupation o'<Actress>",
+    "13" : "s(Betty_Ann_Davies) dbo:occupation o'<Betty_Ann_Davies__1>",
+    "14" : "s(Betty_Ann_Davies) dbp:deathCause o'<appendectomy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11187",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Weske",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brian_Weske) dbo:birthDate o'<1932-1-1>",
+    "2" : "s(Brian_Weske) dbo:deathDate o'<2001-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11188",
+  "entityUrl" : "http://dbpedia.org/resource/Billy_Milton",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Billy_Milton) dbo:birthDate o'<1905-12-8>",
+    "2" : "s(Billy_Milton) dbo:deathDate o'<1989-11-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11189",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Fields",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11190",
+  "entityUrl" : "http://dbpedia.org/resource/Blanche_Forsythe",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11191",
+  "entityUrl" : "http://dbpedia.org/resource/Bert_Wynne",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bert_Wynne) dbo:birthDate o'<1886-1-1>",
+    "2" : "s(Bert_Wynne) dbo:deathDate o'<1971-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11192",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Faire",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11193",
+  "entityUrl" : "http://dbpedia.org/resource/Beckett_Bould",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Beckett_Bould) dbo:birthDate o'<1880-9-28>",
+    "2" : "s(Beckett_Bould) dbo:deathDate o'<1970-9-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11194",
+  "entityUrl" : "http://dbpedia.org/resource/Bert_Tracy",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11195",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Vaughan_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11196",
+  "entityUrl" : "http://dbpedia.org/resource/Bryan_Powley",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bryan_Powley) dbo:birthDate o'<1871-1-1>",
+    "2" : "s(Bryan_Powley) dbo:deathDate o'<1962-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11197",
+  "entityUrl" : "http://dbpedia.org/resource/Bertram_Burleigh",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bertram_Burleigh) dbo:birthDate o'<1890-1-1>",
+    "2" : "s(Bertram_Burleigh) dbo:deathDate o'<1961-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11198",
+  "entityUrl" : "http://dbpedia.org/resource/Bertie_Wright",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bertie_Wright) dbo:birthDate o'<1871-2-6>",
+    "2" : "s(Bertie_Wright) dbo:deathDate o'<1960-3-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11199",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Batt",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Batt) dbo:birthDate o'<1986-1-1>",
+    "2" : "s(Ben_Batt) dbo:birthPlace o'<England>",
+    "3" : "s(Ben_Batt) dbo:birthPlace o'<Wigan>",
+    "4" : "s(Ben_Batt) dbo:birthPlace o'<Greater_Manchester>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11200",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Wong",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Wong) dbo:birthDate o'<1973-10-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11201",
+  "entityUrl" : "http://dbpedia.org/resource/Batdorj-in_Baasanjab",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Batdorj-in_Baasanjab) dbo:birthDate o'<1954-1-1>",
+    "2" : "s(Batdorj-in_Baasanjab) dbo:birthPlace o'<Bortala_Mongol_Autonomous_Prefecture>",
+    "3" : "s(Batdorj-in_Baasanjab) dbp:birthPlace o'<Hartulga, Bortala, Xinjiang, China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11202",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Field",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Field) dbo:birthDate o'<1876-1-1>",
+    "2" : "s(Ben_Field) dbo:deathDate o'<1939-10-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11203",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Schulz",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_Schulz) dbo:birthDate o'<1972-3-15>",
+    "2" : "s(Barbara_Schulz) dbo:birthPlace o'<Talence>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11204",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Livesey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barry_Livesey) dbo:birthDate o'<1904-0-0>",
+    "2" : "s(Barry_Livesey) dbo:birthPlace o'<Barry,_Vale_of_Glamorgan>",
+    "3" : "s(Barry_Livesey) dbo:birthPlace o'<Vale_of_Glamorgan>",
+    "4" : "s(Barry_Livesey) dbo:birthPlace o'<Wales>",
+    "5" : "s(Barry_Livesey) dbo:deathDate o'<1959-1-1>",
+    "6" : "s(Barry_Livesey) dbo:deathPlace o'<England>",
+    "7" : "s(Barry_Livesey) dbo:deathPlace o'<Maidstone,_Kent>",
+    "8" : "s(Barry_Livesey) dbo:deathPlace o'<Kent,_England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11205",
+  "entityUrl" : "http://dbpedia.org/resource/Booth_Conway",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11206",
+  "entityUrl" : "http://dbpedia.org/resource/Bartlett_Mullins",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bartlett_Mullins) dbo:birthDate o'<1904-8-13>",
+    "2" : "s(Bartlett_Mullins) dbo:deathDate o'<1992-5-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11207",
+  "entityUrl" : "http://dbpedia.org/resource/Bao_Guo'an",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bao_Guo'an) dbo:birthDate o'<1946-1-1>",
+    "2" : "s(Bao_Guo'an) dbp:birthPlace o'<China>",
+    "3" : "s(Bao_Guo'an) dbp:birthPlace o'<Tianjin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11208",
+  "entityUrl" : "http://dbpedia.org/resource/Bruno_Pradal",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bruno_Pradal) dbo:birthDate o'<1949-7-17>",
+    "2" : "s(Bruno_Pradal) dbo:birthPlace o'<Rabat>",
+    "3" : "s(Bruno_Pradal) dbo:deathDate o'<1992-5-19>",
+    "4" : "s(Bruno_Pradal) dbo:deathPlace o'<Saran,_Loiret>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11209",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Musson",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bernard_Musson) dbo:birthDate o'<1925-02-22>",
+    "2" : "s(Bernard_Musson) dbo:birthDate o'<1925-2-22>",
+    "3" : "s(Bernard_Musson) dbo:birthPlace o'<France>",
+    "4" : "s(Bernard_Musson) dbo:deathDate o'<2010-10-29>",
+    "5" : "s(Bernard_Musson) dbo:deathPlace o'<Paris>",
+    "6" : "s(Bernard_Musson) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11210",
+  "entityUrl" : "http://dbpedia.org/resource/Brasse_Br%C3%A4nnstr%C3%B6m",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11211",
+  "entityUrl" : "http://dbpedia.org/resource/Bunjaku_Han",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bunjaku_Han) dbo:birthDate o'<1948-04-15>",
+    "2" : "s(Bunjaku_Han) dbo:birthDate o'<1948-4-15>",
+    "3" : "s(Bunjaku_Han) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Bunjaku_Han) dbo:deathDate o'<2002-11-05>",
+    "5" : "s(Bunjaku_Han) dbo:deathDate o'<2002-11-5>",
+    "6" : "s(Bunjaku_Han) dbo:deathPlace o'<Chiyoda,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11212",
+  "entityUrl" : "http://dbpedia.org/resource/Bertil_Norstr%C3%B6m",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11213",
+  "entityUrl" : "http://dbpedia.org/resource/Bj%C3%B6rn_Gedda",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11214",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Tse_(singer)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brian_Tse_(singer)) dbo:birthDate o'<1985-12-6>",
+    "2" : "s(Brian_Tse_(singer)) dbp:name o'<Brian Tse>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11215",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Faulks",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Faulks) dbo:birthDate o'<1979-1-1>",
+    "2" : "s(Ben_Faulks) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11216",
+  "entityUrl" : "http://dbpedia.org/resource/Bj%C3%B6rn_Berglund",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11217",
+  "entityUrl" : "http://dbpedia.org/resource/Bryony_Hannah",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11218",
+  "entityUrl" : "http://dbpedia.org/resource/B%C3%A9atrice_Altariba",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11219",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Yeo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Yeo) dbo:birthDate o'<1978-9-23>",
+    "2" : "s(Ben_Yeo) dbo:birthPlace o'<Singapore>",
+    "3" : "s(Ben_Yeo) dbp:birthPlace o'<Singapore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11220",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Zhou",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Betty_Zhou) dbo:activeYearsEndYear o'<2007>",
+    "2" : "s(Betty_Zhou) dbo:activeYearsStartYear o'<2007>",
+    "3" : "s(Betty_Zhou) dbo:country o'<People's_Republic_of_China>",
+    "4" : "s(Betty_Zhou) dbo:imdbId o'<nm3730655>",
+    "5" : "s(Betty_Zhou) dbp:birthPlace o'<Jiangsu, China>",
+    "6" : "s(Betty_Zhou) dbp:name o'<Betty Zhou>",
+    "7" : "s(Betty_Zhou) dbp:occupation o'<Actress, Host>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(betty zhou=Betty_Zhou) [active in ] o'<china=People's_Republic_of_China>",
+    "3" : "s(betty zhou=Betty_Zhou) [became first bilingual anchor ] o'<china=People's_Republic_of_China>"
+  },
+  "abstract" : {
+    "2" : "betty zhou<Betty_Zhou> is active in china<People's_Republic_of_China> & singapore\n",
+    "3" : "in 2013, betty zhou<Betty_Zhou> became the first bilingual anchor from china<People's_Republic_of_China> to cover the nba finals\n"
+  }
+}, {
+  "entityIndex" : "entity11221",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Le_Coq",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bernard_Le_Coq) dbo:birthDate o'<1950-09-25>",
+    "2" : "s(Bernard_Le_Coq) dbo:birthDate o'<1950-9-25>",
+    "3" : "s(Bernard_Le_Coq) dbo:birthPlace o'<Le_Blanc>",
+    "4" : "s(Bernard_Le_Coq) dbo:birthPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11222",
+  "entityUrl" : "http://dbpedia.org/resource/Bonnie_Loo",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bonnie_Loo) dbo:birthDate o'<1994-7-12>",
+    "2" : "s(Bonnie_Loo) dbo:country o'<People's_Republic_of_China>",
+    "3" : "s(Bonnie_Loo) dbo:genre o'<Mandopop>",
+    "4" : "s(Bonnie_Loo) dbo:recordLabel o'<S2S_Pte._Ltd.>",
+    "5" : "s(Bonnie_Loo) dbp:after o'<A>",
+    "6" : "s(Bonnie_Loo) dbp:ancestry o'<Hakka>",
+    "7" : "s(Bonnie_Loo) dbp:before o'<Jarod Lee>",
+    "8" : "s(Bonnie_Loo) dbp:birthDate o'<1994-07-12>",
+    "9" : "s(Bonnie_Loo) dbp:birthName o'<Loo Mee Yee>",
+    "10" : "s(Bonnie_Loo) dbp:birthPlace o'<Malaysia>",
+    "11" : "s(Bonnie_Loo) dbp:instrument o'<Vocals>",
+    "12" : "s(Bonnie_Loo) dbp:occupation o'<Singer, actress>",
+    "13" : "s(Bonnie_Loo) dbp:origin o'<Ipoh>",
+    "14" : "s(Bonnie_Loo) dbp:p o'<Luō Měiyí>",
+    "15" : "s(Bonnie_Loo) dbp:t o'<羅美儀>",
+    "16" : "s(Bonnie_Loo) dbp:title o'<Campus_SuperStar>",
+    "17" : "s(Bonnie_Loo) dbp:title o'<''>",
+    "18" : "s(Bonnie_Loo) dbp:title o'<Winner of ''>",
+    "19" : "s(Bonnie_Loo) dbp:years o'<2013>",
+    "20" : "s(Bonnie_Loo) dbp:yearsActive o'<2013>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(bonnie loo=Bonnie_Loo) [emerged from fourth season ] o'<campus superstar=Campus_SuperStar>",
+    "4" : "s(bonnie loo=Bonnie_Loo) [crowned first female ] o'<singer=Vocals>"
+  },
+  "abstract" : {
+    "2" : "bonnie loo<Bonnie_Loo> emerged from the fourth season of campus superstar<Campus_SuperStar>, one of the chinese singing<Vocals> competitions held in singapore\n",
+    "4" : "bonnie loo<Bonnie_Loo> was crowned the first female winner since the first competition in 2006 and won a two-year mediacorp management contract, $5,000 cash and the opportunity to perform with taiwan-based singer<Vocals> ding dang in glass anatomy the musical\n"
+  }
+}, {
+  "entityIndex" : "entity11223",
+  "entityUrl" : "http://dbpedia.org/resource/Bai_Baihe",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bai_Baihe) dbo:birthDate o'<1984-2-28>",
+    "2" : "s(Bai_Baihe) dbo:birthPlace o'<Qingdao>",
+    "3" : "s(Bai_Baihe) dbp:birthPlace o'<Shandong>",
+    "4" : "s(Bai_Baihe) dbp:birthPlace o'<China>",
+    "5" : "s(Bai_Baihe) dbp:birthPlace o'<Qingdao>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11224",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Lancret",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bernard_Lancret) dbo:birthDate o'<1912-09-04>",
+    "2" : "s(Bernard_Lancret) dbo:birthDate o'<1912-1-1>",
+    "3" : "s(Bernard_Lancret) dbo:birthPlace o'<Gonesse>",
+    "4" : "s(Bernard_Lancret) dbo:birthPlace o'<France>",
+    "5" : "s(Bernard_Lancret) dbo:deathDate o'<1983-9-5>",
+    "6" : "s(Bernard_Lancret) dbo:deathPlace o'<Mougins>",
+    "7" : "s(Bernard_Lancret) dbo:deathPlace o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11225",
+  "entityUrl" : "http://dbpedia.org/resource/Bryden_Murdoch",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bryden_Murdoch) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11226",
+  "entityUrl" : "http://dbpedia.org/resource/Billy_Lau",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Billy_Lau) dbo:birthDate o'<1954-4-3>",
+    "2" : "s(Billy_Lau) dbo:birthPlace o'<Hong_Kong>",
+    "3" : "s(Billy_Lau) dbp:birthPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11227",
+  "entityUrl" : "http://dbpedia.org/resource/Bennett_Pang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bennett_Pang) dbo:birthDate o'<1949-4-7>",
+    "2" : "s(Bennett_Pang) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11228",
+  "entityUrl" : "http://dbpedia.org/resource/Brita_%C3%96berg",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11229",
+  "entityUrl" : "http://dbpedia.org/resource/Birger_Lensander",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Birger_Lensander) dbo:birthDate o'<1908-10-21>",
+    "2" : "s(Birger_Lensander) dbo:birthPlace o'<Södertälje>",
+    "3" : "s(Birger_Lensander) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Birger_Lensander) dbo:deathDate o'<1971-03-03>",
+    "5" : "s(Birger_Lensander) dbo:deathDate o'<1971-3-3>",
+    "6" : "s(Birger_Lensander) dbo:deathPlace o'<Stockholm>",
+    "7" : "s(Birger_Lensander) dbo:deathPlace o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11230",
+  "entityUrl" : "http://dbpedia.org/resource/B%C3%B6rje_Nyberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11231",
+  "entityUrl" : "http://dbpedia.org/resource/Bellan_Roos",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bellan_Roos) dbo:activeYearsEndYear o'<1979>",
+    "2" : "s(Bellan_Roos) dbo:activeYearsStartYear o'<1933>",
+    "3" : "s(Bellan_Roos) dbo:birthDate o'<1901-05-25>",
+    "4" : "s(Bellan_Roos) dbo:birthDate o'<1901-5-25>",
+    "5" : "s(Bellan_Roos) dbo:birthPlace o'<Nynäshamn>",
+    "6" : "s(Bellan_Roos) dbo:birthYear o'<1901>",
+    "7" : "s(Bellan_Roos) dbo:deathDate o'<1990-04-08>",
+    "8" : "s(Bellan_Roos) dbo:deathDate o'<1990-4-8>",
+    "9" : "s(Bellan_Roos) dbo:deathPlace o'<Stockholm>",
+    "10" : "s(Bellan_Roos) dbo:deathYear o'<1990>",
+    "11" : "s(Bellan_Roos) dbo:nationality o'<Sweden>",
+    "12" : "s(Bellan_Roos) dbo:occupation o'<Bellan_Roos__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11232",
+  "entityUrl" : "http://dbpedia.org/resource/Birger_%C3%85sander",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11233",
+  "entityUrl" : "http://dbpedia.org/resource/Bojan_Westin",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bojan_Westin) dbo:activeYearsEndYear o'<2011>",
+    "2" : "s(Bojan_Westin) dbo:activeYearsStartYear o'<1941>",
+    "3" : "s(Bojan_Westin) dbo:birthDate o'<1926-09-05>",
+    "4" : "s(Bojan_Westin) dbo:birthDate o'<1926-9-5>",
+    "5" : "s(Bojan_Westin) dbo:birthPlace o'<Iggesund,_Hudiksvall_Municipality>",
+    "6" : "s(Bojan_Westin) dbo:birthPlace o'<Sweden>",
+    "7" : "s(Bojan_Westin) dbo:birthPlace o'<Iggesund,_Hudiksvall>",
+    "8" : "s(Bojan_Westin) dbo:birthYear o'<1926>",
+    "9" : "s(Bojan_Westin) dbo:deathDate o'<2013-10-04>",
+    "10" : "s(Bojan_Westin) dbo:deathDate o'<2013-10-4>",
+    "11" : "s(Bojan_Westin) dbo:deathPlace o'<Stockholm>",
+    "12" : "s(Bojan_Westin) dbo:deathPlace o'<Sweden>",
+    "13" : "s(Bojan_Westin) dbo:deathYear o'<2013>",
+    "14" : "s(Bojan_Westin) dbo:nationality o'<Sweden>",
+    "15" : "s(Bojan_Westin) dbo:occupation o'<Bojan_Westin__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11234",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Laage",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Barbara_Laage) dbo:birthDate o'<1920-7-30>",
+    "2" : "s(Barbara_Laage) dbo:birthPlace o'<Menthon-Saint-Bernard>",
+    "3" : "s(Barbara_Laage) dbo:deathDate o'<1988-5-19>",
+    "4" : "s(Barbara_Laage) dbo:deathPlace o'<Deauville>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11235",
+  "entityUrl" : "http://dbpedia.org/resource/Beverly_Naya",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Beverly_Naya) dbo:activeYearsStartYear o'<2008>",
+    "2" : "s(Beverly_Naya) dbo:birthDate o'<1989-04-17>",
+    "3" : "s(Beverly_Naya) dbo:birthDate o'<1988-4-17>",
+    "4" : "s(Beverly_Naya) dbo:birthPlace o'<London>",
+    "5" : "s(Beverly_Naya) dbo:birthPlace o'<United_Kingdom>",
+    "6" : "s(Beverly_Naya) dbo:birthYear o'<1989>",
+    "7" : "s(Beverly_Naya) dbo:occupation o'<Actress>",
+    "8" : "s(Beverly_Naya) dbo:occupation o'<Beverly_Naya__1>",
+    "9" : "s(Beverly_Naya) dbo:residence o'<Nigeria>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(beverly naya=Beverly_Naya) [won award for ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "3" : "beverly naya<Beverly_Naya> also won the award for fast rising actress<Actress> at the 2011 city<London> people entertainment awards\n"
+  }
+}, {
+  "entityIndex" : "entity11236",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Chung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Betty_Chung) dbo:birthDate o'<1947-1-1>",
+    "2" : "s(Betty_Chung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11237",
+  "entityUrl" : "http://dbpedia.org/resource/Bengt_Dalqvist",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bengt_Dalqvist) dbo:birthDate o'<1975-03-28>",
+    "2" : "s(Bengt_Dalqvist) dbo:birthDate o'<1975-3-28>",
+    "3" : "s(Bengt_Dalqvist) dbo:birthPlace o'<Enköping>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11238",
+  "entityUrl" : "http://dbpedia.org/resource/Bai_Fan_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Bai_Fan_(actor)) dbo:wikiPageRedirects o'<Bai_Fan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11239",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Hawkey",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ben_Hawkey) dbo:birthDate o'<1996-04-25>",
+    "2" : "s(Ben_Hawkey) dbo:birthDate o'<1996-4-25>",
+    "3" : "s(Ben_Hawkey) dbo:birthPlace o'<London>",
+    "4" : "s(Ben_Hawkey) dbo:birthPlace o'<Kingston_Upon_Thames>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11240",
+  "entityUrl" : "http://dbpedia.org/resource/Brice_Fournier",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Brice_Fournier) dbo:birthDate o'<1966-07-20>",
+    "2" : "s(Brice_Fournier) dbo:birthDate o'<1966-7-20>",
+    "3" : "s(Brice_Fournier) dbo:birthPlace o'<France>",
+    "4" : "s(Brice_Fournier) dbo:birthPlace o'<Lyon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

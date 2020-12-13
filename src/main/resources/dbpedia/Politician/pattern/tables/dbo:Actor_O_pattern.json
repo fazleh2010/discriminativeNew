@@ -1,0 +1,459 @@
+[ {
+  "entityIndex" : "entity14200",
+  "entityUrl" : "http://dbpedia.org/resource/Omi_Minami",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Omi_Minami) dbo:birthDate o'<1968-07-13>",
+    "2" : "s(Omi_Minami) dbo:birthDate o'<1968-7-13>",
+    "3" : "s(Omi_Minami) dbo:birthPlace o'<Japan>",
+    "4" : "s(Omi_Minami) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14201",
+  "entityUrl" : "http://dbpedia.org/resource/Osamu_Hosoi",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Osamu_Hosoi) dbo:birthDate o'<1964-09-22>",
+    "2" : "s(Osamu_Hosoi) dbo:birthDate o'<1964-1-1>",
+    "3" : "s(Osamu_Hosoi) dbo:birthPlace o'<Saitama_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14202",
+  "entityUrl" : "http://dbpedia.org/resource/Otoya_Kawano",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Otoya_Kawano) dbo:birthDate o'<1965-8-18>",
+    "2" : "s(Otoya_Kawano) dbo:birthPlace o'<Taketa,_Ōita>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14203",
+  "entityUrl" : "http://dbpedia.org/resource/Olga_Kosakiewicz",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olga_Kosakiewicz) dbo:birthDate o'<1915-11-6>",
+    "2" : "s(Olga_Kosakiewicz) dbo:birthPlace o'<Kiev>",
+    "3" : "s(Olga_Kosakiewicz) dbo:deathDate o'<1983-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14204",
+  "entityUrl" : "http://dbpedia.org/resource/Ofo_Uhiara",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ofo_Uhiara) dbo:birthDate o'<1975-12-13>",
+    "2" : "s(Ofo_Uhiara) dbo:country o'<United_Kingdom>",
+    "3" : "s(Ofo_Uhiara) dbo:imdbId o'<1047050>",
+    "4" : "s(Ofo_Uhiara) dbp:name o'<Ofo Uhiara>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14205",
+  "entityUrl" : "http://dbpedia.org/resource/Olisa_Odele",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olisa_Odele) dbo:birthDate o'<1994-11-2>",
+    "2" : "s(Olisa_Odele) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "8" : "s(olisa odele=Olisa_Odele) [turns out to ] o'<home=United_Kingdom>",
+    "12" : "s(olisa odele=Olisa_Odele) [studying musical theatre ] o'<brit=United_Kingdom>"
+  },
+  "abstract" : {
+    "8" : "olisa odele<Olisa_Odele> turns out to be an orphan from the children's home<United_Kingdom> and is adopted into the family because olisa odele<Olisa_Odele> finds out about brian and sophie being aliens and threatens to report them\n",
+    "12" : "olisa odele<Olisa_Odele> is currently studying musical theatre at the brit<United_Kingdom> school of performing arts and performs in the west end regularly\n"
+  }
+}, {
+  "entityIndex" : "entity14206",
+  "entityUrl" : "http://dbpedia.org/resource/Oma_Ichimura",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Oma_Ichimura) dbo:birthDate o'<1977-5-3>",
+    "2" : "s(Oma_Ichimura) dbo:birthPlace o'<Kanagawa_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14207",
+  "entityUrl" : "http://dbpedia.org/resource/Ola_Rapace",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ola_Rapace) dbo:birthDate o'<1971-12-03>",
+    "2" : "s(Ola_Rapace) dbo:birthDate o'<1971-12-3>",
+    "3" : "s(Ola_Rapace) dbo:birthPlace o'<Tyresö_Municipality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14208",
+  "entityUrl" : "http://dbpedia.org/resource/Onoe_Shoroku_II",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Onoe_Shoroku_II) dbo:birthDate o'<1913-3-28>",
+    "2" : "s(Onoe_Shoroku_II) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Onoe_Shoroku_II) dbo:deathDate o'<1989-6-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14209",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Boot",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Oliver_Boot) dbo:birthDate o'<1979-0-0>",
+    "2" : "s(Oliver_Boot) dbo:birthPlace o'<England>",
+    "3" : "s(Oliver_Boot) dbo:birthPlace o'<London>",
+    "4" : "s(Oliver_Boot) dbo:birthPlace o'<London_Borough_of_Camden>",
+    "5" : "s(Oliver_Boot) dbo:birthYear o'<1979>",
+    "6" : "s(Oliver_Boot) dbo:country o'<England>",
+    "7" : "s(Oliver_Boot) dbo:occupation o'<Oliver_Boot__1>",
+    "8" : "s(Oliver_Boot) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(oliver boot=Oliver_Boot) [trained at rada ] o'<stage=Actor>",
+    "4" : "s(oliver boot=Oliver_Boot) [starred demetrius in ] o'<london=LONDON>",
+    "6" : "s(oliver boot=Oliver_Boot) [acted in ] o'<city=London>",
+    "7" : "s(oliver boot=Oliver_Boot) [played opposite mark strong ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "2" : "oliver boot<Oliver_Boot> trained at the rada, and has appeared on both stage<Actor> and screen\n",
+    "4" : "oliver boot<Oliver_Boot> has starred as demetrius in shakespeare's \"midsummer's night dream\" and as ventidius in \"timon of athens\", at the globe, in london<LONDON>\n",
+    "6" : "oliver boot<Oliver_Boot> has also acted in the popular tv series two pints of lager and a packet of crisps, as if, the time of your life, hotel babylon, distant shores, holby city<London>, garrow's law and my family\n",
+    "7" : "his film<Actor> credits include \"blooded\" an independent british film<Actor> about the hunting ban in the '90s and more recently oliver boot<Oliver_Boot> played opposite mark strong and dominic west in the disney film<Actor> john carter\n"
+  }
+}, {
+  "entityIndex" : "entity14210",
+  "entityUrl" : "http://dbpedia.org/resource/Osamu_Takizawa",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Osamu_Takizawa) dbo:birthDate o'<1906-11-13>",
+    "2" : "s(Osamu_Takizawa) dbo:birthPlace o'<Japan>",
+    "3" : "s(Osamu_Takizawa) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Osamu_Takizawa) dbo:birthPlace o'<Ushigome>",
+    "5" : "s(Osamu_Takizawa) dbo:deathDate o'<2000-06-22>",
+    "6" : "s(Osamu_Takizawa) dbo:deathDate o'<2000-6-22>",
+    "7" : "s(Osamu_Takizawa) dbo:deathPlace o'<Japan>",
+    "8" : "s(Osamu_Takizawa) dbo:deathPlace o'<Mitaka,_Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14211",
+  "entityUrl" : "http://dbpedia.org/resource/Olivier_Marchal",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olivier_Marchal) dbo:birthDate o'<1958-11-14>",
+    "2" : "s(Olivier_Marchal) dbo:birthPlace o'<Talence>",
+    "3" : "s(Olivier_Marchal) dbo:birthPlace o'<Gironde>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14212",
+  "entityUrl" : "http://dbpedia.org/resource/Ohga_Tanaka",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ohga_Tanaka) dbo:birthDate o'<1997-7-19>",
+    "2" : "s(Ohga_Tanaka) dbo:birthPlace o'<Shizuoka_Prefecture>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14213",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Ljung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Oscar_Ljung) dbo:birthDate o'<1909-09-06>",
+    "2" : "s(Oscar_Ljung) dbo:birthDate o'<1909-9-6>",
+    "3" : "s(Oscar_Ljung) dbo:birthPlace o'<Landskrona>",
+    "4" : "s(Oscar_Ljung) dbo:birthPlace o'<Sweden>",
+    "5" : "s(Oscar_Ljung) dbo:deathDate o'<1999-04-29>",
+    "6" : "s(Oscar_Ljung) dbo:deathDate o'<1999-4-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14214",
+  "entityUrl" : "http://dbpedia.org/resource/Ong_Ai_Leng",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ong_Ai_Leng) dbo:birthDate o'<1978-11-2>",
+    "2" : "s(Ong_Ai_Leng) dbp:birthPlace o'<Johor Bahru, Malaysia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14215",
+  "entityUrl" : "http://dbpedia.org/resource/Olivia_Grant_(actress,_born_1994)",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olivia_Grant_(actress,_born_1994)) dbo:birthDate o'<1994-12-16>",
+    "2" : "s(Olivia_Grant_(actress,_born_1994)) dbo:birthDate o'<1994-12-3>",
+    "3" : "s(Olivia_Grant_(actress,_born_1994)) dbo:birthPlace o'<England>",
+    "4" : "s(Olivia_Grant_(actress,_born_1994)) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14216",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Bystr%C3%B6m_(actor)",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14217",
+  "entityUrl" : "http://dbpedia.org/resource/Owodog",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Owodog) dbo:birthDate o'<1982-10-30>",
+    "2" : "s(Owodog) dbo:birthPlace o'<Taiwan>",
+    "3" : "s(Owodog) dbp:pinyinbirthname o'<Zhuāng Háoquán>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14218",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Chopping",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14219",
+  "entityUrl" : "http://dbpedia.org/resource/Olav_Ri%C3%A9go",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14220",
+  "entityUrl" : "http://dbpedia.org/resource/Osman_Hung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Osman_Hung) dbo:birthDate o'<1979-3-20>",
+    "2" : "s(Osman_Hung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14221",
+  "entityUrl" : "http://dbpedia.org/resource/O._B._Clarence",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(O._B._Clarence) dbo:activeYearsEndYear o'<1890>",
+    "2" : "s(O._B._Clarence) dbo:activeYearsStartYear o'<1890>",
+    "3" : "s(O._B._Clarence) dbo:birthDate o'<1870-03-25>",
+    "4" : "s(O._B._Clarence) dbo:birthDate o'<1870-3-25>",
+    "5" : "s(O._B._Clarence) dbo:birthName o'<Oliver Burchett Clarence>",
+    "6" : "s(O._B._Clarence) dbo:birthPlace o'<England>",
+    "7" : "s(O._B._Clarence) dbo:birthPlace o'<London>",
+    "8" : "s(O._B._Clarence) dbo:birthPlace o'<Hampstead>",
+    "9" : "s(O._B._Clarence) dbo:birthYear o'<1870>",
+    "10" : "s(O._B._Clarence) dbo:deathDate o'<1955-10-02>",
+    "11" : "s(O._B._Clarence) dbo:deathDate o'<1955-10-2>",
+    "12" : "s(O._B._Clarence) dbo:deathPlace o'<England>",
+    "13" : "s(O._B._Clarence) dbo:deathPlace o'<Hove>",
+    "14" : "s(O._B._Clarence) dbo:deathPlace o'<Sussex>",
+    "15" : "s(O._B._Clarence) dbo:deathYear o'<1955>",
+    "16" : "s(O._B._Clarence) dbo:occupation o'<O._B._Clarence__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(o. b. clarence=O._B._Clarence) [performed in over eighty shows ] o'<london=LONDON>"
+  },
+  "abstract" : {
+    "4" : "o. b. clarence<O._B._Clarence> performed in over eighty shows in london<LONDON> and also toured the provinces and appeared abroad too\n"
+  }
+}, {
+  "entityIndex" : "entity14222",
+  "entityUrl" : "http://dbpedia.org/resource/One-Fang",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(One-Fang) dbo:birthDate o'<1967-7-6>",
+    "2" : "s(One-Fang) dbp:birthPlace o'<Taiwan>",
+    "3" : "s(One-Fang) dbp:birthPlace o'<Taipei>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14223",
+  "entityUrl" : "http://dbpedia.org/resource/Olof_Sandborg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olof_Sandborg) dbo:birthDate o'<1884-4-30>",
+    "2" : "s(Olof_Sandborg) dbo:deathDate o'<1965-3-26>",
+    "3" : "s(Olof_Sandborg) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14224",
+  "entityUrl" : "http://dbpedia.org/resource/Olle_Hilding",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olle_Hilding) dbo:birthDate o'<1898-7-19>",
+    "2" : "s(Olle_Hilding) dbo:deathDate o'<1983-11-9>",
+    "3" : "s(Olle_Hilding) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14225",
+  "entityUrl" : "http://dbpedia.org/resource/Olof_Widgren",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olof_Widgren) dbo:birthDate o'<1907-6-9>",
+    "2" : "s(Olof_Widgren) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Olof_Widgren) dbo:deathDate o'<1999-3-6>",
+    "4" : "s(Olof_Widgren) dbo:deathPlace o'<Stockholm>",
+    "5" : "s(Olof_Widgren) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14226",
+  "entityUrl" : "http://dbpedia.org/resource/Oc%C3%A9ane_Zhu",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14227",
+  "entityUrl" : "http://dbpedia.org/resource/Olivier_de_Fun%C3%A8s",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14228",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Roughwood",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Owen_Roughwood) dbo:birthDate o'<1876-0-0>",
+    "2" : "s(Owen_Roughwood) dbo:deathDate o'<1947-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14229",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Biles",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Oliver_Biles) dbo:activeYearsEndYear o'<2011>",
+    "2" : "s(Oliver_Biles) dbo:activeYearsStartYear o'<2011>",
+    "3" : "s(Oliver_Biles) dbo:birthDate o'<1990-03-15>",
+    "4" : "s(Oliver_Biles) dbo:birthDate o'<1990-3-15>",
+    "5" : "s(Oliver_Biles) dbo:birthPlace o'<UK>",
+    "6" : "s(Oliver_Biles) dbo:birthPlace o'<England>",
+    "7" : "s(Oliver_Biles) dbo:birthYear o'<1990>",
+    "8" : "s(Oliver_Biles) dbo:country o'<United_Kingdom>",
+    "9" : "s(Oliver_Biles) dbo:occupation o'<Oliver_Biles__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14230",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Leung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Oscar_Leung) dbo:birthDate o'<1979-3-26>",
+    "2" : "s(Oscar_Leung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14231",
+  "entityUrl" : "http://dbpedia.org/resource/Olof_%C3%85s",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14232",
+  "entityUrl" : "http://dbpedia.org/resource/Olla_Ramlan",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olla_Ramlan) dbo:birthDate o'<1980-02-15>",
+    "2" : "s(Olla_Ramlan) dbo:birthDate o'<1980-2-15>",
+    "3" : "s(Olla_Ramlan) dbo:birthPlace o'<Indonesia>",
+    "4" : "s(Olla_Ramlan) dbo:birthPlace o'<South_Kalimantan>",
+    "5" : "s(Olla_Ramlan) dbo:birthPlace o'<Banjarmasin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14233",
+  "entityUrl" : "http://dbpedia.org/resource/Olive_Mercer",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olive_Mercer) dbo:birthDate o'<1906-0-0>",
+    "2" : "s(Olive_Mercer) dbo:country o'<United_Kingdom>",
+    "3" : "s(Olive_Mercer) dbo:deathDate o'<1983-0-0>",
+    "4" : "s(Olive_Mercer) dbo:imdbId o'<0580293>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14234",
+  "entityUrl" : "http://dbpedia.org/resource/Olof_Thunberg",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Olof_Thunberg) dbo:birthDate o'<1925-05-21>",
+    "2" : "s(Olof_Thunberg) dbo:birthDate o'<1925-5-21>",
+    "3" : "s(Olof_Thunberg) dbo:birthName o'<Olof Fritz Thunberg>",
+    "4" : "s(Olof_Thunberg) dbo:birthPlace o'<Västerås>",
+    "5" : "s(Olof_Thunberg) dbo:birthYear o'<1925>",
+    "6" : "s(Olof_Thunberg) dbo:child o'<Svante_Thunberg>",
+    "7" : "s(Olof_Thunberg) dbo:nationality o'<Sweden>",
+    "8" : "s(Olof_Thunberg) dbo:occupation o'<Olof_Thunberg__1>",
+    "9" : "s(Olof_Thunberg) dbo:stateOfOrigin o'<Sweden>",
+    "10" : "s(Olof_Thunberg) dbp:spouse o'<Mona Andersson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14235",
+  "entityUrl" : "http://dbpedia.org/resource/Olof_Bergstr%C3%B6m",
+  "dboClass" : "dbo:Actor",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14236",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Cheung",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Owen_Cheung) dbo:birthDate o'<1987-7-20>",
+    "2" : "s(Owen_Cheung) dbp:birthPlace o'<China>",
+    "3" : "s(Owen_Cheung) dbp:birthPlace o'<Hong_Kong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14237",
+  "entityUrl" : "http://dbpedia.org/resource/Ozzie_Devrish",
+  "dboClass" : "dbo:Actor",
+  "triples" : {
+    "1" : "s(Ozzie_Devrish) dbo:activeYearsEndYear o'<2000>",
+    "2" : "s(Ozzie_Devrish) dbo:activeYearsStartYear o'<2000>",
+    "3" : "s(Ozzie_Devrish) dbo:birthPlace o'<Victoria_(Australia)>",
+    "4" : "s(Ozzie_Devrish) dbo:birthPlace o'<Melbourne>",
+    "5" : "s(Ozzie_Devrish) dbo:occupation o'<Film_producer>",
+    "6" : "s(Ozzie_Devrish) dbo:occupation o'<Actor>",
+    "7" : "s(Ozzie_Devrish) dbp:origin o'<California>",
+    "8" : "s(Ozzie_Devrish) dbp:origin o'<Los_Angeles>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ozzie devrish=Ozzie_Devrish) [started his career ] o'<actor=Actor>"
+  },
+  "abstract" : {
+    "2" : "ozzie devrish<Ozzie_Devrish> started his career as an actor<Actor> after suffering injury as a professional afl player\n"
+  }
+} ]

@@ -1,12 +1,23 @@
 {
+  "able_to" : {
+    "1" : "(2)  dbp:origin"
+  },
   "accept_visit" : {
     "1" : "(2)  dbo:nationality"
   },
   "act" : {
     "1" : "(2)  dbp:title"
   },
+  "act_at" : {
+    "1" : "(2)  dbo:country"
+  },
+  "act_in" : {
+    "1" : "(2)  dbo:birthPlace",
+    "2" : "(2)  dbo:occupation"
+  },
   "active_in" : {
-    "1" : "(2)  dbp:title"
+    "1" : "(2)  dbo:country",
+    "2" : "(2)  dbp:title"
   },
   "active_member" : {
     "1" : "(2)  dbo:residence"
@@ -69,6 +80,9 @@
   "ambassador" : {
     "1" : "(2)  dbo:nationality"
   },
+  "american_actress" : {
+    "1" : "(2)  dbp:birthPlace"
+  },
   "among_four" : {
     "1" : "(2)  dbp:origin"
   },
@@ -84,6 +98,18 @@
   },
   "announce_pronoun" : {
     "1" : "(6)  dbo:party"
+  },
+  "appear_in" : {
+    "1" : "(15)  dbo:country",
+    "2" : "(14)  dbo:occupation",
+    "3" : "(4)  dbo:birthPlace",
+    "4" : "(2)  dbo:deathPlace",
+    "5" : "(2)  dbo:employer",
+    "6" : "(2)  dbo:nationality"
+  },
+  "appear_on" : {
+    "1" : "(5)  dbo:occupation",
+    "2" : "(2)  dbo:stateOfOrigin"
   },
   "appoint" : {
     "1" : "(17)  dbp:title",
@@ -167,7 +193,8 @@
   },
   "arrive_in" : {
     "1" : "(2)  dbo:deathPlace",
-    "2" : "(2)  dbp:predecessor"
+    "2" : "(2)  dbo:nationality",
+    "3" : "(2)  dbp:predecessor"
   },
   "assassinate_in" : {
     "1" : "(2)  dbo:deathPlace"
@@ -234,12 +261,45 @@
     "1" : "(2)  dbo:residence",
     "2" : "(2)  dbp:title"
   },
+  "bear_11" : {
+    "1" : "(2)  dbo:birthPlace",
+    "2" : "(2)  dbo:occupation"
+  },
+  "bear_12" : {
+    "1" : "(2)  dbo:birthPlace",
+    "2" : "(2)  dbo:occupation"
+  },
+  "bear_16" : {
+    "1" : "(3)  dbo:country"
+  },
   "bear_18" : {
-    "1" : "(2)  dbo:nationality",
-    "2" : "(2)  dbo:residence"
+    "1" : "(3)  dbo:birthPlace",
+    "2" : "(2)  dbo:nationality",
+    "3" : "(2)  dbo:residence"
+  },
+  "bear_2" : {
+    "1" : "(2)  dbo:birthPlace",
+    "2" : "(2)  dbo:occupation"
+  },
+  "bear_20" : {
+    "1" : "(2)  dbo:birthPlace"
+  },
+  "bear_25" : {
+    "1" : "(2)  dbo:birthPlace",
+    "2" : "(2)  dbo:country"
+  },
+  "bear_3" : {
+    "1" : "(2)  dbo:occupation"
   },
   "bear_4" : {
-    "1" : "(2)  dbo:residence"
+    "1" : "(3)  dbo:birthPlace",
+    "2" : "(2)  dbo:residence"
+  },
+  "bear_5" : {
+    "1" : "(2)  dbo:birthPlace"
+  },
+  "bear_april" : {
+    "1" : "(2)  dbo:birthPlace"
   },
   "bear_at" : {
     "1" : "(18)  dbo:birthPlace",
@@ -251,6 +311,9 @@
   "bear_currently" : {
     "1" : "(2)  dbo:residence"
   },
+  "bear_die" : {
+    "1" : "(2)  dbo:deathPlace"
+  },
   "bear_educate" : {
     "1" : "(2)  dbo:birthPlace"
   },
@@ -258,16 +321,16 @@
     "1" : "(2)  dbo:birthPlace"
   },
   "bear_in" : {
-    "1" : "(404)  dbo:birthPlace",
+    "1" : "(437)  dbo:birthPlace",
     "2" : "(92)  dbo:deathPlace",
     "3" : "(31)  dbo:residence",
-    "4" : "(9)  dbo:nationality",
-    "5" : "(9)  dbp:title",
-    "6" : "(8)  dbo:country",
+    "4" : "(10)  dbo:country",
+    "5" : "(9)  dbo:nationality",
+    "6" : "(9)  dbp:title",
     "7" : "(7)  dbo:party",
     "8" : "(6)  dbo:region",
     "9" : "(6)  dbo:restingPlace",
-    "10" : "(2)  dbp:education"
+    "10" : "(6)  dbp:birthPlace"
   },
   "bear_into" : {
     "1" : "(2)  dbo:birthPlace",
@@ -275,6 +338,9 @@
   },
   "bear_joanne" : {
     "1" : "(2)  dbo:residence"
+  },
+  "bear_july" : {
+    "1" : "(2)  dbo:birthPlace"
   },
   "bear_june" : {
     "1" : "(2)  dbo:birthPlace",
@@ -284,20 +350,27 @@
   "bear_march" : {
     "1" : "(2)  dbp:stateSenate"
   },
+  "bear_margaret" : {
+    "1" : "(2)  dbo:country"
+  },
   "bear_may" : {
     "1" : "(2)  dbo:birthPlace"
   },
   "bear_near" : {
     "1" : "(2)  dbo:birthPlace"
   },
+  "bear_november" : {
+    "1" : "(2)  dbo:birthPlace"
+  },
   "bear_october" : {
     "1" : "(2)  dbp:stateSenate"
   },
   "bear_on" : {
-    "1" : "(17)  dbo:birthPlace",
+    "1" : "(18)  dbo:birthPlace",
     "2" : "(4)  dbo:deathPlace",
     "3" : "(4)  dbo:residence",
-    "4" : "(2)  dbo:restingPlace"
+    "4" : "(2)  dbo:country",
+    "5" : "(2)  dbo:restingPlace"
   },
   "bear_raise" : {
     "1" : "(5)  dbo:birthPlace",
@@ -308,7 +381,7 @@
     "1" : "(2)  dbo:deathPlace"
   },
   "bear_to" : {
-    "1" : "(6)  dbo:birthPlace",
+    "1" : "(7)  dbo:birthPlace",
     "2" : "(2)  dbo:residence"
   },
   "beat_out" : {
@@ -361,11 +434,12 @@
   },
   "become_first" : {
     "1" : "(5)  dbo:residence",
-    "2" : "(3)  dbo:birthPlace",
-    "3" : "(3)  dbp:title",
-    "4" : "(2)  dbo:country",
+    "2" : "(4)  dbo:birthPlace",
+    "3" : "(3)  dbo:country",
+    "4" : "(3)  dbp:title",
     "5" : "(2)  dbo:deathPlace",
-    "6" : "(2)  dbo:party"
+    "6" : "(2)  dbo:party",
+    "7" : "(2)  dbp:birthPlace"
   },
   "become_involve" : {
     "1" : "(5)  dbo:country",
@@ -410,7 +484,7 @@
     "1" : "(2)  dbo:residence"
   },
   "become_young" : {
-    "1" : "(2)  dbo:birthPlace"
+    "1" : "(3)  dbo:birthPlace"
   },
   "begin_date" : {
     "1" : "(2)  dbo:deathPlace"
@@ -418,8 +492,9 @@
   "begin_his" : {
     "1" : "(4)  dbo:deathPlace",
     "2" : "(4)  dbo:residence",
-    "3" : "(2)  dbo:region",
-    "4" : "(2)  dbo:restingPlace"
+    "3" : "(2)  dbo:birthPlace",
+    "4" : "(2)  dbo:region",
+    "5" : "(2)  dbo:restingPlace"
   },
   "belong_to" : {
     "1" : "(20)  dbo:party",
@@ -436,10 +511,12 @@
     "1" : "(2)  dbo:residence"
   },
   "best_know" : {
-    "1" : "(2)  dbo:occupation",
-    "2" : "(2)  dbo:party",
-    "3" : "(2)  dbo:residence",
-    "4" : "(2)  dbp:title"
+    "1" : "(5)  dbo:occupation",
+    "2" : "(3)  dbo:nationality",
+    "3" : "(2)  dbo:party",
+    "4" : "(2)  dbo:residence",
+    "5" : "(2)  dbp:deathPlace",
+    "6" : "(2)  dbp:title"
   },
   "best_remember" : {
     "1" : "(3)  dbo:party"
@@ -460,6 +537,9 @@
     "1" : "(3)  dbo:party",
     "2" : "(2)  dbo:deathPlace",
     "3" : "(2)  dbp:stateSenate"
+  },
+  "british" : {
+    "1" : "(8)  dbo:occupation"
   },
   "brother_of" : {
     "1" : "(2)  dbo:party",
@@ -557,7 +637,8 @@
     "1" : "(2)  dbo:nationality"
   },
   "chinese_pinyin" : {
-    "1" : "(2)  dbp:occupation"
+    "1" : "(2)  dbp:birthPlace",
+    "2" : "(2)  dbp:occupation"
   },
   "choose_to" : {
     "1" : "(2)  dbp:title"
@@ -587,10 +668,10 @@
   },
   "come_to" : {
     "1" : "(9)  dbo:residence",
-    "2" : "(5)  dbo:restingPlace",
-    "3" : "(4)  dbo:deathPlace",
-    "4" : "(3)  dbp:title",
-    "5" : "(2)  dbo:birthPlace",
+    "2" : "(6)  dbo:deathPlace",
+    "3" : "(5)  dbo:restingPlace",
+    "4" : "(3)  dbo:birthPlace",
+    "5" : "(3)  dbp:title",
     "6" : "(2)  dbp:parliament"
   },
   "committed_suicide" : {
@@ -615,6 +696,9 @@
   },
   "consider_mentor" : {
     "1" : "(2)  dbo:deathPlace"
+  },
+  "consider_one" : {
+    "1" : "(2)  dbo:birthPlace"
   },
   "consider_to" : {
     "1" : "(5)  dbo:deathPlace"
@@ -673,7 +757,9 @@
     "1" : "(2)  dbp:title"
   },
   "credit_with" : {
-    "1" : "(2)  dbo:deathPlace"
+    "1" : "(2)  dbo:birthPlace",
+    "2" : "(2)  dbo:deathPlace",
+    "3" : "(2)  dbp:birthPlace"
   },
   "criticise" : {
     "1" : "(2)  dbo:primeMinister"
@@ -745,6 +831,9 @@
   "currently_young" : {
     "1" : "(2)  dbo:residence",
     "2" : "(2)  dbp:stateSenate"
+  },
+  "daughter_of" : {
+    "1" : "(2)  dbo:country"
   },
   "deacon_of" : {
     "1" : "(2)  dbo:residence"
@@ -879,13 +968,14 @@
     "7" : "(2)  dbo:stateOfOrigin"
   },
   "die_in" : {
-    "1" : "(108)  dbo:deathPlace",
+    "1" : "(115)  dbo:deathPlace",
     "2" : "(19)  dbo:residence",
     "3" : "(15)  dbo:birthPlace",
     "4" : "(5)  dbo:nationality",
     "5" : "(5)  dbo:restingPlace",
     "6" : "(3)  dbo:country",
-    "7" : "(3)  dbp:title"
+    "7" : "(3)  dbp:title",
+    "8" : "(2)  dbp:deathPlace"
   },
   "die_may" : {
     "1" : "(2)  dbo:residence"
@@ -895,10 +985,11 @@
   },
   "die_of" : {
     "1" : "(10)  dbo:deathPlace",
-    "2" : "(3)  dbo:country"
+    "2" : "(3)  dbo:country",
+    "3" : "(2)  dbo:deathCause"
   },
   "die_on" : {
-    "1" : "(23)  dbo:deathPlace",
+    "1" : "(26)  dbo:deathPlace",
     "2" : "(2)  dbo:birthPlace",
     "3" : "(2)  dbo:residence",
     "4" : "(2)  dbp:title"
@@ -949,8 +1040,8 @@
     "2" : "(2)  dbo:deathPlace"
   },
   "educate_at" : {
-    "1" : "(19)  dbo:birthPlace",
-    "2" : "(19)  dbo:country",
+    "1" : "(22)  dbo:country",
+    "2" : "(21)  dbo:birthPlace",
     "3" : "(18)  dbo:almaMater",
     "4" : "(2)  dbo:occupation",
     "5" : "(2)  dbo:residence"
@@ -1066,7 +1157,8 @@
     "2" : "(2)  dbo:residence"
   },
   "elect_one" : {
-    "1" : "(3)  dbo:country"
+    "1" : "(3)  dbo:country",
+    "2" : "(2)  dbp:birthPlace"
   },
   "elect_president" : {
     "1" : "(4)  dbo:birthPlace",
@@ -1111,6 +1203,9 @@
   "elude_imprisonment" : {
     "1" : "(2)  dbo:restingPlace"
   },
+  "emigrate_to" : {
+    "1" : "(2)  dbo:deathPlace"
+  },
   "employ_associate" : {
     "1" : "(2)  dbo:profession"
   },
@@ -1121,6 +1216,9 @@
   },
   "enact" : {
     "1" : "(2)  dbp:state"
+  },
+  "end_his" : {
+    "1" : "(2)  dbo:stateOfOrigin"
   },
   "endorse" : {
     "1" : "(3)  dbo:party",
@@ -1136,13 +1234,19 @@
   "engineer_with" : {
     "1" : "(2)  dbo:residence"
   },
+  "english" : {
+    "1" : "(4)  dbo:occupation"
+  },
   "enlist_in" : {
     "1" : "(2)  dbo:country"
   },
   "enter" : {
     "1" : "(3)  dbo:country",
-    "2" : "(2)  dbo:occupation",
-    "3" : "(2)  dbp:honorificSuffix"
+    "2" : "(2)  dbo:birthPlace",
+    "3" : "(2)  dbo:occupation",
+    "4" : "(2)  dbp:birthPlace",
+    "5" : "(2)  dbp:deathPlace",
+    "6" : "(2)  dbp:honorificSuffix"
   },
   "enter_house" : {
     "1" : "(2)  dbp:electorate",
@@ -1276,7 +1380,8 @@
     "2" : "(2)  dbo:region"
   },
   "first_female" : {
-    "1" : "(2)  dbp:title"
+    "1" : "(2)  dbp:birthPlace",
+    "2" : "(2)  dbp:title"
   },
   "first_join" : {
     "1" : "(2)  dbo:deathPlace"
@@ -1395,6 +1500,9 @@
     "1" : "(4)  dbo:birthPlace",
     "2" : "(4)  dbo:party"
   },
+  "gain_fame" : {
+    "1" : "(2)  dbo:country"
+  },
   "garner" : {
     "1" : "(2)  dbo:birthPlace"
   },
@@ -1410,8 +1518,8 @@
     "4" : "(2)  dbp:state"
   },
   "go_to" : {
-    "1" : "(3)  dbo:birthPlace",
-    "2" : "(3)  dbo:country",
+    "1" : "(4)  dbo:birthPlace",
+    "2" : "(4)  dbo:country",
     "3" : "(3)  dbo:residence",
     "4" : "(2)  dbo:nationality"
   },
@@ -1442,7 +1550,8 @@
     "5" : "(3)  dbo:country",
     "6" : "(3)  dbo:region",
     "7" : "(2)  dbo:nationality",
-    "8" : "(2)  dbo:relation"
+    "8" : "(2)  dbo:relation",
+    "9" : "(2)  dbp:birthPlace"
   },
   "graduate_in" : {
     "1" : "(3)  dbo:almaMater"
@@ -1536,6 +1645,9 @@
   },
   "hold_degree" : {
     "1" : "(4)  dbo:residence"
+  },
+  "hold_miss" : {
+    "1" : "(2)  dbp:birthPlace"
   },
   "hold_number" : {
     "1" : "(2)  dbo:deathPlace"
@@ -1643,7 +1755,7 @@
     "1" : "(2)  dbo:residence"
   },
   "involve_in" : {
-    "1" : "(5)  dbo:country",
+    "1" : "(7)  dbo:country",
     "2" : "(2)  dbo:deathPlace"
   },
   "issue_challenge" : {
@@ -1704,6 +1816,9 @@
     "2" : "(2)  dbo:party",
     "3" : "(2)  dbo:region"
   },
+  "koonying_august" : {
+    "1" : "(2)  dbp:deathPlace"
+  },
   "labour_member" : {
     "1" : "(15)  dbo:country"
   },
@@ -1714,13 +1829,20 @@
   "last_colonial" : {
     "1" : "(2)  dbp:title"
   },
+  "later_appear" : {
+    "1" : "(2)  dbo:deathPlace"
+  },
   "later_attend" : {
     "1" : "(2)  dbo:almaMater",
     "2" : "(2)  dbo:residence"
   },
   "later_become" : {
     "1" : "(3)  dbo:party",
-    "2" : "(2)  dbp:title"
+    "2" : "(2)  dbo:birthPlace",
+    "3" : "(2)  dbp:title"
+  },
+  "later_earn" : {
+    "1" : "(2)  dbo:deathPlace"
   },
   "later_join" : {
     "1" : "(4)  dbo:party"
@@ -1867,9 +1989,17 @@
     "1" : "(4)  dbp:honorificSuffix",
     "2" : "(3)  dbp:title"
   },
+  "make_1" : {
+    "1" : "(2)  dbo:deathPlace"
+  },
+  "make_appearance" : {
+    "1" : "(2)  dbo:occupation"
+  },
   "make_his" : {
-    "1" : "(2)  dbo:country",
-    "2" : "(2)  dbo:occupation"
+    "1" : "(6)  dbo:occupation",
+    "2" : "(5)  dbo:birthPlace",
+    "3" : "(2)  dbo:country",
+    "4" : "(2)  dbp:birthPlace"
   },
   "make_officer" : {
     "1" : "(2)  dbo:party",
@@ -1906,16 +2036,21 @@
   "marry" : {
     "1" : "(4)  dbo:spouse",
     "2" : "(3)  dbp:predecessor",
-    "3" : "(2)  dbo:party"
+    "3" : "(2)  dbo:party",
+    "4" : "(2)  dbp:birthPlace"
   },
   "marry_to" : {
-    "1" : "(7)  dbo:spouse",
-    "2" : "(4)  dbo:region",
-    "3" : "(3)  dbo:birthPlace",
-    "4" : "(3)  dbo:party",
-    "5" : "(3)  dbo:residence",
-    "6" : "(2)  dbp:leader",
-    "7" : "(2)  dbp:spouse"
+    "1" : "(13)  dbo:spouse",
+    "2" : "(4)  dbo:birthPlace",
+    "3" : "(4)  dbo:region",
+    "4" : "(3)  dbo:occupation",
+    "5" : "(3)  dbo:party",
+    "6" : "(3)  dbo:residence",
+    "7" : "(2)  dbp:leader",
+    "8" : "(2)  dbp:spouse"
+  },
+  "marry_with" : {
+    "1" : "(2)  dbo:country"
   },
   "mayor_of" : {
     "1" : "(11)  dbo:birthPlace",
@@ -1925,7 +2060,7 @@
     "5" : "(2)  dbo:region"
   },
   "meet" : {
-    "1" : "(2)  dbo:spouse"
+    "1" : "(3)  dbo:spouse"
   },
   "member" : {
     "1" : "(9)  dbo:birthPlace",
@@ -1948,7 +2083,7 @@
     "1" : "(288)  dbo:party",
     "2" : "(93)  dbo:residence",
     "3" : "(81)  dbo:birthPlace",
-    "4" : "(79)  dbo:country",
+    "4" : "(81)  dbo:country",
     "5" : "(51)  dbo:deathPlace",
     "6" : "(29)  dbo:nationality",
     "7" : "(28)  dbp:stateSenate",
@@ -1997,6 +2132,9 @@
     "1" : "(2)  dbo:birthPlace",
     "2" : "(2)  dbo:residence"
   },
+  "mother_of" : {
+    "1" : "(2)  dbo:child"
+  },
   "move_back" : {
     "1" : "(4)  dbo:residence",
     "2" : "(2)  dbo:birthPlace",
@@ -2008,14 +2146,14 @@
   "move_to" : {
     "1" : "(32)  dbo:deathPlace",
     "2" : "(27)  dbo:residence",
-    "3" : "(16)  dbo:country",
+    "3" : "(18)  dbo:country",
     "4" : "(15)  dbo:restingPlace",
     "5" : "(12)  dbp:title",
     "6" : "(6)  dbo:party",
-    "7" : "(5)  dbo:region",
-    "8" : "(4)  dbo:birthPlace",
+    "7" : "(5)  dbo:birthPlace",
+    "8" : "(5)  dbo:region",
     "9" : "(2)  dbo:nationality",
-    "10" : "(2)  dbp:deathPlace"
+    "10" : "(2)  dbp:birthPlace"
   },
   "move_with" : {
     "1" : "(2)  dbo:deathPlace",
@@ -2092,6 +2230,9 @@
   "offer_cabinet" : {
     "1" : "(2)  dbp:title"
   },
+  "often_work" : {
+    "1" : "(2)  dbo:occupation"
+  },
   "old" : {
     "1" : "(2)  dbp:predecessor"
   },
@@ -2112,13 +2253,14 @@
   "one_of" : {
     "1" : "(30)  dbo:party",
     "2" : "(18)  dbo:residence",
-    "3" : "(8)  dbo:deathPlace",
-    "4" : "(7)  dbo:birthPlace",
-    "5" : "(5)  dbp:title",
-    "6" : "(3)  dbo:restingPlace",
-    "7" : "(3)  dbp:stateHouse",
-    "8" : "(2)  dbo:nationality",
-    "9" : "(2)  dbp:stateSenate"
+    "3" : "(11)  dbo:deathPlace",
+    "4" : "(8)  dbo:birthPlace",
+    "5" : "(5)  dbo:nationality",
+    "6" : "(5)  dbp:title",
+    "7" : "(3)  dbo:restingPlace",
+    "8" : "(3)  dbp:stateHouse",
+    "9" : "(2)  dbo:country",
+    "10" : "(2)  dbp:birthPlace"
   },
   "open_general" : {
     "1" : "(2)  dbo:deathPlace"
@@ -2147,7 +2289,7 @@
     "1" : "(2)  dbo:region"
   },
   "originally_from" : {
-    "1" : "(4)  dbo:birthPlace"
+    "1" : "(5)  dbo:birthPlace"
   },
   "outspoken" : {
     "1" : "(3)  dbp:state"
@@ -2211,6 +2353,9 @@
   "play_prominent" : {
     "1" : "(2)  dbo:deathPlace"
   },
+  "play_role" : {
+    "1" : "(2)  dbo:deathPlace"
+  },
   "play_significant" : {
     "1" : "(2)  dbo:nationality",
     "2" : "(2)  dbo:residence",
@@ -2221,6 +2366,9 @@
   },
   "poll_2" : {
     "1" : "(2)  dbp:title"
+  },
+  "popular_television" : {
+    "1" : "(2)  dbp:birthPlace"
   },
   "practice_dentist" : {
     "1" : "(2)  dbp:stateSenate"
@@ -2429,6 +2577,9 @@
   "refuse_to" : {
     "1" : "(2)  dbo:primeMinister"
   },
+  "register_nurse" : {
+    "1" : "(2)  dbp:birthPlace"
+  },
   "rehabilitate_by" : {
     "1" : "(2)  dbo:party"
   },
@@ -2465,7 +2616,7 @@
     "1" : "(168)  dbp:title",
     "2" : "(112)  dbo:region",
     "3" : "(79)  dbo:residence",
-    "4" : "(55)  dbo:birthPlace",
+    "4" : "(56)  dbo:birthPlace",
     "5" : "(49)  dbo:deathPlace",
     "6" : "(46)  dbp:electorate",
     "7" : "(17)  dbo:party",
@@ -2702,7 +2853,8 @@
     "1" : "(2)  dbo:country"
   },
   "reside_in" : {
-    "1" : "(6)  dbo:residence"
+    "1" : "(6)  dbo:residence",
+    "2" : "(2)  dbo:birthPlace"
   },
   "resident_of" : {
     "1" : "(2)  dbp:title"
@@ -2752,7 +2904,7 @@
     "1" : "(2)  dbp:honorificPrefix"
   },
   "retire_from" : {
-    "1" : "(6)  dbo:country",
+    "1" : "(7)  dbo:country",
     "2" : "(5)  dbo:successor",
     "3" : "(4)  dbo:nationality",
     "4" : "(2)  dbo:deathPlace",
@@ -2762,11 +2914,12 @@
   "retire_in" : {
     "1" : "(4)  dbo:party",
     "2" : "(2)  dbo:birthPlace",
-    "3" : "(2)  dbo:nationality",
-    "4" : "(2)  dbo:residence",
-    "5" : "(2)  dbo:successor",
-    "6" : "(2)  dbp:after",
-    "7" : "(2)  dbp:predecessor"
+    "3" : "(2)  dbo:deathPlace",
+    "4" : "(2)  dbo:nationality",
+    "5" : "(2)  dbo:residence",
+    "6" : "(2)  dbo:successor",
+    "7" : "(2)  dbp:after",
+    "8" : "(2)  dbp:predecessor"
   },
   "retire_to" : {
     "1" : "(2)  dbo:deathPlace"
@@ -2788,6 +2941,9 @@
   },
   "rival_his" : {
     "1" : "(2)  dbo:residence"
+  },
+  "role_in" : {
+    "1" : "(2)  dbo:occupation"
   },
   "royalist_in" : {
     "1" : "(2)  dbo:deathPlace"
@@ -2848,6 +3004,10 @@
   },
   "secretary_of" : {
     "1" : "(6)  dbo:party"
+  },
+  "see_elizabeth" : {
+    "1" : "(2)  dbo:nationality",
+    "2" : "(2)  dbo:stateOfOrigin"
   },
   "see_possible" : {
     "1" : "(2)  dbp:successor"
@@ -3045,11 +3205,11 @@
     "1" : "(2)  dbo:residence"
   },
   "serve_in" : {
-    "1" : "(61)  dbo:country",
+    "1" : "(63)  dbo:country",
     "2" : "(52)  dbo:party",
-    "3" : "(28)  dbo:deathPlace",
-    "4" : "(25)  dbp:stateSenate",
-    "5" : "(24)  dbo:birthPlace",
+    "3" : "(31)  dbo:deathPlace",
+    "4" : "(25)  dbo:birthPlace",
+    "5" : "(25)  dbp:stateSenate",
     "6" : "(23)  dbp:stateHouse",
     "7" : "(21)  dbo:residence",
     "8" : "(14)  dbo:region",
@@ -3275,7 +3435,7 @@
     "7" : "(4)  dbo:deathPlace",
     "8" : "(4)  dbo:restingPlace",
     "9" : "(3)  dbo:country",
-    "10" : "(3)  dbp:after"
+    "10" : "(3)  dbo:occupation"
   },
   "special_constable" : {
     "1" : "(2)  dbo:deathPlace"
@@ -3317,6 +3477,12 @@
     "1" : "(4)  dbo:country",
     "2" : "(3)  dbo:party"
   },
+  "star_in" : {
+    "1" : "(5)  dbo:country",
+    "2" : "(2)  dbo:nationality",
+    "3" : "(2)  dbo:stateOfOrigin",
+    "4" : "(2)  dbp:occupation"
+  },
   "start_his" : {
     "1" : "(3)  dbo:party"
   },
@@ -3348,9 +3514,12 @@
     "2" : "(2)  dbp:citizenship"
   },
   "study_at" : {
-    "1" : "(4)  dbo:almaMater",
-    "2" : "(2)  dbo:country",
-    "3" : "(2)  dbo:party"
+    "1" : "(6)  dbo:nationality",
+    "2" : "(4)  dbo:almaMater",
+    "3" : "(3)  dbo:birthPlace",
+    "4" : "(3)  dbo:country",
+    "5" : "(2)  dbo:party",
+    "6" : "(2)  dbo:stateOfOrigin"
   },
   "study_for" : {
     "1" : "(2)  dbo:deathPlace"
@@ -3468,6 +3637,10 @@
   "to_step" : {
     "1" : "(2)  dbo:deathPlace"
   },
+  "train_at" : {
+    "1" : "(2)  dbo:birthPlace",
+    "2" : "(2)  dbo:occupation"
+  },
   "transfer_with" : {
     "1" : "(2)  dbo:residence"
   },
@@ -3499,6 +3672,9 @@
   },
   "unable_to" : {
     "1" : "(2)  dbp:successor"
+  },
+  "under_contract" : {
+    "1" : "(3)  dbp:birthPlace"
   },
   "undertake_threemonthlong" : {
     "1" : "(2)  dbo:deathPlace"
@@ -3551,6 +3727,9 @@
   "visit" : {
     "1" : "(2)  dbo:deathPlace"
   },
+  "voice_major" : {
+    "1" : "(2)  dbo:country"
+  },
   "vote_against" : {
     "1" : "(2)  dbo:residence"
   },
@@ -3590,6 +3769,11 @@
     "6" : "(2)  dbo:birthPlace",
     "7" : "(2)  dbp:predecessor"
   },
+  "win_award" : {
+    "1" : "(3)  dbo:occupation",
+    "2" : "(2)  dbo:birthPlace",
+    "3" : "(2)  dbp:birthPlace"
+  },
   "win_baffin" : {
     "1" : "(2)  dbp:predecessor"
   },
@@ -3600,8 +3784,15 @@
     "4" : "(2)  dbp:stateHouse",
     "5" : "(2)  dbp:title"
   },
+  "win_good" : {
+    "1" : "(2)  dbp:birthPlace"
+  },
   "win_indian" : {
     "1" : "(15)  dbo:party"
+  },
+  "win_miss" : {
+    "1" : "(2)  dbp:birthPlace",
+    "2" : "(2)  dbp:origin"
   },
   "win_renomination" : {
     "1" : "(2)  dbp:after"
@@ -3615,9 +3806,16 @@
     "6" : "(3)  dbp:predecessor",
     "7" : "(2)  dbo:residence"
   },
+  "win_title" : {
+    "1" : "(2)  dbp:origin"
+  },
   "win_ward" : {
     "1" : "(2)  dbo:birthPlace",
     "2" : "(2)  dbp:birthPlace"
+  },
+  "winner_of" : {
+    "1" : "(4)  dbp:birthPlace",
+    "2" : "(2)  dbo:birthPlace"
   },
   "wish_to" : {
     "1" : "(2)  dbp:title"
@@ -3634,8 +3832,9 @@
     "9" : "(2)  dbp:title"
   },
   "work_at" : {
-    "1" : "(2)  dbo:country",
-    "2" : "(2)  dbo:deathPlace"
+    "1" : "(4)  dbo:deathPlace",
+    "2" : "(2)  dbo:birthPlace",
+    "3" : "(2)  dbo:country"
   },
   "work_for" : {
     "1" : "(5)  dbo:party",
@@ -3668,6 +3867,9 @@
     "1" : "(2)  dbo:birthPlace",
     "2" : "(2)  dbo:deathPlace"
   },
+  "works" : {
+    "1" : "(2)  dbo:occupation"
+  },
   "would_face" : {
     "1" : "(2)  dbo:residence"
   },
@@ -3694,6 +3896,9 @@
   },
   "write_theatre" : {
     "1" : "(2)  dbo:deathPlace"
+  },
+  "yeow_nam" : {
+    "1" : "(2)  dbo:occupation"
   },
   "young" : {
     "1" : "(2)  dbo:birthPlace",

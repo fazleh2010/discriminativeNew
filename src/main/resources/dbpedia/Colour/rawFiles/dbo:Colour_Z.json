@@ -1,0 +1,27 @@
+[ {
+  "entityIndex" : "entity10995",
+  "entityUrl" : "http://dbpedia.org/resource/Zaffre",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:cmykCoordinateBlack" : [ "0" ],
+    "dbo:cmykCoordinateCyanic" : [ "1" ],
+    "dbo:cmykCoordinateMagenta" : [ "1" ],
+    "dbo:cmykCoordinateYellow" : [ "0" ],
+    "dbo:colourHexCode" : [ "0014A8" ],
+    "dbo:hsvCoordinateHue" : [ "233" ],
+    "dbo:hsvCoordinateSaturation" : [ "1" ],
+    "dbo:hsvCoordinateValue" : [ "1" ],
+    "dbo:rgbCoordinateBlue" : [ "168" ],
+    "dbo:rgbCoordinateGreen" : [ "20" ],
+    "dbo:rgbCoordinateRed" : [ "0" ],
+    "dbo:wikiPageID" : [ "6666872" ],
+    "dbo:wikiPageRevisionID" : [ "711230581" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Inorganic_pigments", "http://dbpedia.org/resource/Pigment", "http://dbpedia.org/resource/Category:Shades_of_blue", "http://dbpedia.org/resource/Ore", "http://dbpedia.org/resource/Cobalt", "http://dbpedia.org/resource/List_of_colors", "http://dbpedia.org/resource/Web_colors", "http://dbpedia.org/resource/Victorian_Era", "http://dbpedia.org/resource/Smalt", "http://dbpedia.org/resource/List_of_alchemical_substances" ],
+    "dbp:source" : [ "http://dbpedia.org/resource/Web_colors" ],
+    "dbp:textcolor" : [ "white" ]
+  },
+  "words" : [ "prepare", "sometime", "deep", "-LRB-", "color", "year", "use", "smalt", "pre-scientific", "cobalt", "used", "uncertain", "stain", "see", "either", "List", "1550s", "Zaffre", "glass", "substances", "ore", "alchemical", "made", "substance", "pigment", "Victorian", ",", "zaffre", "recorded", "arseniate", ".", "English", "blue", "form", "oxide", "Era", "roasting", "-RRB-", "name", "exact", "obtained", "impure", "first" ],
+  "adjectives" : [ "deep", "alchemical", "blue", "exact", "pre-scientific", "Victorian", "impure", "first", "uncertain" ],
+  "nouns" : [ "Zaffre", "glass", "ore", "substances", "color", "year", "use", "substance", "smalt", "pigment", "cobalt", "zaffre", "arseniate", "English", "form", "blue", "oxide", "Era", "name", "List" ],
+  "text" : "Zaffre, a pre-scientific substance (see List of alchemical substances), is a deep blue pigment obtained by roasting cobalt ore, and is made of either an impure form of cobalt oxide or impure cobalt arseniate. During the Victorian Era, zaffre was used to prepare smalt and to stain glass blue. The first recorded use of zaffre as a color name in English was sometime in the 1550s (exact year uncertain)."
+} ]

@@ -1,5 +1,0 @@
-id=31  property=dbp:stateDelegate  
-elect_to  VBN_TO  multiply=0.003277  P(elect_to|dbp:stateDelegate)=0.189873  P(dbp:stateDelegate|elect_to)=0.017261    
-currently_serve  RB_VBZ  multiply=0.001231  P(currently_serve|dbp:stateDelegate)=0.088608  P(dbp:stateDelegate|currently_serve)=0.013889    
-serve_in  VBN_IN  multiply=8.71E-4  P(serve_in|dbp:stateDelegate)=0.088608  P(dbp:stateDelegate|serve_in)=0.009831    
-

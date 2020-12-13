@@ -1,0 +1,29 @@
+[ {
+  "entityIndex" : "entity10641",
+  "entityUrl" : "http://dbpedia.org/resource/@Andheri",
+  "dboClass" : "dbo:Film",
+  "properties" : {
+    "dbo:director" : [ "http://dbpedia.org/resource/Biju_Bhaskar_Nair" ],
+    "dbo:language" : [ "http://dbpedia.org/resource/Malayalam" ],
+    "dbo:musicComposer" : [ "http://dbpedia.org/resource/Abhishek_Ray", "http://dbpedia.org/resource/Alphons_Joseph", "http://dbpedia.org/resource/M_Jayachandran" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Sreenivasan_(actor)", "http://dbpedia.org/resource/Aparna_Nair", "http://dbpedia.org/resource/Biyon", "http://dbpedia.org/resource/Bineesh_Kodiyeri", "http://dbpedia.org/resource/Atul_Kulkarni_(actor_born_1965)", "http://dbpedia.org/resource/Disney_James" ],
+    "dbo:wikiPageExternalLink" : [ "http://entertainment.oneindia.in/malayalam/movies/at-andheri.html" ],
+    "dbo:wikiPageID" : [ "42866631" ],
+    "dbo:wikiPageRevisionID" : [ "701826461" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Indian_films", "http://dbpedia.org/resource/Sreenivasan_(actor)", "http://dbpedia.org/resource/Abhishek_Ray", "http://dbpedia.org/resource/Augustine_(actor)", "http://dbpedia.org/resource/Anil_Murali", "http://dbpedia.org/resource/Malayalam", "http://dbpedia.org/resource/Aparna_Nair", "http://dbpedia.org/resource/Alphons_Joseph", "http://dbpedia.org/resource/Category:2010s_Malayalam-language_films", "http://dbpedia.org/resource/Biyon", "http://dbpedia.org/resource/Alphonse_Joseph", "http://dbpedia.org/resource/M_Jayachandran", "http://dbpedia.org/resource/Bineesh_Kodiyeri", "http://dbpedia.org/resource/Atul_Kulkarni_(actor_born_1965)", "http://dbpedia.org/resource/Biju_Bhaskar_Nair", "http://dbpedia.org/resource/Disney_James", "http://dbpedia.org/resource/Baby_Sreeram", "http://dbpedia.org/resource/Binish_Kodiyeri", "http://dbpedia.org/resource/Drama_thriller_film", "http://dbpedia.org/resource/Joffy_Tharakan", "http://dbpedia.org/resource/Ramesan_Nair" ],
+    "dbo:writer" : [ "http://dbpedia.org/resource/Biju_Bhaskar_Nair" ],
+    "dbp:cinematography" : [ "Muhammed Rubyz" ],
+    "dbp:country" : [ "India" ],
+    "dbp:distributor" : [ "Damor Cinema" ],
+    "dbp:editing" : [ "Raja Mohammed" ],
+    "dbp:genre" : [ "Film" ],
+    "dbp:producer" : [ "Santhosh Damodaran" ],
+    "dbp:story" : [ "http://dbpedia.org/resource/Biju_Bhaskar_Nair" ],
+    "dbp:studio" : [ "Damor Cinema" ],
+    "dbp:type" : [ "Soundtrack" ]
+  },
+  "words" : [ "Biyon", "roles", "thriller", "@Andheri", "Sreenivasan", "drama", "starred", "Nair", "Bineesh", "written", "supporting", "Malayalam", "directed", "Bhaskar", "James", "film", ",", "Biju", ".", "Aparna", "Disney", "Atul", "2014", "leads", "Kulkarni", "Kodiyeri" ],
+  "adjectives" : [ "Bineesh" ],
+  "nouns" : [ "Malayalam", "Biyon", "Bhaskar", "James", "roles", "thriller", "film", "@Andheri", "Sreenivasan", "Biju", "Aparna", "drama", "Disney", "Atul", "leads", "Nair", "Kulkarni", "Kodiyeri" ],
+  "text" : "@Andheri is a 2014 Malayalam drama thriller film written and directed by Biju Bhaskar Nair. It starred Atul Kulkarni, and Sreenivasan in leads and Bineesh Kodiyeri Disney James, Aparna Nair and Biyon in the supporting roles."
+} ]

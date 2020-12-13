@@ -1,0 +1,119 @@
+[ {
+  "entityIndex" : "entity11073",
+  "entityUrl" : "http://dbpedia.org/resource/100_Huntley_Street",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/Canada" ],
+    "dbo:creator" : [ "http://dbpedia.org/resource/David_Mainse" ],
+    "dbo:genre" : [ "http://dbpedia.org/resource/Talk_show" ],
+    "dbo:language" : [ "http://dbpedia.org/resource/English_language" ],
+    "dbo:network" : [ "http://dbpedia.org/resource/Global_Television_Network", "http://dbpedia.org/resource/Yes_TV" ],
+    "dbo:releaseDate" : [ "1977-06-15" ],
+    "dbo:runtime" : [ "60.0", "30.0", "1800.0", "3600.0" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Inside_the_Studio_-_100_Huntley_Street.jpg?width=300" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.100huntley.com/", "http://www.contextwithlornadueck.com/" ],
+    "dbo:wikiPageID" : [ "516969" ],
+    "dbo:wikiPageRevisionID" : [ "743549433" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Brokered_programming", "http://dbpedia.org/resource/Queen_Elizabeth_Way", "http://dbpedia.org/resource/St._James_Town", "http://dbpedia.org/resource/Christianity", "http://dbpedia.org/resource/Ontario", "http://dbpedia.org/resource/Rogers_Building_(Toronto)", "http://dbpedia.org/resource/Toronto", "http://dbpedia.org/resource/CITS-DT", "http://dbpedia.org/resource/Canada", "http://dbpedia.org/resource/Crossroads_Television_System", "http://dbpedia.org/resource/Global_Television_Network", "http://dbpedia.org/resource/Rogers_Communications", "http://dbpedia.org/resource/Talk_show", "http://dbpedia.org/resource/Burlington,_Ontario", "http://dbpedia.org/resource/English_language", "http://dbpedia.org/resource/Category:1977_Canadian_television_series_debuts", "http://dbpedia.org/resource/Category:Global_Television_Network_shows", "http://dbpedia.org/resource/Downtown_Toronto", "http://dbpedia.org/resource/David_Mainse", "http://dbpedia.org/resource/Category:Burlington,_Ontario", "http://dbpedia.org/resource/Category:Canadian_television_talk_shows", "http://dbpedia.org/resource/Ontario_Highway_403", "http://dbpedia.org/resource/Crossroads_Christian_Communications", "http://dbpedia.org/resource/Yes_TV", "http://dbpedia.org/resource/Category:Christian_television_series", "http://dbpedia.org/resource/Category:Yes_TV_shows", "http://dbpedia.org/resource/Television_syndication", "http://dbpedia.org/resource/File:Inside_the_Studio_-_100_Huntley_Street.jpg" ],
+    "dbp:executiveProducer" : [ "Jennifer Taylor", "Lorna Dueck, CEO", "Melissa McEachern" ],
+    "dbp:lastAired" : [ "present" ],
+    "dbp:starring" : [ "Carey Nieuwhof", "Cheryl Weber", "Joe Amaral, Anchor", "John Hull", "Magdalene John", "Moira Brown", "Ron Mainse", "Shelly Calcagno" ],
+    "dbp:website" : [ "100" ]
+  },
+  "words" : [ "``", "studio", "CTS", "expressway", "Mainse", "iconic", "program", "office", "1976", "Interchange", "Town", "road", "Street", "talk", "near", "1977", "Exit", "area", "Huntley", "based", "new", "studios", "15", "quadrant", "Queen", "Highway", "Communications", ",", "Downtown", ".", "Canada", "Elizabeth", "left", "daily", "403", "David", "-RRB-", "Ontario", "Toronto", "Building", "June", "became", "-LRB-", "relocated", "Rogers", "northwest", "part", "show", "Crossroads", "St.", "Way", "System", "Created", "head", "Burlington", "1992", "''", "aired", "CITS-DT", "address", "original", "James", "television", "flagship", "also", "home", "100", "Television", "corporate", "service", "Christian", "located", "location", "first" ],
+  "adjectives" : [ "new", "original", "corporate", "daily", "iconic", "Christian", "located", "first" ],
+  "nouns" : [ "studio", "Building", "June", "CTS", "expressway", "Rogers", "Mainse", "part", "show", "program", "Crossroads", "office", "St.", "Way", "System", "Interchange", "head", "Town", "road", "Burlington", "Street", "talk", "Exit", "area", "Huntley", "CITS-DT", "studios", "address", "James", "television", "quadrant", "Queen", "Highway", "flagship", "Communications", "Downtown", "home", "Canada", "Elizabeth", "Television", "service", "Christian", "David", "location", "Ontario", "Toronto" ],
+  "text" : "100 Huntley Street is a Christian daily television talk show and the flagship program of Crossroads Christian Communications based in Burlington, Ontario, Canada. Created in 1976 by David Mainse, it first aired on June 15, 1977, from its first studios located at 100 Huntley Street in the St. James Town area of Downtown Toronto. In 1992, the show left its iconic address and relocated to new studios in Burlington, located on an expressway service road near the northwest quadrant of the \"Crossroads Interchange\", Exit 100 on the Queen Elizabeth Way and Highway 403, that also became home to the Crossroads Television System (CTS) and its flagship, CITS-DT. The original studio location on Huntley Street is now part of the Rogers Building, the corporate head office of Rogers Communications. The show airs on television stations throughout Canada and the United States in syndication. Within Canada, the show airs on the ministry's own Yes TV, and as brokered programming on several local stations, including all Global Television Network stations."
+}, {
+  "entityIndex" : "entity11074",
+  "entityUrl" : "http://dbpedia.org/resource/100%25_(game_show)",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:company" : [ "http://dbpedia.org/resource/Reg_Grundy_Productions" ],
+    "dbo:completionDate" : [ "2001-12-24" ],
+    "dbo:distributor" : [ "http://dbpedia.org/resource/FremantleMedia" ],
+    "dbo:format" : [ "http://dbpedia.org/resource/4:3" ],
+    "dbo:network" : [ "http://dbpedia.org/resource/Channel_5_(UK)" ],
+    "dbo:releaseDate" : [ "1997-03-31" ],
+    "dbo:runtime" : [ "30.0", "1800.0" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.usgameshows.net/x.php?show=OneHundredPercent&sort=0" ],
+    "dbo:wikiPageID" : [ "1017718" ],
+    "dbo:wikiPageRevisionID" : [ "744355359" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:1997_British_television_programme_debuts", "http://dbpedia.org/resource/Category:Channel_5_(UK)_television_programmes", "http://dbpedia.org/resource/Houston,_Texas", "http://dbpedia.org/resource/Buffalo,_New_York", "http://dbpedia.org/resource/Category:1990s_British_television_series", "http://dbpedia.org/resource/Category:2000s_British_television_series", "http://dbpedia.org/resource/Category:English-language_television_programming", "http://dbpedia.org/resource/Category:Television_series_by_FremantleMedia", "http://dbpedia.org/resource/Columbus,_Ohio", "http://dbpedia.org/resource/Game_show", "http://dbpedia.org/resource/Inquizition", "http://dbpedia.org/resource/Jacksonville,_Florida", "http://dbpedia.org/resource/Tampa,_Florida", "http://dbpedia.org/resource/Reg_Grundy_Productions", "http://dbpedia.org/resource/Channel_5_(UK)", "http://dbpedia.org/resource/La7", "http://dbpedia.org/resource/Game_Show_Network", "http://dbpedia.org/resource/Pound_sterling", "http://dbpedia.org/resource/Television_pilot", "http://dbpedia.org/resource/Dallas,_Texas", "http://dbpedia.org/resource/Casey_Kasem", "http://dbpedia.org/resource/France_5", "http://dbpedia.org/resource/Thames_Television", "http://dbpedia.org/resource/Category:2001_British_television_programme_endings", "http://dbpedia.org/resource/Category:Television_series_by_Reg_Grundy_Productions", "http://dbpedia.org/resource/Category:British_game_shows", "http://dbpedia.org/resource/FremantleMedia", "http://dbpedia.org/resource/Seattle,_Washington", "http://dbpedia.org/resource/4:3" ],
+    "dbp:country" : [ "United Kingdom" ],
+    "dbp:creator" : [ "Tom Atkinson" ],
+    "dbp:language" : [ "English" ],
+    "dbp:showName" : [ "100" ],
+    "dbp:voices" : [ "Robin Houston" ]
+  },
+  "words" : [ "``", "announcer", "United", "inception", "questions", "without", "number", "December", "shows", "host", "ten", "day", "ran", "read", "presenter", "%", "Channel", "2001", "often", ",", ".", "former", "produced", "never", "viewers", "5", "twelve", "-RRB-", "off-screen", "newsreader", "Robin", "however", "game", "24", "-LRB-", "production", "show", "March", "recording", "seen", "Thames", "1997", "billed", "station", "throughout", "Grundy", "31", "''", "normal", "television", "one", "saw", "100", "Television", "although", "Kingdom", "Reg", "maximum", "Houston" ],
+  "adjectives" : [ "normal", "off-screen", "former" ],
+  "nouns" : [ "game", "announcer", "production", "inception", "United", "show", "questions", "March", "recording", "Thames", "number", "December", "shows", "host", "station", "Grundy", "day", "presenter", "%", "television", "Channel", "viewers", "Television", "Kingdom", "Reg", "maximum", "newsreader", "Robin", "Houston" ],
+  "text" : "100% is a television game show that ran in the United Kingdom from 31 March 1997 (the day after the inception of its host television station Channel 5) to 24 December 2001. The Reg Grundy production was often billed as \"The game show without a host\" but it did, however, have a presenter in its announcer, former Thames Television newsreader Robin Houston. He read the questions off-screen throughout the show and was never seen by the viewers. The maximum number of shows that were produced in one day was twelve, although the normal recording day saw ten shows being produced. The reason for such a high number was to amortise the production costs. In its original format, three players would take three seconds or less to push buttons on the set corresponding to the multiple-choice answers of 100 general-knowledge questions. Although pulling in reasonable ratings for the channel, it was dropped as part of a station revamp just before 2002."
+}, {
+  "entityIndex" : "entity11075",
+  "entityUrl" : "http://dbpedia.org/resource/10-8",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:wikiPageID" : [ "11950547" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/10-8:_Officers_on_Duty" ],
+    "dbo:wikiPageRevisionID" : [ "140591627" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/10-8:_Officers_on_Duty" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity11076",
+  "entityUrl" : "http://dbpedia.org/resource/100_Deeds_for_Eddie_McDowd",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:company" : [ "http://dbpedia.org/resource/Thomas_W._Lynch", "http://dbpedia.org/resource/Fireworks_Entertainment" ],
+    "dbo:completionDate" : [ "2002-04-21" ],
+    "dbo:executiveProducer" : [ "http://dbpedia.org/resource/Thomas_W._Lynch" ],
+    "dbo:network" : [ "http://dbpedia.org/resource/Nickelodeon" ],
+    "dbo:numberOfEpisodes" : [ "40" ],
+    "dbo:numberOfSeasons" : [ "3" ],
+    "dbo:openingTheme" : [ "http://dbpedia.org/resource/Who_Let_the_Dogs_Out%3F", "http://dbpedia.org/resource/Baha_Men", "http://dbpedia.org/resource/The_Hippos" ],
+    "dbo:releaseDate" : [ "1999-12-14" ],
+    "dbo:runtime" : [ "-24.0", "-1440.0" ],
+    "dbo:starring" : [ "http://dbpedia.org/resource/Morgan_Kibby", "http://dbpedia.org/resource/Brandon_Gilberstadt", "http://dbpedia.org/resource/Melanee_Murray" ],
+    "dbo:voice" : [ "http://dbpedia.org/resource/Seth_Green", "http://dbpedia.org/resource/Jason_Hervey" ],
+    "dbo:wikiPageID" : [ "1247750" ],
+    "dbo:wikiPageRevisionID" : [ "743762670" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Alyson_Hannigan", "http://dbpedia.org/resource/Category:American_children's_comedy_television_series", "http://dbpedia.org/resource/Category:Talking_animals_in_fiction", "http://dbpedia.org/resource/Category:Television_shows_set_in_Los_Angeles", "http://dbpedia.org/resource/Category:2000s_Nickelodeon_shows", "http://dbpedia.org/resource/Richard_Moll", "http://dbpedia.org/resource/Morgan_Kibby", "http://dbpedia.org/resource/David_Lander", "http://dbpedia.org/resource/Category:1990s_American_television_series", "http://dbpedia.org/resource/Category:1990s_Nickelodeon_shows", "http://dbpedia.org/resource/Category:2000s_American_television_series", "http://dbpedia.org/resource/Category:2002_American_television_series_endings", "http://dbpedia.org/resource/Category:American_television_sitcoms", "http://dbpedia.org/resource/Category:English-language_television_programming", "http://dbpedia.org/resource/Siberian_Husky", "http://dbpedia.org/resource/Seth_Green", "http://dbpedia.org/resource/Who_Let_the_Dogs_Out%3F", "http://dbpedia.org/resource/Josh_Hammond", "http://dbpedia.org/resource/Brenda_Song", "http://dbpedia.org/resource/Amazon.com", "http://dbpedia.org/resource/Category:1999_American_television_series_debuts", "http://dbpedia.org/resource/Category:Teen_sitcoms", "http://dbpedia.org/resource/Baha_Men", "http://dbpedia.org/resource/Danny_Tamberelli", "http://dbpedia.org/resource/Joe_Piscopo", "http://dbpedia.org/resource/Nickelodeon", "http://dbpedia.org/resource/Jason_Hervey", "http://dbpedia.org/resource/Category:Television_shows_about_dogs", "http://dbpedia.org/resource/The_100_Lives_of_Black_Jack_Savage", "http://dbpedia.org/resource/Thomas_W._Lynch", "http://dbpedia.org/resource/List_of_100_Deeds_for_Eddie_McDowd_episodes", "http://dbpedia.org/resource/Diane_Delano", "http://dbpedia.org/resource/My_Name_Is_Earl", "http://dbpedia.org/resource/Jason_Dohring", "http://dbpedia.org/resource/The_Hippos", "http://dbpedia.org/resource/Bullying", "http://dbpedia.org/resource/Fireworks_Entertainment", "http://dbpedia.org/resource/Australian_Shepherd", "http://dbpedia.org/resource/Single_camera_setup", "http://dbpedia.org/resource/Mixed-breed_dog", "http://dbpedia.org/resource/Brandon_Gilberstadt", "http://dbpedia.org/resource/Melanee_Murray" ],
+    "dbp:camera" : [ "http://dbpedia.org/resource/Single_camera_setup" ],
+    "dbp:country" : [ "United States" ],
+    "dbp:creator" : [ "Mitchel Katlin", "Nat Bernstein", "Steven H. Berman" ],
+    "dbp:listEpisodes" : [ "List of 100 Deeds for Eddie McDowd episodes" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1" ]
+  },
+  "words" : [ "Nat", "American", "Bernstein", "October", "McDowd", "2002", "sitcom", "Eddie", "Katlin", "Deeds", "ran", "1999", "seasons", "16", "television", "created", "H.", "Nickelodeon", ",", ".", "April", "Steven", "Berman", "100", "3", "series", "Mitchel", "21" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "Nat", "seasons", "television", "H.", "Bernstein", "Nickelodeon", "April", "Steven", "Berman", "October", "McDowd", "series", "sitcom", "Mitchel", "Eddie", "Katlin", "Deeds" ],
+  "text" : "100 Deeds for Eddie McDowd is an American television sitcom created by Steven H. Berman, Mitchel Katlin, and Nat Bernstein for Nickelodeon. The series ran from October 16, 1999, to April 21, 2002, for 3 seasons."
+}, {
+  "entityIndex" : "entity11077",
+  "entityUrl" : "http://dbpedia.org/resource/101_Dalmatians",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : {
+    "dbo:wikiPageDisambiguates" : [ "http://dbpedia.org/resource/The_101_Dalmatians_Musical", "http://dbpedia.org/resource/101_Dalmatians_(1996_film)", "http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure", "http://dbpedia.org/resource/101_Dalmatians:_Escape_from_DeVil_Manor", "http://dbpedia.org/resource/101_Dalmatians:_The_Series" ],
+    "dbo:wikiPageID" : [ "16687443" ],
+    "dbo:wikiPageRevisionID" : [ "744134721" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/The_Hundred_and_One_Dalmatians", "http://dbpedia.org/resource/The_101_Dalmatians_Musical", "http://dbpedia.org/resource/102_Dalmatians:_Puppies_to_the_Rescue", "http://dbpedia.org/resource/101_Dalmatians_(1996_film)", "http://dbpedia.org/resource/One_Hundred_and_One_Dalmatians", "http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure", "http://dbpedia.org/resource/102_Dalmatians", "http://dbpedia.org/resource/The_Starlight_Barking", "http://dbpedia.org/resource/101_Dalmatians:_Escape_from_DeVil_Manor", "http://dbpedia.org/resource/101_Dalmatians:_The_Series", "http://dbpedia.org/resource/101_Damnations_(disambiguation)", "http://dbpedia.org/resource/One_Hundred_and_One_Dalmatians_(franchise)" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity11078",
+  "entityUrl" : "http://dbpedia.org/resource/1,_rue_S%C3%A9same",
+  "dboClass" : "dbo:TelevisionShow",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

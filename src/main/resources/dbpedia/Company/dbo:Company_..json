@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "entity10809",
+  "entityUrl" : "http://dbpedia.org/resource/...instore",
+  "dboClass" : "dbo:Company",
+  "properties" : {
+    "dbo:extinctionYear" : [ "2009" ],
+    "dbo:foundingYear" : [ "2003" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/England", "http://dbpedia.org/resource/United_Kingdom", "http://dbpedia.org/resource/Huddersfield" ],
+    "dbo:numberOfEmployees" : [ "5000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Instore-huddersfield.jpg?width=300" ],
+    "dbo:type" : [ "http://dbpedia.org/resource/Retail" ],
+    "dbo:wikiPageExternalLink" : [ "http://www.instoreretail.co.uk/", "http://www.poundstretcher.co.uk/" ],
+    "dbo:wikiPageID" : [ "9291975" ],
+    "dbo:wikiPageRevisionID" : [ "670920596" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Retail", "http://dbpedia.org/resource/Thorntons", "http://dbpedia.org/resource/Category:Companies_disestablished_in_2009", "http://dbpedia.org/resource/Category:Discount_stores_of_the_United_Kingdom", "http://dbpedia.org/resource/Poundstretcher", "http://dbpedia.org/resource/Category:Retail_companies_of_the_United_Kingdom", "http://dbpedia.org/resource/England", "http://dbpedia.org/resource/Software", "http://dbpedia.org/resource/Profit_(accounting)", "http://dbpedia.org/resource/United_Kingdom", "http://dbpedia.org/resource/Category:Retail_companies_disestablished_in_2009", "http://dbpedia.org/resource/Category:Companies_based_in_Glasgow", "http://dbpedia.org/resource/Huddersfield", "http://dbpedia.org/resource/West_Yorkshire", "http://dbpedia.org/resource/Category:Defunct_retail_companies_of_the_United_Kingdom", "http://dbpedia.org/resource/Category:2009_disestablishments_in_the_United_Kingdom", "http://dbpedia.org/resource/Category:2003_establishments_in_the_United_Kingdom", "http://dbpedia.org/resource/Retail_store", "http://dbpedia.org/resource/WH_Smith", "http://dbpedia.org/resource/Category:Retail_companies_established_in_2003", "http://dbpedia.org/resource/Coloroll", "http://dbpedia.org/resource/Cafeteria", "http://dbpedia.org/resource/Category:Companies_based_in_Huddersfield", "http://dbpedia.org/resource/Category:Companies_based_in_Kirklees", "http://dbpedia.org/resource/File:Instore-logo.png", "http://dbpedia.org/resource/Famous_Brunswick_Shoe_Warehouse", "http://dbpedia.org/resource/File:Instore-huddersfield.jpg", "http://dbpedia.org/resource/Seaham_Investments", "http://dbpedia.org/resource/United_News_Shops", "http://dbpedia.org/resource/File:Instore_-_Crown_Point_Retail_Park_-_geograph.org.uk_-_1145739.jpg" ],
+    "dbp:companySlogan" : [ "Shop Smart, Live Well" ],
+    "dbp:logo" : [ "http://dbpedia.org/resource/File:Instore-logo.png" ]
+  },
+  "words" : [ "concentrating", "-LRB-", "away", "5,000", "United", "range", "nearest", "retail", "products", "miles", "Huddersfield", "Yorkshire", "principally", "company", "Shopping", "value", "chain", "km", "town", "stores", "West", "home-ware", "store", ",", "...", ".", "Park", "Dewsbury", "instore", "Kingdom", "headquartered", "5", "-RRB-", "Ravensthorpe", "selling", ":", "8.0", "employees", "items" ],
+  "adjectives" : [ "nearest", "retail" ],
+  "nouns" : [ "chain", "km", "town", "stores", "West", "United", "range", "home-ware", "store", "products", "Park", "Dewsbury", "miles", "Huddersfield", "instore", "Kingdom", "Yorkshire", "Ravensthorpe", "company", "Shopping", "employees", "value", "items" ],
+  "text" : "...instore was a chain of retail stores in the United Kingdom selling a range of products and principally concentrating on value home-ware items. The company was headquartered in Huddersfield, West Yorkshire but did not have a store in the town: the nearest was 5 miles (8.0 km) away at Ravensthorpe Shopping Park, Dewsbury. The company had over 5,000 employees."
+} ]

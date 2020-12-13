@@ -1,0 +1,90 @@
+[ {
+  "entityIndex" : "entity10641",
+  "entityUrl" : "http://dbpedia.org/resource/@Home_Network",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(@Home_Network) dbo:extinctionDate o'<2001-10-01>",
+    "2" : "s(@Home_Network) dbo:extinctionYear o'<2001>",
+    "3" : "s(@Home_Network) dbo:fate o'<Bankruptcy>",
+    "4" : "s(@Home_Network) dbo:industry o'<Telecommunication>",
+    "5" : "s(@Home_Network) dbo:keyPerson o'<William_Randolph_Hearst_III>",
+    "6" : "s(@Home_Network) dbo:keyPerson o'<Chief_executive_officer>",
+    "7" : "s(@Home_Network) dbo:numberOfEmployees o'<1350>",
+    "8" : "s(@Home_Network) dbo:product o'<Broadband_Internet_access>",
+    "9" : "s(@Home_Network) dbo:subsidiary o'<Excite>",
+    "10" : "s(@Home_Network) dbp:location o'<United States>",
+    "11" : "s(@Home_Network) dbp:logo o'<File:@home_logo.png>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10642",
+  "entityUrl" : "http://dbpedia.org/resource/@WalmartLabs",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(@WalmartLabs) dbo:foundationPlace o'<Mountain_View,_California>",
+    "2" : "s(@WalmartLabs) dbo:foundedBy o'<Venky_Harinarayan>",
+    "3" : "s(@WalmartLabs) dbo:foundedBy o'<Anand_Rajaraman>",
+    "4" : "s(@WalmartLabs) dbo:foundingYear o'<2005>",
+    "5" : "s(@WalmartLabs) dbo:industry o'<Internet>",
+    "6" : "s(@WalmartLabs) dbo:keyPerson o'<Jeff_Bezos>",
+    "7" : "s(@WalmartLabs) dbo:keyPerson o'<Ed_Zander>",
+    "8" : "s(@WalmartLabs) dbo:keyPerson o'<Jonathan_Miller_(chairman)>",
+    "9" : "s(@WalmartLabs) dbo:locationCity o'<California>",
+    "10" : "s(@WalmartLabs) dbo:locationCity o'<San_Bruno,_California>",
+    "11" : "s(@WalmartLabs) dbo:locationCountry o'<United_States>",
+    "12" : "s(@WalmartLabs) dbo:numberOfEmployees o'<50>",
+    "13" : "s(@WalmartLabs) dbo:parentCompany o'<Walmart>",
+    "14" : "s(@WalmartLabs) dbo:type o'<Private_company>",
+    "15" : "s(@WalmartLabs) dbp:areaServed o'<Worldwide>",
+    "16" : "s(@WalmartLabs) dbp:logo o'<200>",
+    "17" : "s(@WalmartLabs) dbp:products o'<Kosmix>",
+    "18" : "s(@WalmartLabs) dbp:products o'<MeeHive>",
+    "19" : "s(@WalmartLabs) dbp:products o'<RightHealth>",
+    "20" : "s(@WalmartLabs) dbp:products o'<Tweetbeat>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10643",
+  "entityUrl" : "http://dbpedia.org/resource/@UK",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(@UK) dbo:foundedBy o'<Ronald_Duncan_(alpine_skier)>",
+    "2" : "s(@UK) dbo:foundingDate o'<1999-03-12>",
+    "3" : "s(@UK) dbo:foundingYear o'<1999>",
+    "4" : "s(@UK) dbo:industry o'<E-commerce>",
+    "5" : "s(@UK) dbo:industry o'<E-procurement>",
+    "6" : "s(@UK) dbo:location o'<United_Kingdom>",
+    "7" : "s(@UK) dbo:location o'<Aldermaston>",
+    "8" : "s(@UK) dbo:location o'<Berkshire>",
+    "9" : "s(@UK) dbo:type o'<Public_company>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10644",
+  "entityUrl" : "http://dbpedia.org/resource/@radical.media",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(@radical.media) dbo:wikiPageRedirects o'<RadicalMedia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10645",
+  "entityUrl" : "http://dbpedia.org/resource/@lantic",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(@lantic) dbo:foundingYear o'<1996>",
+    "2" : "s(@lantic) dbo:industry o'<Telecommunication>",
+    "3" : "s(@lantic) dbo:keyPerson o'<Chief_executive_officer>",
+    "4" : "s(@lantic) dbo:keyPerson o'<Wikt:founder>",
+    "5" : "s(@lantic) dbo:location o'<Pretoria>",
+    "6" : "s(@lantic) dbo:location o'<South_Africa>",
+    "7" : "s(@lantic) dbo:product o'<Telecommunication>",
+    "8" : "s(@lantic) dbp:logo o'<File:@lantic_Logo.png>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

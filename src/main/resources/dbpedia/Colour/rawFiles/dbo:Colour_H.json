@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity10909",
+  "entityUrl" : "http://dbpedia.org/resource/Heliotrope_(color)",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:cmykCoordinateBlack" : [ "0" ],
+    "dbo:cmykCoordinateCyanic" : [ "13" ],
+    "dbo:cmykCoordinateMagenta" : [ "55" ],
+    "dbo:cmykCoordinateYellow" : [ "0" ],
+    "dbo:colourHexCode" : [ "DF73FF" ],
+    "dbo:hsvCoordinateHue" : [ "286" ],
+    "dbo:hsvCoordinateSaturation" : [ "55" ],
+    "dbo:hsvCoordinateValue" : [ "100" ],
+    "dbo:rgbCoordinateBlue" : [ "255" ],
+    "dbo:rgbCoordinateGreen" : [ "115" ],
+    "dbo:rgbCoordinateRed" : [ "223" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Heliotropium_peruvianum.jpg?width=300" ],
+    "dbo:wikiPageExternalLink" : [ "http://tx4.us/nbs/nbs-o.htm", "http://tx4.us/nbs/nbs-h.htm" ],
+    "dbo:wikiPageID" : [ "4314552" ],
+    "dbo:wikiPageRevisionID" : [ "739942024" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Shades_of_violet", "http://dbpedia.org/resource/Jacques_Derrida", "http://dbpedia.org/resource/Purple", "http://dbpedia.org/resource/Scott_Joplin", "http://dbpedia.org/resource/Thomas_Pynchon", "http://dbpedia.org/resource/Mourning", "http://dbpedia.org/resource/Sci-fi", "http://dbpedia.org/resource/Pink", "http://dbpedia.org/resource/Color", "http://dbpedia.org/resource/Doctor_Who", "http://dbpedia.org/resource/Gallifrey", "http://dbpedia.org/resource/Oscar_Wilde", "http://dbpedia.org/resource/Piano", "http://dbpedia.org/resource/Ragtime", "http://dbpedia.org/resource/Dubliners", "http://dbpedia.org/resource/Leo_Tolstoy", "http://dbpedia.org/resource/RMIT_University", "http://dbpedia.org/resource/University_of_Arkansas", "http://dbpedia.org/resource/Heliotrope_Bouquet", "http://dbpedia.org/resource/Exmouth_RFC", "http://dbpedia.org/resource/Heliotrope_(disambiguation)", "http://dbpedia.org/resource/Louis_Chauvin", "http://dbpedia.org/resource/The_Dead_(short_story)", "http://dbpedia.org/resource/Finnegans_Wake", "http://dbpedia.org/resource/P._G._Wodehouse", "http://dbpedia.org/resource/Sons_and_Lovers", "http://dbpedia.org/resource/English_language", "http://dbpedia.org/resource/Hancock's_Half_Hour", "http://dbpedia.org/resource/House_of_Leaves", "http://dbpedia.org/resource/List_of_colors", "http://dbpedia.org/resource/Victorian_fashion", "http://dbpedia.org/resource/State_University_of_New_York_at_Purchase", "http://dbpedia.org/resource/Galton_and_Simpson", "http://dbpedia.org/resource/Boundin'", "http://dbpedia.org/resource/War_and_Peace", "http://dbpedia.org/resource/Gravity's_Rainbow", "http://dbpedia.org/resource/D.H._Lawrence", "http://dbpedia.org/resource/Dermatomyositis", "http://dbpedia.org/resource/The_Jewel_in_the_Crown_(TV_series)", "http://dbpedia.org/resource/Heliotropium", "http://dbpedia.org/resource/An_Ideal_Husband", "http://dbpedia.org/resource/Tint", "http://dbpedia.org/resource/White_Mythology" ],
+    "dbp:caption" : [ "Heliotrope flowers" ],
+    "dbp:source" : [ "http://tx4.us/nbs/nbs-o.htm", "http://tx4.us/nbs/nbs-h.htm", "Maerz and Paul" ],
+    "dbp:textcolor" : [ "white" ]
+  },
+  "words" : [ "Heliotropium", "de", "attesté", "préférence", "Heliotropum", "fin", "d'après", "avoir", "du", "Peruvianum", "laquelle", "XIXe", "Le", "héliotrope", "précise", "réfère", "variété", "pas", "Auparavant", "violet", "en", ",", ".", "plus", "tons", "ne", "-RRB-", "moins", "selon", "même", "-LRB-", "couleur", "nom", "se", "spéciale", "arborescens", "plusieurs", "clairs", "semble", "créé", "L'emploi", "siècle", "ou", "donnant", "désigne", "une", "fleur", "violette", "la", "comme", "trouve" ],
+  "adjectives" : [ "fleur", "donnant", "une" ],
+  "nouns" : [ "Heliotropium", "de", "Heliotropum", "du", "Peruvianum", "spéciale", "XIXe", "Le", "héliotrope", "arborescens", "clairs", "semble", "L'emploi", "variété", "siècle", "ou", "Auparavant", "violet", "désigne", "violette", "la", "tons", "ne", "moins", "comme" ],
+  "text" : "Le violet héliotrope désigne une couleur d'après la fleur du même nom (Heliotropum Peruvianum, Heliotropium arborescens). Il se trouve en plusieurs tons, plus ou moins clairs, selon la fleur précise à laquelle on se réfère. L'emploi de héliotrope comme nom de couleur est attesté à la fin du XIXe siècle. Auparavant, la variété donnant une fleur violette ne semble pas avoir créé de préférence spéciale. Aussi bien, on trouve aussi souvent le mot héliotrope associé au minéral de ce nom et à l'anneau de Gygès, rendant invisible, qu'à la plante qui tourne ses feuilles vers le soleil. À partir de 1850, le violet, obtenu par les nouvelles teintures d'aniline et autres, sera très souvent à la mode. On a pu utiliser les semences d'une variété d'héliotrope pour colorer en violet les liqueurs."
+}, {
+  "entityIndex" : "entity10910",
+  "entityUrl" : "http://dbpedia.org/resource/Heliotrope_(color)__white__1",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:cmykCoordinateBlack" : [ "64" ],
+    "dbo:cmykCoordinateCyanic" : [ "7" ],
+    "dbo:cmykCoordinateMagenta" : [ "35" ],
+    "dbo:cmykCoordinateYellow" : [ "0" ],
+    "dbo:colourHexCode" : [ "563C5C" ],
+    "dbo:hsvCoordinateHue" : [ "289" ],
+    "dbo:hsvCoordinateSaturation" : [ "35" ],
+    "dbo:hsvCoordinateValue" : [ "36" ],
+    "dbo:rgbCoordinateBlue" : [ "92" ],
+    "dbo:rgbCoordinateGreen" : [ "60" ],
+    "dbo:rgbCoordinateRed" : [ "86" ],
+    "dbo:variantOf" : [ "http://dbpedia.org/resource/Heliotrope_(color)" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity10911",
+  "entityUrl" : "http://dbpedia.org/resource/Harvest_gold_(color)",
+  "dboClass" : "dbo:Colour",
+  "properties" : {
+    "dbo:colourHexCode" : [ "E6A817" ],
+    "dbo:rgbCoordinateBlue" : [ "23" ],
+    "dbo:rgbCoordinateGreen" : [ "168" ],
+    "dbo:rgbCoordinateRed" : [ "230" ],
+    "dbo:wikiPageID" : [ "35268602" ],
+    "dbo:wikiPageRevisionID" : [ "670777074" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Category:Shades_of_yellow", "http://dbpedia.org/resource/Color", "http://dbpedia.org/resource/Kitchen_appliance" ]
+  },
+  "words" : [ "gold", "whitish-gold", "color", "appliances", "kitchen", "Harvest", "popular", ".", "1970s" ],
+  "adjectives" : [ "whitish-gold", "popular" ],
+  "nouns" : [ "gold", "color", "appliances", "kitchen", "Harvest", "1970s" ],
+  "text" : "Harvest gold is a whitish-gold color popular with kitchen and other appliances in the 1970s."
+} ]
