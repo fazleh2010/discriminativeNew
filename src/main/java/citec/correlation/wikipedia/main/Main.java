@@ -40,7 +40,6 @@ public class Main {
        // classFileNames.add(PropertyNotation.dbo_Album);
         //classFileNames.add(PropertyNotation.dbo_Book);// no data
         classFileNames.add(PropertyNotation.dbo_Company);
-        /*classFileNames.add(PropertyNotation.dbo_Company);
         classFileNames.add(PropertyNotation.dbo_Country);
         classFileNames.add(PropertyNotation.dbo_Currency);
         classFileNames.add(PropertyNotation.dbo_Film);
@@ -48,7 +47,7 @@ public class Main {
         classFileNames.add(PropertyNotation.dbo_Mountain);
         classFileNames.add(PropertyNotation.dbo_Place);
         classFileNames.add(PropertyNotation.dbo_River);
-        classFileNames.add(PropertyNotation.dbo_TelevisionShow);*/
+        classFileNames.add(PropertyNotation.dbo_TelevisionShow);
 
 
         for (String dbo_ClassName : classFileNames) {
